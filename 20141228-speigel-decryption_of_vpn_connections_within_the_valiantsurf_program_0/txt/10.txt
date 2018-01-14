@@ -1,0 +1,101 @@
+VALIANTSURF - Wikilnfo
+
+(TS/ISIl/REL) DNC Decrypt
+I (TSI/Sll/REL) Spin12 VPN Decrypt Test Document -
+(U/IFOUO) LONGHAUL Test
+LONGHAUL Test Documentation Page
+(Ul/FOUO) One CA Server Toggled among Multiple TURMOILs
+
+(Ul/FOUO) This section describes a network design to have one CA server serve multiple TURMOILs. Note that a CA Server can
+only communicate to one TURMOIL at a time.
+
+Motivation:
+
+. Power/space/cooling limitations
+
+. Long lead time to gain approval to add CA Services servers
+. Hardware cost
+
+. Limits on public IP address space at some sites
+
+rhbdNr—I
+
+Click for details on the CA Server Bank.
+
+For more information, Contact one of these POCs
+"ML Network Engineer
+CA Services Developer
+TML Integration and Test
+
+TURMOIL Lab Manager
+T1 VS Thread Lead
+
+(U) Deployments
+
+VALIANTSURF Deployment Roles S; Responsibilities
+(U) CIET Deployment Overview A
+(U) VALIANTSURF Levels of Success -
+
+(Ul/FOUO) VALIANTSURF RFC and DR Needs for TURMOIL Baseline Deliveries 2011
+(Ul/FOUO) VALIANTSURF RFC and DR Needs for TURMOIL Baseline Deliveries 2010
+I [TSI/SIHORCON/REL) RFC DR Needs TURMOILBaselines -
+
+(U/lFOUO) Live Dataﬂow
+
+(U/IFOUO) TURMOIL Installations
+
+I I
+:~ -I- i
+:' Lorin; Lu: ] :
+
+(Ul/FOUO) IPsec/IKE Metadata Routing
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TUBE TUBE LIA?EORDER METROTUBE ME’
+Site SIGAD MAILORDER MAILORDER S System Route MAILORDER MA
+. ystem .
+PDDG Trigraph . PDDG Trig
+Digraph
+
+via
+AH HXN 51 MHS-LIVE-T16 NSAW OO TYG
+
+via
+MHS LATTICE USJ-759 KY EXM 52 MHS-DEV—Tlﬁ NSAW OO TYG
+
+via
+N/A N/A N/A MHS-DEV—TIG Site KY TYG
+
+Store
+
+MHS-STARQUAKE USJ-759A AH HXN 51 MHS-LIVE-T16 NISAW OO TYG
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10 of 13
+

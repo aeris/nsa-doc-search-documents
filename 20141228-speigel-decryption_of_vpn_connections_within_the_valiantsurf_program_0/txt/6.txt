@@ -1,0 +1,186 @@
+VALIANTSURF - Wikilnfo
+
+TOP SECRETIICOM‘N WREL To WE?
+m- --«3 ..-._ ; .-.-.\ ... |..::.:..:.;...i' ||“"“' ' Ilullltﬂlmm || ‘ .2.
+.
+.
+.
+
+  
+
+_..uu.~....._. a"...
+
+‘ a..- . u _
+’~' ' DUI.- I
+.. ..~....,m.
+
+ 
+
+“an“ run-mu.
+
+..o..nmn-I—> .. p: __.
+.m—... u...._.._.
+—Ix-um—rvrv—p,l I". ""‘""“'""' O—‘IIK‘IIﬁ _I ‘ 1
+-..- lv _ '—m-r"—“ "H_ n “
+”um I _ _ _.:IL_. u...- ‘
+b
+
+.x
+... -i...~.~.. -
+Know“: ummq’: w ‘ “mu?
+an-uwvﬂllu—D‘ ,. ""‘:..~-..' ‘
+M-u.n.—.-uv
+Managua... m
+._.____. n,
+mn-p—Ivvuﬁ n-
+
+mu..- .4
+
+v
+_ .. u...“ mm.
+kw "yr-«um
+”m, g "H“...
+m
+. ‘ _ .,
+. . W _...'.,..-...._.
+we,“ ., :. win—Ivu:10--:wlvlvn-lm.cu_n~n:nl
+4. n-u- _ .; .
+
+ 
+
+ 
+
+Inn-WGIMM-Ii.‘ : "Eu“. A“
+
+-hn-Iv| ‘_n-=-m-¢*
+n...»
+
+(TSHSIIIORCONHRED Detailed Turmoil DNC Decryption Sequence Diagram
+
+(TS/ISIIIREL) DNC Survey Flow
+
+I [TS/ISI/IREL) The DNC Survey Flow detects, decrypts selected communications that are encrypted using IPsec; then
+sessionizes the unencrypted packets and sends the sessions to XKEYSCORE. The DNC eventing [PPF) components in
+TURMOIL detects all IKE/ISAKMP and ESP packets and queries KEYCARD for each unique IKE exchange session and each
+unique ESP session to determine if the link should be selected for processing. Tasking is based on IP address. Decryption is
+attempted if either the source or the destination IP address is tasked for decryption in KEYCARD [the KEYCARD tasking
+action is labelled “TRANSFORM“ so as not to use the term “decrypt"). If KEYCARD returns a hit for an IKE packet, then the
+IKE packet is sent to the POISONNUTtDNC Attack Orchestration) Service. If KEYCARD returns a hit for an ESP packet, a
+key request is sent to POISONNUT A POISONNUT response message will either return the key or indicate that a key could
+not be recovered. If a key is recovered, the ESP packets are decrypted and re—injected into TURMOIL for sessionization. If
+KEYCARD also associated a “SURVEY" action with the DNC Tunnel IP-Address the encapsulated sessions are sent to
+XKEYSCORE. The DNC Survey flow requires that both "TRANSFORM" and "SURVEY" actions are assigned to a targeted
+IP-Address.
+
+{TS/ISIHREL) All DNC Decryption functions and communications with POISONNUTtand a DNC Metrics service) are hosted
+on a specially conﬁgured TURMOIL processor called a CA Server All CA Server software is loaded and administered by CES
+approved and CA Server authorized administrators. The CA Server is ﬁrewalled and effectively functions as an extension of
+the CES enclave. In the future all communications between the CA Server and the CES services (POISONNUT, DNC
+Metrics) will use a secure jMS messaging service based on the ISLANDTRANSPORT/ ISLANDHIDEAWAY infrastructure.
+
+TOPWSWECRHETHCOMINTHREL 'roru SA; FvEY
+
+Internal Kay Exam we(IKE).rlmarnalSacurity Association KayIManagamam Protocol (ISAK P) _
+Authentication Header AH IEnca-usuazin Secuit 3a Dad ESP ‘
+
+VPN1
+T Soﬁe! Connetllun
+
+C. SelectorHil OuemRsponse
+
+VFN1B
+
+1' SECHI'ESOCKEHSSLJ
+
+C: PID Blade Management
+
+. ﬁrs”? ...... , —————— >l 99‘} ’ CESl
+
+ 
+   
+   
+ 
+
+   
+ 
+    
+
+3:11!th
+
+  
+
+ 
+
+ 
+
+VPNT
+T SDCIIQI CGMQCIIDII
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+c Entryﬂaﬂ and Darwin:
+Mpllt Elm SESSIONS . ‘ - Rescumes
+F" SOTF Gnd
+‘ VF'N Resource I
+ﬁll: \ attics Allocation
+m.......... T tam;
+_F_' £392”— _____ _ _ _.
+
+ 
+
+ 
+
+ 
+
+KEaYSCG -
+
+VPNJ
+T in:
+C. ESP Key REQ-‘Res
+
+ 
+
+  
+
+CORAL
+Cryptovnnnmu REEF
+
+CES Fi ewal
+
+Attack
+Orchestrator
+(A0)
+
+ 
+
+ 
+
+POISON NUT
+
+ 
+
+ 
+
+ 
+
+ 
+
+- J
+(TSHSIHREL) VPN Survey Dataflow
+
+60f13
+

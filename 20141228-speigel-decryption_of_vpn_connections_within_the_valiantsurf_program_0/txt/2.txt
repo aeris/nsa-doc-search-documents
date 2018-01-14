@@ -1,0 +1,84 @@
+VALIANTSURF - WikiInfO
+
+(U) Ofﬁciai CES Classiﬁcation Guide
+
+- {UHFOUO) CEs CRYPTA'NAI ysm 02-12 r—
+. nwroum CTASSlFlCATION nUinF FOR ECI PICARESQUE (PIQ) 02—10 (—
+
+(U) Guidelines
+
+I (UHFOUO) The fact that NSA is interested in DNC is UHFOUO.
+I (Sf/REL) Just the fact that NSA does work with DNC is classiﬁed.
+I (SI/REL) If the only information given is that you are a DNC expert or you work on DNCs, then the classification is
+SHREL
+I (TS/lSI/lORCON/REL) If the information given is that you decrypt DNCs, the classiﬁcation is, at a minimum TSHSI
+l/ORCON/IREL
+I (TS/fSlj/ORCON/REL) If the fact of DNC exploitation is mentioned or inferred (with or without mention ofa speciﬁc
+target or person), the classification is TSHSIHORCONHREL
+I (TS/lSI/lORCON/REL) The decryption results are classiﬁed, at a minimum, TSHSIHREL
+
+(TS/lSI/lORCON/REL) The classifications above are the minimum classiﬁcations. A higher classification may be reguired
+depending on the rest of the content. For example, mentioning you work on DNCs is SECRET/[REL but if you mention you work
+on DNCs and are in CES, the classification should be TS/fSlj/ORCONHREL since CES deals with exploitation.
+
+(U) DNC Protocols
+
+(U) IPsec
+
+(U) The IPsec DNC protocol suite comprises the following protocols: .
+File:DNC IPSEC
+
+- (U) ISAKMP — Internet Security Association and Key Management Protocol (RFC 2407, RFC 2408) Operation-1P9!
+provides an authentication and key exchange framework. (U) IPsec DNC
+I (U) IKE — Internet Key Exchange vl (RFC 2409) and v2(RFC 4306) provide an authentication and Operation
+
+key exchange mechanism.
+
+I (U) ESP , Encapsulating Security Payload (RFC 2406) provides traffic confidentiality (via encryption) and optionally
+provides authentication and integrity protection.
+
+I (U) AH — Authentication Header (RFC 2402) provides integrity and authentication protection the includes immutable IP
+header fields. This differs from ESP integrity protection that does not include the IP header.
+
+(U) PPTP
+
+(U) The Point-torPoint Tunneling Protocol (PPTP) was developed in 1996 by the PPTP Forum, comprised of Ascend
+Communications, US. Robotics, 3Com, Copper Mountain Networks, ECI Telematics, and lead by Microsoft.
+
+(U) The Microsoft implementation of PPTP (RFC 2637) permits the data link layer protocol, Point-to—Point Protocol (PPP) (see
+STD-0051), to be tunneled through an IP network, encapsulated within an enhanced/modified Generic Routing Encapsulation
+(GRE) transport protocol (IP Next Protocol 47). The contents of the PPP data is normally IP network protocol packets for a
+private network, but can also carry any other Local Area Network (LAN) protocol, like Microsoft NetBEUI or Novell IPX/SPX.
+(U) Microsoft PPTP (MSrPPTP) permits the encapsulated PPP data to be authenticated using either version 1 (RFC 2433) or
+version 2 (RFC 2759) of the Microsoft extensions to the PPP Challenge Handshake Authentication Protocol (CHAP) (RFC 1994),
+
+and to be encrypted using RC4 with key lengths of 40, 56, or 128 bits (RFC 3078, RFC 3079). The mode of the encryption is
+negotiated and key lengths are exchanged using the PPP Compression Control Protocol (CCP) (RFC 1962).
+
+(U) HOOKED
+
+(TS/ISIIIREL) HOOKED HAND is a DNC protocol used in a commercial DNC product.
+
+(U) CINDER
+
+(TS/fSI/lREL) CINDERASH/TRACK are ESPrlike protocols that use nonrRFC deﬁned fields.
+(U) DNSC
+
+(TS/ISIIIREL) DNSC is
+
+SCARLETFEVER SSL Brief -
+
+(U) TU DNC Products
+
+(SI/SIIIREL) IPSec DNC Products
+
+(S/fSlj/REL) The TU DNC products are the outputs of four processing data flows:
+
+I (S/lSI/IREL) The TU DNC Metadata ﬂow collects metadata about IPsec (IKE/ISAKMP and ESP) events then forwards the
+metadata to follow—on SIGINT Development (SIGDEV) systems.
+
+I (TS/lSI/IREL) The TU DNC Decryption ﬂow detects IPsec communications, selects by IP—Address, decrypts the trafﬁc
+selected for decryption, and re—injects the encapsulated (cleartext) content into TURMOIL for processing.
+
+20f13
+

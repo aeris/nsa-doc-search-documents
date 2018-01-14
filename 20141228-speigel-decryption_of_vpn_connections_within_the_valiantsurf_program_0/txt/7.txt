@@ -1,0 +1,180 @@
+VALIANTSURF - Wikilnfo
+
+ 
+
+TOP SECRETJI‘COMIN TUREL TO USA. FVEY
+
+-.--- --
+> I
+
+hip-mess r Acnm = TRANSFORM ll. SuRvEV—II}
+ﬂ IKE — u 1
+
+'ﬁCkel I
+
+e—IKE TaIgeI cum—-:-l
+
+A. - -q —l ICE Target Response-e
+IF[ TRANSFORM 1: I
+
+"_ Sesslunlze IKE
+
+ 
+
+ 
+
+IK
+-_SESJDI1.%
+V
+
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+
+.—I E55
+Iii—Packet -.
+
+I
+I
+I
+I
+I
+l
+L
+I
+I
+I
+I
+I
+I
+
+    
+     
+
+6 Socket
+
+@ MAILORDER
+0 ISLANDTRANSPORTUMS)
+® ISLANDHDEAWAY
+
+6—539 TalgeI Omar—U.
+'—--q—ESP Talgal Rename—é
+IF[ TRANSFORM I I
+‘5
+
+Sessmnlze ESP
+
+   
+
+ 
+
+ 
+
+ 
+
+‘—
+ragga.» 6) Secure Socket (HTTPS)
+m rm: Ke n I T
+v I ~ : :
+I
+' I
+I
+_ V :59 “E! n l . I .
+IF| Key Recavered| ': ‘ VD : E
+. - I
+Decrypl lo leaner encapsulaled padIeIs : i
+I
+@‘ “"."" Mal-:9 (SON—m . E
+Dewmpless.
+and Esslanue | I Relnled recmreled mcapsulated Mikels I:
+Recoveed ' . __ :
+P c I
+a has 'IIFI SURVEY] :
+«- .-' :
+e—tuapllcahon SQSSIDn—. :
+I
+H' "0 Beds .
+
+ 
+
+ 
+
+(TSHSIHREL) VPN Survey Sequence
+
+(SHSll/REL) DNC Analyze Flow
+
+I {TS/ISI/IREL) The DNC Analyze Flow selectively collects IKE/ISAKMP packets and raw, encryted ESP packets that are
+sessionized and forwarded to PRESSUREWAVE for analysis. The DNC eventing (PPF) components in TURMOIL detect all
+IKE/ISAKMP and ESP packets and queries KEYCARD for each unique IKE exchange and each unique ESP session to
+determine iﬁ the link should be selected for analysis. Tasking is based on IP address. 15 KEYCARD returns an “ANALYZE”
+action for any IPsec packet hit, then the IPsec packet is sessionized and sent to PRESSUREWAVE.
+
+ 
+
+SECRETII'COMINTHREL TO USA, FVEY
+
+ 
+
+Inlemel Key Exchange (IKEII f Inlernel Securlty Associall‘on Key Management Protocol (ISAKMP)
+
+ 
+
+H
+
+Encapsulallng Security Payload (ESP)
+
+ 
+
+M
+
+7
+um um
+1': 5mm Dunn-cum 1: Social Conn-mm
+C. IPsec Facials Same IcII Analysls CI Salado: HII Ouuylﬂasponsa
+fiﬁplf ................................... FBIHW.
+Imam
+: VPNS T — transom
+' 1‘ MAILORDER I: = Conlanl
+: c: IPs-c Paul-II: Smocked In: Analysts animal F = Fumul
+
+ 
+
+ 
+
+' F- 501;
+C: IPsec Facials Saleem-d lot Analyse
+F' XMUSOTF
+
+\ SECRETHCOMINTHREL To USA. FVEY
+(TSHSIHREL) VPN Analyze Dataﬂow
+
+ 
+
+ 
+
+ 
+
+ 
+
+70f13
+

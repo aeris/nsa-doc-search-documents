@@ -1,0 +1,73 @@
+VALIANTSURF - Wikilnfo
+
+. (U)_'531322(CON) Integration & Test Engineer
+
+Team Alias: DL Valiantsurf (manta:—
+
+(U) Stakeholders
+
+ 
+
+(U) VALIANTSURF Historical -
+
+(Ul/FOUO) Deployment Documents
+
+I (SI/SI/IREL) Spin 11/12 Metadata Flow management -
+
+I (U) Spin 9 VPN PIQ Blade Version Description Document (VDD) for MHS, YRS, TEC -
+I (U) Spin 9 MHS PIQ Blade Baseline Change Request -
+
+I (U) Spin 8 VPN TML Test Checklist 20070416 ‘-
+
+I (U) Spin 8 VPN MHS Checklist 20070416 -
+
+(U) Design Reviews and Technical Exchanges
+
+I (S/lSI/IREL) VPN TU IT meeting minutes 1 May 2009 -
+
+I (S/lSI/IREL) VPN/TUMMS requirements meeting minutes 23 April 2009 -
+
+I (S/lSI/IREL) VPN TUBE Metadata Bundle Classiﬁcation meeting minutes 3 April 2009 -
+
+I (S/ISI/IREL) Brief to YRS during TDY 17—21 Nov 2008 -
+
+I (S/ISI/IREL) Spin 12 TURBULENCE VPN Technical Review -
+
+I (S/lSI/IREL) Spin 10 TURBULENCE VPN Technical Review Minutes ‘-
+
+I (S/lSI/IREL) Spin 10 TURBULENCE VPN Technical Review -
+
+' (S/lSI/IREL) Spin 10 VPN / ISLANDTRANSPORT / ISLANDHIDEAWAY Technical Exchange 20080124 Meeting Minutes '
+I (SI/SIl/REL) Spin 10 VPN / ISLANDTRANSPORT I ISLANDHIDEAWAY Technical Exchange 20080124 Meeting Agenda ‘
+I (S/lSI/IREL) Spin 9 TURBULENCE VPN Design Review '
+
+I (S/lSI/IREL) Spin 9 TURMOIL VPN Design Review Minutes ~
+
+I (S//SI//REL) Spin 9 TURBULENCE VPN Design Review Minutes ‘-
+
+(U/IFOUO) VALIANTSURF Activity Leads Status Review
+(S/lSI/IREL) The VALIANTSURF Activity Leads Status reviews are held bi-weekly on Mondays throughout the Spin. The purpose
+
+of this review is to discuss the major goals and status of activities taking place. Any roadblocks that would cause a failure in
+meeting the established goals should be discussed at this time.
+
+(U) VPN Thread Schedules
+
+l (U/lFOUO) Spin 11 VPN Sprint Schedule ‘
+I {U/lFOUO) Spin 10 VPN Sprint Schedule ‘-
+
+(U) Pages of Interest
+
+l (U/lFOUO) TURMOIL VALIANTSURF
+' (U/IFOUO) TURMOIL GALLANTWAVE
+
+C atego ry : VPN
+Derlved From: SI Classiﬁcalion Guide, 02-01, Dated: 20060711
+and NSNCSSM 1-52. Dated: 20070108
+
+Declassy On: ZDBZDIDE
+
+TOP SECRETHSIHORCONJREL TO USA. FVEY
+
+13 of 13
+

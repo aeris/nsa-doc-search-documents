@@ -1,0 +1,142 @@
+VALIANTSURF - WikiInfO
+
+(Ul/FOUO) Deployments and Development systems
+
+[U/IFOUO) VAL1'ANTSURF TURMOIL components are deployed directly to the TURMOIL systems.
+
+(Ul/FOUO) The VALIANTSURF mission-application is deployed on the CAServer platform. See CAServer#Deployments for site
+
+speciﬁc conﬁguration.
+
+(Ul/FOUO) CIET Deployments
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Site Type lCurrent TURMOIL Next TURMOIL lHardware 'CA Server IComment
+JCE ‘Dev lUnknown VCore 3.0.10 ‘1—BCH none lnone
+MHS ESO Dev Unknown TBD TBD none none
+SMKGZ Dev 18.1.5 Core 3.0.10 TBD TBD none
+SARATOGA Live 17.1 ‘Core 3.0.10 ITBD TBD none
+MUSCULAR Live 18.1.1 18.1.5 TBD TBD none
+SMK Live 17.1 Core 3.0.10 TBD TBD none
+CROSSCUT Live 15.6.1 lCore 3.0.10 ITBD TBD none
+MHS Live 15.6.1 Core 3.0.10 TBD TBD none
+TEC |Live 115.61 ”15.6.1 TBD TBD lnone
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(Ul/FOUO) Monitoring
+
+I [U/IFOUO) CA servers are monitored by the T3332 Data Operations Center {DOC)as part of their TU monitoring
+[SLACKKEYl DOC TU SlackKev Homepaue. To access the TopView TU ORC — DOC
+
+ 
+
+I i[U//FOUO) The VALIANTSURF SOP used by the DOC VALIANT SURF Tab Special Instructions
+
+I i[U//FOUO) During business hours, the DOC uses the following contact list: DOC business hours POC list#VALI'ANTSURF
+
+I i[U//FOUO) DOC After Hours Callein Procedures
+
+I i[U//FOUO) VALIANTSURF CA Server Troubleshooting Guide
+
+(U) Governance
+
+(U) DNC Thread Schedules
+
+(U) VALIANTSURF Thread Status Weekly Meetings 2012
+
+(Ul/FOUO) VALIANTSURF Activity Leads Status Review
+
+[S/lSU/REL) The VALIANTSURF Leads Meeting reviews are held weekly on Mondays. The purpose of this review is to discuss the
+
+major goals and status of activities taking place. Any roadblocks that would cause a failure in meeting the established goals
+
+should be discussed at this time.
+
+(U) Team Members
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+   
+   
+  
+ 
+  
+   
+   
+  
+
+‘S31322 Thread Lead
+
+-Rl,IDA/CCS[CON) Architecture Lead
+S31322[Integree) Architecture Team
+[S31322 Architecture Team
+
+S31322[CON) Systems Engineer
+
+'S31322 Systems Engineer
+
+S31322 Systems Engineer
+
+.fS31322 SW Developer
+
+"531322 SW Developer
+
+S31322 SW Developer
+
+S31322 SW Developer
+
+-S31322[CON) SW Developer
+
+S31322[CON) SW Developer
+
+1531322 SW Developer
+
+S31322[CON) CAS Deployment
+1/S31322[CON) Integration & Test Lead
+S31322[CON) Integration & Test Engineer
+"/S31322[CON) Integration & Test Engineer
+l/S31322[CON) Integration 8; Test Engineer
+
+12 0f 13
+

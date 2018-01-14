@@ -1,0 +1,125 @@
+VALIANTSURF - Wikilnfo
+
+ 
+
+SECRETHCOMINTHREL To USA. FVEY
+-I'_* j I'“ '1 *
+777 7‘ I 7 ‘7 7 | 7 77 | 777
+IKE —.>: : I I
+I Paaet ‘IKE Select‘l‘ : :
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+; Query 2 6 Socket
+I . .L'KE Se'eclé‘ MAILORDER
+IFlANALYZE 1" : Respcmev @
+I '.. I ' o ISLANDTRANSPORT (JMS)
+: : Sessionize IKE (Iii) Secure Socket Layer (HTTPS)
+
+ 
+
+ 
+
+ 
+
+. .
+IF[ANALYZE 1 ; : ;
+' \
+
+Q + I
+
+; Q—lKE Session—m—
+~ ‘ -iKE Session—V
+1 ESP _ . g o .
+— KE S . 900—.
+E, Packet r SF‘ Select : M
+i Query ;
+. I
+. I AESP Selec‘
+I - n-v‘ 5
+IF[ ANALYZE | I: : Resmnse I3
+I
+
+s
+
+n ' l
+: Sessnanize ESP
+
+0" 1
+IF[ ANALYZE |: . g
+\‘I “I :
+—ESP SessiOI I—t-
+I : @—ESP Se ssicn—‘I
+I I I 9—459 Sessiom—p
+|
+
+I I
+SECRETHCOMINTIIREL TO USA, FVEY
+(TSIISIIIREL) VPN Analyze Sequence
+
+ 
+
+ 
+
+ 
+
+(U) Requirements, Planning, and Reviews
+
+(U) Design Details
+
+(SI/SI/IREL) Architectural Taxonomy
+
+I DNCA (Digital Network Crypt Applications) , branch
+I ROMULANALE — Name of project within DNCA that develops capabilities for the CAServer
+I GALLANTWAVE — DNSC project *and* thread on ﬁelded Systems, including TURMOIL and XKS {DeepDive}
+I GW Mission App , legacy capability on CAServer for DNSC decryption
+I ROMULANGAWK — ROMULANALE provided capability on CAServer for DNSC decryption in software
+I ROMULANGOWL — ROMULANALE provided capability on CAServer for DNSC decryption in hardware (pending)
+
+I VALIANTSURF — DNC project *and* thread on ﬁelded systems, currently including only TURMOIL
+I MALIBU — DNC processing architecture for VALIANTSURF on TURMOIL using session based processing
+I PIQServices , capability on CAServer for DNC decryption under MALIBU
+I WAIMEA — DNC processing architecture for VALIANTSURF on TURMOIL using packet stream based processing. This
+covers all configurations of the architecture (software and hardware)
+I WAIMEAVISAGE — DNC WAIMEA processing architecture with decryption performed in software
+I ROMULANVISAGE — ROMULANALE provided capability on CAServer for WAIMEAVISAGE
+I WAIMEAVISE , DNC WAIMEA processing architecture with decryption performed in hardware
+I ROMULANVISE — ROMULANALE pr0vided capability on CAServer for DNC WAIMEAVISE
+
+(UHFOUO) Current DNC Design Documents
+
+I MALIBU Architecture
+I WAIMEA Architecture
+
+(U) Design Reviews and Technical Exchanges
+(U) Technical Documents
+
+I {SI/SIHREL) IPsec Sessionization -
+
+I {SI/SIHREL) HOOKED Sessionization
+
+I (SI/SIHREL) CINDER Sessionization
+
+I {SHSIHRED PPTP Sessionization
+
+I {SI/SIHREL) New Protocol {IPsecESRPPTRHOOKED,CINDER) Specification ~
+I {TS/ISIHREL) Turmoil Analysis for Increment 3 -
+
+I I(TS//SI//REL) VPN IKE ASDF data flow _‘
+
+I {TS/ISIHREL) VPN IKE ASDF Sequence Diagram _'
+
+I I(TS//SI//REL) APEXW’PN Data Flow -'
+
+I {TS/[SINREU APEXWPN Sequence Diagram .‘i
+
+80f13
+

@@ -1,0 +1,191 @@
+VALIANTSURF - Wikilnfo
+
+sessions with ESP sessions. A LONGHAUL response message will either return the key or indicate that a key could not be
+
+recovered. If a key is recovered, the ESP packets are decrypted and re-injected into TURMOIL for further processing.
+
+I {TS/lSI/lORCON/IREL) All DNC Decryption functions and communications with LONGHAUL, speciﬁcally POISONNUT, the
+
+Attack Orchestrator {and a DNC Metrics service via POISONNUT) are hosted on a specially conﬁgured and dedicated
+
+TURMOIL processing host called a CA Server. All CA Service blade software is loaded and administered by CBS approved
+and CA Services authorized administrators. The CA server is firewalled and effectively functions as an extension of the CES
+enclave. In the future all communications between the CA Server and the CES services [LONGHAUL DNC Metrics) will be
+
+a secure JMS messaging service based on the ISLANDTRANSPORT .f ISLANDHIDEAWAY infrastructure.
+
+ 
+
+TOP SECRETNCOMINTHREL TO USA. FVEY
+
+UPNE
+T Sat Ice: Donna“ on
+
+T socwelcmnewm
+1: 521mm“ Guewlﬂzspunse
+
+ 
+
+     
+   
+  
+ 
+   
+ 
+ 
+ 
+
+   
+ 
+ 
+ 
+ 
+  
+    
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+    
+ 
+ 
+ 
+  
+  
+   
+
+1 E ﬁght!
+c swieawmisym' 23:23.0... " 1?, Y'x'wm
+C - Cull '
+T Secure Sucks! (ESL) r - Wu;
+C PID Bade Management
+a F WeDSA
+' seemed Appmamn ess-om ' _ _ _ ' _ '
+ave cent-ﬂed and selecled 1mm HPC
+medmyped name exuamd . Rmmeg
+l'mm me VPII lunnel and Insened GM
+IMO [ﬁe TURMOII. Iﬂpul stream l
+wus E l RESCUE!” I
+= w umonoen WM 3 - ‘Nlocmlon
+: C Sex-(led Awltamn Sesm' T ITItJMSJ -_- m l Man Of
+. s-so c IKE Messages (3 g ’- ‘ (G )
+F I ._
+. “(SCAN . __ __ _' I.L . _. a a .
+VPN: 5 ﬁ 2 .5 g 8
+. T IT: (JMSJ u .3
+WM E c Esp Key Readies a” U 8 5 5 Q: 5""
+T ”xvii-3‘1..." mm... F ”“50”! O . __ '§ c M“ CORAL
+0 WWW 5.5%- 2 o “'9'” REEF
+F musc'rF
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(TSHSIHORCON/JREL) VPN Decryption Dataﬂow
+
+ 
+
+F
+DNC in Address ....... KEYCARD J
+Saracmr Lookup
+S ”mm, r—ﬁ\ Transformed
+DNC _-'[ vscAseNef «— DNC‘ —'|
+Sessions \_‘_/ Packets
+
+ 
+
+ 
+  
+  
+
+DNC
+
+DNC
+Meradala- - FALLOUT I‘-Msmdal’e-
+.' (ASDFJ {ASDFJ
+
+VALIANTSURF Spin 22
+December 7. 2010
+
+TOP SECRETNCOMINTHREL T0 USA. FVEY
+(TSHSIHORCON/J'REL) Simple VALIANTSURF Dataﬂow
+
+Strung Selected
+SESSIONS
+
+ 
+
+ 
+
+ 
+
+    
+ 
+
+. I
+c .
+‘. DNC Key Recovery
+0 Megs
+‘ l
+' __y_
+. .
+'. LONGHAUL Selected Packers Survey Sessms
+0. POISON NUT Imm DNC Imm DNC
+\—
+.
+Q
+I
+|
+“ Strong
+" 88:33:”: Selected Sessmrls Survey Sessnms
+DNC mm mac: rm DNC
+Meradara * '
+‘ . . .91an
+
+'~. _ _ SelectedDNl
+. .. .....‘ sessions
+
+ 
+
+ 
+
+40f13
+

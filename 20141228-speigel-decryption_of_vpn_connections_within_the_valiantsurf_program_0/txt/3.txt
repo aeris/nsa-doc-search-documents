@@ -1,0 +1,176 @@
+VALIANTSURF - Wikilnfo
+
+l ‘[TS,f/SI.f/REL) The TU DNC Survey ﬂow forwards to
+XKEYSCORE all encapsulated {cleartext} sessions that are
+selected by IP-Address for decryption by the TU DNC
+Decryption ﬂow that are also marked for SIGDEV.
+
+I [SI/SI/IREL) The DNC Analyze ﬂow selects by IP—Address
+IKE/ISAKMP and ESP packets that are then sessionized
+and forwarded to PRESSUREWAVE for analysis.
+
+(U) Spin History
+
+[TS/lSI/IREL) Spin 9 efforts transitioned ﬁelded DNC software
+from the Red TURMOIL {TML} architecture to the Blue and
+implemented a redesign of the decryption ﬂow that reallocates
+some functionality between TURMOIL and the DNC Attack
+Orchestrator (VAC).
+
+[TS/ISI/IREL) Spin 10 eEforts started development of a
+decryption capability that can be deployed to SMK, improved
+DNC detection and processing capabilities, and developed the
+DNC Analyze ﬂow.
+
+(SI/SI/IREL) DNC Metadata Flow
+
+W
+kammIP-nu
+“null-14 sum-value“
+mm IVA-1W Hm {mm W
+
+-' VPN madam un- IE and WE”
+-W
+
+Him-um
+
+  
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Tum-I 91de
+D sgcunmnmu
+Elm-Jung Eng-(Ir, mm gasp)
+
+Salaam upﬁulian nuiunl mama-a [rum
+.. m nunm Idnam Inn-mum am Ina—um
+Imam
+
+. Wu Inna-numb: («canal-an "w
+- ”m- mum.
+
+.. [mum-a m «um nan hr mama
+“""E Dal-b-
+I - PI I
+ID Scan, (IPIICH
+mun-Mam lum- WI):
+Emma-II; 9mm- ”W [ESPJ
+
+Emmi-d VPN uninh- ammonium-mm
+3' m- llll In animal mm no women In.
+11W
+
+Ymﬂnlm I Sun!“
+1mm 551m 5 NoTIm
+
+ 
+
+m 55...,
+f'I'II'EII'" I Indra l Mitt-w 5 Sum!
+
+(TSI'I'SII'I'REL) T'U VPN Products
+
+I [TS/ISI/IORCON/IREL) The DNC Metadata Flow collects metadata about IKE/ISAKMP and AH/ESP events and forwards the
+
+metadata to follow-on SIGINT Development [SIGDEW systems.
+
+I {TS/ISI/IORCON/IREL) All IKE/ISAKMP packets seen in the incoming data are collected, bundled and then sessionized
+within TURMOIL. Then the metadata is extracted, converted to ASDF and then sent to the ASDFReporter component within
+TURMOIL. The ASDFReporter gathers all ASDF generated within TURMOIL and sends the bundles to FALLOUT via TUBE.
+FALLOUT delivers the metadata records to the appropriate destinations. The IPSec IKE metadata all goes to TOYGRIPPE via
+MAILORDER. TOYGRIPPE is a DNC analytic database in CBS used by the cryptanalysts in conjunction with a vulnerability
+
+database to determine exploitability.
+
+I {TS/ISI/IORCON/IREL) Sampled AH/ESP packets seen in the incoming data are collected, metadata is extracted per session,
+and the metadata is converted to ASDF and sent to the ASDFReporter within TURMOIL. The ASDF records follow the same
+
+paths as the IKE Metadata above.
+
+SECRETHCOMINTHREL TO USA. FVEY
+
+Internal Key Exchange :IKEyl Internet Secumy Assocmnon Key ' .lanagemeﬁl Proiocol IISA <MPI
+
+uuuz. um
+
+T 30:“lean
+C IPseulKE Records
+
+| 1_
+
+VKJKFJI'ID
+
+I MAILORDER
+
+c lPsecI'lKE l-leladalz |
+
+F ASDF [LIKE-MD:
+T MNLORDER
+c IPsI‘HlKE Helms
+F'ASD'F
+
+(TSHSIHORCON/IREL) VPN IKE Metadata Dataﬂow
+
+SECRETIICOMIN THREL TO USA. FVEY
+Aunemmat on HaaaenAH) ’Encapsulatzng Seculty Payload IESFI
+Vs-EIP-IDI
+
+1' Some! Cunnectlun
+C IPseclESP Melada‘a Bundles
+Ifl-IIIAIHE
+
+' TUBE ' F ASDFII'I SOTF
+T MAILORDER 14—...
+
+C IpSetlEEP Melauala : VS-EiP-IDI
+F ASDF 1" MAILORDER
+C IPsec-ESP Metadata
+
+(TSHSIHORCON/IREL) VPN ESP Metadata Dataﬂow
+
+(TS/lSIl/ORCONI/REL) DNC Decryption Flow
+
+— TOYGRIPPE !
+J
+
+I-nx Ha I- n- ,
+1- ITIansporl I
+C= Conlenl
+
+J
+
+D
+
+ 
+
+Ill‘r'er kr-
+
+ 
+
+ 
+
+/'—\‘
+
+>%
+(LOYGRIPPE
+
+ 
+
+J
+
+I {TS/[SIHORCON/IREL) The DNC Decryption Flow detects and decrypts selected communications that are encrypted using
+IPsec then reinjects the unencrypted packets back into TURMOIL Stage 1. TURMOIL Stage 1 applications process the
+packets into sessions and when appropriate forwards the unencrypted content to follow-on processing systems. The DNC
+eventing [PPF) components in TURMOIL detect all IKE/ISAKMP and ESP packets and queries KEYCARD for each unique
+IKE exchange session and each unique ESP session to determine if the link should be selected for processing. Selection is
+based on IP address. Decryption is attempted if either the source or the destination IP address is targeted for decryption in
+KEYCARD {the KEYCARD tasking action is labeled "TRANSFORM" so as not to use the term "decrypt"). If KEYCARD returns
+a hit for an IKE packet, then the IKE packet is sent to LONGHAUL where is is used to recover keys. If KEYCARD returns a
+hit for an ESP packet, a key request is sent to LONGHAUL. The IPsec Security Parameter Index [SPI) correlates IKE
+

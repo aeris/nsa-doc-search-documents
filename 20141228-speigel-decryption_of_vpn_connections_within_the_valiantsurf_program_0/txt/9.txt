@@ -1,0 +1,86 @@
+VALIANTSURF - Wikilnfo
+
+I (TS/lSI/IREL) Turmoil VPN Decrypt Sequence Diagram
+
+.-;._-.-A -
+
+ 
+
+I (TS/lSI/IREL) SPIN 15 VPN Storyl -
+
+I (TS/lSI/lREL) Spin 15 TURMOIL Model -
+I (TS/lSI/IREL) S31322 Branch VPN Brief -
+I (TS/lSI/IREL) VS Monitoring -
+
+(U) DNC Enterprise Messaging Fabric
+I (S/lSI/IREL) VPN AMF(lTx)Fabric Diagram
+(SI/SI/IREL) DNC IKE SMG (Replaced Ike Analytic)
+
+I (S) Description — The IKE SMG (Sesionized Metadata Generator) inherited the internal business logic of the IKE Analytic,
+but was reehosted as an iBridge service. There is no longer any connection to PRESSUREWAVE or METROTUBE. The
+IKESMG runs as a CCM graph IPSECilKE MDATA with input from IPSEC EVENT TO BME via IOPort.
+
+I (S) Spin 17 , No Release. Initial version developed but not delivered to TURMOIL
+
+I (S) Spin 18 — Initial Release. Patched Version had verbose logging.
+
+I (S) Core 3.1 — Part of ValiantSurf Shark feather. APEX processing removed. Sessionization by Exchange introduced.
+
+I (S) Core 4.): — Future release compliant with Schema version 8.
+
+(SI/SI/IREL) DNC IKE Analytic
+
+I (S) Spin 15 — No Release. Veriﬁed Spin 14 VIAS runs successfully on Metrotube 2.3.1 (Metrotube Spin 15 version).
+I (U) Other Wiki Links:
+
+I (U_S31321(CON) Analytic Developer
+
+I (S) VALIANTSURF Wiki
+
+I (S) VPN Metadata Flow diagram
+
+I (S) VpnlpsechnLargeDataCharacterization
+
+I (S) Spin 14 — Upgraded Spagic workflow to follow the robust PWV Retriever Pattern.
+I (S) Pattern Comprises separate service assemblies for Listener, Metadata Retriever, DataRetriever, Throttler, and DNC
+wrapper.
+I (S) Error handling and VIAS logging capabilities added.
+
+I (S) APEX (DEMO) , Modiﬁed SOTF Parser and TGIF Record Factory to process Apex metadata.
+
+I (S) Spin 13 — Upgraded Spagic workﬂow to match Metrotube 2.1.
+I (S) Numerous bug ﬁxes relating to T0ygrippe content including Exchanges Types, Message Types, PhaseZAOnly,
+missing transforms(see MadForge DNCeanalytic project for details).
+I (S) Added capability to process Toygrippe ﬁle classiﬁcation determined by DNC Metadata.
+
+I (S) Spin 12 , The VPN Analytic has been renamed as the VIAS (VPN IKE Analytic Service). In this spin, there were 2 major
+changes.
+I (S) First, the analytic was converted to run in the Metrotube 2 framework, as ajSorcerer Service on the Metrotube
+Service Bus.
+I (S) Second, the VIAS is now released by the ValiantSurf (DNC) team directly to Turbulence, where Spin 11 and earlier
+versions were packaged by the DNC team, delivered informally to Metrotube Services who performed the software
+release to Turbulence.
+
+I (S) Spin 1 1 and prior — VPN Analytic runs as a Metrotube 1 service.
+I (S) An improvement to the IkeSessionizer algorithm correctly matched up the initiator and responder by waiting for the
+responder to return a non-ZRC (Zero Responder Cookie).
+
+(U) CIET: Tasking
+
+' (Sf/SI/IREL) Tasking for TEC/MHS/CROSSCUT
+
+(U) Test
+
+VALIANTSURF/TestData
+
+I (Sf/SI/lREL) RFCs Required for TML 18.1 and earlier releases .
+I (Sf/SI/IREL) VALIANTSURF RFCs -
+
+(SI/SI/IREL) DNC Metadata
+I (Sf/SI/lREL) Spinl4 VPN IKE Metadata Test Document '
+
+I (S/lSI/IREL) Spin13 VPN IKE Metadata Test Document ‘-
+I (S/lSI/IREL) Spin12 VPN IKE Metadata Test Document -
+
+90f13
+
