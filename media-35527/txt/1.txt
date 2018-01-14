@@ -1,0 +1,127 @@
+VALIANTSURF - WikiInfo
+
+The accredited security level [If this system is: TOP SEC RETHSI-GAMMAJTALENT KEYHOLEHO RCONIPROPINIRELIDOIREL T0 USA, FVEY *
+
+TOP SECRETIISIHORCONIREL TO USA, FVEY
+
+(U) VALIANTSURF
+
+From WikiInfo
+
+(TS/ISIHREL) VALIANTSURF is the coverterm for the development of Data Network Cipher (DNC)
+
+exploitation capabilities in TURMOIL for integration into the TURBULENCE DNC thread. VALIANTSURF is
+the preferred reference for all TURBULENCE DNC exploitation capabilities since the fact that NSA does
+
+work with DNC's is classiﬁed "SI/REL". The TURBULENCE DNC capability exploits communications
+encrypted with DNC Internet Protocols.
+
+Contents
+
+I 1 (U) Data Network Cipher (DNC) Classiﬁcation
+
+I 1.1 (U) Ofﬁcial CES Classiﬁcation Guide
+I 1.2 (U) Guidelines
+
+2 (U) DNC Protocols
+
+I 2.1 (U) IPsec
+I 2.2 (U) PPTP
+I 2.3 (U) HOOKED
+I 2.4 (U) CINDER
+I 2.5 (U) DNSC
+
+3 (U) TU DNC Products
+
+I 3.1 (S/lSI/IREL) IPSec DNC Products
+I 3.1.1 (U) Spin History
+I 3.1.2 (Sf/SIHREL) DNC Metadata Flow
+I 3.1.3 (TS/ISIHORCONHREL) DNC Decryption Flow
+I 3.1.4 (TS/ISIHREL) DNC Survey Flow
+I 3.1.5 (SI/SIHREL) DNC Analyze Flow
+
+4 (U) Requirements, Planning, and Reviews
+5 (U) Design Details
+
+5.1 (SI/SIHREL) Architectural Taxonomy
+
+5.2 (U/IFOUO) Current DNC Design Documents
+
+5.3 (U) Design Reviews and Technical Exchanges
+
+5.4 (U) Technical Documents
+
+5.5 (U) DNC Enterprise Messaging Fabric
+
+5.6 (SI/SIHREL) DNC IKE SMG (Replaced Ike Analytic)
+
+5.7 (S/lSI/IREL) DNC IKE Analytic
+
+) CIET Tasking
+
+) Test
+
+7.1 (SI/SIHREL) DNC Metadata
+
+7.2 (TS/ISIHREL) DNC Decrypt
+
+7.3 (U/IFOUO) LONGI-IAUL Test
+
+7.4 (U/IFOUO) One CA Server Toggled among Multiple TURMOILs
+I 7.4.1 For more information, Contact one of these POCs
+
+IIIICGIIIIII
+
+8 (U) Deployments
+
+I 8.1 (UHFOUO) VALIANTSURF RFC and DR Needs for TURMOIL Baseline Deliveries 2011
+I 8.2 (U/IFOUO) VALIANTSURF RFC and DR Needs for TURMOIL Baseline Deliveries 2010
+(U/IFOUO) Live Dataﬂow
+
+(UHFOUO) TURMOIL Installations
+
+(UHFOUO) IPsec/IKE Metadata Routing
+
+(UHFOUO) IPsec/ESP Metadata Routing FALLOUT to TOYGRIPPE
+
+(SI/SI/IREL) VAO STATUS
+
+(U/IFOUO) Deployments and Development systems
+
+(UHFOUO) CIET Deployments
+
+I 8.10 (UHFOUO) Monitoring
+
+I 8.3
+I 8.4
+I 8.5
+I 8.6
+I 8.7
+I 8.8
+I 8.9
+
+I 9 (U) Governance
+
+I 9.1 (U) DNC Thread Schedules
+I 9.2 (U) VALIANTSURF Thread Status Weekly Meetings 2012
+I 9.2.1 (UHFOUO) VALIANTSURF Activity Leads Status Review
+I 9.3 (U) Team Members
+I 9.4 (U) Stakeholders
+
+I 10 (U) VALIANTSURF Historical ,
+
+I 10.1 (UHFOUO) Deployment Documents
+
+I 10.2 (U) Design Reviews and Technical Exchanges
+
+I 10.3 (Ul/FOUO) VALIANTSURF Activity Leads Status Review
+I 10.4 (U) VPN Thread Schedules
+
+I 11 (U) Pages of Interest
+
+(U) Data Network Cipher (DNC) Classiﬁcation
+
+ 
+
+10f13
+
