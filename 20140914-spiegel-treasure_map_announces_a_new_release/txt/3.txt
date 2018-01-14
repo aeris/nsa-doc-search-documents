@@ -1,0 +1,48 @@
+SIDToday - TREASUREMAP Announces a New Release
+
+. Router Telnet access list records now available for routers with conﬁguration
+ﬁles*
+0 You now have the ability to identify IPv4 tunneling through IPv6 tunnels (new
+icons]*
+. Improved identiﬁcation and selection enhancements, such as:
+0 Select contained routers directly from registered netblock nodes and
+preﬁx nodes to determine which IP‘s are within the speciﬁed range
+0 Copy and paste from summary pane which provides detailed information
+on selected nodes in a graph
+0 Enhanced graph ﬁnd menu options to easier identify targets on a graph
+0 Data source information more easily accessible on the ﬂy in the Help
+menu (Ctrl+Alt+S)
+o Improvements made to the Graph Compare tool to more easily identify
+changes with the Highlight Layers feature
+0 With one click in the outline View you are able to ﬁnd any node or link in
+your graph
+0 New watermarks will indicate if it is an Analytic Capable Graph*
+1- New double-click functionality
+0 Double-click a network interface, router interface, network, netblock,
+preﬁx or switch to graph public routers
+0 Double-click a wireless access point to show wireless reports
+0 Double-click a cluster to expand
+0 Double click on a saved TREASUREMAP ﬁle to automatically launch the
+TREASUREMAP application to more easily View your graphs and tables
+t Enhanced clustering options
+0 New Automated Cluster options which allow you to create clusters by
+various attributes including AS, Range of IPs, Country and more
+0 Ability to drag and drop nodes into clusters and you can now add and
+attach notes to clusters
+o New option to Show MAC Summaries“
+a Enhanced website functionality
+0 Query and view Traceroutes from the TREASUREMAP website‘s
+Advanced Query tab
+0 Parse IP and MAC addresses from text with the IP MAC Parser now on
+the TREASUREMAP website‘s Tools tab.
+
+* (UHFDUO) NSANet users only.
+
+(UHFDUO) Everyone with access to NSANet or Intelink with a valid PKI certiﬁcate
+can access the system. Type "W" in your browser and download
+the new system today!
+
+(UHFOUO) If you or your ofﬁce would like to see a demonstration, please contact
+
+Sufi-1
+

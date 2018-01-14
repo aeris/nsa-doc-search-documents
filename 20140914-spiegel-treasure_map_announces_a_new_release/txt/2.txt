@@ -1,0 +1,44 @@
+SIDToday - TREASUREMAP Announces a New Release
+
+Run Date: 01/1 1/201 1
+
+(SHREL) 0n lﬂJanuary, the Ofﬁce of Technology Development (V45) released a
+new version of TREASUREMAR the global IP network-mapping and exploration
+system.
+
+. TREASUREMAP on NSANet: ht s: webtreasurerna .
+W11
+
+t TREASUREMAP on JWICS: https:l/gateways.niall.nsa.ic.gov/treasuren1apl
+
+o TREASUREMAP on SIPR: http:llweb.treasuremap.proj.nsa.smilniil}
+
+m'.nsa.ic. ov:7002
+
+   
+
+(SHREL) The TREASUREMAP system provides a near real-time, interactive map of
+the global Internet. “ It shows you the public Internet, everywhere, as it is today."
+
+ 
+
+:1 TREASUREMAP logo
+
+ 
+
+ 
+
+ 
+
+(SHREL) This release of TREASUREMAP on NSANet and JWICS includes many newr
+features:
+
+- Reorganized search pane for increased networking analysis
+
+0 Export router conﬁgurations as OPNET File(.ma); ability to export all router
+conﬁgurations at once*
+
+a Increased traceroute query speed
+
+2of4
+
