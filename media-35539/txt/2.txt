@@ -1,0 +1,49 @@
+© Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
+2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on
+
+Slide 2
+
+   
+
+  
+
+lJK TOP SECRET STRAP1 COMINT
+
+ 
+
+ 
+
+  
+ 
+
+What is Tor?
+
+ 
+
+ 
+
+Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may Fe disseminated
+
+Tor is an implementation of 2nd generation onion routing
+
+  
+  
+   
+  
+  
+   
+    
+
+Originally sponsored by the US Naval Research Laboratory
+Later became an Electronic Frontier Foundation pro'
+Helps to prevent network traffic analysis & surveillaifce
+Open network with over 2000 nodes
+Anonymity tool _ _
+Uses multiple layers of encryption
+
+Multi-hop proxy —
+
+ 
+
+throughout the recipient organisation, bugﬁClﬁQp§Eé§ETrgﬁkﬁimNer dissemination outside the
+

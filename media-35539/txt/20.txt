@@ -1,0 +1,39 @@
+9K TOP SECRET STRAPl COMINT
+
+ 
+
+Possible Exploits?
+
+ 
+
+ 
+
+ 
+
+- Rendezvous Point (RP)
+— What if we owned the RP?
+— Traffic still encrypted, although only a single layer of encryption
+— Still only content, don't know who the user is or where the H8 is located
+— Clients randomly select their RP so unlikely to be picked anyway
+
+  
+
+- Hidden Service Directory (HSDir)
+
+— If we take a HSDir down, there are still many left
+— Could potentially collect onion domains if we acted as a HSDir
+
+° Client
+— No real way to distinguish between a Tor user accessing the web tg-E
+
+© Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
+2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on
+
+Contains Intellectual Property owned anoror managed by uwnersnip bLl‘lU. Ine material may be disseminated
+
+Slide 20 throughout the recipient organisation, bLﬂRngp§Eé§ETWR$iWNV dissemination outside the
+
+ 
+
+ 
+

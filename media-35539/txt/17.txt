@@ -1,0 +1,39 @@
+lJK TOP SECRET STRAPl COMINT
+
+ 
+
+Fitting it together
+
+ 
+
+ 
+
+ 
+
+1. HS selects random IPTs
+
+2. HS uploads descriptor to HSDir
+3. Client finds out about HS /
+
+4. Client requests descriptor from HSDir
+
+5. Client selects a random RP
+6. Client contacts one IPT III]:
+8‘
+
+7. HS replies to RP
+
+8. RP relays between client and HS
+
+ 
+
+© Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
+2000 and may be subject to exemntinn under nther lll( information lpaiqlatinn. Refer diquosure requests to GCHQ on
+i
+
+Contains Intellectual Property owned and/or managed by uwnersnip ULHU. Ine material may be disseminated
+
+Slide 17 throughout the recipient organisation, bWQRCWWEFiWR©EWNV dissemination outside the
+
+ 
+
