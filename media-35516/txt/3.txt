@@ -1,0 +1,33 @@
+-.. i. - "w atiDIl. Technology 7
+
+DH“ orate I I)
+
+ 
+
+ill-IIIIIII
+
+- Link layer: BRAVENICKEL project (optical Muxes)
+
+Copied link is not disguised, just routed on an unused layer
+2 path that a passive collector can monitor
+
+Selection happens in the passive collector
+
+° Network layer: APEX for HAMMERMILL (routers)
+
+Router is tasked to select and exfil targeted traffic (perhaps
+all of a particular protocol)
+
+Exfil is disguised (“munged", encrypted) to avoid detection
+
+Passive collector looks for IP source/destination address in
+order to detect the traffic
+
+If further selection/processing is to be done in collector, the
+exfil must be “unwrapped” (unmunged, decrypted)
+
+EXfiI can be directed to passive or to TAO by changing the
+destination address
+
+TOP SECRET/lCOMlNT/IREL USA, F VEY
+

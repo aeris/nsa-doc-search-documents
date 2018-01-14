@@ -1,0 +1,24 @@
+"“u u "' ation Technology
+
+_!l-I:' I
+
+ 
+
+ 
+
+° Current fields:
+— caseNotation — searchable field
+— sourceID — “The SIGAD of the site that provided the data"
+
+- APEX proposed extension: add
+— Agent CaseNotation
+— Agent ID (UUID)
+— Passive CaseNotation
+- Which caseNotation goes into searchable field?
+— Passive records won't have the APEX block
+
+— TAO-collected records (returned via TAO, not passive) won’t
+have the APEX block
+
+TOP SECRET/[COMINT/IREL USA, F VEY
+
