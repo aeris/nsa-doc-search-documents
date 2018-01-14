@@ -1,0 +1,43 @@
+IOSep 2010
+
+CLOSE ACCESS SIGADS
+Close Access SIGADs
+
+All Close Access domestic collection uses the US-3l36 SIGAD with a unique two-letter
+sufﬁx for each target location and mission Close Access overseas GENIE collection has
+been assigned the US-3137 SIGAD with a two-letter su fﬁx
+
+(Note: Targets marked with an ' have either been dropped or are slated to
+be dropped in the near future. Please check with TAO-RTDROS
+
+_regarding authorities status-)
+
+SIGAD US-3136
+
+Su fﬁx Tare etiCountnr Location Coven enn Mi ssi on
+
+ 
+
+OF FranceJUN New York BLACKPOOT HIGHLANDS
+VC FIElCC-JUN New York BLACKPOOT VACRAN T
+UC FranceEmb Wash, DC WABASH HIGHLANDS
+LO FrancelEmb Wash. DC WABASH PBX
+
+General Term Descriptions
+
+HIGHLANDS: Collection from Implants
+
+VAGRANT Collection of Computer Screens
+
+MAGNETIC: Sensor Collection of Magnetic Emanations
+
+MINERALIZE; Collection from LAX Implant
+
+OCEAN; Optical Collection System for Raster-Based Computer Screens
+LIFESAV'ER : Imaging ofthe Hard Drive
+
+GENIE. Multi-stage operation Jumping the airgap etc.
+
+BLACKHEART Collection from an FBI Implant
+PBX Public Branch Exchange Switch
+
