@@ -1,0 +1,25 @@
+UK TOP SECRET STRAPl COMINT
+The next step
+
+- We are collecting the required logs of packet
+times with TOR guard nodes in SIGINT
+
+- GTE / JTRIG have adapted some TOR exit nodes
+
+we own to collect the required exit node data
+— We are keen to engage with others with exit nodes too
+
+- Then run the attack
+— Expect to basically work
+
+— Some extra work might be required to only allow
+queries on sessions with enough structure
+° Need the bulk data first to progress this question
+
+ 
+
+W - This information is exempt from disclosure under the Freedom of Information AﬂOOOjng mﬂbe sub'ect to exem tion under
+q: C H (P other UK information legislation. Refer disclosure requests to GCHQ onﬁ
+
+© Crown Copyright. All rights reserved.
+

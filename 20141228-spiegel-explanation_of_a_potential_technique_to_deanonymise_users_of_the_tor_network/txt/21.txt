@@ -1,0 +1,22 @@
+UK TOP SECRET STRAP1 COMINT
+R package
+
+- An R package can be downloaded from
+
+0 Includes algorithm and the collected web-browsing
+data
+
+- Recommend R packages for sharing analytics, can
+contain:
+— R / C / Fortran code
+— Example data
+— Runnable examples and documentation
+— Unit tests
+
+ 
+
+4' I \ This information is exempt from disclosure under the Freedom of Information Act 2000 and mav be subiect to exemption under
+(EC H Q other UK information legislation. Refer disclosure requests to GCHQ onl
+
+© Crown Copyright. All rights reserved.
+

@@ -1,0 +1,25 @@
+UK TOP SECRET STRAPl COMINT
+A larger experiment
+
+. We want to find some false hits to understand worst
+case accuracy for the server—to—client direction
+
+. Let’s open the aperture very wide
+— 2027 bearer hours of logs with any time slide
+— Filter to all traffic involving a TOR node
+. Not just likely guard—to—client traffic as before
+
+. We find some false hits (540) but rate is assessed
+to be low enough.
+
+. 92% of false hits are against the big download
+session which has little structure
+
+ 
+
+other UK information legislation. Refer disclosure requests to GCHQ on—
+
+© Crown Copyright. All rights reserved.
+
+r W F This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+

@@ -1,0 +1,41 @@
+UK TOP SECRET STRAPl COMINT
+Flattening of timing patterns
+
+- _(ICTR-NE) observed that TOR can
+flatten out timing patterns
+
+- TOR uses a rate-limiting store-and-forward
+procedure at each TOR router
+
+- Graph shows bytes of exit node traffic in green
+and client traffic in red whilst downloading a 1MB
+
+file (figure from —)
+
+-SDDDD
+
+—250CID
+
+.| IlllllllI|l|.ll....l..l..l..ll will ”l...| | lll...lllll lll . l Ill Ill |llnIlllllllllllllllllll.
+I | | | I | | I I | I | I | | I I I
+Us 50;
+
+1005 1505 2005
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ta”, This information iS exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+(IE; C H q? “her “K intermesee Ieeislesee- Refer disclosure requests to ecse en—
+
+© Crown Copyright. All rights reserved.
+

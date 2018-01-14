@@ -1,0 +1,23 @@
+UK TOP SECRET STRAPl COMINT
+Conclusion
+
+- Have shown a potential externals-based
+deanonymisation attack for TOR
+
+— Requires SIGINT collection of guard-to-client packet
+times
+
+— Requires TOR collection from exit. nodes we own
+- Hope to get this running live at GCHQ soon
+
+- Full paper and software available from
+
+ 
+
+ 
+
++w' =~‘ This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subiect to exemption under
+QC H Q other UK information legislation. Refer disclosure requests to GCHQ onl
+
+© Crown Copyright. All rights reserved.
+

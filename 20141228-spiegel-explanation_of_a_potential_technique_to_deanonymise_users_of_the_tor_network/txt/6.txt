@@ -1,0 +1,15 @@
+UK TOP SECRET STRAPl COMINT
+Aim
+- Find client IP address associated with TOR
+exit node traffic
+- Attack based on externals — specifically packet
+timings
+— Strong crypt is being used
+
+ 
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subiect to exemption under
+
+G, > other UK information legislation. Refer disclosure requests to GCHQ onl
+G C H Q © Crown Copyright. All rights reserved.
+

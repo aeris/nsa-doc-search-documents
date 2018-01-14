@@ -1,0 +1,25 @@
+UK TOP SECRET STRAP1 COMINT
+Scoring: basic idea
+
+° An idea of —
+
+— Bin time into intervals
+— For each interval get a pair (E, G)
+
+- Cumulative exit node packets upto time i
+- Cumulative guard node packets upto time i
+
+— Measure the correlation between these pairs
+. We use is time-windows
+
+— Easy for the SIGINT system
+
+— Seems to work
+
+ 
+
+4' I \ This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subiect to exemption under
+(EC H Q other UK information legislation. Refer disclosure requests to GCHQ onl
+
+© Crown Copyright. All rights reserved.
+

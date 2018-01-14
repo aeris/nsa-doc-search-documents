@@ -1,0 +1,82 @@
+UK SECRET STRAPl COMINT
+
+ 
+
+ 
+
+What is TOR?
+Guard Node
+
+   
+  
+
+Client
+
+  
+
+ 
+
+_/ Onion \
+
+  
+
+ 
+
+IQHIIIHIHIIIII
+
+Router
+
+  
+ 
+ 
+ 
+
+ 
+ 
+    
+
+FY Router /J
+
+I""
+
+  
+    
+  
+  
+
+Onion
+Router
+
+ 
+ 
+
+Router
+
+Exit Node
+
+Onion '
+Router
+B
+
+   
+ 
+   
+ 
+
+ 
+
+Server
+
+ 
+
+ 
+
+ 
+
+ 
+
+I ‘\ This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subiect to exemption under
+QC H Q other UK information legislation. Refer disclosure requests to GCHQ orl
+
+© Crown Copyright. All rights reserved.
+

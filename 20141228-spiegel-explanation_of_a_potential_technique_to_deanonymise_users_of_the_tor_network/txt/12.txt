@@ -1,0 +1,133 @@
+UK TOP SECRET STRAP1 COMINT
+Cumulative packet counts
+
+- Our new insight is to
+use cumulative packet
+
+counts
+
+- Hope packets are
+approximately
+
+preserved
+
+— Approximate as TOR
+repacketises data
+
+- See strong correlation
+
+ 
+
+Gaffe;
+
+© Crown Copyright. All rights reserved.
+
+Cumulative packet count
+
+0 2000 5000
+
+0 IOOOZSDC
+
+0 50 150
+
+0 :00 300
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exit —
+Guard
+CtoS 1 o StoC 1
+— ,J/ a — f ,5;
+- ,—r N — —-'_.-—I
+/_ Q _ ,1- ’2’”
+_ 4 ’if J O _. .J—g—i’rﬂ‘
+1 ,,__, --— g : If
+_ .r.——’— o _ 1.40
+I I l l l l l l l l
+15:46 15:48 15.50 15:52 15:54 15:56 15:46 15:48 15:50 15:52 15:54 15:56
+CtoS 28 StoC 2a
+_ ' D K
+2 - i
+j 0 _ if
+/ In ..
+_ o _ f
+l I l l I l
+16:02 16:04 16:06 16:02 16:04 16:06
+CtoS 2b I I StoC 2b
+_ ,-—5- o _ _, ,
+r?” S ‘ ;//—:"
+J‘Jﬂﬂ C) .- 24;
+__,, n _ _,—
+_ /"_' & H
+=,=¢:</ _
+H o
+l l I l I I l
+16:02 16:04 16:06 16:08 16:02 16:04 16:06 16:08
+CtoS 3 StoC 3
+- f/ /:
+—‘ / f/
+_ // 7/ C _ /_"///
+/ / D _
+I 04/ S 1 /
+— —’_"—‘/’é/ o _ _,——'—-—”
+I l I' I I l
+16 12 lb:14 16:16 16:16 16:12 16:14 16:16 ib:_8
+CtoS 4 StoC 4
+‘1" 4/, a‘p‘j“
+xx ,1 J- a or: '55:; “1
+/_,_,——' __.__— ' ‘5 _ l/‘I
+_. #t"—' O _
+l l I I I l l
+16:22 16:24 16:26 16:28 16:22 16:24 16:26 16:28
+
+This information is exempt from disclosure under the Freedom of lnforn
+other UK information legislation. Refer disclosure requests to GCHQ or
+
+Time (hh:mm)
+
+. 7. ‘ . . .
+
+ 
+
+ 
+

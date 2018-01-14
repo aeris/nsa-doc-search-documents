@@ -1,0 +1,23 @@
+UK TOP SECRET STRAPl COMINT
+False positives
+
+. Want an algorithm with very low false positive rate
+
+. Used 2 hours of (timestamp, source IP, destination
+IP) tuples captured from 4 106 internet bearers
+
+. Filtered to tuples between a guard node and a non-
+TOR node
+
+. Allow time to arbitrarily slide +/- 2 hours
+— In real redeployment one would restrict this slide
+
+. Allow us to plot ROC curves for the technique
+
+ 
+
++wi ’ This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subiect to exemption under
+‘2: c H (P UK rerress re sore er—
+
+© Crown Copyright. All rights reserved.
+
