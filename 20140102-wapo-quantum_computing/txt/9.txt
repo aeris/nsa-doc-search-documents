@@ -1,0 +1,50 @@
+TOP SECRET/ISI/IREL TO USA, AUS, CAN, GBR, NZL
+
+(U) High-ﬁdelity N—qubit Device - An engineered processing device that integrates N coupled,
+high-ﬁdelity physical qubits, i.e., qubits with ﬁdelity of operations near or beyond the accuracy
+threshold for efﬁcient error correction.
+
+(S//REL) Level A QC - Unclassiﬁed theoretical and/or experimental research in the design,
+physical implementation, and operation of quantum computers, as established by the Laboratory
+for Physical Sciences/R3.
+
+(S//REL) Level B QC - Classiﬁed theoretical and/or experimental research in the design,
+physical implementation, and operation of quantum computers, as established by the Laboratory
+for Physical Sciences/R3. The boundaries are based on the number and quality of qubits, realism
+and speciﬁcity of design, control precision, and detail of analysis. While these boundaries may
+change over time, as of the publication of this guide, the values are:
+
+(l) (S/fREL) Detailed engineering design of 51 or more physical qubits;
+
+(2) (S/fREL) Implementation and operation of a high-ﬁdelity 21-or-more physical-qubit
+device; or
+
+(3) (S/fREL) Implementation and operation of three (3) or more logical qubits, with
+sufﬁcient speed and precision to allow preservation of quantum information and logical
+gates between the qubits.
+
+(U) Logical qubits - Collections of several physical qubits conﬁgured in a circuit allowing
+detection and correction both of errors and of loss of quantum coherence.
+
+(U) For the purposes of this guide, the circuit conﬁguration of a logical qubit must allow
+detection and correction of at least all errors affecting any single physical qubit. A logical
+qubit comprising N physical qubits must also be a high-ﬁdelity N—qubit device.
+
+(U) Physical qubit - A physical entity capable of storing a qubit of information and being
+initialized, operated on, and measured. Examples include, but are not limited to: photons,
+electrons, atoms, atomic nuclei, and superconducting Josephson junctions.
+
+(S//SI//REL) Practical-Scale - Cryptanalytic-scale, with the added requirement that a roadmap
+exists to construct the device with a cost, probability of success, and time-scale of actual
+cryptanalytic importance to NSA. A more speciﬁc deﬁnition is likely to change over time.
+
+(U) Quantum coherence - The fundamental quantum-mechanical property of qubits and
+collections of qubits which may enable some computations to be performed with resources vastly
+
+smaller than would be required for classical computers.
+
+(U) Quantum Computing - Computing with quantum operations on data stored in a collection
+of qubits.
+
+TOP SECRET/ISI/IREL TO USA, AUS, CAN, GBR, NZL
+

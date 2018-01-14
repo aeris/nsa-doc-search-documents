@@ -1,0 +1,131 @@
+TOP SECRET/ISII/REL TO USA, AUS, CAN, GBR, NZL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+C.3. GD The fact that NSA- UNCLASSIFIED N/A N/A GJ//FOUO) Publically known
+
+conducted or -sponsored at a minimum algorithms are generally
+
+unclassiﬁed research has achieved unclassiﬁed. However, because of
+
+a quantum algorithm improvement See Remarks their relevance to NSA‘s QC effort
+
+of a classical algorithm yielding a or cryptanalytic capabilities,
+
+super-polynomial speed-up. improvements to an unclassiﬁed
+algorithm may be protected as
+determined on a case-by-case
+basis by the originating Agency.
+Contact guide POC.
+GD For example, a polynomial
+time algorithm for solving Graph
+Isomorphism.
+
+C.4. GJ//FOUO) The fact that UNCLASSIFIED N/A N/A GD For example, it is known that
+
+NSA has determined that a QC breaks cryptosystems based on
+
+speciﬁc classical public-key RSA, Difﬁe-Hellman, and elliptic
+
+cryptography design is or is not curve cryptosystems.
+
+secure against QC attack where
+
+the security or non-security of the GD For assistance in
+
+algorithms is widely known and determination, contact guide POC.
+
+publicly available.
+
+C.5. GJ//FOUO) The fact that SECRET//REL USA, 1.4 (c) 25 years* GD Speciﬁc designs may require
+
+NSA has determined that a FVEY higher classiﬁcation and/or
+
+speciﬁc classical public-key at a minimum compartmentation
+
+cryptography design is or is not
+
+secure against QC attack for See Remarks
+
+algorithms for which the security
+
+or non-security is not widely
+
+known and publicly available.
+
+D. (U) Programs and Plans
+
+D.l. (TS//SI//REL) The existence TOP SECRET//SI// 1.4 (c) 25 years* GD Details indicating speciﬁc
+
+or nonexistence of any NSA plan REL TO USA, FVEY planning or program development
+
+or program to build a at a minimum may require compartmentation.
+
+cryptanalytic-scale quantum
+
+computer. See Remarks
+
+E. (U) Information Assurance
+
+E. l. (U) The fact of a vulnerability TOP SECRET 1.4 (c)(g) 25 years* (U) Refer to the Information
+
+of a speciﬁc US. Government Assurance Vulnerabilities and
+
+cryptosystem t0 QC attack. See Remarks Weaknesses Classiﬁcation Guide.
+3-02, 8 July 2005, concerning
+foreign releasability of
+information on cryptanalytic
+vulnerabilities 0fU.S. systems.
+
+E.2. (U) The fact that NSA is UNCLASSIFIED N/A N/A (U) Details may require handling
+
+attempting to design classical as UNCLASSIFIED//FOR
+
+public-key cryptography that is See Remarks OFFICIAL USE ONLY or may be
+
+secure against QC attack. classiﬁed.
+
+F. (U) Materials
+
+F.l. GD The fact of NSA UNCLASSIFIED N/A N/A
+
+involvement in developing
+specialized materials for
+unclassiﬁed QC that would not
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP SECRET/ISI/lREL TO USA, AUS, CAN, GBR, NZL
+
+ 
+

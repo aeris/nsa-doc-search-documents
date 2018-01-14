@@ -1,0 +1,134 @@
+TOP SECRET/ISI/IREL TO USA, AUS, CAN, GBR, NZL
+
+2) (S/fREL) To enable us to track our adversaries’ degree of success or failure in similar
+QC development efforts; and
+
+3) (U//FOUO) To protect our own systems against adversarial cryptanalytic QC efforts.
+
+(S//REL) Based on this, the distinctions between unclassiﬁed and classiﬁed information
+contained in this guide attempt to differentiate between unclassiﬁed basic-level, academic-scale
+research of scientiﬁc interest, and more comprehensive classiﬁed research which might disclose
+techniques that may otherwise be possible to protect, or which might imply, rightly or wrongly,
+serious intent on NSA’s part to pursue large-scale development of cryptanalytic quantum
+
+computers.
+
+ 
+
+Description of Information
+
+Classiﬁcation/
+Markings
+
+Category
+
+Declass
+
+Remarks
+
+ 
+
+A. (U) General
+
+ 
+
+A.1. GD The fact that NSA:
+
+0 GD Acknowledges the
+potential of Quantum
+Computing (QC) in the ﬁeld of
+cryptanalysis.
+
+0 GD Tracks the development of
+QC technology.
+
+0 GD Conducts QC research.
+
+0 (ID Funds selected QC
+research of unspeciﬁed
+external entities.
+
+0 (ID Conducts and sponsors
+research in QC mathematics
+and algorithms, complexity
+theory, experimental physics,
+theoretical physics, control,
+and/or error correction.
+
+0 (ID Discusses QC theory with
+unspeciﬁed external
+researchers within and outside
+the United States.
+
+UNCLASSIFIED
+
+N/A
+
+N/A
+
+GD Details may require handling
+as UNCLASSIFIED//F OR
+OFFICIAL USE ONLY or may be
+classiﬁed.
+
+ 
+
+A.2. GJ/lFOUO) The fact that
+NSA conducts unspeciﬁed
+classiﬁed research in QC with no
+additional details.
+
+UNCLASSIFIED//F OR
+OFFICIAL USE ONLY
+
+N/A
+
+N/A
+
+GD Details may require
+classiﬁcation and may be
+compartrnented.
+
+ 
+
+(U) Cooperation With Other Organizations
+
+ 
+
+ 
+
+A.3. GJ/lFOUO) The fact that
+NSA cooperates with other US.
+organizations (e.g., academic
+organizations, national
+laboratories, and other US.
+intelligence agencies) on basic,
+unclassiﬁed QC research without
+
+ 
+
+UNCLASSIFIED
+
+ 
+
+N/A
+
+ 
+
+N/A
+
+ 
+
+GD Details, including specifying
+which US. organization, may
+require handling as
+UNCLASSIFIED//FOR
+OFFICIAL USE ONLY or may be
+classiﬁed.
+
+ 
+
+TOP SECRET/ISI/IREL TO USA, AUS, CAN, GBR, NZL
+
+ 
+

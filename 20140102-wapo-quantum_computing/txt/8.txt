@@ -1,0 +1,100 @@
+TOP SECRET/ISI/IREL TO USA, AUS, CAN, GBR, NZL
+
+ 
+
+involve developing specialized
+production facilities.
+
+ 
+
+ 
+
+ 
+
+ 
+
+F.2. (S//SI//REL) The fact of NSA SECRET//SI//REL T0 1.4 (c) 25 years* (S//SI//REL) Such development
+
+involvement in developing USA, FVEY might include, but is not limited
+
+specialized materials for classiﬁed to, isotopic or impurity
+
+cryptanalytic QC. See Remarks puriﬁcation, defect reduction,
+and/or surface passivation.
+
+F.3. (S//SI//REL) The fact of NSA SECRET//SI//REL T0 1.4 (c) 25 years* (S//SI//REL) Development of such
+
+involvement in developing USA, FVEY production plants indicates a level
+
+specialized materials for classiﬁed of NSA commitment to
+
+cryptanalytic QC that would See Remarks cryptanalytic QC development
+
+involve developing or using beyond unclassiﬁed research.
+
+specialized production facilities or
+
+prototypes of such facilities.
+
+F.4. (S//SI//REL) Technical details SECRET//SI// 1.4 (c) 25years* (S//SI//REL) Resulting specialized
+
+regarding NSA development of
+specialized materials for
+cryptanalytic QC.
+
+ 
+
+REL TO USA, FVEY
+at a minimum
+
+See Remarks
+
+ 
+
+ 
+
+ 
+
+materials will generally be
+handled as SECRET//SI//
+
+REL TO USA, FVEY;
+exceptionally hi gh-purity material
+or experimental results may
+require protection as TOP
+SECRET//SI//REL TO USA,
+FVEY.
+
+ 
+
+* (U) Declassiﬁcation in 25 years indicates that the information is classiﬁed for 25 years from
+the date a document is created or 25 years from the date of this original classiﬁcation decision,
+
+whichever is later.
+
+(U) DEFINITIONS
+
+(U) Cryptanalysis - The study of breaking codes and ciphers.
+
+(S//SI//REL) Cryptanalytic—Scale - (as applied to quantum computers) Large enough to perform
+computations of actual cryptanalytic importance to NSA. A more speciﬁc deﬁnition is likely to
+be compartmented, and will change over time.
+
+(U) Cryptography - The principles, means, and methods for rendering plain information
+unintelligible to the uninitiated and for restoring encrypted information to intelligible form.
+
+(U) Cryptology - The art and science of making codes/ciphers and breaking them,. Cryptology
+breaks out into two disciplines: cryptography (making or using codes/ciphers) and cryptanalysis
+
+(breaking codes/ciphers).
+
+(U) Detailed engineering design - Speciﬁcations of a set of qubits and the associated
+initialization, control, and measurement hardware and software at a level of detail commensurate
+with the requirements of industrial fabrication.
+
+(U) Fidelity - Precision of qubit operations such as initialization, logic gates, and readout.
+
+TOP SECRET/ISI/IREL TO USA, AUS, CAN, GBR, NZL
+
+ 
+

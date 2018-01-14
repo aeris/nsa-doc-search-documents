@@ -1,0 +1,102 @@
+TOP SECRET/ISII/REL TO USA, AUS, CAN, GBR, NZL
+
+ 
+
+scale QC because of a
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+breakthrough achieved through
+classiﬁed research.
+A.l4. aﬂ/FOUO) The speciﬁc TOP SECRET//SI// 1.4 (c) 25 years* UJ) Details and signiﬁcance of the
+details of a change in NSA’s REL TO USA, FVEY breakthrough may require
+understanding of the likelihood, at a minimum additional compartmentation (e. g.,
+timescale, required resources, or a method of implementation may
+method of implementation of See Remarks leverage additional equities
+cryptanalytic-scale QC because of protected under a compartment).
+a breakthrough achieved through
+classiﬁed research.
+B. (U) Level A/Level B QC Research
+B.l. (ID The fact that NSA UNCLASSIFIED N/A N/A UJ) See the descriptions of Level
+conducts Level A and Level B QC A and Level B in the Deﬁnitions
+research with no additional details. section.
+B.2. (U//FOUO) The fact that UNCLASSIFIED//F OR N/A N/A
+Level A is unclassiﬁed QC OFFICIAL USE ONLY
+research and/or Level B is
+classiﬁed QC research.
+B.3. (S//REL) The fact that NSA SECRET//REL T0 1.4 (c) 25 years*
+deﬁnes speciﬁc limits to USA, FVEY
+distinguish Level A QC research
+from Level B QC research.
+B.4. (S//REL) The speciﬁc values SECRET//REL T0 1.4 (c) 25 years* aﬂ/FOUO) The values are
+distinguishing Level A QC USA, FVEY expected to change over time
+research from Level B QC based on achievements in the open
+research. community.
+C. (U) QC Algorithm Research
+C.1. (U) The fact that NSA- UNCLASSIFIED N/A N/A aﬂ/FOUO) Publically known
+conducted or -sponsored at a minimum algorithms are generally
+unclassiﬁed research has achieved unclassiﬁed. However, because of
+a quantum algorithm improvement See Remarks their relevance to NSA‘s QC effort
+of an unclassiﬁed classical or cryptanalytic capabilities,
+algorithm with polynomial run- improvements to an unclassiﬁed
+time. algorithm may be protected as
+determined on a case-by-case
+basis. Contact guide POC.
+UJ) General algorithm research
+falls under this category.
+C.2. (U) The fact that NSA- UNCLASSIFIED N/A N/A aﬂ/FOUO) Publically known
+conducted or -sponsored at a minimum algorithms are generally
+
+unclassiﬁed research has achieved
+a quantum algorithm improvement
+of an unclassiﬁed classical
+algorithm yielding a polynomial
+speed-up.
+
+ 
+
+See Remarks
+
+ 
+
+ 
+
+ 
+
+unclassiﬁed. However, because of
+their relevance to NSA‘s QC effort
+or cryptanalytic capabilities,
+improvements to an unclassiﬁed
+algorithm may be protected as
+determined on a case-by-case
+basis. Contact guide POC.
+
+aﬂ/FOUO) A polynomial speed-
+up of an unclassiﬁed algorithm
+may make some intractable
+cryptanalytic problems tractable.
+
+ 
+
+TOP SECRET/ISI/lREL TO USA, AUS, CAN, GBR, NZL
+
+ 
+
