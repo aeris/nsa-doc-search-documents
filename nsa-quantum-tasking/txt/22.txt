@@ -1,0 +1,26 @@
+q
+
+USiiSIiiREL} Yeu will either haye results er net haye results. The key is te leek at the
+
+SIGAD fer the results and if the SIGAD is capable ef deing QUANTUM then yeu mest
+likely harm a yulnerable target! Te check fer SiGADs that NBA and ECHQ QUANTUM
+can target. type GD QUANTUM in yeur brewser. If GCHQ QUANTUM is needed. then
+werk with yeur R&T Analyst te fellew the apprepriate steps en the wiki te set up a F'AF.
+
+(TSHSIHREL) Yeu will want te leek at the Marina results and make nete ef the mest
+frequent SIGADiI P CIDR fer each Active UserrPresence (Federated) query
+
+1} Selecter
+a) SiGAD
+
+In) Active User iF‘ Ciﬂﬁ’ — The CIDR will be added te the TLN's Whitelist.
+
+-A TLN's Whitelist is a list centaining the [P CIDRs yeur target uses. It is where the
+
+FDXACID server will enly centinue with expleitatieh if the external IP Address ef
+the targetiredirectien is en the Whitelist fer the TLN yeur RAT Analyst requests.
+
+{ism-L " r I m
+
+‘1 1d
+
