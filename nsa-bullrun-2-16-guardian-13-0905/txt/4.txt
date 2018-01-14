@@ -1,0 +1,111 @@
+TOP SECRET//SI//REL TO USA, FVEY
+
+Reason Declass
+
+ 
+
+Remarks
+
+Description of Information
+
+Classiﬁcation/Markings
+
+and/or the secure BULLRUN
+COI. In addition, details may
+need to be marked with the
+BULLRUN data label.
+
+(U//FOUO) See paragraph #2 at
+the beginning of this guide for
+details on how to mark
+BULLRUN information.
+
+(U//FOUO) Appendix A lists
+speciﬁc BULLRUN capabilities.
+
+(U) Contact CES CAO for
+further information.
+
+ 
+
+ 
+
+ 
+
+ 
+
+plaintext) obtained from
+BULLRUN capabilities
+
+ 
+
+ 
+
+REL TO USA, FVEY/
+BULLRUN
+at a minimum
+
+See Remarks.
+
+ 
+
+ 
+
+ 
+
+C.5. (U//FOUO) Details revealing TOP SECRET//SI// 1.4 (c) 25 years* (U//FOUO) Details may be
+
+speciﬁc sources and methods that REL TO USA, FVEY protected by one or more ECIs
+
+enable a capability against the at a minimum and/or the secure BULLRUN
+
+encryption used in network COI. In addition, details may
+
+communication technologies See Remarks. need to be marked with the
+BULLRUN data label.
+(U//FOUO) See paragraph #2 at
+the beginning of this guide for
+details on how to mark
+BULLRUN information.
+(U//FOUO) Appendix A lists
+speciﬁc BULLRUN capabilities.
+(U) Contact CES CAO for
+further information.
+
+C.6. (TS//SI//REL TO USA, TOP SECRET//SI// 1.4 (c) 25 years* (U//FOUO) Details will be
+
+F VEY) The fact that NSA/CSS REL TO USA, FVEY protected by one or more ECIs.
+
+develops implants to enable a Contact CES CAO for further
+
+capability against the encryption See Remarks. guidance.
+
+used in network communication
+
+technologies
+
+D. (U) Processing & Handling
+
+D.l. (U//FOUO) Decrypts (aka TOP SECRET//SI// 1.4 (c) 25 years* (U//FOUO) Decrypts or any data
+
+extracted from the decrypts must
+be handled within the secure
+BULLRUN C01 and must be
+marked with the BULLRUN data
+label, unless Chief S31 (or
+designee) has approved handling
+or dissemination outside of
+BULLRUN. Reports generated
+from BULLRUN-derived
+information must not reveal
+BULLRUN details.
+
+(U//FOUO) Details may be
+
+ 
+
+4
+TOP SECRET//SI//REL TO USA, FVEY
+
+ 
+

@@ -1,0 +1,120 @@
+TOP SECRETl/SI/lREL TO USA, FVEY
+
+Reason Declass Remarks
+
+Description of Information
+
+ 
+
+Classiﬁcation/Markings
+
+NSA/CSS, SIGINT, IC, or any of
+the related ECIs
+
+APERIODIC, AMBULANT,
+AUNTIE, PAINTEDEAGLE,
+PAWLEYS, PITCHFORD,
+PENDLETON, PICARESQUE,
+PIEDMONT
+
+ 
+
+B. (U) Partnering/Collaboration
+
+ 
+
+ 
+
+ 
+
+CES collaboration with:
+
+o NSA/CSS Commercial
+Solutions Center (NCSC) to
+leverage sensitive,
+cooperative relationships with
+industry partners
+
+0 Tailored Access Operations
+(TAO) to leverage computer
+network exploitation activities
+
+0 Second Party partners
+
+0 speciﬁc U.S. Government/1C
+entities
+
+to further NSA/CSS capabilities
+
+against encryption used in
+
+network communication
+technologies
+
+ 
+
+ 
+
+REL TO USA, FVEY
+at a minimum
+
+See Remarks.
+
+ 
+
+ 
+
+ 
+
+B.1. (U) The fact that UNCLASSIFIED N/A N/A
+Cryptanalysis and Exploitation
+Services (CES) works with:
+o NSA/CSS Commercial
+Solutions Center (NCSC)
+o Tailored Access Operations
+(TAO)
+0 Second Party partners
+B.2. (U//FOUO) The fact that TOP SECRET//SI// 1.4 (c) 25 years* (U//FOUO) Details may be
+Cryptanalysis and Exploitation REL TO USA, FVEY protected by one or more ECIs
+Services (CES) works with: and/or the secure BULLRUN
+0 NSA/CSS Commercial See Remarks. COI. In addition, details may
+Solutions Center (NCSC) to need to be marked with the
+leverage sensitive, BULLRUN data label.
+cooperative relationships with
+speciﬁc industry partners (U//FOUO) See paragraph #2 at
+o Tailored Access Operations the beginning of this guide for
+(TAO) to leverage speciﬁc details on how to mark
+computer network BULLRUN information.
+exploitation activities
+0 speciﬁc U.S. Government/1C (U//FOUO) Appendix A liStS
+entities speciﬁc BULLRUN capabilities.
+to further NSA/CSS capabilities
+against encryption used in (U) Contact CES CA0 for
+network communication further information.
+technologies
+B.3. (TS//SI//REL) Details of the TOP SECRET//SI// 1.4 (c) 25 years* (U//FOUO) Details may be
+
+protected by one or more ECIs
+and/or the secure BULLRUN
+COI. In addition, details may
+need to be marked with the
+BULLRUN data label.
+
+(U//FOUO) See paragraph #2 at
+the beginning of this guide for
+details on how to mark
+BULLRUN information.
+
+(U//FOUO) Appendix A lists
+speciﬁc BULLRUN capabilities.
+
+(U) Contact CES CAO for
+further information.
+
+ 
+
+2
+TOP SECRET//SI//REL TO USA, FVEY
+
+ 
+

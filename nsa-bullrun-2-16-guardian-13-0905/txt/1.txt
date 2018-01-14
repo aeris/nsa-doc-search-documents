@@ -1,0 +1,68 @@
+TOP SECRET//SI//REL TO USA, FVEY D
+
+CLASSIFICATION GUIDE TITLE/N UMBER: (U//FOUO) PROJECT
+BULLRUN/2- l 6
+
+PUBLICATION DATE: 16 June 2010
+OFFICE OF ORIGIN: (U) Cryptanalysis and Exploitation Services
+
+POC: (U) Cryptanalysis and Exploitation Services (CES) Classiﬁcation
+Advisory Ofﬁcer
+
+PHONE: _
+
+ORIGINAL CLASSIFICATION AUTHORITY: -
+
+l. (TS//SI//REL) Project BULLRUN deals with NSA’s abilities to defeat the encryption
+used in speciﬁc network communication technologies. BULLRUN involves multiple
+sources, all of which are extremely sensitive. They include CNE, interdiction, industry
+relationships, collaboration with other IC entities, and advanced mathematical techniques.
+Several ECls apply to the speciﬁc sources, methods, and techniques involved. Because
+of the multiple sources involved in BULLRUN activities, “capabilities against a
+technology” does not necessarily equate to decryption.
+
+2. (U//FOUO) The BULLRUN data label (for use in databases) and marking (for use in
+hard- or softcopy documents) are for internal NSA/CSS use only. It will appear in the
+classiﬁcation line and corresponding portion markings after all applicable ODNI—
+approved markings are in place. The format is:
+Classiﬁcation// SCI Control System Markings//CAPCO-approved Dissemination Control
+Markings/BULLRUN. Examples include:
+
+0 TOP SECRET//SI//REL TO USA, F VEY/BULLRUN
+
+0 TOP SECRET// SI-ECI PIQ//ORCON/N OF ORN/BULLRUN
+
+3. (U//FOUO) Appendix A lists speciﬁc BULLRUN capabilities. Details may be
+protected by one or more ECI. Contact CES CAO for access to the appendix or further
+
+ 
+
+ 
+
+ 
+
+ 
+
+guidance.
+Description of Information Classiﬁcation/Markings Reason Declass Remarks
+A. (U) General
+A.1. (U) The coverterm UNCLASSIFIED N/A N/A
+BULLRUN standing alone
+A2. (U//FOUO) The coverterm UNCLASSIFIED// N/A N/A (U//FOUO) Related ECIs
+BULLRUN in association with FOR OFFICIAL USE ONLY include, but are not limited to:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+TOP SECRET//SI//REL TO USA, FVEY
+
