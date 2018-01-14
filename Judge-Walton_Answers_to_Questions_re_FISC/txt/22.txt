@@ -1,0 +1,48 @@
+.»»£J;
+
+ 
+
+(c) Expiration Dates. An expiration date in an order must be stated using Eastern Time
+and must be computed from the date and time of the Court’s issuance of the order, or, if
+applicable, of an emergency authorization.
+
+(d) Electronic Signatures. The Judge may sign an order by any reliable, appropriately
+secure electronic means, including facsimile.
+
+Rule 19. Enforcement of Orders.
+(a) Show Cause Motions. If a person or entity served with a Court order (the
+“recipient”) fails to comply with that order, the govemment may ﬁle a motion for an
+order to show cause why the recipient should not be held in contempt and sanctioned
+accordingly. The motion must be presented to the Judge who entered the underlying
+order.
+(b) Proceedings.
+(1) An order to show cause must:
+(i) conﬁrm that the underlying order was issued;
+(ii) schedule further proceedings; and
+(iii) afford the recipient an opportunity to show cause why the recipient
+should not be held in contempt.
+(2) A Judge must conduct any proceeding on a motion to show cause in camera.
+The Clerk must maintain all records of the proceedings in conformance with 50
+U.S.C. § 1803(c).
+(3) If the recipient fails to show cause for noncompliance with the underlying
+order, the Court may ﬁnd the recipient in contempt and enter any order it deems
+necessary and appropriate to compel compliance and to sanction the recipient for
+noncompliance with the underlying order.
+(4) If the recipient shows cause for noncompliance or if the Court concludes that
+the order should not be enforced as issued, the Court may enter any order it deems
+appropriate.
+
+Title VI. Supplemental Procedures for Proceedings Under 50 U.S.C. § 1881a(h)
+
+Rule 20. Scope. Together with the generally-applicable provisions of these Rules concerning
+ﬁling, service, and other matters, these supplemental procedures apply in proceedings under 50
+
+. U.S.C. § 188la(h).
+
+Rule 21. Petition to Modify or Set Aside a Directive. An electronic communication service
+provider (“provider”), who receives a directive issued under 50 U.S.C. § 1881a(h)(l), may ﬁle a
+petition to modify or set aside such directive under 50 U.S.C. § 1881a(h)(4). A petition may be
+ﬁled by the provider’s counsel.
+
+ 
+
