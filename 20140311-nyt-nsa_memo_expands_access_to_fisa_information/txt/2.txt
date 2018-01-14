@@ -1,0 +1,58 @@
+TOP SEC RET/lCOMINT/lNOFORN//20291 1 23
+S3 109-08006
+
+(TS//SI) Cryptanalysts at the cryptologic centers will access data that is stored in the following
+databases at N SAW:
+
+FOURSCORE - fax and DNI data, some of which is NSA or FBI FISA-derived
+
+ZAP - text, some of which is NSA or FBI FISA-derived
+
+CAPRICORN - voice, some of which is N SA or FBI FISA-derived
+
+SOAPOPERA - voice, end product, SRI information, some of which is NSA or FBI FISA—derived
+
+(TS//SI) These databases contain raw data, including enciphered collection, and, when exploitation
+is possible, decrypted plain text. Some of the data in the databases is NSA F ISA—derived or FBI CT
+FISA-derived. While not every database contains FISA-derived material, it is reasonable to expect
+that analysts at the 00s will perform mission with agility, moving across targets and databases as
+mission demands, and that sometimes that will mean accessing data within a database that does
+contain FISA-derived data. Access to these databases is restricted to analysts who hold the
+RAGTIME ECI, have a Speciﬁc ‘need to know' about the data stored within the databases, and who
+are authorized by the data owner. For some years CES has been the recipient of improperly
+marked/classiﬁed data but. all analysts have been and are aware that data marked with the SIGAD
+U8984J and case notation XX.SQF* is FBI FISA data, and that all other data marked with SIGAD
+{IS-984* is NSA FISA data. CES believes that the appropriate remedy is to correct the
+classiﬁcation of the data before it is fed into our systems. This is an ongoing issue which should not
+impede the approval of this SPF but the matter should be addressed. CES will ensure that all
+analysts accessing these databases know that data marked with the SIGAD US984J and case
+notation XXSQIM is FBI FISA data, and that all other data marked with SIGAD US-984* is NSA
+FISA data, and that this data should be classiﬁed TOP SECRET/lCOMINT — ECI RAGTIMEl/
+NOFORN. Ideally all FISA and non—FISA material should be held separately, and FBI and NSA
+FISA should be partitioned by individual target. The Ofﬁce of Oversight and Compliance will work
+with SB dataﬂow and Special Source Operations to correct the markings/classiﬁcation of data at the
+front end.
+
+(S/lSI) CES at NSAW will work to ensure that all individuals working the cryptanalysis mission at
+the CC5 have the appropriate clearances for access to sensitive data, including RAGTIME, and will
+dictate speciﬁc policy and procedural security measures.
+
+REQUIREMENTS: (TS//SI//N F ) Following recent meetings and discussions among SID Oversight
+and Compliance (SV) and NSAW CES, the following are recommendations and requirements that
+CES and the Cryptologic Centers should agree to implement prior to accessing, handling,
+processing, retaining, and disseminating N SA FISA and CT FBI FISA-derived collection.
+
+SV reguirements: NSA/CBS TX, NSA/CSS GA, and NSA/CSS HI should commit to:
+
+l) (S//SI) The creation of a permanent FISA coordinator position, to be staffed initially by a
+person experienced with FISA procedures, to ensure compliance with FISA minimization
+procedures; build a culture and climate of FISA awareness; and facilitate onosite ability to train,
+ﬁeld questions, and handle time-sensitive FISA issues.
+
+(S//SI) NSA/CSS TX has identiﬁed a permanent FISA coordinator; however that
+person has no FISA experience. The CES Mission Manager at TX, who has F ISA experience, must
+perform oversight of CES activities and must participate in the new coordinator’s FISA training.
+SID Oversight & Compliance will brief both individuals on their responsibilities.
+
+TOP SECRET/lCOMlNT/INOFORNI/20291123
+

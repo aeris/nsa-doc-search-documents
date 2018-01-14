@@ -1,0 +1,114 @@
+TOP SECRETNCOMINTHNOFORNI'I2029I123
+
+SECURITY CLASSIFICATION
+
+NSA STAFF PROCESSING FORM
+
+TO exnso CONTROL NUMBER . KCC CONTROL Huueen
+SIGINT em I ‘i )3 —0 (9 33109-080-06
+mnu ' 1 ACTION exneo suspense
+
+’1 APPROVAL
+SUBJECT ch suspense
+
+SUBJECT (TSI/SUINF] Recommended Requirements far I—i SIGNATURE
+cryptanalysts at CCs at Texas, Georgia and Hawaii to access ELEMENT suspense
+NSA and PB; F‘I_SA material. LI INFORMATION
+
+DISTRIBUTION
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SUMMARV
+
+PURPOSE: (TS/ISU/NF) To obtain SID approval for Cryptanalysis and Exploitation Services (CES)
+cryptanalysts at the NSA/CSS CryptoIOgic Centers (003) in Texas, Georgia, and Hawaii, who are
+under direct DIRNSA authority, to access and process NSA SIGINT FISA and CT FBI SIGINT
+
+FISA data that is stored in databases in CBS at NSAW. This will set a precedent for access to NSA
+PISA material outside of NSAW.
+
+BACKGROUND: (TS/ISI) As part of CES’s strategy for the Extended Enterprise buildout,
+cryptanalysis efforts at the cryptologic centers in Texas, Georgia, and Hawaii will serve as
+transparent extensions of the cryptanalysis mission performed by CBS in the Ofﬁce of Target
+Pursuit’s exploitation branches (831142, 831143, 831131, and 831133) at NSAW. Analysts at the
+cryptologic centers will become part ofa virtual team with NSAW analysts. They will access data
+that is stored within the CBS ﬁrewall and will use cryptanalytic procedures and tools, also within
+the CES ﬁrewall, by way of a VPN capability that ensures that security is not compromised and
+that the data and tools accessed cannot get out to the local network. The priorities of cryptanalytic
+
+missions will continue to be set in conjunction with mission elements at NSAW and the Cryptologic
+Centers as appropriate.
+
+ 
+
+COO RDINATIOI‘UAPPROVAL
+
+ 
+
+OFFICE mus AM) one “CURE omcs we we one 95%;:
+
+P E
+m Ixoec SID cos
+SIDx/SF 3v
+SInnssI
+sums:
+
+ORIGINATOR ORG. PHONE (Scum!) OATE PREPARED
+
+20 June 2006
+SECURITY CLASSIFICATION
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FORM A6796
+
+“EV NOV 95 DRV FM: NSNCSSM 1-52 _ r
+Dmd, 23 ”Mm” 200, DECL ON: 2029 I :23 TOP SECRETNCOMINTHAOFORNII2029112.3
+
+/‘ -‘
+1/
+/
+
+gtfsﬁgﬁ L1?“
+
