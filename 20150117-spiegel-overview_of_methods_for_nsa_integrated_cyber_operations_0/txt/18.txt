@@ -1,0 +1,130 @@
+TSHSIII
+
+QUANTUMINSERT
+
+QUANTUMBOT
+
+QUANTUMBISCUIT
+
+QUANTUMDNS
+
+QUANTUMHAND
+
+QUANTUMPHANTO
+M
+
+- Man—on-the—Side technique
+
+- Briefly hi—jacl<s connections to a terrorist
+website
+
+- Re-directs the target to a TAO server (FOXACID)
+for implantation
+
+- Takes control of idle IRC bots
+- Finds computers belonging to botnets, and
+hijacks the command and control channel
+
+- Enhances QUANTUMINSERT's man-on-the—side
+technique of exploitation
+
+- Motivated by the need to Ql targets that are
+behind large proxies, |ac|< predictable source
+addresses, and have insufficient unique web
+activity.
+
+- DNS injection/redirection based off ofA Record
+queries.
+- Targets single hosts or caching name servers.
+
+Exploits the computer of a target who uses
+Facebook
+
+Hijacks any IP on QUANTU Mable passive coverage to
+use as covert infrastructure.
+
+2005
+
+Aug .2007
+
+Dec .2007
+
+Dec 2008
+
+Oct 2010
+
+Oct 2010
+
+Operatio
+nal
+
+Operatio
+nal
+
+Operatio
+nal
+
+Operatio
+nal
+
+Operatio
+nal
+
+Live
+Tested
+
+ 
+
+Highly Successful
+(In 2010, 300 TAO implants
+were deployed via
+QUANTUMINSERT to targets that
+were un-exploitable by any
+other means)
+
+Highly Successful
+
+(over 140,000 bots co-opted)
+
+Limited success at
+NSAW due to high
+
+latency on passive
+
+access
+(GCHQ uses technique for 80%
+of CNE accesses)
+
+Successful
+
+(High priority CCI target
+exploited)
+
+Successful
+
+N/A
+
+ 
+
+QUANTUMSKY
+
+I! QUANTUMCOPPER
+
+Denies access to a webpage through RST packet
+spooﬁng.
+
+File downloadi'upload disruption and corruption.
+
+2004
+
+Dec .2008
+
+Operatio
+nal
+
+Live
+
+Successful
+TS/ISIIIREL
+N/A |
+
