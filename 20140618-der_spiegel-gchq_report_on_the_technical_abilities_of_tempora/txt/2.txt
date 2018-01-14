@@ -1,0 +1,58 @@
+capability to MISDIMCE communities.
+
+I TEMPCIRA 'is the codeword for CCI-lCIs internet buffer business capability as a whole — which
+is the ability to loosely promote a ‘34: of trafﬁc across CCI-lCIs SSE access into a repository
+which will keep the content {and 'its associated metadata} forjperiods oftime {approximately
+3 days for-content and up to 30 days for metadata} to allow retrospective analysis and
+forwarding to follow on systems.
+
+- TEMPCIRA as a capability 'is agnostic of'the technologies usedto promote thattrafﬁc and to
+store that trafﬁc and so should nothe 'used as a codeword for the individual components {e.g
+XKS. M‘UR etc}.
+
+- At the momentthe components include. amongst others, CCHCI SSE. Access, PCIKERFACE
+sanitisation. XKS {in various conﬁgurations} and 'it will include MEIR inthe very near future.
+
+I TEMPCIRA also covers the management of'the rules used to promote trafﬁc into the internet
+buffer capability.
+
+I TEMPCIRA 'is notjprocessing centre speciﬁc. At the momentthere are instances of
+TEMPCIRA at all xPC {Namely CPC, CPC and RPCI}. These should be referred to. when
+required, as CIPCICPCIRPCI TEMPCIRA
+
+[edit] A bit more detail
+
+TEMPDRA are CCI-lCI's large-scale, Deep Dive deployments on Special Source access {ﬂ}.
+Deep Dive XKeyscores work by promoting loose categories of'trafﬁc {e.g.. allweb, email. social.
+chat, EA. VPN. VolP...) from the bearers feeding the system and block all the high-volume, low
+value trafﬁc {e.g., P2P downloads}. This usually equates to ~30% of'the trafﬁc on the bearer. We
+keep the full sessions for 3 working days andthe metadata for 30 days for you to query. using all
+the functionality that Keyscore offers to slice and dice the data. The aim 'is to put the best 15% of
+our access into TEMPCIRA's, comprising a mix of Deep Dive Keyscores and promotion of data
+based on IP subnet ortechnology 'type from across the entire M‘v’R. At the moment. 'users are
+able to access dﬁxlﬂCs of data via existing Internet Buffers. This 'is a lot of date! Not only that.
+butthe long-running TINTprogram and our initial 3-month operationaltrial of'the CPC Internet
+Buffer {the ﬁrst operational Internet Buffer to be deployed} show that every area of ops can get
+realbeneﬁt from this capability. especially for target discovery andtarget development. Internet
+Buffers are different from TINT in that the latter is purely an experimental. research environment
+whereas Internet Buffers canIbe used operationally foriR. Effects. enabling w etc.
+
+ 
+
+For a more detailed depiction of' how TEMPCIRA and TINT differs please see here.
+
+[edit] Contacts
+
+ 
+
+Name Role
+CTE XKS Senior User
+
+MTI SICI NT apps theme lead
+Enhanced Discovery Project Manager
+Enhanced Discovery XKS SME
+
+ 
+
+2of3
+
