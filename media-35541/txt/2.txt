@@ -1,0 +1,19 @@
+TOR deanonymisation research (MIP) - GCWiki
+
+The successful outcome of this entry—exit correlation attack is documented in
+
+OPC—M[ I ECH.B[61. An R package implementing the attack is available: E,
+m.
+
+The work was presented at SANAR11. The slides are here.
+
+We plan to prototype the technique in the REMATION II workshop. The
+introductory slides are here.
+
+Retrieved from '
+
+Categories: OPC—MCR MIP task | OPC—MCR in pullthrough MIP task |
+OPC—MCR MIP task for ICTR—NE | Internet Anonvmitv | The Onion Router
+
+20f3
+
