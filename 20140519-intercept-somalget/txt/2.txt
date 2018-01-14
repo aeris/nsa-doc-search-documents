@@ -1,0 +1,30 @@
+(U) Notes:
+
+1. (U) Target development = the process by which an analyst can extend his/her
+knowledge of a known target by observing elements of metadata that relate to that
+target.
+
+2. (U) Target discovery = the process whereby an analyst can discover targets by
+observing metadata as it relates to behaviors characteristic of his/her target set,
+regardless of whether or not the newly discovered selectors are related to known
+targets.
+
+3. (S/lSIl/REL) The nominal "30 days storage" actually varies depending upon on
+space, power, and observed activity levels.
+
+4. (TS/ISU/REL) Observing that targets tend to use prepaid calling cards in an attempt
+to mask the destination of telephone calls, 82F focused on mobile identifiers in number
+ranges that represent newly activated accounts. We have also used SMS text messages
+to identify and retrieve audio of interest.
+
+5. (S/lSIl/REL) Storage capacity is directly related to the amount of disk storage that
+can be deployed. When deployed against entire networks, as SOMALGET is, the back-
+end database and processing required for interactive search and retrieval of cuts also
+requires enterprise-class data warehousing and high-performance processing to manage
+the vast amount of data captured. Currently this warehouse dynamically manages
+roughly 5 billion call events, with the capacity to expand well beyond our current target
+communications. This retrospective retrieval infrastructure is web based and is already
+in place. As noted, with proper engineering and coordination, there is little reason this
+capability cannot expand to other accesses, provided compatible hardware and
+interfaces are developed and deployed.
+
