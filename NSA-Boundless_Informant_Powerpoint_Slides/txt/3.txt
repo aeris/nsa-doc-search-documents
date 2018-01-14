@@ -1,0 +1,40 @@
+TOP SECRET/lSl/INOFORN
+
+ 
+  
+
+ 
+
+(U//FOUO) Use Big Data technology to query SIGINT collection in the cloud to
+
+produce near real-time business intelligence describing the agency’s available
+SlGlNT infrastructure and coverage.
+
+ 
+
+ 
+
+ 
+
+‘ (U/lFOUO) Kev Questions
+
+’l. How many records are collected for an organizational unit (e.g. FORNSAT) or
+country?
+
+2 Are there any visible trends?
+
+What assets collect against a specific country? What type of collection?
+4. What is the field of view for a specific site? What type of collection?
+
+90
+
+(U/lFOUO) Potential Users
+1. Strategic decision makers (leadershipteam)
+2. Tactical users (mission and collection managers)
+
+TOP SECRETl/Sl/INOFORN
+
+ 
+
+ 
+
