@@ -1,0 +1,92 @@
+TOP SECRET//COMINT//20291 123
+
+(U//FOUO) CLASSIFICATION GUIDE TITLE/NUMBER: CRYPTANALYSIS Guide 02-12
+(U) PUBLICATION DATE: 13 September 2005
+
+(U) OFFICE OF ORIGIN: Cryptanalysis & Exploitation Services (S31)
+
+(U//FOUO) ORIGINAL CLASSIFICATION AUTHORITY:
+
+(U/fFOUO) POC:
+
+(U//FOUO) PHONE:
+
+ 
+
+Description of Information Classification/ Reason Declass Remarks
+
+ 
+
+Markings
+
+l. (U) The fact that NSA/CSS exploits UNCLASSIFIED N/A N/A
+cryptographic information security devices
+and systems.
+
+2. (C) The fact that NSA/CSS works with CONFIDENTIAL 1.4 (c) 20291 123
+Second Party partners on exploiting
+cryptographic information security devices
+and systems.
+
+3. (S) The fact that NSA/CSS works with SECRET 1.4 (0) 20291123
+unspecified Third Party partners on
+exploiting cryptographic information
+security devices and systems.
+
+4. (U) The fact that NSA/CSS exploits UNCLASSIFIED N/A N/A
+unintended cryptographic vulnerabilities in
+commercial or indigenous information
+security devices and systems, as long as
+neither the vulnerability nor the targeted
+device/ system is identified.
+
+ 
+
+ 
+
+ 
+
+ 
+
+5. (TS//SI) The fact that NSA/CSS makes TOP SECRET// 1.4 (c) 20291 123 (U) Specifying the specific system
+cryptographic modifications to commercial COMINT is protected by an ECI..
+or indigenous cryptographic information at a minimum
+
+security devices or systems in order to
+make them exploitable.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6. (U) The fact that NSA/CSS has UNCLASSIFIED N/A N/A (U) Additional details will raise
+cryptanalytic techniques to exploit the classification and may be
+cryptographic components of commercial protected by an ECI.
+or indigenous information security devices
+or systems.
+
+7. (C) The fact that NSA/CSS has the ability CONFIDENTIAL l .4 (c) 20291 123 (C) Details of CV recovery are
+to recover cryptovariables used to exploit protected by an ECI.
+commercial or indigenous cryptographic
+information security devices or systems. (C) Specifying a specific system
+
+for which we can recovery CVs is
+protected by an ECI.
+2
+
+TOP SECRET//COMINT//20291 123
+
