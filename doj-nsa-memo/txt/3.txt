@@ -1,0 +1,47 @@
+ 
+
+SECRETI/COMINTI/ORCON,NOFORN//X1
+
+12333.' That Order requires the NSA to conduct its signals intelligence activities involving the
+collection, retention, or dissemination of information concerning United States persons in
+accordance with procedures approved by the Attorney General. Accordingly, changes to these
+procedures, such as those proposed here, also require your approval. We conclude that the
+proposed Supplemental Procedures are consistent with applicable law and we recommend that
+you approve them.2 (SI/SI)
+
+The communications metadata that the NSA wishes to analyze——which relates to both
+telephone calls and electronic communications—H's dialing, routing, addressing, and signaling
+information that does not concern the substance, purport, or meaning of the communication. The
+procedures divide communications metadata into two categories: telephony .metadata and
+electronic communications metadata. Telephony metadata includes such information as the
+telephone numbers of the calling and the called party. Electronic communications metadata
+includes such information as the e-mail address and the Internet protocol (IP) address of the
+computer of the sender and the recipient. This communications metadata has been obtained by
+various methods, including pursuant to the Foreign Intelligence Surveillance Act (PISA), 50
+USC. § 180 l , et seq, and resides in NSA databases.3 NSA plans to analyze this data primarily
+using a technique known as “contact chaining.” Contact chaining involves the identiﬁcation of
+telephone numbers, e~mail addresses, or IP addresses that a targeted telephone number, IP
+address, or email address has contacted or attempted to contact. Through the use of computer
+algorithms, NSA creates a chain of contacts linking communicants and identifying additional
+telephone numbers, IP addresses, and e—mail addresses of intelligence interest. On the basis of
+prior informal advice of the Ofﬁce of Intelligence Policy and Review, NSA’s present practice is
+to “stop” when a chain hits a telephone number or address believed to be used by a, United States
+person. NSA believes that it is over—identifying numbers and addresses that belong to United
+States persons and that modifying its practice to chain throughall telephone numbers and
+addresses, including those reasonably believed to be used by a United States person, will yield
+valuable foreign intelligence infOrmation primarily concerning nomUnited States persons outside
+
+ 
+
+I Procedures Governing the Activities of DOD Intelligence Components That Aﬁ’ect
+United States Persons (DOD Reg. 5240.1~R)(Dec. l982)(approved by the Attorney General on
+Oct. 4, 1982)(“DOD Procedures”) and its Classiﬁed Annex. The proposed Supplemental
+Procedures would clarify Procedure 5 of the DOD Procedures and its Classiﬁed Annex. (U)
+
+2 This memorandum was prepared in consultation with the Ofﬁce of Legal Counsel. (U)
+3 This memorandum assumes that the NSA’s initial acquisition of the information it
+wishes to analyze was lawful. (U) '
+SECRET/lCOMINT/IORCON,NOFORNl/Xl
+
+-2-
+
