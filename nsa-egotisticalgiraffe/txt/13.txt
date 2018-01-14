@@ -1,0 +1,16 @@
+. (TS/lSI/IREL)ExploitingTOR
+
+- (TS/lSI/IREL) tbb-ﬁrefox is barebones
+
+0 Flash is a no-no
+
+D NoScript addon pre-installed...
+...but not enabled by default!
+
+0 TOR explicitly advises against using any addons or
+extensions other than TorButton and NoScript
+
+- (TS/lSI/IREL) Need a native Firefox exploit
+
+ 
+

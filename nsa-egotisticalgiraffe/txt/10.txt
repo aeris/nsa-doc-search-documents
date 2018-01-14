@@ -1,0 +1,11 @@
+(TS/lSI/lREL) BuildID gives a timestamp for
+when the Firefox release was built
+
+20121024073032
+
+Year Month Day Hour Min Sec
+
+(TS/lSl/IREL) tbb-ﬁrefox’ s BUiIdID:
+
+ 
+

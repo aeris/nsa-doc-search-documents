@@ -1,0 +1,12 @@
+- (TS//S|//REL) Type confusion vulnerability in
+E4X
+
+- (TS/lSI/IREL) Enables arbitrary read/write
+
+access to the process memory
+
+- (TS/lSI/IREL) Remote code execution via the
+CTypes module
+
+ 
+

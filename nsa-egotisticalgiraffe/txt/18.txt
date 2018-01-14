@@ -1,0 +1,15 @@
+. (TS//S|//REL) Callbacks fromTOR
+
+. (TS/lSI/IREL) Tests on Firefox 10 ESR worked
+- (TS/lSI/lREL) Tests on tbb-ﬁrefox did not
+
+0 Gained execution
+0 Didn't receive FINKDIFFERENT
+
+- (TS/lSII/REL) Defeated by Preﬁlter Hash!
+
+0 Requests EGGI: Hash(tor_exit_ip || session_id)
+0 Requests FIDI: Hash(target_ip || session_id)
+
+ 
+

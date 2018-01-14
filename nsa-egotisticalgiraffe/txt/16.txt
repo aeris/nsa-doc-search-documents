@@ -1,0 +1,16 @@
+. (TS/lSI/IREL)ExploitingTOR
+
+- (TS/lSI/IREL) Can't distinguish OS until on box
+0 That's okay
+
+- (TS/lSI/IREL) Can't distinguish Firefox version
+until on box
+
+0 That's also okay
+
+- (TS/lSI/lREL) Can't distinguish 64-bit from 32—
+bit until on box
+0 I think you see where this is going
+
+ 
+

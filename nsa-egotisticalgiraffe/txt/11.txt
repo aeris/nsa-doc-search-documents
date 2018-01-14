@@ -1,0 +1,10 @@
+- (TS//S|//REL) TorButton cares about TOR
+users being indistinguishable from TOR users
+
+- (TS//S|//REL) We only care about TOR users
+
+versus non-TOR users
+- (TS//S|//REL)Thanks to TorButton, it’ 5 easy!
+
+ 
+
