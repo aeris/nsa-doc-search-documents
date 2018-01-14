@@ -1,0 +1,55 @@
+TOP SECRET//COMINT//20291123
+
+information for connecting to a speciﬁc exit server if one has already been chosen. (This
+only happens when attempting to access one of Tor’s hidden services; see appendix C
+below.) circuit_establish_circuit is a small function, consisting of only 20 lines. All
+of the real work happens in 4 function calls that it makes.
+
+(U) First, circuit_establish_circuit calls circuit_init, to which it passes pur—
+pose, need_uptime, need_capacity, and internal. Right away, this function calls another
+function, circuit_new. This function allocates memory for the circuit_t structure, ini—
+tializes several ﬁelds of the structure, calls circuit_add to add the new circuit to the
+global circuit list, and returns. Back in circuit_init, the parameters are used to ini—
+tialize more ﬁelds in the circuit_t structure. Next, it sets the state of the circuit to
+CIRCUIT_STATE_OR_WAIT, indicating that it is waiting to establish a connection to the next
+server in the path before it sends along any packets. Finally, circuit_init returns a
+pointer to the newly—created circuit_t structure.
+
+(U) Back in circuit_establish_circuit, the function onion_pick_cpath_exit is
+called and passed the pointer to the new circuit_t from circuit_init and the parameter
+info originally passed to circuit_establish_circuit. onion_pick_cpath_exit starts
+by getting the list of available routers using the function router_get_routerlist. This
+router list is created using information obtained from the directory servers. The process
+is not covered in this paper; see section 8.4.
+
+(U) Next, the function new_route_len is called to determine the number of servers
+that should be in the circuit. This number is based on the purpose of the circuit and
+whether or not info is NULL, but for most Tor circuits, it will be three. After a number
+has been decided on, the function count_acceptable_routers checks how many servers it
+thinks can route traﬁic. If the number of acceptable routers is less than two, the function
+returns failure, and no circuit is built. If the number of available routers is two or more,
+but less then what was decided on, this becomes the length of the circuit.
+
+(U) One of two things can happen next. If info is not NULL, then the server with that
+information will be used as an exit, and the program moves on. Otherwise, the program
+picks a good exit server. This is done in the function choose_good_exit_server, which
+takes parameters purpose, div" (a router list), need_uptime, need_capacity, and isn'ntemal.
+Three of these are parameters originally sent to circuit_establish_circuit. There are
+two cases, based on the circuit’s purpose. For general purpose circuits, if is_z'ntemal is set
+(meaning the circuit is intended to be used to connect to a server within the Tor cloud,
+most likely as a rendezvous point for a hidden service), then the exit server is chosen
+using router_choose_random_node (see Choosing a hop, section B.1.1). Otherwise,
+choose_good_exit_server_general chooses the exit server. This function takes a list of
+all available exit servers, discards any that are currently unsuitable (for example, those
+servers that are listed as down), and selects from those remaining one that can handle the
+most pending connections. It then returns the router information necessary to connect to
+the selected server.
+
+(U) After initializing the circuit and picking out an exit, the other hops in the circuit
+must be chosen. To do this, the program calls onion_populate_cpath. This function
+repeatedly calls another function, onion_extend_cpath, until the whole circuit is built. In
+
+22
+
+TOP SECRET//COMINT//20291123
+

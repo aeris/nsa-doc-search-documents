@@ -1,0 +1,52 @@
+TOP SECRET//COMINT//20291123
+
+o (TS//SI) int router_should_reach_addr (int addr, int port, routerinfo_t
+*router)
+
+— Description: The function checks the router’s exit policy and returns non—
+zero if the address is reachable and zero if the address is not reachable.
+— Arguments:
+
+1. addr: the address to reach, as an integer.
+2. port: the port to use at addr.
+3. router: the router to check.
+
+— Return Value: If addrtport is reachable, returns 1. If not, returns 0.
+— Notes:
+
+0 (TS//SI) int router_should_reach_addr_string (char *ip_addr, int port,
+routerinfo_t *router)
+
+— Description: This function checks the router’s exit policy and returns non—
+zero if the address is reachable and zero if the address is not reachable.
+— Arguments:
+
+1. ip_addr: the address to reach, as a string in mmmm form.
+2. port: the port to use at ip_addr.
+3. router: the router to check.
+
+— Return Value: If the ip_addr:p0rt is reachable, it returns 1. If not, it returns
+0.
+
+— Notes: This function just converts the string address to an integer and calls
+router_should_reach_addr.
+o (TS//SI) int circuit_should_reach_addr (int addr, int port, circuit_t *circ)
+— Description: MJOLNIR checks the exit policy of the Circuit’s exit hop and
+returns non—zero if the address is reachable or zero if the address is unreachable.
+— Arguments:
+
+1. addr: the address to reach, as an integer.
+2. port: the port to use at addr.
+3. circ: the circuit want to check.
+
+— Return Value: If the addrtport is reachable, returns 1. If not, returns 0.
+
+— Notes: This function just grabs the last hop in the circuit calls
+router_should_reach_addr.
+
+o (TS//SI) int circuit_should_reach_addr_string (char *ip_addr, int port,
+circuit_t *circ)
+
+41
+TOP SECRET//COMINT//20291123
+

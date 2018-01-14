@@ -1,0 +1,53 @@
+TOP SECRET//COMINT//20291123
+
+o The location of the machine connected to it.
+
+o The ID of the circuit from which the second node is sending information. This is
+p_circ_z'd in the third node’s circuit_t structure, and should be equal to n_circ_z'd in
+the second node’s circuit_t structure.
+
+a Cryptovariables shared with the client, which allows it to perform one layer of en—
+cryption / decryption on cells to / from the client.
+
+a The exit node can see the data the client is sending, such as an HTTP request or
+POST data for a form.
+
+(S / / SI) A machine can know it is the exit node very easily. There are several functions
+only called by exit nodes, such as connection_exit_begin_conn. There is even a macro,
+CONN_IS_EDGE that will return true if it is passed an exit connection (or an AP connection,
+which only appears at the client side of the circuit).
+
+(TS/ / SI) Similar to entry nodes, a client can set up preferred exit nodes in their
+torrc ﬁle. There is an option called ExitNodes that is a comma—separated list of server
+nicknames, and any servers on that list will be preferred when choosing an exit node. If
+the option StrictExitNodes is true, then only nodes from that list can be chosen as exit
+nodes. So the conﬁguration ﬁle can be changed to have a client always come to a friendly
+machine for an exit server.
+
+(TS / / SI) There is one other way to inﬂuence a client to choose a speciﬁc machine
+for the exit. Servers have exit policies, which are lists of types of requests that a server
+will handle. For example, by default, all servers reject traﬁic sent to port 25 (SMTP) in
+order to discourage spammers from using Tor’s network to hide their activities. One can
+even set up a server that will reject all exit traﬁic, and only act as a ﬁrst or second node.
+So if we set up a server with a more permissive exit policy than most other machines, we
+will be chosen more often to handle the sort of traﬁic that other machines will not allow.
+For example, if we were to allow connections to port 25, our server would be chosen to
+send e—mail with higher probability than it would for sending other types of traﬁic. We
+have no speciﬁc statistics regarding common exit policies, and even if we offer a certain
+exit policy, that doesn’t mean that people will think to try to send such traﬁic through
+Tor. Still, this option is more attractive than altering a client conﬁguration ﬁle, because
+it only requires a change on a machine that we own.
+
+D.4 (U) Hidden service nodes
+
+(U) As covered in appendix C, Tor uses special nodes when accessing hidden services.
+
+D.4.1 (U) Introduction points
+
+(U) The introduction point is the third node in a circuit that starts at the hidden service,
+so it knows the information listed under Third Node above. It is also, brieﬂy, the third
+
+33
+
+TOP SECRET//COMINT//20291123
+

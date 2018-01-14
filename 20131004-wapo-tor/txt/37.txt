@@ -1,0 +1,55 @@
+E.2
+
+TOP SECRET//COMINT//20291123
+
+of these that will be used most often is probably the nickname ﬁeld. Let us assume
+there is a routerlist named rlist. There are rlist—>routers—>num_used routers
+available, and to access their nicknames, use rlist->routers->list [i] —>nickname.
+Also see the documentation of SMARTLIST_FOREACH.
+
+(TS/ / SI) routerinfo_t
+
+The function router_get_routerlist returns a smartlist of routerinfo_t structures
+(see above for more details). The most important ﬁelds of routerinfo_t are nick—
+name and the extendjnfo. Using this library, the programmer should never have to
+deal directly with the internals of extend_info_t, and will probably never see it at
+all, but if the programmer want to add to the library, he will need to look over how
+it is used. The best place for a quick example is any of the attack functions detailed
+in controlmod.c.
+
+(U) routerlist_t *router_get_routerlist(void)
+
+— Description: Return the current list of all known routers.
+— Arguments: None.
+
+— Return Value: The list of all known routers. This list will not be populated
+until update_router_descriptors has run.
+
+— Notes: See the routerlist_t documentation.
+(TS//SI) void tor_cleanup(void)
+
+— Description: Cleans up before shutting Tor down.
+— Arguments: None.
+— Return Value: None.
+
+— Notes: This must not be called unless no more Tor connections or services
+are needed. Calling tor_init after calling this function does not work yet. It
+seems that the problem with this is actually in shutting down and resetting the
+OpenSSL library.
+
+(S / / SI) Circuit building
+(U) circuit_t
+
+The only ﬁeld from this structure that the programmer needs to worry about is
+global_identiﬁer. This identiﬁer is how the program keeps track of circuits it has
+built, so if a program wants to have multiple circuits up at once, the programmer
+must keep track of their respective global identiﬁers or maintain a list of pointers to
+the actual structures.
+
+(TS//SI) circuit_t *new_arbitrary_circuit_by_nickname (char *
+begin_router_nickname)
+
+37
+
+TOP SECRET//COMINT//20291123
+

@@ -1,0 +1,50 @@
+TOP SECRET//COMINT//20291123
+
+what the client is sending, and to anyone outside of the Tor cloud it appears that the third
+node originated the request.
+
+(U) In short, Tor uses a combination of encryption and multiple proxies to hide who
+is sending what through the Tor cloud.
+
+2 (U//FOUO) Objectives
+1. (U//FOUO) Become familiar with Tor by setting up an internal Tor network.
+
+2. (U//FOUO) Read the documentation and code of, as well as examine the packets
+sent and received by, the client.
+
+3. (S / / SI) Develop detailed client speciﬁcations and requirements and document them
+for the community.
+
+4. (S / / SI) Create Tor client libraries to be leveraged by a network—enabled application.
+
+5. (S / / SI) Create a Tor client, using the above Tor libraries, that allows for on—the—ﬁy
+tweaking of the client’s behavior in the Tor cloud.
+
+(U//FOUO) We feel that we accomplished all of these objectives, as well as a few
+other unspeciﬁed goals. This paper discusses our progress on all of these objectives.
+
+3 (U//FOUO) Objectives 1 and 2
+
+(S / / SI) We set up our own internal Tor network on eight machines in the Protocol Ex—
+ploitation lab. The network consisted of two directory servers, ﬁve servers, and 1 machine
+that was conﬁgured to act only as a client. They were connected to each other through
+the same hub, and we used Ethereal to sniff packets that they sent back and forth.
+
+(U//FOUO) Tor is a large open—source project, and we were able to download its
+source code and documentation from tor.eff.org. Most of our analysis was performed using
+source code from Tor versions 0.1.1.17 and 0.1.1.21. There were no major differences
+between the two versions, and the core functionality of building circuits and maintaining
+inter—server connections remained unchanged.
+
+(U//FOUO) Our analysis was three—fold: we read the protocol speciﬁcation, exam—
+ined the source code, and observed the actual behavior of our own Tor cloud. This gave
+us an excellent idea of how Tor works, allowing us to formulate hypotheses regarding Tor’s
+behavior which we could then immediately test.
+
+4 (U / /FOUO) MJOLNIR
+
+(TS / / SI) Another major objective was the speciﬁcation and development of a custom Tor
+client library. We developed a library that allows the programmer control over all aspects
+
+TOP SECRET//COMINT//20291123
+

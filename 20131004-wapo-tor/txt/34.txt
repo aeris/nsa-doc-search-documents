@@ -1,0 +1,54 @@
+TOP SECRET//COMINT//20291123
+
+node in a circuit coming from the client, but this circuit is shut down as soon as the intro
+point passes along the hidden service request. In addition, it knows the RSA public key
+(modulus) for the hidden service. This is more information than it needs, because when
+it receives a request to access the hidden service, all that is passed along is a SHA—l hash
+of the public key, so all the introduction point really needs is that hash. By giving the
+introduction point the entire public key, Tor is leaking more information than it needs
+to. Of course, the only thing that the public key really gets us is the ability to connect
+to the hidden service, but that is not insigniﬁcant. Consider the (small) probability that
+a hidden service that we do not know about will select a friendly machine as one of its
+introduction points, and the usefulness is clear.
+
+(S / / SI) A machine knows that it is an introduction point as soon as it receives an
+ESTABLISHJNTRO cell, which contains the public key info.
+
+(TS/ / SI) The hidden service can select its introduction points in its conﬁguration
+ﬁle through a ﬁeld called HiddenServiceNodes. By changing that ﬁeld, we can inﬂuence
+the hidden service to choose our box as its introduction point, but if we are on their box
+already, there are far more useful things we can do, like obtaining the hidden service’s
+private key. If HiddenServiceNodes is empty, then introduction points are picked using
+router_choose_random_node.
+
+D.4.2 (U) Rendezvous points
+
+(TS / / SI) Rendezvous points are the most knowledgeable nodes in a hidden service circuit.
+When accessing a hidden service, a client must ﬁrst set up a circuit to a rendezvous point
+(RP). The RP is the third node in this circuit, so it knows all the information a third node
+knows; see above. In addition to this basic third node information, the rendezvous point is
+also given a “rendezvous cookie”, a random 20—byte number which the RP will use later.
+After this circuit is set up, the client requests access to the hidden service through the
+introduction point (the RP sees none of this), and if the hidden service decides to allow
+contact, it will set up a circuit to the RP. The RP is the third node in this circuit as well.
+The hidden service sends a cell down this circuit that contains the rendezvous cookie, gy
+for a Diﬁie—Hellman handshake between the hidden service and the client, and K H. Right
+now, the RP only looks at the rendezvous cookie, but it would require only a trivial change
+to have it store the other values.
+
+(TS / / SI) At the RP, after it decrypts its layer of encryption, the cell is only under
+one layer of encryption, based on the shared secret between the hidden service and the
+client. We can also see 93’. This is a far cry from knowing the shared secret, but this is as
+close to being able to see traﬁic between the client and hidden service as we can get right
+now. It is certainly the weakest point of the entire hidden service system.
+
+(S//SI) A node knows that it is a rendezvous point as soon as it receives a RE—
+LAY_ESTABLISH_RENDEZVOUS cell, which contains the rendezvous cookie, and it
+knows that the hidden service and client are connected across it as soon as it receives a RE—
+LAY-RENDEZVOUSl cell from the hidden service and sends a RELAY_RENDEZVOUS2
+cell to the client.
+
+34
+
+TOP SECRET//COMINT//20291123
+

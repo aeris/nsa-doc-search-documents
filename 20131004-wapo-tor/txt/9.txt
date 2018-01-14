@@ -1,0 +1,39 @@
+TOP SECRET//COMINT//20291123
+
+Table 1: (U) Tor’s X.509 certiﬁcate
+
+Version: 3 (0x2) This is hard—coded into Tor.
+
+Serial Number: some number Currently, we don’t know if this is a random
+number, or if there is some signiﬁcance. (We do know that it is created with an
+OpenSSL function.)
+
+SignatureAlgorithm: shalWithRSAEncryption
+
+Issuer: O=TOR CN=string <identity> “TOR” will always be present as the
+organizationName. The commonName ﬁeld is more variable. string will be the nick—
+name of the server as listed in the public directories. For clients without nicknames,
+it will be the string “client”. Note that it will always be followed by “ <identity>”.
+
+Validity:
+— Not Before: time This is the time that the TLS certiﬁcate was created by
+TOR.
+— Not After: time By default, this is 2 hours later.
+Subject: O=TOR CN=string Again, “TOR” is the organizationName. This
+is hard—coded, and will always be present. string will be just the nickname of the
+
+server in the ﬁrst certiﬁcate, and will contain “ <identity>” in the second, self—signed
+certiﬁcate.
+
+— Subject Public Key Info:
+
+* Public Key Algorithm: rsaEncryption
+- RSA Public Key:
+- Modulus (1024-bit): some number Varies.
+- Exponent: 65537(0x10001) This is hard coded into Tor.
+
+Signature Algorithm: shalWithRSAEncryption This is followed by 1024 bits
+of signature.
+
+TOP SECRET//COMINT//20291123
+

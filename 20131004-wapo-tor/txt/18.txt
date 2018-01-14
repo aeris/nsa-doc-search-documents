@@ -1,0 +1,51 @@
+TOP SECRET//COMINT//20291123
+
+are also two major avenues of exploration in the architecture of Tor itself that warrant
+further study because they may provide ways to discover important target information.
+
+8.1 (U//FOUO) Expanding MJOLNIR’S functionality
+
+(TS//SI) The Tor code provided a solid basis for our work on MJOLNIR, but every
+modiﬁcation opens up the opportunity for bugs to arise. All of our work was done in a
+small lab with eight machines, so the MJOLNIR code must be tested on a larger network
+to see if it still behaves correctly, or if its response time is simply too long to be useful.
+There remain large portions of code that are only useful to servers that can safely be cut
+from the MJOLNIR main code. Unfortunately, we did not have enough time to completely
+divorce the client and server sides of Tor’s code.
+
+(TS//SI) MJOLNIR still has one major deﬁciency: it cannot connect to hidden
+services. In order to successfully connect to one, the client must set up a circuit to a
+rendezvous point, then to an introduction point, then must request that the hidden service
+meet it at the rendezvous point. Doing this much is very important, and with the right
+modiﬁcations, it becomes possible to have a client be its own rendezvous point. As such,
+there will be only two servers between our client and the hidden service, making a traﬁic
+analysis attack easier, which may open the way for locating the identity and location of
+hidden services.
+
+8.2 (U) Privoxy
+
+(U//FOUO) Tor is useful only for rerouting traﬁic so that one’s location and/ or browsing
+habits are kept secret. Tor does not examine the packets it sends for identifying information
+such as IP addresses. Because of this, Tor is packaged with Privoxy, a free software ﬁltering
+proxy. Privoxy’s purpose is to scrub all identifying information from HTTP requests, etc.
+Any Tor user who is not using a ﬁltering proxy like Privoxy is probably leaking identifying
+information, especially in DNS requests. There may be situations in which Privoxy does
+not hide all of the information that needs to be hidden for perfect anonymity. However,
+we did not have time to study the interaction between Tor and Privoxy, and it warrants
+some attention.
+
+8.3 (U) Tor remote control
+
+(TS / / SI) One area of interest that we looked at brieﬂy before turning to other, more useful,
+ideas was the possibility of using Tor’s control port to control a client or server. Tor offers
+the option to set up a control port. A control port would allow one to remotely control
+any standard conﬁguration option of his Tor server as if he were directly editing Tor’s
+conﬁguration ﬁle. However, this did not offer the ﬂexibility or power that we needed to
+set up a custom client, so we abandoned the idea early on. This does not mean that there
+is no useful application of using the control port. For example, one may be able to set up
+a carefully selected set of entry guards or exit servers (or both) so that suspected target
+
+18
+
+TOP SECRET//COMINT//20291123
+

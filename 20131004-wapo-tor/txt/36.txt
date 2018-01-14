@@ -1,0 +1,57 @@
+TOP SECRET//COMINT//20291123
+
+1. nickname: the nickname of the chosen directory server. If it is NULL or not
+the nickname for any valid server, the dirserver will be chosen randomly.
+
+2. fascistﬁrewall: set to 1 if MJOLNIR is behind a ﬁrewall that will not let
+certain ports out. See Tor’s man page for more documentation.
+
+— Return Value: The routerstatus _t structure describing the chosen directory
+server. The return value should be checked to see if it is NULL , indicating an
+error.
+
+— Notes: The nickname should be either a trusted directory server (hard—coded
+into the library) or a directory mirror. In order to download from a mirror,
+MJOLNIR must ﬁrst know which servers are mirrors, so it will have to make
+at least one request from an authoritative directory.
+
+0 (TS//SI) int update_router_descriptors (void)
+
+— Description: Get the router descriptor data from a directory server.
+— Arguments: None.
+— Return Value: 0 on success; negative on failure.
+
+— Notes: This function must be called every time the program needs to update
+its listing of routers. This must be done at least once before setting up any
+circuits. It may be done an arbitrarily large number of times throughout the
+life of the program, but each fetch will generate a sizable amount of traﬁic to
+one directory server.
+
+Warning: this function will always talk to one of the 5 directory servers hard—
+coded into config.c:529 (add_default_trusted_dirservers). This behavior
+should be able to be changed if the chosen directory server is a directory mirror.
+See documentation for set_chosen_dirserver.
+
+Warning: This function is blocking. It will halt program execution until it
+either times out or receives a response. See the timeout documentation.
+
+0 (TS / / SI) char *get_routerdesc_string (void)
+— Description: Return the exact string that the server returns when MJOLNIR
+asks for the directory.
+
+— Arguments: None.
+
+— Return Value: A new copy of a string containing all router descriptors as
+received from the directory.
+
+— Notes:
+
+a (U) routerlist _t
+
+The deﬁnition of routerlist -1: is in or . h on lines 930—941. The most important ﬁeld
+is the smartlist routers which is a smartlist of routerinfo_t structures. The one part
+
+36
+
+TOP SECRET//COMINT//20291123
+

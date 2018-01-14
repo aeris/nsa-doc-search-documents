@@ -1,0 +1,50 @@
+TOP SECRET//COMINT//20291123
+
+F.5 (U) Future features ............................... 49
+F.5.1 (U) Minor changes/ bug ﬁxes ...................... 49
+
+1 (U) Tor overview
+
+(U) Tor is an implementation of an onion routing system. Its creators use a special jargon
+to describe its workings; please consult appendix A, Tor glossary, for deﬁnitions. Tor’s
+anonymization works by having a Tor client send its traﬁic through a circuit of three
+servers, each running Tor, under several layers of encryption. This accomplishes several
+things. Most basically, the Tor servers, many of which are listed on publicly advertised
+directory servers, are chosen to act as a series of proxies. This may seem to be excessively
+complex, as a single proxy server can be used to hide one’s location, but a single—hop proxy
+is vulnerable in two ways. First, by analyzing the pattern of the traﬁic going to and from
+the proxy server, it is possible to deduce which clients are making which requests. Second,
+if an attacker owns the proxy server, then it certainly knows who is asking for what, and
+anonymization is ruined. By using multiple hops, Tor is much more resistant to both of
+these attacks. Traﬁic analysis becomes extraordinarily difﬁcult, as it must be coordinated
+across several machines, and an attacker must own all the hops along the circuit in order
+to trace requests back to the originating client.
+
+(U) If Tor’s only feature was the use multiple proxies, it would not necessarily mean
+that it could not be attacked some way, such as knowing which circuit a client will choose to
+route trafﬁc through, or simply reading requests sent in the clear and looking for identifying
+information. However, Tor leverages the OpenSSL cryptographic libraries to encrypt the
+data it sends and to choose random circuits in order to prevent an attacker from gaining
+useful information.
+
+(U) The series of Tor servers used to relay a client’s TCP trafﬁc is referred to as a
+circuit. Circuits are set up one server at a time in a way that keeps any single server from
+knowing the entire layout of the circuit. The client connects to the ﬁrst server. It then
+asks the ﬁrst server to connect to the second server. Finally, it sends a request through
+the ﬁrst server that asks the second server connect to the third server. Each server only
+knows who connected to it and to whom it connected, which is just one server each way
+in the circuit. A more detailed explanation can be found in appendix B.1.
+
+(U) The phrase “onion routing” refers to the way that encryption is layered to hide
+information sent down the circuit. When setting up the circuit, the client negotiates keys
+with each of the servers it will be routing through. Most circuits in Tor contain three
+servers, so the client negotiates three secret keys, one with each server. When the client
+wants to send some data, for example an HTTP GET request, it ﬁrst encrypts the data
+once using each key. It sends the packet to the ﬁrst server, which removes one layer of
+encryption and passes along the packet to the second server. The second server removes
+another layer of encryption and sends the packet to the third server. When the third server
+removes a layer of encryption, then the packet is now in the clear, and the server will send
+the HTTP GET to the appropriate destination. In this way, only the third server can see
+
+TOP SECRET//COMINT//20291123
+

@@ -1,0 +1,54 @@
+TOP SECRET//COMINT//20291123
+
+— Notes: Must get the circuit from new_aIbitraIy_circuit_by_nickname.
+Warning: This call is blocking. It will halt program execution until a circuit
+has been successfully extended.
+
+0 (TS / / SI) routerinfoJ: *getlandomlouter (routerinfoJ: *exclude)
+— Description: This function gets a random router from the global router list
+
+so long as the chosen router is not the excluded one.
+
+— Arguments: exclude: Gives the programmer the option to exclude a certain
+router. It is most useful to exclude the most recently appended router in the
+circuit, as the circuit dies if it tries to go to the same router twice in a row.
+
+— Return Value: Returns the routerinfo_t for the chosen router. This is
+probably only useful for extending the current attacks, in which case it would
+be useful to study those attacks carefully.
+
+— Notes:
+0 (TS//SI) int nickname_is_known (const char *nickname)
+
+— Description: This function checks to see that the nickname is a valid one.
+— Arguments: nickname: a string with the nickname of some router.
+
+— Return Value: Returns 1 if the router is valid; returns 0 otherwise. The
+router is valid if the program has routerstatus_t information about the router
+with that nickname.
+
+— Notes: The program may know about an invalid router. For example, the
+router may have been taken down since the router descriptor was fetched. How—
+ever, when MJOLNIR tries to connect a circuit, it will fail.
+
+o (TS//SI) void close_circuit(circuit_t **circ)
+
+— Description: Given an open circuit, close it, remove it from globach'rcuz'tlz'st,
+and de—allocate its memory. circ is NULL on return.
+
+— Arguments: circ: The circuit to be closed.
+— Return Value: None. However, circ is NULL so it can no longer be used.
+
+— Notes:
+
+E.3 (U//FOUO) Sending and receiving data
+
+0 (TS//SI) int send_payload_down_circ(char *payload, size_t payload_len char
+*ip_addr, int port, circuit_t *circ, int force)
+
+— Description: This function sends a custom packet down the requested circuit
+to the speciﬁed address at the speciﬁed port.
+
+39
+TOP SECRET//COMINT//20291123
+

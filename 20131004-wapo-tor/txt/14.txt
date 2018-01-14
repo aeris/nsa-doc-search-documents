@@ -1,0 +1,53 @@
+TOP SECRET//COMINT//20291123
+
+now, we have a large list of potential circuits.
+
+(8/ / SI) From here, we watch for more interesting material to be sent to the exit
+server and repeat the process. We should get a different set of potential circuits, as not
+every connection should be active again at roughly the same time except the connections
+along the circuit for which we are looking. There should be some overlap between the two
+lists. This intersection is our new, smaller list of potential circuits. After repeating this
+process enough times, we should only have one circuit, or at most, a handful.
+
+(TS/ / SI) This analysis becomes easier for each box that we own along the circuit,
+since we then know for sure which incoming connection matches which outgoing connection
+on that box. This means that our tree of potential circuits branches one less time. Owning
+the exit server is probably most useful for this type of analysis, since it is the only machine
+known to be a part of the circuit from the beginning.
+
+(TS / / SI) There are some difﬁculties. How many potential circuits will result from
+each iteration? Without some data on the real Tor cloud regarding how many connections
+each server is sending data over for a given span of time, it is impossible to say. It would
+not be surprising if this number turns out to be very, very large, even with the pruning at
+each step. Assuming the number of potential circuits is not too large to work with, how
+many iterations of this algorithm will it be necessary to run before we can track down the
+one, true circuit? Again, without some real data about the Tor cloud it is impossible to
+say. Clearly, the more potential circuits we ﬁnd at each iteration, the more iterations it
+will take to narrow the list down to one.
+
+(U//FOUO) The biggest problem with this idea is that Tor will only use a circuit
+for a short period of time before tearing down and building a new one. Currently, the
+default period of time for this is 10 minutes, and Tor checks every 30 seconds to see if any
+circuits need torn down. So at best there are 10 minutes during which one can perform
+this analysis.
+
+(TS / / SI) Second method: Black-box the Tor cloud In order for this attack to
+work, we only need to see connections entering and exiting the Tor cloud. When we see
+an exit server make a request of a service that we are interested in, we keep track of when
+information is sent back into the Tor cloud. We then keep track of each client connected
+to the Tor cloud that receives data afterward for an arbitrary amount of time, probably
+a TCP timeout. This will likely be an enormous number of clients. Each client will have
+a certain probability of being the one that made the request; for example, a client that
+receives information 2 seconds after the service sends back some data is more likely to
+be the one that requested it than a client that receives information 10 seconds after the
+service sends the data. Each time we see the service send information back to that same
+exit server, we track which clients receive data during the right time frame. Each iteration
+will give us a large number of clients, but we are only interested in the clients that receive
+information each time, that is, clients in the intersection of all the sets. The client making
+the requests must be in that intersection. The client with the highest total probability
+over all the iterations is the most likely to be the target.
+
+14
+
+TOP SECRET//COMINT//20291123
+

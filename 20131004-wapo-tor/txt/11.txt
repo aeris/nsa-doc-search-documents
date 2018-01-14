@@ -1,0 +1,54 @@
+TOP SECRET//COMINT//20291123
+
+of the lab. These descriptions are intended to be used as possible avenues for future
+research and development.
+
+7.1 (TS / / SI) Denial-of-service-style attacks with MJOLNIR
+
+(TS / / SI) An unmodiﬁed Tor client will never include a given server in a circuit more than
+once. This ensures that no server will have to do more work than any other. However,
+only the client can check for repeated servers. With MJOLNIR we can build an arbitrary
+circuit of arbitrary length, violating nearly all restrictions on circuit construction with
+impunity. This capability allows for many interesting DoS—style attacks as we can force
+other server to do many times the work we have to. Since Tor normally sends packets of
+length 586, large circuits can heavily tax the Tor cloud in general, and a targeted server
+in particular.
+
+(TS / / SI) The biggest problem with these attacks is that they take us a large amount
+of work to set up. For an n—server circuit, we must send at least n cells to set up that
+circuit. Building a circuit can take a large amount of time, especially if the servers are on
+different continents, as is the case in the Tor cloud. The number of packets generated is
+on the order of n2, and the time to set up a circuit grows similarly. Once the circuit is set
+up, the amount of trafﬁc grows linearly with the number of servers on the circuit.
+
+(TS / / SI) The point of building these circuits is to get target servers to handle much
+more trafﬁc than our client machine while not disturbing the rest of the Tor cloud. Once
+the circuit is set up, this is not a problem. For example, if we set up a circuit in which one
+server appears 50 times, it will always do at least 50 times more work than our machine
+once the circuit is established. We can use this for two distinct types of attack.
+
+(TS / / SI) First, there is the possibility that if we had enough circuits running through
+a target machine, we could cause a socket denial of service. Each connection between two
+Tor servers uses distinct sockets. Once two machines are connected to each other, they
+will always use the same sockets, but with enough machines connecting to a server, it is
+theoretically possible to cause a machine to use all of its available sockets.
+
+(TS / / SI) Also, Tor gives servers the option of sending only a limited amount of trafﬁc
+through the Tor network in a given period (day, week, or month). By targeting a machine
+with these attacks, we could cause a server to hibernate, essentially taking it out of the
+Tor cloud until the next accounting period begins. This could also make bandwidth costs
+prohibitively high for targets.
+
+7.1.1 (TS//SI) Coil attack
+
+(TS / / SI) Our ﬁrst implemented technique for achieving either type of attack is what we
+call the “coil” attack. For this attack, we choose two target servers and set up a circuit that
+bounces back and forth between the two, “coiling” them around each other. When we set
+up a circuit of me coils, the circuit will actually be composed of 2nC servers. This is because
+for each coil both targets are included once. This attack is concentrated, but requires two
+targets in order to work. This may be detected by an observant sysadmin, but by default,
+
+11
+
+TOP SECRET//COMINT//20291123
+

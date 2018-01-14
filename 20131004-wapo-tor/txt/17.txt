@@ -1,0 +1,52 @@
+TOP SECRET//COMINT//20291123
+
+(S / / SI) Also, keep in mind that the people running these hidden services are gener—
+ally very careful, and all of these requests and nmaps are detectable by a canny system
+administrator. We can hide ourselves by using Tor to route our requests, even if we don’t
+try to access the hidden service the Tor way, but the attempt may well be detected. This,
+combined with the shot—in—the—dark nature of the whole enterprise, limits its usefulness.
+
+7.4 (U//FOUO) Man-in—the—middle attack
+
+(TS/ / SI) Because Tor’s X609 certiﬁcates are self—signed, it may be possible to perform
+a man—in—the—middle attack using MJOLNIR to forge certiﬁcates. Assume that we wish
+to intercept traﬁic between two Tor servers with the nicknames Alice and Bob. They
+will send X609 certiﬁcates that are structured in a very speciﬁc way; see section 5. We
+can use MJOLNIR to create our own Tor—style X.509 certiﬁcate with “Alice” or “Bob”
+in the correct location and appear to be the other machine. From here, we carry out a
+man—in—the—middle attack in the normal fashion.
+
+(TS/ / SI) However, this only allows us to get under the layer of TLS encryption.
+As covered in section B.3.2, the client sets up a layer of encryption with the server (for
+example, Bob) by passing it an “onion skin”. Most of the time, this is done using a
+CREATE cell which contains half of a Diﬁie—Hellman handshake. The contents of this
+CREATE cell are encrypted to Bob’s publicly advertised RSA key. This means that we
+won’t be able to read the CREATE cell, and we still won’t be able to read the contents
+of the cells that go through the man—in—the—middle. All we will be able to see is 3 bytes of
+header on the cells that we would relay through.
+
+(TS / / SI) If the man—in—the—middle intercepts a CREATE_FAST cell, it will be able
+to read the X value that it contains and create a shared secret with the client, in effect
+becoming the ﬁrst server in the circuit. The intended ﬁrst server can be completely removed
+from the circuit, and the man—in—the—middle will see which server is second in the client’s
+circuit.
+
+(TS / / SI) We did not test this in our work, so there may be issues with this attack
+that we did not foresee. At the very least, there is still the obstacle of the authoritative
+directory servers. They act in a fashion similar to a trusted third party. The directory
+listing weakly associates speciﬁc RSA public keys with speciﬁc server nicknames. If a
+server operator registers their Tor server with the authoritative directory server (this must
+be done out—of—band), then this becomes a strong association, and certiﬁcates with Alice’s
+name will not be accepted unless they have Alice’s listed public key. Thus, it may not
+always be possible to perform this attack. However, the authoritative directory servers
+appear vulnerable. See section 8.4 for further discussion.
+
+8 (U) Future areas of study
+
+(TS / / SI) There are still many interesting and important areas of Tor functionality to ex—
+plore. As with any software project, there are always bugs to ﬁx and features to add. There
+
+17
+
+TOP SECRET//COMINT//20291123
+

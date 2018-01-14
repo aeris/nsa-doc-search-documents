@@ -1,0 +1,56 @@
+TOP SECRET//COMINT//20291123
+
+trieves information regarding the ﬁrst server from the circuit’s cpath variable. This infor—
+mation is used to see if there is already a connection to that server. If so, that connection
+will be used for the circuit’s n_conn. The appropriate ﬁelds of the circuit_t structure
+are set to hold information about that connection, and circuit_send_next_onion_skin
+is called to set up the cryptovariables between the two routers. See B.3, Encryption for
+more about the information sent in an “onion skin”.
+
+(U) If there is no pre—existing connection to the ﬁrst server, the function
+connection_or_connect is called. It takes as arguments the address, port, and iden—
+tity digest of the server being connected to. The identity digest is a SHA—l hash of the
+server’s public RSA key, and is often used to uniquely identify a particular router. A lot
+of things happen in this function, with the ultimate goal of returning a fully initialized
+connection. First, it calls connect ion_new, which allocates memory for a new connection
+and initializes various members of the connection_t structure.
+
+(U) Next, connection_or_connect calls connection_or_init_conn_:from_address,
+which is passed the newly created connection_t structure, and the address, port, and
+identity digest of the server being connected to. It tries to retrieve the server’s information
+based on its identity digest, which, if found, is used to ﬁll in more variables in n_conn. If it
+could not ﬁnd the server information, then the function will ﬁll in the necessary information
+itself, occasionally using more generic information than would have been retrieved based
+on the identity digest. With all of these things initialized, the function will return to
+connection_or_connect.
+
+(U) The next important step is that connection_connect is called. This attempts to
+create a non—blocking socket connected to the IP address:port combination it was passed.
+Most of what goes on in here is basic C socket calls. If successful, the connection is added
+to the global connection array, and read and write events for the connection are set up,
+using libevent. The events on the connection are initially set to be non—reading and non—
+writing, but as the program continues, the events will be changed to handle reads and
+writes.
+
+(U) Finally, connection_or_connect will call connection_or_finished_connecting,
+which will start the TLS handshake between the two servers. After the TLS hand—
+shake completes, the client will send a CREATE cell to set up encryption between it—
+self and the ﬁrst server. All of this will be discussed in the next section, Encryption.
+So once connection_or_finished_connecting returns, everything up to and including
+circuit_establish_circuit returns.
+
+(U) At this point, the circuit is still not fully connected. The client has set up
+its connection to the ﬁrst server, and is waiting for a CREATED cell in response to the
+CREATE cell it just sent. Once a CREATED cell is received, the client and the ﬁrst
+server have ﬁnished agreeing on their cryptovariables, and can communicate freely under
+a layer of encryption. At this point, the client will make an EXTEND cell, which contains
+all of the information necessary to connect to the second server in the circuit as well as
+cryptovariable information for the layer of encryption between the client and the second
+server, and send it encrypted to the ﬁrst server.
+
+(U) The ﬁrst server will decrypt the cell, and read the information for connect—
+
+25
+
+TOP SECRET//COMINT//20291123
+

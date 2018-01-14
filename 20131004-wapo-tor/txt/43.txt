@@ -1,0 +1,58 @@
+TOP SECRET//COMINT//20291123
+
+— Arguments: sl is the smartlist that is losing the element. sl must have been
+returned by smartlist_create.
+
+— Return Value: None.
+
+— Notes: Preserves the order of any elements before element, but elements after
+it may be rearranged.
+
+o (TS//SI) SMARTLIST_FOREACH (smartlist, type, var, code)
+
+— Description: SMARTLIST_FOREACH is a macro that will run code for every
+element in a smartlist. All elements of the smartlist must be of the given type.
+
+— Arguments:
+
+1. smartlist: The smartlist over which MJOLNIR runs the code.
+2. type: The type of data held by the smartlist.
+
+3. var: The variable name by which the macro access the elements of the
+smartlist. The variable does not need to be declared before being used.
+
+4. code: The code to be executed. If there is more than one statement, it
+should be in curly braces.
+
+— Return Value: None.
+
+— Notes: Remember that this is a macro. If the code is bracketed, it must be
+followed the closing brace with a right parenthesis and semicolon.
+
+0 (TS / / SI) ﬁeld_value_pair_t
+
+(TS / / SI) This is a very simple structure containing two strings: a ﬁeld and a value.
+These should be allocated and set as any other strings. In the example program, this
+structure is added to a smartlist so that MJOLNIR can use custom X609 certiﬁcates.
+
+0 (TS/ / SI) Subject and issuer smartlists (smartlist_t)
+
+(TS/ / SI) Tor uses self—signed X609 certiﬁcates during its TLS handshake. By de—
+fault, it sends only commonName (normally the client or server’s nickname) and
+organizationName (normally the string “TOR”) for both subject and issuer, with
+the only difference being that the issuer common name is followed by the string
+’<identity>’.
+
+(TS/ / SI) A Tor server will check for required X.509 ﬁelds, but not anything else
+except the subject’s commonName, and the only restrictions are that the length is
+greater than 0 and it consists of alphanumeric characters. (The commonName can
+also contain a period, but this creates a log message on the other server. Currently,
+MJOLNIR treats the period as an illegal character.) These lists allow the program—
+mer to send any X609 certiﬁcate he wishes, instead of always sending the same ones.
+If there is no commonName in the subject section, the client will generate a random
+string of characters 10—20 bytes long to act as the commonName.
+
+43
+
+TOP SECRET//COMINT//20291123
+

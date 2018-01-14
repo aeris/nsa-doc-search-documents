@@ -1,0 +1,53 @@
+TOP SECRET//COMINT//20291123
+
+C (U) Hidden services
+C.1 (U) Offering a hidden service
+
+(U) In order to offer a hidden service, the operator of the service (whom we will call
+Bob) must ﬁrst add lines to their Tor conﬁguration ﬁle indicating the directory containing
+information regarding the hidden service and the port on which the hidden service will
+be advertised. After Tor starts up with this new conﬁguration ﬁle, it will automatically
+generate an RSA public/ private key pair, and create a .onion address for the service. The
+address is of the form x.onion, where x is based on the service’s public key. Speciﬁcally,
+x is the base—32 encoding of the ﬁrst 80 bits of the SHA—l hash of the public key.
+
+(U) At this point, Tor picks out at least 3 servers in the cloud to act as introduction
+points. Bob may use the conﬁguration ﬁle to specify particular servers that he wants to act
+as intro points, but if he does not, Tor will simply choose a servers randomly. Once the intro
+points have been decided upon, Bob does two things. He will generate a service descriptor,
+which contains information about his public key and how to connect to his introduction
+points. This service descriptor can be uploaded to the public directory servers, but it
+need not be if Bob does not wish to have his service publicly known. Bob will also create
+circuits to his introduction points. Once the circuit is connected, he will send along cells
+which contain his public key, a hash based on K H (see Keys, in B.3, Encryption), and
+a signature based on that data. These are called RELAYESTABLISHJNTRO cells.
+
+(U) When an intended introduction point receives the RELAY_ESTABLISH_INTRO
+cell, it checks that the information is well—formed and correctly signed. If so, it sends a cell
+back to Bob acknowledging that it will act as an introduction point for his hidden service.
+It also makes note that the circuit on which it received the RELAYESTABLISHJNTRO
+cell will be used when dealing with requests for Bob’s hidden service, and associates it
+with Bob’s public key.
+
+(U) When Bob receives acknowledgment from his introduction points, he considers
+the introduction circuits open, he will advertise his service descriptors to the Tor directory
+servers if he so desires, and he is now ready to receive requests to access the hidden service.
+
+C.2 (U) Accessing a hidden service
+
+(U) There are several ways that a client (whom we will call Alice) can become aware of
+Bob’s hidden service. At the very least, she must receive Bob’s public key somehow, most
+likely through some out—of—band communication such as a phone conversation or encrypted
+e—mail. Using this, she can request Bob’s service descriptor from the Tor directory servers
+if Bob has chosen to advertise his service publicly. Otherwise, Alice must know Bob’s
+entire service descriptor through some other means.
+
+(U) Once Alice has the descriptor and decides to talk to Bob’s hidden service, she
+must ﬁrst set up a circuit to some server in the Tor cloud, known as a rendezvous point
+(RP). This point is chosen randomly, although Alice can add a line to her Tor conﬁguration
+ﬁle that will indicate preferred RPs. Once the circuit is established, Alice sends a RE—
+
+29
+
+TOP SECRET//COMINT//20291123
+

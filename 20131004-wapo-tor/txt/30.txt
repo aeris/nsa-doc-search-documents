@@ -1,0 +1,54 @@
+TOP SECRET//COMINT//20291123
+
+LAY_ESTABLISH_RENDEZVOUS cell to the RP, which contains a randomly generated
+number referred to as a rendezvous cookie (RC).
+
+(U) When the RP receives the RELAY_ESTABLISH_RENDEZVOUS cell, it will
+send an acknowledgment back to Alice, and make note that the circuit the cell came in on
+is to be used for a rendezvous, and is associated with that RC.
+
+(U) After Alice receives acknowledgment from the RP, she builds a circuit to one of
+the introduction points listed in Bob’s service descriptor. Once connected, she will send
+a RELAYJNTRODUCEl cell to the intro point, which contains a hash of Bob’s public
+key, as well as information intended for Bob that is encrypted to his public key. When
+the introduction point sees the RELAYJNTRODUCEl cell, it checks the hash against the
+hashes of the hidden service public keys that it knows and ﬁnds the circuit associated with
+that public key. It then sends the cell (now encapsulated as a RELAYJNTRODUCE2
+cell, with the same payload) down that circuit, to Bob. Afterward, it sends Alice acknowl—
+edgment that her cell was sent, and Alice will shut down her circuit to the introduction
+point.
+
+(U) When Bob receives a RELAYJNTRODUCE2 cell, he decrypts it and pulls out
+the data Alice sent. This includes information for connecting to the RP, the RC, and
+Alice’s half of a Diﬁie—Hellman handshake, 9””. If Bob decides to talk to Alice, he will
+create a circuit to the speciﬁed RP. Bob sends the RP a RELAY-RENDEZVOUSl cell,
+which contains the RC, Bob’s half of the Diﬁie—Hellman handshake gy, and the K H for his
+interaction with Alice.
+
+(U) When the RP receives a RELAY.RENDEZVOUSl cell, it ﬁnds the circuit as—
+sociated with the given RC. It then sends gy and K H in a RELAY_RENDEZVOUS2 cell
+down that circuit to Alice. It makes note of the fact that the circuit from Alice and the
+circuit from Bob are linked, and zeroes out the RC so no one else can attempt to connect
+to Alice’s circuit.
+
+(U) Finally, Alice receives the RELAY_RENDEZVOUS2 cell and uses it to complete
+the Diﬁie—Hellman handshake and initialize the cryptovariables between her and Bob. Now
+Alice and Bob can talk across this newly—formed rendezvous circuit in almost the exact
+same way as a normal circuit. Neither knows what is on the other side of the RP, so they
+don’t know where the other person’s machine is located. The content of their messages is
+under the normal circuit encryption as well as one more layer based on their shared secret.
+
+D (U) Information at the nodes
+
+(S / / SI) It is possible for us to have a friendly computer in the Tor cloud. For example, we
+can set up a server and advertise it to the Tor directory servers, like all other users. We
+might compromise another server in the Tor cloud through other means. So how much do
+we know about the traﬁic that we are sending and receiving across circuits? Tor does a
+good job of hiding information about the circuit from all of the nodes in the circuit, in
+most cases allowing nodes to know only about the machines to which they are directly
+connected. However, some information is still leaked simply by being a part of the circuit,
+
+30
+
+TOP SECRET//COMINT//20291123
+
