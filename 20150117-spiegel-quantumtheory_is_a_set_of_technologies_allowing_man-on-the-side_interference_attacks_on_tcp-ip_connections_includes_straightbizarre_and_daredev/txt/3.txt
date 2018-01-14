@@ -1,0 +1,31 @@
+TOP SECRET/[COMINT/IREL TO USA, FVEYl/20320108
+
+ 
+
+(U) What is QUANTUMTHEORY
+
+(U/lFOUO) Nothing to do with “Quantum Computing"
+
+:|
+
+(S/lSI/IREL) Protocol injection technique
+D Passive
+D Active
+
+[:1
+
+(SI/REL) Not Man-in-the-Middle
+D But can be used to gain that position
+
+[:1
+
+(SI/REL) Man-on-the-Side
+
+[:1
+
+(SI/REL) Mostly Low Latency... mostly
+
+eye —
+
+TOP SECRET/lCOMINTl/REL TO USA, FVEY/IZ 0108
+
