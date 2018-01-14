@@ -1,0 +1,38 @@
+ 
+
+M... “r
+
+1) (UIIFOUO) Current focus is on SlGlNT/COMINT
+
+2) (UIIFOUO) Review every valid ON! and DNR metadata record passing
+through the NSA SIGINT infrastructure
+
+a; (UIIFOUO) For the Map mew. only display aggregated counts of records with a
+normalized number or an administrative region populated.
+
+by (UIIFOUO) For the Org View. display aggregated counts of every valid record.
+
+3) (UIIFOUO) Raw data. analytics. and back-end database are all conducted in
+the cloud (HDFS. MapReduce. Cloudbase).
+
+ 
+
+ 
+
+(Ul/FOUO) BOUNDLESSINFORMANT is hosted entirely on corporate services
+and leverages FOSS technology (i.e. available to all NSA developers).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

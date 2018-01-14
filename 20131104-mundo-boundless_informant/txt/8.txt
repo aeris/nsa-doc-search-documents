@@ -1,0 +1,24 @@
+ 
+
+"I ‘1 . VROAD MAP
+
+1) (UIIFOUO) Add technology type (eg‘ JUGGERNAUT. LOPER) to provide additional
+granularity in the numbers
+
+2) (Ul/FOUO) Integrate Site Similarity capabilin (i.e. GephiCham)
+
+a) (UIIFOUO) Anomaly detection and alerts
+
+4) (UIIFOUO) Other “INT" data (eg. ELINT. FISINT)
+
+5) (unrouop Add survey data and display delta between collected metadata
+and survey data
+
+6) (U/IFOUO) Add in selected (vs. unselected) data indicators
+
+ 
+
+ 
+
+ 
+
