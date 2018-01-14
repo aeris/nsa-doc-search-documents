@@ -1,0 +1,242 @@
+ 
+
+samte Netzwerk und schnitten den Da-
+tenverkehr mit.
+
+Bald kannten die NSA-Spione die Ser-
+ver der Behorde, die dazugehorigen IP-
+Adressen, die Rechner fur den Mailver—
+kehr und die Adressen diverser Mitarbei-
+ter. Und sie beschafften Diagramme uber
+die Struktur der Sicherheitsbehorde, in-
+klusive Videouberwachung. Die Opera-
+tion lief offenbar uber Jahre, bis der
+SPIEGEL daruber im Oktober erstmals
+berichtete (SPIEGEL 43/2013).
+
+Der Fachbegriff fur diese Form der
+Ausspahung lautet ,,Computer Network
+Exploitation“ — Ausbeutung von Compu-
+ternetzwerken. Ziel sei es, ,,Endgerate zu
+kapern“, heiBt es in einer NSA-Prasen-
+tation. Aufgezahlt werden darin alle Ge-
+rate, die unseren digitalen Alltag bestim-
+men: ,,Server, Workstations, Firewalls,
+Router, Telefone und Telefon-Schaltan-
+lagen“. Hinzu kommen Sca-
+da-Systeme, Steuermodule
+fur Industrieanlagen, die in
+Fabriken und Kraftwerken
+eingesetzt werden. Wer sie
+unter Kontrolle bringt, kann
+Teile der kritischen Infra-
+struktur eines Landes aushe-
+beln.
+
+Das beruchtigtste Beispiel
+fur einen derartigen Angriff
+ist Stuxnet, ein Superwurm,
+der im Juni 2010 entdeckt
+wurde. Er war von den Ame-
+rikanern und israelisChen
+Geheimdiensten entwickelt
+worden, um das iranische
+Atomprogramm zu sabotie-
+ren — mit Erfolg: Es wurde
+um Jahre zuruckgeworfen,
+nachdem Stuxnet die Scada-
+Steuerungstechnik, die die
+Iraner in der Uran-Anreiche-
+rungsanlage von Natans ein-
+setzen, manipuliert und bis zu 1000 Zen-
+trifugen unbrauchbar gemacht hatte.
+
+Neue Techniken entwickelt und testet
+die Sonderabteilung der NSA in einem
+eigenen Entwicklungsbereich. Dort sitzen
+die eigentlichen Tuftler — und ihr Erfin-
+dungsreichtum, in fremde Netze, ReChner
+oder Smartphones einzudringen, erinnert
+an eine zeitgemaBere Version des legen-
+daren ,,Q“ aus den James-Bond-Filmen.
+Wie kreativ die Truppe vorgeht, zeigt sich
+bei einer Einbruchsmethode, die auf die
+Fehleranfalligkeit des Microsoft-Betriebs-
+systems Windows setzt.
+
+Windows-Nutzer kennen das Fenster,
+das auf ihrem Bildschirm aufploppt, wenn
+das System einen Fehler erkannt hat. Mit
+einem Standardtext werden die Kunden
+aufgefordert, einen Fehlerbericht an den
+Hersteller zu schicken und das Programm
+neu zu starten. Fur die TAO-Spezialisten
+bieten diese ,,Crash Reports“ eine will-
+kommene Gelegenheit zum Ausspahen
+des Computers.
+
+ 
+
+Tags!
+
+ 
+
+Denn wenn die Spezialeinheit einen
+Rechner irgendwo auf der Welt zu ihrem
+Ziel erklart und in eine entsprechende Da-
+tenbank aufgenommen hat, werden die
+Geheimdienstler benachrichtigt, sobald
+das Betriebssystem des Computers kolla-
+biert und der Nutzer der Bitte nachkommt,
+den Hersteller Microsoft zu benachrichti-
+gen. Offenbar werden diese Crash-Benach-
+richtigungen mit dem NSA-Spionagewerk-
+zeug XKeyscore aus dem allgemeinen In-
+ternetverkehr herausgefischt.
+
+Die automatisierten Crash-Meldungen
+seien eine ,,hubsche Methode“, um sich
+,,passiven Zugriff“ auf einen Rechner zu
+verschaffen, heiBt es in einer internen
+Prasentation. Zunachst werden dabei nur
+Daten erfasst, die vom betroffenen Com-
+puter aus ins Internet wandern. Veran-
+derungen auf dem Rechner selbst werden
+noch nicht durchgefuhrt. Aber die Feh-
+
+TOP SECRETH'SINREL USA. AU‘S. CAN. GER. NZL
+
+What is QUANTUM?
+QUANTUM Generic Animation — High Level of How It Works
+
+inhernei Route!
+
+—
+14—
+
+ang all Imphnwdi
+
+f. I! the brewer is 031101511340:
+and il'IE-i P5P”; safe. FDKI‘ACIU
+deploys a siege 1 implant bark
+
+no [he Huge:
+
+ 
+
+Geheimdokument zum Quantum-Programm
+
+ 
+
+lermeldungen legen wertvolle Informa-
+tionen frei. Etwa daruber, was mit dem
+Rechner der j eweiligen Zielperson nicht
+stimmt. Also auch, welche Sicherheits-
+lucken sich ausnutzen lassen, um dem ah-
+nungslosen Opfer Schad- und Spahsoft-
+ware unterzujubeln. Obwohl die Methode
+in der PraXis kaum Bedeutung haben soll,
+haben die Agenten der NSA ihren SpaB
+damit, denn sie lieben Scherze auf Kosten
+des Software-Riesen aus Seattle.
+
+So heiBt es in einer internen Grafik an-
+stelle des Microsoft-Originaltextes hamisch:
+,,Diese Meldung kann von einem auslan-
+dischen Sigint-System abgefangen werden,
+um detaillierte Informationen zu sammeln
+und Ihren Computer besser anzuzapfen.“
+Sigint steht fur technische Aufklarung.
+
+Das Infiltrieren von Zielrechnern mit
+sogenannten Implantaten oder Trojanern
+ist eine der Kernaufgaben der Hacker,
+die ihren Spahwaffen Namen wie ,,Wu-
+tender Nachbar“, ,,Brullaffe“ oder ,,Was-
+serhexe“ geben. Aber was putzig klingt,
+
+ 
+
+ 
+
+ist so aggressiv wie effektiv. Laut dem
+Etatplan fur die US-Geheimdienste sollen
+bis Ende 2013 weltweit rund 85 000 Com-
+puter von den NSA-Spezialisten infiltriert
+sein. Die mit Abstand meisten dieser In-
+fektionen erledigen die TAO-Teams uber
+das Internet.
+
+Bis vor wenigen Jahren agierten die
+NSA-Agenten wie Cyberkriminelle und
+verschickten Spam-E-Mails mit Links, die
+auf Virenverseuchte Websites fuhrten.
+Kennt man die Sicherheitslucken eines
+Internet-Browsers, kann es ausreichen,
+dass die Zielperson eine manipulierte
+Website aufruft, um ihren Rechner mit
+Spahsoftware zu infiltrieren. Besonders
+popular ist bei den NSA-Hackern Micro-
+softs Internet Explorer. Doch die Spam-
+Methode funktionierte Viel zu selten.
+
+Mittlerweile hat die Abteilung TAO ih-
+ren Werkzeugkasten aufgerustet. Sie ver-
+fugt uber ein ausgefeiltes Ar-
+senal, das unter dem Ober-
+begriff ,,Quantumtheory“
+gefuhrt wird. ,,Bestimmte
+Quantum-Missionen haben
+eine Erfolgsquote von bis zu
+80 Prozent, wahrend Spam
+bei weniger als einem Pro-
+zent liegt“, heiBt es in einer
+NSA-internen Prasentation.
+
+Ein ausfuhrliches Doku-
+ment mit dem Titel ,,Quan-
+tum-Fahigkeiten“, das der
+SPIEGEL einsehen konnte,
+enthalt als Zielobjekte Viele
+populare Dienstanbieter wie
+Facebook, Yahoo, Twitter
+und YouTube. ,,NSA Quan-
+tum funktioniert am besten
+gegen Yahoo, Facebook und
+statische IP-Adressen“, heiBt
+es da. Nutzer von Google-
+Diensten dagegen konne die
+NSA mit dieser Methode
+nicht ins Visier nehmen — das konne nur
+der britische Geheimdienst GCHQ, der
+den Quantum-Werkzeugkasten von der
+NSA ubernommen hat.
+
+Besonders beliebt ist bei den Staats-
+Hackern die Methode ,,Quantum Insert“.
+Damit hat das GCHQ Mitarbeiter des
+halbstaatlichen Telekommunikationsan-
+bieters Belgacom angegriffen, um uber
+deren Rechner in das firmeneigene Netz-
+werk vorzudringen (SPIEGEL 46/2013).
+Die NSA nahm so Verantwortliche der
+Organisation erdolexportierender Lander
+in der Wiener Zentrale ins Visier. In bei-
+den Fallen verschaffte sich das Spionage-
+konsortium Zugang zu wertvollen Wirt-
+schaftsdaten.
+
+Die Insert-Methode beruht wie andere
+Quantum-Varianten darauf, dass die NSA
+neben dem Internet ein Schattennetz be-
+treibt, mit einer eigenen, gut versteckten
+Infrastruktur, ,,schwarzen“ Routern und
+Servern. Zum Teil werden in das Schat-
+tennetz der NSA offenbar auch Router
+
+ 
+
+104
+
+DER SPIEGEL 1/2014
+

@@ -1,0 +1,212 @@
+ 
+
+Otto-Katalog fiir Spione
+
+NSA-Papiere belegen: Der Geheimdienst verfugt uber Hinterturen fur zahlreiche Produkte.
+
+enn es um moderne Schutz-
+walle fur Firmennetze geht,
+spart der zweitgroBte Netz-
+
+werkausruster der Welt nicht mit Eigen-
+lob. Die eigenen Produkte seien ,,ideal“,
+um Unternehmen und Rechenzentren
+vor unerwunschten Zugriffen von auBen
+zu schutzen, schwarmen die PR-Leute
+des US-Unternehmens Juniper Net-
+works. Die Leistung der Spezialrechner
+sei ,,unerreicht“, die Firewalls seien die
+,,besten ihrer Klasse“. Vor dem US-Ge-
+heimdienst NSA aber schutzen sie nicht.
+
+Spezialisten des Dienstes ist es schon
+vor Jahren gelungen, die digitalen
+Schutzwalle des Unternehmens zu
+durchlochern. Und nicht nur Juniper-
+Kunden sind betroffen: Eine Art Pro-
+duktkatalog, den der SPIEGEL einsehen
+konnte, belegt, dass eine NSA-Abtei-
+lung namens ANT auch die Sicherheits-
+produkte anderer Branchengroﬁen aus-
+gehohlt hat, darunter der amerikanische
+Weltmarktfuhrer Cisco, sein chinesi-
+scher Herausforderer Huawei — sowie
+die Produzenten von Massenprodukten
+wie der US-Hersteller Dell.
+
+Im Visier der Spezialisten fur
+geheime Hinterturen sind alle
+Ebenen unseres digitalen Lebens:
+von ganzen Rechenzentren uber
+einzelne Computer und Note-
+books bis zu Mobiltelefonen.
+Fur fast jedes Schloss findet sich
+im ANT-Werkzeugkasten ein
+Schlussel. Es ist wie in der Fabel
+vom Hasen und vom Igel. Egal
+welche Wand die Firmen aufbau-
+en — die NSA-Spezialisten stehen
+schon dahinter. Dieser Eindruck
+jedenfalls entsteht, wenn man
+durch den rund 50-seitigen Otto-
+Katalog fur Agenten blattert, in
+dem NSA-Mitarbeiter das jeweils
+Passende zum Abschopfen ihrer
+Ziele bei der Abteilung ANT be-
+stellen konnen. Sogar die Preise
+der elektronischen Einbruchs-
+werkzeuge sind vermerkt, von
+0 bis 250 000 Dollar.
+
+Im Fall von Juniper heiBt einer
+der digitalen Dietriche ,,Feed-
+trough“, Futtertrog. Diese Spio-
+nagesoftware nistet sich in Juniper-
+Firewalls ein und sorgt dafur, dass
+weitere NSA-Programme in den
+GroBrechner geschmuggelt wer-
+
+den, die dank Feedtrough selbst ,,Neu-
+starts und Software-Upgrades“ uber-
+stehen konnen. So sichern sich die
+US-Spione eine dauerhafte Prasenz in
+fremden Netzwerken. Die Software, so
+heiBt es im Katalog, ,,ist bereits auf zahl-
+reichen Zielplattformen im Einsatz“.
+
+Die Spezialisten von ANT — die Buch-
+staben stehen vermutlich fur ,,Advan-
+ced“ oder ,,Access Network Technolo-
+gy“ — sind die hochbegabten Hand-
+werksmeister der NSA-Abteilung fur
+maBgeschneiderte Operationen, Tailored
+Access Operations (TAO). Wo deren her-
+kommliche Einbruchs- und Abschopf-
+methoden nicht ausreichen, stehen die
+ANT-Leute mit ihren Spezialwerk-
+zeugen parat. Sie konnen damit in
+Netzwerkausrustungen eindringen, Han-
+dys und Computer uberwachen, Daten
+ausleiten oder gar verandern. Derlei
+,,Implantate“ (NSA-Jargon) sind maﬁ-
+geblich daran beteiligt, dass der US-
+Geheimdienst ein globales Schatten-
+Netzwerk errichten konnte.
+
+Manches Gerat ist richtig gunstig: Ein
+manipuliertes Monitorkabel etwa, das
+
+mi‘ $4.6m IIICOMINII'JREL IO Ut'vl. £01.?
+
+COTI'ONMOUTH-
+
+ANT Product Data
+
+"imam EGITCWMOU m I .-
+.I an null :Nurl‘u .I ma.“ IIIIII‘...
+u-I-«IIIIII- I-n: III-awn
+
+I. I! II unIn-Iu- sn-Ia; as; :‘usa, IunNmIc Lug-r:
+m
+
+, Mluel I—qmul ..5 ...-II a, U»! mu. 1. Immqmr
+
+.w mMII-nce :arnnm. n MU' II‘
+I WE!- I'IIIIIIHII m.- N u-‘m 'I»
+«an. mm meIIIIIII
+
+ran-swam cu ml
+ﬂ-mrall'I‘nMn l’dr"
+ar .... MIIr-L‘Nr:
+
+Llhl1'flﬂwh‘llcu '1‘ |>( U55 II-.--q I-n Luv-nun. man :ruIII-eI w inn L am; my ...
+Imam-mu nmm-a-ewwmmrumn cu- wnuuaoenn-Im- "mp-an ”....
+rrsusmnnp l. u Ion-um Imum cm m 1||Y|7INIIY' 155 1'. rIIII.
+... :w. Haw III-In mm w .v...- v- n - ..IuII III-IRE,
+
+w. min «In: amen-I IIW unIIII
+
+II-I—IIIMIIII .u IIIIeI- II new): III "Ir III m. MI. Ir II no. . WIIIwI ...Iw I...
+sﬂctulnll .u ..'.
+
+IIIM IIcII MM vucu
+h... me» .I III I.: on Im lhr ﬂllllli II-
+
+m Auahll‘hlll‘. January :00?
+
+901:: 5322-; —r
+
+ll? FOE $3.123 Dnhu :7- mm
+I'DID SECRET-ICOMINT'I'DEL TO US“. EVE!
+
+Auszug aus NSA-Produktkatalog
+
+ 
+
+es ,,TAO-Personal erlaubt zu sehen, was
+auf dem anvisierten Monitor angezeigt
+wird“, gibt es schon fur 30 Dollar. Eine
+,,aktive GSM-Basisstation“, also ein
+Werkzeug, das es ermoglicht, sich als
+Handy-Funkmast auszugeben, um so
+Mobiltelefone zu uberwachen, kostet
+dagegen 40 000 Dollar. Computer-
+wanzen, als normale USB-Stecker ge-
+tarnt, die unbemerkt uber Funk Da-
+ten senden und empfangen, gibt es im
+Funfzigerpack fur mehr als eine Million
+Dollar.
+
+Doch die Abteilung ANT stellt niCht
+nur Spionage-Hardware her, sie ent-
+wickelt eben auch Software fur Spezial-
+aufgaben. Besonders gern versuchen die
+ANT-Entwickler offenbar, ihren Schad-
+Code im sogenannten BIOS zu platzie-
+ren, einer Software, die direkt auf der
+Hauptplatine eines PC sitzt und beim
+Einschalten als Erstes geladen wird.
+
+Das hat eine Reihe unschatzbarer
+Vorteile: Ein so infizierter PC oder Ser-
+ver scheint normal zu funktionieren, fur
+Virenschutz- oder andere Sicherheits-
+programme bleibt die Infektion unsicht-
+bar. Mehr noch: Selbst wenn die
+Festplatte eines so infizierten
+Rechners komplett geloscht und
+I ein neues Betriebssystem aufge-
+spielt wird, funktionieren die
+ANT-Schadprogramme weiter
+und sorgen dafur, dass spater er-
+neut Spah- und Schnuffelsoftware
+auf den vermeintlich gesauberten
+Rechner nachgeladen wird. ,,Per-
+sistence“ nennen die ANT-Ent-
+wickler das — sie haben damit
+dauerhaft Zugriff.
+
+Im Angebot ist auch ein Pro-
+gramm, das sich in der Firmware
+von Festplatten der Hersteller
+Western Digital, Seagate und
+Samsung einnistet — die bei-
+den erstgenannten Unternehmen
+stammen aus den USA. In diesen
+Fallen kompromittiert der US-
+Geheimdienst also US-Technik.
+Andere ANT-Programme zielen
+auf Internet-Router fur den pro-
+fessionellen Einsatz oder auf
+Hardware-Firewalls, die etwa Un-
+ternehmensnetze vor Angriffen
+aus dem Internet schutzen sollen.
+Viele der digitalen Angriffs-
+waffen lassen sich ,,per Fernzu-
+
+ 
+
+102
+
+DER SPIEGEL 1/2014
+
