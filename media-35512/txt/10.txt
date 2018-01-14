@@ -1,0 +1,169 @@
+FLYI N G Pl l3
+
+TLS/SEL KNEIWLEDEE BASE m”-
+
+ 
+
+ 
+
+TS/lSl/IREL
+
+Example: search by server
+
+Query QUICK lmgr 7Tor events QFD
+
+In
+
+Prototype owner:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HRA Justification Querr FLYING pH; 7 general 55L toolkit
+Querv FLYING PIG Server lP-specific panels
+[p ft network 7 cemﬁcate ﬁehj _ _ "“134‘14 General IP info 4 Est Serrer certificates seen on this IP 1!
+. . Top ID 55L client geos J ESL Pattern of life 1'
+. Cl tIP 5 JP B th .
+Query :er Némnrk ['9 g are: 01,24] 0 Top ID 55L server ports ./ H'ITP reduests to this IP .r
+or: -' Server Certificate [e.g. %e><ample.com (use “In for wildcardslj TDD 1D ESL case notations "/ TDD 1m ESL Shams "
+' ESL Traffic stats 4/
+Run Query!
+Certificate field search: %mail.ru Server IP: _ .____.1EI4.14
+General [P info for server IP ' 184.14
+Geolocation(?): WHOIS info ('5'): AS infol'?): DNS ('9): Tor node ('5'):
+Country: RU (M) Network: _ ..--_.176.IJ."2IJ. Network type: No results. Advertised by AS: 47764. Found within network: No results No matches
+City: MOSCOW (L) Company: Mail.Ru. Domain: mail.ru. 76.0.720.
+AS name: MAILRU—AS Limited Iiahilit'iiI comoamI Mail.Ru.
+Top 1|] SSL client geo5(?) Top 1|] SSL server ports (9) Top 1|] SSL case notation§(?) SSLTrafﬁc nets (1‘ a):
+Overall Paired (approximate) For week ending 2011-12-23:
+D “a” '3 1"” No. unidue clients 7 1ﬂ4317.
+' ' ' ' ' ' ' 443 :l D on D “a” % client7server IPs With traffic seen in both directions = 14.7%.
+an F . 200.000
+H ' woman
+i ’ .
+I] F lull-ll-Uq 2011-11-11 2011-11-18 lull-1115
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+.Llnique clients With client-server .Llnique clients with server-client .Unioue clients with
+bidirectional trafﬁc
+
+trafﬁc orili,I trafﬁc
+
+orili,I
+
+ 
+
+ 
+
+ 
+
+SSL Certificates seen on this IP '5')
+
+ 
+
+Tip 1: Right click on a certificate to explore it further!
+
+1 -3 of3 items
+
+10l25l50l100
+
+Subject common name
+
+*.mai|.ru
+*.mai|.ru
+*.vl<ontal<te.ru
+
+ISSUEI‘ common name
+
+thawte ssl ca
+thawte ssl ca
+go daddy secure certification authority
+
+ 
+
+ 
+
+ 
+
+EFT l'FlFlllFlQl' ‘l'ﬂ I'HU l'l'lHll l'll
+
+ 
+
+TS/lSl/IREL
+
+1|]l25l50l100
+
+First seen
+
+2011-10-14
+2011710714
+2011—10—14
+2011-10-14
+em 1 ,1 m1 4
+
+First seen on this [D Last seen on this IP Count wfe 25th Count all time Valid from Valid to
+Nov
+2011-09—22 13:31:06 2011-11—25 19:01:47 357643 2359179 2011—01—31 00:00:00 2012-03-27 23:59:59
+2011708708 12:23:45 2011711725 07:50:07 1441 1447304 2011701731 00100100 2012703727 23:59:59
+2011-11-16 14:13:03 2011-11-16 14:13:03 0 1 2011-08-05 18:34:19 2014-03-05 10:34:19
+Average pattern of life for a client (seeded around SSL events to this server 1P) ('5' Ltd I H'I'I'P requests to this IP (top IUD) ( '? L51)
+Tip 1: Filter by min. 0er occurrences of event: 1% Apply ﬁltering Tip 1: Right click on a server IP to explore it as an SSL serverl
+1 7E of 233 items 10 l 25 l 50 l 100 1 2 3 4 5 6 7 I H 1 1 - 10 of 226 items
+Correlated event Event [P Event Percentage Server IP Host name requested
+port occurrences
+of event 184.14 e.mai|.ru
+
+GET reguest to top3.mail.ru 135.12 80 20.1 ,13414 m.rnail.ru
+GET reduestto top5.mail.ru 135.13 30 15.1 184.14 l,]_B4.]_4
+GET reduest to di].c1.lJf.a1.top.mail.ru 134.253 BI] 14.2 134.14 authmailru
+
+H3440 an 132 192414 lulmmlm
+
+L351 SEEI'I
+
+2011-11-25
+2011711725
+2011-11-25
+2011-11-25
+am 1 ,1 1 ,0:
+
+1234567>Hl
+
+Count last
+week
+1959215
+39263
+17426
+11733
+none
+
+Count all time
+
+13992636
+664109
+105536
+70020
+aeedn
+
+ 
+

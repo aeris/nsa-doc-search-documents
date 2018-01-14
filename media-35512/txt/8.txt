@@ -1,0 +1,18 @@
+TS//S|//REL
+
+FLYING PIG
+
+° TLS knowledge base. Summarises all
+TLS events to answer multiple
+questions, e.g.:
+
+— What certificates are present on a given
+IP?
+
+— Which client IPs access a given service?
+
+— Which TDIs can be associated with a
+given service?
+
+TS/lSI/IREL
+
