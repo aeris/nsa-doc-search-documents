@@ -1,0 +1,75 @@
+POISONNUT - WikiInfo
+
+The accredited security level of this system is: TOP SECRETHSI-GAMMAJTALENT KEYHOLFHnRPnNﬂ’R nPlNJRF‘I InnfRF‘l Tn USA F'VF'V *
+TOP SECRErMSIuREL To USA. FVEY (U, pmSONNUTMnmban
+
+(SI/REL) POISONNUT
+
+J ‘ This Project page has moved to the: CES 2P
+‘ J PlQ Wild
+
+‘__,
+
+Contents
+
+ 
+
+I 1 (U) Overview
+I 2 (U) Development Process and Standards
+I 3 (U) History
+I 4 (U) Current Architecture
+I 4.1 (U) Testing/Integration
+I 4.2 (U) Developer Resources
+I 5 (U) Future
+I 6 (U) Contact Info
+I 6.1 (U) Related Wiki Pages
+I 7 (U) References
+I 8 (U) See also
+
+(U) Overview
+
+ 
+
+This page is registered as £1. This application makes useoflhe
+
+“—. Java programming language.
+go pm _ W
+(URN mfm alias —
+
+(TS/ISI/lREL) POISONNUT, also known as the Virtual Private Network Attack Orchestrator (VAO), is a message driven cryptologic
+exploitation service for VPNs with the main focus on IPSec. Currently, the list of POISONNUT clients includes TURMOIL,
+WEALTHYCLUSTER and the TEe. Each POISONNUT client can connect to POISONNUT using ISLANDTRANSPORT. Once
+connected to POISONNUT, clients send and receive XML messages encrypted using ISLANDHIDEAWAY.
+
+ 
+
+ 
+
+ 
+
+(U) Development Process and Standards
+
+(U/IFOUO) POISONNUT follows the LONGHAUL Development Process which uses the NSA Way.
+
+(U) History
+
+(TS/ISI/lREL) The VPNAttack Orchestrator (VAO) has existed in various conﬁgurations since 2003. Originally developed as a
+standalone application by the Network Security Products branch, the later became a key crypt application integrated with
+corporate collection frameworks such as WC2 andTURMOIL. As of 2006, the Heritage VAO, as it is now known, was stood up inside
+of aJBoss server. In November 2008, a new development effort was stood up in order to increase the throughput and stability of
+the VAO. The new VAO system, under the cover term POISONNUT, has a major development milestone scheduled for September
+2009. POISONNUT is the ﬁrst component which will be available under the LONGHAUL project. This new development is being
+undertaken by developers in the T342P and the 531243 VPN Team.
+
+   
+
+(UHFOUO) Modern
+
+(UHFOUO) Early POISONNUT Graphic
+
+VAO Graphic
+
+(U) Current Architecture
+
+10f2
+

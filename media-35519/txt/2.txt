@@ -1,0 +1,125 @@
+POISONNUT - Wikilnfo
+
+[U/lFOUO) The POISONNUT system is composed of several components. Each component is composed of one or more products. A
+description of our business model for POISONNUT is available: here.
+[U/lFOUO) These are the high level components for the POISONNUT system:
+
+TSJ'ISW REL
+
+ESPKayReq was!
+
+   
+   
+ 
+  
+
+E SPkoyRasponse
+
+ 
+
+ESPRaquast
+D‘spatoher
+
+      
+   
+ 
+ 
+   
+ 
+ 
+
+  
+
+ESPDa'H
+E
+
+ESP
+ISLAND HIDEAWAY
+
+In: In
+
+ 
+
+IKE Phasez
+Processor
+
+IKE Phase1
+Processor
+
+      
+ 
+      
+   
+  
+
+ISLAND HI DEAWAY
+
+ 
+
+phi-IMHSIIEP
+
+ 
+
+ll: Oul
+
+    
+   
+ 
+
+(UHFOUO) Lite VPN Summary
+
+|KEMes sage lKEMgsaga
+
+Dispatcher
+
+(TS/IREL) Components High Level Design
+
+(U) Testing/Integration
+I VALIANTSURF /‘ POISONNUT Integration Notes
+(U) Developer Resources
+
+I (U) VAO Developers Calendar] Meeting Notes
+
+I (TS/['REL) VPN_Metrics
+
+(U) Future
+
+I (U) VAO Client
+
+(U) Contact Info
+
+I [U/iFOUO) POISONNUT Development Team email alias:
+
+  
+ 
+ 
+ 
+
+I [U/iFOUO) Jabber Chat Room:
+- (Ul/FOUO) LONGHAULJSignou group
+I (Ul/FOUO) Developer AIL
+
+(U) Related Wiki Pages
+
+I (Ul/FOUO) LONGHAUL — the Parent Project
+I [U/iFOUO) SCARLETFEVER , a Sibling LONGHAUL Project
+(U) References
+
+I [C/iREL) PICARESQUE information about Virtual Private Network Attack Orchestrator
+
+(U) See also
+
+- POISONNUT Experts List —
+- VPN Experts List—
+
+Retrieved from
+Categories: Applications using java I URN | VPN I POISONNUT | TechExp projects I Decryption systems I LONGHAUL
+
+Derived From: SI Clessmcauon GUIDE 02-01 Dated: 20050711
+and NSNC SSM 1.752. Daled: 200701.03
+Declassity On: 203201.03
+
+TOP SECREI'I‘JSUJREL TO USA. FVEY
+
+20f2
+
