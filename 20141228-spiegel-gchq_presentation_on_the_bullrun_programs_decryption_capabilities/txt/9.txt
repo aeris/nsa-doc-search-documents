@@ -1,0 +1,20 @@
+Examples
+
+(S 81) Unspecified capabilities against [VPNs, IPSEC,
+TLS/SSL, HTTPS, SSH, PPTP, eChat, eVoIP]
+
+(TS Sl COMINT)» Capabilities against the encryption used in
+[VPNs, IPSEC, TLS/SSL, HTTPS, SSH, PPTP, eChat, eVoIP]
+
+(TS SZ BULLRUN) Capability against specific applications
+
+PTD “We penetrate targets' defences.”
+
+other UK information legislation. Refer disclosure requests to GCHQ onl
+
+:-— W E This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+
+© Crown Copyright. All rights reserved.
+
+ 
+

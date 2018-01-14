@@ -1,0 +1,28 @@
+Sensitivities
+° Cryptanalytic capabilities
+
+— Are extremely difficult and costly to acquire
+— Require a long lead time
+
+— Depend on sensitive sources
+
+— Are very fragile
+
+— lf lost, may never be regained
+
+° The mere “fact of” a capability is very sensitive:
+
+— An adversary who knows what we can/cannot break is
+able to elude our capabilities even without knowing the
+technical details of how the capabilities work
+
+PTD “We penetrate targets' defences.”
+
+other UK information legislation. Refer disclosure requests to GCHQ o
+
+(I W E This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+
+© Crown Copyright. All rights reserved.
+
+ 
+
