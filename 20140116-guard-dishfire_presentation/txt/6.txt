@@ -1,0 +1,26 @@
+SECRET/ICOMINT/IREL T0 USA, FVEY/l20320108
+
+(U)PREFER
+
+   
+
+(U/lFOUO) Identifies types of automated messages
+(U/lFOUO) Extracts entities from SMS content daily:
+
+(SI/REL) Results presented averaged over 30 days (April
+2011)
+
+— 194,184,810 - sms messages per day (not deduped)
+
+— 184,794,279 - DISHFIRE message tags
+
+— 188,299,963 - PREFER text slice decoded
+
+(SI/REL) PREFER operational on DISHFIRE servers
+since January 2008, inserting content derived tags into
+xml output. First major utilization, SPYDER 2008 for
+
+selected content.
+
+SECRET/ICOMINT/IREL T0 USA, FVEY/l20320108
+

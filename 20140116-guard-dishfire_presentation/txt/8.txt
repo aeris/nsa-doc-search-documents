@@ -1,0 +1,44 @@
+TOP SECRET/ICOMINT/IREL TO USA, FVEY/l20320108
+
+(U//FOUO) PREFER
+Identification & Extraction April 2011
+
+(SI/SIIIREL) 194 Million Messages Collected by DISHFIRE per Da
+Including
+
+- (S/lSI/IREL) VCARDS —> names+; (113,672 average extracted daily)
+sometimes DNI link (email) to DNR (telephony) as well as images
+(S//Sl//REL) Geocoordinates (76,142 daily avg; hex-encoded 1
+
+— Requests by people for route info
+— Setting up meetings at a location
+
+— Tracking information: e.g., —(12,809)
+— Comma Separated Formats (33,020)
+
+(S/lSI/IREL) Missed Calls —> contact chaining (5,058,114)
+
+(S/lSl/IREL) SIM Card Changes —> lMSl/IMEI links (6,017,901)
+
+- (S//S|//REL) Roaming information —> border crossings (1,658,025)
+(S/lSl/IREL) Travel (5,314)
+
+— Itinerary including multiple flights
+
+— Changes: cancellations, reschedules, delays
+
+- (S//S|//REL) Financial Transactions:
+
+— Credit card transactions: correlate credit cards to individuals (61,488)
+— Money transfers (social networks) — Phone to Phone (630,846)
+— Track financial information (account activity — bank transaction) (115,480)
+
+- (S/lSl/IREL) Passwords ending): Other Requests?
+TOPSEC ET/IC().\ i'T/IRELTO USA, FVEY/l20320108 8
+
+   
+
+  
+  
+  
+

@@ -1,0 +1,36 @@
+SECRET/ICOMINT/IREL T0 USA, FVEY/l20320108
+
+(U) Why?
+
+/,_(LJ//FOUO) SMS /Messag\
+
+   
+
+  
+    
+
+METADATA:
+MSISDN( (p)hone# METACONTENT:
+IMSI( (person id) Message Content
+
+IMEI (equipment)
+
+- (SI/REL) Metadata + Content of System Generated Text
+Messages leads to analytic gems => content derived
+
+metadata
+
+- (SI/SII/REL) Such gems often are not in current
+metadata stores and would enhance current analytics:
+contact chaining, geolocation, alternative identifiers
+(including DNI & DNR links), travel, finance
+
+- (S/lREL) SMS: Rich data set, high impact. Usage is
+increasing. Features & Notifications available on mobile
+phones are increasing —> rich data set awaiting
+eXploitation.
+
+   
+
+SECRET/lCOMINT/IREL T0 USA, FVEY/l20320108 5
+
