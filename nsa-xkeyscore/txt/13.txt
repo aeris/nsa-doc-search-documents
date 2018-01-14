@@ -1,0 +1,35 @@
+ 
+
+        
+
+ 
+
+'1 Into I”! u“ I“. “n
+w” ‘
+
+ﬁj‘
+
+    
+
+Plug-in DESCRIPTION
+" E-mail Addresses Indexes every E-mail address seen in a session by
+both username and domain
+Extracted Files Indexes every file seen in a session by both ﬁlename
+and extension
+Full Log Indexes every DNI session collected. Data is
+
+indexed by the standard N-tupple (1P, Port.
+Casenotation etc.)
+
+H‘I'I'P Parser Indexes the client-side HTI'P trafﬁc (examples to
+follow)
+
+Phone Number Indexes every phone number seen in a session (e.g.
+address book entries or signature block)
+
+User Activity Indexes the Webmail and Chat activity to include
+
+username, buddylist, machine speciﬁc cookies etc.
+
+TOP SECRETHCDMINTHREL TO USA, AUS, CAN, GER, NZL
+
