@@ -1,0 +1,57 @@
+RC5 9 -To learn more
+
+To learn more
+
+For interface elem ent descriptions See "Shared interface elements and actions" on page 11 .
+
+To learn more on intelligence see "What you should know about intelligence" on page 53 see
+"What you should know about entities" on page 53
+
+Adding the target photo
+To add the photos:
+
+Step Action
+
+ 
+
+1 a Click + and select a photo
+
+or
+
+a in the Evidence page open webcam type evidence details and select
+an image
+
+Result: the selected image becomes the default image.
+
+Adding target identiﬁcation data
+To add identiﬁcation data:
+
+Step Action
+
+ 
+
+1 Click + and enter data.
+
+NOTE: the Account field is the target's true identity
+(i.e.: john.john@email.com); the Name ﬁeld in an
+optional name to be linked to the identification data
+(i.e.: John).
+
+Result: the identification data is added to the list.
+
+Viewing frequently contacted people
+To view frequently contacted people:
+
+Step Action
+
+ 
+
+1 Select the period of interest
+
+2 In the text box next to Most contacted, enter the number
+of people per type of communication means to be viewed.
+
+ 
+
+Analyst’s Guide I ver.1.4 SE P—2013 I RCSQ I 20136) HTS.r.l. - pag. 73
+

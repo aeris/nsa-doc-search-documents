@@ -1,0 +1,60 @@
+RC5 9 -To learn more
+
+Area Description
+
+ 
+
+4 View and search box buttons:
+
+ 
+
+Object Description
+Search box. Enter part of the name or description to
+
+display a list of entities that contain the entered letters.
+
+Displays the entities in a table.
+
+--- Displays entities as icons
+
+ﬁt Displays Target and Position entities and their links on a
+map. See "Entity management: Position View” on page
+67
+
+,9: Displays entities and their links in a graph. See "Entity
+
+management: iink view" below
+
+5 Entity list
+5 Selected entity data.
+7 RC5 status bar.
+
+To learn more
+For interface elem ent descriptions See "Shared interface elements and actions" on page 11 .
+
+To learn more on intelligence see ”What you snouia‘ know about inteiiigence" on page 53 see
+”What you shouia‘ know about entities" on page 53
+
+Viewing entity details
+To view entity details:
+
+Step Action
+
+ 
+
+1 Double-click an entity: the detail page opens.
+"Target entity detaiis" on page 71 .
+0 "Person entity detaiis” on page 77 .
+
+0 "Position entity a‘etaiis" on page 79 .
+o "Wrtuai entity detaiis” on page 81 .
+
+Entity management: link View
+
+Tamar-rage - Intelligence section, double-click on operation, click Link View
+inteiiigence entities:
+
+ 
+
+Analyst’s Guide I yer.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. 62
+

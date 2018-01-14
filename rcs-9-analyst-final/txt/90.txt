@@ -1,0 +1,74 @@
+RC5 9 - Person entity details
+
+ 
+
+Data Description
+third coi- percent of target visits to the website in the selected period.
+umn
+
+1*
+
+0 NOTE: calculated considering the displayed websites.
+
+button to create a Virtual entity with that URL address and to create a Peer link
+with the Target entity.
+
+Person entity details
+
+To View entity details:
+
+Purpose
+
+a Intelligence section, double-clickon operation, double-click a Person entity
+
+ 
+
+This function lets you:
+
+0 View detailed information on the Person entity
+0 add detailed information on the Person entity
+0 create Position entities connected to the Person entity
+
+NOTE: the function requires a user license and is only enabled if the user has Entity
+management authorization.
+
+What the function looks like
+This is what the page looks like:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘l l1'-.._".'JA.'."_...\.II egg
+g ..|:I-l>.¢. Inn-Imus. urns-«n “.1...“
+U E a
+JaneDm
+:1n1
+E :n:-.).'r‘|‘:n.
+I.
+I
+I
+. .«-— --' l
+.-"- I _
+I ....
+“Jew-a I mm
+(.451: I ...
+
+ 
+
+Analyst’s Guide I yer.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. 77
+

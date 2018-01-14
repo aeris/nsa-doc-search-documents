@@ -1,0 +1,60 @@
+RC5 9 - Target enijty details
+
+Step Action
+
+ 
+
+1 In the map, click + and enter data.
+
+~ Tip: add a significant Name and a Description that
+' help to identify the relationship between the target
+and place.
+
+Result: a Position entity with a Peer link with the Target
+entity is added to the operation list of entities.
+
+6 NOTE: the result is the same if a Position entity is
+manually created and a Peer link added between the
+Target and the created entity.
+
+Target entity details
+
+Most contacted people table
+
+Following is a description of the data indicated in the table of people most frequently contacted by
+the target:
+
+ 
+
+Data Description
+first communication method icon and the person's identification data.
+column
+
+second coi- number of target contacts with the person in the selected period.
+umn
+
+third coi- percent of target communications with the person in the selected period.
+
+umn - . . . . .
+NOTE: calculations are based on the communication mean and considering
+the displayed contacts.
+
+* button to create a Person entity with that identification data and to create a peer
+- link with the target entity.
+
+Most visited websites table
+Following is a description of the data indicated in the most visited websites table:
+
+Data Description
+
+ 
+
+first coiumn visited website U RL address.
+
+second coi- number of target visits to the website in the selected period.
+umn
+
+ 
+
+Analyst’s Guide I ver.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. 76
+

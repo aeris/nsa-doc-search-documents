@@ -1,0 +1,59 @@
+RC5 9 -To learn more
+
+ 
+
+Area Description
+
+ 
+
+4 View and search box buttons:
+
+ 
+
+Object Description
+Search box. Enter part of the name or description to
+
+display a list of entities that contain the entered letters.
+
+Displays the entities in a table. See " Entity
+management: icon and tabie views" on page 60
+
+Displays entities as icons See "Entity management: icon
+and tabie views" on page 60
+
+i? Displa 5 Target and Position entities and their links on a
+m7ap. ee "Entity management. Position View on page
+
+‘3 Displays entities and their links in a graph.
+
+5 Filter area
+
+5 Entity graph and links based on set filters
+
+- - NOTE: the Know, Identity and manually created links are always
+displayed regardless of the selected period.
+
+6 NOTE: the entity with the most links is placed at the center of the graph.
+
+7 Selected entity data.
+
+8 Command that dynamically displays the quantity, direction and frequency of
+evidence that define the links between the entities displayed in the graph based
+on the set ﬁlters.
+
+9 RC5 status bar.
+
+To learn more
+
+For interface elem ent descriptions See "Shared interface eiements and actions" on page 11 .
+
+To learn more on intelligence see ”What you snouia‘ know about inteiiigence" on page 53 see
+”What you shouia‘ know about entities" on page 53
+
+Viewing entity details
+To View entity details:
+
+ 
+
+Analyst’s Guide I yer.1.4 SEP—2013 I RCSQ I 2013. HTS.r.|. -pag. 65
+

@@ -1,0 +1,51 @@
+RC5 9 -To learn more
+
+Area Description
+
+ 
+
+4 Evidence list based on set ﬁlters.
+
+5 RC5 status bar.
+
+To learn more
+
+For interface elem ent descriptions See "Shared interface elements and actions" on page 11 .
+For a description of the data in this window see "Evidence data" on page 41
+
+For a description of exportable datasee "Evidence export data" on page 46 .
+
+For more information on evidencesee "What you shouid know about evidence" on page 34
+To view a list of evidence typessee "List of types ofevidence” on page 46
+
+Preparing evidence for analysis and export, tagging by relevance
+To assign levels of relevance to evidence, helpful for display and export:
+
+Step Action
+
+ 
+
+1 Select one or more pieces of evidence.
+
+2 a Drag Relevance to the required position
+
+or
+a Press the corresponding key combination.
+
+3 Result: the single pieces of evidence are tagged with a symbol according to their
+level of relevance. Evidence can be filtered by this symbol and included/excluded
+from export.
+
+Preparing evidence for analysis and export, tagging for the report
+To include/exclude evidence in a report and filter for viewing:
+
+Step Action
+
+ 
+
+1 Select one or more pieces of evidence-
+
+ 
+
+Analyst’s Guide I ver.1.4 SE P—2013 I RCSQ I 20136) HTS.r.l. - pag. 39
+

@@ -1,0 +1,63 @@
+RC5 9 - Alert process
+
+Alert process
+The alert process is described below:
+
+0 NOTE: sending an e-mail is optional.
+
+Phase Description
+
+ 
+
+ 
+
+1 The Analyst creates rules to be alerted of the arrival of certain evidence, agent
+synchronizations or the automatic creation of intelligence entities or links. Rules log
+the alerts, notify them on the RC5 Console and send them via e-m ail (optional).
+
+2 The system taps the incoming evidence or analyzes the element it is creating and
+compares it with the alert rules.
+
+if the Then...
+
+evidence...
+
+corresponds The system saves the evidence as evidence or adds the entity or
+
+to an alert link to the operation, generating an alert that automatically applies
+
+rule the selected level of relevance. An e-mail notification can be sent
+by the system as an option.
+
+does not The system saves the evidence as evidence or adds the entity or
+
+correspond link to the operation without generating an alert.
+
+to an alert
+
+rule
+
+3 The Analyst receives an alert e-mail (if set by the alert rule) and checks the alert
+log. From an alert, directly open the evidence that generated it or the created entity
+or the link view.
+
+4 After checking, the Analyst deletes the alert logs.
+
+Alerting
+
+To receive alerts from the tar- o Alerting section
+get:
+
+Purpose
+
+This function lets you:
+
+receive alerts when a certain type of evidence is tapped, when the target device syn-
+chronizes with RC5 or when intelligence automatically creates entities or entity links.
+automatically tag evidence or intelligence link by relevance, to facilitate later analysis.
+monitor all logged alerts and directly open the event that generated them.
+
+ 
+
+Analyst’s Guide I ver.1.4 SE P—2013 I RCSQ I 20136) HTS.r.l. - pag. 90
+

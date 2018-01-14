@@ -1,0 +1,50 @@
+RC5 9 - Exporting displayed evidence
+
+Step Action
+
+ 
+
+1 Click Show Summary: the evidence type symbols appear, each with its own counter.
+
+2 Click Hide Summary to hide counters.
+
+Exporting displayed evidence
+To select some pieces of evidence and export them:
+
+Step Action
+
+ 
+
+1 First tag evidence by level of relevance and by whether they should be included in the
+report (Add report key).
+
+2 Continue selections using the column heading ﬁlters on homogeneous groups of
+evidence (Included in report column).
+
+3 Click Export Evidence: indicate which evidence to be includedfexcluded. Evidence
+that meets the selected criteria and has the Included report field flagged is
+exported.$ee "Evidence export data" on page 46 .
+
+4 Click Save: a .tgz file is created and downloaded in folder RC5 Download.
+
+Evidence data
+
+Evidence data is described below for both the agent and target:
+
+Data Description
+
+ 
+
+Acquired Date-time evidence was acquired.
+It can be filtered. Last 24 hours is set by default.
+
+Received Date-time evidence was logged in RC5.
+It can be filtered. Last 24 hours is set by default.
+
+. Tip: this data is helpful when you suspect that the target device's data-time
+is not updated and thus theAcquired is not valid.
+
+ 
+
+Analyst’s Guide I ver.1.4 SE P—2013 I RCSQ I 2013(3) HTS.r.l. - pag. 41
+

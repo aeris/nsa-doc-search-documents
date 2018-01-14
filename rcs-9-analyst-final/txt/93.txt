@@ -1,0 +1,73 @@
+RC5 9 -To learn more
+
+.1 sn-.--.-..' 11r- :,-m
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+
+ﬂ Stu-.654: Inwlmnu Dem-cm Damn. m
+g -'.l==n.lur - “mm - pun E u .
+D e El
+nr «11
+.{" E
+'4‘ '\ _ '
+‘56: 4-
+its: :1 . 5 I
+. a : ua. .a
+‘7‘
+=' fl 3% "0::
+- . m c \. -
+:- ' - e“
+2' I I .-§ .
+:- .L-‘.-' ’ ii
+:. 1 ‘32? I; 5
+|_ I 3 5.. _ pr.I . 4" '3‘ q
+.- v w a -\ I. ..
+‘ -r .- . 4 ”‘1’“.
+2' r. - . ‘.¢- I:
+‘ w‘ “ﬂaw 1 lath
+,. ”'3'“ or" "m
+.- u:l' 2-. a! . .1.-
+C'ms't‘ EL \ _\_ H... on...“ 5,. -.
+a. w I .—:—: E V1 «in
+
+Area Description
+
+ 
+
+1 RC5 menu.
+2 Scroll bar.
+
+3 Window toolbar. Descriptions are provided below:
+
+Icon Function
+
+Edit entity data.
+
+ 
+
+E; Exports entity data in . html format
+it
+
+4 Photo of the place linked to the entity.
+5 Map indicating the place linked to the entity.
+5 RC5 status bar.
+
+To learn more
+For interface elem ent descriptions See "Shared interface elements and actions" on page 11 .
+To learn more on intelligence see "What you should know about intelligence" on page 53 .
+
+Adding a picture of the site
+To add an image:
+
+ 
+
+Analyst’s Guide I yer.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. SO
+

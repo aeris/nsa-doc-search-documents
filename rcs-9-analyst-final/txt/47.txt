@@ -1,0 +1,52 @@
+RCS 9 - Whatyou should know about evidence
+
+What you should know about evidence
+
+Analysis process
+The analysis process is described below:
+
+Phase Description
+
+ 
+
+1 As the system collects evidence from the agent, it displays and updates the total
+counter.
+
+2 The Analyst views all evidence and tags it for easy table consultation and
+subsequent export.
+
+3 The Analyst analyzes incoming evidence details.
+
+4 At the end of the investigation or upon request, the Analyst exports evidence to a
+file that can be viewed in a browser.
+
+Evidence accumulated in the device.
+
+Evidence is sent by the agent to the Collector in order of creation. If a device rarely synchronizes
+or has a limited bandwidth, evidence probably accumulates on the device and it will take a long
+time before the most recent data is received.
+
+The same may happen if large-sized evidence is in queue: the most recent evidence can only be
+sent after having sent this evidence.
+
+For this reason, we suggest you delete older evidence and/or evidence that exceeds a certain size.
+Evidence is deleted at the next synchronization.
+
+See ’Stlgent page" on page 29 .
+
+Filtering evidence
+Column heading filters can be used to limit the amount of evidence viewed.
+See "Shared interface eiements and actions" on page 11
+
+0 IMPORTANT: if no evidence is displayed, check the counter at the bottom right. If a
+value like "011270" is displayed, this means that there is a ﬁlter set that prevents
+evidence from being displayed.
+
+The selected filters can be saved with a short description to be used later.
+
+0 IMPORTANT: if private ﬁlters are set, they cannot be used by other users.
+
+ 
+
+Analyst’s Guide I ver.1.4 SE P—2013 I RCSQ I 2013(3) HTS.r.l. - pag. 34
+

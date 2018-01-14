@@ -1,0 +1,33 @@
+RC5 9 - Viewing evidence indicated in the Dashboard
+
+Step Action
+
+5 After adding elements, click 3 to close the search window and return to the
+Dashboard.
+
+Viewing evidence indicated in the Dashboard
+To view Dashboard evidence
+
+6 NOTE: click a target or operation to open the selected object's work area where the
+' Analyst can view the required agents.
+
+Step Action
+
+ 
+
+1 For the operation element:
+0 double-click the target to open the target page. See "Target page” on page 24
+
+For the target element:
+
+0 double-click the agent: the agent page opens.$ee "Agent page" on page 29 .
+
+For the agent element:
+
+0 double-click the evidence type: the evidence page appears. See ’ﬂEvidence
+analysis vaidence)" on page 36
+
+ 
+
+Analyst’s Guide I ver.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. 87
+

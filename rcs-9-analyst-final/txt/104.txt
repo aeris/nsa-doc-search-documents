@@ -1,0 +1,48 @@
+RC5 9 - What the function looks like
+
+What the function looks like
+This is what the page looks like:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Area Description
+
+ 
+
+1 RC5 menu.
+
+Alertmg : indicates the amount of alerts received. The counter is automatically
+
+reset after two weeks or when notiﬁcations are deleted.
+2 Alert rule toolbar.
+
+Descriptions are provided below:
+
+icon Description
+
+A Create a new alert rule.
+
+NOTE: the function is only enabled if the user has Alerts creation
+authorization.
+
+ 
+
+Edlt the selected alert rule.
+
+x Delete the selected alert rule.
+I ‘ CAUTiON: aii generated notiﬁcations are deie ted.
+
+ 
+
+Analyst’s Guide I uer.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. 91
+

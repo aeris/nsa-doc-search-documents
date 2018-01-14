@@ -1,0 +1,57 @@
+RC5 9 -To learn more
+
+Area Description
+
+ 
+
+3 Window toolbar. Descriptions are provided below:
+
+6 NOTE: the
+
+their data.
+
+key displays elements in a list with
+
+Icon Fanc tion
+
+ 
+
+ﬂ Adding the agent to the dashboard.
+
+A Adding the agent to alerts: an alert is generated at
+each synchronization.
+
+E. Export target evidence in .tgz format.
+a»
+
+- NOTE: the function is only enabled if the user
+has Evidence export authorization.
+
+Eeli Open the target entity page in intelligence.
+
+4 Iconsflist of created factories and installed agents.
+IE] : agent in demo mode.
+: scout agent awaiting verification.
+
+5 Selected factory or agent data.
+
+5 RC5 status bar.
+
+To learn more
+
+For interface elem ent descriptions See "Shared interface elements and actions" on page 11 .
+For a description of the data in this window see "Target page data" on next page .
+
+Exporting target evidence
+To export evidence:
+
+Step Action
+
+ 
+
+1 Click Export Evidence: the export window opens.
+
+ 
+
+Analyst’s Guide I ver.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. 25
+

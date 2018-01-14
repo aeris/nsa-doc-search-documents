@@ -1,0 +1,57 @@
+RCS 9 - What the function looks like
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+.1 www- mu emu
+ﬂ Stu-.654: Inwlmnu DEM-HI! Damn. I1_I
+a “a...“
+t D x Er: C’s |
+.-.-. m _. «n unwa-
+0- D 1-5
+El I i it ‘5‘ ‘5’ i
+I "le 'w Amwwu mm mum. um.- h- w ..
+.-
+l El
+x. :.
+sum.“- -I\.-..—p-d
+
+ 
+
+Area Description
+
+ 
+
+1 RC5 menu.
+2 Scroll bar.
+3 Window toolbar. Descriptions are provided below:
+
+Icon Function
+
+ 
+
+Creates a new entity
+
+Edits an entity
+
+Deletes an entity
+
+Xi!
+
+E. Exports entity data in . html format
+iv
+
+9 Opens the target page linked to the entity.5ee "Target page” on page 24
+r" .
+
+ 
+
+Analyst’s Guide I yer.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. 61
+

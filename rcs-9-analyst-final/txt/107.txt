@@ -1,0 +1,49 @@
+RC5 9 - Alert rule data
+
+ 
+
+ 
+
+Doro Description
+Logs (only in a table) Amount of notiﬁcations received matching the rule.
+Enabled Enables or disables the alert rule.
+Event Type of event that triggers the alert:
+0 Evidence: triggers the rule when evidence that meets the criteria below
+arrives.
+o Sync: triggers the rule when the agent indicated below runs syn-
+chronization.
+o Instance: triggers the rule when the agent created (instanced) by the fac-
+tory indicated below runs the first synchronization.
+o Entity: triggers the rule when the system automatically creates a new
+intelligence entity in the indicated operation.
+0 Link: triggers the rule when the system automatically creates a link
+between intelligence entities in an operation or with the indicated entity.
+path operation, target, entity, agent and factory to be monitored. Thus it indicates the
+rule application field.
+For example, for Evidence event, if an operation is selected, all operation
+evidence is monitored. If an agent is selected, that agent's evidence is monitored.
+Evidence (only Evidence type events) Type of evidence that generates alerts.
+‘ Tip: '*' indicates all types of evidence.
+For a description of all types see "List of types ofevidence" on page 46
+Keyword (only Evidence type events) Keyword that the evidence must contain to trigger
+the alert.
+For example, keyword "password" creates an alert when the evidence (audio,
+docum ent) contains the word "password".
+Tag (only Evidence or Link type events) Automatically tags evidence or the link with
+
+different levels of relevance to facilitate analysis:
+
+Icon Description
+
+I!!! Maximum relevance.
+Ill Intermediate relevance.
+I! Normal relevance.
+
+ﬂ Minimum relevance.
+
+_ No relevance.
+
+ 
+
+Analyst’s Guide I ver.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. 94
+

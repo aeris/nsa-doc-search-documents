@@ -1,0 +1,42 @@
+RC5 9 -To learn more
+
+Area Description
+
+ 
+
+4 Device hard disk structure.
+
+5 RC5 status bar.
+
+To learn more
+
+For interface elem ent descriptions See "Shared interface eiements and actions" on page 11 .
+
+For more information on exploring the file-systemsee "What you should know about retrieving
+evidence " on page 49
+
+Exploring file system content and downloading files
+To explore content and download content of interest:
+
+Step Action
+
+ 
+
+1 Select a folder.
+
+2 a Click Retrieve and set the level of depth of sub-folders
+
+a Click Save: the structure of the sub-folders up to the required level will be
+returned at the next synchronization.
+
+‘ Tip: request a few levels at a time, proceed gradually.
+
+3 Repeat steps 1-2 on the sub-folders to be explored.
+
+4 After identifying the file of interest, select it and click Download: the file will be
+downloaded as File type evidence at the next synchronization.
+
+ 
+
+Analyst’s Guide I ver.1.4 SE P—2013 I RCSQ I 20136) HTS.r.l. - pag. 51
+

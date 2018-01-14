@@ -1,0 +1,61 @@
+RCS 9 -To learn more
+
+Areo Description
+
+ 
+
+1 RC5 menu.
+2 Scrollbar.
+
+3 Window toolbar.
+Descriptions are provided below:
+
+icon Description
+
+ 
+
+Delete the selected
+commands.
+
+Export the selected
+é command to a .txt ﬁle.
+6 NOTE: the
+' function requires
+
+a user license and
+is only enabled if
+the user has
+Evidence
+deletion
+authorization.
+
+E Show selected command
+details.
+
+5 Command list based on set ﬁlters.
+
+5 RC5 status bar.
+
+To learn more
+
+For interface elem ent descriptions See ’Shored interface eiements and actions” on page 11 .
+
+Agent synchronization log data
+
+Descriptions are provided below:
+
+Fieid Description
+
+ 
+
+Acquired Synchronization date-time.
+It can be filtered. Last 24 hours is set by default.
+
+IP IP address used for synchronization.
+
+Address Site where connection was established.
+
+ 
+
+Analyst’s Guide I yer.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. 32
+

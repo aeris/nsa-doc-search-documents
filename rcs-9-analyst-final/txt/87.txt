@@ -1,0 +1,55 @@
+RC5 9 - Viewing most frequenlly visited websites
+
+Step Action
+
+ 
+
+3 Press Enter on the keyboard.
+
+Result: the information on the people most frequently
+contacted in the selected period appears in the table, see
+"Target entity details" on page 76
+
+Viewing most frequently visited websites
+To view the most frequently visited websites:
+
+Step Action
+
+ 
+
+1 Select the period of interest
+
+2 In the text box next to Most visited websites, enter the
+number of websites to be viewed.
+3 Press Enter on the keyboard.
+
+Result: the information on the websites most frequently
+visited in the selected period appears in the table, see
+"Target entity details" on page 76
+
+Connecting the Target entity with a frequently contacted person
+To connect the Target entity with a frequently contacted person:
+
+Step Action
+
+ 
+
+1 In the Most Contacted table, click Add as Entity in the
+required row and enter data.
+
+Result: a Person entity with the selected identiﬁcation data
+is added to the list of operation entities along with a Peer
+link with the Target entity.
+
+6 NOTE: the result is the same if a Person entity is
+manually created with the table identiﬁcation data
+and a Peer link added between the Target and
+created entity.
+
+Connecting the target to a frequently visited website
+To connect the target to a frequently visited website:
+
+ 
+
+Analyst’s Guide I ver.1.4 SE P—2013 I RCSQ I 2013(3) HTS.r.|. - pag. 74
+

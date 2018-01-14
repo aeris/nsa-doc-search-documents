@@ -1,0 +1,50 @@
+RC5 9 - Image type evidence actions
+
+For more information on evidence see "What you shouicl' knowr about evidence" on page 34 .
+For a description of the data in this window see "Evidence data” on page 41 .
+
+Image type evidence actions
+Actions that can be run on image evidence are described below:
+
+ 
+
+icon Description
+= (screenshot and ﬁle type evidence only) Shows the extracted text.
+
+6 NOTE: if the "OCR unavailable" message appears, this means that the
+
+document has not yet been converted and indexed. If the button is not
+displayed, this means that this function was not installed. Contact your
+system administrator.
+
+(5} (screenshot type evidence only) Return to image view.
+
+El Full screen view.
+
+1:1 Actual image size view.
+
+Q Q Expand and shrink image.
+
+1-) (It Rotate image.
+
+Anti Reduces the image scaling effect.
+alias
+
+W The image becomes the intelligence entity default image (if the intelligence mod-
+9 ule is installed).
+
+Audio type evidence actions
+Actions that can be run on audio evidence are described below:
+
+icon Description
+
+ 
+
+Ill} 'v'olume adjustment.
+
+[I I Start, pause and stop audio.
+
+ 
+
+Analyst’s Guide I ver.1.4 SEP—2013 I RCSQ I 2013. HTS.r.|. -pag. 45
+

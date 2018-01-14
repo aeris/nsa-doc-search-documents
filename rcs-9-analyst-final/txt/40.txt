@@ -1,0 +1,35 @@
+RC5 9 -Table view
+
+ 
+
+ 
+
+Data Description
+
+Name Factory or agent name.
+
+Description Factory or agent description
+
+Status Open: the agent is still active on the device and can continue to send data.
+Closed: the agent is no longer active.
+0 NOTE: a closed agent cannot be reopened. Data in RES can still be viewed.
+
+Type Desktop or mobile type.
+
+Platform (agent only) Operating system on which the agent is installed.
+
+Version (agent only) Agent version. A new version is created when a new configuration is
+created.
+
+Last sync (agent only) Date and time of the last agent synchronization.
+
+ldent (agent only) Univocal agent identiﬁcation.
+
+Instance
+
+(agent only) Univocal identification of the device where the agent is installed.
+
+ 
+
+Analyst’s Guide I ver.1.4 SE P—2013 I RCSQ I 2013© HTS.r.l. - pag. 27
+

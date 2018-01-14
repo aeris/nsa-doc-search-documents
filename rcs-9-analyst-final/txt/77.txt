@@ -1,0 +1,46 @@
+RC5 9 - What the function looks like
+
+ 
+
+Area Description
+
+ 
+
+3 Window toolbar. Descriptions are provided below:
+
+icon
+
+Function
+
+ 
+
+ninwsbapwxﬂs
+
+Creates a new entity
+
+Editing an entity
+
+Deletes an entity
+
+Exports entity data in . html format
+
+Merges two entities
+
+Opens the target page linked to the entity.5ee "Target page " on page
+24 .
+
+Opens the evidence associated with the selected link. See "Evidence
+analysis Evidence)” on page 36
+
+Creates a link
+Edits a link
+
+Deletes a link
+
+Applies a level of relevance to a link
+Exports the entity graph in . g raphml format.
+
+ 
+
+Analyst’s Guide I ver.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. 64
+

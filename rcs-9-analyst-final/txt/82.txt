@@ -1,0 +1,63 @@
+RCS 9 - What the function looks like
+
+ 
+
+Area Description
+
+ 
+
+3 Window toolbar. Descriptions are provided below:
+
+icon Function
+
+ 
+
+Creates a new entity
+
+Editing an entity
+
+Xi!
+
+Deletes an entity
+
+5% Exports entity data in - html format
+
+‘6‘ Opens the target page linked to the entity.$ee "Target page " on page
+r" 24 .
+
+9 Opens the evidence associated with the selected link. See "Evidence
+I anaiysis vaidence)" on page 36
+
+at Creates a link
+
+£3- Deletes a link
+
+C Applies a level of relevance to a link
+
+4 View and search box buttons:
+
+ 
+
+Object Description
+Search box. Enter part of the name or description to
+
+display a list of entities that contain the entered letters.
+
+Displays the entities in a table. See " Entity
+management: icon and tabie Iviews" on page 60 .
+
+Displays entities as icons See "Entity management: icon
+and tabie views" on page 60 .
+
+'@ Displays Target and Position entities and their links on a
+map.
+5}“ Displays entities and their links in a graph. See "Entity
+
+management: iink view" on page 62 .
+
+5 Filter area
+
+ 
+
+Analyst’s Guide I ver.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. 69
+

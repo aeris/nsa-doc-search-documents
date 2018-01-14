@@ -1,0 +1,25 @@
+ 
+
+Evidence analysis
+
+Presentation
+Introduction
+Evidence analysis on the list or detailed level, select evidence to be exported to the authorities.
+
+Content
+
+This section includes the following topics:
+
+ 
+
+What you should know about evidence .................................................................. 34
+Evidence analysis {Evidence} ................................................................................. 36
+Evidence data ..................................................................................................... 41
+Evidence details __________________________________________________________________________________________________ 43
+Evidence export data ........................................................................................... 46
+List of types of evidence ....................................................................................... 46
+
+ 
+
+Analyst's Guide ver.1.4 SEP—2013 - RC8 9 - 2013. HTS.r.l. - pag. 33
+

@@ -1,0 +1,63 @@
+RC5 9 -To learn more
+
+ 
+
+Area Description
+
+ 
+
+3 Window toolbar.
+
+icon Description
+
+ 
+
+E; Export agent evidence.
+ﬂ
+
+' NOTE: the function is only enabled if the user
+' has Evidence export authorization.
+
+Adding the agent to the dashboard.
+
+4%
+; Adding the agent to alerts: an alert is generated at
+each synchronization.
+
+4 Possible actions on the agent. Descriptions are provided below:
+
+Description
+
+ 
+
+Show the list of evidence collected by the agent. See
+"Evidence analysis {Evidence)" on page 36 .
+
+Show the device file system. See "Retrieve evidence
+from devices fFiie System)" on page 49 .
+
+Show the agent event log (info). See "Agent event iog
+data" bellow
+
+Show the results of commands run on the device using
+Execute actions. See ”Command page" on next page .
+
+")OH'ﬁi'b?
+
+Show the agent synchronization log. See ”Agent
+synchronization iog data" on page 32 .
+
+5 Agent details.
+5 RC5 status bar.
+
+To learn more
+For interface elem ent descriptions See ”Shared interface eiements and actions” on page 11 .
+
+Agent event log data
+
+Descriptions are provided below:
+
+ 
+
+Analyst’s Guide I ver.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. 3O
+

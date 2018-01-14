@@ -1,0 +1,55 @@
+RC5 9 - Entity management: Position view
+
+Step Action
+
+ 
+
+2 Click Play to display.
+Result: red balls slide along links to represent
+collected evidence.
+
+0 NOTE: the direction in which the ball slides
+
+indicates the direction of the evidence (i.e.:
+the red ball slides from the John entity to the
+Paul entity ifJohn sent an email to Paul).
+
+6 NOTE: the number of balls indicates the
+
+quantity of evidence: one ball indicates that
+at least 10 pieces of evidence were
+collected, two balls between 10 and 50
+pieces, three balls if more than 50 pieces of
+evidence were collected.
+
+6 NOTE: if the link was created on that day,
+that day is displayed on the map.
+
+3 Click Stop to stop the display.
+
+Entity management: Position view
+
+To manage a Intelligence section, double-click on operation, click Position View
+inteii'igence entities:
+
+Purpose
+This function lets you:
+
+a display Target entities and Position entities for an operation and their links on a map.
+e manage Target and Position entities
+
+a manage links between Target and Position entities
+
+a open the target page linked to the Target entity
+
+a open evidence associated with a link
+
+e dynamically display target entity movements
+
+0 NOTE: the function requires a user license and is only enabled if the user has Entity
+management authorization.
+
+ 
+
+Analyst’s Guide I ver.1.4 SE P—2013 I RCSQ I 2013© HTS.r.|. - pag. 67
+

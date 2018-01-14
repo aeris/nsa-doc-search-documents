@@ -1,0 +1,44 @@
+ 
+
+RCS Console for the Analyst
+
+Presentation
+
+The Analyst's role
+
+The role of the Analyst is to:
+
+. select and analyze evidence
+
+. retrieve evidence from a device
+
+. export evidence for the authorities
+
+. organize device and other evidence in your possession to formulate solutions for the inves-
+
+tigation
+
+Analyst enabled functions
+
+To complete hi s/her activities, the Analyst has access to the following functions:
+
+. Operation
+. Intelligence
+. Dashboard
+. Alerting
+
+Content
+
+This section includes the following topics:
+
+ 
+
+Starting the RC5 Console _______________________________________________________________________________________ 9
+Homepage description ......................................................................................... 10
+Shared interface elements and actions .................................................................... 11
+Analyst's procedures ............................................................................................ 15
+
+ 
+
+Analyst‘s Guide ver.1.4 SEP—2013 - RC8 9 - 2013© HTS.r.l. - pag. 3
+

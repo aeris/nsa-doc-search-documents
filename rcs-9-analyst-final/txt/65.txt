@@ -1,0 +1,34 @@
+RC8 9 - Intelligence
+
+ 
+
+Intelligence
+
+Presentation
+
+Introduction
+
+The section lets you represent interactions between targets at a high level, matching evidence
+received by agents with other information already possessed.
+
+Content
+
+This section includes the following topics:
+
+ 
+
+What you should know about intelligence ............................................................... 53
+Intelligence operation management _______________________________________________________________________ 59
+Entity management: icon and table views ............................................................... ED
+Entity management: link view ............................................................................... 62
+Entity management: Position view ......................................................................... 67
+Target entity details ............................................................................................ 71
+Target entity details ............................................................................................ 76
+Person entity details ____________________________________________________________________________________________ 77
+Position entity details .......................................................................................... 79
+Virtual entity details ............................................................................................ 81
+
+ 
+
+Analyst’s Guide I ver.1.4 SEP—2013 I RCSQ I 2013© HTS.r.l. - pag. 52
+

@@ -1,0 +1,48 @@
+New guide features
+
+RC5 9 - New guide features
+
+List of release notes and updates to this online help.
+
+ 
+
+Release Code Software Descriptim
+date version.
+30 Sep- Analvst's 9 Updated documentation in the Intelligence section, see
+tember Guide "lntelligence" on page 52 .
+2013 1.4 SE P- Updated the Analyst's procedures,see "Analyst’s procedures"
+2013 on page 15 .
+Updated alert rule documentation, see ”Alert" on page 88.
+Updated documentation due to improvements to the user
+interface.
+Improved the contents.
+3 July Analvst's 3_4 No documentation update.
+2013 Guide
+15 March Analvst's 33 Added the Intelligence section see ’Tntelligence" on page 52 .
+2013 Guide Added content export from all file type evidence formats. See
+1.3 "Evidence details" on page 43
+MAR" A user license can be purchased to view evidence content in
+2013 the interface language.$ee "Evidence analysis {Evidence)" on
+page 36 and see "Evidence details" on page 43 .
+15 Analyst's 8.2 Added filter settings savings on evidence and simpliﬁed the
+October Guide Info filter on evidence. Added delete evidence.$ee "Evidence
+2012 12 on: analysis vaidence)” on page 36 .
+2012 If installed, the texts extracted from a screenshot tvpe
+evidence can be viewed. See "Evidence details" on page 43 .
+30 June Analvst's g_1 Different folder retrieve from disk. See "Retrieve evidence
+2012 Guide from devices {File System)" on page 49 .
+1.1 JUN
+2012
+16 April Analvst's 8.0 First publication
+2012 Guide
+1.0 APR-
+2012
+
+Supplied documentation
+
+The following manuals are supplied with RC5 software:
+
+ 
+
+Analyst's Guide I ver.1.4 SEP—2013 I RCSQ I 2013© HTS.r.|. - pag. 2
+

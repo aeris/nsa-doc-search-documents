@@ -1,0 +1,57 @@
+RCS 9 - Command page
+
+Fieid Description
+
+ 
+
+Acquired Date-time of the event acquired on the device.
+It can be filtered. Last 24 hours is set by default.
+
+Received Date-time of the event logged in RCS.
+It can be filtered. Last 24 hours is set by default.
+
+Content Status information sent by the agent.
+
+Command page
+
+Tamar-rage - Operations section, double-clickan operation, double-clicka target, double-click an agent,
+command resuits: double-click Commands
+Purpose
+
+This function lets you:
+
+0 check the results of commands run with the Execute action set on the agent
+0 check executable ﬁle results run during ﬁle transfer toffrom the agent
+
+What the function looks like
+This is what the page looks like:
+
+a :p-.--.\.-...-:<_.-m as
+g .‘.::'.‘Jn‘r1 upanunns :utccc .-J:-r1 5-5::n no: .uznu m
+ﬂnlqmltmh annu- Gm:m- incmmbmh 92mm- no r
+h"? K | l‘_=l Fiﬁ. El
+|..\" ...'. .I ‘1".‘dll'lh‘
+
+' I . . J :.'-'.I\'\
+mm m Im-n— low-
+
+WmhltmﬂMlmM
+mum
+
+ 
+
+9mm my." ans-M11111: m- and“ Elﬁn-humus"
+”Mu-1 lk-l
+
+IMml.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Analyst’s Guide I ver.1.4 SEP—2013 I RCSQ I 2013. HTS.r.|. -pag. 31
+

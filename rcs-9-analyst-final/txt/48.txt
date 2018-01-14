@@ -1,0 +1,61 @@
+RC5 9 - Translating evidence
+
+Translating evidence
+
+The RCS Translate module is available upon special license to translate evidence. In fact, it
+communicates with a third party translation software that returns text translated into the
+interface language.
+
+RC5 Translate translates the following types of evidence:
+
+0 clipboard
+o chat
+
+0 file
+
+0 keylog
+
+0 message
+0 screenshot
+
+The translation is displayed in the page with the evidence list and the single piece of evidence
+detail page.
+
+Delete evidence
+
+This function deletes one or more pieces of evidence no longer deemed useful. This function
+depends on the type of license installed.
+
+Filters can be used to select the evidence to be deleted (similar to selecting evidence to be
+exported).
+
+0 IMPORTANT: the ﬁlter only appears when the Delete and ALT keys are pressed
+simultaneously.
+
+.tgz file description with exported evidence
+
+The exported .tgz file is a compressed ﬁle that can be opened with most compression programs
+(i.e.: WinZip, WinRar). Once unzipped, it looks like a folder with an HTML file.
+
+To view the ﬁle:
+
+Step Action
+
+ 
+
+1 Open index.html with a browser: the homepage displays the list of days with
+collected evidence statistics per hour.
+
+2 Click on a day: the list of evidence appears, similar to the one displayed in the
+Evidence function.
+
+3 The following actions can be performed from this list:
+0 on images: click to view the full image
+0 on audio: click to run the mini player
+
+0 on downloadable files: click H to download the file
+
+ 
+
+Analyst’s Guide I ver.1.4 SEP—2013 I RCSQ I 2013. HTS.r.|. -pag. 35
+

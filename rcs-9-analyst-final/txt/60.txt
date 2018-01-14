@@ -1,0 +1,51 @@
+RC3 9 - List of types ofevidence
+
+ 
+
+Maddie Fiie type Recording...
+
+Addressbook text contacts.
+
+Application text appiications used.
+
+Calendar text caiendar.
+
+Call audio caiis (phone, Skype, MEN}.
+
+Camera image Webcam images.
+
+Chat text chat.
+
+Clipboard text information copied to the ciipboard.
+
+Device text system information.
+
+File text fiies opened by target.
+
+File System text hard disk stmcture that can be expiored in the Fiie System function.
+See "Retrieve evidence from devices {Fiie System)” on page 49
+
+mfg text information provided by the agent and defined in settings.
+
+Keylgg text ireys pressed on the keyboard.
+
+Messages text e-mah'.
+
+Mic audio audio.
+
+Mouse image mouse ciicir.
+
+Password text password.
+
+Position image target’s geographic position.
+
+Print image printed pages.
+
+Screenshgts image images on the target’s screen.
+
+URL text visited websites.
+
+ 
+
+Analyst’s Guide I uer.1.4 SEP—2013 I RCSQ I 2013(3) HTS.r.|. - pag. 47
+

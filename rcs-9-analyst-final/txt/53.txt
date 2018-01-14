@@ -1,0 +1,50 @@
+RC5 9 - Preparing evidence for analysis and export adding personal notes
+
+Step Action
+
+ 
+
+2 a Click Add Report
+
+or
+1- press ALT+R
+
+3 Result: single pieces of evidence are bookmarked. Evidence can be filtered by this
+symbol and includedfexcluded from export.
+
+Preparing evidence for analysis and export adding personal notes
+To add personal notes to one or more pieces of evidence:
+
+Step Action
+
+ 
+
+1 Select one or more pieces of evidence.
+
+2 a Click Edit Note
+
+or
+1- press ALT+N
+
+3 Result: the Notes field can be edited. |f several pieces of evidence are selected, the
+entered text will be copied to all other Note fields.
+
+Analyzing evidence
+To quickly or thoroughly analyze evidence:
+
+Step Action
+
+ 
+
+1 Analyze the evidence preview. For example, a mini player can be run for audio files
+to understand whether the evidence is of interest.
+
+2 Double-click evidence: evidence details appear. See "Evidence detoiis" on page 43
+
+Viewing counters divided by type
+To view the total amount of evidence divided by type:
+
+ 
+
+Analyst’s Guide I ver.1.4 SE P—2013 I RCSQ I 20136) HTS.r.l. - pag. 4U
+

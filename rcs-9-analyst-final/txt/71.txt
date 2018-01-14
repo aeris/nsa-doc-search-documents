@@ -1,0 +1,60 @@
+RC5 9 - Automatic Peer link creation criteria with Position entities
+
+ 
+
+target John communicated with
+
+Target/Person entity Paul a directional Peer link from John to Paul
+
+. a a Person entity with identiﬁcation 00321456?
+target John often communicates
+
+with identification 00321456? 0 a directional Peer link from John to the Person
+entity
+
+Automatic Peer link creation criteria with Position entities
+
+If the evidence indicates that... The system creates...
+
+a a Position entity with the geographic coordinates for
+targets John and Paul were in Times Sguare . . . .
+Times Square at the same time . a directional Peer link from John to the Position entity
+
+. a directional Peer link from Paul to the Position entity
+
+target John was in the place
+associated with John's ofﬁce a direction Peer link from John to John's ofﬁce entity
+Position entity
+
+. , , a a Position entity with the geographic coordinates for
+target John is often in Times Times Square
+
+Square . a directional Peer link from John to the Position entity
+
+6 NOTE: for the system, a target visited a place if they were there for at least 15 minutes.
+' Two targets visited the same place at the same time if they were there at the same time
+for at least 15 minutes.
+
+Automatic Peer link creation criteria with Virtual entities
+
+If the evidence indicates that... The system creates...
+
+target John visited URL
+www.5ecretplaces.com linked to the
+Virtual entity Secret places website
+
+a direction Peer link from John to Secret places
+website
+
+Automatic Identity link creation criteria with Target and Person entities
+
+If the system detects that... The system creates...
+
+Target/Person entity John has 003214557 in his
+identification data and TargetfPerson entity an ldentitylink between John and Paul
+Paul has 00321456? in his
+
+ 
+
+Analyst’s Guide I ver.1.4 SE P—2013 I RCSQ I 20136) HTS.r.l. - pag. 53
+

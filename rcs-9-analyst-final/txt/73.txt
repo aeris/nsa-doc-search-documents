@@ -1,0 +1,40 @@
+RC5 9 -To learn more
+
+To learn more
+
+For interface elem ent descriptions See "Shared interface elements and actions" on page 11 .
+
+Viewing operation entities
+To View operation entities
+
+Step Action
+
+ 
+
+1 Double-click an operation; the entity management page opens.$ee "Entity
+management: link View” on page 62
+
+Entity management: icon and table views
+
+To manage 0 Intelligence section, double-click an operation and click Icon View or Table View
+entities:
+
+Purpose
+This function lets you:
+View operation entities
+manage operation entities
+open the target page linked to the Target entity
+
+i
+C
+i
+0 NOTE: the only entities viewed and managed without a user license are Target entities.
+0 NOTE: the function is only enabled if the user has Entity management authorization.
+
+What the function looks like
+This is what the page looks like:
+
+ 
+
+Analyst’s Guide Iver.1.4 SEP—2013 | Rcss | 2013© HTS.r.l. -pag. 6O
+

@@ -1,0 +1,56 @@
+RC5 9 -To learn more
+
+Area Description
+
+ 
+
+5 Entity map and links based on set filters
+
+9 NOTE: the target entity is positioned in the last position acquired in the
+selected period.
+
+0 NOTE: manually created links are always displayed regardless of the
+selected period.
+
+7 Selected entity data.
+
+8 Command to display Target entity movements based on set filters.
+9 RC5 status bar.
+
+To learn more
+
+For interface elem ent descriptions See "Shared interface elements and actions" on page 11 .
+
+To learn more on intelligence see "What you should know about intelligence" on page 53 see
+"What you should know about entities" on page 53
+
+Viewing entity details
+To view entity details:
+
+Step Action
+
+ 
+
+1 Double-click an entity: the detail page opens.
+a "Target entity details" on next page
+
+"-Person entity details" on page ?7 .
+1- "Position entity details" on page 79 .
+
+Creating a link between two entities
+To create a link between two entities:
+
+Step Action
+
+ 
+
+1 Select a Target entity and Position entity holding down the Ctrl key on the
+keyboard.
+
+2 Select the level of relevance and click Save.
+Result: the link is displayed in the graph
+
+ 
+
+Analyst’s Guide I ver.1.4 SE P—2013 I RCSQ I 2013© HTS.r.l. - pag. 70
+

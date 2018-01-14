@@ -1,0 +1,60 @@
+RC5 9 -111e placesinvolved in an investigation: Position entity and Virtual entity
+
+ 
+
+EH
+0 I :Target type, for the people being tapped
+
+O
+o n : Person type, for the people not being tapped
+
+The places involved in an investigation: Position entity and Virtual entity
+
+The system defines two types of entities to represent the places involved in an investigation:
+
+0 ® : Position type, physical sites
+
+El
+
+0 :‘v’irtual type, virtual sites like web pages
+
+Managing entities
+
+The analyst manages entities so they represent the evolution of the investigation, thus:
+0 it adds entities to monitor other people and places deemed of interest
+0 it adds details to the entities to provide new data to the system to identify relations
+between entities
+o it eliminates entities when the people or places are deemed insigniﬁcant to the inves-
+tigation
+
+Target entity
+
+The Target entity is automatically created when the target is created in the Operations section.
+The name and description are the same ones assigned in the Operations section.
+
+6 NOTE: Target entities cannot be eliminated from the Intelligence section. To eliminate
+them, targets must be eliminated from the Operations section.
+
+0 NOTE: the Target name and description can be changed without any impact on the
+Operations section.
+
+The system adds Target entity details with information gathered from evidence (i.e.: photos, most
+frequently contacted people). The analyst can add other information in hisfher possession.$ee
+"Target entity details" on page 71
+
+Person entity
+
+The Person entity can be manually created by the analyst or automatically by the system.
+
+The Person entity is defined by IDs sfhe uses to communicate, by phone or internet (i.e.: phone
+number, Skype contact).
+
+0 NOTE: the more information in the entity detail sheet, the higher the probability the
+system identiﬁes links between that entity and other entities.
+
+See "Person entity details” on page .7?
+
+ 
+
+Analyst’s Guide I ver.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. 54
+

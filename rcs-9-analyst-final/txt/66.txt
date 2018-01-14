@@ -1,0 +1,50 @@
+RCS 9 - Whatyou should know aboutintelligence
+
+What you should know about intelligence
+
+Presentation
+
+Introduction
+
+The Analyst processes the investigation information in hisfher possession in the Intelligence
+section.
+
+The people under investigation, other people and places involved in the investigation are
+represented by entities. The relations between people and between people and places are
+represented as iinks between entities.
+
+The system creates new entities and new links between entities based on the evidence received
+from target devices. The analyst interprets and organizes this information, adding, editing or
+deleting entities according to the evolution of the investigation.
+
+Intelligence section license
+Intelligence functions are sold under license.
+
+Without a user license the analyst can only use the Intelligence section to view and add details on
+targets in the operation; the system does not process information based on collected evidence.
+The only entities included are the Targets and they can only be viewed as icons or in tables,see
+”Entity management: icon and tabie views" on page 60 .
+
+To learn more
+
+See "What you sbouid know about entities" beiow
+See "See "What you should know about iinks”." on page 55
+See "What you snouid know about now inteiiigence works" on page 56 .
+
+What you should know about entities
+
+Introduction
+
+The entity represents a person or place involved in an investigation.
+
+Each entity is deﬁned by detailed information that allow the system to identify relations between
+entities.
+
+People involved in the investigation: Target entities and Person entities
+
+The system defines two types of entities to represent the people involved in an investigation:
+
+ 
+
+Analyst’s Guide I ver.1.4 SEP—2013 I RCSQ I 2013(3) HTS.r.l. - pag. 53
+

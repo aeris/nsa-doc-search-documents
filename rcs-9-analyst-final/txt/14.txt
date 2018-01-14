@@ -1,0 +1,32 @@
+ 
+
+Guide introduction
+
+Presentation
+
+Manual goals
+
+This manual is a guide for the Analyst on how to use the RC5 Console to:
+
+0 monitor the target
+0 explore target devices
+0 analyze and export evidence
+
+Information on how to consult the manual is provided below.
+Content
+
+This section includes the following topics:
+
+ 
+
+New guide features .............................................................................................. 2
+Supplied documentation ....................................................................................... 2
+Print concepts for notes ________________________________________________________________________________________ 3
+Print concepts for format ...................................................................................... 3
+Product and guide addressees ................................................................................ 4
+Software author identification data ________________________________________________________________________ 5
+
+ 
+
+Analyst‘s Guide ver.1.4 SEP—2013 - RC8 9 - 2013© HTS.r.I. - pag. 1
+

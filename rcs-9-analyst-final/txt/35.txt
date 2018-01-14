@@ -1,0 +1,29 @@
+RC5 9 - Operation page data
+
+ 
+
+For more information on operations see ”What you shouia‘ know about operations" on page 18 .
+For a description of the data in this window see "Operation page data" below .
+
+Operation page data
+
+Selected target data is described below:
+
+Data Description
+
+ 
+
+Name Target name.
+Description User's description
+
+Status Defines the target's status:
+
+9 Open. If the Technician correctly installs agents, RC5 receives the collected
+evidence.
+
+® Closed, it can no longer be opened.
+
+ 
+
+Analyst’s Guide I uer.1.4 SEP—2013 I RCSQ I 2013. HTS.r.|. -pag. 22
+

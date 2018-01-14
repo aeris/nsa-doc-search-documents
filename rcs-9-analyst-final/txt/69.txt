@@ -1,0 +1,54 @@
+RCS 9 - Managing Peer and Know links
+
+ 
+
+Managing Peer and Know links
+
+The analyst manages links so they represent the evolution of the investigation, thus:
+
+0 adds or edits links between two entities when in possession of information that prove a
+
+relationship between the two
+
+0 assigns a level of relevance to links to represent the rel ationship's relevance in the inves-
+tigation
+
+o deletes links when in possession of information that prove the lack of relations or that the
+relationship is insigniﬁcant to the investigation.
+
+Identity links
+
+Identity links represent a suggestion of an identity relationship between two entities that
+represent people. This type of link is automatically created by the system when the two entities
+share at least one identiﬁcation (i.e.: phone number).
+
+Identity links do not have directions.
+
+Managing Identity links
+
+The analyst must decide the reason for identity links and how to act accordingly:
+0 if they are the same person, the two entities must be merged;
+in if they are two different people that used the same identification, the shared identification
+must be deleted from one of the entities and the link eliminated.
+
+Link time value
+
+Links are the result of an automatic or manual process completed at a certain time. However, the
+time the link is created, meaning when the first relationship was formed between entities, is only
+logged for Peer links automatically created by the system.
+
+This way, an analysis period can be selected to see when certain relationships were created.
+
+For the other links, once they are created (automatically or manually) they are considered as
+created at the beginning by the system.
+
+What you should know about how intelligence works
+
+Introduction
+
+Intelligence supports the analyst in processing the investigation evidence and data.
+
+ 
+
+Analyst’s Guide I ver.1.4 SE P—2013 I RCSQ I 2013© HTS.r.l. - pag. 56
+

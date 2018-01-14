@@ -1,0 +1,74 @@
+RC5 9 - What the function looks like
+
+ 
+
+.1 Fn-.--.-\.'1'r- ﬁrm CLﬂI—I
+ﬂ Stu-.621: Inwlmnu DEM-HI! Damn.
+a W . w...“ . ._..... El . .
+III E} Er. El
+nr mm 1—,» 1n
+
+ 
+
+ 
+
+ 
+
+J:lnm5rPagn .mm. .m |:-.u_-.m_- r: n :|_-J-M.-sr :1
+..
+
+I mun-"mu
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Area Description
+
+ 
+
+1 RC5 menu.
+2 Scroll bar.
+3 Window toolbar. Descriptions are provided below:
+
+Icon Function
+
+Edit entity data.
+
+ 
+
+E; Exports entity data in . html format
+ii:
+
+9 Opens the target page linked to the entity.$ee "Target page” on page 24 .
+r"
+
+4 Photo of the target linked to the entity. It is the first image captured by the webcam
+by default.
+
+5 List of target identification data identified by evidence or manually added.
+
+5 Table with the most frequently contacted people and most frequently visited
+websites based on the selected period.
+
+Double-click to open the page of evidence for that data.
+
+7 Search period.
+3 Map indicating:
+0 last position acquired from the target,
+
+0 places most frequently visited in the selected period,
+0 manually entered places visited by the target.
+
+9 RC5 status bar
+
+ 
+
+Analyst’s Guide I ver.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. 72
+

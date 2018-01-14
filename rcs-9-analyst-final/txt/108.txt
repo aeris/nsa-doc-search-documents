@@ -1,0 +1,42 @@
+RC5 9 - Log data
+
+Data Description
+
+ 
+
+Type Type of alert to be received when evidence arrives:
+in Log: alert logged and notiﬁed on the RC5 Console.
+0 Mail: e-mail and alert logged
+
+0 None: no logged alert nor e-mail. Useful to automatically tag evidence by
+relevance (Tag)
+
+Suppression (only Mail type alerts) Latency time for sending identical alert e-mails. Used to
+
+Time avoid identical e- mails after the first. For example, if the target has not
+communicated its evidence for a while and e-m ail alert was selected, you may be
+bombarded with e-mails when the first evidence arrives. Set a 30- minute
+Suppression time to receive one e-m ail every 30 minutes.
+
+0 NOTE: this setting only limits e-mail delivery. Events are always logged.
+
+Log data
+Alert logs are described below:
+
+Data Description
+
+ 
+
+Date alert time-date.
+
+path Range of action from which the alert was generated.
+
+For example, if a target was selected in the rule Path, the name of the target and the
+name of the operation it belongs to will appear here.
+
+Info Quantity and type of events that generated the alert.
+
+ 
+
+Analyst’s Guide I ver.1.4 SE P—2013 I RCSQ I 2013© HTS.r.|. - pag. 9'5
+

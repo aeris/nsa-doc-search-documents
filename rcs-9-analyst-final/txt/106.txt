@@ -1,0 +1,48 @@
+RCS 9 - Adding a rule to automatically tag certain evidence or certain intelligence linksbetween entities
+
+Step Action
+
+3 Click Save: the new alert rule appears in the main work area. An alert is sent as soon
+as the system logs an event that matches the rule.
+
+Adding a rule to automaticallyr tag certain evidence or certain intelligence links between
+entities
+
+To automatically tag certain evidence or certain link without logging or sending alerts:
+
+Step Action
+
+1 Click New Alert: data entry fields appear.
+
+2 0 Setting criteria to select evidence or links
+0 In Type select None.
+0 In Relevance set the relevance level
+0 Select the Enabled box to apply the rule.
+
+3 Click Save: the new alert rule appears in the main work area. As soon as the system
+receives evidence matching this rule, the evidence is tagged.
+
+Viewing events matching the logged alert
+To view evidence matching an alert:
+
+Step Action
+
+1 Select the alert rule with at least one log (Logs column): all logged alerts appear in
+the list.
+
+2 Double-click on the row in the logged alert list.
+Result: it directly opens:
+
+o the list of evidence that generated the alert (Evidence event).
+0 entity details(Entityr event)
+0 link view (Link event)
+
+Alert data
+
+Alert rule data
+Alert rule data is described below:
+
+ 
+
+Analyst’s Guide I ver.1.4 SE P—2013 I RCSQ I 2013© HTS.r.l. - pag. 93
+

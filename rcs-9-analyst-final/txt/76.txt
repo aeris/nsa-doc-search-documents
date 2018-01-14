@@ -1,0 +1,74 @@
+RC5 9 - Purpose
+
+ 
+
+Purpose
+This function lets you:
+display operation entities and their links on a graph
+manage entities
+manage entity links
+open the target page linked to the Target entity
+open evidence associated with a link
+dynamically View evidence associated with entity links
+
+View is the icon yiew,see "Entity management: icon and table views" on page 60 .
+
+C
+C
+C
+C
+i
+C
+0 NOTE: this function requires a user license. Without a license, the default operation entity
+6 NOTE: the function is only enabled if the user has Entity management authorization.
+
+What the function looks like
+This is what the page looks like:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+*I u--.....--.w.v'..-...u GEE
+a ...:...m.. Imlmm IJrJ|!|<|:| :'-1II|. III
+E .‘l:n'.'ln'. » art-mu E a +
+swans-Lure a assist... alga- \.
+... ... . .... .... .. .= .... .. '.;;;-‘-_ ........
+mum 4N1:'_\|3’.l'_q r; m .J'Jt:gf T_ uncut.
+M.__._ _ _
+“b ..
+.. .. <—_
+s. .
+/ II. .I
+01 III il’hw E
+ML- ‘ ‘a‘ Ill “5...
+“a. ' ﬂ
+1-2 J/xi-nl...
+..|u /’-
+u.-
+m.-
+—w— | | |
+Hnwmrllnnmmm 1'». wad-Nu urn-nun 1. on .mwm “a.“ ﬂux:- 13
+THE
+
+Area Description
+
+ 
+
+1 RC5 menu.
+2 Scroll bar.
+
+ 
+
+Analyst’s Guide I yer.1.4 SE P—2013 I RCSQ I 2013© HTS.r.|. - pag. 63
+

@@ -1,0 +1,53 @@
+RC5 9 - Print concepts for notes
+
+ 
+
+Manuai Addressees Code Distribution for-
+mat
+
+System Administrator's System System Administrator’s
+
+Guide administrator Guide pDF
+1.4 SEP-2013
+
+Administrator's Guide Administrators Administrator’s Guide PDF
+1.4 SEP-2013
+
+Technician's Guide Technicians Technician’s Guide PDF
+1.5 SEP-2013
+
+Analyst's Guide (this Analysts Anaiyst’s Guide PDF
+
+manual} 1.4 $EP-2013
+
+Print concepts for notes
+
+Notes foreseen in this document are listed below (Microsoft Manual of Style):
+
+WARNING: indicates a riskyr situation which, if not avoided, could cause user injuryr or
+equipment damages.
+
+‘ CAUTION: indicates a risky situation which, if not avoided, can cause data to be iost.
+
+0 IMPORTANT: offers the indications required to complete the task. While notes can be
+neglected and do not influence task completion, important indications should not be
+
+neglected.
+
+6 NOTE: neutral and positive information that emphasize or add information to the main
+' text. They provide information that can only be applied in special cases.
+
+‘ Tip: suggestion for the application of techniques and procedures described in the text
+‘ . according to special needs. It may suggest an alternative method and is not essential to
+text comprehension.
+
+L}? Service caii: the operation may oniy be compieted with the heip of technicai service.
+
+Print concepts for format
+
+A key to print concepts is provided below:
+
+ 
+
+Analyst's Guide I ver.1.4 SEP—2013 I RCSQ I 2013. HTS.r.|. - pag. 3
+

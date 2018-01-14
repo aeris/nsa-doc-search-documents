@@ -1,0 +1,50 @@
+RC5 9 - Dynamically displaying target movements
+
+Dynamically displaying target movements
+To manage dynamically displayed target movements:
+
+Step Action
+
+ 
+
+1 Make sure the entities displayed on the graph and the
+selected time period are those required.
+
+Use the filters to set preferences.
+
+2 Click Play to display.
+Result: the Target entities displayed on the map move
+according to the movements logged in evidence.
+
+6 NOTE: if there is no evidence on the target
+
+position in the selected period, the Target entity
+remains on the last position acquired but its
+icon slowly fades until it disappears or appears
+in the next logged position.
+
+3 Click Stop to stop the display.
+
+Target entity details
+
+To view entity details: 0 Intelligence section, double-click an operation, double-click a Target entity
+
+ 
+
+Purpose
+
+This function lets you:
+. view detailed information on the Target entity processed by the system
+. add detailed information on the Target entity
+1- create new entities connected to the Target entity
+
+0 NOTE: some details and some actions are only enabled with the user license.
+6 NOTE: the function is only enabled if the user has Entity management authorization.
+
+What the function looks like
+This is what the page looks like:
+
+ 
+
+Analyst’s Guide I ver.1.4 SE P—2013 I RCSQ I 2013© HTS.r.l. - pag. 71
+

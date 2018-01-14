@@ -1,0 +1,73 @@
+RC5 9 - What the function looks like
+
+ 
+
+Areo Description
+
+ 
+
+3 Window toolbar. Descriptions are provided below:
+
+icon Description
+
+ 
+
+Show selected evidence details. See
+"Evidence detoiis" on page 43
+
+Show the total quantities by evidence
+type.
+
+é Export selected evidence to a .tgz file.
+
+' NOTE: the function is only
+enabled if the user has Evidence
+
+export authorization.
+
+x Delete selected evidence.
+
+‘ Tip: to delete a set of evidence
+according to certain criteria (i.e.:
+
+data range) simultaneously press
+ALT and this button: a window
+appears where you can set
+evidence deletion criteria. For
+field descriptionssee "Evidence
+export data" on page 46 , fields
+are similar.
+
+- NOTE: the function requires a
+user license and is only enabled if
+
+the user has Evidence deletion
+authorization.
+
+0* Apply a level of relevance to the selected
+evidence.
+
+Apply a bookmark to the selected
+evidence.
+
+Edit selected evidence notes.
+Show evidence ID codes.
+
+Saves currently selected filters or loads
+previously saved ﬁlter settings.
+
+Clear all set filters.
+
+View content in the interface language.
+
+' NOTE: this function requires a
+' user license.
+
+@ﬁ-ﬂﬁmﬁﬁ
+
+ 
+
+ 
+
+Analyst’s Guide I ver.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. 38
+

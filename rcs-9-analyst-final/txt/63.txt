@@ -1,0 +1,77 @@
+RCS 9 - What the function looks like
+
+authorization.
+
+What the function looks like
+This is what the page looks like:
+
+ 
+
+NOTE: the function is only enabled if the user had File system browsing an agent
+
+4 mm.” .. :39.
+‘l
+crux-can v Humane P 0 was... El 0 .*
+
+ 
+
+ 
+
+E a E u
+‘4\-'- :.--: .-u \ -,.. u- \ - -m.:
+. I'm in . nu
+'ﬁ::l .
+-I:: 31301921:er
+--.uv. 1ulu1' "nu-
+IHKMM "mm-Imm-
+In mummum mm mm...
+hm rum mum-
+.‘WL'J'. “Juli-ll“ Hm
+I'bpu-Hu mm: IBIEIIH
+Dem-Iguana "mung
+Imp-n. humour-.11
+Dana-x.- "main-ms:-
+-;n-.ur reumxxw
+lam-unmoun- llLMﬂ-ﬁiHlﬂ.
+ram; ::"-WIEEEXJ;
+3mm - Inn.
+Dunne: mu'mn
+.':~w|Im Anew-nu:-
+jmuma. mums:
+lm.=;_u.mn.waa.
+H: :HM'HI In“:
+L " E I: \r '
+
+Area Description
+
+ 
+
+1 RC5 menu.
+2 Scroll bar.
+
+3 Window toolbar. Descriptions are provided below:
+
+icon Description
+
+ 
+
+ﬂilJlb'ﬂ!
+
+Export the complete structure to a .tgz
+file.
+
+Download the selected ﬁle to File type
+evidence.
+
+Explore the selected folder content.
+
+Request the first level disk structure.
+
+lv’iew the list of currently suspended
+Filesystem requests awaiting next syn-
+chronization.
+
+ 
+
+Analyst’s Guide I ver.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. 50
+

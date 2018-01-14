@@ -1,0 +1,54 @@
+RCS 9 - Evidence exportdata
+
+icon Description
+
+ 
+
+L 'v'olume balance on local (target) and remote source (speaker).
+
+MFG“
+
+Evidence export data
+
+Data required to export evidence is described below.
+0 IMPORTANT: only evidence that meets the specified criteria will be exported!
+
+ 
+
+Data Description
+From Time range for the evidence to be exported.
+To
+
+Acquired It considers the date as the evidence acquisition date on the target device.
+Received It considers the date as the evidence receipt date.
+
+Relevance Level of relevance for the evidence to be exported.
+
+ 
+
+Type Types of evidence to be exported.
+' NOTE: when no type of evidence is selected, RCS automatically exports all
+' types.
+Report If selected, only evidence with the Report field selected will be exported. Notes can
+be included or excluded from the export.
+Report Exported file name. By default, RCS names the ﬁle as follows:
+Name
+Evidence exported from Fiie name
+page
+Target target name - agent name - Evidence Export.tgz
+Agent agent name - Evidence Export.tgz
+
+List of types of evidence
+
+Available types of evidence are described below:
+
+Moduie Fiie type Recording...
+
+ 
+
+Accessed ﬁles text (desktop oniy} documents or images opened by the target.
+
+ 
+
+Analyst’s Guide I ver.1.4 SEP—2013 I RCSQ I 2013. HTS.r.|. -pag. £16
+

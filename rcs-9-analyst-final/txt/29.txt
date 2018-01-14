@@ -1,0 +1,54 @@
+RC5 9 -Analyzing, selecljng and exporling evidence
+
+Analyzing, selecting and exporting evidence
+
+To analyze, select and export evidence:
+
+Step Action
+
+ 
+
+1
+
+In the Evidence section, analyze evidence and tag them according to relevance and
+whether or not they are to be exported.
+
+See "Evidence analysis Evidence)" on page 36 .
+
+For evidence of special interest, move on to detailed analysis.
+See ”Evidence details” on page 43
+
+In the Evidence section, export useful evidence.
+See "Evidence analysis Evidence)" on page 36 .
+
+In the File System section, export the hard disk structure
+See "Retrieve evidence from devices {File System )" on page 49
+
+To process information obtained on people and places involved in the investigation
+To process information obtained on people and places involved in the investigation:
+
+Step Action
+
+ 
+
+1
+
+In the Intelligence section, view and manage entities in an operation.
+
+See "Entity management: icon and table views" on page 60 , ”Entity management:
+link view" on page 62 , "Entity management: Position view" on page 6? .
+
+Viewing or editing entity details.$ee "Target entity details" on page 71 ,
+
+"Person entity details" on page 7? "Position entity details " on page 79 "Virtual
+entity details" on page 81 See "Evidence details" on page 43
+
+In the Alerting section, build rules to be alerted when the system automatically
+creates new entities and new links and to tag links according to their relevance.
+
+See ’Ltllerting " on page 90
+
+ 
+
+Analyst’s Guide I ver.1.4 SE P—2013 I RCSQ I 2013(3) HTS.r.l. - pag. 16
+

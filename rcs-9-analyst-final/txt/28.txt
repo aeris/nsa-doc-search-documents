@@ -1,0 +1,56 @@
+RC5 9 - Analyst‘s procedures
+
+Action Description
+
+ 
+
+Filter based on several Select one or more options: the elements that match all selected
+options options appear.
+Emu:
+
+I Untagged
+
+I Law
+I Medlllm
+ll Hiuh
+a Critical
+
+ 
+
+Change the column Select the edge of the column and drag it.
+size
+
+Analyst's procedures
+
+Introduction
+The goal of the Analyst is to provide valid evidence for the investigation in progress. Evidence is:
+
+0 directly retrieved from the device through physical access
+0 received from the installed agent
+
+To do this, the Analyst can perform the following procedures:
+
+Procedures
+
+To retrieve important evidence and be alerted
+To select and retrieve important evidence:
+
+Step Action
+
+ 
+
+1 In the File System section, during remote tapping, explore the device hard disks
+searching for files to be downloaded.$ee "Retrieve evidence from devices {Fiie
+System)" on page 49
+
+2 In the Dashboard section, add the operation, targets and agents to be monitored to
+the dashboard.
+See ’ﬂMonitoring evidence fDoshboord}" on page 85
+
+3 In the Alerting section, set rules to be alerted when evidence of special interest
+arrives and to tag evidence according to relevance. See "Aiert" on page 88.
+
+ 
+
+Analyst’s Guide I ver.1.4 SEP—2013 I RCSQ I 2013. HTS.r.|. -pag. 15
+

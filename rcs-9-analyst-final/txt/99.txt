@@ -1,0 +1,65 @@
+RCS 9 -To learn more
+
+Area Description
+
+ 
+
+1
+2
+
+RC5 menu.
+Window toolbar. Descriptions are provided below:
+
+icon Description
+
+ 
+
+- Add a new element to be monitored.
+ﬂ
+
+it Shrink or expand all Dashboard element windows.
+
+1"?
+
+It
+Keys used to shrink or delete elements from the dashboard.
+Dashboard element name and description.
+
+Last element synchronization date.
+In progress: synchronization in progress.
+Idle: synchronization not in progress
+
+Evidence recently acquired in an operation, target or agent.
+
+RCS status bar.
+
+To learn more
+
+For interface elem ent descriptions See ’Snored interface elements and actions” on page 11 .
+
+For more information on the Dashboard see "What you snouio‘ know about the Doshboor " on
+page 84 .
+
+Adding an element to the Dashboard
+To add a new element to the Dashboard:
+
+Step Action
+
+ 
+
+1
+2
+
+Click Add to Dashboard: a window opens to search for elements to be added.
+
+Enter part of the element name or description to be added: the list of elements that
+match the search appears.
+
+0 Select the element from the list: the element is automatically added to the
+Dashboard and the search window is left open for a new search.
+0 Repeat steps 2 and 3 until all required elements are added.
+
+ 
+
+Analyst’s Guide I yer.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. 86
+

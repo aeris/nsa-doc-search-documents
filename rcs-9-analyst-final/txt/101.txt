@@ -1,0 +1,26 @@
+ 
+
+Alert
+
+Presentation
+
+Introduction
+
+Alerts signal when evidence is received, agents are synchronized or entities are automatically
+created or connected by the system. Furthermore, they let you automatically tag evidence and
+links for analyses and export.
+
+Content
+
+This section includes the following topics:
+
+ 
+
+What you should know about alerts ....................................................................... 89
+Alerting ............................................................................................................. 90
+Alert data __________________________________________________________________________________________________________ 93
+
+ 
+
+Analyst's Guide ver.1.4 SEP—2013 - RCS 9 - 2013. HTS.r.l. - pag. 88
+

@@ -1,0 +1,59 @@
+RC5 9 - Table acﬁons
+
+Table actions
+The RCS Console displays various data in tables. Tables let you:
+
+0 sort data by column in increasingfdecreasing order
+0 filter data by column
+
+Action Description
+
+ 
+
+Sort by column Click on the column heading to sort that column in increasing or
+decreasing order.
+
+Event “L Path
+”we.
+SYN C S'u'u'o rdﬁs h
+
+ 
+
+ 
+
+ 
+
+INSTANCE Swordﬁsh ? J
+EVIDENCE *
+
+Filter a text Enter part of the text you are searching for: only elements that contain
+the entered text appear.
+
+ 
+
+7l Info
+
+The example shows elements with descriptions like:
+0 "myboss"
+o "bossanoya"
+
+Filter based on an Select an option: the elements that match the selected option appear.
+option
+
+E Acquired
+
+OI Last 24 Hours
+II Last Wee-ls
+
+I FromiTo
+
+ 
+
+2
+
+IJsemesta v
+
+ 
+
+Analyst’s Guide I yer.1.4 SEP—2013 I RCSQ I 20136) HTS.r.l. - pag. 14
+

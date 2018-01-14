@@ -1,0 +1,55 @@
+RC5 9 -To learn more
+
+Area Description
+
+ 
+
+3 Evidence action keys.
+
+icon Description
+
+ 
+
+Closes the details and returns to the evidence list.$ee "Evidence anaiysis
+Evidence)" on page 36 .
+
+Show the total quantities by evidence type.
+Exports evidence to a .tgz file.
+
+Deletes evidence.
+
+' NOTE: the function requires a user license and is only enabled if the
+' user has Evidence deletion authorization.
+
+XGMQ
+
+Applies a level of relevance.
+
+Applies a bookmark.
+
+Edits the notes.
+
+Displays the ID code.
+
+Saves currently selected filters or loads previously saved filter settings.
+Clear all set filters.
+
+View content in the interface language.
+6 NOTE: this function requires a user license.
+
+®aaaw193
+
+4 Evidence details. Analysis keys appear according to the type of evidence (audio,
+image, video).
+
+5 Evidence detail data.
+
+5 RC5 status bar.
+
+To learn more
+For interface elem ent descriptions See ”Shared interface eiements and actions” on page 11 .
+
+ 
+
+Analyst’s Guide I ver.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag.44
+

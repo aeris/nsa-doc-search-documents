@@ -1,0 +1,62 @@
+RC5 9 - Agent page
+
+Agent page
+
+Tomanage 0 Operations section, double-clickan operation, double-clicka target, double-click an agent
+agents:
+
+Purpose
+This function lets you:
+
+. check agent activities via the event log.
+. view evidence collected by the agent
+0 explore the file system and transfer ﬁles from the device where the agent is installed
+
+What the function looks like
+This is what the page looks like:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘I m--...:-.-n.\-'«..q. CBEI
+ﬁ Clo-”lion: If I J l I. m
+u .‘l:n'.'ln'. u- :kmu I- E.-rr'='h I- ! vim-3 E :5 I
+e «a a. El 1
+.......... .-......... .-....r.. '
+. uncut.
+{‘5‘
+an.
+«O E 1 ° - .m
+m... mu... m. m... nu... I
+El ' "
+E 1-,. 1m:
+'\ 5.
+lm
+m
+w-m
+a .,
+
+Area Description
+
+ 
+
+1 RC5 menu.
+2 Scroll bar.
+
+ 
+
+Analyst’s Guide I ver.1.4 SE P—2013 I RCSQ I 2013© HTS.r.l. - pag. 29
+

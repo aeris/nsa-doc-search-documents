@@ -1,0 +1,38 @@
+RC3 9 - Whatyou should know about operations
+
+ 
+
+What you should know about operations
+
+What is an operation
+
+An operation is an investigation to be conducted. An operation contains one or more targets
+meaning the physical individuals to be tapped. The Technician assigns one or more agents,
+desktop or mobile, to the target. Thus the agent can be installed on a computer or mobile phone.
+
+What you should know about targets
+
+What is a target
+
+A target is the physical person to be investigated. The Technician assigns one or more agents,
+desktop or mobile, to the target. Thus the agent can be installed on a computer or mobile phone.
+
+Operation management
+
+To in onoge - Operations section
+operations:
+
+Purpose
+This function lets you:
+
+0 add the operation to the elements to be monitored
+
+0 NOTE: the function is only enabled if the user has Operation management authorization.
+
+What the function looks like
+This is what the page looks like:
+
+ 
+
+Analyst’s Guide I ver.1.4 SEP—2013 I RCSQ I 2013(3) HTS.r.l. - pag. 13
+

@@ -1,0 +1,52 @@
+RC5 9 - What you should know about alerts
+
+ 
+
+What you should know about alerts
+
+What are alerts
+
+During the investigation phase, being "alerted" on special events that concern the target in real-
+time via e-mail or notification on RC5 Console, can be helpful.
+
+Alerts can be received when:
+1- new evidence arrives
+a the agent synchronizes
+. entities are automatically created and connected (intelligence)
+
+For example, if awaiting evidence from a target for a long time, an alert rule can be created to
+send an e-mail and record a log for each piece of evidence received. This way, users are
+immediately notified when the target resumes activities. The rule can be disabled later and
+evidence can simply be viewed as it arrives.
+
+Or, if intelligence is used, it could be helpful to be "alerted" when a link is created with a certain
+entity or a new entity is created in the operation.
+
+Alert rules
+
+Alert rules set which events generate alerts. They can also be used to automatically assign levels
+of relevance to evidence or intelligence links which can be used in the analysis phase.
+
+Alert rule application field
+Rules that alert the arrival of evidence can be created on the following levels:
+
+. Operation: all evidence for all operation targets
+. Target: all evidence for all target agents
+0 Agent: all agent evidence
+
+Rules that alert the automatic creation of an intelligence entity can be created on the following
+levels:
+
+. Operation: alerts when an entity is created for that operation
+Rules that alert the automatic creation of an intelligence link can be created on the following
+levels:
+
+. Operation: alerts when a link is created for any entity in the operation
+1- Entity: alerts when a link is created for that entity
+
+0 NOTE: each user will be alerted according to their set rules.
+
+ 
+
+Analyst’s Guide I ver.1.4 SE P—2013 I RCSQ I 2013(3) HTS.r.l. - pag. 89
+

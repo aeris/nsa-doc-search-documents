@@ -1,0 +1,48 @@
+RCS 9 - Whatyou should know about the Dashboard
+
+What you should know about the Dashboard
+
+Dashboard Components
+The Dashboard is made up of one or more elements selected by the user from:
+
+0 operation
+0 target
+0 agent
+
+Each element shows the total amount of evidence collected. Values are updated at each
+synchronization:
+
+0 Red number: amount of evidence received at last synchronization.
+0 Black number: amount of evidence received since login.
+
+E xomple Description
+
+ 
+
+Operation evidence: Operation targets and the amount of
+
+evidence per target appear.
+(D
+a 9
+- 11
+
+Test Detailed Test Emeline
+
+Target evidence: The target's evidence and the amount of
+G evidence per type appear-
+
+Agent evidence: The agent's evidence and the amount of
+- @ evidence per type appear.
+
+a
+0 NOTE: the lack of numbers indicates that evidence has not yet arrived since login.
+
+To view the complete list of evidence types see "List of types ofevidence" on page 46.
+
+Evidence alert process
+The evidence alert process is described below:
+
+ 
+
+Analyst’s Guide I ver.1.4 SEP—2013 I RCSQ I 2013(3) HTS.r.l. - pag. 84
+

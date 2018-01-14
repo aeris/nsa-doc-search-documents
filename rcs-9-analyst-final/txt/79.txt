@@ -1,0 +1,59 @@
+RC5 9 - Merging two entities in one
+
+Step Action
+
+ 
+
+1 Double-click an entity: the detail page opens.
+in "Target entity details" on page 71 .
+0 "Person entity detoiis” on page ?? .
+0 "Position entity detoiis" on page 19 .
+a "Wrtuoi entity details" on page 81 .
+
+Merging two entities in one
+To merge two entities in one:
+
+Step Action
+
+ 
+
+1 Select the two entities holding down the Ctrl key on the keyboard.
+NOTE: only a Target entity can be merged with a Person entity or two
+Person entities.
+
+2 Click Merge.
+
+Result: an entity with the name and description of the first entity is displayed in
+the graph with the details on both.
+
+' NOTE: if a Target entity is merged with a Person entity, the Target entity
+remains with the Person entity details.
+
+Creating a link between two entities
+To create a link between two entities:
+
+Step Action
+
+ 
+
+1 Select the two entities holding down the Ctrl key on the keyboard.
+
+2 Select the direction, type and level of relevance of the link and click Save.
+Result: the link is displayed in the graph
+
+Dynamically displaying evidence on links between entities
+To dynamically display evidence on links between entities:
+
+Step Action
+
+ 
+
+1 Make sure the entities displayed on the graph and
+the selected time period are those required.
+
+Use the filters to set preferences.
+
+ 
+
+Analyst’s Guide Iver.1.4 SEP—2013 | RCSQ | 2013© HTS.r.|. -pag. 66
+

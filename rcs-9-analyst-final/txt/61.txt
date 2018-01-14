@@ -1,0 +1,26 @@
+7
+
+Exploring and retrieving evidence from online
+devices
+
+ 
+
+Presentation
+
+Introduction
+
+Gradual device exploration lets you find and download evidence of interest.
+
+Content
+
+This section includes the following topics:
+
+ 
+
+What you should know about retrieving evidence .................................................... 49
+Retrieve evidence from devices (File System} ........................................................... 49
+
+ 
+
+Analyst's Guide ver.1.4 SEP—2013 - RC8 9 - 2013. HTS.r.|. - pag. 43
+

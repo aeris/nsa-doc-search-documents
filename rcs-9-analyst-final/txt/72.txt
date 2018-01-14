@@ -1,0 +1,60 @@
+RCS 9 - Intelligence operation management
+
+ 
+
+Intelligence operation management
+
+Tomonoge - Intelligence section
+intelligence operations:
+
+Purpose
+This function lets you:
+
+0 View intelligence operations
+
+What the function looks like
+This is what the page looks like:
+
+ 
+
+ 
+
+ 
+
+.1 Fn----.-\.' 11r- ﬁrm CLﬂI—I
+ﬂ .‘r:r.u:¢\: Inwll‘elnou Bzmcn: Janna.
+a Aleelalair El s
+= _ 1
+ruin
+m a a
+m .
+- nu: rmn m .rm 1, «— ,
+min on
+.u-. I. AJ'I'JJ:'.'I;'._I
+”mun
+Lndculac J.—
+mm
+s “H I .—:—: E ,1
+
+ 
+
+Area Description
+
+ 
+
+1 RC5 menu.
+2 Operation list:
+
+F
+JOpen operation.
+
+2]
+All operations. Shows entities in all operations.
+3 Selected operation data.
+
+4 RC5 status bar.
+
+ 
+
+Analyst’s Guide I uer.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. 59
+

@@ -1,0 +1,55 @@
+RC5 9 -To learn more
+
+Area Description
+
+ 
+
+3 Window toolbar. Descriptions are provided below:
+
+lcon Function
+
+Edit entity data.
+
+ 
+
+E; Exports entity data in . html format
+In;
+
+4 Image of the address content linked to the entity.
+5 List of web addresses linked to the entity.
+
+5 Map indicating the position of the web address automatically identiﬁed by the
+system via IP address.
+
+7 RC5 status bar.
+
+To learn more
+For interface elem ent descriptions See "Shared interface elements and actions" on page 11 .
+
+To learn more on intelligence see ”What you should know about intelligence " on page 53 see
+”What you should know about entities" on page 53
+
+Adding an image of the web address
+To add images:
+
+Step Action
+
+ 
+
+1 Click + and select an image.
+Result: the selected image becomes the default image.
+
+Adding web addresses to the entity
+To add web addresses to the entity:
+
+Step Action
+
+ 
+
+1 Click + and enter data.
+Result: the address is added to the list.
+
+ 
+
+Analyst’s Guide I yer.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. 82
+

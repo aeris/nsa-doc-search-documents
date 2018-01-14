@@ -1,0 +1,25 @@
+RC8 9 - Operation and target
+
+Operation and target
+
+Presentation
+
+Introduction
+Managing operations sets the targets to be tapped.
+Content
+
+This section includes the following topics:
+
+ 
+
+What you should know about operations ................................................................ 18
+What you should know about targets ..................................................................... 18
+Operation management ....................................................................................... 18
+Operation data ___________________________________________________________________________________________________ 20
+Operation page ................................................................................................... 20
+Operation page data ............................................................................................ 22
+
+ 
+
+Analyst’s Guide I uer.1.4 SEP—2013 I RCSQ I 2013© HTS.r.l. - pag. 17
+

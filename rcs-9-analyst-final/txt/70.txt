@@ -1,0 +1,73 @@
+RC5 9 - Intelligence process
+
+ 
+
+Intelligence process
+
+Phase
+
+Description
+
+ 
+
+1
+
+The system creates an operation in the Intelligence section when an operation is
+opened in the Operations section.
+
+The system creates a Target entity when a target is created in the Operations sec-
+tion.
+
+The system, based on the evidence collected from target devices, creates links with
+target entities and creates new entities.
+
+The analyst adds entities to represent people, places and web pages deemed of
+interest for the investigation and adds details.
+
+The system continues to update entities and their links based on new evidence and
+information added by the analyst.
+
+The analyst interprets and manages entities and their links to propose solutions for
+the investigation.
+
+0 NOTE: the analyst can set an alert rule to be alerted when the system
+creates an entity or link. See ’ﬁierting " on page 90.
+
+Automatic Know link creation criteria
+
+If the evidence indicates that... The system creates...
+
+a a Person entity with identification 00321456?
+
+TBFEETS 10h“ 30d Paul have t a directional Know link from John to the Per-
+
+identification 00321456? in their son entity
+
+address book 0 a directional Know link from John to the Per-
+son entity
+
+target John has identification
+
+00321456? for Target/Person entity a directional Know link from John to Paul
+
+Paul in
+
+his address book
+
+Automatic Peer link creation criteria with Target and Person entities
+
+If the evidence indicates that... The system creates...
+
+a a Person entity with identiﬁcation 00321456?
+
+targets 10h“ and Paul a a directional Peer link from John to the Person
+
+communicated with identiﬁcation entity
+
+00321456? . a directional Peer link from Paul to the Person
+entity
+
+ 
+
+Analyst’s Guide I ver.1.4 SE P—2013 I RCSQ I 20136) HTS.r.l. - pag. 57
+

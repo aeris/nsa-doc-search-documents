@@ -1,0 +1,65 @@
+RC5 9 - What the function looks like
+
+What the function looks like
+This is what the page looks like:
+
+ 
+
+I-‘J lA-w:.\w.'rluw can
+ﬁ A-n-uru-g np-mlmu I-'\~I:|~-rp 'u-E-w. Mama ‘pw- ad: .'lr'1'nr O
+
+E u.-..-.Im !- :lw-«Jd E HQ !
+
+ﬂ
+6: In El :1: u + an F—S- = m J
+m --.-..-m- 2-. a“: or. ”um“: “um.-
+Pfilk
+<3 G
+«3:»:fo n'l'l'l‘ﬁri: «~13!»
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+hm m cm
+
+Areo Description
+
+ 
+
+1 RC5 menu.
+
+2 Scroll bar.
+
+3 Window toolbar. Descriptions are provided below:
+
+icon Function
+
+ 
+
+*3 Add the target to the dashboard.
+
+|§;l Open the target entity page in intel-
+ligence.
+
+4 Target list:
+
+6 Open target
+® Closed target
+
+5 Selected target data.
+5 RC5 status bar.
+
+To learn more
+For interface elem ent descriptions See "Shared interface elements and actions" on page 11 .
+
+ 
+
+Analyst’s Guide I uer.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. 21
+

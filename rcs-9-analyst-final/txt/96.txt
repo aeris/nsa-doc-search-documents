@@ -1,0 +1,22 @@
+8
+
+Monitoring the target's activities from the
+Dashboard
+
+Presentation
+
+Introduction
+
+The Dashboard helps you to monitor connected agent activities and the incoming evidence flow.
+
+Content
+
+This section includes the following topics:
+
+What you should know about the Dashboard .......................................................... 84
+Monitoring evidence (Dashboardl .......................................................................... 85
+
+ 
+
+Analyst's Guide ver.1.4 SEP—2013 - RC8 9 - 2013. HTS.r.|. - pag. 83
+

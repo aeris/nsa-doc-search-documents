@@ -1,0 +1,60 @@
+RC5 9 - Monitoring evidence [Dashboard]
+
+Phose Description
+
+ 
+
+1 The Analyst adds the operation, target or agent elements whose evidence is to be
+monitored to the Dashboard.
+
+2 The system updates counters the next time agents are synchronized if evidence is
+received.
+
+3 The Analyst checks the most recent evidence, those indicated by the red number. To
+view details, click on the corresponding icon.
+
+4 The system resets numbers when the user exits the current session.
+
+Monitoring evidence (Dashboard)
+
+To monitor received . Dashboard section
+evidence:
+
+Purpose
+
+The Dashboard lets you monitor certain operations, targets or agents and view incoming
+evidence. Settings are fully customizable. For example, a Dashboard can be set to only monitor
+some target devices.
+
+What the function looks like
+This is what the page looks like:
+
+ 
+
+ 
+
+ 
+
+II r-u--.-. :-.....:s;.u-. 'T'
+n -'-: 1.1 in- r!:-'.| :-'\ Dahlia-Id -'-|1 :ri '.(J:1r -'- Ii? .'.i:<'1-:'o
+“ ﬂ - ‘
+a .. I ,u .
+~11". :ilt'rivi " Prtal
+El—
+daﬁmi 02""! aides! :trlal't'aordr. .‘EWJ': lnhmlu J'.J-|.'1l."..'l.' 'A'.'JIJu.|
+Q
+a G 0
+a:
+m m... 1......
+ME} nncnonnnclll] Tran-m Inn-alum L.'.|\-.|- -.--||<.J. E _ i':
+
+E life ﬁrmsﬁiﬂfﬁ *1 Iii
+
+G) r-fe mfmae'efe 1 el’
+
+ 
+
+ 
+
+Analyst’s Guide I ver.1.4 SEP—2013 I RCSQ I 2013. HTS.r.|. -pag. 85
+

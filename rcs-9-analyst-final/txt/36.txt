@@ -1,0 +1,24 @@
+ 
+
+Targets
+
+Presentation
+
+Introduction
+
+A target is a physical person to be monitored. Several agents can be used, one for each device
+owned by the target.
+
+Content
+
+This section includes the following topics:
+
+ 
+
+Target page ........................................................................................................ 24
+Target page data _________________________________________________________________________________________________ 26
+
+ 
+
+Analyst's Guide uer.1.4 SEP—2013 - RC8 9 - 2013. HTS.r.l. - pag. 23
+

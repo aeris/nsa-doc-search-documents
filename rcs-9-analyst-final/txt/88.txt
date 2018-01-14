@@ -1,0 +1,48 @@
+RC5 9 - View the last acquired posiljon
+
+ 
+
+Step Action
+
+ 
+
+1 In the Most visited websites table, click Add as Entity in
+the required row and enter data.
+
+Result: a Virtual entity with the selected URL is added to the
+list of operation entities along with a Peer link with the
+Target entity.
+
+0 NOTE: the result is the same if a Virtual entity is
+
+manually created with the table URL address and a
+Peer link added between the Target and created
+entity.
+
+View the last acquired position
+To view the target's last position on the map:
+
+Step Action
+
+ 
+
+1 Select the Last position combo box.
+Result: a blue flag indicates the corresponding position.
+
+Viewing frequently visited places
+To view frequently visited places on the map:
+
+Step Action
+
+ 
+
+1 Select the Most visited places combo box.
+Result: the most visited positions are displayed on the map with red flags.
+
+Adding a Position entity visited by the target
+To manually add a Position entity visited by the target:
+
+ 
+
+Analyst’s Guide I ver.1.4 SE P—2013 I RCSQ I 20136) HTS.r.l. - pag. 75
+

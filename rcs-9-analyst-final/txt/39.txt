@@ -1,0 +1,57 @@
+RCS 9 - Target page data
+
+Step Action
+
+ 
+
+2 Click Ok: evidence is saved in the specified folder.
+
+Target page data
+
+To View page data: . Operations section, double—click an operation, dou bl e—click a target,
+click Icon view or Table view
+
+Page elements can be viewed as icons or a table.
+
+Icon view
+Icons are described below:
+
+Data Description
+
+ 
+
+a Desktop agent types, in Open status, for operating systems:
+0 OS X
+
+IE 0 Windows
+
+Mobile agent types, in Open status, for operating systems:
+
+ 
+
+o Android,
+
+0 BlackBerry,
+0 iOS,
+
+o Sym bian
+
+ 
+
+0 Windows Mobile
+
+6 NOTE: icons are light grey for CLOSED agents. This is the icon for a mobile agent for
+
+Android in Closed status: .
+
+NOTE: the scout agent displays a compass next to the device icon. This icon is a Windows
+
+desktop scout agent !_
+
+Table view
+Data is described below:
+
+ 
+
+Analyst’s Guide I ver.1.4 SEP—2013 I RCSQ I 2013. HTS.r.|. -pag. 26
+

@@ -1,0 +1,56 @@
+RCS 9 -To learn more
+
+ 
+
+Area Description
+
+ 
+
+1 RC5 menu.
+2 Scrollbar.
+
+3 Window toolbar. Descriptions are provided
+below:
+
+loon Funo tlon
+
+Edit entity data.
+
+ 
+
+E; Exports entity data in . html format
+in»
+
+4 Photos of the person linked to the entity.
+
+5 List of identiﬁcation data for people linked to with
+the entity.
+
+5 Map indicating positions connected to the entity.
+
+7 RC5 status bar.
+
+To learn more
+
+For interface elem ent descriptions See "Shared interface elements and actions" on page 11 .
+
+To learn more on intelligence see "What you should know about intelligence" on page 53 see
+”What you should know about entltles" on page 53
+
+Adding a person's picture
+To add an image:
+
+Step Action
+
+ 
+
+1 Click + and select a photo
+Result: the selected image becomes the default image.
+
+Adding a person's identification data
+To add identiﬁcation data:
+
+ 
+
+Analyst’s Guide I yer.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. 78
+

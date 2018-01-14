@@ -1,0 +1,55 @@
+RC5 9 -To learn more
+
+Area Description
+
+ 
+
+3 Alert log toolbar. Descriptions are provided below:
+
+icon Description
+
+ 
+
+x Delete the selected alert log.
+ﬂ Delete all alert logs.
+
+4 RC5 menu.
+
+To learn more
+
+For interface elem ent descriptions See ”Shared interface eiements and actions” on page 11 .
+For a description of the data in this window see "Aiert data ” on next page
+For more information on alertssee "What you shoaia‘ know about aierts” on page 89 .
+
+Adding a rule to be alerted
+A rule must be set in order for you to be alerted:
+
+Step Action
+
+ 
+
+1 Click New Alert: data entry fields appear.
+
+2 0 Enter the required data indicating the alert method in Type.
+0 Select the Enabled box to apply the rule.
+
+3 Click Save: the new alert rule appears in the main work area. An alert is sent as soon
+as the system logs an event that matches the rule.
+
+Editing an alert rule
+To edit an alert rule
+
+Step Action
+
+ 
+
+1 Select the alert rule to be edited
+Click Edit: the data to be edited appears.
+
+2 0 Edit data.
+0 Select the Enabled box to immediately apply the rule.
+
+ 
+
+Analyst’s Guide I yer.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. 92
+

@@ -1,0 +1,60 @@
+RC5 9 - Actions always available on the interface
+
+Areo Description
+
+ 
+
+5 Search buttons and box:
+
+ 
+
+Object Description
+Search box. Enter part of the name to display a list of
+
+elements that contain the entered letters.
+Display elements in a table.
+
+--- Display elements as icons.
+
+7 Logged in user with possibility of changing the language and password.
+
+3 Download area with ability to view progress during export or compiling. Files are
+downloaded to the desktop in RCS Download folder.
+
+0 top bar: percent generation on server
+0 bottom bar: percent download from server to RCS Console.
+
+9 Current date and time with possibility of changing the time zone.
+Actions always available on the interface
+Change interface language or password
+
+To change the interface language or password:
+
+Step Action
+
+ 
+
+1 Click [7] to display a dialog window with the user's data.
+
+2 Change the language or password and click Save to conﬁrm and exit.
+
+Converting the RC5 Console date-time to the actual time zone
+To convert all dates-times to the actual time zone:
+
+Step Action
+
+ 
+
+1 Click [9] to display a dialog window with the current date-tim e:
+UTC time: Greenwich mean time (GMT)
+
+Local Time: date-time where the RC5 server is installed
+Console time: date-time of the console used and which can be converted.
+
+2 Change the time zone and click Save to confirm and exit: all displayed dates-times
+are converted as requested.
+
+ 
+
+Analyst’s Guide I ver.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. 13
+

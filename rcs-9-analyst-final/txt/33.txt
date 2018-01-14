@@ -1,0 +1,52 @@
+RC5 9 - Viewing operation targets
+
+ 
+
+Viewing operation targets
+To view operation targets:
+
+Step Action
+
+ 
+
+1 Double-click an operation: the target management page opens.
+See "Operation page" beiow
+
+Operation data
+
+Selected operation data is described below:
+
+Data Description
+
+ 
+
+Name Operation name.
+Description User's description
+
+Contact Descriptive field used to define, for example, the name of a contact person (Judge,
+Attorney, etc.).
+Status Operation status and close command:
+
+OPEN: the operation is open. If targets were set and agents correctly installed, the
+RC5 receives the collected evidence.
+
+CLOSED: the operation is closed and can not be re-opened. Agents no longer send
+data but evidence already received can still be viewed.
+
+Groups Groups that can see the operation.
+
+Operation page
+
+ 
+
+To View on operation: a Operation section, double-click on operation
+
+Purpose
+This function lets you:
+
+1- add the target to the elements to be monitored
+
+ 
+
+Analyst’s Guide I ver.1.4 SE P—2013 I RCSQ I 20136) HTS.r.|. - pag. 20
+

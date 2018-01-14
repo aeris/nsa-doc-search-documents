@@ -1,0 +1,59 @@
+RC5 9 - Position entity
+
+ 
+
+Position entity
+
+The Position entity can be manually created by the analyst or automatically by the system.
+
+The Position entity is defined by the geographic coordinates (latitude and longitude) or address of
+the site that it represents and a range of precision.
+
+0 NOTE: the range of precision must be suited to the type of place (i.e.: 50-100m for a
+building, much more for a park).
+
+See "Position entity details” on page 79
+
+Virtual entity
+
+The Virtual entity must be manually created by the Analyst.
+The Virtual entity is defined by one or more URL addresses for the web page they represent.
+See "Virtual entity details” on page 81
+
+See "What you should know about links".
+
+Introduction
+
+A link is a relationship between entities. There can be only one link between two entities.
+There are three types of links:
+
+‘ ............. Know
+0 — Peer
+0 ---- Identity
+
+Know links
+
+Know links represent a know type relationship. Two entities have a Know link when at least one of
+the two has the other in hisfher address book.
+
+A Know link can be directional or bi-directional.
+
+Peer links
+
+Peer links indicate that there was a contact between the two entities.
+
+Two entities that represent people have a Peer link when there was a direct communication
+between the two entities (i.e.: phone call, chat). The relationship can be directional and bi-
+directional.
+
+An entity that represents a person and one that represents a place have a Peer link when the
+person was in that place (physical or on the web). The relationship is only directional: from the
+entity that represents a person to the one that represents a place.
+
+Peer links represent a stronger relationship than know links, thus they replace any Know link
+between the entities.
+
+ 
+
+Analyst’s Guide I yer.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. 55
+

@@ -1,0 +1,40 @@
+RC5 9 - Evidence data
+
+ 
+
+ 
+
+Data Description
+Relevance Level of evidence relevance, automatically assigned by alert rules or manually
+assigned in this list. The level of relevance is set using:
+0 the Relevance command in the menu
+0 short-cut keys
+Short-cut key list.
+icon Short-cat keys Description
+I!!! ALT+4 Maximum relevance
+“I ALT+3 lntermecliate relevance
+I! ALT+2 Normal relevance
+[j ALT+1 Minimum relevance
+_ ALT+0 No relevance
+Type Type of evidence to be selected. See "List of types ofevio‘ence" on page 46
+Info Evidence information: text, images, video, audio and so on. Each piece of
+information is accompanied by various ﬁelds (i.e.: ﬁeld content, program).
+It can be filtered by simply indicating the full search word or
+full ﬁeld name and search word.
+For example:
+"boss" searches for the word "boss" or "Boss" in all fields
+0 while "content:boss" searches for the word "boss" or "Boss" in content
+fields only.
+Notes Notes entered by the Analyst using:
+0 Edit Note menu
+0 short-cut key ALT+N
+Report Bookmark, that indicates that evidence may be includedlexcluded during export.
+The bookmark is set using:
+0 Add Report menu
+0 short-cut key ALT+R
+Agent (only for target evidence) Name of the agent that logged the evidence.
+
+ 
+
+Analyst’s Guide I ver.1.4 SEP—2013 I RCSQ I 2013. HTS.r.|. -pag. 42
+

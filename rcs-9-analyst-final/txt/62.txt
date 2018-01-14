@@ -1,0 +1,51 @@
+RC5 9 - Wh at you should know about retrieving evidence
+
+What you should know about retrieving evidence
+
+Description
+
+The function shows the FileSystem tree structure of the device where the agent is installed (or
+several devices if exploring a target FileSystem).
+
+The FileSystem tree structure can be gradually explored, first reading the first level structure
+(Retrieve default command) and then exploring folders, followed by reading or re-reading the
+selected folder (Retrieve subtree command).
+
+Once the concerned file is found, it can be downloaded and saved as file evidence (Download
+command)
+
+6 NOTE: a folder is read or a file is downloaded after synchronization.
+
+File System components
+The structure of each device shows the folders to be explored and those explored:
+
+Example Description
+
+ 
+
+'lBAuP-nm Device root.
+hpmmmﬁala Folder not yet explored.
+
+rim“; Explored folder.
+
+Retrieve evidence from devices (File System)
+
+Tamar-rage the - Operations section, double-{lickan operation, double-{Iicka target, click File System
+device - Operations section, double-clickan operation, double--I:Iil:ka target, double-dick an agent,
+File System: click File System
+
+Purpose
+
+This function lets you:
+
+0 explore the FileSystem tree structure of the device where the agent is installed (or several
+devices if exploring a target FileSystem).
+
+0 Select the ﬁle to be added to the agent's download queue
+
+0 export the explored structure (ﬁle system)
+
+ 
+
+Analyst’s Guide I ver.1.4 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. 49
+

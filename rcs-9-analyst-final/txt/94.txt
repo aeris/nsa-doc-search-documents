@@ -1,0 +1,69 @@
+RC5 9 - Virtual entity details
+
+Step Action
+
+1 Click + and select an image.
+
+Result: the selected image becomes the default image.
+Virtual entity details
+
+To view entity details: a
+
+ 
+
+Intelligence section, double-click an operation, double-click a Virtual entity
+
+Purpose
+This function lets you:
+C
+
+View detailed information on the Virtual entity
+C
+
+add detailed information on the Virtual entity
+
+0 NOTE: the function requires a user license and is only enabled if the user has Entity
+management authorization.
+
+What the function looks like
+This is what the page looks like:
+
+' n
+
+rmwrrm— sa-m
+
+ﬂ '21::Ituon: Inwlbﬁm Dzntczn Mama.
+
+mum" - “Quinn - “mm s.‘
+
+III E
+
+w
+Dlsousslncn Forum
+
+ 
+
+“1‘
+
+mu m ..-.. . “I. u.“
+
+    
+
+ 
+
+I? n. um n- mwxmuu:m.—.-.-
+
+ 
+
+ 
+
+ 
+
+Area Descriptim
+
+1 RC5 menu.
+
+2 Scroll bar.
+
+Analyst’s Guide I ver.1.4 SE P—2013 I RCSQ I 2013C) HTS.r.l. - peg. 81
+

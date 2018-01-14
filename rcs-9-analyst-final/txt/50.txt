@@ -1,0 +1,15 @@
+RCS 9 - What the function looks like
+
+ 
+
+Area Description
+
+ 
+
+1 RC5 menu.
+2 Scrollbar.
+
+ 
+
+Analyst’s Guide I ver.1.4 SE P—2013 I RCSQ I 2013© HTS.r.|. - pag. 37
+
