@@ -1,0 +1,55 @@
+SECRET/IN OF ORN/IMR
+
+HUMINT, SIGINT, Open and law enforcement related sources to analysts in US. law
+enforcement and intelligence communities at a CONFIDENTIAL NOFORN level. The
+key data elements are stored and retrieved for display by the PROTON Interface include:
+called and calling telephone numbers, date, time, and duration ofcalls.
+
+(SHNF) For approximately the last 5 V2 years, the CIA CRISSCROSS (now PROTON)
+program has been incorporating NSA provided SIGINT-derived (US. and SecondfThird
+Party) data. NSA provides this information to CRISSCROSS/PROTON Agencies for
+
+(SHNF) The decision to disseminate SIGINT-derived signaling outside COMINT
+Channels also hadpolicy and operational dimensions. Tests have demonstrated that
+SIGINT- derived and traditional HUMINT-derived call record data can be stored and
+displayed in a manner which makes them appear to be indistinguishable, which in general
+terms make the risks to sources and methods approximately equal. However, under some
+circumstances, e.g., signaling data form a unique target area, which could have come only
+from a sensitive SIGINT source, dissemination ofdata to CRISSCROSS would be
+in_ap_pgpriai. This is the case when the data also includes information elements that are
+only available and could only come from exploitation of signaling. The MOA is silent on
+this point, leaving to NSA full decision authority to decide which data to provide and not
+provide.
+
+ 
+
+(C) For several years prior, NSA had been providing SIGINT-derived signaling
+information to CIA and DEA to support multi-agency counter narcotics analysis, as
+approved by DDO, OGC, and the Office of Policy. Calling data from several Latin
+American collectors, and from Thailand, had been of great value to the DEA and to the
+
+DC] Crime and Narcotics Center, and there were no adverse operational or legal impacts
+to NSA.
+
+(SKINF) Operationally, the flow of large volumes of intercepted signaling data
+could place additional burden on NSA’s IT infrastructure. While, as above, the MOA did
+not address IT infrastructure, NSA retained full discretion over volume and timing of
+information flow, even as NSA chose to support the CRISSCROSSIPROTON program
+with certain SIGINT inputs.
+
+(SKINF) Requisite human and communications resources are in place in SID to
+support the transfer of moderate volumes of signaling-derived call record data to the CIA
+CRISSCROSSIPROTON Program Office. No increase in personnel was required to
+initiate data flow. Under the terms of MOA, CIA provided the list of US overseas
+commercial phone numbers to be minimized in NSA processing of signaling data.
+Similarly, the Department of State and Department of Defense telephone directories will
+be researched by NSA to identify official US government overseas phone numbers in
+order to minimize call records associated with them. To this end, the NSA
+CRISSCROSSIPROTON Program Manager agreed to obtain the DOS and DOD
+directories annually and, with CIA assistance, extract the overseas numbers. That
+function was transferred to the Communications Event Analysis Center (CEAC), in SZS,
+in 2004. The software to extract call record data and to support minimization exists on a
+
+Handle Via COMINT Channels Only
+SECRET/[NOFORNI/MR
+

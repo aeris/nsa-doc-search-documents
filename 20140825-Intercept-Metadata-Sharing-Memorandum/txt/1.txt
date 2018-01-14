@@ -1,0 +1,52 @@
+SECRET” N OFORNHMR
+
+UNITED STATES GOVERNMENT
+
+memorandum
+
+TAC-0xx-05
+
+DATE: 06 July 2005
+
+REPLY TO ATTN OF: TD/TAC
+
+SUBJECT: Sharing of MetaData across the IC ----Dissemination of SIGINT Metadata
+Beyond NSA
+
+(FOUO)- MEMORANDUM OF UNDERSTANDING
+
+T0: DIR
+THRU: DIDIR__,IG ,OGC__.DK___.]TD_, SE_, NCR CIA_,
+DISID ,302 ,8] 32 ,S3
+
+REFERENCES: A. (C) Request for additional NSA data for CIA’s PROTON
+Program. (dtd: 10 Mar 2005)
+
+B. (C) Minimization Plan for the Application ofCRlSSCROSS
+Analytical Software to NSA SIGINT Acquired Telephone
+Call Control Data, dated 20 Jan 1999.
+
+C. (C) MOU between NSA and FBI for Access to NSA Data in
+the CRISSCROSS Program, dated 19 Jan 2001.
+
+D. (C) MOU between NSA and DIA Regarding the
+CRISSCROSS Program, dated 19 Jan 2001.
+
+E. (U) NSAICSS Policy l-9, Information Sharing , dated 26 May
+2005.
+
+PURPOSE: (U) To establish the DIRNSA/C HCSS and NSAICSS as the US. 1C
+Executive Agent for lC-wide metadata sharing.
+
+BACKGROUND:
+
+(SHNF) Except for a few point to point sharing initiatives, CRISSCROSSIPROTON is
+the current IC (plus) information sharing structures. CRISSCROSS/PROTON is a CIA-
+managed program which provides extracts from selected Agency (NSA, CIA, DIA, FBI
+and DEA) databases of telephone call records and reference data obtained from
+
+Derived From: NSAICSSM 1-52
+Dated: 20041 123
+Declassify On: 20300707
+SECRETHNOFORNHMR
+

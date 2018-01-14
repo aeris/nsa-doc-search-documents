@@ -1,0 +1,52 @@
+SECRET/lN OF ORN/lMR
+
+server under SZS control. A huge volume of signaling data (~400M records) ﬂows to that
+server on a daily basis to meet NSA analytic needs. and sufficient communication
+bandwidth is currently available to support the transfer of processed call records (~37M
+per day) to CIA’s CRISSCROSSXPROTON Program for reformatting. We anticipate 821
+will continue to be responsible for loading CIA CRISSCROSSIPROTON output on
+NSA's CRISSCROSSXPROTON server, and CEAC will continue to be responsible for
+maintaining minimization and audit controls on all-source data received from CIA.
+Finally, SID Office of Oversight and Compliance would be responsible for oversight of
+USSID 18 compliance.
+
+(S) Community analytic interest in dialing analysis continues to grow and is
+directed at discovery of new specific targets or topics, and demand for additional call
+record volume to support contact chaining and geolocation has increased. Signaling links
+are competing for collection priorityijust like any other potential SIGINT target. As with
+other targets, the potential to expand collection is limited by available resources, to
+include field processing of signaling links as well as bandwidth to support forwarding
+from collection sites to NSA.
+
+(SHNF) The CRISSCROSS program, in which NSA already participates as a user
+ofdata, has had notable successes since its inception in 1990, such as enabling major
+narcotics arrests, monitoring Ramsi Yousef‘s colleagues, unraveling the Mubarak
+assassination plot, and providing insight into Pakistani nuclear weapon test activities. The
+program has received high marks from senior Community levels, such as the PFIAB, and
+Assistant DCI’s for both Collection and Production. CRISSCROSS was also cited in the
+report by Admiral Jeremiah on Indian nuclear testing as a potential improvement to
+Community analytic strength. Since 9!] l, the contributions to the GWOT due to our
+increased collection of signaling metadata are innumerable and significant. It is safe to
+say that it has been a contribution to virtually every successful rendition of suspects and
+often, the deciding factor. Hence the benefit to the intelligence and law enforcement
+communities of any SIGINT-augmented inputs could be considerable, as SIGINT has the
+potential to access a broad range of targets.
+
+CURRENT PROPOSAL: (SUNF) Ref A. requests additional data elements from
+SIGINT collection be included in the data set transferred to PROTON. Specifically, they
+want mobility management information relating to digital cellular and mobile satellite
+systems to include Global Cell ID’s, Location Area Codes, spot beams, International
+Mobile Subscriber Identifications, International Mobile Equipment Identifications,
+LatitudefLongitude, and Inmarsat Return ID’s. They also requested content from Short
+Message Service exchanges (which we are required to audit queries against).
+
+DISCUSSION: (SHNF) The current data push to CIAIPROTON is roughly 40
+Million records per day which has resulted in approximately 30% of the PROTON data
+set (1996-2005) coming from SIGINT sources (2002-2005). The addition of the
+requested data elements would more than double the volume ofdata sent to PROTON on
+a daily basis. This would increase the percentage of SIGINT contribution to PROTON
+significantly. CIA is positing PROTON as the community resource for targetilead
+
+Handle Via COMINT Channels Only
+SECRET/[NOFORNI/MR
+

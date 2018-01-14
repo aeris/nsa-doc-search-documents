@@ -1,0 +1,46 @@
+SECRET/IN OF ORN/IMR
+
+development based on contact chaining techniques. In this regard it is extremely difficult
+to envision it playing that role at NSA. PROTON requires a NOFORNIORCON access,
+must be licensed, has no API that would allow access integration with other tools (E.G.
+Federated query) and, represents a significant funding investment and dependency on a
+CIA contractor.
+
+RECOMMENDED RESPONSE: (SKINF) In the context of the atmosphere
+created by the events of 09” liOl and the following investigations into the perceived
+‘intelligence failure’ a recurring theme has been the lack of data sharing on the part of the
+IC members. Against that background, it is difficult to deny requested access to SIGINT-
+only datasets that are thought to have value to other intelligence analystsimissions. In an
+effort to:
+
+a.) provide access to the requested data and,
+
+b.) break new ground in the information sharing arena while,
+
+c.) not moving any more data out of NSA and into duplicative storage.
+We propose to utilize the 1C shared information space ICSIS on INTELINK and
+implement IC access to our GLOBALREACH federated query service via accounts
+and access verified by PKI certificates. This service will provide the access requested and
+permit the auditing legally required of NSA. Further, we request that CIA forward
+PROTON data from non-SIGINT sources to NSA for inclusion in the dataset searched by
+GLOBALREACH. For data that must remain in HCS channels, we will create an HCS
+partition in FASCIA II. This will permit one-stop access to contact information for IC
+analysts. We believe that we can have GLOBALREACH available in the ICSIS shared
+space by ()1 Oct 2005.
+
+RECOMMENDATION: (FOUO) That you sign the enclosed note to the Office
+of the Director, National Intelligence. Questions ofa legal nature should be directed to
+
+IAGC (Operations),__ Operational question should be directed
+IS IGDEVITAC Technical Director.
+
+  
+    
+
+to
+
+SIGDEVITAC TD
+
+Handle Via COMINT Channels Only
+SECRET/lNOFORNﬂMR
+
