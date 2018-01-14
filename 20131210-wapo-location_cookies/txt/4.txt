@@ -1,0 +1,10 @@
+(S//Sl//REL TO USA, FVEY) Metadata/Target Discovery_:Ana|vze DNR/DNl/Convergence
+metadata for target discovery, identify gaps in collection, processing, and analytic
+methodologies; Improve metadata collection and processing; Create analytics that
+automate or improve analytic methodologies; Conduct target discovery through multiple
+technology thrusts, including endpoint, web-based technologies/services, mobile
+applications and networks, geo-location analysis, correlations/identity Analysis, Social
+Network Analysis; Collaboration/facilitation with TAO, S3, CIA, ODNI, 550, CES, and SSG
+
+centers.
+
