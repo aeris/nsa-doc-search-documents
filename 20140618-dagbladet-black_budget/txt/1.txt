@@ -1,0 +1,93 @@
+TOP SECRET/ISl/TKl/NOFORN
+
+(U) SPECIAL SOURCE ACCESS
+(U) FOREIGN PARTNER ACCESS
+
+ 
+
+This Exhibit is SECRET/INOFORN
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FY 20111 FY 2012 Enacted FY 2013 Request FY 2012 — FY 2013
+Actual Base 0C0 Total Base 0C0 Total Change ChZiige
+Funding ($M) 91.0 75.1 — 75.1 52.6 4.0 56.6 -18.5 -25
+Civilian FTE 33 57 — 57 57 — 57 — —
+Civilian Positions 33 57 — 57 57 — 57 — —
+Military Positions — — — — _ _ _ _ _
+1Includes enacted 0C0 funding. Totals may not add due to rounding.
+
+ 
+
+ 
+
+(U) Project Description
+
+(U//FOUO) The Foreign Partner Access Project contains two major programs - RAMPART-A and
+WINDSTOP.
+
+(TS//SI//N F) The RAMPART-A program provides collection against long-haul international leased
+communications through special access initiatives with world-wide SIGINT partnerships. RAMPART—A
+employs TURMOIL capabilities, provided by the Net-Centric Capabilities (NCC) Project in the Mission
+Processing & Exploitation Expenditure Center. Additional NCC efforts will address the processing challenges
+of the volume, velocity, and variety of data present at the RAMPART-A sites. RAMPART—A has access to over
+3 Terabits per second of data streaming world-wide and encompasses all communication technologies such as
+voice, fax, telex, modem, e-mail internet chat, Virtual Private Network (VPN), Voice over IP (VoIP), and voice
+call records.
+
+(TS//SI//N F) The WINDSTOP program focuses on second party relationships. WINDSTOP currently partners
+with all the second parties, but primarily the United Kingdom (UK), to develop a well-integrated, over-arching
+architecture to utilize unprecedented access to communications into and out of Europe and the Middle East.
+Collection capabilities include Digital Network Intelligence processing and selection capabilities for e—mail, web,
+Internet chat, and VoIP.
+
+(TS//SI//REL TO USA, FVEY) This Project supports the Comprehensive National Cybersecurity
+Initiative (CNCI) by enhancing capabilities that identify emerging threats and vulnerabilities to US
+communication systems. This Project contains the RAMPART-A Modernization, RAMPART—A Operations and
+WINDSTOP Sub-Projects.
+
+(U) Base resources in this project are used to:
+
+- (TS//SI//N F) Provide annual upgrades to system capabilities at existing Foreign Partner collection sites to
+keep pace with the rapidly changing telecommunications field.
+
+- (TS//SI//REL TO USA, FVEY) Provide access and collection against international high-priority target
+
+- (S//SI//REL TO USA, FVEY) Support continuing requirements of infrastructure and communications
+improvements within the Foreign Partner collection sites to collect high speed Digital Network Intelligence,
+voice, fax, telex, e-mail, internet chat, VPN, and VoIP communications.
+
+TOP SECRET/ISI/TK/INOFORN 61
+

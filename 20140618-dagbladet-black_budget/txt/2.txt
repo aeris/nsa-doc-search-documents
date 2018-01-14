@@ -1,0 +1,62 @@
+TOP SECRET//S|/TK//NOFORN
+
+(TS//SI//REL TO USA, FVEY) Support CNCI by ensuring that data stores are produced, common collection
+system analytic techniques are developed, adequate infrastructure is built for increased processing, and
+enhanced collection tasks in support of cyber defense are implemented to meet the operational needs
+and satisfy agreements for collection and processing at selected Foreign Partner collection sites using
+TURMOIL collection systems.
+
+(U) There are no new activities in this Project for FY 2013.
+
+(U) OCO resources in this project are used to:
+
+(TS//SI//NF) Provide contracted services and equipment for upgrades on a processing suite at a
+RAMPART—A site. The upgrade will exploit the latest technologies present in —
+networks and consists of the design, procurement, integration, testing and deployment of advanced
+processing capabilities hosted on the latest server technologies.
+
+(U) The CCP expects this Project to accomplish the following in FY 2013:
+
+(S//SI//REL TO USA, FVEY) Expand collection and processing capabilities resulting from joint
+collaboration efforts and shared access initiatives to leverage the highly lucrative NSA/CSS Second Party
+access and to exploit high speed Digital Network Intelligence.
+
+(TS//SI//REL TO USA, FVEY ) Complete the deployment of NCC Increment 2 and 3 defensive software
+applications in support of the CNCI interconnected network of sensors.
+
+(S//SI//REL TO USA, FVEY) Support and expand the TURMOIL-based foreign site processing systems
+in order to exploit high-speed Digital Network Intelligence. Support the continuing requirements of
+infrastructure and communications improvements to RAMPART—A and WINDSTOP that will provide
+exploitation of high speed Digital Network Intelligence.
+
+(TS// SI//N F) Integrate Third Party releasable Dialed Number Recognition and Digital Network Intelligence
+collection systems upgrades, developed by NSA/CSS, within the RAMPART-A site architecture. The new
+capabilities will enable increased collection of communications available at each RAMPART—A site.
+
+(TS//SI//REL TO USA, FVEY) Upgrade collection capabilities at each site to increase intelligence
+production.
+
+(TS// SI//N F) Develop additional access to communications links at each RAMPART—A site. This additional
+access will increase the amount of international network coverage available for intelligence exploitation.
+
+(TS//SI//NF) Develop one new Foreign Partner relationship that will enable NSA/CSS to access
+international communications of high interest for intelligence exploitation.
+
+(TS//SI//NF) Deploy, operate, or refresh systems to implement key CNCI goals against increasingly
+complex communication signals at five RAMPART—A sites and two WINDSTOP sites.
+
+(U) Changes From FY 2012 to FY 2013:
+(SI/NF) WINDSTOP: -$17 .8 million (-$17.8 Base). The aggregate decrease is the result of:
+
+62
+
+(U) Increases:
+
+— (S//SI//NF) $1.0 million to sustain the current level of operations and accesses with its Second-Party
+partners.
+
+— (S//SI//NF) $0.9 million for increased sustainment cost of current operations and Second-Party
+relationships.
+
+TOP SECRET//S|/TK//NOFORN
+
