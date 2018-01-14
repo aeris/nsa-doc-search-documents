@@ -1,0 +1,69 @@
+TOP SECRET/lCOMINT/IREL TO USA, AUS/r’20320108
+
+PWYA20120761354090000786404
+
+SIGAD: US-984XN
+
+PDDG: AX
+
+CASE_NOTAT|ON: PZBSQC110024UO3
+DTG: 16MR1345Z12
+
+Active User
+Active User IP Address
+Target User
+Target User IP Address
+Start Mar 16, 2012 13:40:04 GMT
+Stop Mar 16, 2012 13:44:46 GMT
+
+   
+ 
+  
+  
+
+Other User IP Addresses
+
+Time (GMT) From To Message
+Mar 16,2012 13:40:04
+Mar 16, 2012 13:40:28
+Mar 16,2012 13:40:36
+Mar 16,2012 13:40:43
+Mar 16,2012 13:41:42
+Mar 16,2012 13:41:58
+
+message]
+Mar 16,2012 13:42:40 [OC:
+message]
+Mar 16, 2012 13:43:42 [OC:
+message]
+Mar 16, 2012 13:43:49 [OC:
+message]
+Mar 16, 2012 13:43:55 [OC:
+message]
+Mar 16, 2012 13:43:59 [OC:
+message]
+Mar 16, 2012 13:44:20 [OC:
+message]
+
+Mar 16, 2012 13:44:46
+message]
+
+*idc
+
+[OC:
+
+: No decrypt available for this OTR encrypted
+
+No decrypt available for this OTR encrypted
+No decrypt available for this OTR encrypted
+No decrypt available for this OTR encrypted
+No decrypt available for this OTR encrypted
+No decrypt available for this OTR encrypted
+No decrypt available for this OTR encrypted
+
+No decrypt available for this OTR encrypted
+
+TOP SECRETHCOMINTHREL TO USA, AUSH20320108
+
+TOP SECRET/lCOMINT/IREL TO USA, AUS/r’20320108
+
