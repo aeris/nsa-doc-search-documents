@@ -1,0 +1,64 @@
+Classification: Top Secret ll COMINT ll X1
+
+(U/IFOUO) Using a TCP connection, the SA would be sent as stream data to a predetermined
+destination IP address and TCP port number. This method offers not only reliable network transport,
+by allows acknowledgement feedback from the LP, making this method reliable.
+
+(U/IFOUO) Using a steganographic tunnel the SA would hide within a higher-level network protocol.
+This method offers both improved OPSEC from detection, but also offers reliable transport by
+allowing acknowledgement feedback from the LP.
+
+(C/ISI) Transmission of data packets would be similar to raw IP packet by its nature, but only the
+destination lIP address is predetermined, all TCPIUDP ports and lCMP packets are allowed.
+
+(C/ISI) Selection of method and parameters would be subject to the security posture imposed by a
+target environment.
+
+2.5. (U/lFOUO) Constraints and Timing Issues
+
+(U/IFOUO) The FASHIONCLEFT protocol is designed to operate over an unreliable
+network protocol where only communication from the sender is possible. Unless the
+Session Announcement could occur using a reliable network protocol, and even a
+bidirectional protocol, the data packets are clearly unreliable. To synchronize
+FASHIONCLEFT communications between the sender and receiver entities under all
+conditions, certain constraints and timing issues must be observed. Basically, the
+FASHIONCLEFT sender (implant) has an active role for maintaining proper
+synchronization, while the receiver (LP) has a passive role. What follows is a list of
+conditions; follow by a discussion of each.
+
+0 Sending of the Session Announcements
+
+0 New or Continuation of a terminated Session
+
+0 Termination of Session
+
+0 Sending Data Packets to Session Announcement ports
+a Duplicate Data Packets
+
+- Simultaneous Exfil of Multiple Sessions
+
+0 Early Termination
+
+SENDING OF THE SESSION ANNOUCEMNETS
+
+(UHFOUO) Generally the Session Announcement (SA) would be send prior to data
+packets be sent. If the SA data is sent using an unreliable network transport, it may be lost
+in transit. To overcome this, the SA data should be sent more than once. Since data
+packets may arrive prior to SA data, the receiver will buffer all received IP packets for
+fifteen (15) minutes. Once a valid SA arrives, the buffer will be scanned for possible data
+packets. To insure at least one SA arrives, more than three should be sent within the 15—
+minute time window, unless the SA is sent using a reliable protocol. In addition, for cases
+where the duration of exfiltration of data packets is short and the SA path is unreliable, the
+sender should also make at least three (3) attempts to send the SA.
+
+TERMINATION OF SESSION
+
+(UHFOUO) Once the session is established, the LP will terminate the session and stop
+looking for and fonrvard data packets to the backend when the following two conditions are
+
+met:
+CLASSIFICATION: TOP SECRET ll COM I NT ll X1 DRV FM: NSA/CSSM 123-2
+Dated: 24 Feb 98
+DECL ON: x1
+FASH|ONCLEFT_ProtocoI.doc Page 1 7 of 26 LLHZIS‘PifJ‘I’Sg gig/ﬁgggggfggggm
+

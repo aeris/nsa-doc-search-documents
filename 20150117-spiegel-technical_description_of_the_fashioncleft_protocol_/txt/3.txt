@@ -1,0 +1,62 @@
+Classification: TOP SECRETHCOMINTi/Xi if COMINT if X1
+
+ 
+
+(U//FOUO) FASHIONCLEFI' lCD
+
+ 
+
+1. (U) Introduction
+
+1.1 (U) Document Description
+
+(SI/SI) This document defines the IFASHIONCLEFT Computer Network Exploitation (CNE)
+collection protocol that enables raw data packets from the external Internet to interface to
+the Common Data Receptor (CDR) of Data Network Technology’s (DNT’s) Common
+System Architecture (CSA). This interface will be deployed to support Tailored Access
+Operations (TAO) On—Net operations, specifically implants that are required to exfiltrate
+collected network packets, but due to implant processing and bandwidth constraints are
+required to utilize a low overhead egress protocol.
+
+(SI/SI) This document defines the interface requirement that the Common Data Receptor
+and implant must support to enable successful reception of raw data packets sent by the
+implant. It includes conceptual data flow diagrams and network diagrams to define the
+system. It also contains detailed data format examples, data field definitions, and a
+description of the protocol.
+
+1.2 (U // FOUO) Reference Documents
+
+1. FLAXENPRECEPT External (source—to—CDR) Interface Control Document (Front End
+EICD), NSA/DNT Doc # TAO.DNT_SE07_001_V1.0. 16 June 2003.
+
+2. FLAXENPRECEPT External Data Flow (CDR-to—NSA Corporate) Interface Control
+Document (Back End EICD), NSA/DNT Doc # TAO.DNT_SE07_002_V0.01
+
+3. SHELLGREY binary metadata tag standard:|—
+
+1.3 (U) Background
+
+(SI/SI) The Common Data Receptor (CDR) is a DNT-designed system to perform the data
+reception portion of what is commonly termed a ‘Listening Post.’ The CDR supports a
+common interface that DNT developers use for data formatting and reception. In addition,
+the Common Data Receptor concept emphasizes the use of a Data Receptor, Operations
+Manager, and Network Manager vice a Listening Post.
+
+(SI/SIIIX1) The introduction of the FASHIONCLEFT protocol is necessary because without
+the FASHIONCLEFT protocol, the implant—to—CDR communication previously did not
+handle raw IP data packets. In addition, an implant previously had no way to deal with the
+challenge of processing streaming data while minimizing the computing overhead
+associated with encapsulating and encrypting the data. This new protocol provides the
+developer a mechanism to specify the level of encryption implemented in the implant as a
+precursor to data transmission.
+
+(Sl/SI/le) The FASHIONCLEFT protocol supports the passing of metadata securely and
+with authentication.
+
+(SI/SIIIX1) The metadata is used to support the reconstruction of IP packets and when
+applicable to convey information about the session.
+
+Last Saved 4/17/2013 09:08:00 PM
+
+FASHIONCLEFT_Pr0t0c.0|.doc Page 1 of 26 Last aned 6/15/2009 02:15:00 PM
+

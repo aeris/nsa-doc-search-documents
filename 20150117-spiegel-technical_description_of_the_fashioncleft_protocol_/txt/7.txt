@@ -1,0 +1,175 @@
+Classification: Top Secret ll COMINT ll X1
+
+Figure 1.4-1 Common Data Receptor with FASHIONCLEFT
+
+FASHIDNCLEFI' Changes to Stendarde
+and CDR Components
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HIGH-LEVEL:
+_ I) E :n E
+g FIIIG‘r'NULL "‘ 3.: 3 2 i
+g H . . a a at: a me '
+FUNNELAPS: Etflltratlon Data :1: I3 g I %—
+—1
+_ H _
+ISHELLGRET: Mata oata -2 ‘75
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EXAMPLE: i i i I I
+FA SHIDJ'II'GLEFT aeea ﬁeIo'e to I I
+M I'D m etao' ate for stream tag pan: Irete I I
+._ Target-ID=P<I _ =: :
+4&3; Implant-ID =1; : :
+I I
+§ FASHIGMGLEFraa'a'a DPooo'e to : :
+.515. IMP-HER I'D m etao'ata foretreamtngpaetreta. I I
+n: — e =1 I
+(EDI: D p _ MD; and He won oryptba option I93 I I
+E I I
+E I I
+E FA SHIQMGLEFreaa-a NDTappe-no' I I
+E w Stream tag data to these packets I I
+m MD- Len= L1 : a! I
+III D ata- Le n = In E E
+FASHIGIII'GLEFTao'o'sIﬁ-rany newtage I
+to fatty oh araotenize the Source raw .
+Meieadata. : :
+Escfil- Id = E1 : d3"? : r.
+Ex‘ﬁ|_T1,rp e = P I I
+I I
+Repeat at Ieaet 3 times per eeeei'en I I
+I I
+FASHroMCLEFranIyuaa-aa
+J tranam taston Ia Lrta TIC-F stream AEK I I
+1 ' Dpﬁonal I I
+I I
+m IP-HEIR
+15.5 Subprotoce! = =1 :
+“E header I I
+o; FA SHIQIII'GLEFT paytoao’ : :
+D‘- M ,oaotretofrawetteam tag o'ata ' '
+i”- DATA I I
+I.'I3 .‘ h- I
+Cj Encrypted per I I
+"3“ NAIF-HQ? I I
+E : :
+3" I I
+n: I I
+CL . .
+CLASSIFICATION: TOP SECRET ll COMINT ll X1 DRV FM: NSAICSSM 123-2
+Dated: 24 Feb 98
+DECL ON: X1
+Last Saved 4/17/2013 09:08:00 PM
+FASH'ONCLEFT—Promml'doc Page 5 0f 26 Last Printed 6/15/2009 02:15:00 PM
+

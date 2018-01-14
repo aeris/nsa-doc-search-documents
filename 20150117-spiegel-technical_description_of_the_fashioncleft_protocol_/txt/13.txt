@@ -1,0 +1,48 @@
+Classification: Top Secret ll COMINT ll X1
+
+IP4- Destination —Port
+IP4-TTL
+IP—Sub—Protocol (as defined by the IP protocol)
+
+(TS/ISI) Reconstruction is now explicitly specified using SH ELLGREY reconstruction tags
+such as (see reference [1.2] for a complete list):
+
+PACKET_BIT_REPLACE
+PACKET_BIT_REPLACE_I P4
+PACKET_BYTE_REMOVE
+PACKET_BYTE_REMOVE_I P4
+PACKET_BYTE_REPLACE
+PACKET_BYTE_REPLACE_I P4
+PACKET_IP_ADDR
+
+(TS/ISI) SHELLGREY reconstruction and decryption tags (section 2.3.2) are processed in
+the order in which they occur. The reconstruction result is therefore highly dependent on
+the specific reconstruction tags used and the order in which they occur. This flexibility
+allows the sender (the implant) to specify how to transform the exfiltrated data and the
+receiver simply follows instructions without needing any knowledge of custom/proprietary
+data formats.
+
+2.2. (U/lFOUO)Encryption/Decryption/Validation
+
+(TS/ISI) All communication will be encrypted with the appropriate level of encryption for
+the information, transmission medium, and target system. RSA public keys are used to encrypt
+Session Announcement Infrastructure and Implant Headers; decryption is performed using RSA
+private keys. R06 block ciphers are used to encrypt the Session Announcement Exfil Header
+and Metadata Block, and optionally Data Packets, using the R06 Session Key and Message
+Indicators contained within the Session Announcement Implant Header.
+
+(TS/ISI) The FLASHHANDLE Mission Management (FMM) system is the database
+resource for generatinglretaining crypto keys and other information (e.g. Implantld's, Targetld's).
+All Session Announcements must have two 128—byte RSA—encrypted header blocks. The
+Infrastructure and Implant Header blocks are encrypted using the RSA—128 algorithm. Metadata
+blocks and (optionally) Data Packets are encrypted using the RC6—16 algorithm in Output
+Feedback Mode (OFB). See the Key Management diagram below.
+
+FASH|ONCLEFT_ProtocoI.doc
+
+CLASSIFICATION: TOP SECRET ll COM | NT ll X1 DRV FM: NSAICSSM 123-2
+Dated: 24 Feb 98
+DECL ON: x1
+Last Saved 4/1 7/2013 09:00:00 PM
+Page 11 0f 26 Last Printed 6/15/2009 02:15:00 PM
+

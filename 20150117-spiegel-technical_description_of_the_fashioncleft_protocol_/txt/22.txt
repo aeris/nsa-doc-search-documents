@@ -1,0 +1,80 @@
+Classification: Top Secret ll COMINT ll X1
+
+ 
+
+|3. (U/IFOUO) Packet Selection Algorithms
+
+3.1. (U/lFOUO) Description
+
+(SI/SI) This section describes the methods used to associate meta-data with non—
+encapsulated egress packets that are transmitted independently from the data that is
+desired to be exﬁltrated. Specifically, it addresses allowable contents for the "Packet-IIF—
+Selector" and "Packet—I/F—Data" fields of the FOGYNULL Infrastructure Header (INF—HDR).
+The following table identifies the specific values for the "Packet—IlF—Selector" field to
+select which algorithm to be used to do an association. This indicates whether the
+"Packet-IlF—Data" ﬁeld is used to convey parameters for the selected algorithm. The
+"Packet—IlF—Data" field can be up to 32 bytes in length.
+
+oTable 3.1-1. Packet Interface Algorithm Interpretation
+
+ 
+
+ 
+
+ 
+
+ 
+
+Value Algorithm Contents of Data
+0x00 None Not used
+0x01 Generic Pattern Matching Matching rules
+0x02 Fixed IP4 Field Matching Matching rules
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(Ul/FOUO) All methods other than the null case contain associated "Packet-IlF—Data”.
+
+The number and format of the bytes comprising the "Packet-l/F—Data" vary based on the
+value of "Packet—I/F—Selector". However, to allow for cases in which a data receptor may
+not understand a particular "Packet-IfF—Selector" value, the "Packet-IIF—Data" field will
+always begin with a 1—byte field indicating the number of bytes in the "Packet—IlF—Data" ﬁeld
+(excluding this 1-byte length ﬁeld). So, for the non—null types specified above, the
+corresponding "Packet—IIF—Data" fields are as follows:
+
+oTable 3.1-2. Packet-IIF Data
+
+ 
+
+ 
+
+ 
+
+ 
+
+Length (1 byte) Data (1-31 bytes)
+
+ 
+
+(SI/SI) Otherwise the contents of "Packet—IfF—Data" should be left as random data.
+3.2. (U) Algorithms
+3.2.1 (U) None, [0x00]
+
+(SI/SI) This represents the null case, i.e. the case in which there is no defined mapping association.
+Hence no packets will be collected; only the metadata is forwarded. The content of “Packet-UF-
+Data” is unused.
+
+CLASSIFICATION: TOP SECRET ll COMINT ll X1 DRV FM: NSAICSSM 123-2
+Dated: 24 Feb 98
+DECLON:X1
+
+Last Saved 4/1 7/2013 09:08:00 PM
+FASH|ONCLEFT_ProtocoI.doc Page 20 Sf 26 Last Prmed 6/15/2009 02: 15:00 PM
+

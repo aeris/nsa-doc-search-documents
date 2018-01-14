@@ -1,0 +1,89 @@
+Classification: Top Secret ll COMINT fl X1
+
+ 
+
+|2. (U/IFOUO) FASHIONCLEFT Protocol Details I
+
+2.1.
+
+CLASSIFICATION: TOP SECRET If COMINT ll X1
+
+FASHIONCLEFT_ProtocoI.doc Page 6 Sf 26
+
+(SI/SI) Metadata is used to announce the initiation of a session, to describe the
+session, and to provide original packet reconstruction information.
+
+(SI/SI) From the point of View of an implant, a streaming data transmission session is
+accomplished in two steps, first sending the session announcement metadata,
+followed by the continuous sending of the streaming data packets.
+
+(U/lFOUO) FASHIONCLEFT Session Announcement
+
+(SI/SI) lFASHIONCLEFT session announcement metadata announces the initiation of
+a session, describes the session, and conveys data packet reconstruction (and
+association) information to enable data packets and sessions to be reconstructed after
+collection.
+
+2.1.1. (U/IFOUO) Session Announcement Descn'ption
+
+(SI/SI) FASHIONCLEFT adds two new fields in the FOGYNULL protocol
+infrastructure header to proclaim that data packets containing streaming data are to be
+sent using the FASHIONCLEFT protocol (Packet-lF-Selector, Packet—IF—Data); and
+adds a new OpCode tag (0x09) plus new encryption mode tags in the FOGYNULL
+protocol implant header to indicate that raw packets will be exfiltrated and the extent to
+which they are being encrypted.
+
+(SI/SI) FASHIONCLEFT also adds new tags in the SHELLGREY protocol that fully
+characterize the original source and original destination of streaming data packets that
+follow. In addition, FASHIONCLEFT uses the SHELLGREY EXF|L_TYPE metadata tag to
+indicate whether the target data will be exfiltrated as:
+
+. “Packet data" (one exfil data packet per cloned target packet) or
+
+. “Session data" (each exfil data packet contains target data payload that may
+have been captured prior to being encapsulated by the target source into
+multiple packets for transmission)
+
+Example: Session Announcement
+
+INFVHDR
+Deployment-Id - Dxﬂﬂ
+Targ etalcl — Oxala2a334
+Implantrld : Oxblbz
+Packet-lFSele-clor - 0x01
+PacketrlFData = ['2
+
+ 
+
+IMFLHDR
+OpCode - 0x09
+Instrld — 0x00
+Implant-Vet - Dxdl
+Encrypt-Mode 7 0x02
+
+‘rNUL-
+
+F03
+
+mam
+MetaDatarLen — ML
+Damien = O
+
+METADATAVBLK
+ExflI-Id 7 DXUDDDDDBZ
+Exfierype : Packet
+Timerofrlntercept : omoo
+FIller-ldl - 0x12
+
+H—tLLLII le
+
+"Z
+
+DRV FM: NSA/CSSM 123-2
+
+Dated: 24 Feb 98
+DECL ON: X1
+
+Last Saved 4/17/2013 09:08:00 PM
+Last Primed 6/15/2009 02:15:00 PM
+

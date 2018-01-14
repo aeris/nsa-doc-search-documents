@@ -1,0 +1,62 @@
+Classification: Top Secret ll COMINT fl X1
+
+<2—byte SrcPort1>: 9
+
+<2—byte SrcPort2>: 10
+(SI/SI) The above data field indicates a full match is required on all fields of the 5tuple. It
+would match either of the following 5-tuples:
+
+TCP: 1.2.3.4/9 -> A.B.C.Dl10
+(Protocol: SrcIPllSrcPortl -> DstIP/DstPortl)
+
+TCP: 5.6.7.8110 -> A.B.C.Dl9
+(Protocol: SrclP2/SrcPort2 -> Dsth/DstPortZ)
+
+(SI/SI) To indicate a match on just the IP addresses, the following data field could be used:
+
+<1—byte length>: 23
+<1—byte mask>: 0x26
+<2—byte Protoc01>: <unused>
+<4—byte DstIP>: A.B.C.D
+<4—byte SrcIP1>: 1.2.3.4
+<4—byte SrcIP2>: 5.6.7.8
+<2—byte DstPort1>: <unused>
+<2—byte DstPort2>: <unused>
+<2—byte SrcPort1>: <unused>
+<2—byte SrcPort2>: <unused>
+(SI/SI) The above data field would match any IP packet having either of the following two
+IP pairs:
+1.2.3.4 —> A.B.C.D
+5.6.7.8 —> A.B.C.D
+
+(SI/SI) Finally, suppose that fonNarded packets were to use a spoofed source IP address
+of E.F.G.H and a destination port of 7777, but the source port would be allowed to toggle.
+In that case, the following could be used:
+
+<1—byte length>: 23
+<1—byte mask>: 0x5F
+<2—byte Protocol>: TCP
+<4—byte DstIP>: A.B.C.D
+<4—byte SrcIP1>: E.F.G.H
+<4—byte SrcIP2>: <unused>
+<2—byte DstPort1>: 7777
+<2—byte DstPort2>: <unused>
+<2—byte SrcPort1>: 9
+<2—byte SrcPort2>: 10
+
+CLASSIFICATION:
+
+FASH|ONCLEFT_ProtocoI.doc
+
+TOP SECRET If COMINT ll X1
+
+Page 24 of 26
+
+DRV FM: NSA/CSSM 123-2
+
+Dated: 24 Feb 98
+DECL ON: X1
+
+Last Saved 4/17/2013 09:08:00 PM
+Last Printed 6/15/2009 02:15:00 PM
+

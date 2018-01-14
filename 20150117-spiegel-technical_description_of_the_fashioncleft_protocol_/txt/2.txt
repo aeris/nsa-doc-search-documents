@@ -1,0 +1,28 @@
+Classification: Top Secret ll COMINT ll X1
+
+ 
+
+Table of Contents
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+1. (UI Introduction .......................................................................................... 1
+2. (Ul/FOUO) FASHIONCLEFT Protocol Details .......................................... 6
+3. (Ul/FOUO) Packet Selection AI orithms .................................................. 20
+Appendix A Glossarv .................................................................................. 1
+CLASSIFICATION: TOP SECRET ll COMINT ll X1 DRV FM: NSAICSSM 123-2
+
+Dated: 24 Feb 98
+DECL ON: X1
+Last Saved 4/1 7/2013 09:08:00 PM
+
+FASH|ONCLEFT_ProtocoI.doc Page '1 Of II Last aned 6/15/2009 02:15:00 PM
+

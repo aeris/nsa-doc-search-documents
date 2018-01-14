@@ -1,0 +1,61 @@
+Classification: Top Secret ll COMINT ll X1
+
+3.2.2 (U) Generic Pattem Matching, [0x01]
+
+(SI/SI) This method implements a generic static pattern matching against specified bytes within
+the received packets. The content of "Packet-llF-Data” contains a ﬁnite number of matching rules.
+These matching rules allow a pattern match against specified bytes following the start of an IIP
+header; thus, they can Include checks against bytes In the IPlTCPlUDP headers. (The rules could
+include checks against other bytes, but the header checks would probably be the norm.) Thus, this
+selector would allow checks against the IIP Identifier field as well as elements such as IP addresses,
+TCP window size, TCP urgent data size, ports, etc. This method Is fairly general and should be able
+to cover any case in which portions of these headers contain fixed bytes.
+
+The purpose of the data field is to specify the particular byte offsets and patterns to be used for
+matching against received packets. A non-zero number of "pattern blocks" must thus follow the
+length field (which specifies the number of bytes In the “pattern blocks"). Each "pattern block"
+consists of three bytes as described below. For this method, a received packet must match the
+criteria specified within ALL of the pattern blocks. Using a 1-byte length and 3 byteslblock implies
+there can be at most 10 "pattern blocks" within the 32-byte “Packet-llF-Data” field. In addition, using
+a 7-bit offset implies that the largest offset (from the start of the IP header) is 127 bytes. The format
+of this field Is:
+
+- <1-byte length> <pattem block 1>...<pattem block n>
+- A pattern block has the following format:
+
+- <1—byte offset> - offset from start of IIP header or Transport Protocol header.
+
+0 Bit 0: (L Sbit) indicates start position, if 0 use start of lP header, if 1 use
+the start of Transport Protocol header.
+
+0 Bit 1-7: offset value (multiply desired offset by 2 to shift into bits 1-7)
+6 <1—byte mask> - mask to be used with pattern
+- <1—byte pattern> - pattern to be matched
+Thus, to perform a pattern block check, verify the following equality:
+Packet [IP_Header_Offset + <offset>] & <mask> = <pattern> & <mask>
+
+(The above assumes that enough packet bytes are available. For error checking purposes, the
+length field should always be a multiple of the pattern block size, I.e. 3, and a pattern byte blt-wlsed
+and— ed with the mask byte should always yield the pattern byte.)
+
+As an example, suppose one wants to match any packet having an IP ID field of 0x1234. (The IP ID
+field Is 2 bytes long, occurring at offsets 4 and 5 bytes from the start of the IP Header.) Then, the
+following data ﬁeld would be used:
+
+. <1—byte length>: 6
+
+. // Pattern block: 1
+
+a <1—byte offset>: 8 = (2*4+0)
+. <1—byte mask>: 0xFF
+
+. <1—byte pattern>: 0x12
+. // Pattern block 2
+
+CLASSIFICATION: TOP SECRET ll COMINT ll X1 DRV FM: NSAICSSM 123-2
+Dated: 24 Feb 98
+DECL ON: x1
+Last Saved 4/1 7/2013 09:00:00 PM
+
+FASH'ONCLEFT—PFOtOCOI-doc Page 21 0f 26 Last Primed 6/15/2009 02:15:00 PM
+

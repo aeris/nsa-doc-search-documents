@@ -1,0 +1,14 @@
+Classification: Top Secret // COMINT // X1
+
+(SI/SI) This would match either:
+TCP: E.F.G.H/9 -> A.B.C.D/7777
+
+TCP: E.F.G.H/1F) -> A.B.C.D/7777
+
+CLASSIFICATION: TOP SECRET // COMINT // X1 DRV FM: NSA/CSSM 123-2
+Dated: 24 Feb 98
+DECLON: X1
+
+I. st 5 d 4/1 7/2013 09:08:00 PM
+FASH'ONCLEFT-Pmtocomoc Page 2 5 Of 26 Laast mgr/:0! 6/15/2009 02:15:00 PM
+

@@ -1,0 +1,12 @@
+Classification: Top Secret ll COMINT ll X1
+
+(Ul/FOUO) If an implant sends a session announcement that has a new EXFlL-ID but has
+a packet selection criterion that is identical to an existing criterion, the previous session will
+be terminated, and all new data packets that satisfy the criterion will be associated to the
+
+new EXFIL—ID.
+CLASSIFICATION: TOP SECRET ll COMINT ll X1 DRV FM: NSA/CSSM 123-2
+Dated: 24 Feb 98
+DECL ON: x1
+FASH|ONCLEFT_ProtocoI.doC Page 19 0f 26 Lzzgpiﬂgg 33113223393 333-533,? Sm
+

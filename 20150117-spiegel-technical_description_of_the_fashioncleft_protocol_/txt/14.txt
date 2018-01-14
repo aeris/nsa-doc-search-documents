@@ -1,0 +1,73 @@
+Classification: Top Secret ll COMINT ll X1
+
+ 
+
+TOP‘ SECRETIICOMINTHZDZQllZS
+
+"LDW Side” ROOTIKNOT "High Side”
+I
+CNE ACP SURPASSPIN ”TCHER ' CATCHER SURPASSPIN
+TECHNIQUE _ _ OUTER _ _ I INNER
+F j (— j E F j
+Deployed Keys Deployed Keys Deployed Keys
+Inlrastructure KethSA Pub) “m
+
+Implant KethSA Pub) Implant Key [RSA Pm)
+
+Combine ‘ Exlil Key (Ros)
+
+l I I l
+Session KethCB) + Session KethCB) + Session KethCB)
+
+I
+I
+Session ! I Session
+I
+I
+I
+
+Combine ‘ Exlil Key (REE)
+
+E
+
+I Session
+Generated Generated l Generated
+
+Random Generator| Keys
+
+ 
+
+ 
+
+ 
+
+. Figure 2.2-1: (U) Key Management
+(TS/ISI) Each CNE technique will contain the following deployed keys:
+
+- Infrastructure Header Key (RSA public)
+- Implant Header Key (RSA public)
+
+a Shared Key (RC6); [called Exfil Key Modifier (RC6) in diagram above]
+
+As shown above, the Infrastructure and Implant private keys are retained/protected within
+FLAXENPRECEPT (and are never deployed to the Implant!).
+
+(TS/ISI) The first RSA public key (the Infrastructure Key) is a global key that is common to
+many CNE techniques/targets and provides access to FLAXENPRECEPT; it is used to encrypt
+the Infrastructure Header. The Infrastructure private key is used to decrypt the Infrastructure
+Header, and a SHA-l Hash of bytes 20-127 is computed and compared against bytes 0-19 to
+validate successful decryption.
+
+(TS/ISI) The second RSA public key (the Implant Key) is a unique key for the CNE
+technique to use on a specific target and will be used to support command and exfiltration
+functions; it is used to encrypt the Implant Header. The Implant private key is used to decrypt the
+Implant Header, and a SHA-l Hash of bytes 20—127 is computed and compared against bytes 0-
+19 to validate successful decryption. The Implant Header contains CNE technique-specific
+information (i.e., Implant Operation), a Session Key (16-bytes) and Message Indicator (MI); for
+each session, a new Session Key (RC6) and MI are generated randomly by the implant.
+
+CLASSIFICATION: TOP SECRET ll COM | NT ll X1 DRV FM: NSAICSSM 123-2
+Dated: 24 Feb 98
+DECL ON: x1
+FASHIONCLEFT_Protoco|.doc Page 12 0f 26 LLHZISIPETEE $132233; 333-533,? I: I;
+

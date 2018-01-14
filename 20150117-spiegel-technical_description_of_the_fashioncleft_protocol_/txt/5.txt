@@ -1,0 +1,65 @@
+Classification: Top Secret ll COMINT fl X1
+
+(SI/SI) This interface is designed to support the reception of “cloned“ packets and their
+associated metadata originating from implants, while supporting authentication of the
+egress data and correlation of received packets to the appropriate metadata. To provide
+greater flexibility for the implant, several configurable levels of encryption are supported.
+
+(SI/SI) The following assumptions are made:
+
+. This interface supports egress of data and does not support a command and
+control channel.
+
+- This interface is used by implants which for valid reasons are unable to implement
+egress methods that require greater resources from the target, such as
+encapsulation.
+
+. Egress data must be associated with encrypted, authenticated metadata.
+
+. This interface may not be suitable for all boundary defenses that could be
+encountered within a target environment. Extensibility has been designed to allow
+additional packet selection algorithms to be added, such that future changes to skirt
+other defenses can be readily included.
+
+(SI/SI) This interface implements four functions:
+
+. Transmission of session announcements,
+
+. Transmission of metadata,
+
+. Transmission of data packets,
+
+- Reconstruction of data packets using the metadata, and
+
+- Reconstruction of sessions using metadata to track and collate data packets
+belonging to a particular session.
+
+(SI/SI) During session establishment, an implant authenticates itself to the CDR and
+requests the CDR to begin reception of data packets that belong to this session. As part of
+establishing the session, metadata about the session is passed, along with metadata that
+the CDR requires to assign data packets to the session and collate data packets within the
+session. The session establishment function uses the FOGYNULL protocol family to
+authenticate and securely pass metadata, packet collation information and data packet
+encryption status.
+
+(SI/SI) There are several methods that an implant could use to collate data packets to the
+appropriate session, but only one method can be used in any session. The implant picks
+the appropriate Exfil Type — either “Packet“ or “Session,“ and either exfiltrates one
+modiﬁed copy of a source packet per source packet, or assembles the source data
+payloads from several source packets into one packet to be exfiltrated. The
+FASHIONCLEFT interface design allows these methods to be extensible, so additional
+methods can later be developed and included to meet operational constraints imposed by
+boundary defenses.
+
+(SI/SI) The data packets are generally a copy of a packet that was collected, and had its
+destination address changed to send it to the CDR. Additional fields might have been
+altered to support one of the methods of assigning data packets to a session and collating
+data within a session. If selected during the session establishment, the payload section of
+the packet may be encrypted, using the mode specified by the FASHIONCLEFT protocol
+encryption mode selection in the FOGYNULL implant header.
+
+CLASSIFICATION: TOP SECRET ll COM | NT ll X1 DRV FM: NSAICSSM 123-2
+Dated: 24 Feb 98
+DECL ON: x1
+FASHIONCLEFT_Protoco|.doc Page 3 of 25 LLaZf‘Piflﬁg 33113223393 3355333 I: If;
+

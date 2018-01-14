@@ -1,0 +1,51 @@
+Classification: TOP SECRET/lCOMINT/IXI ll COMINT ll X1
+
+lAppendix A Glossary I
+
+ 
+
+ 
+
+ 
+
+(U) Glossary of Terms Used
+Glossary Term Meaning Source i Remarks
+Exfiltrate To extract [data] through a target’s defenses.
+
+ 
+
+A software or hardware subcomponent that is
+surreptitiously emplaced in a target
+
+Implant environment (CPU, router, etc) to pass
+selected information back to NSA, where it is
+processed for analysis.
+
+ 
+
+IP Internet protocol
+
+ 
+
+ 
+
+ 
+
+ 
+
+Note: All abbreviations I Acronyms are
+expanded where they are first used.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Last Saved 4/1 7/2013 09:08:00 PM
+FASH'ONCLEFT—Pmtoml'doc Page A'1 Of 1 Last Printed 6/15/2009 02:15:00 PM
+

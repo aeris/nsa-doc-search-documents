@@ -1,0 +1,98 @@
+Classification: Top Secret ll COMINT fl X1
+
+(SIISI) The structure of session announcement is comprised of the FOGYNU LL
+
+Headers, both the Infrastructure and Implants headers; followed by SHELLGREY
+
+Meta-data, format within a FUNNELAPS protocol with no data. All multi-byte fields in
+
+the Infrastructure and Implant Headers are in network byte order (i.e. big endian).
+2.1.2. (Ul/FOUO) FOGYNULL Headers
+
+2.1.2.1. (UI/FOUO) Infrastructure Header
+
+(SIISI) The purpose of the following three elements of the infrastructure header (version 2
+and later of FOGYNULL) is to indicate the characteristics of the origination of the packet:
+
+- Implant ID
+a Target ID
+- Deployment ID (allow different encryption keys for same {ImplantID, TargetID})
+
+(SIISI) The purpose of the next two elements of the infrastructure header
+(FASHIONCLEFT addition to FOGYNULL) is as follows:
+
+Table 2.1.2.1—1: Format of Infrastructure Header Block
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0 31
+
++0 SHA-l HASH (data bytes 0-19)
+
+Of bytes 20-127
++20 Random
++28 Infrastructure HeaderVersion (0x02) Implant ID
++32 Length
++36 Target ID
++40 Timestamp (sec)
++44 Sequence #
++48 Deployment ID
++52 Packet I/F Selector (See Table 3.1-1) +54
++56 Packet IIF Data (32 bytes)
+
++86
+
++86 Random
++124 Random (special constraints REA)
+
+ 
+
+ 
+
+(SIISI) In the FOGYNULL protocol, additional elements follow to complete the 128 bytes of
+the infrastructure header.
+
+0 Packet IIF Selector (This field directly supports FASHIONCLEFT exfiltration.)
+- Packet IlF Data (This new field uses the first 32 bytes of a formerly "random" field.)
+
+(TS/(SI) The purpose of the new Packet If F Selector [OXOn] field is to allow selection of a
+choice of algorithm that will collate the data to the sessions. The following three choices
+are provided:
+
+a No Data packets follow [0x00]
+
+CLASSIFICATION: TOP SECRET If COMINT ll X1 DRV FM: NSAICSSM 123-2
+Dated: 24 Feb 98
+DECL ON: x1
+FASHIONCLEFT_Protoc0|.doc Page 7 of 26 LLHZIS‘PifJ‘I’Sg gjgjgggggfggggm
+

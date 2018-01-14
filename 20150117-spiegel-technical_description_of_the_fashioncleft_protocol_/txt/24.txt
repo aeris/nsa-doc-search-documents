@@ -1,0 +1,58 @@
+Classification: Top Secret ll COMINT ll X1
+
+. <1-byte offset>: 10 = (2*5+0)
+. <1-byte mask>: OXFF
+. <1—byte pattern>: 0x34
+
+3.2.3 (U) Fixed |P4 Field Matching, [0X02]
+
+(Si/SI) This method implements a static pattern matching against a specified subset of
+IP4/TCPlUDP header fields. This method is geared toward the use of the typical 5-tuple of
+fields used by IP and TCP (or UDP). In addition, it has the capability to handle both sides
+of the traffic, i.e. it allows the source/destination address and port ﬁelds to be toggled.
+
+(S//Sl) Note: The two-sided source/destination toggling described below should normally
+not be used. Normally only a single sided pattern should be speciﬁed. lf. togging is used,
+there will be no way for the SHELLGRE Y reconstruction tags to correctly reconstruct the P
+or Transport Header, since the same reconstruction tags would be applied for both
+directions (ie. A _. B and B _.A would be received as A _. X and B _. X, but would
+reconstructed using the same value for X). The toggling mode can only be used if. the lP
+and Transport headers will be dropped.
+
+(Si/SI) The contents of the data field are used to specify the subset of fields and
+associated patterns for matching against received packets. The rationale for having this
+method is the belief that it may often be the case that collection can be done based on the
+standard 5—tuple used for IP/TCP/U DP uniqueness. For this selector, the data field will
+always contain the following 24 bytes:
+
+- <1—byte length> — number of bytes following this field (23)
+- <1—byte mask> — indicates fieldsltoggles to be used
+
+a Bit 0: (<mask> & 0x01) if set, match on protocol field
+
+0 Bit 1: (<mask> & 0x02) if set, match on destination IP address [Note: there is
+only one destination IP address, and this match is not useful when the
+destination IP address must be ovenrvritten with a particular forwarding IP
+address]
+
+a Bit 2: (<mask> & 0x04) if set, match on source IP address field, use first source
+IP field if bit 5 of mask is unset; use both source IP fields if bit 5 of mask is set
+
+0 Bit 3: (<mask> & 0x08) if set, match on destination port fie|d(s) -- only use first
+destination port field if bit 6 of mask is unset; use both destination port ﬁelds if
+bit 6 of mask is set; [Note: if set, then there's an implied match of either UDP or
+TCP on IP protocol field.]
+
+a Bit 4: (<mask> & 0x10) if set, match on source port field(s) ——only use ﬁrst
+source port field if bit 7 of mask is unset; use both source port fields if bit 7 of
+mask is set [Note: if set, then there's an implied match of either UDP or TCP
+on IP protocol field.]
+
+a Bit 5: (<mask> & 0x20) if set, then allow source IP address to toggle between
+the two alternatives
+
+CLASSIFICATION: TOP SECRET ll COM | NT ll X1 DRV FM: NSAICSSIV 123-2
+Dated: 24 Feb 98
+DECL ON: x1
+FASH|ONCLEFT_ProtocoI.doC Page 22 0f 26 LLaitStPiiﬁg 33113228)ch 333-533,? 5:;
+

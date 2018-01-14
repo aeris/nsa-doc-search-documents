@@ -1,0 +1,74 @@
+Classification: Top Secret ll COMINT ll X1
+
+(SI/SI) New encryption modes and options for encryption of data packets are added to the
+FOGYNU LL authentication protocol, as shown in Table 2.1.2.22 The new values are
+italicized and their cells are highlighted:
+
+Table 2.1.2.2-2 (SISI) New Encryption Modes
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+. . Packet Packet
+Value Sessuon EX“ (Proposed) (lmplemented)
+0x01 ROB/Session ROB/Composite NA Default
+0x02 RCﬁ/Session ROB/Composite None NA
+0x03 RCﬁ/Session ROB/Composite “mange" NA
+0x04 RCB/Session ROE/Composite RC6/Cgmpos" NA
+
+ 
+
+ 
+
+ 
+
+(SI/SI) lFASHIONC LEFT allows a new Exfil-Type 2 Packet. It was originalb/ proposed that
+three new encryption modes would be used for Packet exfil, using the values 0x02 through
+0x04; however, this proposed version was not actually implemented. Applying no
+encryption is just what it implies. The term “munge” implies that privacy scrambling will be
+applied to the data to make it a little less tractable to anyone trying to detect a third party
+presence in the target system. The RCB/Composite mode uses full 128—bit encryption as
+described in section 2.3.2.
+
+(SI/SI) As implemented, lFASHIONCLEFT Packet exfil should always use Encryption
+Mode 2 0x01 2 Default. The actual encryption mode used for Packet exfil is then specified
+within the Metadata Block using SHELLGREY tags, as described in section 2.3.2.
+
+2.1.3. (U/IFOUO) Payload (Content Information) Blocks
+
+(Cl/SI) The payload (FUN NELAPS CNE protocol data) characterizing the contents of the
+data packets is composed of two blocks — a 16—byte Exfil Header and a variable length
+Metadata Block that conforms to the SHELLGREY CNE data protocol. There is no Exfil
+Data block in this payload, and the contained data length is therefore reflected with a zero
+
+length indicator in the Exfil Header.
+
+CLASSIFICATION: TOP SECRET ll COMINT ll X1
+
+FASHIONCLEFT_Pr0tOCOI.dOC
+
+Page 9 of 26
+
+DRV FM: NSA/CSSM 123-2
+
+Dated: 24 Feb 98
+DECL ON: X1
+
+Last Saved 4/17/2013 09:08:00 PM
+Last Printed 6/15/2009 02:15:00 PM
+

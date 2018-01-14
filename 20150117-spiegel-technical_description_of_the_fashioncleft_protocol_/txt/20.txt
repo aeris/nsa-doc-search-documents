@@ -1,0 +1,60 @@
+Classification: Top Secret ll COMINT ll X1
+
+1. No data packet has arrived for ten (10) minutes.
+2. No SA has arrived for ten (10) minutes.
+
+NEW OR CONTINUATION OF A TERMINATED SESSION
+
+(UIIFOUO) When an authenticated SA arrives, the packet selection criteria, as well as the
+FOGYNU LL Identification fields will be used to determine if the packet is new or existing
+collection. If new the IFASHIONCLEFT receptor will begin data packet collection. If it is
+redundant, the SA is ignored.
+
+(UIIFOUO) If the SA that arrives is in actuality for a session that has been terminated, the
+FASHIONCLEF receptor will be tasked to start data packet collection as if it was a new
+session. The inner portion of the CDR will rejoin these disjoint captures of the same
+session, by using the EXFIL_ID Meta—data tag and FOGYNULL identifiers, provided that
+no more than fifteen (15) minutes between termination of the last session and the start of
+the next session with the same EXFIL-ID from the implant.
+
+(UIIFOUO) To insure separate session are not inadvertently joined by the CDR, Implants
+should allow at least sixty (60) minutes, between the reuse of EXIL—ID values.
+
+ 
+
+SENDING DATA PACKETS TO SESSION ANNOUNCEMENT PORTS
+
+(UIIFOUO) To minimize testing every packet, for session announcements, being sent to
+the FASHIONCLEFT receptor, only certain destination ports will be monitored for session
+Announcements. These ports can be arbitrarily configured to address the needs of specific
+deployed implants. If an implant chooses, or is required to by conditions imposed by the
+target environment, it may send data packets to these ports as well. Packets that match a
+data packet selection criterion are not checked for session announcements. Therefore,
+implants that desire to send announcements to the same port as data packets, must
+choose packet selection criteria carefully.
+
+DUPLICATE DATA PACKETS
+
+(UIIFOUO) Implants that desire to send duplicate data packets are permitted, and may be
+desirable in some cases to insure that critical portions of the session are received by the
+FASHIOINCLEFT receptor. Duplicate data packets will occur as an artifact of packet
+sniffing by default. Data packets that are either duplicated by design or by coincidence
+generally will be removed by post processing during session reconstruction.
+
+SIMULTANEOUS EXFIL OF MULTIPLE SESSIONS
+
+(UIIIFOUO) Implants that desire to exfiltrate multiple disjoint sessions simultaneously, or
+even sessions back—to—back must utilize the EXFIL—ID in conjunction with the packet
+selection criteria. The EXFIL—ID is used to identify disjoint sessions, while a packet
+selection criterion is used to associate data packets to a particular session. Implants must
+choose both such that both are unique per session, and the above conditions are met.
+
+EARLY TERMINATION
+
+CLASSIFICATION: TOP SECRET ll COMINT ll X1 DRV FM: NSAICSSM 123-2
+Dated: 24 Feb 98
+DECLON:X1
+
+Last Saved 4/1 7/2013 09:00:00 PM
+FASHIONCLEFT_ProtocoI.doc Page 18 0f 26 Last Pmted 6/15/2009 02:15:00 PM
+

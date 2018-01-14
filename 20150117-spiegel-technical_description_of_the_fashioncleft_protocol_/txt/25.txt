@@ -1,0 +1,60 @@
+Classification: Top Secret ll COMINT fl X1
+
+- Bit 6: (<mask> & 0x40) if set, then allow destination ports to toggle between
+the two alternatives
+
+. Bit 7: (<mask> & 0x80) if set, then allow source ports to toggle between the two
+alternatives
+
+- <2—byte Protocol> — IP protocol field used if mask bit 0 is set
+
+- <4—byte Dsth> — destination IP address used if mask bit 1 is set
+
+- <4—byte Src|P1> — source IP address #1 used if mask bit 2 is set
+
+- <4—byte Src|P2> — source IP address #2 used if mask bits 2 & 5 are set
+
+- <2—byte DstPort1> — UDPITCP destination port #1 used if mask bit 3 is set
+
+- <2—byte DstPort2> — UDPITCP destination port #2 used if mask bits 3 & 6 are
+set
+
+. <2—byte SrcPort1> — UDP/TCP source port #1 used if mask bit 4 is set
+- <2—byte SrcPort2> — UDPITCP source port #2 used if mask bits 4 & 7 are set
+
+(SI/SI) While this method allows filtering on a particular 5—tuple (or subset), it's also
+intended to handle both sides of a TCP/UDP connection. Given that the destination IP
+address will typically be fixed (to be the fonivarding IP address), the only fields that can
+toggle are the source IP address, destination and source ports. This method allows any or
+all of those ﬁelds to toggle. When toggling checks are being done, only the corresponding
+toggling ﬁelds should be used, e.g. SrclP1, DstPort1, and SrcPortl would be three values
+of the 5—tuple (if all are being used and all are allowed to toggle) and SrcIP2, DstPort2, and
+SrcPort2 would be the three toggled values of the 5—tuple (if all are being used and all are
+allowed to toggle).
+
+3.2.3.1. (UIIFOUO) Example, |P4 Field Matching
+(SI/SI) As an example, suppose a connection for the following 5—tuple is being collected:
+TCP: 1.2.3.4/9 <—> 5.6.7.8/10
+
+[TCP protocol, IP address 1.2.3.4 using port 9 and IP address
+5.6.7.8 using port 10]
+
+(SI/SI) In addition, suppose the collection is to be fonrvarded to IP address A.B.C.D and all
+but the destination IP address of fonivarded packets to remain unchanged. Then the data
+field would be as follows:
+
+<1—byte length>: 23
+<1-byte mask>: OxFF
+<2—byte Protocol>: TCP
+<4—byte DstIP>: A.B.C.D
+<4—byte SrcIP1>: 1.2.3.4
+<4—byte SrcIP2>: 5.6.7.8
+
+<2—byte DstPort1>: 10
+<2—byte DstPort2>: 9
+
+CLASSIFICATION: TOP SECRET ll COM | NT ll X1 DRV FM: NSAICSSM 123-2
+Dated: 24 Feb 98
+DECL on: x1
+FASHIONCLEFT_Protocol.doc Page 23 5f 26 LZZISIPifi‘Eg 331132283 335533.? :3 If:
+
