@@ -1,0 +1,44 @@
+TOP SECRET//SI//NOFORN
+
+(U) NSA/CSS CLASSIFICATION GUIDE NUMBER: 2-48
+(U) PUBLICATION DATE:
+
+(U/lFOUO) PROJECT ACTIVITY NAME: Foreign Intelligence Surveillance Act/Protect
+America Act/FISA Amendments Act (FISA/PAA/FAA) Activities
+
+(U) OFFICE OF ORIGIN: SID Oversight & Compliance, SV
+(U/lFOUO) POC: Stephanie Schneider, Chief Oversight & Compliance
+(U) PHONE: 966-2479(s)
+
+(U//FOUO) CLASSIFIED BY: S, SIGINT Director, William M. Crumm
+(U) DECLASSIFICATION DATE: 25 Years*
+
+(U//FOUO) This guide provides classiﬁcation guidance for FISA/PAA/F AA. FISA
+governs the conduct of certain electronic surveillance activities within the United States and
+against US persons, regardless of location, and requires surveillances be authorized by the
+United States Foreign Intelligence Surveillance Court (USFISC), or in certain limited
+circumstances, by the Attorney General. PAA was an interim version of the FISA modernization
+legislation and allowed the DNI and the Attorney General to jointly authorize the acquisition of
+foreign intelligence information concerning persons reasonably believed to be outside the United
+States. FAA is the permanent FISA modernization legislation and is authorized by the USFISC.
+
+(TS//NF) FISA includes all NSA FISA (to include Business Records, Large Content &
+FAA) and FBI FISA (to include Pen Register Trap Trace).
+
+(U//FOUO) The phrases, “seeks or obtains F ISA authority” and “seeks or obtains PAA
+authority” used throughout this document include the fact that NSA collects/ processes/ analyzes/
+retains/ produces and then disseminates foreign intelligence information and data.
+
+(U//FOUO) Unless otherwise speciﬁed, classiﬁcation guidance which concern NSA
+FISA activities apply to all forms of NSA FISA, including FAA.
+
+(U//FOUO) Consult with the Ofﬁce of General Counsel or the SID Ofﬁce of Oversight
+and Compliance for guidance on when FISA or other special authorities are needed to conduct
+
+SIGINT activities.
+
+(U//FOUO) Note: Timetable for FISA/PAA/FAA: FISA, 1978 — present; PAA and
+Continuation, August 2007 — July 2008; FAA, July 2008 — present.
+
+TOP 3 EC REIV/S |//N O FORN
+
