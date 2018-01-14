@@ -1,0 +1,35 @@
+Attribute Definition
+. Name
+' Description
+' Type
+. Data sources
+
+Machine Attributes
+
+Defining Attributes
+
+s;-
+
+L
+l‘ I
+"~\)
+
+FTP 99m DNS Request a’
+
+Machine Communication I '
+
+Attributes I , \ \)
+HTTPS connection a
+
+Open port (25, 80, 443)
+
+I Server banner (Server: Apache)
+
+PSP ﬁngerprint (Kaspersky v7.01)
+
+‘0 XFF(192.168.2.1)
+Web Request (testexe, file.pdf)
+SNMP sysname
+
+ 
+
