@@ -1,0 +1,73 @@
+ 
+
+ 
+
+2. (51181481141333) Both of the Orders set out a standard that allows acCess to the
+data when NSA has identiﬁed a known telephone number or other electronic identiﬁer
+for which, based on the factual and practical considerations of everyday life on which
+reasonable and prudent persons act, there are facts giving rise to a reasonable articulable
+suspicion that the telephone number or electronic identiﬁer4 is associated withl
+
+ 
+ 
+   
+   
+
+5 provided, however, that a telephone number or an account or address
+0 Be used bv a U.S. person shall not be regarded as associated with-ﬂ
+
+—Isolely on the basis of activities that are protected by the First Amendment to
+the Constitution. When such a determination has been made, NSA is authorized by the
+Orders to use such numbers/electronic identiﬁers as “seed” addresses by querying the
+accumulated data to determine other telephone numbers or electronic identiﬁers the seed
+has contacted. '
+
+A. Summary of the Stande
+
+_ _ 3. (If—WW) The “reasonable articulable suspicion” standard embodied "in the
+Court’s Orders requires that before an analyst may use a telephone number or electronic
+_ identiﬁer as a “seed” address to query the database of records, he/she must be able to
+articulate some fact or set of facts that causes him/her to suspect that the nUmber is
+
+associated with
+
+This formulation means that analysts are not
+free to use a telephone number or electronic identiﬁer based merely on a hunch or guess,
+but must instead base their decisions on speciﬁc facts that would cause a reasonable
+person to form such a suspicion. I ' I
+
+4. €PS#SI#NF—) Note that the standard does not present a particularly high
+hurdle.6 The level of evidence demanded by the standard is considerably less than proof
+
+by a preponderance of the evidence, meaning re one need not show it is more
+lilcely than not that a number is associated with|
+
+4 (T SUSFWH The term electronic identiﬁer is intended to include not only email addresses, but also
+similar routing and addressing information that effects delivery of electronic communications.
+
+ 
+
+phrase “associated terrorist organization” connotes a particular list of
+
+5 (T—S//SI//'NF) The
+' irect r f National Intelligence (DNI) to have allied themselves withI
+
+   
+ 
+
+ 
+
+The speciﬁc list is included in the FISC orders.
+
+6 (U/IFO'UO) The reasonable articulable suspicion stande comes ﬁ'om the law enforcement context and
+therefore the cases addressing it focus on actions of police ofﬁcers. See Terry v. Ohio, 392 U.S. 1 (1968).
+The idea underpinning the standard is that the police may stop and brieﬂy detain someone for investigative
+purposes if the ofﬁcer involved has a reasonable suspicion supported by articulable'facts that criminal
+activity “may be afoot,” even where the ofﬁcerlaclcs probable cause to believe that this is so. See U.S. v.
+Sokolow, 490 US. 1, 7 (1989). The ofﬁcer must be able to articulate something more than an “inchoate' '
+and unparticularized suspicion or ‘hunch.’ ” Terry at 27. Rather, the stande demands some “minimal
+level of objective justiﬁcation” for making the stop in question. INS v. Delgado, 466 U.S. 210, 217 (1984).
+
+TGP—S—EGRELFI-lGOM—INIH/NQFQRN—
+2
+

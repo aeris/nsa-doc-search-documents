@@ -1,0 +1,47 @@
+TQHEGIWGGWWNGFGRNWR
+
+accessed, the user’s login, IP address, date and time, and retrieval request shall be
+automatically logged for auditing capability.
+
+All queries must have pry approval of one of the following:
+
+a) SID Program Manager for Counterterrorism Special Projects
+
+b) Chief, Homeland Security Analysis Center
+
+c) Deputy Chief, Homeland Security Analysis Center
+
+d) Homeland Mission Coordinator
+The above individuals must establish management controls for access to the data.
+Automatic log must be generated for each occasion when the.info is accessed.
+
+Log must contain: a) user login, b) user IP address, 0) date and time, d) retrieval
+request.
+
+Manner of Accessing Data
+NSA is permitted to perform two sorts of queries: 1) contact chaining to a third
+tier of contacts, and 2) '-
+
+Storage
+
+Metadata must be stored and processed on a secure private network that NSA
+exclusively will operate.
+
+Metadata received under this Order may be kept online for 5 years and then
+destroyed.
+
+Training & Oversight
+
+OGC must train analysts concerning the authorization and querying standard, as
+well as other procedures and restrictions regarding the retrieval, storage, and
+dissemination of the archived data.
+
+OGC must monitor the designation of individuals with access to the data and the
+functioning of the automatic logging/auditing.
+
+OGC must conduct two random spot checks during the authorization period to
+ensure that NSA is receiving only data as authorized by the Court and not
+receiving the substantive content of communications.
+
+ 
+
