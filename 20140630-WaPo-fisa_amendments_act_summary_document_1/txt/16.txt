@@ -1,0 +1,57 @@
+TOP SECRET/lCOMINT/lNOFORN/I20320108
+
+FAA Certification 2009-A - Foreign Governments
+
+ 
+
+ 
+
+(Targeting Directed at Foreign Governments and Similar Entities)
+
+ 
+
+ 
+
+Changes from 2008—A:
+
+Exhibit F is updated
+
+New method to update
+Exhibit F target list
+
+Some notifications are
+changed from
+
+“7 days” to
+
+“5 business days”
+
+This certification replaced certiﬁcation 2008-A. The list of
+governments/entities in Exhibit F is slightly different from
+that which was included in the 2008 version. As always, if
+an analyst wants to target a selector pursuant to this
+certification, he should make sure that the targeting concerns
+a listed entity. NSA may modify the list by notiﬁcation to
+the Attorney General and Director of National Intelligence
+within 5 business days of implementing collection directed at
+an entity that does not appear on the list, but that is not a
+decision that can be made by an individual analyst.
+Questions about modifying the list should be addressed to the
+OGC.
+
+The only other somewhat significant difference between
+2008-A and 2009-A is a change in the calculation of some
+requirements for notiﬁcation. In 2008-A, NSA was required
+to notify the AG and DNI of additions to the list in Exhibit F
+within “7 days”. NSA was also required to inform DO] and
+the ODNI of certain incidents of noncompliance with the
+targeting procedures as well as inadvertent targeting of
+persons located inside the US within “7 days.” All of these
+requirements have been changed to “5 business days” in
+2009-A to ensure consistent calculation of the timeframes for
+notiﬁcation.
+
+TOP SECRET/lCOMINT/lNOFORN/l20320108 l6
+
+ 
+

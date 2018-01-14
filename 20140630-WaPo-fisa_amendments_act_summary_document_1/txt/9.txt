@@ -1,0 +1,96 @@
+3. Minimization Procedures
+
+TOP SECRET/lCOMINT/lNOFORN/l20320108
+
+cont’ (1
+2008-A Exhibit B
+
+C.
+
+ii.
+
+iii.
+
+ii.
+
+Section 3 -
+Acquisition
+
+Inadvertent
+communications
+retained 5 yrs
+
+No US person
+names in
+
+querying
+
+Stop targeting of
+US location or
+US status is
+identified
+
+Section 4 —
+Attorney- Client
+
+Section 5 —
+Domestic
+Communications
+
+Normally
+Destroy
+Waiver if:
+
+1. foreign
+intelligence
+
+TOP SECRET/lCOMINT/lNOFORN/l20320108
+
+falls within the deﬁnition of “US person.” The same is true for
+“foreign communication” and similar terms.
+
+Section 3 — Acquisition and processing
+
+Highlights of section 3, which addresses acquisition and
+processing in general, include the following:
+
+- inadvertently acquired communications of or
+concerning US persons can be retained no
+longer than 5 years (unless the Signals
+Intelligence Director authorizes a longer
+retention period in accordance with Section 5)
+
+- computer selection terms used for scanning
+collected data to identify communications for
+analysis shall not include US person names or
+identiﬁers
+
+- if NSA is targeting someone in the reasonable
+belief that he is a non-US person outside the
+United States and subsequently learns that
+either of these beliefs is incorrect, it must
+terminate the targeting without delay. Any
+communications collected through such
+targeting, prior to the determination that the
+person’s status or location was incorrect, must
+be handled in accordance with the procedures
+governing “domestic communications”,
+discussed in Section 5)
+
+Section 4 — Attorney-Client communications
+Section 4 states that privileged attorney-client communications
+must be handled with particular care. Any proposed
+dissemination of information from privileged attomey-client
+communications must be reviewed by the NSA OGC
+
+Section 5 — Domestic communications
+Section 5 governs the handling of domestic communications.
+Generally, domestic communications shall be promptly
+destroyed. However, DIRNSA can authorize an exception to
+this requirement if he determines, in writing, that the
+communications in question fall within one of 4 specified
+categories:
+- domestic communications reasonably
+believed to contain signiﬁcant foreign
+intelligence shall be disseminated to the FBI,
+

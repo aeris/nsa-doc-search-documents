@@ -1,0 +1,104 @@
+I. Introduction to
+FAA section 702
+
+l.
+
+Compel Providers
+
+a. Non—US persons
+
+b. Outside the United
+States
+
+C. FAA 702 2 an
+exception
+
+2. Court Orders
+
+a. FISA section Fl—F4
+did not change
+
+b. Non—US persons &
+persons inside the
+United States need a
+FISC order
+
+c. FISC orders need a
+probable cause case.
+
+3. FAA 702 — for:
+
+a. fast targeting and
+
+b. a high volume of
+targets
+
+4. The means:
+
+a. AG/DNI
+certifications (certs)
+approved by FISC
+
+b. Directives to
+providers
+
+5. Certs
+a. DNI & AG approve
+
+b. At NSA — DIRNSA
+
+approves
+
+TOP SECRET/lCOMINT/lNOFORN/I20320108
+
+Introduction to FAA section 702
+
+Compel Providers
+
+As described in the brieﬁng accompanying this training, in July 2008,
+Congress enacted the “Foreign Intelligence Surveillance Act of 1978
+Amendments Act of 2008” (FAA.) One of the primary purposes in
+enacting the FAA was the creation of a new way for the US
+Government to compel providers of electronic communications
+services to assist the Government in acquiring foreign intelligence
+information concerning non-US persons located outside the United
+States. This process is described in Section 702 of FAA. Almost all of
+the 1978 law remained intact, and Section 702 of FAA is best
+understood as an exception to FISA for such targets.
+
+FISC orders for US persons or persons located
+inside the United States
+
+The definitions of “electronic surveillance” in FISA were not changed,
+so any collection that uses methods that fall within them and is directed
+at anyone inside the United States or at US persons abroad still requires
+a court order. The Government must give the court probable cause to
+believe that each target is a foreign power or agent of a foreign power
+before the court will issue an order compelling a communications
+service provider to assist with the targeting.
+
+Time sensitive targets and high volume of targets
+
+Under section 702 of FAA, however, the Government may compel the
+same type of assistance in a way that is much more time-sensitive and
+more suitable for collection directed at a higher volume of targets.
+
+The means used:
+
+The means used by the Government to compel this assistance is in the
+form of “certifications” issued jointly by the Attorney General and the
+Director of National Intelligence that are approved by the Foreign
+Intelligence Surveillance Court (FISC) and “directives” to the
+providers ordering them to assist the government.
+
+Certification details
+
+In a “certification”, the DN1 and AG certify that specific requirements
+of the law have been met, and describe how this has been done. When
+the collection is being done by NSA, DIRNSA also makes
+representations to support the certification. If the court determines that
+the statutory requirements for a certification have been met, it issues an
+order to this effect, and the collection may begin.
+
+TOP SECRET/lCOMINT/lNOFORN/l20320108 3
+

@@ -1,0 +1,89 @@
+2. Targeting Procedures
+cont ’d
+
+b.
+
+ii.
+
+C.
+
+d.
+
+i.
+
+ii.
+
+2008-A Exhibit A
+
+Part II —Location
+change detection
+
+Detect if a target
+enters the United
+States
+
+Or if the target is
+a US person
+
+Part III — identify the
+foreign power
+
+Part IV — Oversight
+
+O&C/OGC
+
+DOJ/ODNI
+
+TOP SECRET/lCOMINT/lNOFORN/l20320108
+
+TOP SECRET/lCOMINT/lNOFORN/l20320108
+
+section are intuitive to NSA analysts, and include information that
+indicates the target has communicated with someone associated with
+a foreign power or territory, information in public directories that link
+a phone number to someone associated with a foreign power or
+foreign territory.
+
+Part 2 — Detecting target location or status changes
+
+Part 2 describes steps that will be taken by NSA after targeting has
+begun to ensure that it detects when a target has entered the United
+States, despite a reasonable belief to the contrary when targeting was
+initiated. These steps are designed to prevent NSA from collecting
+domestic communications as well as any targeting of persons who are
+inside the United States. NSA looks at registers of roaming cell
+phones, IP addresses of Internet communications and similar
+technical information, but in many cases, it will be the content of a
+communication that indicates that a target has entered the United
+States. If NSA determines that a target has entered the United States
+or that a target thought to be a non-US person is in fact a US person,
+it must terminate collection without delay and take additional steps
+described in Part 4 below.
+
+Part 3 — Identifying the foreign power
+
+Part 3 states that before collection can begin, analysts must document
+one or more citations to the information that led them to believe that a
+target was located outside the United States. They must also identify
+the foreign power or foreign territory about which they expect to
+obtain foreign intelligence so that people conducting oversight of
+NSA’s collection can see how the Agency is meeting the
+requirements established by the AG and DNI in their certification.
+
+Part 4 — Oversight and reporting
+
+Part 4 describes oversight and compliance responsibilities associated
+with collection done pursuant to Certiﬁcation 2008-A. The SID
+office of Oversight and Compliance (O&C), together with the OGC,
+is required to develop training on the rules associated with FAA
+collection. O&C must also ensure that raw trafﬁc from FAA
+collection is labeled and stored only in authorized repositories and
+accessible only to those who have had such training. O&C is also
+required to conduct periodic spot checks to ensure that NSA is
+meeting its responsibilities with regard to targeting, dissemination
+and other activities associated with FAA collection.
+
+The Department of Justice (DOJ) and the Office of the Director of
+National Intelligence (ODNI) also conduct independent oversight of
+NSA’s activities, with reviews at least once every 60 days.
+

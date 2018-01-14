@@ -1,0 +1,99 @@
+TOP SECRET/lCOMINT/lNOFORN/l20320108
+
+3. Minimization Procedures
+
+cont’ (1
+
+2008-A Exhibit B
+ii. Waiver if: cont’d
+
+iii.
+
+f.
+
+ii.
+
+2. Evidence of
+a crime
+
+3. Technical
+database
+information
+
+4. Threat of
+serious
+harm to life
+or property
+
+The ordinary
+storage limit of
+raw data is 5
+years
+
+Section 6 - Foreign
+communications of
+US persons
+
+The ordinary
+storage limit of
+raw data is 5
+years
+
+Ordinarily mask
+US person
+identities
+
+for possible further dissemination in
+accordance with its minimization
+procedures
+
+- domestic communications that do not
+contain foreign intelligence information but
+are reasonably believed to contain evidence
+of a crime may be referred to the NSA
+OGC for possible further dissemination in
+accordance with procedures established
+within the Executive Branch
+
+- domestic communications that do not
+contain foreign intelligence or evidence of
+a crime, but contain technical database
+information or information necessary to
+understand or assess a communications
+security vulnerability may be disseminated
+to the FBI and other elements of the US
+Government
+
+- the communication contains information
+pertaining to a threat of serious harm to life
+
+or property
+
+Section 5 also states that ordinarily the maximum amount of
+time that unencrypted domestic communications may be
+retained in technical databases is 5 years, unless the Signals
+Intelligence Director determines in writing that retention for a
+longer period is required to respond to authorized foreign
+intelligence requirements. Notwithstanding any of these
+limitations, if a domestic communication indicates that a
+target has entered the United States, NSA may advise the FBI
+of that fact.
+
+Section 6 — Foreign communications of US
+persons
+
+Section 6 governs the handling of foreign communications of
+or concerning US persons. Unencrypted foreign
+communications can be retained for up to 5 years, while they
+are being evaluated, unless the Signals Intelligence Director
+determines in writing that a longer retention period is
+required. They can also be retained if dissemination of the
+communications would be permissible with the US person
+information included or if they contain evidence of a crime.
+
+Ordinarily, reports based on foreign communications of or
+concerning US persons are supposed to be disseminated in a
+manner that masks the US person identities. However, US
+
+TOP SECRET/lCOMINT/lNOFORN/l20320108 10
+

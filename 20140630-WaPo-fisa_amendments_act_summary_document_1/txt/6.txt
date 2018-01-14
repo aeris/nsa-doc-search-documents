@@ -1,0 +1,79 @@
+2. Targeting Procedures
+(Exhibit A)
+2008—A Exhibit A
+
+a. Part I — Location
+i. Located outside of
+the United States
+ii. Totality of
+circumstances
+
+1. Lead information
+
+2. Seeking info
+“about” a target
+— requires filters
+
+3. Presumption of
+status based on
+location
+
+4. Target possesses
+and is likely to
+communicate
+foreign
+intelligence
+
+ 
+
+TOP SECRET/lCOMINT/lNOFORN/I20320108
+
+Targeting Procedures (Exhibit A)
+
+These procedures address one of the central requirements of the FAA:
+determination that the targeting is limited to non-United States
+persons outside the United States. It does so in four parts.
+
+Part 1 — Location
+
+Part 1 discusses how NSA will make a determination that a person
+being targeted is located outside the United States. It notes that the
+determination is made in light of the totality of the circumstances.
+
+NSA analysts look at lead information they have received on the
+target; they conduct research in NSA databases available reports and
+collateral information, and they conduct technical analyses of the
+email addresses or other facilities to be targeted. They can use
+information from any one or a combination of these categories of
+information to determine that the potential target is outside the United
+States. Part 1 addresses each of these categories in greater detail,
+with examples of how they are applied to targeting of phone numbers
+and email addresses.
+
+It also notes that when NSA is seeking to acquire communications
+about the target that are not to or from the target, it will employ IP
+ﬁlters or similar technology to ensure that the collection is directed at
+a party to communications reasonably believed to be outside the
+United States.
+
+Part 1 also provides similar guidance on assessment of a potential
+target’s status as a non-US person. It notes that information on a
+potential target’s location is frequently useful in determining his
+status as well. It notes that in the absence of specific information
+regarding a potential target’s status, if a person is reasonably believed
+to be located outside the United States, he will also be presumed to be
+a non-US person, unless/until he can be positively identified as a US
+person or the nature or circumstances of his communication give rise
+to a reasonable belief to the contrary.
+
+Because one of the things certified by the AG and DNI is that the
+purpose of the collection is to gather foreign intelligence, part 1 also
+addresses how NSA will assess whether the target possesses and/or is
+likely to communicate information of foreign intelligence value
+concerning a foreign power or foreign territory. NSA can not target
+someone merely because he is located outside the US; there has to be
+some reason to believe that the targeting will acquire foreign
+intelligence. This requirement, and most of the factors listed in this
+
+TOP SECRET/lCOMINT/lNOFORN/l20320108 6
+

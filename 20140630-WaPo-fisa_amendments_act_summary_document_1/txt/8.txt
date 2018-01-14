@@ -1,0 +1,72 @@
+TOP SECRET/lCOMINT/lNOFORN/l20320108
+
+2. Targeting Procedures
+cont’d - 2008-A Exhibit A
+
+iii. Reporting incidents
+to ODNI CLPO, DO], and
+ODNI OJ C for:
+
+1. Intentional
+violations
+
+2. Mistakes
+
+3. Minimization
+Procedures (Exhibit B)
+2008-A Exhibit B
+
+a. Govern info
+concerning US
+persons obtained
+while targeting non-
+US persons
+
+b. Definitions
+
+TOP SECRET/lCOMINT/lNOFORN/l20320108
+
+NSA must report to DO], the ODNI Ofﬁce of General Counsel and
+the to the ODNI Civil Liberties Protection Ofﬁcer, any incidents of
+noncompliance with targeting procedures that result in intentional
+targeting of persons reasonably believe to be located in the United
+States or the intentional acquisition of domestic communications.
+These reports must be made within 5 days of NSA learning of the
+incident. Any information acquired by intentionally targeting a US
+person or a person nor reasonably believed to be outside the United
+States at the time of targeting has to be purged from NSA
+databases.
+
+Part 4 also repeats the requirement that if NSA targets someone in
+the reasonable belief that he is a non-United States person outside
+the United States and later finds out that the target is inside the
+United States or is in fact a US person (no matter where he is
+located), it must cease the targeting without delay. Any
+information gathered prior to determining that the target was a US
+person or located inside the United States has to be handled in
+accordance with the relevant minimization procedures (Exhibit B,
+discussed below.) In addition, NSA must report the incident to
+DO], the ODNI Office of General Counsel and the ODNI Civil
+Liberties Ofﬁcer within 5 days.
+
+Minimization Procedures (Exhibit B)
+
+The minimization procedures for Certification 2008-A are modeled
+on NSA’s Standard Minimization Procedures (Annex A to USSID
+18), but contain some signiﬁcant differences. It is important to
+keep in mind that they govern the
+processing/retention/dissemination of information concerning US
+persons that is collected in the course of targeting non-United
+States persons reasonably believed to be outside the United States.
+Any restrictions on the handling of data that does not concern US
+persons come from another source (e. g., concerns about the
+potential risk to sources and methods.) All of the requirements in
+the procedures will not be repeated verbatim here, but NSA
+personnel working with FAA data should review their terms
+closely.
+
+The definitions section is the ﬁrst substantive portion of the
+procedures and should be reviewed carefully for obvious reasons.
+Restrictions on the handling of information concerning “US
+persons” can not be properly applied unless one understands what
+

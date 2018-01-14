@@ -1,0 +1,76 @@
+TOP SECRET/lCOMINT/lNOFORN/l20320108
+
+3. Minimization Procedures
+cont ’d
+2008-A Exhibit B
+
+g. Section 7 - Foreign
+communications of
+non-US persons
+
+h. Section 8 — FAA
+and collaboration
+
+1. This is not
+sharing reports
+
+2. NSA can share
+raw data with
+Second Party
+partners
+
+3. NSA may not
+share Domestic
+Communications
+and ordinarily
+minimize data
+
+4. Encrypted
+communications
+may be shared
+unminimized
+with limitations
+
+person identity information may be disseminated to
+recipients requiring it for the performance of their official
+duties if the identity is necessary to understand or assess
+foreign intelligence information or otherwise fits within the
+criteria outlined in Section 6 (b).
+
+Section 7 — Foreign communications of Non-
+US persons
+
+Section 7 states that information from foreign
+communications concerning non-United States persons can
+be disseminated in accordance with NSA’s normal rules for
+handling intercept.
+
+Section 8 — FAA and collaboration with other
+governments
+
+Section 8 provides the rules for handling information
+collected pursuant to Section 702 of FAA in the context of
+collaboration with foreign governments. It is distinct from
+the dissemination of reporting to foreign governments,
+which is governed by Section 6. NSA can share or
+exchange foreign communications with the governments of
+Australia, Canada, the United Kingdom and New Zealand,
+but only with their written assurance that they will use the
+communications subject to the limits on retention and
+dissemination within the procedures. Domestic
+communications may not be shared with them, and
+ordinarily, NSA analysts must remove US person identifiers
+that are not necessary to understand or assess the foreign
+intelligence contained within foreign plain text
+communications.
+
+Encrypted communications may also be shared, as may
+communications for which the Second Parties’ linguistic or
+technical assistance is required. However, there are
+significant limitations on what the Second Parties can do
+with such unevaluated communications and NSA has
+additional responsibilities with regard to ensuring that the
+material is handled properly.
+
+TOP SECRET/lCOMINT/lNOFORN/l20320108 ll
+

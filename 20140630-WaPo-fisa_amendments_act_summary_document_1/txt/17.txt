@@ -1,0 +1,56 @@
+TOP SECRET/lCOMINT/lNOFORN/I20320108
+
+FAA Certification 2009—B - Counterterrorism
+
+ 
+
+ 
+
+(Targeting Directed at Foreign Terrorist Groups)
+
+ 
+
+Changes from 2008—B:
+
+Exhibit F is updated
+
+New method to update
+Exhibit F target list
+
+Some notifications are
+changed from
+
+“7 days” to
+
+“5 business days”
+
+This certification replaced certiﬁcation 2008-B. The list of
+terrorist groups in Exhibit F is slightly different from that
+which was included in the 2008 version. As always, if an
+analyst wants to target a selector pursuant to this
+certification, he should make sure that the targeting
+concerns a listed terrorist group. NSA may modify the list
+by notiﬁcation to the Attorney General and Director of
+National Intelligence within 5 business days of
+implementing collection directed at a group that does not
+appear on the list, but that is not a decision that can be made
+by an individual analyst. Questions about modifying the list
+should be addressed to the OGC.
+
+The only other somewhat significant difference between
+2008-B and 2009-B is a change in the calculation of some
+requirements for notiﬁcation which mirrors the change
+made in 2009-A (discussed above). In 2008-B, NSA was
+required to notify the AG and DNI of additions to the list in
+Exhibit F within “7 days”. NSA was also required to
+inform DOJ and the ODNI of certain incidents of
+noncompliance with the targeting procedures as well as
+inadvertent targeting of persons located inside the US
+within “7 days.” All of these requirements have been
+changed to “5 business days” in 2009-B to ensure consistent
+calculation of the timeframes for notification.
+
+TOP SECRET/lCOMINT/lNOFORN/l20320108 l7
+
+ 
+

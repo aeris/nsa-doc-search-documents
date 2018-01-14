@@ -1,0 +1,104 @@
+ 
+
+I. Introduction to FAA
+section 702 cont’d
+
+c. Individual certs
+have unique
+handling rules.
+
+d. AG/DNI have
+issued topical certs
+
+i. 2008—A 2 Foreign
+Gov’t (FG)
+
+ii. 2008—B =
+Counterterrorism
+(CT)
+
+6. Analysts concern:
+
+a. Authorized targets
+(Exhibit F)
+
+b. Foreignness
+procedures
+(Exhibit A)
+
+c. Minimization
+procedures
+(Exhibit B)
+
+d. Trained to know
+when a target fits
+the cert
+
+TOP SECRET/lCOMINT/lNOFORN/l20320108
+
+For this reason, NSA personnel who are going to be involved in the
+collection, processing or dissemination of data gathered pursuant to
+Section 702 of FAA must understand the requirements and
+responsibilities associated with a certification to ensure they are acting
+in accordance with the representations made to the FISC by the DN1,
+AG and DIRNSA. In other words, the various parts of a certification lay
+out the rules of the road for collection and handling of data pursuant to
+FAA, and this training is designed to assist you in becoming familiar
+with their terms. (A certiﬁcation may also contain representations made
+by other federal agencies that assist in the collection and/or are
+authorized to receive the proceeds of what NSA is collecting pursuant to
+FAA. Their terms are only of peripheral interest to most NSA personnel,
+so they will not be discussed in great detail.)
+
+Although Section 702 of the FAA provides a framework of requirements
+for issuance of a certification, it does not say how that framework must
+be used. To date, the AG and DNI have issued certiﬁcations that are
+topically based: a certification that authorizes targeting directed at
+foreign governments, factions, entities and foreign based political
+organizations (Certification 2008-A) and a certification that authorizes
+targeting directed at groups engaged in international terrorism or
+activities in preparation therefore (Certification 2008-B). Each will be
+
+ 
+
+discussed in turn. _ _ _ _
+Smce thls Video was recorded 1n December 2008, a FAA
+
+Certiﬁcation 2009-C — WMD/Proliferation certiﬁcation
+has been approved. Refer to pg. 14 of this document.
+
+Day to day Analysts’
+
+ 
+
+ 
+
+ 
+
+attention
+
+As described in the brieﬁng, on a day-to-day basis, most analysts will
+need to be particularly concerned with:
+
+- the portions of the certifications that describe which
+foreign intelligence targets have been authorized for
+collection in general terms by the Attorney General
+and DNI (typically, “Exhibit F” to a certification),
+
+- the procedures for determining that there is a
+reasonable belief that a particular target is a non-US
+person located outside the United States (typically
+“Exhibit A” to a certification) and
+
+- the minimization procedures that govern handling of
+US person (USP) information acquired in the course
+of collection directed at non-US persons reasonably
+believed to be located outside the US who ﬁt within
+the terms of the authorization (typically “Exhibit B”
+to a certiﬁcation.)
+
+Thus, at the end of this training, NSA personnel should know how to
+ﬁnd out whether a proposed target ﬁts within the terms of a certiﬁcation,
+
+TOP SECRET/lCOMINT/lNOFORN/l20320108 4
+
