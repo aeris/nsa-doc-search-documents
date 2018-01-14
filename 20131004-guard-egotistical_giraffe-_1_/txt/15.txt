@@ -1,0 +1,13 @@
+O (U) EGOTISTICALGOAT
+
+. (TS/lSI/IREL) Type confusion vulnerability in
+E4X
+
+- (TS/lSll/REL) Enables arbitrary read/write
+access to the process memory
+
+- (TS/lSI/IREL) Remote code execution via the
+CTypes module
+
+ 
+

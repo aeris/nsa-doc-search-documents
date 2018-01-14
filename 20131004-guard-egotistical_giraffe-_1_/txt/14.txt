@@ -1,0 +1,15 @@
+. (TS/lSI/IREL)ExploitingTOR
+
+' (TS/lSl/lREL) ERRONEOUSINGENUITY
+
+U Commonly known as ERIN
+0 First native Firefox exploit in a long time
+a Only works against 13.0-16.0.2
+
+I (TS/lSl/IREL) EGOTISTICALGOAT
+U Commonly known as EGGO
+D Configured for 11.0-16.o.2...
+...but the vulnerability also exists in 10.0!
+
+ 
+
