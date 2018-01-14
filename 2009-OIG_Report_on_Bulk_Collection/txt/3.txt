@@ -1,0 +1,54 @@
+W Report on the National Security Agency’s Bulk Collection Programs
+Affected by USA PATRIOT Act Reauthorization
+
+(U) THE INFORMATION CONTAINED IN THIS REPORT DESCRIBES SOME OF
+THE MOST SENSITIVE FOREIGN INTELLIGENCE COLLECTION PROGRAMS
+CONDUCTED BY THE UNITED STATES GOVERNMENT. THIS INFORMATION IS
+HIGHLY CLASSIFIED AND ONLY A LIMITED NUMBER OF EXECUTIVE BRANCH
+OFFICIALS HAVE ACCESS TO IT. PUBLICLY DISCLOSING ANY OF THIS
+INFORMATION WOULD BE EXPECTED TO CAUSE EXCEPTIONALLY GRAVE
+DAMAGE TO OUR NATION’S INTELLIGENCE CAPABILITIES AND TO NATIONAL
+SECURITY. THEREFORE IT IS IMPERATIVE THAT ALL WHO HAVE ACCESS TO THIS
+DOCUMENT ABIDE BY THEIR OBLIGATION NOT TO DISCLOSE THIS INFORMATION
+TO ANY PERSON UNAUTHORIZED TO RECEIVE IT.
+
+Key Points
+
+0 WProvisions of the USA PATRIOT Act affected by reauthorization legislation
+support two sensitive intelligence collection programs;
+
+0 {Tm-These programs are authorized to collect in bulk certain dialing, routing,
+addressing and signaling information about telephone calls and electronic
+communications, such as the telephone numbers or e-mail addresses that were
+communicating and the times and dates but not the content of the calls or e-mail
+messages themselves;
+
+0 WAlthough the programs collect a large amount of information, the vast
+majority of that information is never reviewed by anyone in the government, because the
+information is not responsive to the limited queries that are authorized for intelligence
+purposes;
+
+0 {PM The programs are subject to an extensive regime of internal checks,
+particularly for US. persons, and are monitored by the Foreign Intelligence Surveillance
+Court (“FISA Court”) and Congress;
+
+WTbe Executive Branch, including DOJ, ODNI, and NSA, takes any
+
+compliance problems in the programs ve seriousl and substantial ro ess has been
+made in addressin those roblems.
+
+     
+ 
+
+0 WSW NSA’s bulk collection programs provide important tools in the ﬁght against
+terrorism, especially in identifying terrorist plots against the homeland. These tools are
+also unique in that they can produce intelligence not otherwise available to NSA.
+
+MASSistant Attorney GeneraLN-Sﬁ/
+
+Reason: .
+Declassify on: 11
+
+      
+ 
+

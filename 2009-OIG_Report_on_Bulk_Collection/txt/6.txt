@@ -1,0 +1,59 @@
+Checks and Balances
+
+FISA Court Oversight
+
+-(-T-S+/-S-lv’-FNF-)- To conduct these bulk collection programs, the government has obtained
+orders from several different FISA Court judges based on legal standards set forth in Section 215
+and the FISA pen-trap provision. Before obtaining any information from a telecommunication
+service provider, the government must establish, and the FISA Court must conclude, that the
+information is relevant to an authorized investigation. In addition, the government must comply
+with detailed “minimization procedures” required by the F ISA Court that govern the retention
+and dissemination of the information obtained. Before an NSA analyst may query bulk records,
+they must have reasonable articulable suspicion — referred to as “RAS” — that the number or e-
+mail address the submit is associated with
+
+   
+ 
+ 
+ 
+ 
+ 
+
+The
+RAS requirement is designed to protect against the indiscriminate querying of the collected data
+so that onl information ertaining to one of the foreign powers listed in the relevant Court order
+— lS prov1!e§ to !!! personnel !or lurtEer mteiilgence analysrs. i lere are also
+limits on how long the collected data can be retained (5 years in the Section 215 program, and
+4V2 years in the pen-trap program).
+
+ 
+
+Congressional Oversight
+
+(U) These programs have been briefed to the Intelligence and Judiciary Committees, to
+include hearings, brieﬁngs, and, with respect to the Intelligence Committees, visits to NSA. In
+addition, the Intelligence Committees have been fully briefed on the compliance issues discussed
+below.
+
+Compliance Issues
+
+WThere have been a number of technical compliance problems and human
+implementation errors in these two bulk collection programs, discovered as a result of
+Department of Justice reviews and internal NSA oversight. However, neither the Department,
+NSA nor the FISA Court has found any intentional or bad—faith violations. The problems
+generally involved the implementation of highly sophisticated technology in a complex and ever-
+changing communications environment which, in some instances, resulted in the automated tools
+operating in a manner that was not completely consistent with the speciﬁc terms of the Court’s
+orders. In accordance with the Court’s rules, upon discovery, these inconsistencies were
+reported as compliance incidents to the FISA Court, which ordered appropriate remedial action.
+The incidents, and the Court’s responses, were also reported to the Intelligence Committees in
+great detail. The Committees, the Court and the Executive Branch have responded actively to
+the incidents. The Court has imposed additional safeguards. In response to compliance
+problems, the Director of NSA also ordered “end-to-cnd” reviews of the Section 215 and pen-
+trap collection programs, and created a new position, the Director of Compliance, to help ensure
+the integrity of future collection. In early September of 2009, the Director of NSA made a
+presentation to the FISA Court about the steps taken to address the compliance issues. All
+
+4
+W
+
