@@ -1,0 +1,22 @@
+(U) MHS Leverages XKS for QUANTUM Against Yahoo and Hotmail
+
+(TSHSIHREL) MHS Leverages XKEYSCORE Deep—Dive Packet Analysis to Identify Feasibility of QUANTUM Against Yahoo and Hotmail
+(TSHSIHREL) Automated deep packet analysis onahoo and Hotmail providers gives keen insight into the potential success ofOUANTUMTHEORY exploitation against these services.
+
+(TSHSIHREL) OUANTUMTHEORY is a set of CNO man-on-the-side capabilities that involves real-time packet inject in response to passive collection oftarget communications. OUANTUMTHEORY
+inspects each packet. one at a time. for a set of keywords that determine if the packet originated from a CNE target and ifa modiﬁed response to that packet might result in exploitation of the client
+computer. Because each packet is inspected individually. if keywords occur across packet boundaries the OUANTUMTHEORY technique will not tip the SIGINT system to attempt exploitation of a
+client. As HTTP headers and the size of cookies grows. the likelihood of all keywords occurring within a single packet reduces. MHS analysts. in collaboration with XKEYSCORE and the ROC,
+productized DRAGGABLEKITTEN. an XKEYSCORE Mapreduce analytic that leverages the packets collected and made accessible to analytics by XKEYSCORE DEEPDIVE systems.
+DRAGGABLEKITTEN identiﬁes the OUANTUMTHEORY keywords in a packet capture and generates statistics for each service (currently Hotmail and Yahoo] to determine how often a|| ofthe
+keywords occur within a single packet. This would not have been possible without XKEYSCORE providing a platform for analysis to mass-deploy packet-level processing. Approximately 50% of
+
+Hotmail and 90% onahoo sessions contain thmvwords necessary within a sinole packet to be taroeted bv QUANTUMTHEORY
+Collaboration: (UHFOUO_Access Operations Division. TAOIROCZW-XKEYSCORE. R1
+
+POC: (UHFOUO) —l|NDEX Division, MHS
+
+ 
+
+ 
+
