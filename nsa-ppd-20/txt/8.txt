@@ -1,0 +1,61 @@
+TOP SECRET/NOFORN 8
+
+Additional Considerations for DCEO (U)
+
+The Nation requires flexible and agile capabilities that
+
+leverage the full resources of the United States Government to
+
+conduct necessary and proportionate DCEO. These operations
+
+shall conform to the following additional policy principles:
+The United States Government shall reserve use of DCEO to
+protect U.S. national interests in circumstances when network
+defense or law enforcement measures are insufficient or cannot
+be put in place in time to mitigate a threat, and when other
+previously approved measures would not be more appropriate, or
+if a Deputies or Principals Committee review determines that
+proposed DCEO provides an advantageous degree of
+effectiveness, timeliness, or efficiency compared to other
+methods commensurate with the risks;
+
+The United States Government shall conduct DCEO with the least
+intrusive methods feasible to mitigate a threat;
+
+The United States Government shall seek partnerships with
+industry, other levels of government as appropriate, and other
+nations and organizations to promote cooperative defensive
+capabilities, including, as appropriate, through the use of
+DCEO as governed by the provisions in this directive; and
+
+ 
+
+Partnerships with industry and other levels of government for
+the protection of critical infrastructure shall be coordinated
+with the Department of Homeland Security (DHS), working with
+relevant sector-specific agencies and, as appropriate, the
+Department of Commerce (DOC). (S/NF)
+
+The United States recognizes that network defense, design, and
+management cannot mitigate all possible malicious cyber activity
+and reserves the right, consistent with applicable law, to
+protect itself from malicious cyber activity that threatens U.S.
+national interests. (S/NF)
+The United States Government shall work with private industry
+— through DHS, DOC, and relevant sector’specific agencies ~ to
+protect critical infrastructure in a manner that minimizes the
+need for DCEO against malicious cyber activity; however, the
+United States Government shall retain DCEO, including
+anticipatory action taken against imminent threats, as
+governed by the provisions in this directive, as an option to
+protect such infrastructure. (S/NF)
+
+The United States Government shall — in coordination, as
+appropriate, with DHS, law enforcement, and other relevant
+departments and agencies, to include sector-specific agencies
+— obtain the consent of network or computer owners for
+United States Government use of DCEO to protect against
+malicious cyber activity on their behalf, unless the activity
+
+TOP SECRET/NOFORN
+

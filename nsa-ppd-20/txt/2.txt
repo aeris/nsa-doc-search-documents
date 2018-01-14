@@ -1,0 +1,54 @@
+TOP SECRET/NOFORN 2
+
+documents and communications on this topic to ensure common
+
+understanding. (U)
+Cyberspace: The interdependent network of information
+technology infrastructures that includes the Internet,
+telecommunications networks, computers, information or
+communications systems, networks, and embedded processors and
+controllers. (U)
+Network Defense: Programs, activities, and the use of tools
+necessary to facilitate them (including those governed by
+NSPD—S4/HSPD—23 and NSD—42) conducted on a computer, network,
+or information or communications system by the owner or with
+the consent of the owner and, as appropriate, the users for
+the primary purpose of protecting (1) that computer, network,
+or system; (2) data stored on, processed on, or transiting
+that computer, network, or system; or (3) physical and virtual
+infrastructure controlled by that computer, network, or
+system. Network defense does not involve or require accessing
+or conducting activities on computers, networks, or
+information or communications systems without authorization
+from the owners or exceeding access authorized by the owners.
+(U)
+Malicious Cyber Activity: Activities, other than those
+authorized by or in accordance with U.S. law, that seek to
+compromise or impair the confidentiality, integrity, or
+availability of computers, information or communications
+systems, networks, physical or virtual infrastructure
+controlled by computers or information systems, or information
+resident thereon. (U)
+Cyber Effect: The manipulation, disruption, denial,
+degradation, or destruction of computers, information or
+communications systems, networks, physical or virtual
+infrastructure controlled by computers or information systems,
+or information resident thereon. (U)
+
+Cyber Collection: Operations and related programs or
+activities conducted by or on behalf of the United States
+Government, in or through cyberspace, for the primary purpose
+of collecting intelligence ~ including information that can be
+used for future operations - from computers, information or
+communications systems, or networks with the intent to remain
+undetected. Cyber collection entails accessing a computer,
+information system, or network without authorization from the
+owner or operator of that computer, information system, or
+network or from a party to a communication or by exceeding
+authorized access. Cyber collection includes those activities
+essential and inherent to enabling cyber collection, such as
+
+ 
+
+TOP SECRET/NOFORN
+

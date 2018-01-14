@@ -1,0 +1,61 @@
+TOP SECRET/NOFORN 10
+
+President for responding to persistent malicious cyber activity
+
+against U.S. national interests. Such criteria and procedures
+
+shall include the following requirements:
+The United States Government shall reserve use of such
+responses to circumstances when network defense or law
+enforcement measures are insufficient or cannot be put in
+place in time to mitigate the malicious cyber activity; and
+Departments and agencies shall conduct these responses in a
+manner not reasonably likely to result in significant
+consequences and use the minimum action required to mitigate
+the activity. (S/NF)
+
+Emergency Cyber Actions (C/NF)
+The Secretary of Defense is hereby authorized to conduct, or a
+department or agency head with appropriate authorities may
+conduct, under procedures approved by the President, Emergency
+Cyber Actions necessary to mitigate an imminent threat or
+ongoing attack using DCEO if circumstances at the time do not
+permit obtaining prior Presidential approval (to the extent that
+such approval would otherwise be required) and the department or
+agency head determines that:
+An emergency action is necessary in accordance with the
+United States inherent right of self—defense as recognized in
+international law to prevent imminent loss of life or
+significant damage with enduring national impact on the
+Primary Mission Essential Functions of the United States
+Government,5 U.S. critical infrastructure and key resources,
+or the mission of U.S. military forces;
+Network defense or law enforcement would be insufficient or
+unavailable in the necessary timeframe, and other previously
+approved activities would not be more appropriate;
+
+ 
+
+The Emergency Cyber Actions are reasonably likely not to
+result in significant consequences;
+
+The Emergency Cyber Actions will be conducted in a manner
+intended to be nonlethal in purpose, action, and consequence;
+
+The Emergency Cyber Actions will be limited in magnitude,
+scope, and duration to that level of activity necessary to
+mitigate the threat or attack;
+
+The Emergency Cyber Actions, when practicable, have been
+coordinated with appropriate departments and agencies,
+including State, DOD, DHS, DOJ, the Office of the DNI, FBI,
+CIA, NSA, the Treasury, DOE, and other relevant members of the
+IC and sector-specific agencies; and
+
+ 
+
+5 As defined in NSPD~5l/HSPD—20 on “National Continuity Policy" of May 9,
+2007. (U)
+
+TOP SECRET/NOFORN
+

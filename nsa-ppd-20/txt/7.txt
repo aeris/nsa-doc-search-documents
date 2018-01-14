@@ -1,0 +1,49 @@
+TOP SECRET/NOFORN 7
+
+conduct a particular case of DCEO that is intended or likely
+to produce cyber effects within the United States if it
+qualifies as an Emergency Cyber Action as set forth in this
+directive and otherwise complies with applicable laws and
+policies, including Presidential orders and directives.
+(C/NF)
+
+The United States Government shall obtain consent from countries
+in which cyber effects are expected to occur or those countries
+hosting U.S. computers and systems used to conduct DCEO or OCEO
+unless:
+Military actions approved by the President and ordered by the
+Secretary of Defense authorize nonconsensual DCEO or OCEO,
+with provisions made for using existing processes to conduct
+appropriate interagency coordination on targets, geographic
+areas, levels of effect, and degrees of risk for the
+operations;
+DCEO is undertaken in accordance with the United States’
+inherent right of self defense as recognized in international
+law, and the United States Government provides notification
+afterwards in a manner consistent with the protection of
+U.S. military and intelligence capabilities and foreign policy
+considerations and in accordance with applicable law; or
+The President - on the recommendation of the Deputies
+Committee and, as appropriate, the Principals Committee -
+determines that an exception to obtaining consent is
+necessary, takes into account overall U.S. national interests
+and equities, and meets a high threshold of need and effective
+outcomes relative to the risks created by such an exception.
+(S/NF)
+
+The information revealed to other countries in the course of
+seeking consent shall be consistent with operational security
+requirements and the protection of intelligence sources,
+methods, and activities. (S/NF)
+
+The United States Government, to ensure appropriate application
+of these principles, shall make all reasonable efforts, under
+circumstances prevailing at the time, to identify the adversary
+and the ownership and geographic location of the targets and
+related infrastructure where DCEO or OCEO will be conducted or
+cyber effects are expected to occur, and to identify the people
+and entities, including U.S. persons, that could be affected by
+proposed DCEO or OCEO. (S/NF)
+
+TOP SECRET/NOFORN
+

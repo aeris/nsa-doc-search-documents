@@ -1,0 +1,69 @@
+TOP SECRET/NOFORN 3
+
+inhibiting detection or attribution, even if they create cyber
+effects. (C/NF)
+
+Defensive Cyber Effects Operations (DCEO): Operations and
+related programs or activities — other than network defense or
+cyber collection — conducted by or on behalf of the
+
+United States Government, in or through cyberspace, that are
+intended to enable or produce cyber effects outside
+
+United States Government networks for the purpose of defending
+or protecting against imminent threats or ongoing attacks or
+malicious cyber activity against U.S. national interests from
+inside or outside cyberspace. (C/NF)
+
+Nonintrusive Defensive Countermeasures (NDCM): The subset of
+DCEO that does not require accessing computers, information or
+communications systems, or networks without authorization from
+the owners or operators of the targeted computers, information
+or communications systems, or networks or exceeding authorized
+access and only creates the minimum cyber effects needed to
+mitigate the threat activity. (C/NF)
+
+Offensive Cyber Effects Operations (OCEO): Operations and
+related programs or activities — other than network defense,
+cyber collection, or DCEO — conducted by or on behalf of the
+United States Government, in or through cyberspace, that are
+intended to enable or produce cyber effects outside
+
+United States Government networks. (C/NF)
+
+Cyber Operations: Cyber collection, DCEO (including NDCM),
+and OCEO collectively. (U)
+
+Significant Consequences: Loss of life, significant
+responsive actions against the United States, significant
+damage to property, serious adverse U.S. foreign policy
+consequences, or serious economic impact on the United States.
+(U)
+
+U.S. National Interests: Matters of vital interest to the
+United States to include national security, public safety,
+national economic security, the safe and reliable functioning
+of “critical infrastructure,” and the availability of “key
+resources.”1 (U)
+
+Emergency Cyber Action: A cyber operation undertaken at the
+direction of the head of a department or agency with
+appropriate authorities who has determined that such action is
+necessary, pursuant to the requirements of this directive, to
+mitigate an imminent threat or ongoing attack against U.S.
+national interests from inside or outside cyberspace and under
+circumstances that at the time do not permit obtaining prior
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 As these terms are used in HSPD-7 on “Critical Infrastructure,
+Identification, Prioritization, and Protection” from December 17, 2003. (U)
+
+TOP SECRET/NOFORN
+

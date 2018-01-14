@@ -1,0 +1,52 @@
+TOP SECRET/NOFORN 11
+
+The Emergency Cyber Actions are consistent with the
+
+U.S. Constitution and other applicable laws and policies of
+the United States, including Presidential orders and
+directives. (S/NF)
+
+In addition, Emergency Cyber Actions that are intended or likely
+to produce cyber effects within the United States (or otherwise
+likely to adversely affect U.S. network defense activities or
+U.S. networks) must be conducted:
+Under the procedures and, as appropriate, criteria for
+domestic operations previously approved by the President; and
+Under circumstances that at the time of the Emergency Cyber
+Action preclude the use of network defense, law enforcement,
+or some form of DOD support to civil authorities that would
+prevent the threatened imminent loss of life or significant
+damage. (S/NF)
+
+Department and agency heads shall report Emergency Cyber Actions
+to the President through the National Security Advisor as soon
+as feasible. If the coordination specified above is not
+practicable in the available time, then notification shall occur
+after the fact as soon as possible to inform subsequent whole—
+ofegovernment response and recovery activities. (S/NF)
+
+Until such time as any additional criteria for domestic
+operations are approved by the President, authorization by
+department and agency heads for Emergency Cyber Actions that are
+intended or likely to produce cyber effects within the United
+States (or otherwise likely to adversely affect U.S. network
+defense activities or U.S. networks) shall be granted only if
+the President has provided prior approval for such activity, or
+circumstances at the time do not permit obtaining prior approval
+from the President and such actions are conducted within the
+other constraints defined above. (S/NF)
+
+VI. Process (U)
+
+The National Security Staff (NSS) shall formalize the functions
+of the Cyber Operations Policy Working Group (COP~WG) as the
+primary United States Government forum below the level of an
+Interagency Policy Committee (IPC) for integrating DCEO or OCEO
+policy, including consideration of exceptions or refinements to
+the principles of this directive. The COP—WG shall work with
+other elements of the policy community as appropriate to the
+geographic or functional context of the DCEO— or OCEO-related
+policy discussion at the earliest opportunity. The COP—WG is
+
+TOP SECRET/NOFORN
+

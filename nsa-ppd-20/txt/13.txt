@@ -1,0 +1,55 @@
+TOP SECRET/NOFORN 13
+
+security requirements and the protection of intelligence
+sources, methods, and activities. (S/NF)
+Toward this end of ensuring a unified whole-of—government
+approach, departments and agencies shall coordinate and
+deconflict DCEO and OCEO with network defense efforts of other
+departments and agencies as appropriate. (S/NF)
+In addition, DCEO and OCEO with potential implications for
+U.S. networks shall be deconflicted as appropriate and
+coordinated with DHS, appropriate law enforcement agencies,
+and relevant sector—specific agencies. (S/NF)
+The United States Government shall make all reasonable efforts
+to identify and notify, as appropriate, private sector
+entities that could be affected by DCEO and OCEO. (S/NF)
+
+Policy Criteria (U)
+Policy deliberations for DCEO and OCEO shall consider, but not
+
+be limited to, the following criteria:
+Impact: The potential threat from adversary actions or the
+potential benefits, scope, and recommended prioritization of
+proposed U.S. operations as compared with other approaches —
+including, as appropriate, network defense by the
+United States Government or private sector network operators;
+Risks: Assessments of intelligence gain or loss, the risk of
+retaliation or other impacts on U.S. networks or interests
+(including economic), impact on the security and stability of
+the Internet, and political gain or loss to include impact on
+foreign policies, bilateral and multilateral relationships
+(including Internet governance), and the establishment of
+unwelcome norms of international behavior;
+Methods: The intrusiveness, timeliness, efficiency, capacity,
+and effectiveness of operational methods to be employed;
+Geography and Identity: Geographic and identity aspects of
+the proposed activity, including the location of operations
+and the resulting effects, the identity of network owners and
+users that will be affected, and the identity or type — when
+known — of adversaries to be countered or affected by U.S.
+operations;
+Transparency: The need for consent or notification of network
+or computer owners or host countries, the potential for impact
+on U.S. persons and U.S. private sector networks, and the need
+for any public or private communications strategies before or
+after an operation; and
+Authorities and Civil Liberties: The available authorities
+and procedures and the potential for cyber effects inside the
+United States or against U.S. persons. (S/NF)
+
+ 
+
+ 
+
+TOP SECRET/NOFORN
+
