@@ -1,0 +1,43 @@
+DoD 5240.1-R, December 1982
+
+C3. CHAPTER 3
+
+PROCEDURE 3. RETENTION OF INFORMATION
+ABOUT UNITED STATES PERSONS
+
+C3 . 1. APPLICABILITY
+
+This procedure governs the kinds of information about United States persons that may
+knowingly be retained by a DoD intelligence component without the consent of the
+person whom the information concerns. It does not apply when the information in
+question is retained solely for administrative purposes or is required by law to be
+maintained.
+
+C3.2. EXPLANATION OF UNDEFINED TERMS
+
+The term "retention,"as used in this procedure, refers only to the maintenance of
+information about United States persons that can be retrieved by reference to the
+person's name or other identifying data.
+
+' C3 .3. CRITERIA FOR RETENTION
+
+C3.3.l. Retention of Information Collected Under Procedure 2. Information about
+United States persons may be retained if it was collected pursuant to Procedure 2.
+
+C3.3.2. Retention of Information Acquired Incidentally. Information about United
+States persons collected incidentally to authorized collection may be retained if:
+
+C3.3.2. 1. Such information could have been collected intentionally under
+Procedure 2; '
+
+C3.3.2.2. Such information is necessary to understand or assess foreign
+intelligence or counterintelligence;
+
+C3.3.2.3. The information is foreign intelligence or counterintelligence
+collected from electronic surveillance conducted in compliance with this Regulation; or
+
+C3.3.2.4. Such information is incidental to authorized collection and may
+indicate involvement in activities that may violate Federal, State, local, or foreign law.
+
+. 20 CHAPTER 3
+

@@ -1,0 +1,47 @@
+DOD 5240.1—R, December 1982
+
+C5.5.2.2.1. The surveillance shall be limited in scope and duration to that
+necessary for the purposes referred to in paragraph C5.5.l ., above.
+
+C5.5.2.2.2. No particular United States person shall be targeted
+intentionally without consent.
+
+C5.5.2.2.3. The content of any communication shall:
+
+I C5.5.2.2.3.l. Be retained only when actually needed for the purposes
+referred to in paragraph C55. 1 ., above;
+
+C5.5.2.2.3.2. Be disseminated only to persons conducting the
+activity; and
+
+C5.5.2.2.3.3. Be destroyed immediately upon completion of the
+activity. .
+
+C5.5.2.2.4. The technical parameters of a communication (such as
+frequency, modulation, bearing, signal strength, and time of activity) may be retained and
+used for the purposes outlined in paragraph C5.5.l., above, or for collection avoidance
+purposes. Such parameters may be disseminated to other DoD intelligence components
+and other entities authorized to conduct electronic surveillance or related development,
+testing, and calibration of electronic equipment provided such dissemination and use are
+limited to the purposes outlined in paragraph C5.5.l., or collection avoidance purposes.
+No content of any communication may be retained or used other than as provided in
+subparagraph C5.5.2.2.3 ., above.
+
+C5 .6. PART 6: TRAINING OF PERSONNEL IN THE OPERATION AND USE OF
+ELECTRONIC COMMUNICATIONS AND SURVEILLANCE EOUIPMENT
+
+ 
+
+C5.6.l . Applicabilitv. This part of Procedure 5 applies to the training of
+personnel byDoD intelligence components in the operation and use of electronic
+communications and surveillance equipment. It does not apply to the interception of
+communications with the consent of one of the parties to the communication or to the
+training of intelligence personnel by non—intelligence components.
+
+C5.6.2. Procedures
+
+C 5.6.2.1. Training Guidance. The training of personnel by DoD intelligence
+components in the operation and use of electronic communications and surveillance .
+
+34 CHAPTER 3
+

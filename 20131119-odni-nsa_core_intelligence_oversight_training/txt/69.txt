@@ -1,0 +1,45 @@
+DoD 5240. I -R, December I 982
+
+C52. PART 2: ELECTRONIC SIRVEILLAN CE OUTSIDE THE UNITED STATES FOR
+INTELLIGENCE PURPO SES
+
+C5.2.l. Applicability. This part of Procedure 5 applies to electronic surveillance,
+as deﬁned in the Deﬁnitions Section, for foreign intelligence and counterintelligence
+'purposes directed against United States persons who are outside the United States, and
+who, under the circumstances, have a reasonable expectation of privacy. It is intended
+to be applied in conjunction with the regulation of electronic surveillance "within the
+United States“under Part 1 and the regulation of "signals intelligence activities"under
+Part 3 so that the intentional interception for foreign intelligence and
+counterintelligence purposes of all wire or radio communications of persons within the
+United States and against United States persons abroad where such persons enjoy a
+reasonable expectation of privacy is covered by one of the three parts. In addition, this
+part governs the use of electronic, mechanical, or other surveillance devices for foreign
+intelligence and counterintelligence purposes against a United States person abroad in
+circumstances where such person has a reasonable expectation of privacy. This part
+does not apply to the electronic surveillance of communications of other than United
+States pers'ons abroad or the interception of the communications of United States
+persons abroad that do not constitute electronic surveillance.
+
+C5.2.2. Explanation of Undeﬁned Terms
+
+C5.2.2. 1. Electronic surveillance is "directed against a United States person"
+when the surveillance is intentionally targeted against or designed to intercept the
+communications of that person. Electronic surveillance directed against persons who
+are not United States persons that results in the incidental acquisition of the
+communications of aUnited States person does not thereby become electronic
+surveillance directed against a United States person.
+
+C5 2.2.2. Electronic surveillance is "outside the United States"if the person _
+against whom the electronic surveillance is directed is physically outside the United
+States, regardless of the location at which surveillance is conducted. For example, the
+interception of communications that originate and terminate outside the United States
+can be conducted from within the United States and still fall under this part rather than
+Part 1.
+
+C5.2.3. Procedures. Except as provided in paragraph C5.2.5., below, DoD
+intelligence components may conduct electronic surveillance against aUnited States
+person who is outside the United States for foreign intelligence and counterintelligence
+purposes only if the surveillance is approved by the Attorney General. Requests for
+
+25 CHAPTER 5
+

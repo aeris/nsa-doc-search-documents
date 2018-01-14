@@ -1,0 +1,54 @@
+W/—
+
+Policy 1—23 Dated: 11 March 2004
+
+(U) This Policy 1—23 supersedes Directive 10—30, dated 20 September 1990, and Change One
+thereto, dated June 1998. The Associate Director for Policy endorsed an administrative update,
+effective 27 December 2007 to make minor adjustments to the policy. This 29 May 2009
+administrative update includes changes due to the FISA Amendments Act of 2008 and in core
+training requirements.
+
+(U) OPI: Ofﬁce of General Counsel (OGC), 963-3 l2ls
+
+(U) No section of this document, regardless of classiﬁcation, shall be released without approval
+from the Ofﬁce of Policy and Records, DJPl.
+
+(U) POLICY
+
+1. (U) NSA/CSS shall collect, process, retain, and disseminate information about US.
+persons only as prescribed in DoD Directive 5240.1 (Reference a), DoD Regulation 5240.1-R
+(Reference 6), orders issued by the Foreign intelligence Surveillance Court pursuant to reference
+b, and the Classiﬁed Annex to DoD Procedures under Executive Order 12333 (hereafter referred
+to as the Classiﬁed Annex; Reference f).
+
+(U) PROCEDURES
+
+2. (U) Signals Intelligence. The signals intelligence (SI GINT) mission of the NSA/CSS
+is to collect, process, analyze, produce, and disseminate SIGINT information and data for foreign
+intelligence and counterintelligence purposes to support national and departmental missions.
+NSA/CSS shall intentionally collect only foreign communications. NSA/CSS shall not
+intentionally collect US. person communications without proper legal authorization. The
+Director, NSA/Chief, CSS (DIRNSA/CHCSS) may authorize exceptions only pursuant to the
+procedures contained in DoD Regulation 5240.1—R (Reference e) and the Classiﬁed Annex
+thereto (Reference f).
+
+a. (U) Electronic surveillance, as deﬁned in the Foreign Intelligence Surveillance
+Act of 1978, as amended (Reference b), requires a court order issued by a judge
+appointed pursuant to the Act or a certiﬁcation of the Attorney General of the United
+States and the Director of National Intelligence issued pursuant to Section 105(b) of the
+Act. The DIRNSA/CHCSS or Deputy Director, NSA (D/DIR) must approve applications
+for a court order, which must be submitted through the DoD General Counsel to the
+Attorney General. The DIRNSA/CHCSS or D/DIR may contact the Attorney General in
+an emergency and the Attorney General may approve the surveillance pending
+subsequent court proceedings.
+
+b. (U) Electronic surveillance, as deﬁned in Appendix A to DoD Regulation
+5240.1-R (Reference e), directed against US. persons who are outside the US. requires
+an order by the Foreign Intelligence Surveillance Act Court. In emergency situations
+(e.g., U.S. hostages overseas), as described in Procedure 5, Part 2., of Reference 6, the
+DIRNSA/CHCSS, D/DIR or Senior Operations Ofﬁcer at the National Security
+Operations Center may authorize electronic surveillance, after consulting with the Ofﬁce
+
+2 .
+SECRET/momm—
+

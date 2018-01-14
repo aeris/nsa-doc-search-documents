@@ -1,0 +1,48 @@
+DoD 52401.12, December 1982
+
+CS. QH_AWE_R5
+PROCEDURE 5. ELECTRONIC SURVEILLANCE
+
+C5.1. PART. 1: ELECTRONIC SURVEILLANCE IN THE UNITED STATES FOR
+IN | ELLIGENCE PURPOSES
+
+C5.1.1 . Applicability. This part of Procedure 5 implements the Foreign
+Intelligence Surveillance Act of 1979 (reference (b)), and applies to electronic
+surveillance, as deﬁned in that Act, conducted by DOD intelligence components within
+the United States to collect "foreign intelligence information," as deﬁned in that Act.
+
+C5 . 1 .2. General Rules
+
+C5.1.2.1. Electronic Surveillance Pursuant to the Foreign Intelligence
+Surveillance Act. ADoD intelligence component may conduct electronic surveillance
+
+within the United States for foreign intelligence and counterintelligence purposes only
+pursuant to an order issued by a judge of the court appointed pursuant to the Foreign
+Intelligence Surveillance Act of 1978 (reference (b)), or pursuant to a certiﬁcation of
+the Attorney General issued under the authority of Section 102(a) of the Act.
+
+C5.1.2.2. Authority to Request Electronic Surveillance. Authority to approve
+
+the submission of applications or requests for electronic surveillance under the Foreign
+Intelligence Surveillance Act of 1978 (reference (b)) shall be limited to the Secretary
+
+. of Defense, the Deputy Secretary of Defense, the Secretary or Under Secretary of a
+Military Department, and the Director of the National Security Agency. Applications
+for court orders will be made through the Attorney General after prior clearance by the
+General Counsel, DoD. Requests for Attorney General certiﬁcation shall be made only
+after prior clearance by the General Counsel, DoD.
+
+C5.1.2.3. Electronic Surveillance In Emergencv Situations
+
+C5.1.2.3.1. ADoD intelligence component may conduct electronic
+surveillance Within the United States in emergency situations under an approval from the
+Attorney General in accordance with Section 105(e) of reference (b).
+
+C5.1.2.3.2. The head of a DoD intelligence component may request that
+the DoD General Counsel seek such authority directly from the Attorney General in an
+emergency, if it is not feasible to submit such request through an ofﬁcial designated in
+subparagraph C5.1.2.2., above, provided the appropriate ofﬁcial concerned shall be
+advised of such requests as soon as possible thereafter.
+
+24 CHAPTER 3
+

@@ -1,0 +1,44 @@
+DoD 5240.1 —R, December 1982
+
+equipment shall include guidance concerning the requirements and restrictions of the
+Foreign Intelligence Surveillance Act of 1978 (reference (b)), and ED. 12333
+(reference (a)), with respect to the unauthorized acquisition and use of the content of
+communications of United States persons.
+
+C 5.6.2.2. Training Limitations
+
+C5.6.2.2.1. Except as permitted by paragraph C5.6.2.2.2. and C5.6.2.2.3.,
+below, the use of electronic communications and surveillance equipment for training
+purposes is permitted, Subject to the following limitations:
+
+C5.6.2.2.l.l. To the maximum extent practical, use of such
+equipment for training purposes shall be directed against communications that are
+subject to lawful electronic surveillance for foreign intelligence and
+counterintelligence purposes under Parts 1, 2, and 3 of this procedure.
+
+C5.6.2.2.l.2. The contents of private communications of
+non-consenting United States persons may not be acquired aurally unless the person is
+an authorized target of electronic surveillance.
+
+I C5.6.2.2.l.3. The electronic surveillance will be limited in extent
+and duration to that necessary to train personnel in the use of the equipment.
+
+C5.6.2.2.2. Public broadcasts, distress signals, or ofﬁcial US.
+Government communications may be monitored, provided that when Government
+Agency communications are monitored, the consent of an appropriate ofﬁcial is
+obtained.
+
+C5.6.2.2.3. Minimal acquisition of information is permitted as required
+for calibration purposes.
+
+C 5.6.2.3. Retention and Dissemination. Information collected during training
+that involves communications described in subparagraph C5.6.2.2.l.l., above, shall be
+retained and disseminated in accordance with minimization procedures applicable to that
+electronic surveillance. Information collected during training that does not involve
+communications described in subparagraph C5.6.2.2.l.l., above, or that is acquired
+inadvertently, shall be destroyed as soon as practical or upon completion of the training
+and may not be disseminated for any purpose. This limitation does not apply to distress
+signals. ' '
+
+35 I CHAPTER 3
+

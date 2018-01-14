@@ -1,0 +1,33 @@
+DOD 5240.1-R, December I 982
+
+C5.7.3.2. Conduct of Hearabilitv Survevs. The Director, National Security
+Agency, may conduct, or may authorize the conduct by other Agencies, of hearability
+surveys of telecommunications that are transmitted in the United States.
+
+C5.7.3.2.1. Collection. When practicable, consent will be secured from
+the owner or user of the facility against which the hearability survey is to be conducted
+prior to the commencement of the survey.
+
+C5.7.3.2.2. Processing and Storage. Information collected during a
+hearability survey must processed and stored as follows:
+
+C5.7.3.2.2.l. The content of communications may not be recorded
+or included in any report.
+
+C5.7.3.2.2.2. No microwave transmission may be de-multiplexed or
+demodulated for any purpose.
+
+C5.7.3.2.2.3. No report or log may identify any person or entity
+except to the extent of identifying the transmission facility that can be intercepted from
+the intercept site. If the identities of the users of such facilities are not identical with-
+the identities of the owners of the facilities, and their identities are relevant to the
+purpose for which the hearability survey has been conducted, the identity of such users
+may be obtained provided such identities may not be obtained from the contents of the
+transmissions themselves.
+
+C5.7.3.2.3. Dissemination. Reports may be disseminated only within the
+US. Government. Logs may not be disseminated unless required to verify results
+contained in reports.
+
+37 CHAPTER 3
+

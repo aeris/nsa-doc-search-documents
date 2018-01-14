@@ -1,0 +1,45 @@
+DoD 5240.1—R, December I 982
+
+C4. CHAPTER 4
+
+PROCEDURE 4. DISSEMINATION OF INFORMATION
+ABOUT UNITED STATES PERSONS
+
+C4.l. APPLICABILITY AND SCOPE
+
+This procedure governs the kinds of information about United States persons that may
+be disseminated, without their consent, outside the DoD intelligence component that
+collected and retained the information. It does not apply to information collected
+solely for administrative purposes; or disseminated pursuant to law; or pursuant to a
+court order that otherwise imposes controls upon such dissemination.
+
+C4.2. CRITERIA FOR DISSEMINATION
+
+Except as provided in section C4.3., below, information about United States persons that
+identiﬁes those persons may be disseminated without the consent of those persons only
+under the following conditions:
+
+C4.2.1. The information was collected or retained or both under Procedures 2 and
+3;
+
+C4.2.2. The recipient is reasonably believed to have aneed to receive such
+information for the performance of a lawful governmental function, and is one of the
+following: -
+
+C4.2.2.l. An-employee of the Department of Defense, or an employee of a
+contractor of the Department of Defense, and has a need for such information in the
+course of his or her official duties;
+
+C4.2.2.2. Alaw enforcement entity of Federal, State, or local government, and
+the information may indicate involvement in activities that may Violate laws that the
+recipient is responsible to enforce;
+
+C4.2.2.3. An Agency within the intelligence community; provided that within
+the intelligence community, information other than information derived from signals
+intelligence, may be disseminated to each appropriate Agency for the purpose of
+allowing the recipient Agency to determine whether the information is relevant to its
+responsibilities without such a determination being required of the disseminating DoD
+intelligence component;
+
+22 CHAPTER 4
+

@@ -1,0 +1,49 @@
+W/
+Policy 1-23 Dated: 11 March 2004
+
+Managers shall keep records of training for all employees. The training must cover: E.O.
+12333 (Reference 0); Procedures 1-4, 14 and 15 of DoD Regulation 5240.1-R (Reference
+e); other Procedures of the Regulation that apply to the assigned mission; and this Policy.
+Employees involved in the SIGINT process must be familiar with US. Signals
+Intelligence Directive SP0018 (USSID SP0018) (Reference n), and employees involved
+in COMSEC monitoring must be familiar with NTIS SD 600 (Reference j).
+
+c. (U) Apply the provisions of this Policy to all activities under their cognizance
+and ensure that all publications (U.S. Signals Intelligence Directives, National COMSEC
+Instructions, NSA/CSS Management and Administrative Publications, etc.) and
+instructions for which they are responsible are in compliance with this Policy;
+
+(1. (U) Conduct a periodic review of the activities and practices conducted in or
+under the cognizance of their respective organizations to ensure consistency with the laws
+and authorities listed in the References section of this Policy;
+
+e. (U) Ensure that all new major requirements levied on NSA/CSS and the US.
+Cryptologic System or internally generated NSA/CSS activities are considered for review
+and approval by the General Counsel. All activities that may raise a question of law or
+regulation must be reviewed by the General Counsel prior to acceptance or execution;
+
+f. (U) Ensure that necessary special security clearances and access authorizations
+are provided to the General Counsel and Inspector General to enable them to meet their
+assigned responsibilities;
+
+g. (U) Report as required and otherwise assist the Inspector General and General
+Counsel in carrying out their responsibilities, to include providing input to the Inspector
+General for preparing the joint Inspector General/General Counsel/Director, NSA/ CSS
+quarterly report to the Assistant to the Secretary of Defense (Intelligence Oversight) and
+the IOB; and
+
+h. (U) Develop, in coordination with the General Counsel and Inspector General
+as required, such speciﬁc guidelines and working aids as are necessary to ensure
+compliance with this PoliCy. These guidelines and working aids should be available to
+employees at all times and must be reviewed by management with employees at least
+annually.
+
+(U) REFERENCES
+8. (U) References:
+
+a. (U) DoD Directive 5240.01, “DoD Intelligence Activities,” dated August 27,
+2007.
+
+6
+SECIRETNCOMINW—
+

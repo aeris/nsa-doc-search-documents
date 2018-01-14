@@ -1,0 +1,48 @@
+SECRET/lCOMINT/
+Policy 1—23 Dated: 11 March 2004
+
+of General Counsel (OGC). The Attorney General shall be notiﬁed promptly of any such
+surveillance.
+
+3. (U) Information Assurance. National Security Directive (NSD) 42 (Reference g) and
+Executive Order 12333 (Reference c) designated DIRNSA as the National Manager for National
+Security Systems (e. g. NSA’s Information Assurance (IA) mission) as that term is deﬁned by 44
+US. C. 3542(b)(2) (Reference h). In that capacity, and pursuant to those authorities as well as
+other applicable laws and policies, DIRNSA’s responsibilities include examining national
+security systems and evaluating their vulnerability to foreign interception and exploitation. NSA,
+as an element of the Intelligence Community and pursuant to section 26(0) of Executive Order
+12333, as amended, may provide specialized equipment, technical knowledge, or assistance of
+expert personnel for use by any US. Government department or agency having a national
+security system or a non—national security system. The Executive Order directs that provision of
+assistance by expert personnel shall be approved in each case by the general counsel of the
+providing element or department. The Federal Information Security Management Act of 2002
+(Reference i) and implementing procedures agreed to by NSA/CSS and the National Institute of
+Standards and Technology also authorizes NSA/CSS to provide IA support for US government
+non-national security systems.
+
+a. (U) Any IA activities undertaken by NSA/CSS, including those involving
+monitoring of ofﬁcial communications, shall be conducted in strict compliance with law,
+Executive Order and implementing procedures, and applicable Presidential directive.
+Any monitoring undertaken for communications security purposes ("COMSEC
+monitoring") shall be conducted in accordance with the provisions of National
+Telecommunications and Information Systems Security Directive (NTISSD) No. 600
+(Reference j) or other special procedures approved by the Attorney General.
+
+b. (U) In addition to the responsibility to conduct COMSEC monitoring and to
+examine national security systems for vulnerabilities to foreign exploitation, NSD 42
+(Reference g) also requires NSA/CSS to disseminate information on threats to national
+security systems, regardless of the source of the threat. Title II of the Homeland Security
+Act of 2002 (Reference k) imposes similar requirements with respect to the protection of
+the United States’ critical infrastructure.
+
+0. (U) Pursuant to NSA/CSS Policy 1—2, “(U) Mission and Functions Statements
+with Service Level Agreements,” (Reference 1) and IAD’s Mission and Functions
+Statement (Reference m), IAD performs all functions on behalf of the DIRNSA in
+fulﬁlling his role as National Manager for National Security Systems. Accordingly, the
+Information Assurance Director acts for DIRNSA/CHCSS in the issuance of written
+approval to Conduct the information assurance activities assigned to NSA/CSS, including
+the conduct of activities that may result in the collection of US. person information as
+deﬁned in DoD Regulation 5240.1—R (Reference e) and other applicable guidance.
+
+W—
+

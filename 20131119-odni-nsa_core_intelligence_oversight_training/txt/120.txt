@@ -1,0 +1,49 @@
+SECRET//COMINT/—
+
+method of transmission is reasonably believed to be a communication to or from an agent or
+agents of foreign powers, whether or not United States persons.
+
+(U) Interception. The term "interception" means the acquisition by the United States
+Signals Intelligence System through electronic means of a nonpublic communication to which it
+is not an intended party, and the processing of the contents of that communication into an
+intelligence form but not including the display of signals on Visual display devices intended to
+permit the examination of the technical characteristics of the signal Without reference to the
+information content carried by the signal.
+
+—é€9—International Commercial Communications. The term "international commercial
+Communications" means foreign communications transmitted internationally in whole or in part
+by one or more commercial or forei overnment communications carriers, and includes, but is
+not limited to, ﬁ International commercial communications may be
+wire, telephone or radio communications transmitted by high frequency, microwave, satellite or
+other mode of transmission.
+
++9-National Diplomatic Communications. The term "national diplomatic
+communications" includes all communications, regardless of the mode of transmission,
+transmitted by or to a foreign power and to which no United States person is a communicant.
+The official communications of an international organization composed of foreign governments
+are included in the meaning of this term, provided, however that the communications of official
+representatives of the United States are not included.
+
+fa-Selection. The term "selection," as applied to manual and mechanical processing
+activities, means the intentional insertion of a name, cable, TELEX, or other address and answer
+back or other alpha—numeric device into a computer scan dictionary or manual scan guide for the
+purpose of identifying messages of interest and isolating them for further processing.
+
+—éG9-Selection Term. The term "selection term" means the composite of individual terms
+used to effect or defeat selection of particular communications for the purpose of interception. It
+comprises the entire term or series of terms so used, but not any segregable term contained
+herein. It applies to both mechanical and manual processing.
+
+(U) Technical Data Base. The term "technical data base" means information retained
+for cryptanalytic or trafﬁc analytic purposes.
+
+ 
+
+—éG9-United States Person. For purposes of intentionally collecting the communications
+of a particular person, the term "United States person,” in addition to the meaning in the
+Appendix to DoD Regulation 5240.1-R, includes any alien known to be presently in the United
+States; any unincorporated association of such aliens or American citizens; the United States
+Annex to Policy 1-23
+Dated: ll March 2004
+A-3
+

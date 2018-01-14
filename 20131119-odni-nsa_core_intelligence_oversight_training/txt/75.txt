@@ -1,0 +1,42 @@
+DOD 5240.1-R, December 1982
+
+C5.3.3.2. Military Tactical Communications. The United States Signals
+Intelligence System may collect, process, retain, and disseminate military tactical
+communications that are also communications of or concerning United States persons
+- but only in accordance with the classiﬁed annex to this procedure.
+
+C5.3.3.2.l. Collection. Collection efforts will be conducted in the same
+manner as in the case of signals intelligence for foreign intelligence purposes and must
+be designed in such a manner as to avoid to the extent feasible the intercept of
+communications not related to military exercises.
+
+C5.3.3.2.2. Retention and Processing. Military tactical communications
+may be retained and processed without deletion of references to United States persons
+who are participants in, or are otherwise mentioned in exercise-related communications,
+provided that the communications of United States persons not participating in the
+exercise that are inadvertently intercepted during the exercise shall be destroyed as
+soon as feasible.
+
+C5.3.3.2.3. Dissemination. Dissemination of military tactical _
+communications and exercise reports or information files derived from such
+communications shall be limited to those authorities and persons participating in or
+conducting reviews and critiques of such exercise.
+
+C5.4. PART 4: TECHNICAL SURVEILLANCE COUNTERMEASURES
+
+C5.4.1. Applicability and Scope. This part of Procedure 5 applies to the use of
+electronic equipment to determine the existence and capability of electronic
+surveillance equipment'being used by persons not authorized to conduct electronic
+surveillance. It implements Section 105(f)(2) of the Foreign Intelligence Surveillance
+Act (reference (b)).
+
+C5.4.2. Explanation of Undeﬁned Terms. The term technical surveillance
+countermeasures refers to activities authorized pursuant to DoD Directive 5200.29
+(reference (c)), and, as used in this procedure, refers to the use of electronic
+surveillance equipment, or electronic or mechanical devices, solely for determining the
+existence and capability of electronic surveillance equipment being used by persons not
+authorized to conduct electronic surveillance, or for determining the susceptibility of
+electronic equipment to unlawful electronic surveillance.
+
+3 1 CHAPTER 3
+

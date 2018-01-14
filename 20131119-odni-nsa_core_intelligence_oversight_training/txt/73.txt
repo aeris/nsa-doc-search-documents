@@ -1,0 +1,47 @@
+DOD 5240. I -R, December I 982
+
+retention, and dissemination of foreign communications and military tactical
+communications. Such activities may incidentally involve the collection of information
+concerning United-States persons without their consent, or may involve communications
+originated or intended for receipt in the United States, without the consent of a party
+thereto.
+
+C5.3. l .2. This part of Procedure 5 shall be supplemented by a classiﬁed
+Annex promulgated by the Director, National Security Agency/Chief, Central Security
+Service, which shall also be approved by the Attorney General. That regulation shall
+provide that signals intelligence activities that constitute electronic surveillance, as
+deﬁned in Parts 1, and 2 of this procedure, will be authorized in accordance with those
+parts. Any information collected incidentally about United States persons shall be
+subjected to minimization procedures approved by the Attorney General.
+
+C5.3.2. Explanation of Undeﬁned Terms
+
+C5.3.2.l. Communications concerning aUnited States person are those in
+which the United States person is identiﬁed in the communication. AUnited States
+
+person is identiﬁed when the person's name, unique title, address or other personal
+identiﬁer is revealed in the communication in the context of activities conducted by that
+person or activities conducted by others and related to that person. Areference to a
+product by brand name or manufacturer's name or the use of a name in a descriptive
+sense, as, for example, "Monroe Doctrine," is not an identiﬁcation of aUnited States
+person.
+
+C5.3.2.2. Interception means the acquisition by the United States Signals
+Intelligence system through electronic means of anonpublic communication to which it
+is not an intended party, and the processing of the contents of' that communication into
+
+_ an intelligible form, but not including the display of signals on visual display devices
+intended to permit the examination of the technical characteristics of the signals
+without reference to the information content carried by the signals.
+
+C5.3.2.3. Military tactical communications means United States and allied
+military exercise communications within the United States and abroad necessary for the
+production of simulated foreign intelligence and counterintelligence or to permit an
+analysis of communications security.
+
+C5.3.2.4. United States Person. For purposes of signals intelligence
+activities only, the following guidelines will apply in determining whether aperson is a
+United States person:
+
+29 ' CHAPTER 3
+

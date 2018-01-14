@@ -1,0 +1,43 @@
+DoD 5240.1 —R, December H982
+
+I C5 .7. PART 7: CONDUCT OF VULNERABILITY AND HEARABILITY SURVEYS
+
+C5.7.1 . Applicability and Scope This part of Procedure 5 applies to the conduct
+of vulnerability surveys and hearability surveys by DoD intelligence components.
+
+C5.7.2. Explanation of Undeﬁned Terms
+
+C5.7.2.1. The term vulnerabilitv survey refers to the acquisition of radio
+frequency propagation and its subsequent analysis to determine empirically the
+vulnerability of the transmission media to interception by foreign intelligence services.
+
+C5.7.2.2. The term hearability survev refers to monitoring radio
+communications to determine whether a particular radio signal can be received at one
+or more locations and, if reception is possible, to determine the hearability of reception
+over time.
+
+C5.7.3. Procedures
+
+C5.7.3.1. Conduct of Vulnerabilitv Survevs. Nonconsensual surveys may be
+conducted to determine the potential vulnerability to intelligence services of a foreign
+power of transmission facilities of communications common carriers, other private
+commercial entities, and entities of the federal government, subject of the following
+limitations :
+
+C5.7.3.1.1. No vulnerability survey may be conducted without the prior
+written approval of the Director, National Security Agency, or his designee.
+
+C5.7.3.1.2. No transmission may be acquired aurally.
+C5.7.3.1.3. No content of any transmission may be acquired by any means.
+C5.7.3.1.4. No transmissions may be recorded.
+
+C5.7.3.1.5. No report or log may identify any United States person or
+entity except to the extent of identifying transmission facilities that are vulnerable to
+surveillance by foreign powers. If the identities of the users of such facilities are not
+identical with the identities of the owners of the facilities, the identity of such users
+may be obtained but not from the content of the transmissions themselves, and may be
+included in such report or log. Reports may be disseminated. Logs may be
+disseminated only if required to verify results contained in reports.
+
+36 CHAPTER 5
+

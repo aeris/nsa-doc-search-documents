@@ -1,0 +1,45 @@
+DaD 524 0, I —R, December I 982
+
+C5.4.3. Procedures ADoD intelligence component may use technical surveillance
+countermeasures that involve the incidental acquisition of the nonpublic
+communications of United States persons without their consent, provided:
+
+C5.4.3.1. The use of such countermeasures has been authorized or consented
+to by the ofﬁcial in charge of the facility, organization, or installation where the
+countermeasures are to be undertaken;
+
+C5.4.3.2. The use of such countermeasures is limited in that necessary to
+determine the existence and capability of such equipment; and
+
+C5.4.3.3. Access to the content of communications acquired during the use of
+countermeasures is limited to persons involved directly in conducting such measures,
+and any content acquired is destroyed as soon as practical or upon completion of the
+particular use. However, if the content is acquired Within theUnited States, only
+information that is necessary to protect against unauthorized electronic surveillance, or
+to enforce Chapter 119 of title 18, United States Code (reference (d)) and Section 605
+of the Communication Act of 1934 (reference (6)), may be retained and disseminated
+only for these purposes. If acquired outside the United States, information that
+indicates a violation of Federal law, including the Uniform Code of Military Justice
+(reference (f)), or a clear and imminent threat to life or property, may also be
+disseminated to appropriate law enforcement authorities. Arecord of the types of
+communications and information subject to acquisition by the illegal electronic
+surveillance equipment may be retained.
+
+C5 .5. PART 5: DEVELOPING. TESTING. AND CALIBRATION OF ELECTRONIC
+EQUIPMENT
+
+ 
+
+C5.5.1. Applicability This part of Procedure 5 applies to developing, testing, or
+calibrating electronic equipment that can intercept or process communications and
+non-communications signals. 'It also includes research and development that needs
+electronic communications as a signal source.
+
+C5.5.2. Procedures
+C5 .52. 1. Signals Authorized for Use
+C552. 1 . 1. The following may be used without restriction:
+
+C5.5.2.1.1.1. Laboratory-generated signals.
+
+32 CHAPTER 3
+

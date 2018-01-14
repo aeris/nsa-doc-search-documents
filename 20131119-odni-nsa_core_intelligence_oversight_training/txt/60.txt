@@ -1,0 +1,46 @@
+DoD 5240.1 —R, December 1982
+
+C23. TYPES OF INFORMATION THATMAYBE COLLECTED ABOUT UNITED
+STATES PERSONS
+
+Information that identifies a United States person may be collected by a DoD
+intelligence component only if it is necessary to the conduct of a function assigned the
+collecting component, and only if it falls within one of the following categories:
+
+C2.3.l . Information Obtained With Consent. Information may be collected about a
+United States person who consents to such collection.
+
+C2.3.2. Publicly Available Information. Information may be collected about a
+United States person if it is publicly available.
+
+C2.3.3. Foreign Intelligence. Subject to the special limitation contained in section
+C2.5., below, information may be collected about a United States person if the
+information constitutes foreign intelligence, provided the intentional collection of
+foreign intelligence about United States persons shall be limited to persons who are:
+
+C2.3.3.l. Individuals reasonably believed to be officers or employees, or
+otherwise acting for or on behalf, of a foreign power;
+
+C2.3.3.2. An organization reasonably believed to be owned or controlled,
+directly or indirectly, by a foreign power;
+
+C2.3.3.3. Persons or organizations reasonably believed to be engaged or about
+to engage, in international terrorist or international narcotics activities;
+
+C2.3.3.4. Persons who are reasonably believed to be prisoners of war; missing
+in action; or are the targets, the hostages, or victims of international terrorist
+organizations; or
+
+C2.3.3.5. Corporations or other commercial organizations believed to have
+some relationship with foreign powers, organizations, or persons.
+
+C2.3.4. Counterintelligence. Information may be collected about a United States
+person if the information constitutes counterintelligence, provided the intentional
+collection of cOunterintelligence about United States persons must be limited to:
+
+C2.3.4.l. Persons who are reasonably believed to be engaged in, or about to
+engage in, intelligence activities on behalf of a foreign power, or international terrorist
+activities.
+
+16 CHAPTER 2
+

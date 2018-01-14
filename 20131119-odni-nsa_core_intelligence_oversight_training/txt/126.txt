@@ -1,0 +1,53 @@
+SECRET//COMINT/—
+
+communications, unless there is reasonable cause to believe that foreign intelligence or
+counterintelligence will be obtained by use of such a selection term.
+
+(b) All such selection‘terms shall be reviewed annually by the Deputy
+Director for Operations, National Security Agency, or his designee to determine whether there is
+reasonable cause to believe that foreign intelligence or counterintelligence will be obtained by
+the use of these selection terms. The review of such selection terms shall include an examination
+of whether such selection terms have in the past resulted in the acquisition of foreign
+intelligence.
+
+(0) Selection terms based on content that have resulted or that are
+reasonably likely to result in the interception of communications to or from a United States
+person shall be designed to defeat, to the eXtent practicable under the circumstances, the
+interception of such communications not containing foreign intelligence.
+
+(2) Foreign communications collected by the United States Signals
+Intelligence System or other authorized entities may be forwarded to the National Security
+Agency as intercepted. This applies to forwarding to intermediate processing facilities, including
+those of authorized collaborating centers pursuant to written agreements, provided such
+forwarding does not result in the production by the United States Signals Intelligence System of
+information in violation of these procedures.
+
+(b) fSﬁ‘S-B-Except as provided in (b)(l), radio communications that pass over
+channels with a terminal within the United States must be processed by use of selection terms,
+unless these communications occur over channels used exclusively by a foreign power.
+
+(1) Radio communications that pass over channels with a terminal in the
+United States may be processed without the use of selection terms only when necessary to
+determine whether a channel contains communications of foreign intelligence interest which the
+National Security Agency wishes to collect. Processing under this section may not exceed two
+hours without approval of the Deputy Director for Operations, National Security Agency, and
+shall in any event be limited to the minimum amount of time necessary to determine the nature
+of communications on the channel and the amount of such communications that include foreign
+intelligence. Once it is determined that the channel contains a sufficient amount of
+communications of foreign intelligence interest to warrant collection and exploitation to produce
+foreign intelligence, additional processing of the channel must utilize selection terms.
+
+4. Dissemination (U)
+
+166%!) Dissemination of signals intelligence derived from foreign communications of, or
+concerning, United States persons is governed by Procedure 4 of DoD Regulation 5240.1—R.
+Dissemination of signals intelligence shall be limited to authorized signals intelligence
+consumers in accordance with requirements and tasking established pursuant to Executive Order
+12333. Dissemination of information that is not pursuant to such requirements or tasking that
+
+Annex to Policy 1—23
+Dated: 11 March 2004
+
+A—9
+SECRET/www—
+

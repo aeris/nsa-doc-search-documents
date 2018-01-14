@@ -1,0 +1,44 @@
+DoD 5240.1 -R, December 1982
+
+C5.5.2.l.l.2. Communications signals with the consent of the
+communicator.
+
+C5.5.2.l.l.3. Communications in the commercial or public service
+broadcast bands.
+
+outside of the United States not used by any known United States person.
+
+C5.5.2.l.l.5. Non-communications signals (including telemetry, and
+radar).
+
+C5.5.2.l.2. Communications subject to lawful electronic surveillance
+under the provisions of Parts 1,2, or 3, of this procedure may be used subject to the
+minimization procedures applicable to such surveillance. -
+
+C5.5.2.l.3. Any of the following may be used subject to the restrictions
+of subparagraph C5.5.2.2., below. -
+
+C5.5.2.l.3.l. Communications over ofﬁcial Government
+communications circuits with consent from an appropriate official of the controlling
+agency.
+
+C5.5.2.l.3.2. Communications in the citizens and amateur-radio _ I
+bands. '
+
+C5.5.-2.l.4. Other signals may be used only when it is determined that it is
+not practical to use the signals described above and it is not reasonable to obtain the
+consent of persons incidentally subjected to the surveillance. The restrictions of
+- subparagraph C5. 5 2. 2 ,below, will apply 1n such cases. The Attorney General must
+approve use of signals pursuant to this subsection for the purpose of development,
+testing, or calibration when the period of use exceeds 90 days. When Attorney General -
+approval 1s required, the DoD intelligence component shall submit a test proposal to the
+General Counsel, DoD, or the NSA General Counsel for transmission to the Attorney
+General for approval. The test proposal shall state the requirement for a period beyond
+90 days, the nature of the activity, the organization that will conduct the activity, and the
+proposed disposition of any signals or communications acquired during the activity. '
+
+C5.5.2.2. Restrictions. For signals described in subparagraphs C5.5.2.l.3. and
+C552. 1 .4. , above, the following restrictions apply:
+
+33 CHAPTER 5
+

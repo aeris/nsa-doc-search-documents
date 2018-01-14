@@ -1,0 +1,51 @@
+SECRET/mm—
+
+(h) (Sﬁ‘SB-Use of direction ﬁnding solely to determine the location of a
+transmitter does not constitute electronic surveillance or collection even if directed at
+transmitters believed to be used by United States persons. Unless collection of the
+communications is otherwise authorized pursuant to this annex, the contents of communications
+to which a United States person is a party monitored in the course of direction ﬁnding shall be
+used solely to identify the transmitter.
+
+2. Retention (U)
+
+-(-S#S'B'Foreign communications of, or concerning, United States persons that are
+intercepted by the United States Signals Intelligence System may be retained in their original
+form or as transcribed only:
+
+(a) if processed so as to eliminate any reference to United States persons;
+
+(b) if necessary to the maintenance of technical data bases. Retention for this
+purpose is permitted for a period sufﬁcient to allow a thorough exploitation and to permit access
+to data that are, or are reasonably believed likely to become, relevant to a current or future
+intelligent requirement. Sufﬁcient duration may vary with the nature of the exploitation. In the
+context of a cryptanalytic effort, sufﬁcient duration may consist of a period of time during which
+encrypted material is subject to, or of use in, cryptanalysis. In the case of international
+commercial communications that may contain the identity of United States persons and that are
+not enciphered or otherwise thought to contain secret meaning, sufﬁcient duration is one year
+unless the Deputy Director for Operations, National Security Agency, determines in writing that
+retention for a longer period is required to respond to authorized foreign intelligence or
+counterintelligence requirements; or
+
+(c) if dissemination of such communications without elimination of references to
+such United States persons would be permitted under section 4.A.4 below.
+
+3. Processing (U)
+
+(a) (Saé‘SB-Foreign communications of, or concerning, United States persons must
+be processed in accordanCe with the following limitations:
+
+(1) When a selection term is intended to intercept a communication on the
+basis of encipherment or some other aspect of the content of the communication, rather than the
+identity of a communicant or the fact that the communication mentions a particular individual:
+
+(a) No selection term may be used that is based on content and that is
+reasonably likely to result in the interception of communications to or from a United States
+person, or which has in the past resulted in the interception of a signiﬁcant number of such
+
+Annex to Policy 1-23
+Dated: 11 March 2004
+
+A-8
+SECRET/www—
+

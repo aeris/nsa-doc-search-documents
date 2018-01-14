@@ -1,0 +1,45 @@
+I DoD 5240.142, December 1982
+
+C6.2.3. Whether concealed monitoring is to occur where the subject has a_-
+reasonable expectation of privacy is a determination that depends upon the
+circumstances of a particular case, and shall be made only after consultation with the
+legal office responsible for advising the DoD intelligence component concerned.
+Reasonable expectation of privacy is the extent to which a reasonable person in the
+particular circumstances involved is entitled to believe his or her actions are not
+subject to monitoring by electronic, optical, or mechanical devices. For example, there
+are ordinarily reasonable expectations of privacy in work spaces if aperson‘s actions
+and papers are not subject to ready observation by others under normal working
+conditions. Conversely, a person walking out of his or her residence into apublic
+street ordinarily would not have a reasonable expectation that he or she is not being
+observed or even photographed; however, such a person ordinarily would have an
+expectation of privacy within his or her residence. '
+
+C6.3. PROCEDURES
+
+C6.3.l. Limitations On Use of Concealed Monitoring. Use of concealed
+monitoring under circumstances when the subject of such monitoring has no reasonable
+expectation of privacy is subject to the following limitations:
+
+C-6.3.l.l. Within the United States, a DoD intelligence component may
+conduct concealed monitoring only on an installation or facility owned or leased by the
+Department of Defense or otherwise in the course of an investigation conducted
+pursuant to the Agreement Between the Secretary of Defense and the Attorney General
+(reference (g)).
+
+C6.3.l.2. Outside the United States, such monitoring may be conducted on
+installations and facilities owned or leased by the Department of Defense. Monitoring
+outside such facilities Ishall be conducted after coordination with appropriate host
+country ofﬁcials, if such coordination is required by the governing Status of Forces
+Agreement, and with the Central Intelligence Agency.
+
+C63 .2. Required Determination. Concealed monitoring conducted under
+paragraph C6.3.l ., requires approval by an ofﬁcial designated in paragraph C6.3.3 .,
+below, based on a determination that such monitoring is necessary to the conduct of
+assigned foreign intelligence or counterintelligence functions, and does not constitute
+electronic surveillance under Parts 1 or 2 of Procedure 5.
+
+C633. Ofﬁcials Authorized to Approve Concealed Monitoring. Ofﬁcials
+authorized to approve concealed monitoring under this procedure include the Deputy
+
+39 ' CHAPTER 3
+
