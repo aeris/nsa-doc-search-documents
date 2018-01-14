@@ -1,0 +1,25 @@
+   
+
+TOP SECRETHCOMINTHREL.... ‘
+
+ 
+
+ 
+
+' (TS)So we can attribute CNE events to user accounts. What else can
+we do?
+
+' Using router accesses we can survey and capture remote
+desktop traffic exiting the source range.
+
+- New hop points!
+- Exploit the source network.
+- Man-in-the-Middle operation
+
+- We sit in the middle of the traffic, we can observe it and
+modify it.
+
+- Let’s add something extra to the traffic.
+
+TOP SECRETHCOMINTIIREL TO USA, AUS, CAN, GBR, NZL 22
+
