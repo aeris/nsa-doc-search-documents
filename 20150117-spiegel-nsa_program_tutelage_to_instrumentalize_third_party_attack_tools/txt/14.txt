@@ -1,0 +1,21 @@
+SEC RETl/COMINTl/REL TO USA,
+
+TUTELAGEF‘EYapabiIities
+
+Latency
+
+Speed
+Adjusted
+
+(SHREL T0 USA, FVEY)
+Latency is the means by which the TUTELAGE in-line
+
+packet processor can stealthily vary the inloutbound speed
+of an adversary’s activities traversing the IAPs to provide a
+diminished quality of service.‘ This creates more time for
+other TUTELAGE capabilities to be executed.
+
+SECRET/[COMINTIIREL To USA, FVEY SKIP T0 APPLICATION ’ 14
+
+ 
+

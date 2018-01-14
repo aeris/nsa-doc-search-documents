@@ -1,0 +1,16 @@
+SECRETI/COMINTl/REL TO USA,
+
+TUTELAGEF‘EYapabiIities
+
+(SNREL T0 USA, FVEY)
+
+Block is the means by which the TUTELAGE in-line
+packet processor can deny entrylexit of network
+activity at the Internet Access Points (lAPs) based
+initially on source andlor destination Internet Protocol
+(IP) addresses and ports.
+
+SECRET/[COMINTIIREL To USA. FVEY SKIP T0 APPLICATION I 13
+
+ 
+

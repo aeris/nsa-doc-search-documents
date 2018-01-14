@@ -1,0 +1,36 @@
+SECRETI/COMINTl/REL TO USA,
+
+TUTELAGEFEYapabiIities
+
+Alert/Tip
+
+Passive Sensor
+Generates Alert
+
+Data
+Request
+
+Generates Alerts
+Collects Data for Analysis
+
+Stora e ' - - .
+Runs Applications 9 DBCISIon Logic.
+
+Requests Data
+
+Decision Establishes Correlations
+Sends Out Tasks
+Sends Alerts to SIGINT Tasking
+
+(SIIREL TO USA, FVEY)
+AlertITip indicates the presence of malicious activity
+
+and communicates this information with the rest of
+the TUTELAGE enterprise andlor the SIGINT
+(passivelactive) enterprise. Rule and Decision Logic
+determine whether data is stored.
+
+SECRET/[COMINTIIREL To USA, FVEY SKIP TO APPLICATION I
+
+ 
+
