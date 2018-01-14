@@ -1,0 +1,53 @@
+T-I-F' IZE-I'FLETI_-'!3I_-'_-'F'.EL TO USE. F"'-'E"J.'
+
+Bowright! {S.-".-"Sl.-".-"FIEL) l hunt people who hack routers (part 5) E {hide-1'
+
+2012.12.14- 01: no pm
+Do not reuse
+
+_ _ Entryr tags: cne. discoroute. router. sigdev
+this Image!
+
+ 
+
+IITSHSIHRELII Happy Friday my esteemed and valued Intelligence Community colleagues! There has
+been a topic of conversation that has started to rumble beneath the surface of the |Cyber—scene
+lately. it's about router hackingIIfor this post. I'm not talking about your home ADSL router. I'm
+talking about bigger routers. such as CiscosﬂuniperslHuaweis used by ISPs for their
+infrastructural. Hacking routers has been good business for us and our S-eyes partners for some
+time now. but it is becoming more apparent that other nation states are honing their skill: and
+joining the scene. Before I get into it too much. let's go over some of the things that someone
+could do ifthey hack a router:
+
+Di"1"ou could add credentials. allowing yourselfto log in any time you choose
+
+Di"i'bu could addi'change routing rules
+
+* 'T'bu could set up a packet capture capability..imagine running Wireshark on an ISP's
+infrastructure router...|ike a local listening post for any credentials being passed over the wirel!)
+
+* 'Tbu could weaken any 'v"PN encryption capabilities on the router. forcing it to create easily
+decryptable tunnels
+
+Di"1"ou could install a dorked version of the Dperating System with whatever functionality you want
+pre-built in
+
+IITSHSIHRELII There are a plethora of things you could do once you get ENE access to a
+router...suffice it to say. getting access to a router is very good for the actor. and very bad for
+the victim. So. we would obviously .Lﬂ'v'E to know which countriesiiactors have access to what other
+routers {especially if it's our routers]. Then the question comes down to:
+
+"How would you identify the fact that someone has ENE access to a router?"
+
+[TSHSIHRELJ There are a handful of ways that you can tell if anyone has access to your router.
+Like. if you are free to log into your own router. you could frequently log in. run diagnostic
+commands. pull the IDS for. more generically. the operating system file]. hash that file. and
+compare that to a list of known-good hashes. But. how would you find out if someone has ENE
+access to a router that you don't own? How would you identify it if the Chinese had access to a
+router in Eimbabwe? If all you have is passive network trafﬁc that we've collected in SIGINT. how
+would you do it?
+
+The rest of this post relates to NSA's methods to detect when countries hack routers. We
+have redacted it to prevent helping those countries improve their ability to hack foreign
+routers and spy on people undetected.
+
