@@ -1,0 +1,33 @@
+ 
+
+Networking Fundamentals
+
+ 
+
+ 
+
+- Define the following cross domain solutions:
+
+— High Assurance Guards
+
+- Connects networks operating within different security domains. Filters traffic like a
+firewall but operates on all levels of the TCP/IP stack.
+
+— SABI (Secret and Below Interoperability)
+
+- Connection of Secret Security Domain to Security Domains of lesser classification
+levels.
+
+— TSABI (Top Secret and Below Interoperability)
+- Connection of Top Secret Security Domain to domains of lesser classification levels.
+— Bastion Host
+
+- ‘A host on an internal network that is also publicly exposed to the Internet or another
+public network. Usually used for service hosting (web, email, etc) or as part of a
+firewall solution.
+
+ 
+
+— NA VlOCOM Maryland Center of Excellence for Non-Kinetic Options —
+32
+

@@ -1,0 +1,36 @@
+ 
+
+Protocol Headers
+
+ 
+
+ 
+
+° Define and describe the structure of the following protocol headers:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+— UDP
+ll] 15 1E: 31
+15-bit mutte- pmt number Ila-bit dentinntinn part number T
+B byte-*5
+lﬁrbil UDP length I-Er-bll: UDP checksum l
+at data Many} {I
+— NA VlOCOM Maryland Center of Excellence for Non-Kinetic Options —
+
+ 
+
+44
+

@@ -1,0 +1,84 @@
+ 
+
+IP Addressing
+
+ 
+
+ 
+
+° Discuss the following as it pertains to ranges of IP addressing:
+
+ 
+
+0+ C1055 A Address
+
+ 
+
+ 
+
+ 
+
+° Classful networks were the original method oﬁ
+distributing address groups to organizations.
+
+ 
+
+Second
+0 Class A: First 8 bits for Network ID and the last W
+
+24 bits for Host ID.
+- 126 Networks .' 16,277,214 Hosts/net
+
+0+ Clan B Adda“ 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Class B: First 16 bits for Network ID and the last 0+ Class c mm;
+
+16 bits for Host ID.
+- 16,384 Networks : 65,534 Hosts/net
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Class C: First 24 bits for Network ID and the last
+
+8 bits for the Host ID.
+- 2,097,152 Networks : 254 Hosts/net
+
+0+ Class D Address
+
+ 
+
+ 
+
+ 
+
+Mil
+
+ 
+
+Ch: I: E Aachen
+
+ 
+
+ 
+
+ 
+
+ 
+
+— NA VIOCOM Maryland Center of Excellence for Non-Kinetic Options —
+49
+

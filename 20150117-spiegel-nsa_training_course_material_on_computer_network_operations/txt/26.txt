@@ -1,0 +1,139 @@
+ 
+
+ 
+ 
+  
+
+CTU 1060.1.1 - NROC
+
+ 
+
+ 
+  
+
+   
+   
+
+CTU CDR
+[0-6]
+
+FLEETFOCUS
+
+Framework and
+support for Navy
+requirements
+
+JOINT FOCUS
+
+Navy support to joint
+priorities
+
+   
+ 
+
+Chief of
+Operations
+[0-3]
+
+  
+
+Technical
+Director [Civilian]
+
+  
+
+Provides structure to
+develop holistic Navy
+capability
+
+ 
+
+Structure supports
+
+manning requirements
+levied on Navy
+
+Support five (5) Combined Task Elements
+
+I CTE CTE
+_ 1060.1.1.1 . 1060.1.12 .
+
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1060.11.13 1060.1.1.4 1060.1.1.5 1020.6.1
+
+ 
+
+ 
+
+ens ][ ens H ens ]§[CND-RA ‘
+
+      
+
+CTE Manning
+, Mission
+,Commander
+
+Mission Alignment
+
+r’ '\
+Unix and Windows Operators: i
+
+EXDIOiterQuelilied
+(lvlinimum Requirement)
+
+NCAT
+
+   
+  
+  
+
+  
+ 
+
+ 
+  
+
+2 Unix-
+Operators
+
+2 Bash.
+
+2 Windows
+Op cram r:
+
+ 
+
+( )‘n (from rs
+
+Service-led JCAT
+
+1 . .
+lnfrusliut‘uire H [“9 JCAT SU ppo r1:
+. , _ Analyst
+U 't'rutoi
+
+Service CNE Support
+
+Routerand Firewall Operators:
+
+May shift between CTE'S depending on l
+operator specialty and mission requirement
+
+ 
+
+ 
+
+ 
+

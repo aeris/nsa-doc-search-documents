@@ -1,0 +1,92 @@
+ 
+
+Routing Table
+
+ 
+
+ 
+
+° Discuss the routing table as it pertains to the router:
+
+— The Routing Table Store's What networks are reachable through each interface along With
+metadata about that route.
+
+/
+
+10.1.0.0 5,1 10.2.0.0 ”*3, 10.2.0.0 ”1311210400
+E0' A’EL‘ eie1 Li 051E0
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+e0 e0
+Renting Table Fleeting Table R00ting Table
+10.1.0.0 E0 0 10.2.0.0 e0 0 10.3.0.0 e0 0
+10.2.0.0 a0 0 10.3.0.0 e1 0 10.4.0.0 E0 0
+10.2.0.0 e0 1 10.4.0.0 e1 1 10.2.0.0 e0 1
+10.4.0.0 a0 2 10.1.0.0 e0 1 10.1.0.0 a0 2
+— NA VlOCOM Maryland Center of Excellence for Non-Kinetic Options —
+
+48
+

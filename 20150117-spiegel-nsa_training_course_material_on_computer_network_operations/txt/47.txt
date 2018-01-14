@@ -1,0 +1,32 @@
+ 
+
+MAC Addressing
+
+ 
+
+ 
+
+° Discuss the following as it pertains to MAC Addressing:
+
+— LENGTH OF MAC ADDRESS IN BITS: 48
+
+— DISPLAY OF MAC ADDRESS: Hexadecimal Format 00:8e:f0:59:31:ae
+— LOCATION OF MAC ADDRESS: First 48 bits in message
+
+— MANUFACTURER SPECIFIC BITS: First 3 Octets
+
+— HOST SPECIFIC BITS: Last 3 Octets
+
+{IILJI
+
+15-1th Endoctet th't octet -1I11 octet E:II1 ante-t E-Ih octet
+1U1111131-— til-1111311211 1112142111'1 12111311111 01121121111111 12111111310
+
+{til [mmptlnt‘tiuirtlnl] 1h!
+iii-1|.[globaI-1cumlll tIit
+
+— NA VlOCOM Maryland Center of Excellence for Non-Kinetic Options —
+4 5
+
+ 
+

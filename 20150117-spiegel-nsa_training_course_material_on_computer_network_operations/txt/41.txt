@@ -1,0 +1,94 @@
+ 
+
+TCP/IP Model
+
+ 
+
+ 
+
+- List and describe the 4 layers of the TCP/IP Model to include how they
+
+relate to the OSI Model:
+
+— The TCP/IP model combines
+the Session and Presentation
+layers with the Application
+layer. It is assumed if a
+program has need of layer 5 or
+6 functionality, then the
+program Will have to provide it.
+
+TCPi’IP
+
+ 
+
+APPLICATIONS
+
+OSI
+
+ 
+
+Application Layer
+
+ 
+
+Presentation Layer
+
+ 
+
+ 
+
+TranSpﬂrI Layer
+TCP and UDP
+
+Session Layer
+
+ 
+
+ 
+
+Network Layer
+IFI
+
+TranSport Layer
+
+ 
+
+ 
+
+Data Linic Layer
+
+Network Layer
+
+ 
+
+ 
+
+ 
+
+Physicai Layer
+
+Data Link ”Layer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+— NA VIOCOM Maryland
+
+Center of Excellence for Non-Kinetic Options —
+
+Physical Layer
+
+ 
+
+ 
+
+01
+

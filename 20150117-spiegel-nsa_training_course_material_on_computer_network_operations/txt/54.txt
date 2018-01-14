@@ -1,0 +1,113 @@
+ 
+
+IP Subnets
+
+ 
+
+° Discuss the following as it pertains to IP Subnets:
+
+— Number of bits used in a subnet mask.
+
+— Borrowing bits from the host portion of the address.
+— Benefits of subnetting.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+o 1;: us. 214 32
+m '3 9.. Tait?
+1i1l11|111 I1I 11l1_11-DUDDDDDD
+255 255 255 if:
+1 1 1 1 1 1 1 1 I 1 1| 1 1 1 L1 1 i—
+255. 255 155 1213. ll
+— NA VlOCOM Maryland
+
+ 
+
+How the subnet mask identifies the network portion of the of the IP address.
+
+Elm-1.1: Network
+201'] 13' Q4 I":
+
+ll- Subn-u-‘l ID Bil:
+El Haul ID- Bil:
+|_|I lath-ml.
+
+211-4 Hush
+
+I :illbnlﬂ'l ID Bit
+JI- Hm‘l II'.II Bil:
+
+r2 Ending“.
+
+I'ihﬁ Heal: Each]
+
+Center of Excellence for Non-Kinetic Options —
+
+52
+

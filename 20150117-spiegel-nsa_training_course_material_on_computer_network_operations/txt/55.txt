@@ -1,0 +1,30 @@
+ 
+   
+
+TELNET
+
+ 
+
+ 
+
+ 
+  
+  
+ 
+
+- Discuss the following as it pertains to TELNET:
+
+— Use: Create a Network Virtual Terminal session on a
+— Type oﬁ connection: TELNET uses TCP as the
+
+— Default port number: 23
+
+ 
+
+— NA VIOCOM Maryland
+
+ 
+
+Center 015 Excellence for Non-Kinetic Options —
+53
+

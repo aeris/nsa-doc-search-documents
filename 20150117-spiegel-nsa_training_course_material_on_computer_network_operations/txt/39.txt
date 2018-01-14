@@ -1,0 +1,28 @@
+ 
+
+Network Layer Protocols
+
+ 
+
+ 
+
+- Define the following network layer protocols to include their relationship to
+TC P/l P:
+— IP
+- Layer 3 (Network) used for network addressing and routing
+— TCP
+- Layer 4 (Transport) used for application session and reliable delivery
+— UDP
+- Layer 4 (Transport) used for application communication.
+— ARP
+- Layer 2 (Link) used for Mapping IP addresses to MAC Addresses
+— RARP
+- Layer 2 (Link) used for Mapping MAC addressees to IP Addresses
+— ICMP
+- Layer 3 (Network) used for Network Diagnostics
+
+— NA VlOCOM Maryland Center of Excellence for Non-Kinetic Options —
+37
+
+ 
+

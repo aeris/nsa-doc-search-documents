@@ -1,0 +1,54 @@
+ 
+
+Protocol Headers
+
+ 
+
+ 
+
+- Define and describe the structure of the following protocol headers:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+— IP [I 15 16 31
+4-bit I-blt header B-bn: type of sermon;- _ _
+version Iongll'l (T051 1&an Inlat length {In bytes}
+. . . 3-bit 7 —.
+IEHJLI: Ltlun'clﬁlziltlun ﬂags 13-bit Eragment affair!
+34’“ Em“ “1” 43-bit pro-tutu! 16-bit header-ducksum m hyles
+\
+32-Htmum1r‘ address-
+32-bit dwtinatim IF‘admess
+. .L
+:7 option”. (if any] £3
+:7 date: If
+— NA VlOCOM Maryland Center of Excellence for Non-Kinetic Options —
+
+42
+

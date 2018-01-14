@@ -1,0 +1,83 @@
+ 
+
+OSI Model
+
+ 
+
+ 
+
+- List and describe the 7 layers of the OSI Model:
+
+[war Fla-ma lawr Hun.
+
+Funetiu-n Example-a
+
+_. TEIFIIE-I
+- -—-
+
+g m -
+
+ 
+ 
+
+Entry min-n =Inr|i Dthnr Fr-rmnssing AHIEFLEEI' g
+.-
+
+Emapeulaﬁ-z-n - Manages Multiple ﬂllpl-Iicnlln-h: W Da-Eneapsulatiun
+
+  
+ 
+   
+   
+   
+
+TCF' Header Data
+
+   
+
+ 
+  
+ 
+
+IF Hip-:1 Irlilr Data
+
+q
+
+LLC: Header Data
+
+ 
+
+I‘FUUIEITIJ'IIIJEI
+
+ 
+
+Frr-vid-Era REIEIth and Uﬂvrﬁllﬂblﬁ m
+
+[MI I'n'ISI 5-":iI1-jllﬂlrllr Curmulmll
+
+Fruviuea Lam-:ai ﬁdnraaﬁinn
+Uzutl h'f FLII-IIIL'I:
+
+Access Enepalnls wilt-n MM M28
+ﬂlﬂdrciﬂ- Errur Hummus. Connection HELE
+
+Snumlies Hahn-39. Win! Spiked. EIJLTEI 5'32
+and Pun-Gui Calms-Es 'u'.35
+
+Dam FCSV
+
+  
+
+“WINNIE-ID
+
+ 
+
+ 
+
+— NA VIOCOM Maryland
+
+ 
+
+Center of Excellence for Non-Kinetic Options —
+38
+

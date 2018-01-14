@@ -1,0 +1,66 @@
+ 
+
+Protocol Headers
+
+ 
+
+ 
+
+- Define and describe the structure of the following protocol headers:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+_ TOP 0 15 '12. 3'
+T
+[IS-bit mum} putt numb-er Iﬁr-h'tt' destination port number
+32-bit sequence number
+32-111: achiowlcdgmenr number 10 byie-E
+. U .I'I. II R S F
+‘ﬁ'ﬁf" 'fﬂiﬁf' 1-: c 5 5 v I lﬁ-bitwindowaiae
+G K H T N N
+16-bit “PCP check-sum iﬁ-h-II urgenI-poinmr
+1
+‘1/ nptiurw. {if any-1| {
+[7 datatitany) %
+— NAVIOCOM Maryland Center of Excellence for Non-Kinetic Options —
+
+43
+
