@@ -1,0 +1,31 @@
+I*I Communications Security Centre de la sécunle TOP SECRET/[COMINT/IREL TO FVEY
+Establishmsnl Canada das telecommunications Canada
+
+ 
+ 
+
+   
+
+The Grand Challenge — Detection
+
+- EONBLUE is the cyber threat detection sensor E]
+
+developed and deployed in SIGINT and ITS L . E]
+— Cyber threat tracking (signature-based detection) gt
+— Cyber threat discovery (anomaly-based detection)
+
+- A 6+ year effort that incorporates the best of breed
+detection algorithms/technology in collaboration with
+our 5-eyes partners
+
+— Based on classiﬁed knowledge
+— Scales to major ISP network speeds (10G)
+— Enables rapid prototyping to adapt to ever changing threats
+
+Saleguarrling Canada 5 security through information superiority C, , d',"
+Preserver In séclmle‘ (Iu Canada par la supmiolité rte i'irrformalion dnd d
+
+Speaker: -(ITS)
+
+— Message is commercial is not enough
+

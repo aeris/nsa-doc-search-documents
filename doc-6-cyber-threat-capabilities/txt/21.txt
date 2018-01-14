@@ -1,0 +1,42 @@
+'* Communications Security Centre de la sécurité TOP SECRET/[COMINTIIREL TO FVEY
+Establishment Canada des telecommunications Canada
+
+ 
+
+ 
+
+   
+ 
+
+ 
+
+ 
+
+' All elements acting as one
+
+- Defence at:
+
+— Network Edge (ITS)
+
+° Localized/tailored mitigation (e.g. blocking, binary neutering,
+redirection)
+
+° Focused response to ongoing and potential threats
+— Network Core (SIGINT)
+° Global mitigation possible (e.g. redirection, null routing, filtering)
+
+° Large scale (but still focused!) response to ongoing and potential
+threats
+
+— Adversary Space (CN E)
+
+- Reconnaissance — probe/explore/learn adversarial network space
+
+° Co-habitate covert network infrastructure for info gathering, tool
+extraction, etc
+
+Safeguarding Canada’s security through information superiority C dl‘l
+Préserver la sécurité du Canada par la supériorité de I ’information aIla a
+
+    
+
