@@ -1,0 +1,38 @@
+TOP SECRET/ISIIINOFORN
+
+ 
+
+gladly ’ 7 D ETAI LS
+
+E
+ammsron new “ E
+
+1) (U//FOUO) Current focus is on SIGINT/COMINT
+
+2) (U//FOUO) Review every valid DNI and DNR metadata record passing
+through the NSA SIGINT infrastructure
+
+a) (U//FOUO) For the Map View, only display aggregated counts of records with a
+
+normalized number or an administrative region populated.
+
+b) (U//FOUO) For the Org View, display aggregated counts of every valid record.
+
+3) (U//FOUO) Raw data, analytics, and back-end database are all conducted in
+the cloud (HDFS, MapReduce, Cloudbase).
+
+ 
+
+(U//FOUO) BOUNDLESSINFORMANT is hosted entirely on corporate services
+and leverages FOSS technology (i.e. available to all NSA developers).
+
+TOP SECRET/ISIIINOFORN O
+
+ 
+
+ 
+
+ 
+
+ 
+
