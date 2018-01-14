@@ -1,0 +1,16 @@
+(TSHSIHREL) Happy Friday my esteemed and valued Intelligence Community colleagueslThere has been a topic of conversation that has started to rumble beneath the
+surface ofthe Cyber-scene lately, it's about router hackingtforthis post. I'm not talking about your home ADSL router. I'm talking about bigger routers. such as Ciscosl'Junipers
+lHuaweis used by ISPs fortheir infrastructure). Hacking routers has been good business for us and our S-eyes partners for some time now, but it is becoming more apparent
+that other nation states are honing their skillzandjoining the scene. Before I get into ittoo much, let's go over some ofthe things that someone could do ifthey hack a router:
+
+* You could add credentials. allowing yourselfto log in anytime you choose
+
+* You could addlchange routing rules
+
+* You could set up a packet capture capability...imagine running Wireshark on an ISP's infrastructure router...|ike a local listening postfor any credentials being passed overthe
+wiret!)
+
+* You could weaken any VPN encryption capabilities on the router, forcing it to create easily decryptable tunnels
+
+* You could install a dorked version ofthe Operating System with whatever functionality you want pre-built in
+
