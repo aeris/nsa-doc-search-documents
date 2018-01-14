@@ -1,0 +1,52 @@
+SECRET/K?OMINT/INOFORNHZ0310108
+
+(4) the conmmnication contains information pertaining to a threat of serious harm to life
+or property. (S)
+
+Notwithstanding the above, if a domestic communication indicates that a target has entered
+
+the United States, NSA may advise the FBI of that fact. Moreover, technical data regarding
+domestic communications may be retained and provided to the FBI and CIA for collection ,
+avoidance purposes. (S//SI)
+
+Section 6 — Foreign Communications of or Concerning United States Persons (U)
+(21) Retention (U)
+
+Foreign communications of or concerning United States persons collected in the course of an
+acquisition authorized under section 702 of the Act may be retained only:
+
+(1) if necessary for the maintenance of technical data bases. Retention for this purpose is
+permitted for a period sufﬁcient to allow a thorough exploitation and to permit access
+to data that are, or are reasonably believed likely to become, relevant to a current or
+ﬁiture foreign intelligence requirement. Sufﬁ cient duration may vary with the nature
+of the exploitation.
+
+a. In the context of a cryptanalytic effort, maintenance of technical data bases
+requires retention of all communications that are enciphered or reasonably
+believed to contain secret meaning, and sufﬁcient duration may consist of any
+period of time during which encrypted material is subject to, or of use in,
+cryptanalysis.
+
+b. In the case of connnunications that are not enciphercd or otherwise thought to
+contain secret meaning, sufﬁcient duration is ﬁve years unless the Signals
+Intelligence Director, NSA, determines in writing that retention for a longer
+period is required to respond to authorized foreign intelligence or
+counterintelligence requirements;
+
+(2) if dissemination of such communications with reference to such United States persons
+would be permitted under subsection (b) below; or
+
+(3) if the information is evidence of a crime that has been, is being, or is about to be
+committed and is provided to appropriate federal law enforcement authorities. (S//Sl)
+
+(b) Dissemination (U)
+
+A report based on connnunications of or concerning a United States person may be
+disseminated in accordance with Section 7 or 8 if the identity of the United States person is
+deleted and a generic term or symbol is substituted so that the information cannot reasonably
+be connected with an identiﬁable United States person. Otherwise, dissemination of
+intelligence reports based on communications of or concerning a United States person may
+
+SECRETHCOMINTHNGFORN/IZOS20108
+6
+

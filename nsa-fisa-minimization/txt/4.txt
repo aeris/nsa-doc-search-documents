@@ -1,0 +1,52 @@
+SECRETl/COMINTl/NOFORNHZOB10108
+
+names or identiﬁers and will be limited to those selection terms reasonably likely to
+return information about foreign intelligence targets. (S/lSl)
+
+(6) Further processing, retention and dissemination of foreign communications will be
+made in accordance with Sections 4, 6, 7, and 8 as applicable, below. Further
+processing, storage and dissemination of inadvertently acquired domestic
+communications will be made in accordance with Sections 4, 5, and 8 below. (S//Sl)
+
+(c) Destruction of Raw Data (C)
+
+Communications and other information, including that reduced to graphic or "hard copy"
+form such as facsimile, telex, computer data, or equipment emanations, will be reviewed for
+retention in accordance with the standards set forth in these procedures. Communications
+and other information, in any form, that do not meet such retention standards and that are
+known to contain communications of or concerning United States persons will be destroyed
+upon recognition, and may be retained no longer than five years in any event. The
+communications that may be retained include electronic communications acquired because of
+limitations on NSA's ability to ﬁlter communications. (S/lSl)
+
+(d) Change in Target‘s Location or Status (Sl/Sl)
+
+(1) In the event that NSA determines that a person is reasonably believed to be located
+outside the United States and after targeting this person learns that the person is inside
+the United. States, or if NSA concludes that a person who at the time of targeting was
+believed to be a non-United States person is in fact a United States person, the
+acquisition from that person will be terminated without delay. (S//Sl)
+
+(2) Any communications acquired through the targeting of a person who at the time of
+targeting was reasonably believed to be located outside the United States but is in fact
+located inside the United States at the time such communications were acquired, and
+any communications acquired by targeting a person who at the time of targeting was
+believed to be a non—United States person but was in fact a United States person, will
+be treated as domestic communications under these procedures. (S//SI)
+
+Section 4 - Acquisition and Processing ~ Attorney—Client Communications (C)
+
+As soon as it becomes apparent that a communication is between a person who is known to
+be under criminal indictment in the United States and an attorney who represents that
+individual in the matter under indictment (or someone acting on behalf of the attorney),
+monitoring of that communication will cease and the communication will be identified as an
+attorney-client communication in a log maintained for that purpose. The relevant portion of
+the communication containing that conversation will be segregated and the National Security
+Division of the Department of Justice will be notiﬁed so that apprOpriate procedures may be
+established to protect such communications from review or use in any criminal prosecution,
+while preserving foreign intelligence information contained therein. Additionally, all
+proposed disseminations of information constituting United States person attorney—client
+
+SECREW/COMMT//NOFORN//20320108
+4
+

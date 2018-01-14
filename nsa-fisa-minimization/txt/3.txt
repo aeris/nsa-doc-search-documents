@@ -1,0 +1,50 @@
+SECRETHCOMINTl/NDFOWNZM10108
+
+Section 3 — Acquisition and Processing — General (U)
+(a) Acquisition (U)
+
+The acquisition of information by targeting non~United States persons reasonably believed to
+be located outside the United States pursuant to section 702 of the Act will be effected in
+accordance with an authorization made by the Attorney General and Director of National
+Intelligence pursuant to subsection 702(a) of the Act and will be conducted in a manner
+designed, to the greatest extent reasonably feasible, to minimize the acquisition of
+information not relevant to the authorized purpose of the acquisition. (S//Sl)
+
+(b) Monitoring, Recording, and Processing (U)
+
+(1) Personnel will exercise reasonable judgment in determining whether information
+acquired must be minimized and will destroy inadvertently acquired communications
+of or concerning a United States person at the earliest practicable point in the
+processing cycle at which such communication can be identiﬁed either: as clearly not
+relevant to the authorized purpose of the acquisition (cg, the communication does
+not contain foreign intelligence information); or, as not containing evidence of a
+crime which may be disseminated under these procedures. Such inadvertently
+acquired communications of or concerning a United States person may be retained no
+longer than five years in any event. The communications that may be retained
+include electronic communications acquired because of limitations on NSA’s ability
+to ﬁlter communications. (S//Sl)
+
+(2) Communications of or concerning United States persons that may be related to the
+authorized purpose of the acquisition may be forwarded to analytic personnel
+responsible for producing intelligence information from the collected data. Such
+connnunications or information may be retained and disseminated only in accordance
+with Sections 4, 5, 6, and 8 of these procedures. (C)
+
+(3) Magnetic tapes or other storage media that contain acquired communications may be
+processed. (S)
+
+(4) As a communication is reviewed, NSA analyst(s) will determine Whether it is a
+domestic or foreign communication to, from, orabout a target and is reasonably
+believed to contain foreign intelligence information or evidence of a crime. Only
+such communications may be processed. All other communications may be retained
+or disseminated only in accordance with Sections 5, 6, and 8 of these procedures.
+(S/lSI)
+
+(5) Magnetic tapes or other storage media containing communications acquired pursuant
+to section 702 may be scanned by computer to identify and select communications for
+analysis. Computer selection terms used for scanning, such as telephone numbers,
+key words or phrases, or other discriminators, will not include United States person
+
+SECRET/l COMINTl/N OFORN/l20320108
+3
+

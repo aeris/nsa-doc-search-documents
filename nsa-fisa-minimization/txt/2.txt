@@ -1,0 +1,52 @@
+SECRET//COMINT//NOFORN//ZG310108
+
+(e) Foreign communication means a communication that has at least one connnunicant
+outside of the United States. All other conununications, including communications in
+which the sender and all intended recipients are reasonably believed to be located in the
+United States at the time of acquisition, are domestic connnunications. (S//SI)
+
+(i) Identiﬁcation of a United States person means the name, unique title, address, or other
+personal identiﬁer of a United States person in the context of activities conducted by that
+person or activities conducted by others that are related to that person. A reference to a
+product by brand name, or manufacturer's name or the use of a name in a descriptive
+sense, e.g., "Monroe Doctrine," is not an identiﬁcation of a United States person. (S//SI)
+
+(g) Processed or processing means any step necessary to convert a communication into an
+intelligible form intended for human inspection. (U)
+
+(h) Publicly-available information means information that a member of the public could
+obtain on request, by research in public sources, or by casual observation. (U)
+
+(i) Technical data base means information retained for cryptanalytic, trafﬁc analytic, or
+signal exploitation purposes. (S//Sl)
+
+(j) United States person means a United States person as deﬁned in the Act. The following
+guidelines apply in determining whether a person whose status is unknown is a United
+States person: (U)
+
+(l) A person known to be currently in the United States will be treated as a United States
+person unless positively identiﬁed as an alien who has not been admitted for
+permanent residence, or unless the nature or circumstances of the person‘s
+communications give rise to a reasonable belief that such person is not a United
+States person. (U)
+
+(2) A person known to be currently outside the United States, or whose location is
+unknown, will not be treated as a United States person unless such person can be
+positively identiﬁed as such, or the nature or circumstances of the person’s
+communications give rise to a reasonable belief that such person is a United States
+person. (U)
+
+(3) A person known to be an alien admitted for permanent residence loses status as a
+United States person if the person leaves the United States and is not in compliance
+with 8 U.S.C. § 1203 enabling re-entry into the United States. Failure to follow the
+statutory procedures provides a reasonable basis to conclude that the alien has
+abandoned any intention of maintaining his status as a permanent resident alien. (U)
+
+(4) An unincorporated association whose headquarters or primary office is located
+outside the United States is presumed not to be a United States person unless there is
+information indicating that a substantial number of its members are citizens of the
+United States or aliens lawfully admitted for permanent residence. (U)
+
+SECRET/K3OMINT/INOFGRN/IZMZO108
+2
+
