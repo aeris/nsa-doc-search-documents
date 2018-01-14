@@ -1,0 +1,78 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Experiment Viewer View.67 Visualise the status of CNE operations, based on information STARGATE (Cheguerboard)
+held within the End Point System.
+Experiment Viewer View.68 ability to display ‘pattern of life' based on presence data. LOOKING GLASS
+'social' networks to overlay the physical and logical network.
+Refine Viewer View.69 ability to synchronise data - ability to convert times on target
+data to Zulu/correct time if settings on target box/network are
+wrong.
+Experiment Viewer View.70 Ability to view collected items that have been reported and to LOOKING GLASS
+labell items as reported.
+Refine Viewer View.71 click on email account] Instant Messaging account to see list STARGATE (E-maill visualisation)
+of buddies STARGATE (Endpoint Data Characterisation)
+Refine Viewer View.72 click on email account to see list of emails received I Subject STARGATE (E-maill visualisation)
+I From: STARGATE (Endpoint Data Characterisation)
+Experiment Viewer View.73 highlight files in suspicious places. eg This is supposed to be STARGATE (Machine survey/summary component)
+a system file bUT “3 in the wrong place. STARGATE (Endpoint Data Characterisation)
+Experiment Viewer View.74 highlight whether this is a valid 'system‘ file. Helpfull in telling STARGATE (Endpoint Data Characterisation)
+analyst what is worth tasking.
+Refine Viewer View.75 How access was gained (MITM, content based -with email STARGATE (Machine survey/summary component)
+used. QUANTUM etc)
+Refine Viewer View.76 links to glossary of CNEITAOIother glossary. breakdown of D1.3 (support provision of STARGATE training)
+plugin options and definitions LOOKING GLASS
+Refine Viewer View]? list of emaill accounts to passwords STARGATE (E-maill visualisation)
+STARGATE (Endpoint Data Characterisation)
+Refine Viewer View.78 MAC/serial numbers & Equipment description - e.g. what is STARGATE (Machine survey/summary component)
+"box"? provide information on capability I what are OS
+properties
+Refine Viewer View.79 Radio properties of box (eg wifi or vsat modem) STARGATE (Machine survey/summary component)
+
+ 
+
+ 
+
+ 
+

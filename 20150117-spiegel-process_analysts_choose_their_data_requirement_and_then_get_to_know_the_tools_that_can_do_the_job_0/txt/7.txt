@@ -1,0 +1,207 @@
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+  
+
+   
+
+ 
+
+  
+
+ 
+
+ 
+  
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+ 
+
+ 
+
+  
+
+ 
+
+  
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Experiment Viewer View.24 tasking history - an ability to see the status of all files and the STARGATE (Task management component)
+users and others' current tasking Requested / Rejected/
+Accepted / Delivered, viewable over an individual
+machine/project/network/SigintUser/SigintTeam/types of
+task/status etc etc (ie by any property of the tasking
+including time)
+Experiment Viewer View.25 Visualise file structures across different machines and STARGATE ROADMAP iteration 8
+browse through them. Dinrvalks. file listings and other survey STARGATE (Graphical query engine)
+results to be included. Subtract what's the same (or what's STARGATE (Endpoint Data Characterisation)
+different) STARGATE (machine survey/summary component)
+refine Viewer View.26 ahility to click on email account and look at associated web STARGATE (Endpoint Data Characterisation)
+browsing (algorithm to sessionise web sessions to email PASSIVE/ACTIVE convergence
+accounts > user) Analytics
+Refine Viewer View.28 Ability to see who has viewed the network I project/ machine LOOKING GLASS
+/ individual files (including self!) UDAQ2
+Refine Viewer View.29 An ability to add and amend comments to the machine and LOOKING GLASS
+to label it with values as above.
+Refine Viewer View.30 Applications installed and versions/settings STARGATE (Machine survey/summary component)
+Experiment Viewer View.31 Be able to graphicallv represent how a computer is STARGATE (Network visualisation)
+.communicating within the network, as well as outside. STARGATE (Network summary piugin)
+* Which ports are they using? Converged analytics
+* Are they transferring Information vra WP? STARGATE (Machine survey/summary component)
+Experiment Viewer View.32 Capa‘b'lilty £3 compare machines across a'proiégf/ac‘fog's STARGATE (Machine survey/summary component)
+CNE STARGATE (Endpoint Data Characterisation)
+Refine Viewer View.33 .click on email account to see other computers this account STARGATE (Endpoint Data Characterisation)
+has been seen on in this particular network/ other CNE STARGATE (Network visualisation)
+Experiment Viewer View.34 W55??? (armrﬁé'ﬁﬂérks - different operations (eg NSA. STARGATE (Network visualisation)
+EREPO, RUFFLE) may have access at different points of a STARGATE (Network summary plugin)
+network STARGATE (Endpoint Data Characterisation)
+Refine Viewer View.35 Connecting my network internal to external / CNE to Passive GLOBAL SURGE
+Refine Viewer View.36 Connection Logs to the network/internet, by type as well as STARGATE (Endpoint Data Characterisation)
+time for machine & target (eg POP3 logon times. dialup
+connection times wifi ssids)
+Refine Viewer View.37 Display address book and signature values from apps on STARGATE (E-mail visualisation)
+machine (eg outlook)
+Refine Viewer View.38 Display messaging activity from lM clients STARGATE (Endpoint Data Characterisation)
+LOOKING) GLASS
+Refine Viewer View.39 Compare machines across a project/CNE - ﬁles
+sent/received
+Experiment Viewer View.40 find where the same values are present elsewhere (in STARGATE (Graphical query engine)
+
+ 
+
+ 
+
+ 
+
+  
+
+metadatalconte nt/other accesses)
+
+ 
+
+ 
+
+  
+
+STARGATE (Endpoint Data Characterisation)
+
+ 
+
+ 
+
