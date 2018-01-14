@@ -1,0 +1,128 @@
+Twiller sources:
+
+The ady.ce tron. MP-LEG on th.s .ssue .s that " oy.ded the accounts you are select.ng tor acqulslllon meel the cnter-ta as agreed .n the approvals spreadsheet, ..e. those ot~~acadenncs spec.al.s.ng .n the .dent.r.cat.on and .nyest.gat.on otvulnerab.l.t.es and malware", there .s no need to seek authonsat.on tor each .nd.y.dual Tw.tter account."
+Our select.on otTw.tter sources .s currently as l.sted aboy but wtll undoubtedly .ncrease over t.n.e.
+
+ 
+
+Further potenttal sources ottnterest are tound at Comp l‘rig‘g rilyin ‘wsiendivl *ws
+
+m] P rocessing
+
+lntttally, these antcles get processed tnto three components:
+
+Iﬂ] Conlenl
+
+The content wtll be the tull textual content ot the antcle. Thts wtll be stored as some sort otCLOP tn a database.
+mm] Memdnm
+
+We would strtp metadata trom the antcle such as
+
+o Author/Source
+o Datettmeorsubmtsston
+
+and used th.s to update a Source D.rectory . .ntorn.at.on about the .nd.y.dual sources. For example:
+Alllhor
+Number of amcles ln LOVELY HORSE
+
+.
+. Average usetulness .at.ng . see teedback n.echan.sn.
+. Tags ofsubjecl n.atter l.nked wllh th.s source? . see .ndex.ng
+
+mm] Index
+This ls [he lrnponanl bll. The ﬁlm ls lo tndex [he unslniclurod lnformallon so lhal ll can be llnkod back lo
+
+- An analyst‘s pantcular tnterest
+c As enrtchment to an ex tsttng tnvesltgalton
+
+The proposed .dea ts to make use ottagg.ng tdenn.ng ‘lndexlng‘ as ‘ldenllfylng keywords). Each an.cle would be tagged wllh .ntorrnat.on that had been extracted tron. .t. These tags could be IP addresses, don.a.ns, or any text st.-.ng tron. w.th.n the content ot the art.cle. Ettectwely these tags are the output otent.ty ex t.act.on, and th.s l.st ot
+lags would lhen be assoclalod Wllh lhal arllcle.
+
+s.n..larly, l.sts ot tags are assoc.ated wllh .nd.y.dual analysts, to deﬁne the.r spec.t.c .nterest set.
+w. us... ego...“ pueragrr
+
+We would need a pot ortags that becomes our enttty set whtch we‘re extracttng from new antcles comtng tn. How to generate thts pot oflags'!
+
+Slmple tdea would be to regex tor lP addresses and don.atns to stan ott wllh.
+
+Could tndex every capttaltsed word tn a blog tttle.
+
+Could get analysts to provtde a ltst ot keywords they are spectrtcally tnterested tn.
+
+Could we extract keywords from extsttng analyst toolsets - ror tnstance, do analysts tag tnvesltgaltons Wllhln Palanttr’!
+Analysts should be encouraged to tag antcles they read
+
+There ts potenttal to ltnk thts enttty ex ttactton tntttattve tn wtth corporate enttty extractton tools that may provtde more sophtsttcated matchtng.
+
+. Could try and analyttcally tdenttty tags. whole antcles could be lokenuod and a word count generated. lta pantcular tern. appeared, say, 4 or 5 ttmes tn the current week, but not last week, then maybe ll-tal‘s a new trend? ln whtch case we should add thts terrn to the pot ottags.
+[mix] Feedback mechanism
+ln.ponant to allow analysts easy abtltty to appratse usetulness ottntorn.atton. Analysts should be able to ‘llke‘ content tron. whtchever tntertace ll-ley‘re accesstng the content. lt an analyst ltkes a pantcular antcle, tags tron. that antcle are auton.attcally added to thetr personal tag ltst.
+
+An.cles can have a usetulness .at.ng ass.gned to then. . generate some metnc on the l.nes ot tnun.ber ot ‘llkes‘murnber ofvlews). An.cles that have a usetulness .at.ng over a spec.t.c threshold could be pushed to all analysts. An average ot the usetulness .at.ngs across all art.cles tron. one source can be used to app.a.se d.tterent sources .
+almost becomes a crude ‘confldenoe tactor .n the .ntorrnat.on . should l lmsl/acl upon th.s lnformallon'!
+
+[m1 Visualisation and Access
+Need to be dtl‘rer-ent ways analysts access and vtew thts content.
+- Palant.r. as ennchn.ent to ex.st.ng .nyest.gat.ons. s.n..larly to the current ennchn.ent helper, any an.cles that had tags wh.ch are ent.t.es w.th.n the .nyest.gat.on are rlagged up. The content should then be y.ewable .n a human readable torrnat w.th.n Palant.r.
+. Alerts . analysts should be alerted when a new an.cle .s tagged wllh a tag tron. the.r .nterest set. How should th.s alen.ng happen? Emall'! RSS food?
+0 General search, there should be LOVELY HORSE tront end that can be used tor analysts to search across the whole reposllory. Would want to tnvesttgate tools that can provtde Google—llke searchtng (need to tnvesttgate MERA PEAK, NSA‘s LEXHOUND).
+. May need to be a t.n.et.an.e elemenl .n the ennchn.ent, content that .s 2 years old may not be relevant.
+POC: [REDAmED]<tn.uu >
+[gdit] Your Thoughts
+ltyouye got any thoughts on th.s .n.t.at.ye, please get .n touch e.ther d.rectly to [REDACTED], or teel tree to ed.t th.s sect.on and add then. below:
+.
+Relnevod from "[REDACTED]"
+
+Vim
+
+ 
+
+Mov
+Watc
+
+:-
+
+ 
+
+Addtttonal Stattsttcs
+Pemmal look
+Navigauun
+Math Peg‘
+
+s D Ear:
+Wlklﬂ‘dla error
+
+Ask Me About
+Rendgrn pay
+
+Read a Problem
+c
+
+ 
+
+TMII'NIX
+
+MiaLhnkLhm:
+Relalod changes
+plead ﬁle
+59 ‘Clﬁl pg: *5
+ntab
+
+ 
+
+- Thts page was last modtrted on a February 2012, at 09:40.
+. Thts page has been accessed 533 ttmes.
+All material ts
+
+   
+   
+ 
+
+0 About GCWtkt
+o Dlsclalmers
+
+TOP SECRET STRAPl COMINT
+The maxth classtrtcatton allowed on GCWtkt ts TOP SECRET STRAP] COMIVT. Cltck to read lnappﬂpﬂale content.
+
+ 
+

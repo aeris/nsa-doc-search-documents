@@ -1,0 +1,172 @@
+ 
+
+TOP SECRET STRAPl COMlNT
+The maxth classtﬁcatton allowed on GCWtkt ts TOP SECRET STRAP] COMIYT. Cltck to rem“ inappﬂpﬂale content.
+FanCWIkI help enctuet verdant [REDACTED] in r um rd w:
+
+ 
+
+LOVELY HORSE
+
+From GC Wiki
+Jump to: medium. mum
+LOVELY HORSEJPG
+LOVELY HORSEZJPG
+
+   
+
+   
+
+LOVELY HORSE is a T(. Task 0 144 inilialive as parl of DO (formerly NDIST) and Ike Cyber Theme lowards developing 1mm Source capabilily. So Far, we have worked lowards making slmclurod dalasels available on IJ'te high side For analysls lo use - lhis dala is available will-tin HAPPY TR] ER. We are now looking
+towards nraktng use otnrore unstructured tntorrnatton tblogs, torunrs, Twiller). LOVELY HORSE seeks to experimenl wtth provtston otan tndexed reposilory or unstructured tntorrnatton that can be used to push content or inleresl to tndtvtdual analysts via a vanely or ntechantsnrs.
+
+See below for more delalls.
+
+ 
+
+The inilial LOVELY HORSE prototype can be accessed tronr h_
+
+Soc aka 7 BIRD SEED
+
+Contents
+
+.LEmhltrmtathtmnt
+. z lntttal mololm‘
+o 2.1 Current sources
+
+ 
+
+- 1 How to genemle apotortags'!
+D 14 Fmbagk m‘QI-tanisrn
+
+o 3.5 Vtsualtsatton and Access
+- 4 Your Thoughts
+
+[Edit] Problem statement
+
+Analysts are potenttally nrtsstng out on valuable open source tntornratton relattng to cyber detence because or an tnabtltty to eastly keep up to date wtth spectrtc blogs and Twiller sources. Accesstng these resources involves ustng spectrtc JED] terminals, or readtng up at home. We need to make thts tntorrnatton available to analysts on the
+htgh side at thetr norrnal terminals.
+
+However, there ts a balance to be round . analysts don‘t have the lime to spend hours and hours readtng through loads orblogs. ln addttton, we don‘t want thts reposttory to be yet another tool that analysts have to access . thts tntorrnatton needs to be tncorporated inlo ex tsttng workl‘lows.
+
+We need to ﬁnd a way to tndex thts tntorrnatton so that analysts only get a relevant subset or thts tntorrnatton pushed to them.
+
+[edit] Initial prototype
+We are working wtth mug to make use orthe extsttng BJEDEEEJKE archttecture for caplunng tweets from Twiller. We are also working wtth GSA around techntques they are developtng to capture blog content. Eoth or these obviously lake tune, and are slower bum objecttves.
+
+tn the nieanlinie, we are runntng an inilial prototype, where Twitter and (and subject to legal/securtty approval) blog content ts nranually scraped and uploaded to O Desk. This content ts accesstble by way ofpersonalised RSS reeds. lndtvtdual users can choose thetrprererences, tn terms otwhtch Twiller accounts and blogs they want to
+rollow, and a personalised RSS reed ts genemlod autonrattcally tor then. to whtch they can subscnbe.
+
+This can be used by anyone, and can be accessed tronr Q. Your personal RSS ts ltnked tronr the LOVELY HORSE websile.
+As stated prevtously, thts ts a manual update at the ntonrent, and will tntttally be main mined on a best endeavours basis thoperully roughly daily). Once the BIRDSTRIKE archttecture comes on ltne, thts will be updated tn real ttnre.
+For any requests for new Twiller feeds you wtsh to be able to subscribe to, please get tn touch.
+
+[ed_it| Current sources
+
+Currently, we‘re bnngtng tn the rollowtng lisl orthtter accounts. To request new ones, please subnrtt your requesls, wtth a brterjusttrtcatton, via the suggestton box on LOVELY HORSE
+
+ox charlte
+aleXsolirov
+anonops
+anonynroustrc
+anonicenlral
+anonioperalions
+bmdarkin
+CeRTFi
+danchodanchev
+daveallel
+dinodaiztovi
+dtocyde
+
+e 7
+GoVCeRTiNL
+l-talvarﬂake
+l-tdmoore
+l-ternano
+JaNeTCSiRT
+kevinnlilnick
+lennyzellser
+lulzsec
+
+mdowd
+
+mikko
+nrsnsecresponse
+opemlionleaks
+owasp
+
+pusscat
+Shadowserver
+snowtlow
+taosecurtty
+
+laviso
+
+teamcyt-nm
+'thqu
+TheHackersNews
+linmanZk
+
+VuPeN
+
+WTFuu
+
+eﬂ] Future development concept
+
+The rest orthts page ts constttuted tronr tdeas that we currently have about LOVELY HORSE.
+
+[1n] Team
+
+It will be delivered by TC P‘s T0144 learn.
+
+[1n] 5 ources
+
+tntttally we need to tdenttty a senes otsources. We currently have a list or around 60 blog and Twiller sources that have been tdenttrted by CDO analysts and cyberderence experts tron. Dettca, and nrost or these have been approved tor collectton by MP-LEG.
+lntornratton will arnve tn unstructured ‘informalion arlicles‘. tn the context ota blog, an arttcle would be a posi: on Twiller, an arttcle would be a tweet.
+
+Blog sou rees:
+
+These sources have currently been approved by MP-LEG (see apmvals smadsheet tn DISCOVER)
+
+htt
+http
+
+  
+
+. ww.secun:works.oom/reseaml1/blog/
+o ./www.secureworks.oom/medtalblog/
+. Xs—sniper.com/blog
+- bugtx-securtty.blogspot.conr/reeds/posts/derault
+. carnalownage.attactoesearchconr/rssxnrl
+. tntreptdusgroup/tnstght/rmd
+- www.oﬂensivemmpuling.nel/'!q=node/lbed
+- rdisl.rool.org/feed/
+. www.darknel.org.uk
+. imlhezukblogspohoom
+- dogberlblogspohcom/
+
+- www.ragestorm.net/blogs/
+
+. blog.nrandtant.conr
+
+. www.openrce.o
+
+- reeds.trendnrtcro.conr/Antt-MalwareElog
+- blogs.lechnel.com/b/msrvjrss.aspx
+
+. blogs.adobe.oom/psi|1/feod
+
+These sources are currently not approved by MP-LEG
+
+www.r.secure. cont/weblog/weblogntr
+WWI-secure.corn/exclude/vdeso-Xml/lale51750.rss
+reedsrmdbumemconvcoogleOnltneSecuntyblog
+secunlyvulns.com
+feeds.fecdbumm.oont/infosecResoumes
+
+o
+o
+- targetedenratlattacks.tublr.conr
+
+ 
+
