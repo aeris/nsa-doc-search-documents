@@ -1,0 +1,8 @@
+In order to deploy these stains at scale across machines used by the extremist community in-- It was
+decided to target machines where the users visited extremist web torums. QUANTUM was the technique used to
+deliver the stains to each target machine. QUANTUM is CNE's mechanism that leverages GCHO's huge passwe
+SIGINT accesses to deliver CNE payloads to targetsAs this is a very new approach to tackling a tough target. it
+took 12 months for policy. collection. processing and CNE issues to be resolved. but after a lot of hard work by
+some committed individuals across Benhall. Bude and SOUNDER. successful implementation of staining at scale
+was achieved.
+
