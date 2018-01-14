@@ -1,0 +1,127 @@
+IIIIIIIIIIﬂEﬁﬁﬁﬂﬁﬂﬂﬁiﬂﬂﬂﬂmﬂlllllllll
+VALIANTSURF (VS): Current Capability
+
+Status
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+vs
+Capabilit VS Dependencies 13. CA HW
+Site y 2 6 8 XKS 10 WT 11 Stage Cavium
+A B c D E SIES'EV TARGE'ITIN géﬁgr Paiii'n Exploitabl 7. TMLI'VS Retro- 9'55?! & Selector 1' lsiéxg’ ngfer Included
+G g e spective y 5 Apps g ?
+IBM
+MUSC 3650 yes
+HP
+XCUT DL180 no
+Dell
+TEC 2950 no
+Dell
+MHS 2950 no
+Dell
+‘61 2950 no
+Dell
+‘63 2950 no
+Dell
+‘5 56 2950 no
+Dell
+‘5 BCH 2950 no
+IBM Eventua
+GH 3650 ||y*
+JCE IBM
+ZOG** 3650 yes
+2406 IBM
+(6/11) 3650 yes
+PSK
+Defensi IBM Eventua
+ve 3650 ||y*
+(1/11)
+Remaini
+"9 - - IBM Eventua
+Defensi * CaVIum cards sun to be ordered for these 5 tes 3650 ||y*
+:ﬁésg) ** JCE 206 is a dev system
+
+ 
+
+ 
+
+ 
+

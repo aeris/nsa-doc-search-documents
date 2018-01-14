@@ -1,0 +1,91 @@
+1E!
+
+11
+
+12
+
+13
+
+DNC (Data Network Cipher) target development performed using metadata
+TURMOIL DNC targeting in place (via U'I'I' & KEYCARD) and needed CASNs on cover
+lTx connectivity between CES backend and CA Servers at site
+
+CA Servers at site accessible, hardened, loaded and functioning
+
+Pairing exists for the targeted DNC IP addresses
+
+LONGHAUL is able to exploit the traffic
+
+VS-compatible TURMOIL software loaded
+
+XKS retrospective available for DNC plain text target development (i.e. determine selectors)
+Bandwidth available and policy approves
+
+Plain text selectors loaded in TURMOIL and XKS
+
+Needed mission applications available in TURMOIL stage 1 prime
+XKEYSCORE-Stage 2 functioning
+
+CA Server with hardware acceleration in place with sufficient TU network configuration
+
+—
+VALIANTSURF (VS): Success Criteria
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+, , Success Criteria Required
+VS Capability
+1 1 1
+Level 1 2 3 4 5 6 7 8 9 10 1 2 3
+A X X X X X X
+B X X X X X X X X
+C X X X X X X X X X
+D X X X X X X X X X X X X
+E TOXSECXET/CEMINXHREXTJX X X X X X X X
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+USA,FVEY
+
+ 
+
