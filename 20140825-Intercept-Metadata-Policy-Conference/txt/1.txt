@@ -1,0 +1,51 @@
+7. NSA: for the foreseeable future, NSA has two separate definitions of what
+constitutes content based on E0 12333 and FISAIPAA collection. FISA considers
+communications data to be part of the content of the communication, hence FISA has
+no separate concept of metadata. All discussions at the conference were therefore
+focused on “standard" collection under the authority of E0 12333.
+
+8. There is a constitutional expectation of privacy within the US. For
+communications data this is harder to quantify than for content. New procedures will
+permit a differentiation between content and communications data allowing for far
+greater data usage and advancing other related changes. A tension remains
+between the desires to minimise shared data containing US identifiers, and engaging
+more openly to support the foreign cryptologic mission.
+
+9. It is harder to define what constitutes a US identifier with DNI data - where unclear
+it is treated as US. NSA is moving from minimised records within their databases to
+minimising identifiers within reports. Sharing unmasked US identifiers with second
+party SIGINT partners will be easier than with some US domestic partners.
+
+10. All: All SIGINT agencies seek to protect their equities, especially relating to
+Special Source Exploitation (SSE)
+
+11.Specia| categories of data were considered in the context of their potential to
+contribute to pattern of life analysis. An increasing amount of new data types are
+available to SIGINT agencies, some proving difficult to categorise as either content or
+communications data. The conference agreed to step back from trying to categorise
+the data and simply to focus on what is shareable in bulk.
+
+ 
+
+12. Consideration was given as to whether any types of data were prohibited, for ° 3"" "0""m“5"-
+example medica|,_legal, religious or restricted business information, which may be
+
+regarded as an intrusion of privacy. Given the nascent state of many of these data
+
+types then no, or limited, precedents have been set with respect to proportionality or
+
+propriety, or whether different legal considerations applies to the “ownership" of this
+
+data compared with the communications data that we were more accustomed to
+
+handle. It was agreed that the conference should not seek to set any automatic
+
+limitations, but any such difficult cases would have to be considered by “owning"
+
+agency on a case-by-case basis.
+
+(comment: NSA normally considers any target data (pattern of life or other) that can
+be characterized as “foreign intelligence“ as proper for collection. analvsis and
+
+[M
+

@@ -1,0 +1,61 @@
+ 
+
+ 
+
+35.(d) ICREACH: Sstill a pilot, this provides minimised DNR data to Sigint-cleared
+and appropriately trained analysts across the US Intelligence community. Second
+Party derived data is currently not made available to US lntelliqence Cemmunitv
+(lCttdomestictdemes-tieaoencies (although GCSB has agreed that theier DNH
+metadata may be shared), but such data would be valued. In the hope that such
+agreement will be forthcoming, NSA has persuaded other US lC agencies to make
+almost 100 bn previously NOFORN records shareable with the 5-eyes via GLOBAL
+REACH. VolP is treated as DNR though with only DNR records and fields shown to
+analysts. Making DNI available through ICREACH is currently restricted due to
+limited automated (general counsel approved) methods teprevented—bv—US—pelieyeen
+minimize DNI metadataatien.
+
+ 
+
+36.‘Deconfliction' is not formalised through ICREACH. Query records can potentially
+be used to alert analysts that other analysts are looking at the same data.
+Decontlicting operations remains a tough challenge requiring increased coordination
+of operations and collaboration.
+
+37.There is interest in the relationship between the implementation of A-SPACE [a
+US. DNI initiative to link all US. lC analvsts to common tools, and sharable
+databases and allow for greater collaboration) and ICREACH inasmuch as it may
+affect Second Parties' internal procedures and access Issues with domestic
+agencies.
+
+38.(e) U_.S._NSCID§: This is a specific method of NSA providimshanne uniminimized
+SIGINT data to CIA (as it CIA had collected it itself) in support otithe latter's
+operational mission:,—and-d|;)ata from Second Parties is shared with CIA in
+
+accordance with special agreements between NSA and each second party.
+
+39. GCHQ are employing methods (a) and (b). For military SIGINT needs GCHQ
+uses GCO's1 to reach back to UK and 5-EYES repositories. The military's work
+within the ambit of the National SIGINT Organisation comes under the authority of
+GCHQ.
+
+ 
+
+40. NSA shares US SIGINT data with all US SIGINT elements that operate under
+DIRNSA's operational controlaoeneies. With Second Parties there is an initial
+minimisation of the data when possible; however all secend parties have agreed to
+abide by US. minimization criteria; Efor US intelligence agencies NSA mustthere—is
+further- minimizesing—et the data, before sharing and for other US agencies (such as
+law enforcement) NSA only provides data under its "technical support" mission.
+Currently. all such data is minimized betore sharithisamtheHuﬁvaeLef
+minimising—et-dat-a-{most restricted data set.)
+
+ 
+
+ 
+
+ 
+
+. - Comment Page: 6
+The ‘US' was Implicit In this statement bu no:
+voiced at the t'me.
+
