@@ -1,0 +1,51 @@
+TOP SECRET/lCOMINT/INOFORN
+
+CDRIDCDR/DDIR GUIDANCE: (U) NKA
+
+PREP SESSION GUIDANCE:
+
+- (U) Due to the nature of the visit, no speciﬁc guidance has been conveyed to other
+participants.
+
+NSAICSS REQUESTED:
+0 (UHFOUO) Further Cyber Securitnyefense Cooperation;
+1» (SIIREL TO USA, SWE) Future CT cooperation (value of CT Deployed Analyst);
+0 (SNREL TO USA, SWE) Status of relationship between FRA and SAPO under the new
+legislation;
+0 (TSHREL TO USA, SWE) Computer Network Exploitation (CNE) Update;
+0 (TSNREL T0 USA, SWE) Update on special project;
+
+CYBERCOM REQUESTED: (U) NIA
+
+COMMON THREADS:
+0 (SNREL TO USA, SWE) Emphasize the value of the NSA-FRA partnership.
+
+KEY TAKEAWAYS:
+(SHREL USA, SWE) Recommend General Alexander and DIDIR emphasize the following
+points:
+
+Quantum Operations:
+
+0 (TSHSIHREL TO USA, SWE) Acknowledge the success that NSA, FRA, and GCHQ
+have had on WINTERLIGHT. Last month, we received a message from our Swedish
+partner that GCHQ received F RA QUANTUM tips that led to 100 shots, five of which
+were successfully redirected to the GCHQ server. The Foreign Affairs Directorate (FAD)
+conﬁrmed with Tailored Access Operations (TAO) that this validates the "proof of
+concept" that was originally trying to be accomplished. Additionally, FAD, TAO, and
+Enterprise Information Technology Services are still working through the technical
+solution to have FRA tip directly to NSA. S3 Data Acquisitions’ goal is to have a
+solution for a direct tip to FRA operational by this summer. The Quantum effort
+motivated the recent XKEYSCORE installatiOn. FRA is currently evaluating it for use to
+support their SIGINT Deve10pment work.
+
+Cable Accessi’Reporting and Analysis:
+
+0 (TSHSIHREL TO USA, SWE) Highlight that NSAICSS would like to continue to
+collaborate on FRA’s cable access program, which has resulted in unique SIGINT
+reporting on a variety of high-priority SIGINT topics (123 reports thus far this fiscal
+year). FRA continues to gain access to more data from additional telecommunications
+companies, making the cable access potentially lucrative for NSAJ’CSS for targets beyond
+Russia.
+
+TOP SECRET/lCOMINT/INOFORN
+
