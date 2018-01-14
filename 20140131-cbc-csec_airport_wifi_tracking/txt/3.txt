@@ -1,0 +1,23 @@
+TOP SECRET
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Objectives
+
+Develop new analytics to provide richer contextual
+data about a network address
+
+Apply analytics against Tipping & Cueing objectives
+
+Build upon artefact of techniques to develop new
+needle-in-a-haystack analytic — contact chaining
+across air-gaps
+

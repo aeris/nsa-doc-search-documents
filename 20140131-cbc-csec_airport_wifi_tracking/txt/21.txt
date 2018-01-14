@@ -1,0 +1,31 @@
+TOP SECRET
+
+— —
+Tradecraft Problem Statement
+
+ 
+
+ 
+
+ 
+
+ 
+
+A kidnapper based in a rural area travels to an urban area to
+make ransom calls
+
+can’t risk bringing attention to low-population rural area
+won’t use phone for any other comms (or uses payphones ...)
+
+Assumption: He has another device that accesses IP
+networks from public access points
+
+having a device isn’t necessary, could use internet cafes, libraries etc.
+he is also assumed to use IP access around the time of ransom calls
+
+Question: Knowing the time of the ransom calls can we
+discover the kidnapper’s IP lD/device
+”contact chain” across air-gap (not a correlation of selectors)
+
+_¢
+

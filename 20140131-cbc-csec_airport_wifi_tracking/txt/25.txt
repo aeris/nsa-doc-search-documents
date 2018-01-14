@@ -1,0 +1,32 @@
+TOP SECRET
+
+ 
+
+ 
+
+ 
+
+ 
+
+Big-Data Computational Challenge
+
+All the previous analytics, while successful experimentally,
+ran much too slowly to allow for practical productization
+
+CARE: Collaborative Analytics Research Environment
+
+a big-data system being trialed at CSEC (with NSA launch assist)
+non-extraordinary hardware
+
+minimal impedance between memory, storage and processors
+highly optimized, in-memory database capabilities
+
+columnar storage, high performance vectorfunctional runtime
+powerful but challenging programming language (derived from APL)
+
+Result of first experiments with CARE: game—changing
+run-time for hop-profiles reduced from 2+ Hrs to several seconds
+allows for tradecraft to be profitably productized
+
+_*
+

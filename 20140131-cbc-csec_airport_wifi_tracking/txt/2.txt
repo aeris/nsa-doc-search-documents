@@ -1,0 +1,32 @@
+TOP SECRET
+
+ 
+
+ 
+
+ 
+
+ 
+
+— —
+Example IP Profile Problem
+
+Target appears on IP address, wish to understand
+network context more fully
+
+Example Quova look-up & response for —
+
+Lat. 60.00 Long: -95.00 (in frozen tundra W. of Hudson Bay)
+City: unknown
+
+Country: Canada,
+
+Operator: Bell Canada, Sympatico
+
+Issues with IP look-up data:
+is it actually revealing, or is it opaque
+is the data even current, or is it out—of—date
+was the data ever accurate in the first place
+
+_—
+

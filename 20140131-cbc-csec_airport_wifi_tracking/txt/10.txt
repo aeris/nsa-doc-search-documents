@@ -1,0 +1,37 @@
+— —
+Effect of Invalid Geo Information
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+Long Longitude scale is non-linear _
+g Geo mcongruence:
+displacem t of seed location
+from distri ution center
+- strong/y su gests data error
+L 6 as: n 4 I 1 kg "1 on I:
+u . 9°
+. ° 2' " h
+g I
+a I u I
+I a n
+6 O
+
+Profiled/seed |P location: ISquare = geographic location
+Hopped-to |P location: Ilrine height = numbers of unique hopped-to IPs at location
+
+Effect of invalid seed geo informationoreadily apparent
+
+_¢
+

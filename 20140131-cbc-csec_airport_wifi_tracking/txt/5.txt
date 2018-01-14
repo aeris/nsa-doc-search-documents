@@ -1,0 +1,29 @@
+TOP SECRET
+
+ 
+
+ 
+
+ 
+
+ 
+
+— —
+Profiling Travel Nodes — Next Step
+
+Follow IDs backward and forward in recent time
+
+Earlier |P clusters of: Later |P clusters of:
+- local hotels - other intl. airports
+- domestic airports - domestic airports
+- local transportation hubs - majorintl. hotels
+- local internet cafes - etc.
+
+-etc. 0\ /O
+0‘ a O
+0” 3 o
+
+O” O
+
+ 
+

@@ -1,0 +1,54 @@
+TOP SECRET
+
+— —
+Partial Range Profile of Wireless Gateway
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+500
+
+ 
+
+Number of 400
+
+IDsseen
+on each IP 300-
+
+ 
+
+. IDTotaI on IP
+I Common IDs
+
+ 
+
+ 
+
+200 -
+
+ 
+
+100 -
+
+ 
+
+ 
+
+ 
+
+1 2 3 4 5 6 7 8
+Individual IP number in range of 8
+
+For wireless gateway, range behaviour is revealing
+Most IDs seen on an IP are also scattered across entire range
+ID totals & traffic across full range is very high
+
+_#
+
