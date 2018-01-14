@@ -1,0 +1,25 @@
+TOP SECRET II COMINT
+
+I * I Communications Security Centre de la sécurité
+Establishment Canada des telecommunications Canada
+
+Heuristic Example
+
+ 
+
+ 
+
+ 
+
+. QUANTUM
+
+— It’s no lie, quantum is cool.
+- But its easy to find
+
+— Analyze first content carrying packet
+. Check for sequence number duplication, but different data size
+. If content differs within the first 10% of the pkt payload, alert.
+
+Safeguarding Canada’s security through information superiority C dlﬂ
+Préserver la sécurité du Canada par la supériorité de i’information 3H3. a
+
