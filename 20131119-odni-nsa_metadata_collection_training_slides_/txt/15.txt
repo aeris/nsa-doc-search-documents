@@ -1,0 +1,64 @@
+ 
+
+ 
+
+ 
+
+ 
+
+Summary of RAS Standard
+BR Flsc Drder
+
+Government may request in use speciﬁc identiﬁers in
+query the meiadata for purpnses of obtaining foreign
+intelligence through enniant chaining ml?
+
+- telephone numbers _~
+
+‘l.
+
+ 
+
+ 
+
+' W You will recall from Lesson
+
+One that the BR FlSA Order is authorized
+because the F180 recognizes there is a
+counterterrorism interest in obtaining those
+business records. However, because NSA
+is receiving a great deal of US person
+telephony records, we have strict
+guidelines on when NSA can access the
+metadata under this authority. One of the
+requirements is that in order to access the
+metadata, NSA must establish RAS on
+each selector prior to querying the BR
+FlSA repositories.
+
+-€FS+fS-l#NF-)-The BR FlSC Order states
+that NSA mav uueoesoeciﬁc identifiers
+
+, ‘ |that satisfy the RAS standard for
+purposes of obtaining counterterrorism
+intelligence.
+
+—€FSHSI#N-F)—ln order to assist in
+determining when a selector has satisfied
+the RAS standard, the Ofﬁce of General
+Counsel (OGC) has issued a RAS Memo
+to help Signals Intelligence Directorate
+(SID) personnel make RAS determinations
+on telephone identifiers. The memo
+contains guidelines that apply to both the
+BR and Pen Register and Trap and Trace
+(PR/'l‘l') FlSA Orders.
+
+ 
+
+ 
+
+ 
+
+ 
+

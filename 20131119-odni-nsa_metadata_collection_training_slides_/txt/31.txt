@@ -1,0 +1,46 @@
+Lesson 5: Accessing. Sharing, Dissemination. and RetentionLSS
+
+a ., v. , ..:< .
+
+ 
+
+Oversight forAscess Restrictions , (“m eue’This‘Sve” “mam"
+
+we’ll reiterate it with more detail.
+
+EFSﬁ‘SWN-ll) Signals Intelligence
+Directorate’s Office of Oversight and
+Compliance has implemented a series
+of auditing controls designed to limit
+access to the BR FISA metadata only
+to those who have been briefed by the
+OGC and those who have completed
+all of the required training.
+
+Oversig ht for Access Restrictions
+
+: ﬁSffSl-h‘N-FWVhen the raw metadata is ; "
+7‘ accessed in order to perform a query,
+an automatic audit log is recorded that '
+includes: '
+
+BR Court order requires logging for auditing purposes: - Query request
+0 ~ User login
+Query requeStS =. . Internet protocol address
+° User Iogln ~ Date and time of the access
+- IP address
+
+- Date and time of the access
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

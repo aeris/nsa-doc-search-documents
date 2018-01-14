@@ -1,0 +1,90 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“Telephony Metadata and Telephony ldentifers”
+Telephony metadata
+Metadata collected — includes comprehensive communications routing
+information
+Originating and terminating telephone numbers
+International Mobile Subscriber Identity (IMSI) numbers
+Mobile Subscriber Integrated Services Digital Network (MSlSDN)
+numbers
+International Mobile station Equipment Identity (IMEI) numbers
+Trunk identifiers
+Telephone calling card numbers
+Time and duration of calls
+
+Telephony metadata does NOT include
+° Substantive content of any communication
+° Name, address, or financial information about a subscriber or
+customer
+
+Telephony identifiers correlate to Business Records metadata collected by
+the providers, such as MSlSDN ora_callin%arg_number. Telephony
+identifiers are also known as: identifiers.
+
+ 
+
+\
+
+ 
+
+ 
+
+E -I
+
+telephony metadata which you will
+need throughout this course.
+
+ﬁSﬂSIﬁNHThe Telephony Metadata
+obtained from the BR FISA is
+
+comprehensive communications
+
+routing information. Specifically it may
+
+contain:
+
+. Originating and terminating
+
+telephone numbers
+International Mobile Subscriber
+Identity (IMSI) numbers
+Mobile Subscriber Integrated
+Services Digital Network
+(MSlSDN) numbers
+
+International Mobile station
+Equipment Identity (IMEI)
+numbers
+
+Trunk identifiers
+
+Telephone calling card numbers
+Time and duration of calls
+
+-(TS#SI#N-F—)-The BR FISA authority
+does not extend to the content of these
+communications. The BR FISA does
+NOT include substantive content of
+any communication, or the name,
+address, or financial information about
+a subscriber or customer.
+
+5 E , TI: .
+also known as
+dentifiers.
+
+ 
+
+ 
+

@@ -1,0 +1,66 @@
+ 
+
+ 
+
+ 
+
+ 
+
+Lesson 4-Slide-3- Tan tbl Things astonayrelepho.ny:
+
+“Tangitble Things as entity Telemann? metadata"
+
+"ta legible things“
+"an electronic copy nf’teiephnny metadata {call recordsi."
+
+r-Cumpaanenaiue mmmunicatiuna routing information including:
+- Elimination and tenninat‘mg telephune number
+. intamatinnal Ilia bile Subscriber identity {ilEMiSl} number
+. international Mobile stallion Equipémantidentiiy {WEI} number
+. The titunkitientitter
+- Talaplmna calling card numbeaa
+. Time and duratiun of call
+
+The telephony metam does not include the substantive content of any mmmunicatiun or the name,
+address. or financial infunnatiun of a subscriber or watt: mar within these-
+
+ 
+
+“tangible things” to mean an electronic
+copy of telephony metadata (call
+records). This includes:
+
+- Comprehensive communications
+routing information including:
+- Originating and terminating
+telephone number
+
+- International Mobile
+Subscriber Identity (IMSI)
+number
+
+- International Mobile station
+Equipment Identity (IMEI)
+number
+
+- The trunk identifier
+- Telephone calling card numbers
+- Time and duration of call
+
+5: —FS#Sl#N-F9~The BR FISA Order
+
+specifically states that the telephony
+metadata does not include the
+substantive content of any
+communication or the name, address,
+or financial information of a subscriber
+or customer within these. The FISA
+Order deliberately restricts access to
+only communications metadata.
+
+ 
+
+ 
+
+ 
+
