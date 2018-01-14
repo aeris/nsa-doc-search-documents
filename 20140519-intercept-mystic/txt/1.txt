@@ -1,0 +1,61 @@
+{UI General Information
+
+YEAR ESTABLISHED
+
+DESCRIPTION
+
+INTELLIGENCE VALUE
+
+MAJOR TARGETS
+
+MAJOR BENEFACTORS
+6' USERS OF INFORMATION
+
+MYSTIC
+
+(U) 2009
+
+(TSHSIHNF) MYSTIC is an 880 program for embedded
+collection systems overtly installed on target networks,
+predominantly for the collection and processing of wirelesslmobile
+communications networks. The overt purpose is for legitimate
+commercial services for the Telco's themselves; our covert mission
+is the provision of SIGINT.
+
+(TSHSIHNF) These systems directly supportl
+
+- [in their Counter
+Terrorism, Counter N arcotics, and International Crime missions.
+(TSHSIHNF) The MYSTIC program encompasses a number of
+
+subprograms, which are variously sponsored by N CSC, DEA, and
+CIA.
+
+ 
+
+ 
+
+ 
+
+(TSf/SLUNF) Plan for MYSTIC accesses against projected
+5 new mission requirements (ie. 3G and 4G technologies, 3.1, 3.3
+Voice data, etc.) (MOD)
+
+ 
+
+ 
+
+Other CIA sponsored sites:
+
+5. DUSKPALLET - US-3270fDA - Kenyan GSM
+
+6. EVENINGEASEL (US-3411A/4F) Mexican Wireless
+
+B) (TS//SI//REL TO USA, FVEY) -Sp0nsored
+* Known as SOMALGET sites with common US-3310-XX, PDDG ZD
+
+1. BASECOAT - US-3310A Bahamas A-link GSM
+0 Includes sites US-3310A1 and US-3310A2
+
+ 
+
