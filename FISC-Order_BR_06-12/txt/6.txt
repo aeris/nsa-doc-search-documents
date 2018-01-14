@@ -1,0 +1,31 @@
+cdEHFSE€R£H%f¥ﬁﬁﬁ¥¥ﬁﬁ€ﬂﬁiRNﬂhﬁt
+
+—; provided, however, that a telephone
+
+number believed to be used by a U.S. person shall not be
+
+-solely on the basis of activities that are protected
+
+by the First Amendment to the Constitution.
+
+B. The meta data shall be stored and processed on a
+secure private network that NSA exclusively will operate.
+
+C. Access to the meta data archive shall be
+accomplished through a software interface that will limit
+access to this data to authorized analysts. NSA’s OGC
+shall monitor the designation of individuals with access to
+the archive. Access to the archive shall be controlled by
+user name and password. when the meta data archive is
+accessed, the user's login, Internet Protocol (IP) address,
+date and time, and retrieval request shall be automatically
+logged for auditing capability. NSA's Office of General
+Counsel (OGC) shall monitor the functioning of this
+automatic logging capability. Analysts shall be briefed by
+NSA’s OGC concerning the authorization granted by this
+Order and the limited circumstances in which queries to the
+
+archive are permitted, as well as other procedures and
+
+ 
+
