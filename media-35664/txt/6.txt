@@ -1,0 +1,33 @@
+QUANTUM Shooter SBZ Notes - WikiInfo
+
+I Disable the CCFP since it requires the node to ack back through the
+HANGARSURPLUS (which doesn't exist in the MHS conﬁguration).
+
+I For good measure, conﬁgure only the receive Security Associations and
+UDP link (Low Proxy to SBZ), and none of the send SAs/links.
+
+I Conﬁgure BonjourMod to not send heartbeats.
+
+I Conﬁgure szLogMod to not eXﬁl logs.
+
+I Do not include szXﬁlMod if possible, or set Min Priority To Exﬁl to 16.
+
+I Do not include any of the default modules (SiphonCauseway, ShinyObject,
+etc.).
+
+(U) Look into testing using CHIMNEYPOOL Python script (”chim.py"?) to issue
+commands.
+
+References
+
+Conﬁguring SBZ from scratch using the NCC '
+
+Retrieved from
+Derived From: SI Classiﬁcation Guide, 02—01, Dated: 20060711
+and NSNCSSM 1752, Dated: 20070108
+Declassify On: 20320108
+
+TOP SECRETHSIHREL TO USA, FVEY
+
+60f6
+

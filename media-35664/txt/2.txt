@@ -1,0 +1,50 @@
+QUANTUM Shooter SBZ Notes - WikiInfo
+
+KEYHOLE/IORCONIPROPIN/RELIDQ/REL TO USA, FVEY *
+
+Once a box has been identiﬁed for use as a QUANTUM shooter, an SBZ is
+conﬁgured using FELONYCROWBAR along with a Deployed Node Document
+(DND), an XML conﬁg ﬁle. The FELONYCROWBAR GUI and build scripts
+handle some aspects of conﬁguration, such as which SBZ modules to include,
+but it also needs the DND to conﬁgure most aspects of the communications
+links. For an upgrade, an old DND can be modiﬁed by hand, but for a new
+build, a new DND will need to be generated in the NCC (with some changes by
+hand). Once the core and "bin" customization SBZ ﬁles are generated (usually
+a zip ﬁle output from FELONYCROWBAR), an interactive operator can deploy
+these to the shooter box.
+
+(U) Infrastructure Components
+
+FREEFLOW
+
+(TS/ISIHREL) There are four operational FREEFLOW threads (plus one for
+PASSAGEHILL testing):
+
+I Thread A, the original FREEFLOW thread (early 2008), associated with
+the old ROC/MIT covert infrastructure (FORESTPLACE/FUSSYKEEL).
+
+I Thread B, the QUANTUM thread
+
+I Thread C, FINGERGNOME high—to—low transfer
+
+I Thread D, the new FREEFLOW 2.0 thread, associated with new covert
+infrastructure (FROZENEARTH).
+
+The FREEFLOW Conﬂuence page (https://conﬂuence—nf.tao.nsa/display
+/ROC/FREEFLOW) has a good overview picture, especially showing the
+differences between the old FREEFLOW (1.0, the purplish—gray area) and the
+new FREEFLOW (2.0, the yellow area). The QUANTUM thread is 1.0 for now,
+but will eventually be upgraded and this whole process will change.
+
+FREEFLOW components important for understanding QUANTUM shooters are
+described below as they apply to the shooter build process, and a good
+overview of the QUANTUM infrastructure can be found here
+
+(TS/ISLOC/IREL) CHIMNEYPOOL
+
+   
+
+ 
+
+Zof6
+

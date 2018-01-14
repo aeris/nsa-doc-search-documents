@@ -1,0 +1,56 @@
+QUANTUM Shooter SBZ Notes - WikiInfo
+
+QUANTUM shooters. Information about these is NOFORN and is found in a
+spreadsheet updated by— You'll need to conﬁgure the shooter to
+send comms via the nearest gateway —— choose the gateway that has the lowest
+latency to the shooter, based on the results of latency tests (which are not
+expected to change frequently).
+
+(S/lSI/IREL) TURBINE
+The Conﬂuence TURBINE —
+—
+
+page describes what happens when an SBZ calls back.
+
+(U) How To
+
+(TS/ISI/IREL) Connecting to the QUANTUM NCC
+
+I Your WAITAUTO box needs to be able to talk to the QUANTUM NCC
+. You may need an MITHelp ticket to get the ﬁrewall to allow
+this connection.
+I Use Putty to SSH to the NCC box (username: ncc_user,- email _
+- for password) with the following options:
+I Connection —> SSH —> check box to "Enable X11 forwarding"
+I Connection —> SSH —> X display location: set this to <Your
+
+WAITAUTO IP address>:0
+I cd /opt/ncc/ and run ./start_gui.sh. User name (either userl or user2)
+depends on who else is using the box —— check with the P003 above.
+
+(TS/lSI/IREL) Getting a DND from the NCC
+
+I Follow instructions in the document in References, or conﬁrm that the
+
+settings are correct.
+I Once your changes have been saved, in the terminal window, run the
+
+following:
+
+:cd /opt/ncc/util I
+
+I./build_sbz_bin.sh WebSnipe <your node cover term> localhost (where "WebSnipe" is the target cover td
+' I
+
+I The resulting DND will be in /tmp (WebSnipe_<node cover
+term>_DeployedNode#.xml). Copy this to a thumb drive and upload to
+
+RSS.
+(TS/lSI/IREL) Getting a DND from [targets for an upgrade
+I Check either FELONYCROWBAR or /targets/ZOMBIEARMY/<node>
+
+/ops/<date>/techdata if they have it there from a previous op. This doesn't
+contain the DND, but it contains an XML which can be used to back out
+
+4of6
+

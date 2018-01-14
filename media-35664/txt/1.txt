@@ -1,0 +1,50 @@
+QUANTUM Shooter SBZ Notes - WikiInfo
+
+The accredited security level of this system is: TOP SECRETI/SI-GAMMA/TALENT
+KEYHOLEIIORCONIPROPIN/RELIDOIREL TO USA, FVEY *
+TOP SECRETHSIHREL TO USA, FVEY
+
+(U) QUANTUM Shooter SBZ Notes
+
+From WikiInfo
+
+Contents
+
+I 1 (U) Overview
+I 2 (U) Infrastructure Components
+I 2.1 FREEFLOW
+I 2.2 (TS/lSI,OC//REL) CHIMNEYPOOL and Comms
+I 2.3 (U) Diodes
+I 2.4 (U) NCC
+I 2.5 (S/lSI/lREL) Gateway ("ROC_LOW")
+I 2.6 (S/lSI/lREL) TURBINE
+I 3 (U) How To
+I 3.1 (TS/lSI/lREL) Connecting to the QUANTUM NCC
+I 3.2 (TS/lSI/lREL) Getting a DND from the NCC
+I 3.3 (TS/lSI/lREL) Getting a DND from /targets for an upgrade
+I 3.4 (TS/lSI/lREL) Updating a DND from the NCC for
+FELONYCROWBAR
+I 3.5 (S/lSI/lREL) Getting Link Info and Modifying Links
+I 3.5.1 (S/lSI/lREL) I have a FRZ address. How do I get a
+linkEndId?
+I 3.5.2 (S/lSI/lREL) How do I get/change the link state?
+I 3.5.3 (S/lSI/lREL) How do I modify the IP address or port of
+the link?
+I 4 (U) Other notes
+I 4.1 (U) MHS
+I 5 References
+
+(U) Overview
+
+(TS/lSI/lREL) For an overview of QUANTUM and how shooters ﬁt into the
+greater QUANTUM infrastructure, see QUANTUM Operational Design
+
+Im lementation
+on the ROC Wiki.
+
+(TS/lSI/lREL) A QUANTUM shooter is a host computer on the internet that has
+been implanted with a STRAITBIZARRE (SBZ) conﬁgured to receive commands
+from TURBINE, Via SURPLUSHANGAR/HANGARSURPLUS diodes, and the
+
+lof6
+

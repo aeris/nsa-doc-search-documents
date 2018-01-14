@@ -1,0 +1,70 @@
+QUANTUM Shooter SBZ Notes - Wikilnfo
+
+the DND.
+
+I Send zip ﬁle to— to be run through the Fiptrix tool to
+generate a DND XML ﬁle.
+
+(TS/lSI/IREL) Updating a DND from the NCC for
+FELONYCROWBAR
+
+I (TS//SI//REL) Add "implantld" element as the ﬁrst child node, and
+"implantUuid" as the last
+
+I (TS/ISII/REL) Add "<sbzXﬁlConﬁg>
+<defaultDestAddr>00100005</defaultDestAddr></sbzXﬁlConﬁg>"
+
+I (TS/ISI/IREL) Add Security Associations for HANGARSURPLUS (00 for
+send) and SURPLUSHANGAR (02 for receive)
+
+I You are now ready to upload to FELONYCROWBAR for your SBZ build.
+
+(Sl/SI/IREL) Getting Link Info and Modifying Links
+
+(TS/ISI/IREL) This is mostly done using the Wrench/Screwdriver tab ("Rudy") in
+the NCC.
+
+(Sl/SI/IREL) I have a FRZ address. How do I get a linkEndId?
+
+r """"""""""""""""""""""""""""""""""""""""""" I
+I
+
+IChoose the appropriate send and receive nodes for your link, "Interface Provider":Cidr, "Procedures"n
+I I
+
+I ________________________________________________________________________________ .I
+
+(Sl/SI/IREL) How do I get/Change the link state?
+
+F ________________________________________________________________________________ I
+IgetLinkState to check state. (1.2) indicate the link is off; (3.4) indicate the link is on. Use linkd
+I I
+
+I ________________________________________________________________________________ _I
+
+(Sl/SI/IREL) How do I modify the IP address or port of the link?
+
+_________________________________________________________________________________ I
+
+I
+
+To change an IP address or port, choose "Interface Provider":LinkMgr and "Procedures":getLinkParametd
+
+IgetLinkState to check state. If it's on, turn it off (linkOff, stopLink). :
+
+:setLinkParameter: enter linkEndId and parameterId, same as above (should return success) :
+
+:startLink, linkOn to bring link back up (should return success). I
+
+:getLinkState to check state (should be on) :
+I
+
+(U) Other notes
+(U) MHS
+
+(SI/REL) There is no HANGARSURPLUS in the MHS case. GCHQ basically does
+not want it to call back. They have their own method of determining shooter
+health.
+
+50f6
+
