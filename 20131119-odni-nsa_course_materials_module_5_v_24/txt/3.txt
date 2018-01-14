@@ -1,0 +1,70 @@
+ 
+
+DATE/PREPARER: SLS Topic Page Classification Screen Number
+(U) The Technical Work TGP—SEGRETAISWNGFORN 3 of 8
+Role
+
+ 
+
+ 
+
+FRAME ID: 5030
+
+(U) The Technical Work Role
+
+(IS#SI#N-F) The Technical Work Role is made up of two main functions:
+
+ 
+
+. Support to Collection and Metadata
+
+NEXT FRAME ID: 5040 . Support to Storage, Presentation, and Maintenance
+
+ 
+
+BACK FRAME ID: 5020
+
+ 
+
+ALT TAG:
+
+ 
+
+GRAPHIC/AV:
+
+(U) Begin with image of HMC Character
+and Technical Character sitting at a table,
+then provide a close up ofthe Technical
+Character
+
+ 
+
+ 
+
+ 
+
+I I
+(TS#SI#NF) (Technical Character): The work performed by technical personnel in support of the Bulk Metadata Programs assists everyone working in
+support ofthese programs to maintain compliance with a plicable legal documents and relevant authorities. Within the technical roles, there are two main
+areas of responsibility: collection and metadataiand the storage, presentation, and maintenance of the metadata.
+
+(TS/lSl/lNF) Some high-level examples of how key organizations support collection and metadata _include:
+- Ito gain access to BR and PR/TT metadata.
+o _ideveiops protocol processing software that supports the collection and metadata-and standardization.
+0 Mission Capabilities (TD) integrates the BR and PR/TT protocol processing software into the larger exploitation systems.
+
+(TS#SI#NF) _and Mission Capabilities also support the storage, presentation, and maintenance aspects of the Bulk Metadata
+Programs, and some high-level examples include:
+
+0 Mission Capabilities manages the BR and PR/TT repositories, as well as prepares the metadata forthe analysts to use.
+
+0 _provides reasonable assurance that the data is normalized and presented in a usable format and provides support to
+intelligence analysts.
+
+ 
+
+ 
+
+W
+Page 5 of 10
+

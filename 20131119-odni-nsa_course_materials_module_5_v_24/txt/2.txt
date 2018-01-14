@@ -1,0 +1,64 @@
+ 
+
+DATE/PREPARER: SLS Topic Page Classification Screen Number
+(U) The Analytical Work TOP—SEGREMSWNQEGRN 2 of 8
+Role
+
+ 
+
+ 
+
+FRAME ID: 5020
+
+(U) The Analytical Work Role
+
+(IS#SI#N-F) The Analytical Work Role includes these primary functions:
+
+ 
+
+o HMC
+. Those who conduct intelligence analysis queries
+. Those who can view and disseminate the results of intelligence analysis queries
+
+NEXT FRAME ID: 5030
+
+ 
+
+BACK FRAME ID: 5010
+
+ 
+
+ALT TAG:
+
+ 
+
+GRAPHIC/AV:
+
+(U) Begin with image of HMC Character
+and Technical Character sitting at a table,
+then provide a close up ofthe HMC
+Character
+
+ 
+
+ 
+
+ 
+
+(TS#SI#NE) (HMC Character): The analytical work role includes three primary functions: Homeland Mission Coordinators (HMC), those who can conduct
+intelligence analysis queries, and those who can view and disseminate the results of intelligence analysis queries.
+
+(IS#SI#NE) Homeland Mission Coordinators, or HMCs, review and approve the RAS nominations. The analysts and HMCs work through the RAS approval
+process togetherto get the identifiers RAS-approved.
+
+(IS#SI#NE) Recall from the last module that not all analvsts are permitted to conduct contact chaining queries. Those who are permitted to conduct
+queries ofthe bulk metadata have been granted credentials. Those who are permitted to view and disseminate query results, but
+not conduct queries, have been granted Horedentials.
+
+ 
+
+ 
+
+W
+Page i of 10
+

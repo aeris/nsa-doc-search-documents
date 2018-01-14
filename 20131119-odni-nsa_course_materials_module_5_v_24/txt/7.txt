@@ -1,0 +1,91 @@
+ 
+
+DATE/PREPARER: SLS
+
+ 
+
+Topic Page Classification Screen Number
+(U) Knowledge TOP—SECRETALSIALNQFORN 6 of 8
+Check
+
+ 
+
+ 
+
+FRAME ID: 5060
+
+(U) Knowledge Check
+
+1. (TS#SI#NF) TRUE or FALSE: Technical personnel and analytic work roles have the same authorization to
+touch the bulk metadata.
+a) TRUE
+
+ 
+
+NEXT FRAME ID: 5070
+
+b) FALSE
+
+2. (TS#SI#NF) The Analytic Work Role includes these functions. intelligence analysts who query the data
+
+ 
+
+BACK FRAME ID: 5050
+
+intelligence analysts who can view the results of intelligence analysis queries and
+a) Mission Capabilities (TD)
+
+ 
+
+ALT TAG:
+
+b)
+
+ 
+
+GRAPHIC/AV:
+
+c) Homeland Mission Coordinators (HMC)
+
+c”—
+
+3. (TS#SI#NF) The Technical Work Roles are comprised of two general areas of responsibility including 1)
+and 2)
+a) 1) collection and metadata =2) reviewing RAS nominations
+
+b) 1) collection of content, 2) storage, presentation, and maintenance ofthe metadata
+c) 1) reviewing RAS nominations, 2) working with the telecommunications partners
+
+d) 1) collection and metadata_ 2) storage, presentation, and maintenance of the
+metadata
+
+ 
+
+ 
+
+I
+(U) (Technical Character): Let‘s make a few notes in ourtravel journal and see what we remember from this topic.
+
+ 
+
+ 
+
+ANSWERS:
+
+Question 1. (ISALSWNF) Correct! The answer is b) FALSE. Technical personnel have authority to make the metadata usable for intelligence analysis, while
+analytical personnel can only touch the bulk metadata for intelligence analysis purposes using RAS-approved identifiers within the authorized number of
+
+hops.
+
+(TS#SI#NF) Incorrect. The correct answer is b) FALSE. Technical personnel have authority to make the metadata usable for intelligence analysis, while
+analytical personnel can only touch the bulk metadata for intelligence analysis purposes using RAS-approved identifiers within the authorized number of
+
+hops.
+
+ 
+
+ 
+
+JEGP—SEGRE—"PALS-ENGFGRN
+Page ' of 10
+

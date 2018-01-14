@@ -1,0 +1,27 @@
+ 
+
+ 
+
+audited.
+
+(IFS#Sl#NE) (Technical Character): Technical personnel create, test, and implement tools to make this data easier for analytic personnel to use, while
+validating that safeguards appropriately control analysts” access to the bulk metadata. Additionally technical personnel may access the metadata to
+perform those processes needed to make the metadata usable for inte_llige_nce_ analysis. These processes may include metadata validation; the defeat
+of the collection processing or analysis of metadata associated with =identifiers; and the maintenance of records to demonstrate
+compliance with the terms of the authority.
+
+case of —identifiers technical personnel may use non- RAS- approved identifiers to query the metadata to confirm If the identifier' Is a—
+...identifier and thus should not be included fortarget analysis. They may then share the identifier and the fact that it is a—identifier
+with authorized personnel. However, no other information resulting from such queries can be used for intelligence analysis purposes.
+
+(TS#Sl#NE) Technical p__e_rsonnel must take great care with their responsibilities because they may be accessing the data through tools that do not have
+safeguards such as —that impose restrictions and minimize the chances of a violation of the EISC Orders. As a result we need to maintain
+boundaries between technical and analytical personnel and be crystal clear as to the circumstances under which the two groups can interact.
+
+ 
+
+JEGP—SEGRE—TALS-ENGFGRN
+Page ‘ of 10
+
+ 
+

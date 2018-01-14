@@ -1,0 +1,70 @@
+ 
+
+DATE/PREPARER: SLS Topic Page Classification Screen Number
+(U) Interaction Between TGP—SEGREMSIWGEQRN 5 of 8
+
+Analytical and Technical
+Personnel
+
+ 
+
+ 
+
+FRAME ID: 5050
+(U) Interaction Between Analytical and Technical Personnel
+
+(U) (Begin with image of analytical and Technical Character sitting at a table, then provide a close up ofthe
+Technical Character)
+
+ 
+
+NEXT FRAME ID: 5060
+
+(IS#SI#NE) AII interactions must be based on RAS-approved identifiers and those results found within the
+number of hops authorized for intelligence analysis purposes
+
+ 
+
+BACK FRAME ID: 5040
+
+ 
+
+ALT TAG:
+
+ 
+
+ 
+
+GRAPHIC/AV:
+(U) Insert image of HMC Character and
+Technical Character sitting at a table
+
+ 
+
+ 
+
+I I
+(TS#SI#N-E) (Technical Character): As we just discussed, analytical and technical personnel have different authorizations to touch this metadata.
+Because of these different authorizations, we must be careful when the two types of personnel are interacting with regard to this metadata. Specifically,
+outside of the sharing of_identifiers for defeat purposes, technical personnel should only be providing analytical personnel information
+under certain conditions.
+
+(TS#SI#NE) (HMC Cha__racter): Sometimes, when analyzing the results of intelligence analysis queries, one or more of the specific results may seem out
+of the ordinary. Is it a —identifierthat was overlooked? Is the identifier misnormalized? Is there something thatjust seems out of place? 9r
+perhaps there is a particular data field in your results that you dont understand In such instances, intelligence analysts may require assistance from
+certain technical personnel responsible for data integrity functions.
+
+(TS#SI#NF) (Technical Character): In these instances, technical personnel may assist authorized intelligence analysts, but any and all assistance must
+be based on RAS-approved identifiers and those results found within the number of hops authorized for intelligence analysis purposes. Essentially,
+when providing information to analytical personnel in these circumstances, the technical personnel must abide by the rules forthe analytical personnel.
+
+(TS#SI#N-E) (Technical Character): In the end, all personnel have a vested interest and shared responsibility in ensuring that only the most accurate
+intelligence information is reported to customers, while abiding by the policies and requirements in place for this metadata.
+
+ 
+
+ 
+
+JEGP—SEGRE—TALS-ENGFGRN
+Page of 10
+
