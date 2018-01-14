@@ -1,0 +1,86 @@
+14.
+
+15.
+
+24.
+
+TOP SECRET STRAP1
+12th November 2010
+
+QUANTUM EXPLOIT
+
+After extensive testing of the QUANTUM tipping and redirection to the
+SHORTSHEET exploitation server by the Joint CNE/TECA Mobile
+Exploitation Team, further target development work was needed to
+identify iPhone targets recently seen active on the appropriate user
+agents. Bulk extraction of targets over a three-week period from
+BLACKHOLE by ICTR resulted in a large number of iPhone targets and
+further queries in Xkeyscore resulted in others. Others were passed from
+discussions with various lPTs and two were also passed from TAO
+contacts.
+
+In total 44 selectors were checked to verify that the correct user agent
+was present. Of these 44 selectors, 41 were yahoo selectors and 3 gmail
+selectors. Of these 26 were seen with a valid iPhone Safari user agent
+as shown in Figure 8. A summary of 08 versions seen with target
+phones is shown in Table l with OS highlighted in red currently
+exploited. These are 3_l_2, 3_l_3 and 4_0_1. In all 26 cases, the target
+analysts were contacted with details regarding their targets use of an
+exploitable iPhone.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+iPhone 05 Number
+
+3_0 4
+3_1 2
+3_l_2 6
+3_l_3 15
+4_0
+
+4_0_1
+
+4_0_2
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table l — iPhone target 08 summary
+
+One particular case was a target,— with yahoo
+selector that was seen active on a iPhone OS
+
+3_l_2. as shown in Figure 8. The resulting Yahoo-B cookie is
+
+and as can be seen the target has been active off
+
+. Running the resulting Yahoo-
+
+B cookie through MUTANT BROTH resulted in 171 events primarily on
+case notations GWUKGOOS, GWVCBOOS and IRUKCOB6. The resulting
+information was then forwarded to the analysts in the-team for
+tasking by the standard CNE process as outlined in the Good
+Penetration Guide [d].
+
+Page 6 of 11
+TOP SECRET STRAP1
+

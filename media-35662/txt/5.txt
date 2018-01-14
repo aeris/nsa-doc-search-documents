@@ -1,0 +1,99 @@
+10.
+
+ll.
+
+12.
+
+13.
+
+  
+   
+ 
+ 
+
+TOP SECRET STRAP1
+12th November 2010
+
+the _ Checking BROADOAK tasking revealed that both targets
+had known associated iPhone lMEls already tasked.
+
+A recent rescan of all currently active CNE SEPs resulted in only 5 of the
+9 identified CNE machines actually being available for exploit. The other
+4 implants having been removed. Of these five UDle, four returned with
+correlated UDle that had recently been seen in passive collection.
+These are contained in the iPhone target list [f].
+
+Analysis of all TAO SEPs resulted in 116 UDle being identified. Of
+these UDle, 15 were correlated with iPhone user agents and the
+resulting identifier type, project name, case notation and IP noted. A full
+list is available in the iPhone target list [f]. Of these four had the Cydia
+user agent as shown in Figure 6 indicating the target had jailbroken their
+phone. All four end points were located in
+
+TDl—Scope Machme Route
+
+SDHI‘CB CFCdDEEITCARD
+Form alt-Transform SEM- :r-TDI
+User—Agerrth'lozrllafﬁﬂ Rockﬂppﬂjﬂl
+fiFr'IDI'IEI U: CPU IIkE C'fljiﬂflﬂ-SLTZ'EEU
+AppluWEbKit-‘EIBJB {KH'I'ML like. Gecko}
+'u'er‘sionMJJ Nobilag'ﬂl'lll SafarilﬁzﬂJE
+AS-lP—Src - AS—IP—Dst-
+Labelled-Route
+
+uen — ream-
+EFCII?CEIEIEIEll]DDUUUUUUDDDUUUUUDDUUUUZU
+
+Figure 6 — iPhone jailbroken user agent in MUTANT BROTH
+The same 15 TAO UDle were run through AUTOASSOC and resulted
+
+in three ood correlations with yahoo selectors —
+hand These were in
+
+turn confirmed to be correct correlations with TAO target end points and
+two showed associated target iPhone lMEls. Further, analysis of the
+Yahoo mail used via the Safari browser clearly showed the resulting
+UDID was transmitted in traffic.
+
+One of these TAO end point machines. SOLARSHOCKllB _
+Iranian . has been seen 3 ncing with iPhone
+UDID was correlated
+with and— using
+AUTOASSOC. The UDID was last seen on 23/10/10 at 03:46:362 on
+using the EAUTO_Apple-imei-URI TDI.
+
+known T05
+
+afﬁrm-{H . m . 5 ms?
+ram-mg? ‘ ' " '
+
+ 
+
+ 
+
+[My] iiie (ma! UR‘l'
+
+Lnnb a: :vzruin
+
+. 1 f ,
+0.5.15 2 z ;,'n 1; m
+a. so: : 3:55:10
+ﬂuﬁl'li‘ :wmn
+Lbs-UL
+u. so:
+amt
+
+m'wuu
+:z;".u.vm
+ZVHF‘JII'I
+
+ 
+
+Figure 7- SOLARSHOCK116 UDID AUTOASSOC correlations
+
+Page 5 of 11
+TOP SECRET STRAP1
+
+EIEEIIIIIEEEI :3.
+E
+

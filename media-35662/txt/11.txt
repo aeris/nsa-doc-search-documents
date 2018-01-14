@@ -1,0 +1,443 @@
+APPENDIX B
+
+— Looking Glass iPhone directory structure
+
+13— 2::
+File Browser
+\lih‘arﬂpreFeranteﬂsystenmnﬂguatinr1
+
+New:
+1 EWEIfm0b1‘efmedruﬂdnmflﬂﬂupdeflmgiﬂ4ﬂqu
+‘ E 1varmamrsrmsdmdnmr10056031000:mpg
+
+ 
+
+- E hbrary
+- E 0re=erm6es
+E sys:em(0nﬁguratlon
+- E prwate
+1 E van
+, E 5 m
+7 E hhrary
++ E 5009.00
+E aprleushdewce
+E aucio
+E canes
+l5 Earner hundles
+E coresewrcs
+E dutadussmg: 6.10:5
+E extansrjns
+E» 01:60:00.1:
+E rams
+E Framewur‘c
+E :nt6rnel plugrrrrs
+E keyb0a'ddlttlonar1a
+E ‘aunchtaemms
+E 10610000
+E munogcdconﬂngotanmndcs
+E madiacaptua
+E nrn‘erﬁnrehr wile:
+E Drwatelrarrewnrks
+E putlishnghund‘as
+E seachhuncles
+E spr'ngbjardp‘ugins
+E sys:em(0nhgurati0r1
+E [Extlnput
+E vrdsudetudcr s
+1 E wdsusmﬁy;
+- E 1:6:
+E 00
+E sbln
+- E var
+E m0b||e
+
+ 
+
++4+++++
+
+++++++
+
+14‘
+
+++++++
+
+,
+
+310.110.1111 23
+File Searcher
+
+v Sel SEG‘L‘ P01610010:
+
+TOPSECRETSTRAPl
+
+A [\aluz
+
+st
+
+ 
+
+‘ (crumptgnuluwuka.
+‘ (Cm:a:D‘s1ns|w0rlmdsntllrtatun.pllst
+‘ rm. m1; Mr n16:
+
+‘ netwcrhnxrfacesuhst
+
+‘ preferenczsdlst
+
+returned files
+
+Mudflatun trme
+
+(manor: tune
+
+ﬁttessEd um?
+
+ 
+
+ 
+
+F095 lemgved
+
+ 
+
+ 
+
+ 
+
+‘deFaJIt v‘ ‘00301: 9‘ ‘ deraut: v‘ 3
+arts: ‘11110‘2003 2 after |111102030 :‘ athr ‘10'1132E00 3‘ after‘ ‘
+unm‘lm'pmn 3| un'nlIU'lﬂﬂll‘l 3‘ nmn‘11f11f7r1r 3| :prnl ‘
+
+ 
+
+Fm 5:1:(010:
+
+ 
+
+m; 1.00:“: ur Manama.
+
+W 0 Speclly Path:
+
+may. 0007100254740001
+
+Warning: Nbxrmum Earth
+.2501: : cached (500).
+11y :1 100': sp:cr:ic sea: ch
+\ldlr:
+
+' adcressb00k.50‘tedb
+
+‘ 6.1615550000500301:
+
+‘ 51115.0)
+
+. 5:05.03
+
+‘ w:::.q10e._uum=10.0021
+
+‘ wwwpe rrce1ter.pllst
+
+‘ mmajpswrﬂphst
+
+‘ mmwpewrﬂwst
+
+' 00m1600emchilesara'i0‘1st
+unmappcmubilcsafa'iyh:
+‘ mm.aupe.yuut006.p:st
+WM:@DE:VDUtUbE:D‘St
+mm.mpeaauuntsgmrgsptst
+‘ mm.appe.accountsettirgs.ptst
+00m appe naps plist
+‘ 00:::.q10e.::q;:.plbt
+' 00m.$0e.zrefaences.da|etme.1:||st
+mm:ajpsJrsfa'srmss.da|stm0.;ll§t
+‘ 00m.aupe.~aather.prst
+' mm:$581T11:hi|eDthE.sEitinDS-Dist
+mm.appc.~mthm.p:st
+‘ 00m.apemmllephoneselmgs.plst
+‘ ‘PYPnaJaJnrr‘ynamrrrer mt
+
+ 
+
+‘ g dynamt-tmtdet
+
+‘ 6 dynanrc-taxtdat
+
+‘ :yramic-tertdat
+
+‘ Lylarllitlcxtud
+
+' reJ‘rdynanletextdet
+‘ rats; 0t
+
+‘ rej-dynanrc-rexmar
+‘ rotasdt
+
+‘ toc‘tmarap‘rst
+
+ 
+
+5:001:15) Faund
+
+:06 File 00:
+2350103
+ZCICIDM]
+00.0KB
+00 000
+134.00
+134.00
+14:913
+15:01“?
+1.210
+1.23m
+150.00
+150.00
+2.27M]
+2.271(0
+1.121(0
+1.12m
+100.00
+lﬂELEIEI
+LUKE
+00m
+1.0m
+0m:
+
+‘1 FIR
+2.411(0
+2.411(0
+10 03143
+15.9010
+170.00
+SEEKS
+iTUDE
+32.0(0
+4.43m
+
+PLIST Flle
+
+. \\Jrlwa|e\va'\m001‘e\...
+. 1;. waterwwjbrgu.
+
+. \privateh'anmnb‘e‘li .
+
+. \vanmublehbraryw.
+
+ 
+
+. unrarytpreraranneq...
+. \‘ra‘\m0bile|‘1tra‘v\. ..
+
+. . \»ar:mo1:|c\:1::amp..
+. \\ra'\nv00|le1‘1tra'y\. ..
+. \vanmuble\10raw\0..
+. um 010013.100 yr. ..
+
+ 
+
+. \\ra'\m0bller‘1tra'y\. ..
+. \wanmublshbrarr‘pm
+. \var1m00le\1hrary\0..
+. \‘ra‘\m0bile|‘1tra‘v\. ..
+
+. \vanmume00ary10.
+
+. 11m 010013.100 yr. ..
+. \varrmnhlehhrarﬂ‘...
+. \\ra*\m0bile1‘1tra*y\
+
+. . 0.1.0.000000011 ..
+. \\ra'\m0bller‘1tra'y\. ..
+. \‘wa'\mublls1‘1tra'y\: ..
+
+ 
+
+. \\ra'\m0bilc1‘1tra*y\...
+
+Fat : Dal: 1440060
+
+ 
+
+\\)riwale\va*\m001‘e\ J1-Jan-10000
+Hm'huubilm‘rle'yL ..
+.1300 0
+rlSﬂEl El
+JE-Nﬂv-ZULD 17
+
+   
+
+whey-10:31:”:
+
+31 Jcn 18000
+
+31']: VISUUU
+
+31-]: 43000
+
+ 
+
+\vanmnhlehbrarﬂp.
+\\ra'\m0bile1‘1tra'y\
+\m.::::00le\:0ra:y0.
+
+\\ra'\m0bilc1‘1tra*y\...
+
+\‘Ja"mnhllP|‘1Ha'y\
+
+ 
+
+\vanmnhlevhrarﬂr.
+\vanmnblehbraw‘n.
+
+ 
+
+Page 11 of 11
+TOP SECRET STRAP1
+
+Jl'Jc VISUU DUI...
+Jl-Jcn-IUDD 00. .
+
+ 
+
+3106: 161000 00. .
+
+ 
+
+ 
+
+31-Jan-1300 DD: .
+
+ 
+
+“06061000 00: .
+
+ 
+
+Jl-Jcn-IUDD 00. .
+
+ 
+
+Jl-J= -1s0000: .
+310606100000. .
+
+ 
+
+Jl-Jcn-IUDD 00....
+31-]: 430000: .
+Jl-J= -1s0000: .
+310606100000. .
+
+ 
+
+51::
+004.00
+20.22KE
+1‘: FIIKF
+1.35KB
+15.16KE
+
+Date c «100
+
+12th November 2010
+
+F0: Type
+
+01131 He
+01 FT F11:
+
+PLIST We
+
+01:10:: 061
+
+Jl'Jdﬂ'lSJUUEI...
+
+Jl-Jan-lEDEI 0:
+. 31-Jan-1330 DE
+31-Jan-1800 00: .
+
+ 
+
+31-Jan-1800 0c: .
+
+ 
+
+. JlrJanrlﬁJU UL
+“Jamawn 0r:
+
+ 
+
+ 
+
+ 
+
+31-Jan-10300E....
+
+31-Jan-1330 DE‘
+
+ 
+
+31-Jan-1800 0c: .
+
+ 
+
+. Urbraw‘prafsrenta
+
+. \‘10rar-1\0rzferem:es\...
+. \‘10rar-1\0rzferem:es\...
+
+E
+
+Palll 001a MLIJIrIEtJ
+
+01-Jun-1300 00
+EBrNquEIIEI 17
+mananm 17
+UlrJanrliUU 00:...
+U37NWVZUIU 17...
+
+ 
+   
+
+U1hrar't‘m)FPn=an:\
+
+ 
+
+50:14: 0:16 Reuiveu
+RECEI UZIllflU 13:06
+RECEIVZD 031010 10.31:
+RECEI 021101015006
+
+  
+
+02110101636
+02110101306
+021101015 6
+031101017
+0511010 17:11
+02110101306
+0310101636
+0211010100:
+02110101536
+031010 13.01:
+02110101636
+02110101306
+02110101006
+02110101306
+031010 15:36
+02110101056
+02110101306
+0310101306
+02110101055:
+07110101306
+031010 13.01:
+02110101636
+02110101306
+02110101006
+02110101306
+03101013:06
+02110101056
+02110101636
+0310101306
+
+ 
+

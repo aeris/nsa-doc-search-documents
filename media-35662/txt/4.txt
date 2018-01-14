@@ -1,0 +1,78 @@
+TOP SECRET STRAP1
+12th November 2010
+
+7. The target UDID can be used track the iPhone seen with ASBOLINE
+EPILSON end point machine. In this particular case the tar et UDID has
+been seen 16 times, the last time off Pi on the
+24/10/10 using the inbuilt iPhone Mail client to access his yahoo
+
+account. The user agent for this is shown in Figure 3. In this case the
+EAUTO_App|e-imei-URI TDI rule was used to extract the specific UDID
+
+ 
+
+value.
+TDI—Scope Ruto Route
+User-Agent iPhone Mail {/0341}
+Labelled-Rn ute
+Figure 3 — iPhone Mail client user agent
+Sea-Fer Saga-0' ﬁddg Ssdg Other Info
+GW'IJCEIJDl TDI—5m 3 Machine Route
+
+l
+
+Source CFC_DEBITCARD
+Farm alt-Transfer rm SEM- :=-TD[
+User—Aden: Mozilla/S .0 (iPhone,- 0; CPU
+iPhone DB 3_0 like Mac OS X; H'W'
+iPhonel,2; en_us:| AppleWebKItI’EEEplﬂl
+(KHTML. like Gecko) (AdMob-
+iSDK-ZUUQDE‘IDQ} AS-IF-Src HC|_MFITCI'I
+AE-IP-Dst Labelled-Route
+
+l
+
+Figure 4 — iPhone Admob user agent profile
+
+8. The UDID for all 6 targets were run through AUTOASSOC. The result for
+is shown in Figure 5. As can be seen there is a clear
+
+correlation with the — yahoo-Y-cookie.
+
+ 
+
+  
+ 
+  
+   
+    
+  
+  
+
+Known TDI Putative TDI CORINTH Score Events Most
+task/n9? recent
+EAUTO Irma—URI" Vance-V-Ceekre: 1.000 13 24/10/10
+Vance-V-Ceekre: 0.500 1 23/00/10
+Vanoo7v7c‘ookier 0.500 1 14/11/09
+VahwaCeek/e: 7 0.500 1 14/11/09
+VahwaCeek/e: 7 0.500 1 19/06/10
+Vance-V-Ceekre: — 0.500 1 10/12/09
+VanDo-V-Cookre: - 0.500 1 19/00/10
+VahwaCeek/e: 7 0.500 1 23/00/10
+VahwaCeek/e: 0.500 1 10/12/09
+Vaheo-V-C‘ook/e: 0.500 1 19/06/10
+Vance-V-Ceekre: 0.500 1 15/11/09
+EXP_Admob-rsu-URI: EX/J Admob-X-Admob-Isu.‘ 0.500 1 19/09/10
+EXP Admab7X7Adeb7ISu: EX/LAdeb/SMUEI: 0.500 1 19/09/10
+
+Figure 5 — AUTOASSOC results for ABSOLINE EPSILON
+
+9. The IP address. identifier type, bearer and user agent type for all 6
+targets was extracted and formed the basis of further target development
+work. Running the resulting 6 UDle through AUTOASSOC, resulted in
+two correlations with a high enough score. These were
+and—and confirmed to be correct after discussing with
+
+Page 4 of 11
+TOP SECRET STRAP1
+

@@ -1,0 +1,71 @@
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+TOP SECRET STRAP1
+12th November 2010
+
+- and after further analysis it was discovered that this selector was
+not-but an associate. It was removed from tasking.
+
+Target analysis and warrant was completed for a further five targets and
+a successful QUANTUM redirect and the PDF exploit was delivered for
+—(URN PFVT658) on the 30th of October. The resulting
+WARRIORPRIDE install was also performed and beaconed on the 2nd of
+November. The target phone was shown to be jailbroken and on the 3rd
+of November content was successfully extracted from the phone and
+was available in Looking Glass. This is highlighted in Appendix B with
+the resulting iPhone directory structure presented how it appears in
+Looking Glass. The WARRIORPRIDE exploit has resulted in extraction
+of the target’s address book, sms, call logs, notes, WLAN logs.
+bookmarks, map query history. Safari browsing history and some
+images. Detailed analysis of extracted files will be covered in a further
+report.
+
+A successful redirect to — in October was
+performed but due to what is believed to be Javascript being disabled on
+the phone the firmware type of the phone could not be confirmed to
+enable the first stage implant. This initial survey of the firmware type has
+now been removed after discussions within CNE but the target has not
+been seen recently on his iPhone for exploitation. The two other targets
+tasked for QUANTUM have failed to be seen recently in collect.
+
+Currently, there are four CNE Single End Point machines that have been
+identified with recently sync'd iPhone targets. The most recent being an
+OVERLIT target seen on 29/09/10. These targets are being monitored
+by CNE and will have the SLIDE exploit installed to allow implant of
+WARRIORPRIDE when the iPhone is sync'd with the existing SEP
+machine.
+
+CONCLUSION
+
+With the analysis of the UDIDs on target machines and correlation in
+passive collection with known target yahoo selectors, the UDID can be
+used to correlate iPhone handset to end point sync machine and tasked
+yahoo selectors. The UDID can be used for realtime tracking of target
+iPhones and could in theory be used as a selector for QUANTUM events
+where other traditional selectors (yahoo-Y/B cookie etc) are not present.
+Of course an exploit for the application would have to be written which is
+not trivial.
+
+It is not possible at this time to take the UDID and reverse engineer the
+SHA-l HASH to discover the IMEI, MAC addresses and serial number.
+
+Further work is ongoing to identify targets of interest that are suitable for
+the QUANTUM exploitation. Development and monitoring of current
+
+identified tar ets is still being done. Discovery of an associated IMEI for
+i will help in firmware identification and exploitation of this
+target.
+
+Page 8 of 11
+TOP SECRET STRAP1
+

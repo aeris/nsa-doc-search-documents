@@ -1,0 +1,74 @@
+C.
+
+TOP SECRET STRAP1
+12th November 2010
+
+Using an open source PDF vulnerability when using the Safari browser,
+Joint CNE/TECA Mobile Exploitation Team were able to develop an
+exploit to deliver a WARRIORPRIDE implant to a target test phone.
+Further, investigation, liaison and testing with the CNE QUANTUM team
+resulted in approval for the implant to be deployed against QUANTUM
+iPhone targets.
+
+DESCRIPTION OF ANALYSIS
+
+CNE Endpoint
+
+TDI
+
+As part of the SD Mobile Exploitation theme to identify further end point
+machines that had been seen syncing with iPhones. a survey was
+undertaken by CNE and TAO to scan all target end point machines for
+the appropriate iPhone registry keys. Scanning of all CNE stored single
+end point (SEPs) registry keys on particular process IDs resulted in 9
+CNE endpoints seen this year sync’d with iPhones. The resulting Unique
+Device Identifiers (UDID) were extracted from the registry keys and ran
+in MUTANT BROTH and AUTOASSOC, resulting in 6 correlations with
+either iPhone Safari user agents or the iPhone Mail app seen in passive
+collection.
+
+A CNE end point operation against—(ABSOLINE
+
+EPILSON had resulted in access to a windows end point machine
+. A scan of this machine‘s re istr keys resulted in UDID
+. As can be seen, the
+
+UDID has been seen with the Admob SEM rule type and with the Apple-
+lMEl-URI TDI type. Admob is the largest mobile advertising network
+allowing games publishers to embed adverts and therefore receive
+revenue from a number of different brands. The target iPhone OS is 3_0
+as shown in the User Agent profile in figure 2.
+
+TDI type TDI var'ue
+
+ 
+
+EHFJdmob-rsu-URJ
+
+EAU'TO_App-IE-imai-IJR1
+
+III
+
+EHF_Fidn1I:|l:I-><-Admi:ll:l-Isu
+
+Figure 1 — MUTANT BROTH Matching Identifiers
+
+Event CDHDI‘
+
+Userengent {96,1
+
+ 
+
+anillajﬁﬂ (il'lmne: I]: [PU iphnne [IE 37D like Mar I]; K: HW iPhonel,2: en—u-i) nppleWehlit/SZSJBJ 3 [IE nib)
+[KHTHL. like EBCIO} [AdHoh-IHDK-ZIIIJ'JIJZIJGJ
+
+iPhune Hail (man) 11 has as)
+
+Mozillahm (when; u; CPU lPhCll'Ie us 10 like Mar. as x: Hw IPhonel.z: en_us) nnnlewehmthzs.m.r. 2 [12 To)
+EKIITHL, like Gecko) (Adnuheisoxeznuww-p)
+
+Figure 2 ——iPhone UDID User agent profile
+
+Page 3 of 11
+TOP SECRET STRAP1
+

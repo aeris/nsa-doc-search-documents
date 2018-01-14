@@ -1,0 +1,40 @@
+TOP SECRET STRAP1
+12th November 2010
+
+ICTR-MCT Team (ICTR-MCT—GCHQ-dl)
+
+MHE Team MHETeam-GCHQ-dl)
+OPDSDHQ
+
+TEA
+
+_
+Benhall Records Centre _
+
+GCHQ
+
+iPhone target analysis and exploitation with unique
+device identifiers
+
+  
+
+Summary
+
+This paper describes standard analysis techniques
+that have been used to both discover iPhone
+target end point machines and implant target
+iPhones directly using the QUANTUM system. It
+shows that the iPhone Unique Device Identifier
+(UDID) can be used for target tracking and can be
+used to correlate with end point machines and
+target phone. It highlights the exploits currently
+available and the CNE process to enable further
+targeting.
+
+OPDSDH
+
+ 
+
+Page 1 of 11
+TOP SECRET STRAP1
+

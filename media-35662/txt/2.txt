@@ -1,0 +1,57 @@
+TOPSECRETSTRAPl
+12th November 2010
+
+A. REFERENCES
+
+[a] iPhone applications and privacy issues: An analysis of Application
+Transmission of iPhone Unique Device Identifiers (UDIDs).
+October 1 2010
+
+[b] CROWN PRINCE — Techni ue for identifying Apple UDIDs in HTTP traffic
+— 8/784415001111105h- 22/07/10
+
+[c] Strategic Framework Task 4138585 — Report No: 72/09/Rl416/C, Roke —
+October 2009 Issue 2
+
+[d] The Good ienetration iuide -
+
+re] ereee —
+m reheneereene-—
+
+B. BACKGROUND
+
+1. Every Apple iPhone, iPad and iPod touch has a unique hardware
+identifier called the Apple UDID. The UDID is a 40 character hex string
+(160 bits) that seems to be a SHA-l hash of the IMEI, serial number and
+the Bluetooth and WiFi MAC addresses. The UDID is available to
+developers of applications for these devices. and it is used to identify a
+given device. As highlighted in [a]. the UDID is seen in multiple apps and
+can be used to allow target tracking or be used to correlate with other
+personal identifiers.
+
+2. The Mobile Theme has invested a large amount of research into iPhone
+apps and metadata anal sis over the last year accumulating with a
+detailed report done by [c] in October 2009 and 29 SEM rules
+created by lCTR-MCT [b]. These rules have used to extract iPhone
+metadata for a number of apps and in particular the Unique Device
+Identifier (UDID) from any carrier being processed using DEBIT CARDs.
+Further TDI rules are being developed by GTE that will in the future
+extract UDID events from carriers processed through the MVR system.
+The resulting events have then been used to populate both research and
+corporate QFDs (Query Focused Datasets) such as MUTANT BROTH
+and AUTOASSOC and will eventually form the basis of mobile
+correlations in HARD ASSOC.
+
+3. Initially, an exploit was developed by the Joint CNE/TECA Mobile
+Exploitation Team for iPhone that was to be delivered to the target
+phone when syncing with an exploited end point machine. This was
+successful for a BROKER target and resulted in the extraction of SMS,
+caIl logs and contact details. After this initial trial, CNE and SD undertook
+work to discover other single end points seen syncing with iPhones.
+
+4. At HANDEX 2010 (handset exploitation workshop) in August, various
+aspects of the iPhone OS were investigated for potential vulnerabilities.
+
+Page 2 of 11
+TOPSECRETSTRAPl
+

@@ -1,0 +1,47 @@
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+TOP SECRET STRAP1
+12th November 2010
+
+CNE are now conducting monthly surveys of all target machines registry
+keys for iPhone UDle. A similar tipping mechanism for all BROADOAK
+hits needs to be completed using a XKS workflow. Hopefully, other
+targets will be added for QUANTUM exploitation or discovered on new
+CNE SEPs in the future and a successful exploit of a target phone
+performed.
+
+FURTHER WORK
+
+Analysis of three PRESTON accesses has resulted in the identification
+of a number of iPhone targets. Development work against at least three
+target sets is needed with extraction of appropriate UDle and iTunes
+XDSID values. Suitable section 5 warrants need to be in place to pursue
+these end point machines. once CNE have gained access and the
+resulting target iPhones have been discovered.
+
+With further work being undertaken by 888 and TECA on the
+WHIPSAW redirect and exploitation server, it should be possible in the
+coming months to implant directly the target iPhone. However, the
+WHIPSAW exploit is only available via the tasked ADSL line.
+
+An automatic implantation of SLIDE on to an iPhone is needed.
+Currently this is manual process requiring a CNE operator to be
+connected to the endpoint machine whilst the target is syncing the end
+point machine and iPhone.
+
+A larger number of iPhone TDls need to be written to allow further
+events to be populated into the QFDs allowing correlations with other
+target selectors. This will also enable further real-time tracking of target
+identifiers.
+
+Page 9 of 11
+TOP SECRET STRAP1
+

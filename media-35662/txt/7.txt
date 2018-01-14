@@ -1,0 +1,102 @@
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+TOP SECRET STRAP1
+12th November 2010
+
+    
+ 
+
+ 
+  
+  
+ 
+
+ 
+ 
+   
+
+ 
+
+I .. - -:vTDI Tnhnn-B-Ennkium Tnhun-T-Ennkic
+arr-Age - --“—Wel:lKLtr'5-2El.1EIKHTl‘-‘IL, l a e n arsram’dﬂ MuhileﬁDLl
+. . - — Event-55L EFEIJ'CB stream-EELEFDECB
+
+'l'DI-EIopa Machine Route Soul-:3 CPC_DEBITCARD Format-Transform SEM-n-TDI Yahoo-B-Euukie Yahoo-V-Eookie
+Ber-Agent Huaillaiﬁﬂ [iPhurle; U; CPU iPhone OS 3_1_2 like Mac OS X; Ell-US] AppleWEme'EE'SJB [KHTML, like Gad-cu} Uranium-‘43 MullihﬂDLl
+Sararrrszma nsilPisrt MO_MATCH AiilPiDst -Lallelledilloute— EventACSL EFnrce streamecsL EFIJ?CB
+
+TDLSmpe Machine Ruum—Usereagant MoaiilafEﬂ (iPhone; u,- CPU iPhone OS '3 1 2 like Man 03 x; anus] AppleWEbKiHEZBJE (KHTML, like
+Gecko) Versmnfd-D MobileﬁDn SafarLP‘SZBJEI Tahou—T-tunkle_Tahuu—B—Caokle Yahoo-T—Cuakle
+EZSSmJMBERDDMBZUBuSVGEkaMzIzBmNJUEMzROMUB-M2YHEESIL=DHPI‘I'IIEEIDEHNKUE-tk32EHH NK IJQUKIRDCFHITHGVag"*-E&
+d=02wBTkHVMEFIJRXEINUEldiRNNUEEZyDB‘J‘QFZQLIUElEI-v FFNTdKTIpXMIFNSExGQTdQUDElORlBGQUgZTQFI-IawFaVzAtAXpﬁﬂTUEDWpNQkEERQFDaHABQIIKJ 'la'jf-lDlh
+6E:QNdBQJFDJHREPTEYDDQUMUNWNJUWCHMQUVRKTKFZWUtWaEd-UUZUWHUH'IZIQJEVUL’ Vahuo—Y-Cuukle—Full v=15en=aEJuikﬂudvfkinﬁrl=cﬂjlb43fuh
+p:l‘n2mE|U|ID|313DI]UBDUM=TI|3&lg26n'U5-Enin‘d2u55iﬁﬂ=1 Evunt-SEturitj-Ihhul WED—N: Strr-IIII‘I-sucuritf-Iabul 4|]EIU23EUFF
+
+TOT-Sump: User Route—Uslr-Agent Mazlllafsﬂ uni-lone, u,- cnu iPhone os 3,1,2 like Mac os x,- en-us) ApDIEWehKIw’SZHJS WHTML, like
+
+Gecko) versionfarp Mohiieﬂml safartr‘sza.15 Yahoo-f-canIne—Tahoe-B-caokleWrahno-T-Laukle
+1—CGme-Hllll ﬁnlu'll7lllnnn’1clrviMa'lyl1mhlill?M73ﬁMﬂR-i¢n_ViEk-clr-ﬁllﬁYTTFnl'll7nHlVllllrc_ I .- nFWiTnR-ran..mﬂﬂp
+
+nu .- ﬁuuru: EPC_DEB]TCARDFnrmnt- run -
+nt Mozillaﬁﬂ (iPhone; IJ; CPIJ :Phona OS 3_1_2 like Mar: 05 M' En-us
+. g.- _.._-| .l' I-':.:
+
+  
+     
+
+Figure 8 —Valid iPhone Safari user agent in MB (-<yahoo>)
+
+The target— with target selector
+
+was seen active on different iPhone OS
+and more recently on an iPad. Three other targets were seen active on
+iPads and two others on iPods but with no other associated iPhone
+device. Of the 44 targets seen, 16 were seen using the iPhone Mail
+client that comes by default with all 08. A total of 7 targets were seen
+using the Yahoo Mobile Messenger app.
+
+For all target selectors seen with valid Safari user-agents, further
+MUTANT BROTH, AUTOASSOC and MARINA queries were performed
+to discover any other possible 08 versions seen with the selector.
+MARINA profile queries were performed resulting in the OS version
+being returned within the MachinelD field. The resulting user-agents,
+timeldate, bearer, IP and any other associated selectors are shown in
+the iPhone target list [f]. Associated selectors are either from MUTANT
+BROTH, AUTOASSOC or seen directly as stated in BROADOAK. All
+Yahoo B-cookies as shown in Figure 8 were run in MUTANT BROTH to
+confirm their uniqueness with the iPhone and target yahoo selectors.
+
+OPERATIONAL OUTCOME
+
+The QUANTUM redirect and PDF Safari browser exploit was developed
+to work against 3_1_2, 3_1_3 and 4_0_1 Safari 08 versions. Of the 26
+targets seen with valid exploitable OS version, 5 were added to the
+QUANTUM system for targetting.
+
+Once notified, GCHQ lPTs either added the target to existing CNE
+section 7 warrants as defined in [e] or developed targetting aids as
+defined in [d] and wrote the appropriate warrant. The resulting section 7
+warrants were approved by IPT team leaders and signed off by the ONE
+Legal Team. Three NSA targets were discovered and were added by
+CNE Legal Team to the Partner Agreement Forms to allow exploitation.
+
+Initially,—yahoo selector and B-
+cookie was put on cover on QUANTUM. was not seen
+
+active recently on a iPhone Safari browser to access his yahoo account,
+preferring instead to use the inbuilt iPhone Mail client or his iPad. Three
+QUANTUM attempts resulted in no redirect to SHORTSHEET server for
+
+ 
+
+Page 7 of 11
+TOP SECRET STRAP1
+
