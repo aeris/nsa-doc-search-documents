@@ -1,0 +1,76 @@
+SECRETHCOM | NTII20291123
+
+TURMOIL Stage 1 PPF Engines
+
+______________________________________________________________________
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+ 
+
+ 
+
+psc AEG l...?.5.‘?.’1"53.‘.°. .FE’.” ........................................... I ............................. =
+I Subnet ..§y99§:.tftr§:9.f§ﬁ ........................................ I .............................
+l 3romotion AE ; g
+: i I
+: Technology I ....... . i I
+I 3romotion AE 55?; PSP Hits to FCP E I pnI-II'Igmd
+E . ..... psp SEG ........................... I .............................
+I PA AEG Inn-ugﬂeﬁﬁ'lt? .......................................... I .............................
+: :I-IIIIIIIII:II.III-I-I.l-II-I-II-III-I-II-I-I-I
+Packers Marching : : ] QTEvenrs E E :
+Criterion IOAEGS : QUANTUM AEG uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu : :
+_,5 E E
+: APEX AEG IIII APEX SEG ----------------------------- ' :
+I '. Selected
+FSPF : : :..I.'I£t.5 ...... p
+: VOIP SIP AEG SIP SEG """ : : :
+i : : 'SIP Hits lb DFCE
+: : I. H.323 HJ'IE; Io DFCE
+: I VolP H.323 AEG In" H.323 SEG ------ 5 E Ig‘gpﬁis‘ffgfé
+. a : : :
+Elma: """"" 5 5...... ..; .......... ,-
+E VPN IKE AEG l'"' VPN IKE SEG """ : I:
+I : "Eff/ens
+: VPN ESP AEG .... VPN ESP SEG ...... : ..:E’A ’9'“ Core WAN Bridge
+E 2 E (CWB)
+I . : : "__"" Application
+: PPF Engines : : Message
+"""""""""'"""'""‘""‘""'""""""""_"""I: """" Converter
+Targeting :
+Query/Response : TURBULENCE
+Enterprise Messaging
+
+ 
+
+Selection
+Distribution KEYCARD
+Element
+
+ 
+
+ 
+
+SECRETHCOMINTHZOZQllZB
+

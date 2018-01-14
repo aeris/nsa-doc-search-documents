@@ -1,0 +1,222 @@
+     
+
+Taskin I
+
+DFID 259::- -
+Alloca‘lnr PktDeiay
+
+ 
+
+Pmet FIP “at!
+Router Bundler Injector
+
+Active/Passive Exfiltration (APEX)
+
+ 
+
+ubiisi‘l Tgéking to AEK Mission
+
+and Data Flow Seuences
+
+ 
+
+ 
+
+‘ IEmre'Retrirwe Keys & Implant Cahﬁg
+
+Task Turmon; Task Im
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Antireepiayireetianamit Check
+
+Publish session InitiationfUpdatef
+* DP coilectiuriFiiter & SA metadataextracted from SA
+* unique message ID = commun
+
+* muting ID : PROCESSJD, speciﬁes processing path (SSTEIPPTE) based on Taeking or
+Stare PntEuentin loval [ache
+
+email hi rig:
+
+icationsAssmiationld (cald)
+
+ 
+
+ 
+
+Packet §ueam with
+
+:ASHIONC.EFI' Data
+
+ 
+
+ 
+
+Data Fiew Identiﬁer : DFID) based on Stage-t source
+I
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PROCESS |D:APEX—
+
+ 
+
+cald of PpiEiiei-rt that caused coliection
+; use can to iookup PpiEiiei-rt which contains route (PROLESSJD)
+
+I I I
+PROCESS |D:APEX—'SSTE (Packets have been {Ire-selected by lm
+kets based on 5-tuple (or {mainly raid)
+Use cald to query PpIEveht cache and retrieve SA meta:
+Lise snearitImDFlD) :9 query DFID Ailocamr
+
+DP Packg Bundle tagged with SA and Stage—0 metadata
+Decmgtedfﬁecohstmcted DP Pay: at Sunni;
+
+ 
+
+ 
+
+and retrieve Stage-n metadataISR
+
+metadata
+
+Stare exﬁ
+
+ 
+
+ 
+
+ 
+
+ 
+
+NO
+
+Jar Turmnii selectiohipmcessihg)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Reinject exﬁluated DP hackim e.g. IKEur ED Packets)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Packet Saleem wim iKE or EP:[Begin Tui‘mnil VPN:Mim'nn Da:taﬂow)
+TOP SECRETIICOMINTHREL T0 USA. AUS. CAN. GBR. Nzuizozsnzs
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+trated DP
+
+Look for VnIP trafﬁc in Pre sanewave
+xﬁltrated Vol P packets + metadata and process
+
+Retrieve B
+
+ 
+
+Lbe cald to query prEieht cache and retrieve SA metagata
+Is this the ii rst packet received With this cald? (Is the channelld empty?)
+
+‘g‘S
+
+Use streamld(DFlD) to query DFIDAIiocator and retrieve Stageu metadataiSRl
+
+.cu DP sent to SOTFﬁchanneld)
+
+ 
+
+e hew SOTF session with unique channelld, tagged with SA and Stage-n metadata
+Aileeate new sneamldtDFlD) from DFID Alienater for this channelld and save metadata
+
+Dei “Er T35
+
+ 
+
+ 
+
+ 
+
+n Presmrewave leg. VaIP Packets)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

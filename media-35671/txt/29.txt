@@ -1,0 +1,157 @@
+ 
+
+Reinjecreo' Packets (>2 )
+
+ 
+
+ 
+
+Stage 1:
+Packet
+Processing
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+   
+
+Flow Control
+Processor
+(FCP)
+
+ 
+    
+  
+
+ 
+
+ 
+
+|.
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘F
+
+Packet Filter
+(FSPF)
+
+ 
+
+Reinjecreo'
+Packets (2)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sessions & Bundies (No Reinjection R uireo')
+
+  
+
+C‘acnkers
+Via tch in g
+Criterion
+
+ 
+ 
+
+-.
+
+ 
+
+   
+
+ 
+
+ 
+
+Packet I
+
+Router I
+
+Packet Processing
+Framework (PPF)
+
+ 
+
+ 
+
+ 
+
+Metadara
+
+ 
+
+  
+
+Transform Engines
+
+(TEs)
+
+ 
+ 
+
+Metadata
+Processor
+
+      
+ 
+ 
+
+ 
+ 
+  
+    
+
+    
+   
+
+     
+
+ 
+
+ 
+
+UNCLASSIFIED
+
+TURMOIL Stage 1’ (Stage one Prime)
+
+Stage 2:
+Session
+Processing
+
+ 
+
+ 
+
+Stage 0:
+
+SR! Merada
+
+ 
+
+DFID
+Allocator
+
+UNCLASSIFIED
+
+ 
+

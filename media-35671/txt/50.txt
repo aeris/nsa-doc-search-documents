@@ -1,0 +1,52 @@
+     
+ 
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZLHZOZQIIZ3
+
+Tasking XML (Turbine A, ITx A, Turmoil)
+
+gizﬁgg’ <?xml version="1.0" encoding="UTF-8"?>
+
+<task:message schemaVersion="1.0“ xmlns:task="urn://control.exo/TaskingInterface/v1">
+<task:taskAdd>
+<task:mnguid>00110900-1111-2222-3333-444455556666</task:mnguid>
+<task:timestamp>2<ltask:timestamp>
+<5essionConfigTask>
+<taskSecurityMarking classification="TS" coi="c0MINT" disseminationControls="REL"
+sCIcontrols="SI" releasableTo="USA AUS CAN GBR NZL" legalAuthority="RAWSIGINT" />
+
+ 
+   
+
+.E
+
+<header> ... </header>
+<commands>
+<fogynullControls>
+
+<replayPrevent>1</replayPrevent>
+<historyLimit>100</historyLimit>
+<antiDe1ay>a<lantiDelay>
+<timeWindow>1800<ltimeWindow>
+
+</fogynu11Controls>
+
+<apexControls>
+<taskUuid>00010001-1111-2222-3333-444455556666</taskUuid>
+<agentUuid>80010001-1111-2222-3333-444455556666<lagentUuid>
+<agentCaseNotation>UA.AAABBBCCCMM1<lagentCaseNotation>
+<processingMode>Reinject</processingMode>
+
+</apexControls>
+
+<implantLp>
+<tunnelId>2</tunnelId>
+<ip>10.1.1.2</ip>
+<port>10002<lport>
+
+</implantLp>
+
+</command>...
+
+TOP SECRETNCOMINTHREL TO USA. AUS. CAN. GBR. NZLH20291123 50
+

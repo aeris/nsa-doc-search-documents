@@ -1,0 +1,62 @@
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZLHZOZQ1123
+
+ 
+
+> IP Header
+> UDP Header
+I SA Payload in UDP Transport Layer
+
+ 
+
+ 
+
+I Infrastructure Header (128 bytes) rgfgpe'i‘ﬂgﬂga
+° RSA Encrypted w/ Infrastructure Public Key paéfeiiiig's':£333?on
+° Contains SHA-1(INF-HDR), Cryptold Packet-mam r1
+- Cryptold = {Deploymentld Targetld, Implantld}
+I Implant Header (128 bytes) Opﬂos
+0 RSA Encrypted w/ Cryptold ’5 Public Key ImLTEE'I'inoﬂim
+
+Encrypt-M ode = 0x02
+
+° Contains SHA-1(IMP-HDR)
+
+° 128-bit CV, MI, and CRC-16 checksum for
+Exfil/Metadata Block
+
+w
+I Exfil/Metadata Block (variable) MQtSEIZtiﬁ 13'“
+° RC6 Encrypted w/ CV & MI
+> Minimum packet length = 344 bytes
+
+ 
+
+UFOGYNULL
+
+ 
+
+FUN NELAPS
+
+W
+Exfil-ld = UxDUDDDDeE ML
+Exlll-Type — Packet Bytes
+
+Time-oI-lntercept = UxftDO
+Filter-Id = Uxi2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+H SHELLGREY D—U
+
+ 
+
+TOP SECRETNCOMINTHREL TO USA. AUS, CAN. GBR. NZLH20291123 16
+

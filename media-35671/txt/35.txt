@@ -1,0 +1,122 @@
+ 
+
+SECRETHCOM | NTII20291123
+
+ 
+
+Stage 1: Packet Processing
+
+ 
+
+Metadata Processor
+
+ 
+
+ 
+
+".3
+
+ 
+
+ 
+
+Metadatal
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+
+Atomic Event
+Generator
+(AEG)
+
+  
+  
+
+Events
+
+PPF Engines
+
+|. ________________________________________________________________
+
+ 
+
+ 
+ 
+ 
+   
+
+Stateful Event Event
+Events ,
+Generator Filter
+(SEG) (EF)
+
+ 
+
+ 
+
+"Hits"
+
+ 
+
+‘l’
+
+Stagel ASDF
+Reporter
+
+IKE
+Events to BME
+
+ESP
+Events to BME
+
+I—D ASDF Metadata to Stage 2
+
+ 
+
+VPN IKE/ESP Metao'ata
+
+to Stage 2
+
+ 
+
+ 
+
+ 
+
+...§
+
+ 
+
+IVE Metadata
+Tabulator
+
+n.
+
+ 
+
+ 
+
+ 
+
+r IVE Metao'ata to Stage 2
+
+ 
+
+_____ __.|______
+
+> EF Metao'ata to Stage 2
+
+ 
+
+ 
+
+SECRETHCOMINTHZOZQllZB
+

@@ -1,0 +1,25 @@
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLI120291123
+
+ 
+
+Identiﬂ an exfil packet that matches DP filter rule.
+Modim to original IP destination address.
+Modim to original protocol fields (IP, UDP, TCP).
+
+Decrypt/unmunge transport layer payload.
+— Have now recovered the original captured packet.
+
+l.
+2.
+3.
+4.
+
+1. Associate metadata with recovered packet.
+— agentCaseNotation, Turmoil link caseNotation
+
+1. Perform protocol specific processing.
+— Pre-selected: forward all traffic to TUBE/PWAVE
+— Re-inject back into Turmoil Stage-1
+
+TOP SECRETNCOMINTHREL TO USA. AUS, CAN. GBR. NZLH20291123 18
+

@@ -1,0 +1,34 @@
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZLI120291123
+
+,. ’
+v
+
+Challenges
+> Classification & Legal Authority
+I Some TAO implants/accesses are compartmented.
+° The highest priority VPNs are likely on compartmented accesses.
+I We’d like to exfil packets to high-bandwidth 880 sites
+0 Ensure compliance with FISA / FAA / PAA / USS/D SP0018.
+
+  
+
+... _ '7 .l=-
+
+> Future Automation
+I Turbine tasks both Active & Passive collectors
+I Automated Path Discovery
+I Dynamically task Active system using Passive selectors
+
+° Exfil VoIP signaling to Turmoil for selection:
+I task selected calls for exfil.
+
+° Exfil VPN ESP tunnel starts to Turmoil for selection:
+I task exploitable tunnels for exfil.
+
+° Apply automated OPSEC policy to manage exfil bandwidth & CPU
+utilization on implanted device.
+
+ 
+
+TOP SECRETNCOMINTHREL TO USA. AUS, CAN. GBR. NZLH20291123 45
+

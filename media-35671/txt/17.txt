@@ -1,0 +1,27 @@
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZLI120291123
+
+ 
+
+Look for SA packets:
+1) at destIP/destPort; protocoI=UDP,
+2) that are at least 344 bytes long, and
+3) whose first 128-bytes of Transport Payload “look random”.
+(Easy/quick initial checks)
+1. RSA Decrypt INF-HDR w/ Infrastructure Private Key.
+- Authenticate w/ SHA-l
+
+!“
+
+- (Slow secondary check; can’t withstand much non-SA traffic on IP/port)
+1. RSA Decrypt IMP-HDR w/ Cryptold '8 Private Key.
+- Authenticate w/ SHA-l
+1. R06 Decrypt Exfil/Metadata w/ CV and MI
+- Perform CRC-16 integrity check.
+. Anti-Replay Check & New Session/Retransmit Check
+2. Extract Metadata and create Collection Filter rule for DPS
+
+Metadata contains either 5-tuples or pattern/mask/offset that match DPs
+prEvent.cheCF.tuple (5—tuple)
+
+TOP SECRETNCOMINTHREL TO USA. AUS, CAN. GBR. NZLH20291123 17
+

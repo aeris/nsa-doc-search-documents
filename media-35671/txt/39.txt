@@ -1,0 +1,23 @@
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZLI120291123
+
+ 
+
+> APEX Sequence Diagram
+I Tasking
+I Look for: FASHIONCLEFT Session Announcements.
+I Recognize SA
+I Look for: FASHIONCLEFT Data Packets
+I Recognize DP
+I Route DP to Bundling or Packet Reinjection TE
+0 Reconstruct, Attach Metadata, Output/Reinject
+
+> VPN Dataflow & Sequence Diagram
+I Recognize VPN IKE Packets
+I Send a_H IKE Metadata to CES TOYGRIPPE database
+I Send targeted IKE to CES POISON NUT for VPN key recovery.
+I Recognize VPN ESP Packets
+I Save targeted ESP in big buffer and request VPN key from CES.
+I If receive VPN key, decrypt and Reinject.
+
+TOP SECRETNCOMINTHREL TO USA. AUS, CAN. GBR. NZLH20291123 39
+

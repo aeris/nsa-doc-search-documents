@@ -1,0 +1,63 @@
+SECRETHCOM | NTII20291123
+
+ 
+
+> ' -
+’ Stateless - does not store data or PUbI'Sh observations
+
+metadata > Each engine can be specialized and
+(Atomic Event Generator = AEG) optimized based on Incoming speed
+> Evaluation 0ftrafﬁc I Software and/or Hardware
+
+ 
+
+      
+    
+
+Examples:
+
+1. Detect VPN setup:
+IKE key exchange.
+
+2. Detect VPN tunnel:
+ESP packets.
+
+3. Detect VolP signaling:
+H.323, SIP, Skype, etc.
+
+4. Detect FASHIONCLEFT
+Session Announcement.
+
+l Delay Flo r I
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+’l
+
+. State Engine
+'Aessage nglne
+
+State Engine
+
+    
+ 
+ 
+
+ 
+
+# Data
+
+SECRETIICOMINT1120291123 24
+

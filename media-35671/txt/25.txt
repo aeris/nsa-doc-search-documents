@@ -1,0 +1,56 @@
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZLII20291123
+
+ 
+
+> Receives published events from Event Engines and makes processing
+decrsrons.
+
+> Choreographs activity for data flows (Stateful Event Generator = SEG)
+' Correlates multiple published events
+' Starts/stops transform processing engines
+' Publishes decisions about the flow
+
+> Each State Engine can be specialized and optimized
+
+ 
+
+Examples:
+
+1. Associate VPN IKE/ESP
+traffic with recovered VPN
+keys.
+
+2. Associate VolP signaling
+w/ phone call.
+
+3. Track FASHIONCLEFT
+SA’s: new, keepalive, replay?
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I State Engine
+
+’ Data
+
+TOP SECRETHCOMINTHREL TO USA. Aus. CAN. GBR. NZLH20291123 25
+
+W
+
+ 
+

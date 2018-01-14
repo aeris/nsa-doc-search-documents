@@ -1,0 +1,28 @@
+TOP SECRETIICOMINTIIREL TO USA, AUS, CAN, GBR, NZLI120291123
+
+ 
+
+> TAO/DNT active implants have a powerful Man-in-
+
+the-Middle capability to access data deep within
+target networks.
+
+I They can select packets and exfiltrate them back to the
+
+Common Data Receptor (CDR) at the Remote Operations
+Center (ROC).
+
+I HAMMERSTEIN: target any 5-tuple packet
+
+° {Src|P, SrcPort, DstIP, DstPort, Protocol}
+I IKE: VPN key exchanges
+I ESP: VPN encrypted tunnels
+
+I HAMMERCHANT: target VoIP phone numbers
+° Process SIP/H.323 VoIP signaling
+0 Forward targeted phone call RTP media sessions
+
+> But CDR has limited input bandwidth.
+
+TOP SECRETNCOMINTHREL TO USA. AUS. CAN. GBR. NZLH20291123 4
+

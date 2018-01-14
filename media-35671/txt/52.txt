@@ -1,0 +1,39 @@
+    
+ 
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZLI120291123
+
+APEX VolP Phases
+
+> VolP Phase 1: Static Tasking of VoIP (Spin El
+' HAMMERCHANT monitors VolP SIP/H.323 signaling and exfiltrates only targeted VolP
+RTP sessnons to TURMOIL.
+' APEX reconstructs and bundles the voice packets into a file, attaches appropriate
+metadata, and delivers to PRESSUREWAVE.
+
+' This triggers a modified VolP analytic to prepare the VolP for corporate delivery.
+
+> VolP Phase 2. VoIP Call Survey
+I HAMMERCHANT monitors VolP SIP/H.323 signaling and exfiltrates all call signaling
+metadata to TURMOIL.
+' APEX inserts call signaling metadata into an ASDF record and publishes it to the
+TURMOIL Asdeeporter component for target SIGDEV.
+
+> VolP Phase 3. Dynamic Targeting of VolP
+' HAMMERSTEIN captures/exfils all VolP signaling
+' APEX reconstructs/reinjects the signaling to the TURMOIL VolP components.
+' TURMOIL VolP extracts call metadata and sends to FASCIA; checks KEYCARD for hits.
+I
+
+If called/calling party is targeted for active exfil, then TURMOIL sends to HAMMERSTEIN
+(vra TURBINI ) the parameters to capture the targeted RTP sessron.
+
+> Implementation of VoIP Phase 2 and 3 will be driven by mission need.
+
+I Phase 3 levera es all TU RMQIL VolP signalin protocol processors to expand beyond
+SIP and H.323 %e.g. Skype) vvithout additional evelopment on the Implan .
+
+52
+
+TOP SECRETNCOMINTHREL TO USA, AUS. CAN. GBR. NZLH20291123
+

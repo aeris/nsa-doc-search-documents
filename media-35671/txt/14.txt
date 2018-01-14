@@ -1,0 +1,18 @@
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZLI120291123
+
+ 
+
+1 Select packet based on tasking.
+
+2. Make a copy of the selected packet.
+3. Modibr packet IP destination address.
+4
+
+Modibr other protocol fields (IP, UDP, TCP) as needed
+to bypass firewalls and to tag packets for ID.
+
+5. Optionally encrypt/munge Transport layer payload.
+6. Send modified Data Packet (DP) to new destination.
+
+TOP SECRETNCOMINTHREL TO USA. AUS, CAN. GBR. NZLH20291123 14
+

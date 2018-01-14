@@ -1,0 +1,46 @@
+      
+
+     
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZLI120291123
+
+APEX VPN Phases
+
+      
+ 
+
+ 
+
+‘7';-
+
+> VPN Phase 1: IKE Metadata Only (Spin 15)
+
+I IKE packets are exfiled to TURMOIL APEX.
+I APEX reconstructs/reinjects IKE packets to the TURMOIL VPN components.
+
+I TURMOIL VPN extracts metadata from each key exchange and sends to the
+CES TOYGRIPPE metadata database. This database IS used by SIGDEV
+
+analysts to identify potential targets for further exploitation.
+
+> VPN Phase 2: Targeted IKE FonNarding (Spin 15)
+I TURMOIL VPN looks up IKE packet IP addresses in KEYCARD.
+
+I If either IP address is targeted, the key exchange ackets are forwarded to
+the CES Attack Orchestrator (POISON NUT) for PN key recovery.
+
+> VPN Phase 3: Static Tasking of ESP
+I HAMMERSTEIN receives static tasking to exfil targeted ESP packets.
+I APEX reconstructs/reinjects ESP packets to the TURMOIL VPN components.
+
+I TURMOIL VPN requests VPN key from CES and attempts decryption.
+
+> VPN Phase 4: Dynamic Targeting of ESP
+
+I Based on the value returned by KEYCARD, the ESP for a particular VPN may
+
+be targeted as well.
+I TURMOIL sends to HAMMERSTEIN Wa TURBINE) the parameters for
+capturing the ESP for the targeted VP .
+TOP SECRETII'COMINTHREL TO USA. AUS. CAN. GBR. NZLH20291123 51
+

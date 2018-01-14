@@ -1,0 +1,30 @@
+  
+  
+  
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZLH20291123
+g?
+[D
+
+FASHIONCLEFT
+
+.. . ,4:
+
+) [J
+> Definition: TAO/DNT protocol used by implants to
+
+exfiltrate collected network packets to the Common
+Data Receptor (CDR, aka FLAXENPRECEPT).
+
+> Provides support for:
+I Metadata Authentication/Integrity + AntiRepIay + Encryption
+I Data Encryption
+I Uses 1024-bit RSA, 128-bit RC6, SHA-l
+
+> Based on DNT standards:
+I FOGYNULL (DNT Exfiltration Protocol)
+I FUNNELAPS (DNT Exfiltration Data Format)
+I SHELLGREY (DNT Exfiltration Metadata Format)
+
+TOP SECRETNCOMINTHREL TO USA. AUS, CAN. GBR. NZLH20291123 13
+

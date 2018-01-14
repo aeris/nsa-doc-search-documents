@@ -1,0 +1,35 @@
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZLI120291123
+
+ 
+
+> C&C Phase 1: Manual Configuration (Spin 15)
+
+I HAMMERMILL is configured via existing command interface.
+I Simultaneously TURMOIL APEX is provided a configuration file for this HAMMERMILL mission.
+I A human is responsible for keeping the two in sync.
+
+I C&C Phase 2: Semi-automatic Configuration
+
+I TURBINE receives mission parameters and automatically configures both the HAMMERMILL
+Implant and the TURMOIL APEX components.
+
+I TURBINE-HAMMERMILL interface uses CHIMNEYPOOL RPC commands and requires
+HAMMERMILL verSIon 2.5.
+
+' TURBINE-TURMOIL interface uses ISLANDTRANSPORT.
+
+I C&C Phase 3: Dynamic Targeting
+TURBINE sets initial configuration as in Phase 2.
+I Exfiled traffic is evaluated by TURMOIL components+KEYCARD for selection decisions.
+I TURMOIL messages to TURBINE to dynamically target a particular flow through the implant.
+I Exam Ie:
+° TpURMOIL receives an IKE key exchange (and possibly a few initial packets)
+° TURMOIL evaluates the IP addresses to decide if the VPN being set up corresponds to a target
+I If so, TURMOIL message to HAMMERMILL via TURBINE to capture/exfil corresponding ESP traffic.
+
+I This Bhase must be mana ed so that router exfiI does not exceed the tolerable bandwidth limits set
+by Q SEC and operationa concerns. TURBINE may need to Implement additional workflows to
+monitor and control exfII volume.
+
+TOP SECRETNCOMINTHREL TO USA. AUS, CAN. GBR. NZLH20291123 47
+

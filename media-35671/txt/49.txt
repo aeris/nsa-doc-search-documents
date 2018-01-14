@@ -1,0 +1,45 @@
+     
+ 
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZLHZOZQIIZ3
+
+   
+
+Tasking XML (FlashHand'e “"55“" Mame”
+
+4i::§?’ <?xml version="1.0" encoding="UTF-8"?>
+<dci>
+
+<header>
+<fullyQualifiedId>
+<protocol>
+<protocolName>FN</protocolName>
+<protocolVersion>2.0<lprotocolVersion>
+</protocol>
+<targetId>2<ltargetId>
+<techniqueId>1</techniqueId>
+<techniqueVersion>1</techniqueVersion>
+<instanceId>9<linstanceId>
+</fu11yQualifiedId>
+<configurationVersion>2</configurationVersion>
+<revisionDate>2099-91-39T12:19:05.919-05:00</revisionDate>
+</header>
+<commands>
+<command name="fogynullControls" identifier="FNic0NTROL">
+<parameters>
+<parameter name="replayPrevent">1</parameter>
+<parameter name="historyLimit">100</parameter>
+<parameter name:"antiDelay">0</parameter>
+<parameter name="timeWindow">1830<lparameter>
+</parameters>
+</command>
+<command name="implantLp" identifier="IMPLANT_LP">
+<parameters>
+<parameter name="tunnelId">2</parameter>
+<parameter name="ip">10.1.1.2</parameter>
+<parameter name="port">10002<lparameter>
+</parameters>
+
+</command>...
+TOP SECRETNCOMINTHREL TO USA. AUS. CAN. GBR. NZLH20291123 49
+

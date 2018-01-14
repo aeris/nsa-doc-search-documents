@@ -1,0 +1,28 @@
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZLI120291123
+
+Receiver: Needs Metadata
+
+ 
+
+> Metadata explains how to:
+
+ldentiﬂ an exfil packet and the implant source.
+
+Recover original IP destination address.
+
+Recover other original protocol fields (IP, UDP, TCP).
+Contains Key to decrypt/unmunge transport layer payload.
+
+5393!“!4
+
+> Metadata sent in a Session Announcement (SA)
+0 SAs is an lP/UDP packet sent to a destination lP/port.
+0 Multiple copies of SA sent to mitigate dropped SA packets.
+
+> Receiver is dynamically configured with:
+
+0 SA IP/ports, Infrastructure & Implant Private Keys
+0 Processing Mode: Reconstruct or Reinject
+
+TOP SECRETNCOMINTHREL TO USA. AUS, CAN. GBR. NZLH20291123 15
+
