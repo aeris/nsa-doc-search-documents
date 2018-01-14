@@ -1,0 +1,59 @@
+TOP SECRET/lCOMINT/INOFORN/IMR
+Targeting Rationale (TAR)
+
+(Cl/SWREL TO USA, FVE Y) The basic premise of this process is to memorialize why you the
+analyst have requested targeting- This rationale will be provided to 0m external FISA
+Amendment Act (FAA) overseers, the Department of Justice and Ofﬁce of the Director of
+National Intelligence, for all FAA targeting.
+
+(SKISII/REL TO USA, FVE Y) While we do want to provide our FAA overseers with the
+information they need, we DO NOT want to give them any extraneous information. Please
+follow these instructions carefully to place a “Targeting Rationale” in the Target Information
+Comments field in UTT and the Selector Comments ﬁeld in Octave (Note: There are additional
+instructions below concerning issues with Octave). This rationale can be no longer than one
+short sentence. Please see the screen captures below for proper placement.
+
+(U/IFOUO) The TAR must be in the following format: MTAR: Targeting Rationale (TAR)
+sentence!” (Note: The “TAR: ” and leading and trailing triple slashes are critical.)
+
+(U/XFOUO) Targeting Requests will be sent back to draft when the TAR is not present or does
+not meet the below criteria. Please contact your FAA Product. Line Lead for help as needed.
+
+(Sf/SU/REL TO USA, FVEY) The essential elements ofinformation needed in the targeting
+rationale are: “User” of the selector, link between the user and the foreign intelligence purpose,
+and the foreign intelligence purpose. Avord the use of acronyms when possible, when used they
+must be expanded.
+
+(Cf/Sl/lREL TO USA, FVE Y) Your rationale MUST NOT contain any additional information
+including: probable cause-like information (i.e. proof of yoru' analytic judgment), how you came
+to your analytic conclusions, any RAGTIME information, classiﬁcation marking, or selector
+information.
+
+(TS/fSI/fNF) Below are some actual examples (please use the term “User” or “Selector” not your
+target’s name). Analysts should consult their FAA Product Line Lead for questions concerning
+TAR construction.
+
+Foreign Government Certiﬁcation Examples
+
+MTAR: User is a minister plerripotentiary _Minis11'y of Foreign
+
+Affairs/ﬂ
+MTAR: User is in direct contact with Iranﬂf
+MTAR: User is the secretary for in Iraq/.0f
+MTAR: User is in direct contact with the Yenezuelan_ ran.///
+_ ——-- I - . _ _
+
+I/JTAR: User 13 a —wrtlr Chinese—supplying
+
+to Sudan!”
+MTAR: User is a telecommunications engineer and systems administrator-—
+
+—the Middle East and Southwest Asia!”
+
+ 
+
+Derived From: NSA‘/CSSM 1-52
+Dated: 20070108
+Declassify On: 39480914
+TOP SECRET/ICOMINTf/NOFORN/IMR
+
