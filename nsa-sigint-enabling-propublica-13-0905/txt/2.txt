@@ -1,0 +1,67 @@
+TOP SECRET/ISl/TKl/NOFORN
+
+(TS//Sl//REL TO USA, FVEY) Support the SIGINT exploitation of NGW, a MIP/NIP collective
+investment. This request reﬂects only the NIP portion of the program. Refer to MIP NSA volume for details
+
+on MIP related activities.
+
+(TS//SI//REL TO USA, FVEY) Provide for continued partnerships with major telecommunications carriers
+to shape the global network to benefit other collection accesses and allow the continuation of partnering with
+commercial Managed Security Service Providers and threat researchers, doing threat/vulnerability analysis.
+
+(TS//SI//REL TO USA, FVEY) Continue relationships with commercial IT artners and ca italize on new
+opportunities, including the enabling of cryptography used by the*
+governments; enable the encryption being used in a high interest satellite signal, which allows access to the
+communications being carried on a commercial satellite provider.
+
+(U) There are no new activities in this Project for FY 2013.
+
+(U) The CCP expects this Project to accomplish the following in FY 2013:
+
+(TS/lSIl/NF) Reach an initial operating capability for SIGINT access to data ﬂowing through a commercial
+Arabic language/Middle East—oriented anonymous internet service. [CCP_OOOO9]
+
+(TS//SI//REL TO USA, FVEY) Reach full operating capability for SIGINT access to data ﬂowing through
+a hub for a major commercial communications provider and assess its long term beneﬁts.
+
+(TS//SI//REL TO USA, FVEY) Reach full operating capability for SIGINT access to a major Internet Peer-
+to-Peer voice and text communications system.
+
+(TS//SI//REL TO USA, WEY) Complete enabling for—encryption chips used in Virtual
+Private Network and Web encryption devices. [CCP_00009]
+
+(TS//SI//REL TO USA, FVEY) Make gains in enabling decryption and Computer Network Exploitation
+(CNE) access to fourth generation/Long Term Evolution (4G/LTE) networks via enabling. [CCP_00009]
+
+(TS//SI//REL TO USA, FVEY) Assess existing wireless calling metadata accesses and balance flow of this
+data into NSA/CSS with the ability to ingest and utilize this information. [CO_00047]
+
+(TS//SI//REL TO USA, FVEY) Assess existing commercial cyber information ﬂows and balance the ﬂow
+of this data into NSA/CSS with the ability to ingest and analyze this information to support cyber situational
+awareness. [CO_00047]
+
+(TS//SI//NF) Shape the worldwide commercial Cryptography marketplace to make it more tractable to
+advanced cryptanalytic capabilities being developed by NSA/CSS. [CCP_00090]
+
+(U) Changes From FY 2012 to FY 2013:
+
+(S//NF) SIGINT Enabling: -$20.4 million (-$20.4 Base), -2 civilian positions. The aggregate decrease is
+the result of:
+
+O
+
+116
+
+(U) Increases:
+— (TS/SU/NF) $5.6 million reﬂects additional level of investment in enabling exploitation capabilities
+against NGW mobile and data networks.
+
+—— (TS//SU/NF) $4.1 million enables additional support to Endpoint operations. Support to this mission
+area requires SIGINT Enabling to invest in new infrastructure and capabilities with commercial
+
+partners.
+
+-— (S/INF) $0.4 million in civilian pay and benefits.
+
+TOP SECRET/ISlfTW/NOFORN
+
