@@ -1,0 +1,24 @@
+(U) SSH — Secure Shell. A common protocol used for secure remote
+computer access
+
+(U) SSL — Secure Sockets Layer. Commonly used to provide secure network
+communication. Widely used on the internet to provide secure web browsing,
+webmail, instant messaging, electronic commerce, etc.
+
+(U) TLS — Transport Layer Security. The follow-on to SSL, SSLv3 and TLSv1.0
+are nearly identical.
+
+(U) VolP — Voice over Internet Protocol. A general term for the using IP
+networks to make voice phone calls. The application layer protocol can be
+standards-based (e.g., H.323, SIP), or proprietary (e.g., Skype).
+
+(U) VPN — Virtual Private Network. A private network that makes use of the
+public telecommunications infrastructure, maintaining privacy via the use of a
+tunneling protocol and security procedures that typically include encryption.
+Common protocols include lPSEC and PPTP.
+
+ 
+
+© 2013 The New York Times Company Site Map Privacy Your Ad Choices Advertise Terms of Sale Terms of Service Work With Us RSS Help Contact Us
+Site Feedback
+

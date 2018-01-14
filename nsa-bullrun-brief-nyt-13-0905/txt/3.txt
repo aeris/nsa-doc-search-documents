@@ -1,0 +1,66 @@
+12. Owners of BULLRUN materials are responsible for correctly marking the
+information and for ensuring that it is handled according to guidelines for
+protecting classified or COI information.
+
+13. Reports derived from BULLRUN material shall not reveal (or imply) that
+the source data was decrypted. The network communication technology that
+carried the communication should not be revealed.
+
+14. Further dissemination, other than in product reports, of any data or
+information derived from BULLRUN data must be thoroughlyjustified and
+
+receive prior approval from III-I .
+
+15. All questions or concerns regarding BULLRUN material and information
+should be directed to II... .
+
+Protective Marking Guidance
+
+The following offers some guidance on Protective Markings (PM) for
+BULLRUN material. Questions regarding PMs can be directed to the Col
+Authority’s delegates.
+
+At SECRET STRAP1 COMINT AUSCANZUKUS EYES :
+
+The fact that GCHQ has unspecified capabilities against network security
+technologies eg TLS/SSL, HTTPS, SSH, VPNs, lPSec. NB capability does not
+necessarily equate to decryption capability.
+
+At TOP SECRET STRAP1 COMINT AUSCANZUKUS EYES :
+
+The fact that GCHQ or its 2nd Party partners has some capability against the
+encryption used in a class or type of network communications technology. For
+example, VPNs, lPSec, TSL/SSL, HTTPS, SSH, encrypted chat, encrypted
+VolP.
+
+At TOP SECRET STRAP2 COMINT BULLRUN AUSCANZUKUS EYES :
+
+The fact that GCHQ or a 2nd Party partner has a capability against a specific
+encrypted network security technology — see Annexe for details. (At a
+minimum, specific capabilities may be protected by additional ECls and
+restriction on “Eyes".)
+
+The fact that GCHQ or its partners exploits specific encrypted network
+communications — see Annexe for details. (At a minimum, specific capabilities
+may be protected by additional ECls and restriction on “Eyes".)
+
+Decrypts (plaintext or derived events / metadata) obtained from BULLRUN
+capabilities. (At a minimum, specific capabilities may be protected by
+additional restriction on “Eyes" and, in a few cases, additional ECls.)
+
+GLOSSARY
+
+(U) HTTPS — HTTP traffic secured inside an SSL/TLS session, indicated by
+the https:// URL, commonly using TCP port 443
+
+(U) lPSEC -- lPSec, or IP Security, is the Internet Engineering Task Force
+
+(IETF) standard for layer 3 real-time communication security. lPSec allows
+two hosts (or two gateways) to establish a secure connection, sometimes
+
+called a tunnel. All traffic is protected at the network layer.
+
+AUSCANZUKUS EYES stands for Australia, Canada,
+New Zealand, United Kingdom and United States, i.e.,
+Five Eyes.
+

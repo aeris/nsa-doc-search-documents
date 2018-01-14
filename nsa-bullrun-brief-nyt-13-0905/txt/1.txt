@@ -1,0 +1,62 @@
+HOME PAGE TODAY‘S PAPER VIDEO MOST POPULAR U.S.Edition Subscribe: Digital/ Home Delivery Log In RegisterNow Help
+
+El]: New ﬂurk an!” U S Search All NYTimes.com
+- n 5.50
+
+ 
+
+WORLD U.S. N.Y./REGION BUSINESS TECHNOLOGY SCIENCE HEALTH SPORTS OPINION ARTS STYLE TRAVEL JOBS REAL ESTATE AUTOS
+POLITICS EDUCATION TEXAS
+
+Advertisement
+
+Published: September 5, 2013 FACEBOOK TWITTER GOOGLE+ E-MAIL SHARE
+
+Secret Documents Reveal N.S.A. Campaign Against Encryption
+
+Documents show that the N.S.A. has been waging a war against encryption using a battery of methods that include working
+with industry to weaken encryption standards, making design changes to cryptographic software, and pushing international
+
+encryption standards it knows it can break. Related Article »
+
+Excerpt from 2013 Intelligence Budget Request Bullrun Briefing Sheet
+
+When British analysts were cleared for the Bullrun program, they were given this briefing sheet outlining the sensitivities
+of the program, including the N.S.A.'s specific capabilities against widely used Internet encryption technologies.
+
+BULLRUN Col — Briefing Sheet
+
+Introduction
+1. The ability to exploit targets’ encrypted communications is extremely fragile Penetrating Target Defences is the code-cracking group
+and is often enabled through sensitive ECI programmes. The need to take W'th'“ Br'tam Government C°mmun'°at'°“s
+
+. . , , . Headquarters, or GCHQ.
+additional measures to protect that capability has long been recognised.
+
+Currently, virtually all decryption is carried out by PTD (ARTHUR) processing
+with decrypts going to the IIB in the NOCON Col; some decrypts are placed
+in the ENDUE Col due to the sensitivity or fragility of the exploitation
+
+capability.
+2. In recent years there has been an aggressive effort, lead by NSA, to make In 2000, the N.S.A. mounted a full-scale effort to preserve
+
+- - - - - - - - its access to the Internet. The agency deployed the
+major improvements in defeating network security and privacy Involvmg worlds IasIesI compuIeIS Io break codes and began
+multiple sources and methods, all of which are extremely senSitive and co||aborating Wtth technology companies in the United
+fragile. These include: Computer Network Exploitation (CNE); collaboration Stages Iand abmad ‘0 “1"" access POMS "“0 the"
+
+I I I I I I pro UC S.
+
+With other Intelligence AgenCies; investment in high-performance computers;
+and development of advanced mathematical techniques. Several ECI
+compartments may apply to the specific sources, methods, and techniques
+involved.
+3. Making the best use of these new capabilities requires that decryption Three years ago, the N.S.A. gained the capability to
+processing be widely deployed beyond PTD and the results of that decryptvaStamwntS “summed '“temetdata-
+
+processing be available to a wide range of analysts. This inevitably makes it
+harder to protect this sensitive and fragile capability and we need to
+counterbalance this by introducing measures to control access to this
+material and heighten awareness of the sensitivities amongst those who have
+access.
+
