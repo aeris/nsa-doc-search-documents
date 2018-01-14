@@ -1,0 +1,97 @@
+UK TOP SECRET STRAPl COMINT
+
+OPC—M/TECHB/61
+
+Cumulative packet count
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exit 7
+Guard
+CtoS 1 0 StOC 1
+C, _ _
+D _ 4/— 0 _ I
+Q - .-r—r"’"r K - 0—1:";
+Ci — f I, c: — _,_,—-'——" '
+E : ##4##"; 3 : Fer-r“
+D _ £55; I ’ I I I g _ diff
+| | i | | |
+15:46 15:48 15:50 15:52 15:54 15:56 15:46 15:48 15:50 15:52 15:54 15:56
+CtoS 2a StoC 2a
+C) _ .7;
+ﬂ I" E- i;
+J _ i
+r F r
+s — ix 9: — f
+a— C) J O I
+E | | | | |
+6 16:02 16:04 16:06 16:02 16:04 16:06
+L)
+Ed) CtoS 2b StOC 2b
+D _.J _ x
+s s 4:? 8 — 4::-
+m _ (”-3 ﬂ _ ,FF‘
+Q U ZZZ-5’r 8 -
+g) S _ #5:. N 7
+u: o — :--’ o — -
+E | | | | | | |
+E 16:02 16:04 16:06 16:08 16:02 16:04 16:06 16:08
+a g CtoS 3 StoC 3
+a : r/ _ ”Li-Pf
+g: ,5; ,, §_ #7
+N _ _._-—" qr _ /
+O — — I-r-VII/ | D — — | | |
+16:12 16:14 16:16 16:18 16:12 16:14 16:16 16:18
+CtoS 4 StOC 4
+fr" Hr";
+r—r—J—F‘H — __~4'_":_.—-:"'_'FH:
+3 fr“ -H — s - her—<1!"
+m ,:;'____— —r"‘ m
+o _ ___g:.:'--' o _ If
+I | | | | | |
+16:22 16:24 16:26 16:28 16:22 16:24 16:26 16:28
+
+Time (hh:mm)
+
+Figure 2: Cumulative packet count for the four truthed sessions. On the left—hand side
+the Client—to—server trafﬁc is shown. On the right—hand side the server—to—elient trafﬁc is
+shown. The second truthed session is split into the two signiﬁcant circuits used.
+
+9
+This information is exempt under the Freedom of Information Act 2000 FOIA and mav he exemi '
+: Refer any FOIA queries to GCHQ on
+

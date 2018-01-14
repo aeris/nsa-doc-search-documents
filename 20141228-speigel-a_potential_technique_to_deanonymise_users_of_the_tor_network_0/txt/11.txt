@@ -1,0 +1,54 @@
+UK TOP SECRET STRAPl COMINT
+
+OPC—M/TECHB/61
+
+2. Limited SIGINT coverage will mean we will only see a subset of the exit node
+trafﬁc. The exit node could be contacting servers anywhere on the internet and
+unless we have collection very close to the exit node we are likely to only see a
+subset of these connections.
+
+A potential approach around these problems is to demultiplex by HTTP server. We
+hope that (in a time window) there might only be one user browsing a particular website
+so demultiplexing by server will therefore demultiplex by user too. We also hope for
+complete collection of some of these streams as packets will hopefully follow a small
+number of routes between the exit node and the HTTP server.
+
+We show the influence of demultiplexing by HTTP server in ﬁgure 4. It can be seen
+that the clear picture in the previous section is no longer present; a modern webpage is
+typically made up of content from many different HTTP servers. By eye it can be seen
+that it is hard to link many of these fragments of traffic per HTTP server to the guard
+node trafﬁc. Indeed using the mathematical technique we will describe in the following
+section only four of the server—to—client HTTP traces could be successfully linked to guard
+node traffic.
+
+1We therefore recommend that we analyse traffic from exit nodes that we control.
+Such an approach has several desirable features:
+
+0 1We can demultiplex exit node traffic by client as the TOR exit node can associate
+all trafﬁc with a circuit. Complex (and potentially inaccurate) demultiplexing
+algorithms are not required.
+
+O we collect all exit node trafﬁc for each client circuit (as opposed to SIGINT which
+may only give fragments of the traffic). 1We therefore have the cleanest possible
+data.
+
+a We hope to deanonymise all traffic for a circuit rather than just fragments of the
+trafﬁc which may not contain the data of interest to an analyst.
+
+o A resultant database of TOR traffic would give a simple place to experiment and
+deploy TOR deanonymisation analytics.
+
+The NSA have already demonstrated the demultiplexing of trafﬁc in a TOR exit
+node [2].
+
+6 Score
+
+we compare an exit trace and a guard node trace using basic linear regression (building
+on a suggestion of —. W'e bin time up into 1 second bins (2' = 1. . .T);
+—
+
+11
+
+This information is exempt under the Freedom of Information Act 2000 FOIA) and ma be exempt under other UK
+legislation. Refer any FOIA queries to GCHQ on
+

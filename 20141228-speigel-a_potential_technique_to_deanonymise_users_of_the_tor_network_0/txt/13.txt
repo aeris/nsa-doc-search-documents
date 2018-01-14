@@ -1,0 +1,58 @@
+UK TOP SECRET STRAPl COMINT
+
+OPC—M/TECHB/61
+
+this choice is slightly arbitrary but does match the timing precision reported by most
+SIGINT systems. In each bin we then have a pair (Ea. Gi) where E: is the cumulative
+exit node packet count at time 2' and G1 is the cumulative guard node packet count at
+time 2'.
+
+Our primary measure of association is the correlation between E2 and G, as measured
+by the Pearson product—moment correlation coefﬁcient r. We expect that when the two
+trafﬁc streams are associated that a very high correlation coefﬁcient will result. We
+note that high correlation coefﬁcients are generally expected as we're comparing two
+increasing sequences.
+
+To remove false positives we also ﬁt the following basic linear model:
+
+Ga 2 0t +5381 (1)
+
+We then use ,8 to discard bad matches. We expect that a similar number of packets are
+expected in both traces , we only consider traces where 1/2 < ,8 < 2.
+
+A key consideration is how to handle guard node and exit node traces that do not
+precisely overlap. We are assuming that our exit node trace is the complete log of a
+TOR circuit. On the other hand, the guard node trace may contain trafﬁc for other
+TOR circuits. We therefore truncate the guard node trace to the period of the exit node
+trace. We also pad the guard node packet counts with zero if required to span the exit
+node trace.
+
+In addition we consider score all possible time shifts of the guard node trace against
+the exit node trace — i.e. trying out different timing offsets. We do this as we do not
+know the clock offset in our truth data set and to be as generous as possible in finding
+false positives in the bulk logs. It is not known whether such a sliding approach may
+prove useful in practice with known clock offsets; it is possible that such an approach
+may also combat unknown delays in the TOR network.
+
+7 Results
+
+We ﬁrst show results of the proposed technique on our truth data set and then consider
+false positive rates.
+
+As mentioned above we will slide the putative guard node and exit nodes traces
+against each other to allow for an unknown clock offset between the client and HTTP
+proxy in the truth data set and to give us the maximum number of comparisons when
+trying to assess the false positive rate.
+
+7.1 True positives in the truth data
+
+The first experiments are to understand the behaviour of the algorithm on the truth
+data. In figure 5 we show plots of r2 and 6 as the time offset is varied. It can be seen
+
+13
+
+This information is exempt under the Freedom of Information
+
+information legislation. Refer any FOIA queries to GCHQ on [—
+UK TOP SECRET STRAP 1 COMINT
+

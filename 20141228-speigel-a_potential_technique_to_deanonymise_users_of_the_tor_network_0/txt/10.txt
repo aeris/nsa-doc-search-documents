@@ -1,0 +1,105 @@
+UK TOP SECRET STRAPl COMINT
+
+OPC—M/TECHB/61
+
+Cumulative payload
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exit 7
+Guard
+Ln 0:05 1 D StOC 1
+c: J, a _ ,-
++ — if!" if __
+ﬂ _ .f—r’ 3 - -—:i—#’“
+fr- 0 —-~___.—
+../ /_ “a. _
+O _ Flrﬁ ___, ff:— ,_ _ f/J‘
+i) _ ##FJ __ m _ J—Jﬂf
+il) i | | i | | | | i | | |
+O 15:46 15:48 15:50 15:52 15:54 15:56 15:46 15:48 15:50 15:52 15:54 15:56
+8 CtoS 2a StoC 2a
+3 .— — o - a
+N — r" g
+D _ C‘ -
+g _ H e .
+m a _ i - '— _ r”
+3:: C, _ r” C, _ .r
+.o I I I I I
+'D 16:02 16:04 16:06 16:02 16:04 16:06
+8 CtoS 2b StoC 2b
+a ,. f s ,
+CL _ F + _ f _:-_ ___.
+D- 8 — ____,r’J CU _ L}
+L) D ______—" _ m J: _
+I— E — H_J"- _,.r'_-H—F 8 7 lg'i
+m D - '-——'— _' + a -—'*
+2 I I I CL I I I I
+16 16:02 16:04 16:06 16:08 916:02 16:04 16:06 16:08
+:6 0:05 3 StOC 3
+3 l-ﬁ _ O —
+m — /r 8 /
+8 _ _,._—”/ u: — /
++ — " D — —
+8 I I I I I I
+16:12 16:14- 16:16 16:18 16:12 16:14 16:16 16:18
+CtoS 4 m StoC 4
+g _ ___.--’F i) — Jr;
+D _ #____,r- g _ #,__.—-'_J_“,_.—"
+Q ___.~—“ F__r—‘ _,_i—'
+S - ,f'f ——-' '— ‘Jﬂ o _ $5:
+,- __.——-— .—
+D _ ”er—r Hr" 2 _ J
+I I I w I I I I
+16:22 16:24 16:26 16:28 O 16:22 16:24 16:26 16:28
+Time (hh:mm)
+
+Figure 3: Cumulative payload bytes for the four truthed sessions. On the left—hand side
+the chent—to—server trafﬁc is shown. On the right—hand side the server—to—client trafﬁc is
+shown. The second truthed session is split into the two signiﬁcant circuits used.
+
+10
+
+This information is exempt under the Freedom of Information . '
+
+information legislation. Refer any FOIA queries to GCHQ on—
+UK TOP SECRET STRAP 1 COMINT
+

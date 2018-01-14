@@ -1,0 +1,73 @@
+UK TOP SECRET STRAPl COMINT
+
+OPC—M/TECHB/61
+
+Sample Client—to—server Server—to—client
+
+ 
+
+1 0.9977 0.9991
+2a 0.9238 0.9464
+2b 0.9957 0.9983
+
+3 0.9952 0.9998
+
+4 0.9975 0.9983
+
+Table 1: The maximum values of r2 achieved on the truth data
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Server to client Server to client
+0 O
+£9 Q
+C) C)
+2 2
+E 3 E 3
+I- ..
+3 0' _ “2° :5 —
+8 'T. 8 w:
+a; O _ a; O _
+3 3
+,2 z
+o! _ o! _
+O O
+O O.
+o 7 o 7
+| l
+0.0 0.2 0.4 0.6 0.3 1.0 1e—06 1e—04 1e—02 1e+00
+False positive rate False positive rate
+
+Figure 6: The ROC curve for the server—to—client direction (false—positive rate shown on
+a linear axis in the left plot and on a logarithmic axis in the right plot).
+
+that correlations close to 1 are achieved at time offsets close to 0. The short circuit “2a”
+fails to achieve a high correlation. Sensible values for 6 also result, in particular in the
+server—to—client direction. The maximum value of the correlation is also shown in table 1
+and it can be seen that higher correlations are achieved in the server—to—client direction.
+
+7.2 False positives in the bulk data
+
+We now compare our truth exit traces to the bulk data set and see if we ﬁnd any false
+positives. As previously mentioned we’re sliding time to allow as many traces as possible
+to be included.
+
+In the server—to—client direction, we can choose a threshold of 0.998 such that we only
+miss one true positive whilst having no false positives. The one circuit we miss is “2a"
+where the session is short (the main activity is only over 33 seconds). The ROC curve
+looks very good. ﬁgure 6.
+
+15
+This information is exempt under the Freedom of Information Act 2000 iFOIA) and ma; be exempt under other UK
+information legislation. Refer any FOIA queries to GCHQ on
+

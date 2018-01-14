@@ -1,0 +1,52 @@
+UK TOP SECRET STRAPl COMINT
+
+OPC—M/TECHB/61
+
+A potential technique to deanonymise users of the
+TOR network
+
+OPC-MCR, GCHQ
+13 June 2011
+
+1 Introduction
+
+The Onion Router (TOR) [1] is used by individuals and organisations that want to hide
+the originating IP address of their communications.
+
+A TOR client chooses the circuit their trafﬁc will follow through a set of TOR routers
+before contacting the destination server. The ﬁrst hop after the client is to the subset of
+the routers designated as “guard” nodes. The ﬁnal hop in the TOR network is from a
+subset of routers which choose to be an “exit" node. There can be any number of TOR
+routers between the guard and exit nodes but typical clients choose to have one router.
+
+There are many features that mean it is hard to track traffic through the TOR
+network:
+
+0 Traffic is encrypted in multiple layers between the client node and each TOR
+router (leading to the “Onion” analogy). Hence data between each TOR router
+has different ciphertexts. Unencrypted traffic is only seen between the exit node
+and destination server.
+
+0 TOR splits all traffic up into standard size “cells”. Therefore packet sizes can not
+be used to follow traffic.
+
+0 Each connection between TOR routers will typically multiplex many circuits’ traffic
+effectively masking any particular user’s traffic.
+
+0 To ensure fairness of service TOR has a per—circuit rate—limiting store—and—forward
+buffer in each router. This buffer tends to flatten timing features in traffic. [3]
+
+The aim of this work is to ﬁnd the client IP address associated with unencrypted
+traffic between an exit node and a destination server. This paper achieves this aim given
+the following constraints:
+
+0 we must own the exit node. This constraint means that we can demultiplex traffic
+by TOR circuit and thus get a cleaner signal. See section 5 for more detail.
+
+3
+
+This information is exempt under the Freedom of Information Act 2000 (FOIA) and may be exempt under other UK
+Refer any FOIA queries to GCHQ
+
+UK TOP SECRET STRAPl COMINT
+

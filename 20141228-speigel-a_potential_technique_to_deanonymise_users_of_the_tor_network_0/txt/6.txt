@@ -1,0 +1,53 @@
+UK TOP SECRET STRAPl COMINT
+
+OPC—M/TECHB/Gl
+
+data recorder. The timestamps are microsecond accurate but the data comes with no
+packet size. protocol or port information. Each capture was two hours long totalling
+eight hours of collection.
+
+We identify TOR trafﬁc by use of “consensus logs” [4] which are imported by ICTR—
+NE. The TOR network decides what nodes are part of the network and what their roles
+arc. W'e filter the SIGINT packet traces to packets that satisfy:
+
+0 One IP address being a guard node as identiﬁed in the consensus log closest to the
+data collection period. and
+
+o The other IP address not being seen any the consensus log from a month surround—
+ing that period.
+
+This approach will inaccurately identify trafﬁc between clients and guard nodes; the
+inaccuracy comes from the fact that the guard nodes may be doing other non—TOR
+communication. We therefore believe that we will approximately filter down to a superset
+of the wanted trafﬁc.
+
+We note that these filtering rules mean that we will ignore any clients that also run a
+TOR node. However this constraint will still apply for a potential operational scenario
+where we also run guard nodes; without full knowledge of the client one can not tell
+whether a circuit is terminating in the client or being relayed through its TOR node.
+
+3 Why we are not tracking a circuit through the
+TOR network
+
+When we started this work. we considered attacks that tried to follow data through the
+TOR network. However an initial experiment based on JTRIG browsing logs showed
+that SIGINT visibility was too low for a significant chance of success.
+
+We will now describe the experiment conducted but the rest of the section is not
+required reading.
+
+We compare two sources of data:
+
+0 Communication between TOR servers seen in SIGINT. TDSD deployed an ICTR
+signature (in Squeal) to detect communication between TOR nodes across the
+SIGINT ﬂeet for two days in December 2010. To remove signature false hits wc
+ﬁlter down to hits where both IP addresses are known to be TOR routers (by
+consensus logs [4] from the same period).
+
+0 TOR links used by JTRIG for a similar period. JTRIG log the usage of TOR
+connections. Each of their circuits typically have two links between TOR routers.
+
+6
+This information is exempt under the Freedom of Information Act 2000 {FOIA and mav he exem '
+Refer any FOIA queries to GCHQ
+

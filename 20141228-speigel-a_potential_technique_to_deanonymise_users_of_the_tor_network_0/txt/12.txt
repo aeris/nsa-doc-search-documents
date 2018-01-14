@@ -1,0 +1,95 @@
+UK TOP SECRET STRAPl COMINT
+
+OPC—M/TECHB/61
+
+Cumulative packet count per host
+
+Exit.media3.washingtonpost.com
+Exit.media.washingtonpost.com
+Exit.a.fsdn.com Exit.news.bbcimg.co.uk
+Exit.analyze.privacy.net Exit.www.bing.com
+
+Guard # 7
+Exit.a.tsgstatic.com — Exitwww.governmentatticcrg —
+
+Guard (secondary)
+
+Exit.attach.tsgstatic.com Exit.www.onion-routernet
+Exit.c.tsgstatic.com Exit.www.torproIect.org
+Exit.forums.techguy.org Exit.www.washingtonpost.com
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CtoS { 1 } 8 StoC { 1 }
+1‘ LP 1'
+_ drf/ f‘\ _ Fff'l/
+O flf
+g ﬂy 8 ' f-rp‘
+D _ 55/7,— 4:! o _ ,— 2/- . t-ﬁ—i:
+I I I I I I I I I I I
+15:46 15:48 15:50 15:52 15:54 15:56 15:46 15:48 15:50 15:52 15:54 15:56
+CtOS { 2 } StOC { 2 }
+o : /" c: : .r’
+“g R _ f f/ 3 _ //
+o - r—"_’ 0 _ _,r —
+U 8 _ .: ;—”'J E? I; f—
+463 H _ I ,—' _.—' I) _
+x O _ Fr _..H _-.—— c: _ _ ,..—/ __J _,—4-
+u I I I I I I I
+8 16:02 16:04 16:06 16:08 16:02 16:04 16:06 16:08
+a)
+2 g _ CtOS { 3/} 8 StOC { 3/]-
+s m _ / g - /;
+3 o — ,x/ O ' /'////
+E O / [I’l’f 8 — "
+C) I’d—r” C) (J
+I I I I I I
+16:12 16:14 16:16 16:18 16:12 16:14 16:16 16:18
+O CtoS { 4 } StoC { 4}
+8 _ Jf CD _ Ir}:—
+J’ c: — .rr‘
+f____,_r' 00 ____..—
+g _ {/r —'/:‘—J’{ 8 ff,‘
+N f/Fq—J __=__—r qr [f ,_= J—‘ f
+D _ I If I I D _ If I I I
+16:22 16:24 16:26 16:28 16:22 16:24 16:26 16:28
+Time (hh:mm)
+
+Figure 4: Cumulative packet count for the four truthed sessions but with exit trafﬁc
+split across the main hosts contacted. On the left—hand side the client—to—server trafﬁc is
+shown. On the right—hand side the server—to—client trafﬁc is shown.
+
+12
+This information is exempt under the Freedom of Information Act 2000 FOIA) and ma be exempt under other UK
+information legislation. Refer any FOIA queries to GCHQ on
+

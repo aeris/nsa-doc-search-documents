@@ -1,0 +1,66 @@
+UK TOP SECRET STRAPl COMINT
+
+OPC—M/TECHB/Gl
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Client to server Client to server
+0 0
+£9 Q
+C) C)
+09. w.
+s 3 s 3
+I- ..
+E d “2’ 6
+'i3 ".2
+8 V. _ 8 V. _ _
+a.) O a.) o
+3 3
+,: z
+N N
+c ‘ ca — —
+9 _ 9 —
+u i | I U '
+0.0 0.2 0.4 0.6 0.8 1.0 1e—06 1u—04 10—02 10+CI0
+False positive rate False positive rate
+
+Figure 7: The ROC curve for the client—to—server direction (false—positive rate shown on
+a linear axis in the left plot and on a logarithmic axis in the right plot).
+
+In the client—to—server direction. the true and false cases are not so well separated, see
+ﬁgure 7. We are not able to detect any true positives without some false hits. This poor
+separation is probably due to there being less distinctive structure in the clicnt—to—server
+direction; HTTP requests share a similar size.
+
+In the scrver-to-client direction a threshold of 0.998 ﬁnds the true cases (except
+“2a") without any false hits. We can try to extrapolate what this false hit rate means to
+SIGINT collection. It is likely that one would restrict the time slide; we would imagine a
+maximum of 5 seconds may be sensible as opposed to the 2 hours in each bearer we have
+allowed. If we imagine rcstacking our 5circuits >< 4bearers x 120 minutes of collection
+into 288 circuits x 100 bearers x 10 seconds you could imagine it is possible we could run
+288 test circuits against an aperture of 100 bearers without false hitting when allowing
+ourselves to slide the time window by 5 seconds. With our current test data we can’t
+promise a lower false positive rate and further experimentation with sustained collection
+would be required to better evaluate a false positive rate.
+
+8 Software
+
+We provide a reference implementation of the algorithm as an R package “ﬂowcompare”.
+Three functions arc provided:
+
+formatﬂowdata Formats data to that used internally in the algorithm.
+
+16
+This information is exempt under the Freedom of Information Act 2000 {FOIA and mav be exeth '
+information legislation. Refer any FOIA queries to GCHQ on
+

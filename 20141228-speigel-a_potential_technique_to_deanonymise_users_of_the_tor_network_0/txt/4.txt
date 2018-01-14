@@ -1,0 +1,55 @@
+UK TOP SECRET STRAPl COMINT
+
+OPC—M/TECHB/61
+
+n We must be able to log the packet times of the traffic from the guard node to the
+client.
+
+a The TOR communication must be long and structured. We will demonstrate the
+technique against a single user browsing the web via TOR.
+
+o The client must not be running a TOR router of their own — otherwise we can not
+separate the client’s own traffic from other TOR traffic.
+
+The attack we will present is based on correlating exit node and guard node traffic and
+does not require tracking communications through any intermediate link in the TOR
+network. This approach should help maximise the chance of a successful attack despite
+incomplete SIGINT coverage.
+
+2 Test data
+
+We are going to work with two sets of data:
+
+1. Truthed data where we have matched guard node and exit node traffic for a single
+user web browsing.
+
+2. Bulk trafﬁc logs for guard nodes from four SIGINT bearers.
+
+We will try to develop techniques that can correctly match up the truth data but not
+false alarm anywhere in the bulk SIGINT logs.
+
+2.1 Truthed data
+
+TOR is designed to make it hard to link client and exit node traffic together. In conjunc—
+tion with ICTR—NE and JTRIG we came up with a way to collect the exit node traffic
+from our own web browsing. As illustrated in ﬁgure 1 we used a virtual private server
+(VPS) as an intermediate destination for our traffic. We then run packet loggers on our
+client machine and the VPS.
+
+We run an open HTTP proxy server on the VPS. We want to run an open proxy server
+to ensure that there is minimal impact on the data flows (which, for example, authenti-
+cation may introduce) whilst still being able to conduct representative web browsing. A
+risk of an open proxy server is that other internet users may use it thus potentially lead—
+ing to unlawful trafﬁc interception. To avoid this danger we changed our “User—Agent"
+string to a non—standard value and the proxy server was conﬁgured to only respond to
+this user agent. Furthermore the proxy server was only active for the brief duration of
+the experiment. This setup was approved by JTRIG. No traffic due to other users was
+detected in the packet legs.
+
+4
+
+This information is exempt under the Freedom of Information Act 2000 (FOIA) and may be exempt under other UK
+Refer any FOIA queries to GCHQ
+
+UK TOP SECRET STRAPl COMINT
+

@@ -1,0 +1,84 @@
+UK TOP SECRET STRAPl COMINT
+
+OPC—M/TECHB/61
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+beta r"2
+500 0 500
+| I | |
+CtoS 1 StoC 1
+2.0 - -
+1.5
+1.0 — ,,-— an, /-;_H~—u- —
+(.1/ \“'- J.“ ‘2"! Kan. “A,
+0.5 — // ,,-’—'“--.._, \ lax/,2", \‘w. k\ —
+2’ “Raﬁ _/' ,r'
+0.0 — "fﬁ/ “‘L‘m‘}: ;:/ \h‘s—X _
+CtoS 2a StoC 2a
+_ — 2.0
+- — 1.5
+- - 1.0
+‘ ii ii iii ii
+— — —a — 0.0
+CtoS 2b StoC 210
+2.0
+1.5 - —
+(”\- _
+1.0 — I‘m/1i ,4“
+0-5 ' Hf ﬂ"! Jif F/fr ‘
+O O -":"'/._ ti
+' CtoS 3 StoC 3
+_ — 2.0
+KW“
+\\ 1.5
+\ /_\'-.
+_ i, a ~\ - a, — 1.0
+Ur “m a
+_ I”; /,2' \i‘ \1}: _ 0'5
+_ ax \x f "as. _ 00
+CtoS 4 StoC 4
+2.0 — —
+1.5 - -
+1.0 — — — a —
+,x/ MIC“ MK-EH-I'K
+O. 5 [,1 .. _.--/ ,../ -~'-‘_.“ \\
+0.0 — x1-"/ \ 5: "X's _
+| | | I |
+-500 0 500
+
+Time offset I s
+
+Figure 5: The correlation r2 and the linear regression coefficient 6‘ as the time offset
+between the guard node and exit node traffic is varied.
+
+14
+This information is exempt under the Freedom of Information Act 2000 FOIA) and ma be exempt under other UK
+information legislation. Refer any FOIA queries to GCHQ on
+

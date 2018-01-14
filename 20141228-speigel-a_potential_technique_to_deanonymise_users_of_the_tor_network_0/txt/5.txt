@@ -1,0 +1,78 @@
+UK TOP SECRET STRAPl COMINT
+
+OPC—M/TECHB/61
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+
+ 
+
+NWWI
+(/fA
+[“‘Y
+/ \
+“"— KE) TOR network /’
+:7- WVV‘N'}
+t/7
+I
+I
+iv 1/ ~ 0
+O
+C
+WWWn
+
+ 
+
+ 
+
+ 
+
+Figure 1: Our test data collection infrastructure. W'e control the two shaded hosts and
+run packet logging on these hosts. We connect to the public TOR network (guard node
+“G” and exit node “B” are shown) using default settings of the TOR button. We then
+browse public web sites.
+
+On our client we used the standard “TOR button” web—browser extension to access
+TOR with two minor modifications. Firstly, we changed the internal TOR button proxy
+(polipo) to use our open HTTP proxy after transiting TOR. Secondly, we changed the
+web—browser User—Agent to match that accepted by our open HTTP proxy.
+
+Four experiments of about ten minutes each were conducted:
+
+1. “News”: Search on Bing for news. followed by browsing BBC News and then the
+W'ashington Post.
+
+2. “TOR”: browsing the TOR website and then using a privacy checking website.
+3. “Download”: visit to SlashDot followed by downloading a large PDF ﬁle.
+4. “Forum”: Search on Google followed by browsing a PC technical help forum.
+
+Packet logs were collected for each of these. In each experiment one guard node and one
+exit node was used apart from in experiment 2 where TOR set up a new path during the
+experiment with a change in both guard node and exit node. Therefore we will generally
+split experiment 2 into the two circuits “2a” and “2b”.
+
+2.2 Bulk data
+
+To prove a low false alarm rate of any algorithm we need bulk data. We used IP
+address dumps from four internet bearers (two were “client—server” bearers and two were
+“server—client” bearers). The data was kindly collected by GTE with their high—speed
+
+5
+
+This information is exempt under the Freedom of Information Act 2000 FOIA) and ma be exempt under other UK
+. legislation. Refer any FOIA queries to GCHQ on
+

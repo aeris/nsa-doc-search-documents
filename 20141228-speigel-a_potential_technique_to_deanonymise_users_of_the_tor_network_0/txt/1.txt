@@ -1,0 +1,58 @@
+UK TOP SECRET STRAPl COMINT
+
+Reference: OP C—M / TECHB / 6 1
+Date: 13 June 2011
+Copy no:
+
+A potential technique to deanonyrnise users of the
+TOR network
+
+OPC—MCR, GCHQ
+
+Summary
+
+A new technique to deanonymise users of the TOR network is demonstrated. It is shown
+that the majority of a small truthed set of data can be deanonymised without any false
+hits anywhere in eight bearer—hours of data.
+
+For this algorithm to be further tested we must run some TOR exit nodes and collect
+data from these. SIGINT packet logging of guard node traffic is also required.
+Demonstration software is available in the form of an R package from
+
+ 
+
+Copy Distribution
+
+w m —
+
+   
+   
+ 
+   
+ 
+   
+ 
+  
+ 
+ 
+ 
+
+:3 NSA CBS
+.4 ("SH
+7-. use
+(-1 SHQUCNA
+7 I("TR
+8 JTRIG
+9 TEA
+m GTE
+n ()PC—IIQ
+12 ()PC—ALTO
+'13 (we—cw:
+'14 (.)P("-.\I("R —
+
+OPC—M /TECH.B /61
+[18 pages]
+
+This information is exempt under the Freedom of Information Act 2000 FOIA) and ma be exempt under other UK
+legislation. Refer any FOIA queries to GCHQ
+
