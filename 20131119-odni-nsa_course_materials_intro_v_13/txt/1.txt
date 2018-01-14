@@ -1,0 +1,107 @@
+ 
+
+WWW
+
+ 
+
+COURSE: (IFS#SI#NE) OVSC1205 Special Training on FISA (Analytical)
+COURSE: (TSﬁ‘SHN—F) OVSC1206 Special Training on FISA (Technical)
+
+Module 0: Welcome to OVSC1205
+
+ 
+
+Version 13 (Final)
+Last Updated 09/07/11
+
+Includes SME pre-pilot feedback changes
+
+ 
+
+ 
+
+ 
+
+DATE/PREPARER: 5/11/11 SLS
+
+ 
+
+FRAME ID: 0010
+
+ 
+
+NEXT FRAME ID: 0020
+
+ 
+
+BACK FRAME ID: n/a
+
+ 
+
+ALT TAG:
+
+ 
+
+ 
+
+GRAPHIC/AV: Interface screen
+with highlights added to Home,
+Exit, Glossary, Back, Next,
+Slider, Audio, Replay, Start
+
+Text for Mouseovers
+
+Home returns the lesson to its first
+screen.
+
+Exit closes the browser window.
+Glossary button Opens the
+Glossary in a browser window.
+
+ 
+
+ 
+
+Topic Page Classification
+
+Page Number
+
+Analytical version: JOBSEC-REF/LSLMNOEORN 1 of 4
+
+(U) Welcome to OVSC1205
+
+Technical version:
+(U) Welcome to OVSC1206
+
+ 
+
+Analytical version:
+
+ 
+
+(3FS#S#N-E)Welcome to the OVSC1205 Business Records (BR) and Pen Register Trap
+and Trace (PR/TT) FISA Training for Analytical Personnel
+
+Technical version:
+
+(IFS/lSl/NF) Welcome to the Business Records (BR) and Pen Register Trap and Trace
+
+(PR/TT) FISA Training for Technical Personnel
+
+(U) Hover your mouse over each of the highlighted items to preview its function
+
+TSP-8mm
+Page 1 of 7
+
+Derived From: NSA/CSSM 1-52
+Dated: 20070108
+Declassify 6n: ”2103-5050-1-
+
+ 
+
+ 
+
+ 
+
+ 
+

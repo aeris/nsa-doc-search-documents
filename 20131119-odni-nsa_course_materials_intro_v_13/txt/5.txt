@@ -1,0 +1,80 @@
+ 
+
+ 
+
+    
+ 
+
+ 
+     
+ 
+  
+ 
+ 
+   
+ 
+
+DATE/PREPARER: 5/11/11 SLS Topic
+Analytical version:
+(U) Introduction to the
+
+OVSC1205 Characters
+
+Technical version:
+(U) Introduction to the
+OVSC1206 Characters
+
+Page Classification
+JORSEGREWSWNGFGRN—
+
+Page Number
+3 of 4
+
+ 
+
+ 
+
+FRAME ID: 0030
+
+ 
+
+NEXT FRAME ID: 0040
+
+ 
+
+BACK FRAME ID: 0020
+
+ 
+
+ALT TAG:
+
+ 
+
+ 
+
+GRAPHIC/AV:
+
+ 
+
+ 
+
+—(=FS#SI#N-F-) (OGC Attorney): I would also like to take a moment to introduce myself, my name is Nancy, and I am one ofthe Attorneys in the National
+Security Agency (NSA) Office of General Counsel (OGC). I am yourfirst tour guide on this road trip, and I will be introducing you to many of the concepts
+you will need to know as you support the BR and PR/TT Bulk Metadata Programs. Now, let‘s meet the othertour guides.
+
+(TSA‘S-WN-F-HHMC Character): My name is Marvin, and I am one of the Homeland Mission Coordinators (or HMCs) in the CounterTerrorism (CT)
+Production Center. I will be introducing concepts related to establishing Reasonable Articulable Suspicion (or RAS), querying the metadata, and other
+topics pertinent to analytical and technical staff supporting the BR and PR/TT Programs.
+
+(=FS#SI#NE)-(SV Character): My name is John, and I work in the Signals Intelligence Directorate (or SID) Office of Oversight and Compliance (or SV). I will
+be discussing topics related to compliance aspects ofthe BR and PR/TT Programs.
+
+-(=FS#SI#NF-) (Technical Character): My name is Diana, and I will be discussing topics specifically related to the technical support provided to all aspects of
+
+ 
+
+W
+Page 5 of 7
+
+ 
+
