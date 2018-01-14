@@ -1,0 +1,27 @@
+ 
+
+(T S/fSI/fN F) FAA Certiﬁcation Renewals With Caveats
+
+By—011201 1-10-12 0850
+
+(T S//SI//N F) The FISA Court signed the 2011 FAA Certiﬁcations on 3 Oct 2011 — these
+are valid until 2 Oct 2012, permitting SSO FAA-authorized accesses to continue
+operations. However, in the 80-page opinion, the judge ordered certain “upstream” or
+“passive” FAA DNI collection to cease after 30 days, unless NSA implements solutions
+to correct all deﬁciencies identiﬁed in the opinion document. PRISM operations are not
+affected by these caveats. All PRISM providers, except Yahoo and Google, were
+successfully transitioned to the new Certiﬁcations. We expect Yahoo and Google to
+complete transitioning by Friday 6 Oct. Regarding the non—PRISM FAA collection
+programs, the Court. cited targeting and minimization procedures related to collection of
+Multiple Communications Transactions as “deﬁcient on statutory and constitutional
+gromids.” 880, Technology Directorate, OGC, and other organizations are coordinating a
+response, which includes planning to implement a conservative solution in which the
+higher-risk collection will be sequestered. It is possible that this higher risk collection
+contains much of the non-duplicative FAA collection resulting in FAA reporting from
+upstream accesses. This solution is designed to comply with the judge’s order; however,
+the judge will have to determine if it does. If the solution is installed, $80 will then work
+with OPIs and OGC to modify the solution over time such that the ﬁltering process will
+be optimized to permit more valid collection to be processed and forwarded to OPIs.
+Finally, in parallel with these efforts, the OGC is contemplating ﬁling an appeal to the
+ruling.
+
