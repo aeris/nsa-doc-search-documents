@@ -1,0 +1,102 @@
+SECRET/ISU/NOFORN
+
+CLASSIFICATION GUIDE TITLEINUMBER: (U) NSAICSS Target Exploitation
+
+(TAREX) Program, 2-52
+
+PUBLICATION DATE: (U) 2 February 2012
+
+OFFICE OF ORIGIN: (U/IFOUO) 535093, Target Exploitation Program
+
+POC: (U/fFOUO) _ 535093, Target Exploitation Program,—
+
+ORIGINAL CLASSIFICATION AUTHORITY: (Uf/FOUO) Teresa H. Shea, Signals
+
+Intelligence Director
+
+(SI/NF) The NSA/CSS Target Exploitation (TAREX) Program conducts worldwide clandestine
+Signals Intelligence (SIGINT) close-access operations and overt and clandestine Human
+Intelligence (HUMINT) operations in direct support of the United States Cryptologic System
+(USCS). TAREX Program activities are executed under dual NSA/CSS SIGINT authority and
+U.S. Army HUMINT authority. NSA/CSS establishes, funds, and directs TAREX activities, and
+these activities are only conducted in response to validated NSA/CSS requirements. The
+HUMINT community is responsible for executing TAREX operations.
+
+(U/IFOUO) This classiﬁcation guide only addresses the SIGlNT portion of the TAREX
+Program. Refer to the U.S. Army HUIVIINT Classiﬁcation Guide, dated 8 February 2008, for
+guidance on TAREX HUMINT activities. Contact this guide’s POC for a copy of the U.S. Army
+
+HUMINT Classiﬁcation Guide.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Deﬂation oﬂnformatiinn “W I. i Reason Mass Remarks
+
+A. (U) Program Information — General
+
+A. 1. (U) The association of NSAJCSS UNCLASSIFIED N/A N/A (U) Details may require
+
+with the term Target Exploitation, its protection or
+
+abbreviation TAREX, andJ'or the U.S. classiﬁcation, and may
+
+Army Intelligence and Security Command be compartmented.
+
+(IN SCOM) Contact guide POC for
+further guidance.
+
+A2. (U) The fact that TAREX is an UNCLASSIFIED N/A N/A (U) Details may require
+
+NSA/CSS program that provides direct protection or
+
+support to the United States Cryptologic classiﬁcation, and may
+
+System (USCS) be compartmented.
+Contact guide POC for
+ﬁn'ther guidance.
+
+A3. (Uf/FOUO) The fact that TAREX UNCLASSIFIED/I N/A N/A (SI/REL TO USA, AUS,
+
+conducts intelligence operations to provide
+unique collection of telecommunication-
+and cryptologic-related information and
+material in direct support of NSA/CSS
+and/or the USCS
+
+ 
+
+FOR OFFICIAL USE
+ONLY
+
+ 
+
+ 
+
+ 
+
+CAN, GBR, NZL)
+Details may require
+classiﬁcation and may be
+compartmented. For
+example, in accordance
+with the U.S. Army
+HUMINT Classiﬁcation
+Guide, the fact that
+TAREX conducts overt
+
+ 
+
+SECRET/ISU/NOFORN
+
+ 
+
