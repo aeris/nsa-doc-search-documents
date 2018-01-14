@@ -1,0 +1,27 @@
+Based on analysis of Narchive email data b_ and_, we were able to indentify statistics for the original
+communications date for Narchive email messages collected:
+
+< 30 days 1118 11%
+> 30 days, < 90 days 1758 17%
+> 90 days < 180 days 1302 13%
+> 180 days, < 1 year 2592 26%
+> 1years, < 5 years 3084 31%
+> 5years 154 >1%
+
+Numerous target offices have complained about this collection ”diluting” their workflow. One argument for keeping it is that it
+provides a retrospective look at target activity — this argument is hampered by a) the unreliable and non-understood nature of when
+the transfer occurs for an account, and b) that FISA restrospective collection would retrieve the exact same data ”on demand".
+
+SSO Optimization believes that while this is ”valid" collection of content, the sheer volume and the age — coupled with the
+unpredictable nature of Narchive activity — makes collecting older data a less desirable use of valuable resources. 59% of Narchive
+email collected was originally sent and received more than 180 days after collection. This represents about 8.9 GB a day of ”less
+desirable" collection — long term allocation that could be easily filled with more timely, useful H from this lucrative 550 site. As
+always with our optimization, the data would still be available at the site store for SIGDEV. This would not impact metadata
+extraction.
+
+Past DO volume reduction efforts:
+Webmail OAB- Leap day 2012: the original defeat only targeted gmail, yahoo, and hotmail webmail protocol
+FB buddylist sampling since last year
+
+Today: FB OAB defeat/atxks/facebook/ownerless_addressbook : this is a JSON addressbook
+
