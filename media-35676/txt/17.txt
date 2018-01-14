@@ -1,0 +1,34 @@
+Classification: Top Secret ll COMINT ll X1
+
+2.3.2.3 (Uf/FOUO) Encryption: RCﬁ/Composite
+
+(Cl/SI) ROS/Composite is defined as RC6 encryption using Output Feedback Mode (OFB)
+mode, using the Composite Exfil Key (RC6), with a different MI for each data packet. For
+each data packet an independent packet MI is computed from the base MI sent in the
+Implant Header, modified by one or more bytes from the data packet IP header. This
+allows each data packet to be decrypted separately, regardless of previous packet losses.
+The MI modifier is specified as mimOffset and mimLength (in bytes) into the IP header.
+
+(Cl/SI) The MI modiﬁer defaults are (mimOffset=4, mimLength=4), which specify bytes 4-7
+from the IP header:
+
+- IP Identification Field ( 2 bytes )
+- IP Flags, (3 bits)
+- IP Fragment Offset (13 bits).
+
+(Cl/SI) To compute the individual packet MI, the MI modifier bytes from the IP header are
+XOR-ed with the base MI from the Implant Header as follows:
+
+- packetMI[O..15] = implantHeader.MI[0..15] = implantHeader[76..91]
+- packetMI[i] "2 IPheader[i+mimOffset]; {i=0..mimLength-1}
+
+(Cl/SI) The portion of the Packet Layer that is encrypted is passed during the Session
+Announcement in the meta-data block as one of the tags listed below. The SHELLGREY
+
+tags are:
+CLASSIFICATION: TOP SECRET ll COMINT ll X1 DRV FM: NSA/CSSM 123-2
+Dated: 24 Feb 98
+DECL ON: X1
+
+FASHIONCLEFT_Pr0tocol.dOC Page 15 of 26 ngpiﬂgggjgjgggggfgﬁgppg
+

@@ -1,0 +1,101 @@
+Classification: Top Secret ll COMINT ll X1
+
+(Si/SI) The structure of session announcement is comprised of the FOGYNULL
+Headers, both the Infrastructure and Implants headers; followed by SHELLGREY
+Meta-data, format within a FUNNELAPS protocol with no data. All multi-byte fields in
+the Infrastructure and Implant Headers are in network byte order (i.e. big endian).
+
+2.1.2. (Ul/FOUO) FOGYNULL Headers
+
+2.1.2.1. (Ul/FOUO) Infrastructure Header
+
+(SI/SI) The purpose of the following three elements of the infrastructure header (version 2
+and later of FOGYNULL) is to indicate the characteristics of the origination of the packet:
+
+- Implant ID
+- Target ID
+. Deployment ID (allow different encryption keys for same {ImplantID, TargetID})
+
+(SI/SI) The purpose of the next two elements of the infrastructure header
+(FASHIONCLEFT addition to FOGYNULL) is as follows:
+
+Table 2.1.2.1-1: Format of Infrastructure Header Block
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0 31
+
++0 SHA—l HASH (data bytes 0-19)
+Of bytes 20-127
+
++20 Random
++28 Infrastructure Header Version (0x02) Implant ID
++32 Length
++36 Target ID
++40 Timestamp (sec)
++44 Sequence #
++48 Deployment ID
+
+ 
+
++52 Packet IIF Selector (See Table 3.1-1) +54
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
++56 Packet IIF Data (32 bytes)
++86
++86
+Random
++124 Random (special constraints RSA)
+
+ 
+
+(SI/SI) In the FOGYNULL protocol, additional elements follow to complete the 128 bytes of
+the infrastructure header.
+
+- Packet I/F Selector (This field directly supports FASHIONCLEFT exfiltration.)
+. Packet IIF Data (This new field uses the first 32 bytes of a formerly “random" field.)
+
+(TS/[SD The purpose of the new Packet IIF Selector [0x0n] field is to allow selection of a
+choice of algorithm that will collate the data to the sessions. The following three choices
+are provided:
+
+- No Data packets follow [0x00]
+
+CLASSIFICATION: TOP SECRET ll COMINT/1X1 DRV FM: NSAICSSM 123-2
+
+Dated: 24 Feb 98
+DECL ON: X1
+
+Last Saved 4/17/2013 09:08:00 PM
+
+FASHlONCLEFT_ProtocoI.doc Page 7 of 26 Last Pmted 6/15/2009 02:15:00 PM
+

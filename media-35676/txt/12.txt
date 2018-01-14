@@ -1,0 +1,97 @@
+2.1.3.1.
+
+Byte:
+0
+
+4
+8
+
+12
+
+Classification: Top Secret ll COMINT ll X1
+
+(Cl/SI) Content of the Exfil Header
+(Si/SI) The Exfil Header is a 16-byte block that contains the following fields:
+Table 2.1.3.1-1 (S/Sl) Exfil Header
+
+ 
+
+Version (0x0001)
+
+ 
+
+Checksum
+
+ 
+
+Metadata Length
+
+ 
+
+Data Length = 0x00000000
+
+ 
+
+ 
+
+Authentication
+
+ 
+
+ 
+
+. Version: The version of this header.
+
+. Checksum: A two byte ORG-16 checksum of the encoded Metadata Block.
+
+. Metadata Length: A four byte unsigned integer in network byte order that represents the
+number of bytes in the encoded Metadata Block (including any padding).
+
+- Data Length: A four byte unsigned integer in network-byte order that represents the number of
+bytes that comprises the Exfil Data block. The Data Length value used for FASHIONCLEFT
+must be 0 since there is no Exfil Data within the Session Announcement.
+
+. Authentication: A copy of bytes 48-51 of the Implant Header; a match validates the successful
+decryption of the Exfil Header.
+
+2.1.3.2.
+
+(U/IFOUO) Content of the Metadata Block
+
+(TS/[SD The metadata block, encoded according to the SHELLGREY metadata protocol
+described in References [1 and 1.2] , contains the collection-related information and packet
+reconstruction information. The required collection-related items are:
+
+Exfil-ID [must be unique for {ImplantID, TargetID, DeploymentID, InstancelD}]
+
+Exfil-Type [Packet or Session]
+
+Time-of-Intercept
+Filter-ID
+
+(TS/ISI) The reconstruction-related metadata was originally contained in the following
+seven tags that show the original source and routing of the packets that were exfiltrated.
+These tags are now provided only for informational purposes and are not used to
+reconstruct the original packet:
+
+Exfil-Sub-Type (optional field—OxOlindicates the data type is VoIP—type
+identifiers can be extended as necessary)
+
+IP4-Source-Addr
+IP4-Destination-Addr
+IP4-Source-Port
+
+CLASSIFICATION: TOP SECRET ll COMINT ll X1
+
+FASHlONCLEFT_Pr0t0coI.d0c
+
+Page 10 of 26
+
+DRV FM: NSA/CSSM 123-2
+
+Dated: 24 Feb 98
+DECL ON: X1
+
+Last Saved 4/17/2013 09:08:00 PM
+Last Prlhted 6/15/2009 02:15:00 PM
+

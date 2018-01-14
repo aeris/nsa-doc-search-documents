@@ -1,0 +1,87 @@
+Classification: Top Secret ll COMINT ll X1
+
+Table 2.3.2.3-1 (SlSl) RCBlComposite SHELLGREY tags
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name Tag Value Packet Layer
+PACKET_DECRYPT_RC6 86, 16-byte key, No Operation
+(deprecated: never 0': 16-byte MI
+implemented)
+PACKET_RC6_MI 86, 16-byte MI
+(deprecated: never 10
+implemented)
+PACKET_RCB_MI_MODIFIER 86, 2-byte unsigned IP header
+
+16 mimOffset-byte,
+
+1 s mimLength-byte s 16
+
+ 
+
+ 
+
+ 
+
+ 
+
+For all tags below, apply ROS/Composite Decrypt to:
+
+specified layer, starting at offset, for length bytes
+(length = OxFF 2 end of packet)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PACKET_DECRYPT_RC6 86, 2-byte unsigned Packet data
+13 offset-byte,
+PACKET_DECRYPT_RC6_IP4 86, length-byte lP data
+14
+PACKET_ 86, Transport data
+DECRYPT_RCG_IP4_TRANSPORT 15
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.4. (U/IFOUO) Transmission
+
+(UllFOUO) Session Announcements can be transmitted in several ways. These are:
+0 Raw IP packet (TCP/UDP/ICMP), sent to predetermined LP and port.
+- TCP connection
+- Steganographic Tunnel
+
+(UllFOUO) Using a raw IP packet, a single IP packet would be constructed where the SA would be
+contained within the IP transport protocol's payload. The IP and transport protocol (T CPlUDPlICMP)
+would be constructed to route the packet to a predetermined destination IP address, IP protocol, and
+for TCPlUDP the port number. This method provides no reliable transport. Note: Currently, only
+UDP SA packets have been implemented.
+
+CLASSIFICATION: TOP SECRET ll COMINT ll X1 DRV FM: NSA/CSSM 123-2
+Dated: 24 Feb 98
+DECL ON: X1
+Last Saved 4/1 7/2013 09:08:00 PM
+
+FASHlONCLEFT_Pr0tocol.d0c Page 16 of 26 Last and 6/15/2009 02:15:00 PM
+

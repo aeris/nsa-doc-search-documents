@@ -1,0 +1,49 @@
+Classification: TOP SECRET/lCOMINT/le ll COMINT ll X1
+
+ 
+
+Appendix A Glossary I
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(U) Glossary of Terms Used
+Glossary Term Meaning Source I Remarks
+
+Exfiltrate To extract [data] through a target’s defenses.
+A software or hardware subcomponent that is
+surreptitiously emplaced in a target
+
+Implant environment (CPU, router, etc) to pass
+selected information back to NBA, where it is
+processed for analysis.
+
+IP Internet protocol
+Note: All abbreviations / Acronyms are
+expanded where they are first used.
+
+Last Primed 6/15/2009 02:15:00 PM
+
+ 
+

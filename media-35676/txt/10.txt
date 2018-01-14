@@ -1,0 +1,74 @@
+Classification: Top Secret ll COMINT ll X1
+
+- Generic Pattern Matching Selector
+- Fixed IP4 Field Matching Selector
+
+(Cl/SI) The details of these selections are further discussed in Section 3. Because the
+choice values are extensible, it could be possible to add additional choices in the future.
+
+(Cl/SI) Contents of the packet IIF data field depend on the choice previously selected in
+the Packet I/F Selector field.
+
+2.1.2.2. (Cl/SI) Implant Header
+(TS/ISI) The implant header (total of 128 bytes) is composed of five parts:
+- OpCode [0x09] (new value indicating Raw Packet exfil)
+. Instance-ID (implant generated; see SHELLGREY ExfiI-ID below)
+- Implant-version (as defined by FOGYNULL)
+. Encrypt-Mode (new values for FOGYNULL encryption mode)
+Table 2.1.2.2-1 (SISI) Generic Implant Header Block
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+U 31
+0 SHA—l HASH (data bytes 0-19)
+Of bytes 20-127
++20 Random
++28 Implant Header Version (0x02) I Implant Operation
++32 Instance ID
++36 Implant Version Encryption Mode (0x0001)
+see Table 2.1.2.2—2, page 9
++40 Data Length (0X00)
++44 Random
++52 RC6 Session Key
++68 Random
++76 RC6 Message Indicator (MI)
++92 Random
++124 Random (special constraints RSA)
+
+ 
+
+ 
+
+ 
+
+CLASSIFICATION: TOP SECRET [I COMINT H X]. DRV FM: NSAICSSM 123-2
+Dated: 24 Feb 98
+DECL ON: X1
+FASHlONCLEFT_Pr0tocoI.doc Page 8 of 26 1:331:35! gig/[22333 $333 Sm
+

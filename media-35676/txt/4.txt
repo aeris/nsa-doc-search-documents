@@ -1,0 +1,184 @@
+Classification: Top Secret ll COMINT ll X1
+
+(SI/SI/IX1) The CDR Architecture includes the Outer SURPASSPIN, Inner SURPASSPIN
+and SEAGULLFARO subsystems. In addition, a one-way transfer device — ROOTKNOT
+(composed of Pitcher, Catcher, and their one-way link) — supplants the air gap previously
+employed (that required manual transfer by diskette). In order to support this configuration,
+DNT has been working closely with the Remote Operations Center (ROC) to design and
+build FIGBUILD (an external mission network) and OPTICPINCH (an internal mission
+network).
+
+(Si/SI) Figure 1.3-1 below shows the Common Data Receptor Architecture as described in
+the referenced FLAXENPRECEPT EICDs.
+
+(SI/SI) The interfaces supported by the CDR must also support the CDR’s separation of
+classiﬁed and unclassified processing. Classified information, such as egress data and
+metadata must be protected while on the unclassified network side before passing through
+the one-way link. This interface also supports the CDR protection of classified information.
+
+Figure 1.3-1 Common Data Receptor Architecture
+
+Common Data Receptor
+
+    
+ 
+
+F'GBU'LD OPTICPINCH
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+OneWay 3
+Link
+RCIJI'KNDT SLRFASHN
+mailer Inner
+/
+L ....................... _/ -
+Commdstmking
+(via diskette) K7 LAN
+
+ 
+
+ 
+
+Collection .5: Lugs
+
+- Otﬁce {I Target F'ursuil
+
+(Fwensics Lab)
+
+ 
+
+ 
+
+MTEDRAKE
+
+U ltargets
+(EmailJFilesL. .)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mama]
+Processing and
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HOG‘I'EGH
+{Streaming Packets)
+
+1.4 (Ul/FOUO) lnterbce Description
+
+(Si/SI) This interface provides TAO developers a low overheard solution to exfiltrate
+streaming data, typically associated with implants that collect raw packets from the target
+environment, while providing the appropriate metadata and authentication. The basic
+design principle behind this low overhead approach is to redirect a copy or clone of the
+original packet to another host, or listening post (in this case the CDR). In-order to redirect
+a packet, features of the copy of the packet must be altered — particularly the source and
+destination addresses, and possibly the port numbers.
+
+CLASSIFICATION: TOP SECRET [I COMINT ll X1 DRV FM: NSA/CSSM 123-2
+Dated: 24 Feb 98
+DECL ON: X1
+FASHIONCLEFT_Pr0tocol.doc Page 2 of 26 LLaitﬂpiﬂgg gig/[228$ ggfggg 3,1“;
+

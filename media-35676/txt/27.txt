@@ -1,0 +1,14 @@
+Classification: Top Secret ll COMINT ll X1
+
+(Si/SI) This would match either:
+TCP: E.F.G.H/9 -> A.B.C.D/7777
+
+TCP: E.F.G.H/10 -> A.B.C.D/7777
+
+CLASSIFICATION: TOP SECRET ll COMINT ll X1 DRV FM: NSA/CSSM 123-2
+Dated: 24 Feb 98
+DECL ON: X1
+Last Saved 4/1 7/2013 09:00:00 PM
+
+FASHIONCLEFT_Pr0tocol.doc Page 25 of 26 Last Pmted 6/15/2009 02.15.00 PM
+

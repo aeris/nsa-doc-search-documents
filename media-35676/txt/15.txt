@@ -1,0 +1,74 @@
+Classification: Top Secret ll COMINT ll X1
+
+(TS/(SI) The Exfil Header is encrypted/decrypted using the Session Key (RC6) and MI
+from the Implant Header. Success is verified by comparing decrypted Exfil Header bytes 12-15
+with decrypted Implant Header bytes 48-51.
+
+(TS/(SI) A Composite Exfil Key (RC6) is computed by combining the Session Key (RC6)
+with the Shared Key (RC6). First, populate a 32-byte array with the 16-byte Shared Key followed
+by the 16-byte Session Key. Next, perform a SHAl hash of this byte array. The first 16 bytes of
+the resultant SHAl hash is the Composite Exfil Key (RC6).
+
+(TS/(SI) The Metadata Block contains SHELLGREY tags and is encrypted/decrypted
+using the Composite Exfil Key (RC6) and MI+1, where (+1) represents adding one, represented
+as a big-endian 4-byte word, to the last four bytes of the MI from the Implant Header (bytes 88-91
+). The CRC-16 of the decrypted Metadata Block is computed and compared against decrypted
+Exfil header bytes 2-3 to validate successful decryption.
+
+(TS/(SI) The Data Packets are optionally RC6 encrypted or munged as specified by
+SHELLGREY tags as described in section 2.3.2.
+
+2.3. (U/IFOUO) Data Packets
+2.3.1 (U/IFOUO) Data Packet Description
+
+(SI/SI) Data packets are IP packets, which may or may not be a copy of an intercepted IP
+packet. These packets have a valid IP header, to allow the packet to be routed to the LP
+address. Other bytes within this packet may be altered to allow the packet to pass the
+target's egress filters, and/or satisfy a specific packet selection criterion. The SHELLGREY
+tags contained within the Metadata Block specify reconstruction and decryption commands
+that are processed in the order in which they occur, to transform the received Data Packet
+into the desired data format for further processing. The reconstruction result is therefore
+highly dependent on the specific reconstruction tags used and the order in which they
+occur. For example, as shown below, the received Data Packet always contains an IP
+header, but the SHELLGREY tag PACKET_IP4_REMOVE can be used to remove the
+IP4 header. Subsequent SHELLGREY commands could then operate on either the
+remaining “Packet buffer“ layer, or on the Transport layer (if it exists).
+
+Table 2.3.1-1 (U) Packet Layers
+Packet data
+IP header (mandatory) IP data (optional)
+Transport header (optional Transport data (optional)
+
+)
+2.3.2 (U/lFOUO) Data Packet Encryption
+
+(Cl/SI) Packets will be encrypted, munged, or unencrypted. The encryption mode and the
+portion of the packet that is encrypted/munged are indicated in the Metadata Block using
+SHELLGREY tags. There are three possible encryption values for exfil type 2 Packet:
+None, Munge and RC6/Composite. None should be used only when lei processing
+power is available than required to Munge the data. Munge should be used only when lei:
+processing power is available than required to perform full RC6lComposite mode
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DECL ON: X1
+
+encryption.
+CLASSIFICATION: TOP SECRET ll COMINT ll X1 DRV FM: NSA/CSSM 123-2
+Dated: 24 Feb 98
+FASHIONCLEFT_Pr0tocol.dOC Page 13 of 26 LlaitStPiiggg 3,1135%; ggfgggg SL4
+

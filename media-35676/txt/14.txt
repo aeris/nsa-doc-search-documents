@@ -1,0 +1,134 @@
+Classification: Top Secret ll COMINT ll X1
+
+ 
+
+TOP SECRETII'COMINTII20291123
+
+"Low Sid e" ROOTIKNOT "High Side"
+|
+CNE “CF SURPASSPIN ”TCHER CATCHER SURPASSPIN
+_ _TEEN'EE_ _ _ _ ﬂ’TE _ _ _ _ _”"”_ER _ _
+(- W F 1 f— j
+Deployed Keys Deployed Keys Deployed Keys
+
+Implant Key (RSA Pub)
+
+Exfil Kay Modifier (ace)
+
+|
+|
+l Exlil Key Modifier (R06) I
+|
+|
+|
+
+|
+
+|
+
+|
+
+|
+
+l l
+I Combine_ ExriIKeymca) Combine — Ifﬁéﬁﬁﬁﬁii
+|
+
+|
+
+|
+
+|
+
+' I
+
+' I
+
+' I
+
+' I
+
+' I
+
+' I
+
+I I . | I I
+
+Session Key(RCG) * Session Key(RCB) + Session Key(RC6)
+
+I | l |
+SeSSIon ,
+
+|
+
+J
+
+I
+
+I
+
+‘ l SeSSIon
+Generated l ‘
+
+I
+
+I
+
+Generated l
+Keys
+
+l
+
+I
+
+l Sessmn
+
+I Generated
+
+Random Generator Keys l Keys
+l
+I
+I
+
+_______
+
+ 
+
+ 
+
+ 
+
+- Figure 2.2-1: (U) Key Management
+(TS/ISI) Each CNE technique will contain the following deployed keys:
+
+- Infrastructure Header Key (RSA public)
+- Implant Header Key (RSA public)
+. Shared Key (R06); [called Exfil Key Modifier (R06) in diagram above]
+
+As shown above, the Infrastructure and Implant private keys are retained/protected within
+FLAXENPRECEPT (and are never deployed to the Implant!).
+
+(TS/ISI) The first RSA public key (the Infrastructure Key) is a global key that is common to
+many CNE techniques/targets and provides access to FLAXENPRECEPT; it is used to encrypt
+the Infrastructure Header. The Infrastructure private key is used to decrypt the Infrastructure
+Header, and a SHA-l Hash of bytes 20-127 is computed and compared against bytes 0-19 to
+validate successful decryption.
+
+(TS/ISI) The second RSA public key (the Implant Key) is a unique key for the CNE
+technique to use on a specific target and will be used to support command and exfiltration
+functions; it is used to encrypt the Implant Header. The Implant private key is used to decrypt the
+Implant Header, and a SHA-l Hash of bytes 20-127 is computed and compared against bytes 0-
+19 to validate successful decryption. The Implant Header contains CNE technique-specific
+information (i.e., Implant Operation), a Session Key (16-bytes) and Message Indicator (MI); for
+each session, a new Session Key (RC6) and MI are generated randomly by the implant.
+
+CLASSIFICATION: TOP SECRET ll COMINT ll X1
+
+FASHIONCLEFT_Pr0tocol.d0c Page 12 of 26
+
+DRV FM: NSA/CSSM 123-2
+Dated: 24 Feb 98
+DECL ON: X1
+Last Saved 4/1 7/2013 09:08:00 PM
+Last Printed 6/15/2009 02:15:00 PM
+

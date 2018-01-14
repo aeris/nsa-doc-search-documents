@@ -1,0 +1,104 @@
+Classification: Top Secret ll COMINT ll X1
+
+2.3.2.1 (UllFOUO) Encryption: NONE
+
+(CllSl) Encryption type "NONE“ is implied if none of the encryption related SHELLGREY
+tags described below are present within the Metadata Block.
+
+2.3.2.2 (UllFOUO) Encryption: Munge
+
+(Cl/SI) Munge is defined as a1 or 4 byte pattern XOR-ed with the data. When a 1 byte
+pattern is used the data is also XOR-ed with the positional index modulo 255. The munge
+pattern and the portion of the Packet Layer that is munged are passed during the Session
+Announcement in the meta-data block as one of the tags listed below. This pattern must be
+consistent throughout the session, and should not be changed in mid session. The
+SHELLGREY tags are:
+
+Table 2.3.2.2-1 (SlSl) Munge SHELLGREY tags
+
+ 
+
+ 
+
+ 
+
+Name Tag Values Packet Layer
+EXFIL_MUNGE_BYTE 3C 1-byte unsigned No operation
+(deprecated: do not use) munge-byte
+
+EXFIL_MUNGE_WORD 80, 2-byte unsigned
+
+14 munge-bytes[2]
+
+ 
+
+ 
+
+ 
+
+(deprecated: do not use)
+
+ 
+
+For all tags below, apply DEMUNGE to:
+specified layer, starting at offset, for length bytes
+(length = OxFF 2 end of packet)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PACKET 86, 3-byte unsigned Packet data
+_DEMUNGE8 08 munge-byte,
+
+offset-byte,
+PACKET 86, length-byte IP data
+_DEMUNGE8_IP4 09 .
+
+out[|+offset] =
+PACKET 86, |n[|+oflset] xor Transport data
+_DEMUNGE8_IP4_TRANSPORT 11 munge-byte xor
+
+(I mod 255)
+PACKET 86, 6-byte unsigned Packet data
+_DEMUNGE32 0A munge-bytes[4],
+PACKET 86, offset-byte, IP data
+_DEMUNGE32_IP4 0B length-byte
+PACKET 86, out[i+offset] : Transport data
+_DEMUNGE32_IP4_TRANSPORT 12 |n[|+offset] xor
+
+munge-bytes[| mod 4]
+
+ 
+
+ 
+
+ 
+
+CLASSIFICATION: TOP SECRET l'l' COMINT H X]. DRV FM: NSAlCSSM 123-2
+Dated: 24 Feb 98
+DECL ON: X1
+FASHlONCLEFT_Pr0t0coI.doc Page 14 of 26 LLaiftPiﬂgg 3,1135%; 3&3? £3
+
