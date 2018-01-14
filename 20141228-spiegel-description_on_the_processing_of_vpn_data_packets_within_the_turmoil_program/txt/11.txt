@@ -1,0 +1,33 @@
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+- IPv4 packet
+
+- IP Header Length = 5
+
+- lP Next Protocol = UDP (0x11)
+
+- 4 bytes of NULLS between the UDP and ISAKMP layers
+
+- lSAKMP Version = 0x10
+
+0 ISAKMP Next Payload. Exchange Type. and Flags fields all have ranges of valid values
+ISAKMP Length (header + payload) < 64k
+
+We have a similar keyword/mask pair for ISAKMP Version 9.9.
+
+3.2.2 (5) SESSIONIZING
+
+The UDP/nulls/ISAKMP packets would be sessionized by the following set of parameters:
+
+- IP Next Protocol = UDP (0x11)
+- lP Source Address
+
+- lP Destination Address
+
+- UDP Source Port
+
+‘ UDP Destination Port
+
+PAGE 11 OF 18
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+

@@ -1,0 +1,44 @@
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZLl'l'20291123
+
+keyword: 45 FF FF FF FF FF FF FF FF 06 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+FF FF FF FF FF FF FF FF FF FF FF oo oo oo 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF oo
+10 oo 00 FF FF FF FF oo oo
+
+mask: FF oo oo oo oo oo oo oo 00 FF oo oo oo oo oo oo oo oo oo oo oo oo oo oo oo oo oo oo oo
+oo oo oo oo oo oo oo oo oo oo 00 FF FF FF FF oo oo oo oo oo oo oo oo oo oo oo oo oo oo oo 00 so
+FF oe F8 00 oo oo 00 FF FF
+
+This indicates that the packets that satisfy the following parameters will be selected by this keyword for
+processing in the llKE_AEG:
+
+- lva4 packet
+
+- llP Header Length = 5
+
+- llP Next Protocol 2 TOP (0x06)
+
+- 4 bytes of NULLS between the TCP and ISAKMP layers
+
+llSAKMP Version = 0x10
+
+llSAKMP Next Payload, Exchange Type, and Flags fields all have ranges of valid values
+- lISAKMP Length (header + payload) < 64k
+
+We have a similar kewvordlmask pair for lSAKMP Version 9.9.
+
+3.41.2 (£5) ESEEESESICJPUIZZIBICE
+
+The TCPInullsIlSAKMP packets would be sessionized by the following set of parameters:
+
+- llP Next Protocol 2 TOP (0x06)
+- llP Source Address
+
+- llP Destination Address
+
+- TCP Source Port
+
+- TCP Destination Port
+
+PAGE 15 OF 18
+TOP SECRETHCOMINTNREL TO USA, AUS, CAN, GBR, NZLl'l'20291123
+

@@ -1,0 +1,138 @@
+TOP SECRETHCOMINTHREL T0 USA, AUS, CAN, GBR, NZLJ'J'20291123
+
+3.4.3 (5) THE STACK
+
+1 1 3
+0 5 6 1
+|—+++++++++++++—+++++++++—+++++++++
+! ! Type | Total length (bytes)
+|Version| Header| of service |
+| | length| (TOS) |
+|-+- +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+Identification |3 bit| Fragment offset
+
+|
+|
+|
+|
+|
+|
+| flagl |
+|
+|
+|
+I
+|
+
+|EIDM|
+
+| F F|
+-+- +- +- +- +- +- +-+- +- +- +- +- +-+- +- +- +- +-+- +- +- +-+- +-+- +- +- +- +- +- +-
+
+Time | Next | \Header checksum
+
+to live (TTL)| protocol |
++++++++++++++-+++++—++++-+++++++++|
+source IP address |
++++++++++++++++++++++++++++++++I
+destination IP address |
++++++++++++++++++++++++++++++++I
+options (if any) |
++++++++++++++—+++++—++++—+++++++++|
+Source Port | \Destination Part |
++++++++++++++++++++++++++++++++I
+
+Sequence Number
++++++++++++++-+++++++++-++-+++++++|
+Acknowledgement \Number |
++++++++++++++++++++++++++++++++|
+
+Data |Reserved |u AP RS F| window
+
+|
+|
+|
+|
+l-
+|
+|
+l-
+|
+|-
+|
+l-
+|
+l-
+|
+|-
+|
+l-
+|
+|-
+| |
+|0ffset | |R|C|S|S|Y|I| |
+i |
+|
+|-
+|
+|-
+|
+|-
+|
+|
+|-
+|
+|
+|-
+|
+|-
+|
+|-
+|
+|-+
+
+<______ —_— 1——___ >,
+
+O'---— >I
+
+q
+1
+
+| IGI K| H ltl N| N|
++ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-|
+checksum | Urgent \Pointer |
++++++++++++++++++++++++++++++++|
+options (if any) I Padding |
+-+- +- +- +- +- +- +-+- +- +- +- +- +-+- +- +-+- +-+- +- +- +-+- +-+- +-+- +- +- +- -+-|
+NULLS |
++++++++-++++++-+++-++-++++-++-++-+++++-|
+Initiator |
+
+I <-—-————-—-—
+
+Cookie |
++++++++++++++-+++++++++-+++++++++-|
+Responder |
+Cookie |
++++++++++++++-+++++—++++-+++++++++—|
+Next Payload | MjVer | MnVer | Exchange Type| Flags |
++++++++++++++++++++++++++++++++|
+
+MessageID |
++++++++-++++++-+++-++-++++-++-++-+++++-|
+
+Length |
+++++++++++++-+++++++++-+++++++++|
+
+H
+
+m
+
+I?
+<______—-§.____u_ >
+
+1
+
+PAGE 16 0F 18
+TOP SECRETHCOMINTNREL T0 USA, AUS, CAN, GBR, NZLJ'J'20291123
+
