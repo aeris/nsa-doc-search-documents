@@ -1,0 +1,125 @@
+"FOP-SEGREWSWQF—GMJ—
+
+ 
+
+ 
+
+DATE/PREPARER:
+
+Topic Page Classification Screen Number
+(U) Knowledge "I‘GP'SECRE‘HTGGWNTﬁNeFeRN 10 of 11
+Check
+
+ 
+
+FRAME ID: 2100
+
+a)
+
+ 
+
+NEXT FRAME ID: 2110
+
+b)
+
+0)
+
+ 
+
+BACK FRAME ID: 2090
+
+0')
+
+ 
+
+ALT TAG:
+
+a)
+
+ 
+
+GRAPHIC/AV:
+
+b)
+C)
+d)
+a)
+b)
+c)
+
+d)
+6)
+
+ 
+
+ 
+
+(U) Knowledge Check
+
+1.-(=FS#Sl#N-F) Which of the following describe the BR Bulk Metadata Program:
+
+(TSﬂSHNF) The BR Order pertains to telephony metadata which is kept by U.S.-based
+telecommunication companies.
+
+(TSﬁ‘Slvﬁ‘N-F) BR refers to Business Records which is information U.S.-based telecommunications
+companies already have in their possession and use as part of their normal business.
+(TS#SHN-F)—NSA uses Business Record information such as terminating telephone numbers,
+IMSI, IMEI and trunk identifiers for—contact chaining analysis.
+
+(U) All of the above. —-
+
+2. (TSﬁ‘Sl-ALN-F) Which ofthe following does not describe the PR/TT Bulk Metadata Program?
+
+ 
+
+awe/WHIR—
+(TS/lSl/INF) on y collects limited metadata from the communications of approvec
+
+targets.
+
+(TSﬂSWNE) NSA collects specific categories of metadata to include the “to,“ “from," “cc,“ and
+“bcc” lines of an email.
+
+(U) None ofthe above.
+
+3. (W) Which ofthe following statements is true?
+
+(TSﬁSIﬁNF) Bulk BR and PR/TT metadata may not be kept for longerthan 48 months.
+(TSﬁ‘Slvﬁ‘N-F) Non-U.S. person metadata may be kept at NSA indefinitely.
+
+(—'FS+/Sl7’+N-F)- The bulk metadata is tagged to provide reasonable assurance that the data is
+only accessed by authorized personnel.
+
+(U) All of the above.
+
+(U) None ofthe above.
+
+ 
+
+(U) (OGC Attorney): Let's check what you remember from this topic!
+
+ 
+
+ 
+
+ANSWERS:
+
+Question 1. (TS#SI#N-F) Correct! All of the above describe the BR Bulk Metadata Program.
+(TS//S|//NF) Incorrect. The correct answer is d). All ofthe above describe the BR Bulk Metadata Program.
+
+Question 2. (TS//S|//l\ :
+
+of approved targets. |
+
+   
+ 
+
+.. n .. whom the communications
+
+ 
+
+ 
+
+TOP SECRET//SI//NOFORN
+Page 10 of 12
+

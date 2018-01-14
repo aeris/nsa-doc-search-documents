@@ -1,0 +1,59 @@
+ 
+
+ 
+
+DATE/PREPARER: TAP
+
+Topic Page Classification Screen Number
+(U) Summary W-SEGREWGGMWNGFGRN— 11 of 11
+
+ 
+
+ 
+
+FRAME ID: 2110
+
+(U) Now that we have completed this part of your trip, you should be able to:
+
+o '(‘FSﬁ‘S-Iﬁ‘N-H Distinguish differences between BR and PR/TT Bulk Metadata
+
+ 
+
+NEXT FRAME ID: N/A
+
+Programs
+0 (ISILSWN—H Recognize restrictions placed on metadata storage and
+retention by the BR and PR/TT Bulk Metadata Programs
+
+ 
+
+BACK FRAME ID: 2100
+
+ 
+
+ALT TAG:
+
+ 
+
+GRAPHIC/AV:
+
+ 
+
+ 
+
+ 
+
+(U) (OGC Attorney): Now that we have completed this part of our trip, you should be able to:
+o (IS#SI#N-F) Distinguish differences between BR and PR/TT Bulk Metadata Programs
+0 (IS#SI#NF) Recognize restrictions placed on metadata storage and retention by the BR and PR/TT Bulk Metadata Programs
+
+(ISAISWNF) During the next portion of our trip, we will meet up with Marvin who will talk to us about the Reasonable Articulable Suspicion (RAS) standard
+and the requirements that must be met in orderto query the bulk metadata.
+
+ 
+
+ 
+
+W
+Page 12 of 12
+

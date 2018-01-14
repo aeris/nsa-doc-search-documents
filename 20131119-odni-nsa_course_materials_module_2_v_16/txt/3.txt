@@ -1,0 +1,69 @@
+W
+
+ 
+
+ 
+
+ 
+
+ 
+
+DATE/PREPARER: TAP Topic Page Classification Screen Number
+(TSﬁLSHN-H BR Bulk ‘TeP— 3 of 11
+Metadata Program —SEGRE=I%‘GGM+N=I%‘N6F6RN
+
+ 
+
+ 
+
+FRAME ID: 2030
+
+ 
+
+ 
+
+NEXT FRAME ID: 2040
+-(-'FS+fSI+fN-F-)—These Business Records
+Include Examples Such As:
+
+ 
+
+BACK FRAME ID: 2020 o Originating and terminating telephone
+
+ 
+
+ 
+
+ 
+
+numbers
+ALT TAG: ° 'MS'
+. lMEl
+GRAPHIC/AV: . Trunk identifiers
+
+0 Telephone calling card numbers
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(TSALSWN-F) (OGC Attorney): Let's take a look at the BR Bulk Metadata Program. As we mentioned in Module 1, the BR Primary Order pertains specifically
+to telephony metadata which is kept by U.S.-based telecommunications companies as part of their normal business operations. They retain this
+information, in part, so they can send their subscribers a bill every month.
+
+(TS#SI#NF) The business records include, for example, originating and terminating telephone numbers, International Mobile Subscriber Identity (IMSI),
+International Mobile Station Equipment Identity (IMEI), trunk identifiers, and telephone calling card numbers.
+
+ 
+
+49m
+Page 3 of 12
+
+ 
+
