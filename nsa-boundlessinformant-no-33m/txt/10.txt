@@ -1,0 +1,87 @@
+UNCLASSIFIED/lFOR OFFICIAL USE ONLY
+
+BOUNDLESSINFORMANT — Frequently Asked Questions 09-06-2912
+
+ 
+
+ 
+
+1U/FOUO) Questions
+1) What is BOUNDLESSINFORMANT? What is its purpose?
+
+2) Who are the intended users of the tool?
+
+3) What are the different views?
+
+4) Where do you get your data?
+
+5) Do you have all the data? What data is missing?
+
+6) Why are you showing metadata record counts versus content?
+
+7) Do you distinguish between sustained collect and survey collect?
+8) What is the technical architecture for the tool?
+
+9) What are some upcoming features/enhancements?
+
+10) How are new features or views requested and prioritized?
+
+11) Why are record counts different from other tools like ASDF and What’s On Cover?
+12) Why is the tool NOFORN? Is there a releasable version?
+
+13) How do you compile your record counts for each country?
+
+ 
+
+Note: This document is a work-in-progress and will be updated frequently as additional questions and
+guidance are provided.
+
+1) (U) What is BOUNDLESSINFORMANT? What is its purpose?
+
+2)
+
+3)
+
+(U//FOUO) BOUNDLESSINFORMANT is a GAO prototype tool for a self-documenting SIGINT system. The purpose of the
+tool is to fundamentally shift the manner in which GAO describes its collection posture. BOUNDLESSINF ORMAN T
+provides the ability to dynamically describe GAO's collection capabilities (through metadata record counts) with no human
+intervention and graphically display the information in a map view, bar chart, or simple table. Prior to
+BOUNDLESSINFORMANT, the method for understanding the collection capabilities of GAO's assets involved ad hoc
+surveying of repositories, sites, developers, and/or programs and ofﬁces. By extracting information from every DNI and DNR
+metadata record, the tool is able to create a near real-time snapshot of GAO's collection capability at any given moment. The
+tool allows users to select a country on a map and View the metadata volume and select details about the collection against that
+country. The tool also allows users to view high level metrics by organization and then drill down to a more actionable level -
+down to the program and cover term.
+
+Sample Use Cases
+(U//FOUO) How many records are collected for an organizational unit (e.g. FORNSAT)?
+
+(U//FOUO) How many records (and what type) are collected against a particular country?
+(U//FOUO) Are there any visible trends for the collection?
+(U//FOUO) What assets collect against a speciﬁc country? What type of collection?
+
+(U//FOUO) What is the ﬁeld of View for a speciﬁc site? What countriees does it collect against? What type of
+collection?
+
+(U) Who are the intended users of the tool?
+
+- (U//FOUO) Mission and collection managers seeking to understand output characteristics of a site based on what is being
+ingested into downstream repositories.
+
+o (U//FOUO) Strategic Managers seeking to understand top level metrics at the organization/ofﬁce level or seeking to
+answer data calls on NSA collection capability.
+
+o (U//FOUO) Analysts looking for additional sites to task for coverage of a particular technology within a speciﬁc country.
+
+What are the different views?
+
+(U//FOUO) Map View — The Map View is designed to allow users to View overall DNI, DNR, or aggregated collection
+posture of the agency or a site. Clicking on a country will show the collection posture (record counts, type of collection, and
+contributing SIGADs or sites) against that particular country in addition to providing a graphical display of record count
+
+BOUNDLESSINFORMANT — FAQ Page 1 of 3
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
+ 
+

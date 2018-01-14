@@ -1,0 +1,30 @@
+  
+
+TOP SECRET/ISIIINOFORN
+
+   
+
+‘V it ROAD MAP
+
+(U//FOUO) Add technology type (e.g. JUGGERNAUT, LOPER) to provide additional
+granularity in the numbers
+
+ 
+
+(U//FOUO) Integrate Site Similarity capability (i.e. Gephi Charts)
+(U//FOUO) Anomaly detection and alerts
+(U//FOUO) Other “INT” data (e.g. ELINT, FISINT)
+
+(U//FOUO) Add survey data and display delta between collected metadata
+and survey data
+
+(U//FOUO) Add in selected (vs. unselected) data indicators
+
+TOP SECRET/ISIIINOFORN
+
+O
+
+ 
+
+ 
+
