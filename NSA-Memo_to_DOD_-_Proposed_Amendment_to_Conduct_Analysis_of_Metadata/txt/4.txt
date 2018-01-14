@@ -1,0 +1,47 @@
+ 
+
+SECRETl/COMINT//ORCON,NOFORN//X1
+
+SUCh a request may be forthcoming. As part of its oversight responsibilities, the National
+Security Division will be briefed by DOD concerning what these other DOD entities are doing,
+or are seeking to do, in this area before approving any such request. (S//SI)
+
+DISCUSSION: (U)
+The Fourth Amendment (U)
+The Fourth Amendment provides that:
+
+The right of the people to be secure in their persons, houses, papers, and effects,
+against unreasonable searches and seizures, shall not be violated, and no Warrants
+shall issue, but upon probable cause, supported by Oath or affirmation, and
+particularly describing the place to be searched, and the persons or things to be
+seized.
+
+U .S. Const. amend. IV. This provision protects against the unreasonable search and seizure of
+the contents of a communication in which a person has a reasonable expectation of privacy. See
+Katz v. US, 389 US. 347 (1967). We conclude that a person has no such expectation, however,
+in dialing, routing, addressing, or signaling information that does not concern the substance,
+purport, or meaning of communications.4 We reach this conclusion with respect to “metadata”
+
+ 
+
+4 As an initial matter, we note that the analysis of information legally within the
+possession of the Government is likely neither a “search” nor a “seizure” Within the meaning of
+the Fourth Amendment. See, eg, Jabara v. Webster, 691 F.2d 272, 277—79 (6th Cir 1982)
+(holding that the disclosure of information by an agency that lawfully possessed it to another
+agency does not implicate the Fourth Amendment); Memorandum for the Attorney General from
+Theodore B. Olson, Assistant Attorney General, Ofﬁce of Legal Counsel, Re: Constitutionality of
+Certain National Security Agency Electronic Surveillance Activities Not Covered Under the
+Foreign Intelligence Suweillance Act of 1978, at 59 (May 24 1984) (“Olson Memorandum”)
+(“Traditional Fourth Amendment analysis holds that once evidence is constitutionally seized, its
+dissemination or subsequent use raises no additional Fourth Amendment question”). As noted,
+we assume for the purpose of this memorandum that the NSA has lawﬁilly acquired the '
+information it wishes to analyze. Nevertheless, the Olson Memorandum went on to consider the
+limits on the subsequent use of information when assessing the constitutionality of NSA’S
+surveillance activities under the Fourth Amendment. See id. In an abundance of caution, then,
+we analyze the constitutional issue on the assumption that the Fourth Amendment may apply
+even though the Government has already obtained the information lawfully. (S//Sl)
+
+SECRET//COMlNT//ORCON,NOFORN//Xl
+
+-4-
+

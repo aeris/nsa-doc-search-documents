@@ -1,0 +1,50 @@
+ 
+
+SECRET/ICOMINT/IORCON,NOFORN/IX1
+
+ThI‘CC OfIhC four deﬁnitions of electronic surveillance are satisﬁed only when the
+communication is acquired “under circumstances in which a person has a reasonable expectation
+of privacy and a warrant would be required for law enforcement purposes.” 50 U.S.C.
+§ 1801(i)(1), (3), (4). This statutory expectation—of—privacy requirement adopts a term of art
+from Fourth Amendment case law. See, e.g., Kata, 389 U.S. at 361 (Harlan, J., concurring).
+“[W1here Congress borrows terms of art . . . it presumably knows and adopts . . . the meaning
+[their] use will convey to thejudicial mind unless otherwise instructed.” Morissette v. United
+States, 342 U.S. 246, 263 (1952). The legislative history conﬁrms the applicability of this
+presumption in this instance. It repeatedly adverts to constitutional standards when discussing
+this provision. See, e.g., S. Rep. 95—701, at 37, 1978 U.S.C.C.A.N. at 4006 (noting that the
+provision “require[s] that the acquisition of information be under circumstances in which a
+pers0n has a constitutionally protected right of privacy”); HR. Rep. No. 954283, at 53 (same);
+S. Rep. No. 95—604, at 35, 1978 U.S.C.C.A.N. at 3937 (same). For the reasons stated above,
+there is no reasonable expectatiOn of privacy in the communications metadata at issue here;
+therefore, NSA’s proposed activity would not come within the deﬁnitions of electronic
+surveillance contained in subsections 1801(f)(1), (3) or (4). (S)
+
+The fourth deﬁnition of electronic surveillance involves “the acquisition by an electronic,
+mechanical, or other surveillance device of the contents of any wire communication . . . 50
+U.S.C. § l802(’i)(2). “Wire communication” is, in turn, deﬁned as “any communication While it
+is being carried by a wire, cable, or other like connection furnished or operated by any person
+engaged as a common carrier . . . .” Id. § 1801(1). The data that the NSA wishes to analyze
+_ already resides in its databases. The proposed analysis thus does not involve the acquisition of a
+communication “while it is being carried” by a connection ﬁlmished or operated by a common
+carrier. (S/lSl)
+
+Pen Register and Trap and Trace Provisions (U)
+
+The pen register and trap and trace surveillance provisions of FISA, 50 U.S.C. §§ 1841-
+1846, and of the criminal law, 18 U.S.C. §§ 3121~27, do not apply to the communications
+metadata analysis that NSA wishes to conduct. (S//SI)
+
+First, for the purpose of these provisions, “pen register” is deﬁned as “a device or process
+which records or decodes dialing, routing, addressing or signaling information.” 18 U.S.C.
+§ 3127(3); 50 U.S.C. § 1841(2). When NSA will conduct the analysis it proposes, however, the
+dialing and other information will have been already recorded and decoded. Second, a “trap and
+trace device” is deﬁned as “a device or process which captures the incoming electronic or other
+impulses which identify the originating number or other dialing, routing, addressing and
+signaling information.” 18 U.S.C. § 3127(4); 50 U.S.C. §1841(2). Again, those impulses will
+already have been captured at the point that NSA conducts chaining. Thus, NSA’s
+communications metadata analysis falls outside the coverage of these provisions. (S//SI)
+
+SECRET//COMINT//ORCON,NOFORN//X1
+
+-7-
+

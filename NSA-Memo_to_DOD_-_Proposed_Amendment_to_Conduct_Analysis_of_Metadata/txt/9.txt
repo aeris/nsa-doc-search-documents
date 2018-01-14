@@ -1,0 +1,49 @@
+ 
+
+SECRET/ICOMINT/fORCON,NOFORN/IXI
+
+Accordingly, llIC Supplemental Procedures that would govern NSA’S analysis of- communications
+metadata expressly state that the DOD Procedures and the Classiﬁed Annex do not apply to the
+analysis of communications metadata. Speciﬁcally, the Supplemental Procedures would clarify
+that “contact chaining and other metadata analysis do not qualify as the ‘interception’ or
+‘selection’ of communications, nor do they qualify as ‘us[ing] a selection term,’ including using a
+selection term ‘intended to intercept a communication on the basis of ... . [some] aspect of the
+content of the communication.” Once approved, the Supplemental Procedures will clarify that
+the communications metadata analysis the NSA wishes to conduct is not restricted by the DOD .
+procedures and their Classiﬁed Annex. (Sf/SI)
+
+The Supplemental Procedures deﬁne the terms “communications metadata,” “contact
+chaining,” and “metadata analysis.” The Supplemental Procedures also state that NSA will
+conduct contact chaining and other inetadata analysis only for valid foreign intelligence
+purposes; disseminate the results of its analysis in accordance with current procedures governing
+dissemination of information concerning U.S. persons as set forth in Section 4.A.4 of the
+Classiﬁed Annex; and investigate any apparent misuse or improper dissemination of metadata
+and report the same to the appropriate oversight organization(s). (Sf/SI)
+
+In addition, the NSA letter accompanying the Supplemental Procedures proposes a
+regulatory and oversight regime for the handling of communications metadata of US. persons.
+NSA states that access to communications metadata will be restricted to only those personnel
+with a need for this data in the performance of their ofﬁcial duties. Before gaining access to
+communications metadata, NSA or other personnel working under the authority of the Director
+of NSA will receive mandatory training approved by the General Counsel ofNSA on the proper
+use of such databases and chaining tools. When logging into the electronic data system, users
+will view a banner that re—emphasizes key points regarding use of the data, chaining tools, and
+proper dissemination of results. NSA will also create an audit trail of every query made in each
+database containing U.S. communications metadata, and a network of auditors will Spot—check
+activities in the database to ensure compliance with all procedures. In addition, the NSA
+Oversight and Compliance Ofﬁce will conduct periodic super audits to verify that activities
+remain properly controlled. Finally, NSA will report any misuse of the information to the NSA’S
+Inspector General and Ofﬁce of General Counsel for inclusion in existing or future reporting
+mechanisms related to NSA’s’signals intelligence activities. (S//SI//OC,NF)
+
+NSA also states it will report any changes to this oversight regime to the Assistant
+Attorney General for the National Security Division, and, by October 15 of each year, will submit
+a report to the Attorney General regarding the kinds of information the NSA is collecting and
+processing as communications metadata, NSA’s implementation of its compliance procedures,
+and any signiﬁcant new legal or oversight issues that have arisen in connection with NSA’s
+activities described in this memorandum. (C)
+
+SECRETf/COMINT/fORCON,NOFORN//Xl
+
+-9-
+

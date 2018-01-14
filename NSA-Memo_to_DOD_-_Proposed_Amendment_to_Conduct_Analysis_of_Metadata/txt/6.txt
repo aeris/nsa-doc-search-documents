@@ -1,0 +1,52 @@
+ 
+
+SECRET//COMINT//ORCON,NOFO RN/IXI
+
+0065 not ICVCﬂl illC SllelZlnllVC content 0ft} con’ilnunicatiOIi.7 The electronic communications
+metadata the NSA proposes to analyzevdialing, routing, addressing or signaling information—is
+identical. in all material respects to the information deemed not to implicate the F ouith
+Amendment in these lines of cases. (SI/SI)
+
+Thus, when interpreting the Fourth Amendment, the courts have drawn a consistent
+distinction between the substantive content of the communications (found to be protected in
+Katz) and the non-content information (found to be unprotected in Smith, Miller and a number of
+lower court cases). The communications metadata implicated by the proposed Supplemental
+Procedures is limited to dialing, routing, addressing, or signaling information and is deﬁned
+speciﬁcally to exclude any information that concerns the substance, purport or meaning of the
+communication Thus it falls clearly within the second, unprotected categmy of information.
+
+We conclude, therefore, that there is no reasonable expectation of privacy in this metadata and
+that the communications nietadata analysis proposed by NSA does not implicate the Fourth
+Amendment. (S//Sl)
+
+F ISA’S Electronic Surveillance Provisions (U)
+To fall within FISA’s coverage of “electronic surveillance,” an action must satisfy one of
+
+the four deﬁnitions of that term. None of these deﬁnitions cover the communications metadata
+analysis at issue here.8 (S)
+
+ 
+
+7 See leygeson v. US. Bancorp, WL 2066746 (D. Or. 2004) (noting the distinction
+between the website addresses at issue there, in which an employee had no reasonable
+expectation of privacy, and the contents of websites visited or e~mails sent). See also US. v.
+Hambrick, 225 F.3d 656 (4th Cir. 2000) (unpublished opinion) (holding that, although in certain
+circumstances a person may have a privacy interest in “content information"; such as the
+substance of an e-mail, there is no privacy interest in information provided to the ISP for
+purposes of establishing the account, which, according to the court, is non—content information);
+US. v. OlzrzeSOIge, 60 MJ. 946 (N .M. Ct. Crim. App. 2005) (holding that there is no reasonable ,
+expectation of privacy regarding information provided to an ISP). (S//SI)
+
+8 As noted above, some of the metadata the NSA would analyze has been acquired
+pursuant to F ISA and thus is subject to the minimization procedures applicable to that collection.
+The standard NSA PISA minimization procedures contain no restrictions that would prohibit the
+metadata analysis described herein. The NSA will continue to comply with these procedures,
+including with any restrictions on the dissemination of information. In addition, to the extent
+that any orders authorizing, under PISA, the collection of metadata impose minimization
+procedures that would restrict the metadata analysis in the manner proposed here by NSA, the
+NSA must continue to abide by the conditions in those orders. (S//Sl)
+
+SECRET//COMINT//ORCON,NOFORN/IXl
+
+.. 6‘—
+

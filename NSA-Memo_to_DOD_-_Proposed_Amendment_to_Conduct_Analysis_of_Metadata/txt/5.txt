@@ -1,0 +1,48 @@
+ 
+
+‘ . ‘SECRET/ICOMINT/IORCON,NOFORN/IXI ‘
+
+associated With both telephone calls and electronic communications.5 (S//Sl)
+
+The Supreme Court has held that there is no reasonable expectation of privacy in
+telephone numbers dialed because a caller must convey the numbers to the telephone company to
+complete the call. See Smith v. Maryland, 442 US. 735, 743—44 (1979). 111 Smith, the Court
+concluded that the installation ofa pen register was not a “search” within the meaning of the
+Fourth Amendment, and thus that no warrant was required to collect such information. Id. at
+745-46. This conclusion followed from the Court’s previous holding in US. v. Miller, 425 US.
+435 (1976), that an individual has no Fourth Amendment privacy interest in information released
+to a third party andl ater coriveyed by that third party to a governmental entity Id. at 440
+Accordingly, it is well settled that there is no reasonable expectation ofprivacy in the telephony
+metadata the NSA proposes to analyze.6 (SI/SI)
+
+Likewise, there is no reasonable expectation of privacy in electronic communications
+metadata. For Fourth Amendment purposes, courts have considered e-mails .to be analogous to
+telephone calls and to letters sent through the postal system. See US. v. Charbonneau, 979 F.
+Supp 1177, 1184 (SD. Ohio 1997); US. v. Maxwell, 45 M.J. 406,417 (C.A.A.F. 1996).
+Following the same approach as Smith, courts have consistently held that the Fourth Amendment
+is not implicated when the Government gathers information that appears on mail covers,
+including the name and address of the addressee and of the sender, the postmark, and the class of
+mail. See US. v. ChOate, 576 F.2d 165, 174 (9th Cir. 1978); US. v. DePoZz‘, 628 F ;2d 779 (2nd
+Cir. 1980); US. v. Huie, 593 F.2d 14 (5th Cir. 1979)(per curiam). See also Vreeken v. Davis,
+718 F.2d 343, 34748 (10th Cir. 1983) (concluding that a mail cover, whichrecords information
+about the sender and recipient ofa letter, is “indistinguishable in any important reSpect from the
+pen register at issue in Smith”). And courts have consistently found that individuals do not have
+a reasonable expectation of privacy in information pertaining to the use of electronic media that
+
+ 
+
+5 It is important to note that this memorandum addresses only those types of metadata
+speciﬁcally identiﬁed in the Supplemental Procedures. As described above, NSA is required to
+report regularly to the Department on new types of information that it is treating as “metadata ”
+IfNSA does so, we will evaluate whether such new information also falls outside the Fourth
+Amendment. (S//SI) '
+
+6 Smith continues to be cited by the Supreme Court and lower courts for the proposition
+that acquisition of telephone numbers does not implicate the Fourth Amendment. See, e.g., Kyllo
+v. United States, 533 US. 27, 33 (2001); US. Telecom Commission v. FCC, 227 F.3d 450, 454
+(DC. Cir. 2000). (U)
+
+SECRETl/COhﬂNT/IORCON,NOFORNHXI
+
+-5-
+
