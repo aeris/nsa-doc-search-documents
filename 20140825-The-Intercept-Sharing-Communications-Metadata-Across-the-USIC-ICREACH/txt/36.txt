@@ -1,0 +1,28 @@
+ 
+
+FY08 mallow
+
+Deployment 1 Life Cycle Support
+- Estimated Life Cycle (per year: 1- 5) = $2.5 - 4.5M ’
+
+ 
+
+ 
+
+ 
+
+ 
+
+Post Deployment 1 Activitv _
+
+- Develop interface with to data sources and brokers
+- Second Party Brokers (as made available)
+- PROTON Data Broker
+- Other IC Agency Data Brokers
+
+- Enhancemenlslo improve analytic tool integration
+
+ 
+
+SECRET/[NOFORNIIZOSZOIOB
+

@@ -1,0 +1,36 @@
+NSA’ 8 Proposal
+
+2. (S) Handles the ever increasing volumes of communications
+metadata (est. 2-5 billion records/day)
+
+   
+
+ 
+
+ 
+
+3. (S) Incorporates all communication types - telephony and all forms
+of digital, e.g. e-mail
+
+4. (U) Allows for the expansion of communications metadata fields
+and sources
+
+U) Accommodates multimedia (voice/data/video) convergence
+
+U) Allows for greater access by US. DoD military elements
+
+S//NF) Does not necessarily replace CrissCross/Proton
+
+(DCDNCDU‘I
+
+- (
+- (
+. (U) Requires only JWICS account plus PKI
+- (
+- (
+
+C) Allows for incorporation of foreign partner data*
+*As negotiated
+
+SECRET/lNOFORN/IZOBZD 108
+

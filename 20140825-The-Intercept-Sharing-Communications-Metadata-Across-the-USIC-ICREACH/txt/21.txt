@@ -1,0 +1,89 @@
+SECRETI/COMINT/IREL T0 USA," FVEY/[20320108
+
+ 
+
+ 
+
+Currently J
+
+Shared 1
+
+lCReach
+Expansion
+
+Metadata Field
+
+Increases Number of SIGINT Metadata
+
+INMARSAT
+
+ 
+
+ 
+
+ 
+
+Date
+
+Time
+
+Duration
+
+Called Number
+Calling Number
+
+ 
+
+Called Fax number
+Transmitting Fax number
+IMSI
+
+TMSI
+
+IMEI
+
+MSISDN
+
+MDN
+
+CLI
+
+DSME
+
+OSME
+
+VLR
+
+MCC
+
+MNC
+
+LAC
+
+Cell ID
+
+Timing Advance
+LaﬂLong
+Calling FTIN
+Calling FiTIN
+Dialed Number
+Forward SIM
+Reverse SIM
+Email Address
+Chat Handle
+Protocols
+
+ 
+
+ 
+
+ 
+
+ 
+
+XKXXXKXKXKXXXKK
+
+ 
+
+SECRET/[COMINT/IREL TO USA, HEY/[20320108
+

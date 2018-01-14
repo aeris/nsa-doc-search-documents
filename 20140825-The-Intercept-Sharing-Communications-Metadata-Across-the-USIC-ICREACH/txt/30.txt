@@ -1,0 +1,31 @@
+SECRET/lCOMINT/IREL T0 USA, NEW/20320108
+
+Recap
+
+   
+
+ 
+
+ 
+
+. (CI/REL) ICREACH is a large scale expansion of communications metadata
+shared with IC partners
+
+. (CI/REL) Enables federation of community metadata across IC agencies
+
+. (CI/REL) Makes greater use of NSA’ s communications metadata which is
+information about content (but not the content itself)
+
+— Definition: Information used by networks, services, or applications to route
+communications or make the content usable including:
+
+- Dialing, routing, addressing, location, or signaling data used for network management
+- Formats and protocols used to render the information for people and systems
+
+. (SI/SII/REL) Expands NSA sharing in three dimensions:
+— Includes more modes of communications (PSTN, INMAFISAT, PCS, DNI)
+— 5x increase in types of metadata shared (from 5 fields to 33 fields)
+— 12x increase in volume shared (from 50 billion to 800+ billion records)
+
+SECRET/[COMINT/IREL T0 USA, HEY/[20320108
+

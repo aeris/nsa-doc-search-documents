@@ -1,0 +1,28 @@
+ 
+
+ICREACH Certification
+
+ 
+
+ 
+
+ 
+
+1. (U//FOUO) Who can be certified? Any individual who:
+
+a. requires access in support of Agency X mission (as
+validated by Agency X POC)
+
+b.is a part of the US. IC
+
+0. holds TS/SCI
+
+d.has PKI
+
+e.is an IC-intelligence analyst (of any sort)
+
+2. (U//FOUO) PKI—enabled accounts will be accessible
+via JWICS.
+
+UNCLASSIFIED/[FOR OFFICIAL USE ONLY
+

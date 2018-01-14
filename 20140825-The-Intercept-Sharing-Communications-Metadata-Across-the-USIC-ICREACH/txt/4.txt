@@ -1,0 +1,65 @@
+    
+ 
+
+u. i 7!
+
+¥ "Io
+
+      
+
+Matrix
+
+lNT"Dissemination/Sharing - ,
+
+ 
+
+SIGINT Data
+
+Minimized
+
+Assessed
+for Fl
+
+Shareable
+
+ 
+
+SIGINT Products &
+Services
+
+Yes
+
+Yes
+
+Yes
+
+ 
+
+SIGINT
+Communications
+Metadata*
+
+No,but
+provided for
+Fl purposes
+
+ 
+
+Raw SIGINT
+
+ 
+
+ 
+
+ 
+
+ 
+
+*(C/IR EL) Communications metadata refers to structured “data about data": it includes all information associated
+with, but not including content, and includes any data used by a network, service, or application to facilitate routing
+or handling of a communication or to render content in the intended format; it includes, but is not limited to; dialing,
+routing, addressing, or signaling information and data in support of various network management activities (e.g.
+billing, authentication or tracking of communicants).
+
+CONFIDENTIAL/l REL TO USA, FVEY” 20320108
+

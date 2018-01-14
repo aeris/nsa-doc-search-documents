@@ -1,0 +1,24 @@
+ 
+
+NSAProposal ImplementatiOn:
+Use of ICREACH
+
+Current Status:
+
+ 
+
+ 
+
+(S//REL) ICREACH is an evolving NSA toolkit (middleware)
+focused on analyzing the target in a converged telephony-DNI
+environment. The federated query searches across all data sets
+
+for information relating to a target identifier.
+
+(S//Sl//REL) For example, through ICREACH an analyst could
+find all metadata comms related to a target: phone number,
+Global Mobile Satellite and cellular events and selectors,
+email address, etc. and any associated locational information.
+
+SECRET/lCOMINT/IREL TO US'A, NEW/20320108
+

@@ -1,0 +1,31 @@
+- i .
+l ‘v ., . ‘ ‘ _
+. O u. an ‘I .0
+
+, Communications 'Metaaata Fields in "
+' ICREACH 1i.
+
+(S//S|//REL) ICREACH telephony metadata fields (con’ t):
+
+    
+
+MCC — Mobile Country Code CALLING RTIN — Reverse Terminal
+MNC — Mobile Network Code Identification Number
+LAC — Local Area Code DIALED NUMBER
+CELL ID — Serving Cell Identiﬁcation FWD SIM — Forward Subscriber
+TIMING ADV — Timing Advance Value “entity M°d"'e
+
+(distance from base transceiver) REV SIM - Reverse Subscriber
+LAT/LONG — Latitude/Longitude in “entity MOdU'e
+
+degrees and minutes MES TYPE - Message Type
+
+CALLING FTIN — Forward Terminal
+Identification Number
+
+(S//Sl//REL) ICREACH users will also see this DNI metadata:
+
+Email addresses Chat handles Date & Time Protocols
+
+SECRET/[COMINT/[REL USA, FVEY/IZO320108
+
