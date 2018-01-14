@@ -1,0 +1,31 @@
+ 
+  
+
+said”?! ,7 it
+oe C‘
+15': a ;' ,
+a: n ' ‘
+L < 1, t m
+7: 1‘35",“
+‘49 s3 ‘1 (‘3:
+Ultra l' htw ' i
+
+- (TS//S|//REL) —has been building
+
+an ultra-lightweight BPA that can act as a CP
+link to a DTN
+
+- (U//FOUO) Locally provides data persistence,
+discovery, routing, convergence layers
+
+- (TS//Sl//REL) FR packets are already
+fragmented, so this BPA does not need to be as
+flexible as others
+
+- (S//REL)Can add covert Convergence Layer
+Adapters
+
+ 
+
+ 
+

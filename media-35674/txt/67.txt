@@ -1,0 +1,34 @@
+ 
+
+\secw ,, — ﬂoat“
+
+0e 1'0 ﬂ WK
+
+‘4 --‘ \ ..
+
+11' 9- h." 3:15‘\ H
+
+a: n t t gig.» . II
+A < w .
+
+1r # :3 3
+
+a ‘2' V? f7
+
+”as $0 l ““th :/
+
+un e ncryptlon ‘ ‘ ‘“
+
+ 
+
+- (U//FOUO) Payload data encrypted
+with AES in Galois Counter Mode
+
+(GCM)
+- (U) Provides data integrity
+
+- (U) AES key is encrypted with the
+destination's RSA public key
+
+ 
+

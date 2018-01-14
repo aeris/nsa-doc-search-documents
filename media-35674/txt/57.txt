@@ -1,0 +1,81 @@
+ 
+
+"Intelligent” Routing: PROPHET (U)
+
+Probabilistic routing in intermittently connected
+networks, 2003; A. Lindgren, A. Doria, and O. Scheln
+
+Probabilistic Routing Protocol using History of
+Encounters and Transitivity (PROPHET)
+
+ 
+
+ 
+
+amy
+
+0.0
+
+ 
+
+ 
+
+amy 0.9
+
+ 
+
+0.0
+
+ 
+
+ 
+
+ 
+
+sam
+joe
+
+ 
+
+0.4
+
+ 
+
+ 
+
+ 
+
+ 
+
+_
+-|
+joe 0.0
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+_| 3am 0'9
+
+joe 0.0
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

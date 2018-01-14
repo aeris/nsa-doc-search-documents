@@ -1,0 +1,18 @@
+ 
+
+ 
+
+DTLSR (U)
+
+(U//FOUO) Delay-Tolerant Link State Routing
+
+Assumes a mostly stable contact graph
+Nodes a|| flood their recent contacts
+
+Each node maintains an internal picture of the
+
+network, and makes routing decisions based on
+Dijkstra's alg
+
+ 
+

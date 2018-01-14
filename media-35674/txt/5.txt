@@ -1,0 +1,20 @@
+ 
+     
+
+Delay-Tolerant Networks (U)
+
+(U/IFOUO) DTNs use a store-carry-forward
+approach to take ad a ntage of node
+
+mobility a
+
+ 
+
+   
+
+Destination
+
+ 
+
+ 
+

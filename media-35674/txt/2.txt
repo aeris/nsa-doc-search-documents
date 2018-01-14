@@ -1,0 +1,34 @@
+ 
+  
+
+\ﬁEClJR] P ,§;i§§“-E'3§t§;~\
+
+F r v“
+
+e 70 4”” -. ‘M
+9 r6 .. \
+1-. z .' 'u' 5, 1‘1
+v: n :4" .'
+A < p 3 05"
+7: # 'ﬁ 56:"
+a;
+
+a ‘2' ”<1 Oz»
+’19, to” kn,» a?"
+”a” mom" 0 utl i n e Far—ELM?
+
+ 
+
+1. (U) Delay-Tolerant Networking intro
+
+i. Outside world: protocols and software
+n. lC Applications of DTNs
+
+2. (TS//S|//REL) Summary of R4 work
+i. CHIMNEYPOOL integration
+n. Wireless testing
+
+3. (TS//Sl//REL) Interesting details
+i. DTN Routing
+ii. DTN Security
+
