@@ -1,0 +1,26 @@
+SECRET/lCOMINTl/REL TO USA,
+
+Upgrades & Wﬁat They Mean
+
+Upgrade to 106 Sensor provides additional capabilities and
+enables future upgrades:
+
+-lmmediate Benefits:
+— Increased speed and capacity
+— TSIISI signatures
+
+— Full Snort (Current sensors use packet-based Snort. 10(3 sensors
+use session-based Snort.)
+
+— Multi-event Snort
+
+-Future Upgrades:
+— POPQUIZ: Real-time behavioral analytics
+— GNOMEVISION: De-obfuscation of malicious packages
+— Cryptanalytic Capabilities
+— Netflow: Traffic analysis with GHOSTMACHINE
+
+SECRET/[COMINTIIREL To USA, FVEY 17
+
+ 
+

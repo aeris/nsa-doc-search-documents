@@ -1,0 +1,24 @@
+SEC RETIICOMI NTI/REL TO USA,
+
+TUTELAGEF‘EYapabiIities
+
+Block
+
+  
+
+ 
+
+DoD
+
+(SHREL To USA, FVEY)
+
+Block is the means by which the TUTELAGE in-line
+packet processor can deny entrylexit of network
+activity at the Internet Access Points (IAPs) based
+initially on source andlor destination Internet Protocol
+(IP) addresses and ports.
+
+SECRET/lCOMINTl/REL To USA, FVEY 13
+
+ 
+

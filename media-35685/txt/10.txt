@@ -1,0 +1,30 @@
+SEC RET/ICOMI NTl/REL TO USA,
+
+TUTELAGEF‘EYapabiIities
+
+m lnte rcept
+
+ 
+
+DoD
+
+  
+
+ln-Line Packet Processor:
+
+Re-routes traffic dynamically
+Modify inbound & outbound packets
+Insert andlor delete packets
+
+(SHREL TO USA, FVEY)
+
+Intercept is the means by which the TUTELAGE in-line
+packet processor can transparently intervene in
+adversarial activities, permitting the activity to appear
+to complete without disclosing that it did not
+reachlaffect the intended target.
+
+SECRET/[COMINTIIREL To USA, FVEY 1°
+
+ 
+

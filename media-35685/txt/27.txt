@@ -1,0 +1,34 @@
+SECRET/[REL T0 USA, FVEY
+
+WAG Attempts to Deliver Holiday Present to DOB
+
+23 December
+
+° NTOC-TX calls ops center advising of phishing campaign with
+“Merry Christmas" subject associated with WAG actors
+
+° WAG actors attempted to use ZEUS malware to exfiltrate
+documents
+
+° NTOC-TX did malware analysis and identified 2 new callback
+domains
+
+° In < 3 hours, received CyberCommand approval and
+domains on DNS interdiction
+
+ 
+  
+
+30 December
+- NTOC-TX notices new spike in WAG mail signature
+° NTOC-TX discovers new callback domain
+
+° In < 20 minutes, received approval and placed domain on DNS
+interdiction
+
+° NTOC-W confirmed same malware from Xmas themed event
+
+SECRET/[REL T0 USA, FVEY 27
+
+ 
+

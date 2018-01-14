@@ -1,0 +1,44 @@
+SEC RETIICOMI NTIIREL TO USA,
+
+TUTELAGEF‘EYapabiIities
+
+n Alert/Tip
+
+ 
+
+DoD
+
+  
+ 
+ 
+
+   
+
+Data
+
+Sensor: Re‘ilueSt
+Generates Alerts
+
+Collects Data for Analysis i . . .
+DeCISIon Logic:
+
+Runs Applications
+m Requests Data
+
+’ ‘ Establishes Correlations
+@ Sends Out Tasks
+SIGINT Sends Alerts to SIGINT Tasking
+Tasking
+
+(SHREL TO USA, FVEY)
+
+AlertITip indicates the presence of malicious activity
+and communicates this information with the rest of
+the TUTELAGE enterprise andlor the SIGINT
+(passivelactive) enterprise. Rule and Decision Logic
+determine whether data is stored.
+
+SECRET/lCOMINTl/REL To USA, FVEY 9
+
+ 
+
