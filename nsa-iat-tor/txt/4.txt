@@ -1,0 +1,30 @@
+TOP SECRET//SI//REL TO USA,FVEY
+
+(S//Sl// REL) Passive Tor Traffic Analysis
+
+\K'5M
+
+‘3‘“! N,“ lug/ff Wk!)
+
+E(S/IS|//REL) For Normal SIGINT flow, need to identify Tor traff c'
+
+(S/lSl/IREL) Only outer TLS layer visible —> How to Distinguish?
+
+(S/lSl/IREL) Tor developers attempt to remain anonymous by blending in
+with myriad other TLS trafﬁc
+
+(S//Sl//REL) Tor TLS has changed over the years
+
+(S/lSl/IREL) There ARE some server ——> client features which are
+recognizable
+
+— (S//S|//REL) Certificate: Speciﬁc Difﬁe-Hellman (DH) Modulus — byte search
+
+— (S//S|//REL) Certificate: Issuer and Subject random names of same form — ex:
+CN=www. ofszdjxvrss.net — regex match
+
+— (S//Sl//REL) Certificate: always 2 hour lifetime — ASN.1 parsing, more computation
+— (SI/SI) Multiple XKS ﬁngerprints from multiple parties deployed
+
+ 
+
