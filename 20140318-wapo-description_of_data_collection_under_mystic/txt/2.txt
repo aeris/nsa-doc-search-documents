@@ -1,0 +1,19 @@
+interest that was not tasked at the time of the original call. Analyst
+retrievals should be based on metadata, SRI found in FASCIA, that'll
+indicate there's a target of interest that's been detected in
+SCALAWAG's environment. Once the audio is identified, retrieved, and
+forwarded to your NUCLEON account, analysts would then consider
+tasking the number in UTT at ECP 1-3, based on the critical need for
+the data.
+
+(S//Sl//REL TO USA, FVEY) Retrieval and fonNarding via the RETRO
+TOOL will significantly reduce bandwidth and latency issues. It will also
+likely result in getting the audio data back to your NUCLEON account
+more quickly than if tasked at ECP 4 and below. We strongly request
+that TOPls do not artificially inflate the priority of their tasking just to
+get numbers tasked. SlGDEV/Target development should be
+accomplished using the RETRO TOOL and subsequent tasking occur
+based on SlGDEV. TOPls should make use of the RETRO TOOL
+whenever possible to retrieve the desired audio content. We do not
+have the luxury of task and forget.
+
