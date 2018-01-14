@@ -1,0 +1,51 @@
+Associations to establish a RAS nomination
+
+Associations to establish a RAS nomination
+
+Reasonable Articulable Suspicion (RAS) standard — requires that an NSA analyst
+must be able to point to a single fact that points to the fact that a selector may be
+associated with a terrorist group listed in the F ISC Order before we are
+authorized to conduct analysis on it.
+
+RAS determination — should cause a reasonable person to suspect that the
+identifier is associated with one of the terrorist organizations named in the Order.
+
+ 
+
+WRecall that the BR FlSC
+
+Order allows NSA to obtain an
+immense amount of foreign and US
+metadata contained in the Business
+Records. The FlSC Order contains
+strict guidelines on when this metadata ‘
+is allowed to be accessed and when it a
+is not. It must be associated with
+specific terrorist organizations named
+in the Order. It also must meet a
+standard that is referred to as the
+Reasonable Articulable Suspicion
+(RAS) Standard. In a nutshell, the
+RAS standard requires that an NSA
+analyst must be able to point to a_
+single fact that points to the fact that a
+seed/telephone selector may be
+associated with a terrorist group listed
+n the FlSC Order before we are
+authorized to conduct analysis on it.
+
+WW6 Will address the RAS
+
+standard in detail in the next lesson,
+but for now, understand that the fact or
+facts which make up a RAS
+determination should cause a
+reasonable person to suspect that the
+identifier is associated with one of the
+terrorist organizations named in the
+Order.
+
+ 
+
+ 
+

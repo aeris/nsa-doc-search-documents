@@ -1,0 +1,55 @@
+M'MWE‘WM 3? HM
+
+lesson 2: Reasonable Articulable Suspicion (RAS)
+
+ 
+
+Lesson 2 Slide 2 “Summary of RAS Standard”
+
+Summary of RAS Standard
+BR FISC order
+
+Government may request in use speciﬁc identiﬁers to
+queryr the mvetatlata for purposes ut obtaining foreign
+
+intelligence through mntairt chaining ur—
+
+- tale hone numbers
+
+n: m,
+
+“Reasonable Articutabte Sasptcmn standard?"
+
+-(-'FS+I-Sl#N-F)- You Will recall from Lesson
+One that the BR FlSA Order is authorized
+because the FISC recognizes there is a
+counterterrorism interest in obtaining those
+business records. However, because NSA
+is receiving a great deal of US person
+telephony records, we have strict
+guidelines on when NSA can access the
+metadata under this authority. One of the
+requirements is that in order to access the
+metadata, NSA must establish RAS on
+each selector prior to querying the BR
+FlSA repositories.
+
+-€FS#Sl#NF-)-The BR FISC Order states
+that NSA may query speciﬁc identiﬁers
+_that satisfy the RAS standard for
+purposes of obtaining counterterrorism
+intelligence.
+
+—€FS#Sl#N-F)-ln order to assist in
+determining when a selector has satisﬁed
+the RAS standard, the Ofﬁce of General
+Counsel (OGC) has issued a RAS Memo
+to help Signals intelligence Directorate
+(SID) personnel make RAS determinations
+on telephone identiﬁers. The memo
+contains guidelines that apply to both the
+BR and Pen Register and Trap and Trace
+(PRfl’T) FlSA Orders.
+
+ 
+
