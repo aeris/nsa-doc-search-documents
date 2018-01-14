@@ -1,0 +1,60 @@
+25 June 2013
+
+T he Horrorable Ron Wyden
+
+United States Senate
+
+221 Dirksen Senate Ofﬁce Building
+Washington, DC 20510
+
+The Honorable Mark Udall
+United States Senate
+
+328 Hart Senate Ofﬁce Building
+Washington, DC 20510
+
+Dear Senators Wyden and Udall:
+
+Thank you for your letter dated 24 June 2013. After reviewing your letter, I agree that
+
+the fact sheet that the National Security Agency posted on its website on 18 June 2013 could
+have more precisely described the requirements for collection under Section 702 of the F ISA
+Amendments Act. This statute allows for “the targeting of persons reasonably believed to be
+located outside the United States to acquire foreign intelligence information.” 50 U.S.C.
+1881(a). The statute provides several express limitations, namely that such acquisition:
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+may not intentionally target any person known at the time of acquisition to be located
+in the United States;
+
+may not intentionally target a person reasonably believed to be located outside the
+United States if the purpose of such acquisition is to target a particular, known person
+reasonably believed to be in the United States;
+
+may not intentionally target a United States person reasonably believed to be located
+outside the United States;
+
+may not intentionally acquire any communication as to which the sender and all
+intended recipients are known at the time of acquisition to be located in the United
+States; and
+
+shall be conducted in a manner consistent with the fourth amendment to the
+Constitution ofthe United States. 50 U.S.C. 1881(b).
+
+With respect to the second point raised in your 24 June 2013 letter, the fact sheet did not
+
+imply nor was it intended to imply “that NSA has the ability to determine how many American
+communications it has collected under section ”3'02, or that the law does not allow the NSA to
+deliberately search for the records of particular Americans." As you correctly state. this point
+has been addressed publicly. I refer you to unclassiﬁed correspondence ﬁom the Director of
+National Intelligence dated 26 July 2012 and 24 August 2012.
+
