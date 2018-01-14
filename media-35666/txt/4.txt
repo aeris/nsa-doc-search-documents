@@ -1,0 +1,136 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Refine Query Import data from another source (eg 3rd party filelisting) - for GOLDEN EYE 2
+example a CSV file into Eclipse
+Refine Query Pull out all applications seen on a boxI network STARGATE (Machine surveyIsummary component)
+STARGATE (Endpoint data characterisation)
+Experiment Query pull out all selectors seen on a boxI in docs STARGATE (Summarisation)
+* Telephone numbers, emails, passwords etc retrieved STARGATE (Graphical query engine)
+Refine Query Hﬂﬂlfﬁrg'éhE’Q'BaFQWﬁHER/ﬁzﬁﬁﬂﬁ HWCTisjQBEtUSBL STARGATE (Graphical query engine)
+machines 1' “SETS [TDIS ‘l' latency & tip Off STARGATE (Endpoint data characterisation)
+Experiment Query Schedule queries on collected data STARGATE (Graphical query engine)
+Refine Query Share queries STARGATE (collaboration components)
+Experiment Query Ability to push data - i.e. ' other people found this interesting'l STARGATE (collaboration components)
+'other people asked for this on this box' I 'query this to find STARGATE (Endpoint data characterisation)
+Refine Query Godﬁgtﬂﬁﬁg’ﬂuiﬁigsa" retrieved yahoo dataI encryption STARGATE (Graphical query enqi_ne)
+Refine Query Other users Flagged items (see knowledge sharing) and star STARGATE (collaboration components)
+rating for items
+Refine Query Query operations by machine types Itopic Itechnologies I STARGATE (Endpoint data characterisation)
+common properties of operations, projects or machines STARGATE (Graphical query enqine)
+Refine Query The ability to track the unique number assigned to a thumb
+drive by computer and then correlate and map this to when
+that same thumb drive is used in a different computer.
+Experiment Query Volumes of activity across networks STARGATE (Network visualisation)
+* which boxes are used most often STARGATE (Endpoint data characterisation)
+* WhiCh boxes do certain things? STARGATE (Graphical query engine)
+NAC Network Visualisation work
+Refine Tasking By a specific file type STARGATE
+STARGATE (Endpoint data characterisation)
+Refine Tasking By those most recently viewed or used STARGATE
+STARGATE (Endpoint data characterisation)
+Refine Taskinq directory listings I file listings STARGATE
+Refine Tasking images I documents as thumbnails only STARGATE (Thumbnail viewer)
+STARGATE (Auto conversion of thumbnail files)
+STARGATE
+Experiment Tasking Inform analysts what is I is not possible on this box I network STARGATE (Machine surveyIsummary component)
+810- _ _ STARGATE (network summary pluqi_n)
+: Do‘cument mm plug ":33 :9 available an: haw they wofrk. STARGATE (Shopping basket full functionality)
+theﬁlgazripbaoxmes can e Irectlytas e yt e anayst or ROCK OPERA remote indexing
+E.g. remote indexing of a box HIGH NOTE (CNE TD tools)
+* \Mn implant it MUGSHOT
+Experiment Tasking Tag-based tasking - internet activity profile (eg. usernames, STARGATE (Endpoint data characterisation)
+passwords, B cookies, web browsing and more...)
+Experiment Tasking Need for rules (timerolumeIfile types), conflict resolution, STARGATE (Task management component)
+permissions EKB information
+Refine Tasking Request individual files STARGATE (Manual authorisation tool)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

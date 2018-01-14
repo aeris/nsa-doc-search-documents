@@ -1,0 +1,147 @@
+ 
+
+STARGATE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Refine Tasking Task.11 Request network info e.g. traceroutes, ipconfig, arp - a, STARGATE (Manual authorisation tool)
+0055MB route -print, netmap STARGATE (Network visualisation)
+Experiment Tasking Task.13 Mission management: within the EndPoint system - on file STARGATE (Chequerboard)
+request, generate metrics I stats - TPA can use LOOKING GLASS
+Refine Tasking Task.14 Access to cookie content. These are powerful sigint STARGATE
+enablers, carrying selector and geolocation information
+amongst other stuff, so rank higher than other webbrowsing
+material.
+Experiment Tasking Task.15 Tasking by application e.g. "get me all Skype files" STARGATE (Endpoint data characterisation)
+Experiment Tasking Task.16 Tasking by files containing a string I having particular hash STARGATE (Endpoint data characterisation)
+values I image hash values
+Refine Tasking Task.17 #2Tasking by files that have changed STARGATE (Endpoint data characterisation)
+Experiment Tasking Task.18 Tasking by geo value - google earth, public ip profiles, STARGATE (Endpoint data characterisation)
+machine identifiers. Evolved MUTANT BROTH
+Experiment Tasking Task.19 Tasking by type media content collection - IMIemail text, STARGATE (Endpoint data characterisation)
+voice, video, eg "get me all voice files" Automated taskinq
+Refine Tasking Task.20 Taskinq by user I author STARGATE (Endpoint data characterisation)
+Refine Tasking Task.22 keylog requests - useful for passwords and the like STARGATE (key log viewer)
+Refine Tasking Task.26 request pings on IP addresses to determine equipment STARGATE (Manual authorisation tool)
+types HIGH NOTE (CNE TD tools)
+MUGSHOT
+Experiment Tasking Task.28 Retrieve files based on text content- eg if the document has ROCK OPERA remote indexing
+TOP SECRET in it, collect it, don't wait to be asked STARGATE (Shopping basket full functionality)
+Experiment Tasking Task.29 §ER¥éPFg3§bs STARGATE (Screenshot viewer)
+STARGATE (Shopping basket full functionality)
+Refine Tasking Task.30 Tasking pre-End Point (queuing up tasking before the STARGATE (Manual authorisation tool)
+endpoint is ready)
+Experiment Tasking Task.33 Bulk tasking - ability to apply tasking parameters to the STARGATE (Manual authorisation tool)
+network " project; 133k a target SET TURBINE (mission applications)
+ACNO mission management
+Experiment Tasking Task.34 Effects based tasking, for certain users e.g. ability to change STARGATE (Manual authorisation tool)
+registry, watermark files, or even destroy the box? New CNE Effects tool
+Experiment Tasking Task.36 Task an End Point to send tipping to the EREPO system for STARGATE (Manual authorisation tool)
+collection on the active IP of the box. Put a beacon on this STARGATE (Alerting Components)
+Refine Viewer View.01 WHERE-configure every function of the viewer, so that STARGATE (Collaboration components)
+settings are saveable and shareable LOOKING GLASS
+Experiment Viewer View.02 ability to view content in foreign script (in the correct order) STARGATE ROADMAP iteration 8
+UDAQ2
+Experiment Viewer View.03 Across networks we need to be able to distinguish between: STARGATE (Network visualisation)
+
+ 
+
+ 
+
+ 
+
+* a computer on a network seen but not implanted at all
+
+* computers with first stage implants, second stage
+implants
+
+* second stage implants but not yet surveyed
+
+ 
+
+9r nlu: +
+leekeel—a-t—by—an—ana.,s.
+
+ 
+
+HIGH NOTE (CNE TD tools)
+
+ 
+
+LU NAR HORN ET (Support for implant visualisation)
+
+ 
+
+NAC Network Visualisation work
+ICTR (3133) network mapping
+
+ 
+

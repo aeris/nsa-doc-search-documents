@@ -1,0 +1,96 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CNE End Point Requirements
+CATEGORY REG TYPE PRIORITY
+0 Experimi O Capability 0 Priority Requirements are divided into a number of CATEGORIES
+I I I . . . Identifying the amount of INNOVATION required to satisfy the
+O Refinemer 0 Priority This spreadsheet contains the collated CNE user reqwrements re uirement
+O Convergem captured by as the Endpoint initiative lead. q
+0 BUQ F” 0 Query 0 Priority . . . . Requirements are labelled by TYPE - referring to the primary issue
+0 ALL To cut down the amount of information VISIbIe select the associated with the re uirement
+O Taskir O ALL material you want to see via the Radio Buttons and then q
+0 Viewe press (50 ' Requirements are PRIORITISED - Priority 1 being the highest
+(essential) and Priority 3 the lowest (nice to have)
+0 ALL
+REQUIREMENTS PLANNED DEVELOPMENT WORK
+Category Type Priority Number Description Individual Tasks — with RAG status
+Refine Capability 1 Cap.01 Request document] file properties and task on the basis of STARGATE (Manual authorisation tool)
+the same (author/etc)
+Experiment Capability 1 Cap.02 Detect internal network activity (volumes and movement of
+specific data types)
+Experiment Capability 1 Cap.03 Low latency presence data for use in tip-off collection
+Experiment Capability 1 Cap.04 Remote indexing ROCK OPERA remote indexing
+Experiment Capability 1 Cap.05 Use API type functions of operating systems like their
+indexing
+Experiment Capability 2 Cap.06 characterisation of unallocated or deleted space - potentially STARGATE (Daredevil remote forensics plugin)
+a source of intelligence on internet-facing target machines uincey pluqin
+Experiment Capability 2 Cap.07 Destination IP address from messenger client packet capture
+Experiment Capability 2 Cap.08 PCS - capability against mobile devices Research in CNE and ICTR
+Experiment Capability 2 Cap.09 ability to list programs and applications commonly used on
+the machine (pulled from Registry and program files?) - and
+to monitor frequency of use
+Experiment Capability 2 Cap.10 Followlmonitor movement of files I movement of users (key STARGATE (network summary plugin)
+to identifying the valuable parts Of a network) STARGATE (Endpoint data characterisation)
+Experiment Capability 2 Cap.11 Rén‘i’MﬁlérﬁiEiﬁﬁ:slU§3‘iiiarvester (with logics applied to
+implant on USB to auto-retrieve data).
+Refine Capability 2 Cap.12 web browsing content (html, cookies etc)
+Experiment Capability 3 Cap.13 Change the registry (eg browser stain)
+Experiment Capability 3 Cap.14 Collect the first line of the document text [the first 'n'
+characters.
+
+ 
+
+ 
+

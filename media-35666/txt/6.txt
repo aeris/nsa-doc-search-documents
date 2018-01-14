@@ -1,0 +1,128 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Experiment Viewer View.04 Analytics to produce a summary! profile page of a machine STARGATE (Machine survey/summary component)
+as a starting point for the analyst, like CIA QUINCY STARGATE (Chequerboard)
+Experiment Viewer View.05 @815“?‘Hxﬁlﬁﬁm'ﬁﬂtﬁgfﬁltymplantslmake STARGATE (Network visualisation)
+recommendations (show me paths with x hops) STARGATE (Network summary plugin)
+LU NAR HORN ET (Support for implant visualisation)
+Experiment Viewer View.06 Visualise and physically] logically map target networks STARGATE (Network summary plugin)
+STARGATE (Network visualisation)
+NAC Network Visualisation work
+ICTR (3133) network mapping
+Refine Viewer View.07 Machine properties: Domain - which domain(s) is the STARGATE (Machine survey/summary component)
+machine in?
+Refine Viewer View.08 Metadata for each file to include file properties (author, last STARGATE (Endpoint Data Characterisation)
+modified by, dates, length, hidden, password protected, ROCK OPERA remote indexing
+Refine Viewer View.09 am WMWHWﬁ/Eéﬁﬂﬁﬁﬁﬁbn and a STARGATE (Endpoint Data Characterisation)
+descriptor)
+Refine Viewer View.10 Machine properties: IP (public/private) include relevant STARGATE (Machine survey/summary component)
+passive access points
+Experiment Viewer View.11 Model time aspects in visualisation & physical/logical STARGATE (Endpoint Data Characterisation)
+mapping of target networks - ie as machines STARGATE (Network visualisation)
+Refine Viewer View.12 mesmeemhﬁleemrk STARGATE (Machine survey/summary component)
+Experiment Viewer View.14 see applications on a box. E.g. mail clients, messenger STARGATE (Machine survey/summary component)
+clients, Autocad, Google Earth, antivirus/network apps
+VPN.... "what apps on what box?".
+Refine Viewer View.16 Show machine properties (note not 'implant' properties). STARGATE (Machine survey/summary component)
+Allow for the possibility of multiple implants on a single
+machine.
+Experiment Viewer View.1'! Show overall Project information on Op STARGATE (Task management component)
+- who the target is, requirements, why the target is being STARGATE (Machine survey/summary component)
+worked. (e.g. Country/contextual stuff - CP - Dr Evil - STARGATE (projecﬂOp summary view)
+“enema" N0 1) FLAME CARPET 2
+' summary 0f progress. Ecli se drill down
+- summary of SIGINT parameters (casenotations/sigad) p
+- project lead and analysts who've registered an interest BROADOAK
+' ' ' LOOKING GLASS
+Experiment Viewer View.21 Need for COls, need to see current status of users STARGATE (Authorisation components, incl user management)
+compartments. Classification of current view.
+GOLDEN EYE 2
+Refine Viewer View.22 Show results of content searches with paths for content UDAQ2
+location
+Experiment Viewer View.23 supported ability to view I run native versions of non plain STARGATE (registry viewer)
+
+ 
+
+ 
+
+ 
+
+text material (office docs, jpegs, video etc ALSO registry
+data, system files, shortcuts.)
+
+ 
+
+STARGATE ROADMAF’ iteration 8
+
+ 
+
+FUME CUPBOARD
+
+ 
+
+ 
+

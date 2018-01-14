@@ -1,0 +1,129 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Experiment Capability Cap.15 CNAI CND profiling - Be able to search on hacking STARGATE (Endpoint data characterisation)
+profile/signature so can spot attacks leaving a box. Need
+
+Experiment Capability Cap.16 Remote hashinq of files
+
+Experiment Convergence Conv.01 Data must be of a format which enables it to be merged with STARGATE ROADMAP iteration 7-10 (corporate framework,
+data from other sources Itools in any future converged native viewing, CMS, convergence)
+platform. E.g. putting internet selector (I'Dl) related material
+into passive events systems and auto-correlating activity
+from a CNE implant to the same intercept collected in
+passive
+
+Experiment Convergence Conv.02 Metadata must be exportable to other relevant tools. STARGATE (Graphical query engine)
+
+Experiment Convergence Conv.03 Geolocation information Google earth I C.O.R.E. I K.I.M STARGATE ROADMAP iteration 7-10 (corporate framework,
+
+native viewing, CMS, convergence)
+
+Experiment Convergence Ability to compare EndPoint data with .JTRIG forensic data & CNE metadata into the CMS
+
+Experiment Convergence Develop a fingerprint concept (includes characterisation) - STARGATE (Endpoint data characterisation)
+application profiles exportable to search in XKEYSCORE STARGATE (Machine survey/summary component)
+
+Experiment Convergence E‘nﬁﬁﬁmmamﬂthQWQBﬁfﬁPﬂéetﬁﬁH tracking STARGATE ROADMAP iteration 7-10 (corporate framework,
+standards, shareable with other tools to enable cross native viewing, CMS, convergence)
+querying across the 5-eyes.
+
+Refine Convergence EndPoint data should send I generate metadata for the new CNE metadata into the CMS
+Content Metadata Store (CMS) GOLDEN EYE 2
+
+Experiment Convergence Enrichment of EndPoint content and metadata from other STARGATE ROADMAP iteration 7-10 (corporate framework,
+tools/databases (BroadOak, UTT, .JTRIG, Globalreach, native viewing, CMS, convergence)
+Global Surge, THUGGEE) LOOKING GLASS
+
+Experiment Convergence Events data containing End Point internet activity material STARGATE ROADMAP iteration 7-10 (corporate framework,
+e.g. this public IP has been seen in MARINA. native viewing, CMS, convergence)
+
+Experiment Convergence Flexibility to keep pace with tools developments, Eclipse platform/framework
+compatibility with others' efforts, and accessible to e.g. ICTR
+(Applied Research)
+
+Experiment Convergence PSC tipping to EREPO I other passive collection (see STARGATE (Alerting Components)
+tasking requirement)
+
+Experiment Convergence Data feeds in & out of Endpoint: Radio values and MAC STARGATE (Machine survey/summary component)
+addresses I IP addresses - take data 10, and IOOkUIJ from STARGATE ROADMAP iteration 7-10 (corporate framework,
+
+native viewing, CMS, convergence)
+
+Experiment Convergence ‘ S STARGATE ROADMAP iteration 7-10 (corporate framework,
+webmail cookie as an Active User entryIlP & Datetime in native viewing, CMS, convergence)
+HAUSTORIUMIMARINAI(via Shareown?)IMUTANT BROTH
+or other corporate solutions
+
+Experiment Convergence Conv.1'I Ability to View collected items with reports that have been STARGATE ROADMAP iteration 7-10 (corporate framework,
+written from them - MOONRAKER (assume this would be native viewing, CMS, convergence)
+done using the source record for reports)
+
+Refine Convergence Conv.19 Be able to launch queries in other SIGINT systems from STARGATE ROADMAP iteration 2
+within EndPoint e.g. Send identified selectors to events tools LOOKING GLASS
+
+Experiment Convergence Conv.20 Carbon Rod - show me a man in the middle between this MUGSHOT
+
+ 
+
+ 
+
+ 
+
+End Point network and this website. (Vulnerability
+
+ 
+
+STARGATE (Machine survey/summary component)
+
+ 
+

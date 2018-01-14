@@ -1,0 +1,140 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Refine Viewer 2 highlight where specific applicationlapp type files are stored STARGATE (Endpoint Data Characterisation)
+(e.g. push out all Skype/PaltalkJ'MSNlOutlook
+files/communications files)
+Refine Viewer 2 Implant type, installed plugins, and potential plugins EKB information
+(machine level view)
+Refine Viewer 2 Latencies (traceroutes) HIGH NOTE (CNE TD tools)
+STARGATE (Network visualisation)
+NAC Network Visualisation work
+Refine Viewer 2 list files on desktop
+Refine Viewer 2 list of any identifiers found and where they were pulled from STARGATE (Machine survey/summary component)
+on the machine (99- Rasphonepbk) STARGATE (Endpoint Data Characterisation)
+Refine Viewer 2 list of the Nethood Folder
+Refine Viewer 2 list profiles/accounts on box
+Refine Viewer 2 Log of implant callbacks JACKPOT
+Experiment Viewer 2 model contact data (best merged with other accesses - see STARGATE (Endpoint Data Characterisation)
+convergence) LOOKING GLASS
+Experiment Viewer 2 model internet activity - cookie exchanges and other content STARGATE (Endpoint Data Characterisation)
+as well as a metadata summary User centric view
+Activity modelling
+Experiment Viewer 2 Model indexing of collected files on/across machines Entity extraction
+Refine Viewer 2 msinfo command properties and similar. SLIPSTREAM
+Forensics Implant
+Refine Viewer 2 option to view only retrieved files and their location
+Experiment Viewer 2 play back I visualise user/machiner'network activity (temporal STARGATE (Network visualisation)
+modelling) STARGATE (Machine survey/summary component)
+LOOKING GLASS
+Experiment Viewer 2 registry viewer analysis STARGATE (registry viewer)
+STARGATE (Daredevil remote forensics plugin)
+Refine Viewer 2 See a model of where value has been gained from similar STARGATE (collaboration components)
+machines (Amazon shunning model) ' trend analysis STARGATE (Endpoint Data Characterisation)
+Refine Viewer 2 See project lead and analysts who have registered an STARGATE (Endpoint Data Characterisation)
+interest. Register an interest for self/section STARGATE (Alerting Components)
+Refine Viewer 2 show machines accessed from other machines STARGATE (machine survey/summary component)
+Refine Viewer 2 Show where files have changed since being viewed. STARGATE (Chequerboard)
+Refine Viewer 2 show where recently opened/created documents are stored STARGATE ROADMAP iteration 2
+(color coding if file has changed since last accessed) STARGATE (Graphical query engine)
+Refine Viewer 2 Machine properties: Type STARGATE (Machine survey/summary component)
+(Desktop/router/server/switch/wireless bridge/firewallNSAT STARGATE (Network visualisation)
+modem ETC) STARGATE (Endpoint Data Characterisation)
+NAC Network Visualisation work
+Refine Viewer 2 user logs (who logged on when) STARGATE (machine survey/summary component)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+STARGATE (Endpoint Data Characterisation)
+
+ 
+
+Activity profiling
+
+ 
+
+ 
+
