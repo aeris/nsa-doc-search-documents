@@ -1,0 +1,16 @@
+TOP SECRET STRAPl
+
+Examples
+
+° (S 81) Unspecified capabilities against [VPNs, IPSEC,
+TLS/SSL, HTTPS, SSH, PPTP, eChat, eVoIP]
+
+- (TS Sl COMINT) Capabilities against the encryption used in
+[VPNs, IPSEC, TLS/SSL, HTTPS, SSH, PPTP, eChat, eVoIP]
+
+- (TS 82 BULLRUN) Capability against specific applications
+
+PTD ”We penetrate targets' defences.”
+
+ 
+

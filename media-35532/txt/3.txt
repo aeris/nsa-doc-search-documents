@@ -1,0 +1,17 @@
+TOP SECRET STRAP1
+Network Security Technologies
+
+Secure Sockets Layer/Transport Layer Security
+(SSL/TLS) (webmail)
+
+Secure Shell (SSH)
+
+Encrypted chat
+
+Virtual Private Networks (VPNs)
+Encrypted VolP
+
+PTD ”We penetrate targets' defences.”
+
+ 
+

@@ -1,0 +1,23 @@
+TOP SECRET STRAPl
+Sensitivities
+° Cryptanalytic capabilities
+
+— Are extremely difficult and costly to acquire
+— Require along lead time
+
+— Depend on sensitive sources
+
+— Are very fragile
+
+— If lost, may never be regained
+
+° The mere “fact of" a capability is very sensitive:
+
+— An adversary who knows what we can/cannot break is
+able to elude our capabilities even without knowing the
+technical details of how the capabilities work
+
+PTD ”We penetrate targets' defences.”
+
+ 
+
