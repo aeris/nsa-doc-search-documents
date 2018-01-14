@@ -1,0 +1,66 @@
+TOP SECRET STRAP 1
+Stats I summaries
+
+0 Identify all email addresses found near Ki data
+° Reference all original UDAQ items
+
+0 Show breakdown of Kis found by network
+
+° Show breakdown of activity by network
+
+Emails:
+107 items
+
+184 @huawei.com
+184 ﬁluaweirom
+295 @trusted-Iogic.com
+
+UDAO Item Identifiers used:
+# Kis UDAO ID
+
+3 xxb:
+3 xxb:
+1 xxb:
+
+Unique IMSI and Ki data identified for networks:
+Code # Occurrences
+
+63701 1 Globetel, Somalia
+41902 4 MTC, Kuwait
+
+42004 5 Zain_SA, Saudi_Arabia
+41201 1 AWKC, Afghanistan
+43235 104 MTN_IRANCELL, Iran
+42602 MTC_Vodaphone, Bahrain
+
+ 
+
+  
+    
+   
+  
+   
+ 
+ 
+    
+
+  
+ 
+ 
+
+ 
+
+    
+       
+    
+
+       
+   
+
+llS lllTOl'maIIOI'l IS exempt from CIISCIOSUFE under IOll LIliC'
+
+c \ other UK information legislation. Refer disclosure requests to GCHQ on (non-sec) or email
+IGCHQ 6) Crown Copyright. All rights reserved.
+
+ 
+
