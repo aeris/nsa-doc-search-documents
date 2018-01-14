@@ -1,0 +1,51 @@
+Eile Edit [law History ﬂookmarks Iools Help
+
+6| (2' a» —
+
+ii Most Vislted , Getting Started ﬂ Latest Headlines
+
+.
+a,
+
+ 
+
+ii] ﬂotInstance5:edit [i J Botlnstances: show ,2
+[Heros] [Bots] [Connected Bots] [Bot Trees] [Machines] [IP Usages] [Countries] [Commaﬂd Recurrences] [Command Types] Logged in a5:73ElElE
+
+CommandRecurrence was successfully created
+
+Editing Command Recurrence 'Dirwalks FTW'
+
+ 
+
+Recurrence Name Command Type Name Herd Name
+f'DlMalks'l—‘M' ' instalment if; :MyNewl-lerd ,r",
+Earliest Execution Time Latest Execution Time
+"04:2212010
+
+ 
+
+:Yesrvl‘ Cycle Commands?
+
+:‘(resivj Broadcast Commands?
+Maximum Total Executions For Herd
+Maximum Total Executions Per Bot
+
+Maximum Concurrent Executions For Herd
+
+£1 Maximum Concurrent Executions Per Bot
+fl I Delay Interval For Herd (seconds)
+in Delay Interval For Bot (seconds)
+
+ 
+
+Update UpdateAnclAcllvate , AddACommandSpec
+
+ 
+
+ 
+
+ 
+
+ 
+
