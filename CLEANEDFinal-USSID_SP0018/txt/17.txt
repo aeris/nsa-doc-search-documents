@@ -1,0 +1,58 @@
+DOCID: 4086222
+
+(U) Approval
+Authorities
+
+  
+
+information indicates that the US. PERSON may be engaged in
+the unauthorized disclosure of classified information.
+
+(3) (U) International Narcotics Activity. The information
+indicates that the individual may be engaged in international
+narcotics trafﬁcking activities. (See Annex J of this USSID for
+ﬁirther information concerning individuals involved in
+international narcotics trafficking).
+
+(4) (U) Criminal Activity. The information is evidence that the
+
+individual may be involved in a crime that has been. is being. or
+is about to be committed. provided that the dissemination is for
+law enforcement purposes.
+
+(5) (U) Intelligence TARGET. The information indicates that the
+US. PERSON may be the TARGET ofhostile intelligence
+activities ofa FOREIGN POWER.
+
+(6) (U) Threat to Safety. The information indicates that the
+identity ofthe U. S. PERSON is pertinent to a possible threat to
+the safety of any person or organization. including those who are
+TARGETS. victims or hostages of INTERNATIONAL
+TERRORIST organizations. Reporting units shall identify to §|_2
+any report containing the identity of a U. S. PERSON reported
+under this subsection (6). Field reporting to ﬂ should be in the
+form of a CRITICOMM message and include the report date-
+time-group (DTG)- product serial number and the reason for
+inclusion ofthe U.S. PERSON'S identity.
+
+(7") (U) Senior Executive Branch Ofﬁcials. The identity isthat of
+a senior official of the Executive Branch ofthe U. S.
+
+Government. In this case only the official's title will be
+disseminated. Domestic political or personal information on such
+individuals will be neither disseminated nor retained.
+
+ 
+
+13. (U) Approval authorities for the release ofidentities of U. S. persons under
+Section 7 are as follows:
+
+a. (U) DIRNSA/CHCSS. DIRNSAJCHCSS must approve dissemination
+
+of:
+
+(l) The identities ofany senator. congressman. ofﬁcer. or
+employee ofthe Legislative Branch ofthe U. S. Government.
+
+ 
+

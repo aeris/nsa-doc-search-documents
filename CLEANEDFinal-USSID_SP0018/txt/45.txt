@@ -1,0 +1,49 @@
+DOCID: 4086222
+
+   
+
+US'SI'D $130618
+ANNEX H - (U) CONSENT FORMS
+
+SECTION I — (U) PURPOSE
+
+(U) Forms
+
+H1. 1. (U) The forms set torth in this Annex have been approved by the National
+Security Agency’s Ofﬁce of General Counsel (NSA OGC) to obtain and record
+the express consent of a U. S. person for elements of the United States SIGINT
+System (USSS) to collect and disseminate communications ot‘or concerning that
+person for foreign intelligence purposes. to include but not limited to force
+protection. hostage recovery. and other like purposes.
+
+H12. (Uri-F968) Forms 1 and 2 can be used to obtain and record consent to
+collect and disseminate a U. S. person‘s communications as well as references to
+the US. person in communications. Forms 3 and 4 only provide consent to collect
+and disseminate references to the US. person but neither Form 3 nor Form 4
+provides consent to collect communications to or from the US. person who has
+executed the form. Each form contained in this Annex may be reproduced.
+provided the security classiﬁcations (top and bottom) are removed. It is the
+responsibility of the user to properly reclassify the consent form that is suitable to
+the user’s purposes in accordance with requisite security guidelines and
+operational considerations ofthe customer whom the USSS is supporting.
+
+H13. (U) Section 4.1.c. of United States Signals Intelligence Directive SPUUIS
+states that the Director of NSA (DIRNSA) has authority to approve the consensual
+collection ofcommunications to. from- or about US. persons. Elements ofthe
+USSS proposing to conduct consensual collection should forward a copy of the
+executed consent form and any pertinent information to the DIRNSA (or to the
+Senior Operations Officer of the National Security Operations Center) for
+approval of the proposed consensual collection activity. NSA OGC must also be
+notified promptly of the proposed collection activity.
+
+Hl.4. (U) If operational circumstances dictate. consent may be obtained orally or
+may be recorded on a term other than one ofthe forms contained in this Annex.
+However. any other form or method that is used to obtain and record a US.
+person’s consent for elements ofthe USSS to collect and disseminate
+communications of or concerning that person must be reviewed and approved by
+NSA OGC.
+
+CONSENT FORM l
+
+ 
+

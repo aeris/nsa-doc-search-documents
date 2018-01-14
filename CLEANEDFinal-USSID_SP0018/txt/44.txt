@@ -1,0 +1,56 @@
+DOCID: 4086222
+
+     
+
+_.' n'
+
+the Foreign Intelligence Surveillance Act (FISA) (see Annex A) will not be collected for
+training purposes.
+
+.-' n'
+
+ 
+
+ 
+
+ 
+
+(ll) Training (33.1. (U) The training ofUSSS personnel in the operation and use of SIGINT collection
+Guidance and other surveillance equipment shall include guidance concerning the requirements and
+restrictions ofthe FISA . Executive Order 12333. and this USSID.
+
+G32. (U) The use of SlGlNT collection and other surveillance equipment for training
+purposes is subject to the following limitations:
+
+a. (U) To the maximum extent practical, use of such equipment for training
+purposes shall be directed against otherwise authorized intelligence targets;
+
+b. (U) The contents of private communications ofnonconsenting US. persons may
+not be acquired unless the person is an authorized target of electronic surveillance;
+and
+
+c. (U) The electronic surveillance will be limited in extent and duration to that
+necessary to train personnel in the use of the equipment.
+
+(33.3. (U) The limitations in paragraph G32. do not apply in the following instances:
+
+a. (U) Public broadcasts, distress signals, or ofﬁcial United States Government
+communications may be monitored, provided that, where government agency
+communications are monitored, the consent of an appropriate ofﬁcial is obtained;
+and
+
+b. (U) Minimal acquisition of information is permitted as required for calibration
+purposes.
+
+G34. (U) Information collected during training that involves authorized intelligence
+targets may be retained in accordance with Section 6 of this USSID and disseminated in
+accordance with Section T of this USSID. Information other than distress signals collected
+during training that does not involve authorized intelligence targets or that is acquired
+inadvertently shall be destroyed as soon as practical or upon completion of the training and
+may not be disseminated outside the USSS for any purpose. Distress signals should be
+referred to the SIGINT Director.
+
+ 
+
+ 
+

@@ -1,0 +1,66 @@
+DOCID: 4086222
+
+all wiretaps in the United States. the acquisition of certain radio
+communications where all parties to that communication are located in the
+United States. and the monitoring of information in which there is a reasonable
+expectation ofprivacy.
+
+A|.3. (U) The M requires that all such surveillances be directed only at foreign
+powers and their agents as deﬁned by the Act and that all such surveillances be
+authorized by the United States Foreign Intelligence Surveillance Court. or in
+certain limited circumstances. by the Attorney General.
+
+ 
+
+SECTION 2 — (U) GENERAL
+
+ 
+
+ 
+
+an
+PROCEDURE
+AND
+STANDARDS
+
+A2.l. (U) Procedures and standards for securing Court orders or Attorney
+General certiﬁcations to conduct electronic surveillances are set forth in the A_ct
+Requests for such orders or certiﬁcations should be forwarded by the
+appropriate Key Component through the NSA GC to the DIRNSAKCHCSS and
+should be accompanied by a statement ofthe facts and circumstances justifying
+a belief that the target is a foreign power or an agent of a foreign power and that
+each of the facilities or places at which the surveillance will be directed are
+being used. or are about to be used. by that foreign power or agent.
+
+A22. (U) Ifthe proposed surveillance meets the requirements of the A_ct and the
+Director approves the proposal. attorneys in the OGC will draw the necessary
+court application or request for Attorney General certiﬁcation.
+
+ 
+
+SECTION 3 - (U) MINIMIZATION PROCEDURES
+
+(ll) Su rveillauces
+
+A3_l. (UH-F666)- Surveillances authorized by the A_ct are required to be carried
+out in accordance with the A_ct and pursuant to the court order or Attorney
+General certiﬁcation authorizing that particular surveillance. In some cases. the
+court orders are tailored to address particular problems. and in those instances
+the NSA attorney will advise the appropriate NSA offices ofthe terms ofthe
+court's orders. In most cases. however. the court order will incorporate without
+any changes the standardized minimization procedures set forth in Appendix 1.
+
+SECTION 4 - (U) RESPONSIBILITIES
+
+ 
+
+(U) General
+Counsel
+Responsibilities
+
+A4.|. (U) The (3_( will review all requests to conduct electronic surveillances as
+defined by the A_ct. prepare all applications and materials required by the A_ct.
+and provide pertinent legal advice and assistance to all elements of the United
+
+ 
+

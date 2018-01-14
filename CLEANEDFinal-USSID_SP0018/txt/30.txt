@@ -1,0 +1,59 @@
+DOCID: 4086222
+
+(11) Publicly available information means information that a member ofthe public could obtain on request. by
+research in public sources. or by casual observation. (U)
+
+(i) Technical data base means information retained for cryptanalytic. traffic analytic. or signal exploitation
+
+purposes (#666)-
+
+(i) United States person means a United States person as deﬁned in the Act. The following guidelines apply
+in determining whether a person whose status is unknown is a United States person: (U)
+
+(l) A person known to be currently in the United States will be treated as a United States person unless
+positively identified as an alien who has not been admitted for permanent residence. or unless the nature or
+circumstances ofthe person's communications give rise to a reasonable belief that such person is not a United
+States person. (U)
+
+(2) A person known to be currently outside the United States. or whose location is unknown. will not be
+treated as a United States person unless such person can be positively identified as such. or the nature or
+circumstances ofthe person's communications give rise to a reasonable beliefthat such person is a United States
+person. (U)
+
+(3) A person known to be an alien admitted for permanent residence loses status as a United States person if
+the person leaves the United States and is not in complianc c with Title 3. United States Code. Section 1203
+enabling re-ently into the United States. Failure to follow the statutory procedures provides a reasonable basis
+
+to conclude that the alien has abandoned any intention ofmaintaining his status as a permanent resident alien.
+(U)
+
+(4) An unincorporated association whose headquarters or primary ofﬁce is located outside the United States
+is presumed not to be a United States person unless there is information indicating that a substantial number of
+
+its members are citizens ofthe United States or aliens lawﬁllly admitted for permanent residence. (U)
+
+SECTION 3 - ACQUISITION AND PROCESSING - GENERAL (U)
+
+ 
+
+(a) Acquisition (U)
+
+The acquisition ofinf'ormation by electronic surveillance shall be made in accordance with the certiﬁcation
+of the Attorney General or the court order authorizing such surveillance and conducted in a manner designed. to
+the greatest extent reasonably feasible. to minimize the acquisition of information not relevant to the authorized
+
+purpose of the surveillance-($669)-
+
+(b) Verification 1U)
+
+At the initiation ofthe electronic surveillance. the NSA or the Federal Bureau oflnvestigation. ifproviding
+operational suppoﬂ- shall verify that the communication lines or telephone numbers being targeted are the lines
+or numbers ofthe target authorized by court order or Attorney General certification. Thereafter. collection
+personnel will monitor the acquisition of raw data at regular intervals to verify that the surveillance is not
+avoidably acquiring communications outside the authorized scope ofthe surveillance or information concerning
+United States persons not related to the purpose of the surveillance-($668)—
+
+(c) Monitoring. Recording. and Processing (U)
+
+ 
+
