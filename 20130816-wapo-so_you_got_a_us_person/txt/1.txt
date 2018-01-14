@@ -1,0 +1,82 @@
+ 
+
+ 
+
+ 
+
+    
+
+(U/I‘F UO)
+
+UNCLASSIFIED/[F OR OFFICIAL USE ONLY
+
+(U) Lesson 4: So you got U.S. Person Information?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+How? What did you do? What do you do now? Comment
+
+Intentional You deliberatelytargeted U.S. Person SiOP collection immediately! You mayn_ot target, collect, or disseminate
+
+communications without authority. Cancel reports based on that collect. U.S. person information without additional
+Notify your supervisor or auditor. authority.
+Write up an incident report immediately. If collect on U.S. Person is needed, seek
+Submit the incident write-up for inclusion in your additional authority if eligible and a Valid
+organization’s IG Quarterly input. foreign Intelligence reqUIrement.
+
+Inadvertent You tasked/queried in raw SIGINT on a Stop collection immediately! if collect on U-S- Person is needed, seek
+target you believed to be foreign_ You Cancel reports based on that collect. additional authority If eligible and a valid
+
+Write up an incident report immediately.
+Submit the incident write-up for inclusion in your
+organization’s IG Quarterly input.
+
+Incidental You targeted a legitimate foreign entity Apply USSiD SP0018 minimization procedures. This does not constitute a USSID SP0018
+and acquired information/ Focus your report on the foreign end of the violation, so it does not have to be reported
+communications to/from/about a U.S. communication. in the IG quarterly.
+
+Person in your results. Obtain dissemination authority if you know your
+customer set requires the U.S. Person identity up
+front.
+
+Reverse You targeted a foreign entity who you SiOP collection immediately! You may n_ot reverse target.
+know communicates with a U.S. Person Cancel reports based on that collect. If collect on U.S. Person is needed, seek
+on a regular _baS_'S JUSthO you can get Notify your supervisor or auditor. additional authority if eligible and a valid
+the communications 0 the U'S' Person. 0 Write up an incident report immediately. foreign Intelligence requirement.
+
+Submit the incident write-up for inclusion in your
+organization’s IG Quarterly input.
+
+ 
+
+ 
+
+OVSC1400, Dual Authorities (SIGINT/ IA) Online Training Job Aid
+UNCLASSIFIED/[FOR OFFICIAL USE ONLY
+
+(U//FOUO)
+
+Revised: 11.01.2011
+
+ 
+
+  
+
