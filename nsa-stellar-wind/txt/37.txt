@@ -1,0 +1,43 @@
+SIT-0.10002
+WORKING DRAFT
+
+TOP S E C R E Tf/S TL W//COMINT/0R CON/NOFORN
+
+engineering). Records included all call events from the companies’ long
+distance and international communication networks. The Call Detail
+Records were aggregated as large files by TS/SCI—eleared groups at
+COMPANY A and COMPANY B and forwarded, on an hourly or daily
+basis, across classiﬁed communications circuits to a PSPFrestricted NSA
+data repository.
+
+COMPANY A provided PSP-authorized CDRs as early as November 2001,
+and COMPANY B began to provide CDRs in February 2002. Both
+continued to provide this support through the end of the PSP, and support
+continues today under the FISC Business Records Order. COMPANY C
+provided select PEP-authorized CDRs from December 2002 through March
+2003.
+
+(TS/ISIHECU/NF) Internet Metadata. The last category of private sector
+assistance was access to Internet Protocol (11") metadata associated with
+communications of al Qaeda (and affiliates) from data links owned or
+operated by COMPANIES A, B, and C. in order to be a candidate for PSP
+IP metadata collection, data links were first vetted to ensure that the
+preponderance of communications was from foreign sources, and that there
+was a high probability of collecting al Qaeda (and afﬁliate)
+communications. NSA took great care to ensure that metadata was
+produced against foreign, not domestic, communications.
+
+(TSf/SI-Ele/NF) COMPANY A began providing PSP IP metadata
+collection as early as November 2001. Although COMPANY B began
+providing CD—ROMs of PSP IP metadata in October 2001, an automated
+transfer of data was not available until February-March 2002. The
+Presidential authority to collect IP metadata was terminated in March 2004.
+COMPANY A and COMPANY B [P metadata collection resumed after the
+FISC Pen Register/T rap dc Trace (PRJTT) Order authorizing this activity
+was signed on 15 July 2004. COMPANY C provided 1P metadata
+beginning in April 2005.
+
+TOP SE CRE T KS TL Wf/COMINT/ORCONWOFORN
+
+34
+

@@ -1,0 +1,51 @@
+S3109-0002
+WORKING DRAFT
+
+TOP SE CRE TITS T L W//COMINT/0RCON/NDFORN
+
+(TSf/SI/IN F) Upon conﬁrmation that formal NSA letters requesting their
+assistance were forthcoming, the providers, acting independently and
+officially unaware of the cooperating agreements with other companies,
+initiated collection to support the PSP.
+
+(TSI/SWN F) 2002: In early 2002, NSA 380 personnel met with the Senior
+Vice President of Government Systems and other employees from
+COMPANY E. Under the authority of the PSP, NSA asked COMPANY E
+to provide call detail records (CDR) in support of security for the 2002
+Olympics in Salt Lake City. On 1] February 2002, the company’s CEO
+agreed to cooperate with NSA. On 19 February 2002, COMPANY E
+submitted a written proposal that discussed methods it could use to
+regularly replicate call record information stored in a COMPANY E facility
+and potentially forward the same information to NBA. Discussions with
+COMPANY E continued in 2003. However, the COMPANY B General
+Counsel ultimately decided not to support NSA.
+
+(TSUSI/INF) On 5 September 2002, NBA legal and operational personnel
+met with internet provider COMPANY D’s General Counsel to discuss the
+PSP and ask for the company‘s support. COMPANY D provided support,
+but it was minimal. (For a description of COMPANY D’s support, see
+page _, “What Providers Fumished.").
+
+{TS/ISl/INF) On 29 October 2002, NSA legal and operational personnel
+met with internet provider COMPANY F ’s Legal and Corporate Affairs
+personnel, and a former NSA OOC employee hired by COMPANY F as
+independent counsel. NSA requested COMPANY F’s support under the
+PSP for email content. At the meeting, COMPANY F requested a letter
+from the Attorney General certifying the legality of the PSP. In December
+2002, NSA’s Commercial Technologies Group was informed that the
+company’s CEO agreed to support the PSP. According to NSA’s General
+Counsel, COMPANY F did not participate in the PSP because of corporate
+liability concerns.
+
+(TS/ISIHNF) 2003: In April 2003, NSA legal and Operational personnel
+met with the President and Chief Operating Officer, General Counsel, and
+other personnel from private sector COMPANY G. Alter the meeting, the
+company’s General Counsel wanted to seek the opinion of outside counsel.
+NSA determined the risk associated with additional disclosure outweighed
+what COMPANY G would have provided. NSA decided to not pursue a
+partnership with this company.
+
+TOP S E C RE TIC/S TL W//COMIN T /OR (I'Ol‘MVIr OFDRN
+
+30
+

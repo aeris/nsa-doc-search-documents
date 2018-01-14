@@ -1,0 +1,56 @@
+Background
+
+TOP SECRET/XS TL Wl/C 0M1 N T /0R CONﬂV 0F ORN
+
+S1109-0002 WORKING DRAFT
+
+I. (U) INTRODUCTION
+
+ 
+
+(U) This Report
+
+(UJ/FOUO) On 4 October 2001, President George W. Bush issued a
+memorandum entitled “AUTHORIZATION FOR SPECIFIED
+ELECTRONIC SURVEILLANCE ACTIVITIES DURING A LIMITED
+PERIOD TO DETECT AND PREVENT ACTS OF TERRORISM
+WITHIN THE UNITED STATES.” The memorandum was based on the
+President’s determination that aﬁer the 11 September 2001 terrorist attacks
+in the United States, an extraordinary emergency existed for national
+defense purposes.
+
+(TS/ISI/J’ORJNF) The 4 October 2001 Presidential authorization delegated
+authority to the Secretary of Defense, who further delegated it to the
+Director of National Securitv A 'cnc (Chief. Central Securitv Service
+ENSNQL-ICSSJ to conduct speciﬁed electmnic surveillance on targets
+related to Afghanistan and international terrorism for 30 days. Because the
+surveillance included wire and cable communications carried into or out of
+the United States, it would otherwise have required FISC authority.
+
+   
+
+(TS/fSlf/OR/NF) The Authorization speciﬁed that NSA could acquire the
+content and associated metadata of telephony and Internet communications
+for which there was probable cause to believe that one of the
+communicants was in Afghanistan or that one communicant was engaged
+in or preparing for acts of international terroriSm. In addition, NSA was
+authorized to acquire telephony and lntemet metadata1 for communicatious
+with at least one communicant outside the United States or for which no
+communicant was known to be a citizen of the United States. NSA was
+also allowed to retain, process, analyze and disseminate intelligence from
+the communications acquired under the authority. 3
+
+ 
+
+(Uf/FOUO) This report provides the classiﬁed results of the NSA Ofﬁce of
+the Inspector General (DIG) review of the President’s Surveillance
+Program (PSP) as mandated in the FISA Amendments Act (FAA) of 2008.
+It includes the facts necessary to describe from NSA’s perspective:
+
+' (U)Metadata is data that describes content, events, or networks associated with SlGl'NT targets.
+2 (U)The Authority changed over time. See Appendix B for details.
+
+WORKING DRAFT
+
+T 01’ SE CRE T f/S TL W/lCOMINT/ORCONWOFORN
+

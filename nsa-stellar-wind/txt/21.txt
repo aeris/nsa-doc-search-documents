@@ -1,0 +1,56 @@
+81109-0002
+WORKING DMFT
+
+TOP SE CRE T f/iS' T L W//COMIN T/ORCON/NOFORN
+
+(TS/ISl/ISTLW/INF) Initially, NSA responded to FBI and CIA information
+requests in encrypted email. These initial reports, sometimes called
+“Tippers” or “Snippets,” were “hidden in plain sight,” meaning the
+information in the report did not reveal the source of the information.
+Later, FBI and CIA wanted to understand how NSA knew certain
+information that could not be provided in normal reporting channels.
+Eventually, “tear line” reporting was established. Tear lines are used
+regularly by NSA as a way to report SIGINT—derived information and
+sanitized infonnation in the same report to appropriately cleared
+individuals. The sanitized “tear line” information conveys the same basic
+facts as the COMINT—controlled information while hiding COMINT as the
+source.
+
+(TSIISIIINF) Dissemination of SIGINT Product
+
+ 
+
+(TSI/SI/INF) Regardless of which organization submitted requests or leads
+to NSA, all resulting repOrts were sent to CIA and FBI. Reports answered
+speciﬁc RF I questions or provided new investigative leads developed from
+chaining analysis. Reports contained selectors of interest (potential leads)
+with potential terrorist connections, not full chaining results. NSA had
+minimal insight into how CIA and FBI used PSP products.
+
+(U) Discovery Requests
+
+ 
+
+(U) On occasion, the Department of Justice (DoJ) attorneys determine that
+the facts of a particular matterjustify a search of NBA ﬁles and submit a
+search request. In respous= to those requests or in response to discovery
+orders, NSA conducts a search of its databases to locate records that may
+fall within the scope of DoJ’s discovery obligations and Rule 16 of the
+Federal Rules of Criminal Procedure. Typically the search process begins
+with a written request from Do] including the names and aliases of
+individuals. NSA attorneys work with personnel trained in the retrieval of
+NBA reports to craft search strategies reasonably designed to identify
+reporting that may be responsive to the request. These search strategies are
+then used to perform electronic searches of NSA repositories of
+disseminated foreign intelligence reports. All responsive reports, to the
+extent any exist, are made available for review by DoJ.
+
+(TS/ISI) NSA searches only databases of reported intelligence and does not
+
+search databases containing acquired but not processed information (e.g.,
+raw trafﬁc) or acquired and processed but not reported or disseminated
+
+TOP SE CRE T //S T L W/JCOMIN T /0R CONN 0F URN
+
+18
+

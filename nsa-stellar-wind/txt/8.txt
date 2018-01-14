@@ -1,0 +1,60 @@
+TOP SE CRE 1W5 T L W/I’C OMIN T/OR C ONﬂV 0F URN
+
+WORKING DRAFT
+
+Millennium Threat. NSA proposed that it would perform contact chaining
+on metadata it had collected. Analysts would chain through masked U.S.
+telephone numbers to discover foreign cennections to those numbers,
+without Specifying, even for analysts, the U.S. number involved. In
+December 1999, the Department of Justice (DoJ),
+
+(OIPR) told NSA that the proposal fell within one of the
+FISA deﬁnitions of electronic surveillance and, therefore, was not
+permissible when applied to metadata associated with presumed U.S.
+persons (i.e., U.S. telephone numbers not approved for targeting by the
+FISC).
+
+    
+
+lli‘i'n ..: :ri illii'ltlyliiilt't.‘
+
+ 
+  
+
+(TS/ESI/INF) Collection gaps not adequately ﬁlled by FISA
+authorized intercept. NSA determined that FISA authorization did not
+allow suﬁicient flexibility to counter the new terrorist threat. First, it
+believed that because of technological advances, the jurisdiction of the
+FISC went beyond the original intent of the statute. For example, most
+communications signals no longer ﬂowed through radio signals-signals or
+via phone svstems as they did in 1973 when the FISA was written. By
+200], internet communications were used worldwide, undersea cables
+carried huge volumes of communications, and a large amount of the
+world’s communications passed through the United States. Because of
+language used in the Act in 1978, NSA was required to obtain court orders
+to target email accounts used by non-US. persons outside the United States
+if it intended to intercept the communications at a webmail service within
+the United States. Large numbers of terrorists were using such accounts in
+2001.
+
+(TS/fSII/NF) Second, NSA believed that the FISA process was unable to
+accommodate the number of terrorist targets or the speed with which they
+changed their communications. From the time NSA sent FISA requests to
+the Do], OIPR until the time data arrived at NSA, the average wait was
+between four and six weeks. Terrorists could have changed their telephone
+numbers or internet addresses before NSA received FISC approval to target
+them. NSA believed the large number of terrorist targets and their
+frequently changing communications would have overwhelmed the
+existing PISA process.
+
+(TSIISIIINF) Emergency FISA provision not an option. NSA
+determined that even using emergency FISA court orders would not
+provide the speed and ﬂexibility needed to counter the terrorist threat.
+First, although the emergency authorization provision permitted 72 hours
+of surveillance without obtaining a court order, it did not—as many
+believed—allow the Government to undertake surveillance immediately.
+Rather, the Attorney General had to ensure that emergency surveiIlance
+would ultimately be acceptable to the FISC. He had to be certain the court
+
+TOP SE CRE T //S TL W/fC 0M IN T fOR CON/N 0F ORN
+

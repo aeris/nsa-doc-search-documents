@@ -1,0 +1,49 @@
+TOP SE C RE Tl/S T L W//COMIN T/OR C ON/N 0F ORN
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+51109-0002
+WORKING DRAFT
+Approximate Number of Selectors Targeted for PSP Content Collection
+4 Oct 2001 to 17 Jan 2007 *
+U.S. Telephony
+U.8. E-mail
+(406)
+Foreign E-mail
+(19,000)
+(TS/ISI/JOCJ'NF)
+
+(TS/l SI/IN F) NSA leadership considered selectors for targets located in the
+United States to be extremely sensitive. As such, processes were set up to
+ensure strict compliance with the terms of the Authorization. The
+following describes the general process for tasking, collecting, storing and
+reporting telephony and Internet content under the PSP. (See Appendix F
+for a flowchart of the end-to-end process.)
+
+(TS/fSU/STLWI/NF) Taeking Approvals. Under the PSP, each domestic
+selector tasked for content collection was formally approved and tracked.
+Analysts submitted content collection requests, also called tasking
+packages, to the Chief of CT for approval. Tasking packages contained a
+narrative analysis, conclusion, supporting information, documentatiOn, and
+a checklist of package contents. In the Chief 's absence, the Deputy Chief
+of CT or the Program Manager could approve the requests. The approving
+officials reviewed the tasking packages to ensure that the proposed target
+and related meradata selectors met criteria in the Authorization. If criteria
+were not met, the ofﬁcials requested additional information or denied the
+request. In limited cases, collection was approved for speciﬁc time
+periods. If the content contained foreign intelligence, the time period for
+collection would be extended. If it did not, collection was stopped. All
+approvals were documented in tasking packages.
+
+TOP SE C RE T IS T L W/ICOMIN T /0R CON/N OF GEN
+
+16
+

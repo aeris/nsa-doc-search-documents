@@ -1,0 +1,54 @@
+(U) Content
+
+TOP SECRE T//S TL W//COMINT/0RCONWOFORN
+
+WORKING DRAFT
+
+(TS/ISU/NF) Storage. NSA stored metadata obtained under PSP
+authorities in a protected database. Only cleared and trained analysts were
+given access to PSP metadata.
+
+(TS/ISI/IOCfNF) Reporting. Reports based on metadata analysis were
+typically referred to as “tippers.” Tippers contained contact chaining
+analysis results relevant to terrorism or with potential links to terrorism that
+warranted the attention of the FBI or the CIA for further investigation.
+Before releasing reports with US. person informatiOn, analysts obtained
+permission to do so in accordance with established NSA dissemination
+procedures.
+
+(TS/KSl/IOCIN F) For each published report, NSA retained documentation
+of the analysis, supporting RF 1 or lead information, and a justiﬁcation
+statement explaining the link to terrorism. If a report was not published,
+documentation was not retained. Counterterrorism personnel manually
+updated information in a computer tracking system to reflect the
+disposition of chaining requests.
+
+(TS/ISI/INF) Collection and analysis of content is NSA’s traditional wav of
+reporting meane—e-f—eeedrret—in-g SIGINT. Content generally refers to words
+spoken during a telephone conversation or the written text of an email
+message. NSA collection of the content of telephony and Internet
+communications under the PSP improved its ability to produce intelligence
+on terroristnrelated activity. For example, by allowing NSA access to links
+carrying communicatiOns with one end in the United States, NSA
+significantly increased its access to transiting foreign communications, i.e.,
+with both communicants outside the United States. General Hayden
+desoribed this as “the real gold of the Program." And, by allowing the
+intercept of international communications, NSA was able to identify threats
+within the United States.
+
+(TS/ISIUNF) From the start of the Program until January 2007, NSA issued
+490 reports based on PSP-derived content information. Also, as shewn
+below, approximately 37,664 telephony and Internet selectOrs were tasked
+for
+
+PEP-authorized content collection during that time period. Only 3 percent
+were U.S. targets. The vast majority
+
+(92 percent) were foreign.
+
+(TS/1‘ SI/IOCfN F)
+
+TOP SE CRE T//S T L Wf/COMINT/ORCONJNOFORN
+
+15
+
