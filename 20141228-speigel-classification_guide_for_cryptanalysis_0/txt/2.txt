@@ -1,0 +1,92 @@
+TOP SE CRET/fCO MINT/1’20 29 1 123
+
+(U/IFOUO) CLASSIFICATION GUIDE TITLE/NUMBER: CRYPTANALYSIS Guide 02- 12
+(U) PUBLICATION DATE: 13 September 2005
+
+(U) OFFICE OF ORIGIN: Cryptanalysis 81 Exploitation Services (S31)
+
+(U/IFOUO) POC: S3109
+S3109
+
+(U/IFOUO) PHONE: l963-4871
+963-5209
+
+(U/IFOUO) ORIGINAL CLASSIFICATION AUTHORITY:
+— Chief/Cryptanalysis 81 Exploitation Services (S31)
+
+Description of Information Classification:I Reason Declass Remarks
+
+ 
+
+Markings
+1. (U) The fact that NSA/CSS exploits UNCLASSIFIED N/A N/A
+cryptographic information security devices
+and systems.
+
+ 
+
+2. (C) The fact that NSA/CSS works with CONFIDENTIAL 1.4 (c) 20291123
+Second Party partners on exploiting
+cryptographic information security devices
+and systems.
+
+ 
+
+3. (S) The fact that NSA/CSS works with SECRET 1.4 (c) 20291123
+unspecified Third Party partners on
+exploiting cryptographic information
+security devices and systems.
+
+ 
+
+4. (U) The fact that NSA/CSS exploits UNCLASSIFIED N/A N/A
+unintended cryptographic vulnerabilities in
+commercial or indigenous information
+security devices and systems, as long as
+neither the vulnerability nor the targeted
+device/ system is identified.
+
+ 
+
+5. (TS// SI) The fact that NSA/CSS makes TOP SECRET/1’ 1.4 (c) 20291123 (U) Specifying the specific system
+cryptographic modifications to commercial COMINT is protected by an ECL.
+or indigenous cryptographic information at a minimum
+
+security devices or systems in order to
+make them exploitable.
+
+ 
+
+ 
+
+6. (U) The fact that NSA/CSS has UNCLASSIFIED N/A N/A (U) Additional details will raise
+cryptanalytic techniques to exploit the classification and may be
+cryptographic components of commercial protected by an ECI.
+or indigenous information security devices
+or systems.
+
+7. (C) The fact that NSAJCSS has the ability CONFIDENTIAL 1.4 (c) 20291123 (C) Details of CV recovery are
+to recover cryptovariables used to exploit protected by an ECI.
+commercial or indigenous cryptographic
+information security devices or systems. (C) Specifying a specific system
+
+for which we can recovery CVs is
+protected by an ECI.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+TOP SE CRET/fCO MINT/1’20 29 1 123
+

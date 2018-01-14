@@ -1,0 +1,67 @@
+TOP SE CRET/fCO MINT/1’20 29 1 123
+
+ 
+
+Description of Information Classification/ Reason Declass Remarks
+Markings
+8. (U) The fact that NSAJCSS successfully UNCLASSIFIED N/A N/A (U) Additional details will require
+exploits cryptographic components of the classification and may be
+commercial or indigenous cryptographic protected by an ECI.
+
+information security devices or systems
+without specifying the device or system.
+
+ 
+
+9. (U/lFOUO) The fact that NSAJCSS TOP SECRET// 1.4 (c) 20291123 (U) Additional details may be
+successfully exploits cryptographic COMINT protected by an ECI.
+components of commercial or indigenous at a minimum
+
+cryptographic information security devices
+or systems when the device or system is
+
+ 
+
+specified.
+
+10. (TS) The fact that NSA/CSS obtains TOP SECRET 1.4 (c) 20291123 (C) Identification of the system or
+cryptographic details of commercial at a minimum company is protected as COMINT
+cryptographic information security systems and ECI.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+through industry relationships.
+
+ 
+
+ 
+
+(U) DEFINITIONS:
+
+(U/IFOUO) Information security device or system: A device or system that provides any of the following services for
+communications or information systems: confidentiality, data integrity, authentication and authorization.
+
+(Ul/FOUO) Cryptanalytic vulnerability: A flaw in the design, implementation or system integration of cryptography used in an
+information security device, or a flaw in the way that a cryptographic information security device is used.
+
+(Ul/FOUO) Unintended cryptographic vulnerability: Security is less than advertised by the manufacturer.
+
+(U/IFOUO) Indigenous: Non-commercial cryptographic information security system or device developed by a SIGINT target.
+
+ 
+
+ 
+
+(U/lFOUO) If you have any questions about the content of this page, contactl D032,
+
+3
+TOP SE CRET/i’CO MINT/1’20 29 1 123
+
