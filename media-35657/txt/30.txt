@@ -1,0 +1,34 @@
+ 
+
+Networking Fundamentals
+
+ 
+
+ 
+
+- Describe the following network component/terms:
+
+— Proxy Server:
+
+- An intermediary computer that completes application network requests on behalf of a
+host
+
+— Router
+
+- A layer 3 device used to route traffic between networks
+— File Server
+
+- A server dedicated to the hosting and sharing of files.
+— Perimeter Network
+
+° The network segment located between LAN and Internet, used to place Internet facing
+services like Web and Mail Servers.
+
+— Internet
+- The aggregate of publicly connected networks implementing the IP addresses
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 30
+

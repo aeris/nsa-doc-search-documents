@@ -1,0 +1,29 @@
+ 
+
+TCP Flags
+
+ 
+
+ 
+
+- Define and briefly describe the use of the following TCP flags:
+
+— SYN: Used to initialize the TCP by setting the packet sequence number
+— ACK: Used to acknowledge receipt of all package sequences up the number indicated
+
+— PSH: Indicates that that all data already received should be given to the application as soon
+as possible. Flushes the buffer.
+
+— URG: Urgent Data. Commonly used for interrupts.
+
+— FIN: Indicates there is no more data to send from that end of the connection. Session
+closes after both ends acknowledge FINs
+
+— RST: Immediate termination of connection. Commonly used to indicate unavailable
+service.
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 41
+

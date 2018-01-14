@@ -1,0 +1,42 @@
+ 
+
+Networking Fundamentals
+
+ 
+
+ 
+
+- Describe the location of the following components in a simple networked
+environment:
+
+Proxy Server
+Router
+Firewall
+Workstation
+DMZ
+
+Switch
+
+DMZ Segment
+
+   
+
+”FOP-9.0.93
+
+  
+
+Internal
+Network
+
+a
+“‘ \u
+
+    
+
+ 
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 33
+

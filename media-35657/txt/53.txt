@@ -1,0 +1,24 @@
+ 
+   
+  
+   
+   
+
+TELNE T
+
+ 
+
+ 
+
+- Discuss the following as it pertains to TELNE T:
+
+— Use: Create a Network Virtual Terminal session on a
+— Type of connection: TELNE T uses TCP as the
+
+— Default port number: 23
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+H 53
+

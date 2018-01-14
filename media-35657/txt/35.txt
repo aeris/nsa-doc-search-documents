@@ -1,0 +1,30 @@
+ 
+
+Networking Fundamentals
+
+ 
+
+ 
+
+- Define the following application protocols/services and identity their port
+numbers:
+
+— Telnet: TCP 23
+— NTP (Network Time Protocol): TCP/UDP 123
+
+— NetBEUI (NetBIOS Extended User Interface): Non routable transport protocol used in pre-
+WinXP LAN’s.
+
+— Net BIOS (Network Basic Input/Output System): TCP/UDP 139
+— FTP (File Transfer Protocol): TCP 21
+— POP3 (Post Office Protocol 3): TCP 110
+— RPC (Remote Procedure Call):
+- SUN/UNIX: TCP 111, 32771
+- WIN: TCP/UDP 135
+— HTTP (Hypertext Transfer Protocol): TCP 80
+
+ 
+
+— NA VIOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 35
+

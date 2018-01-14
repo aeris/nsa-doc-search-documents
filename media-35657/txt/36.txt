@@ -1,0 +1,34 @@
+ 
+    
+
+Networking Fundamentals
+
+ 
+
+ 
+
+- Define the following application protocols/services and identity their port
+numbers (continued...) :
+
+— SM TP (Simple Mail Transfer Protocol): TCP 25
+— DNS (Domain Name System): TCP/UDP 53
+— SNMP (Simple Network Management Protocol): UDP 161
+
+— SSL (Secure Socket Layer): Presentation Layer protocol for use by applications to secure
+communications
+
+— SSH (Secure Shell): TCP 22
+
+— TFTP (Trivial FTP): UDP 69
+
+— H TTPS (HTTP Secure): TCP 443
+
+— FTPS 0:
+
+— DHCP (Dynamic Host Configuration Protocol): UDP 67
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 36
+

@@ -1,0 +1,36 @@
+ 
+
+Protocol Headers
+
+ 
+
+ 
+
+- Define and describe the structure of the following protocol headers:
+
+ 
+
+ 
+
+ 
+
+ 
+
+— UDP
+n 15 1E. ___ . :n
+iﬁrbit source pm't numbEf 1t'rhit destination port number T
+BhftEﬁ
+16-bit UDPngth l-Erbit UﬂPchc-cksum : l
+3" data {tinny-J: f
+
+ 
+
+ 
+
+ 
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 44
+

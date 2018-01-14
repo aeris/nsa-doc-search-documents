@@ -1,0 +1,54 @@
+ 
+
+Protocol Headers
+
+ 
+
+ 
+
+- Define and describe the structure of the following protocol headers:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+— IP 1: 15 16 ___ H _ “—31
+”:3: ‘ﬁjgmw H-hittytpgfervim Jﬁrbillnlalulength {in bytes}
+____ “__- 15-bu Ldenﬁﬁcan'un at; a 13+“ Fra;;lﬂf;t-—
+3"“ WET “"9 3-bit pram-ml. 115-bit header MRS-um 1K} harm's
+_ I
+32-bits-Jum1F address
+----- — 32-bit destination IF add resa-
+d} nptinmi UE any] — I a?
+
+ 
+
+ 
+
+ 
+
+1 date: I
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+H 42
+
+ 
+
+ 
+

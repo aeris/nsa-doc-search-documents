@@ -1,0 +1,94 @@
+ 
+
+VLAH:
+
+PLAIN TEXT 11':
+112.31.255.11
+13w: 112.31.: 55.14
+NE'I'MASK: 255.255.255.240
+\I'LAN: £11
+
+IF:
+
+ 
+
+   
+      
+   
+
+ 
+   
+
+ 
+
+     
+ 
+  
+   
+   
+ 
+ 
+       
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+I
+I
+I
+' I
+' I
+' I
+I ' DIREC IONAL
+ANTENNA (Mlssloh
+I I Conﬁgurable Mast)
+I I '
+OMNIDIRECTIONAL
+I ANTENNA [#2
+I Scope)
+' I
+' I
+I RFDU
+I PASSIVE
+EEEIIENT
+I WIRELESS ACTIVE SEGMENT
+I USS ADAPTOR. WIRELESS
+FLAINTEXT ADAPTOR
+I | ANNAPOLIS g;
+I SSN "1'30 NEH-1.5519
+FIRST IIIIILE GATEWAV SERVER I 111.1111:
+IP: 112.31.255.14
+l SEM‘I1231255J I ROC / TAO
+I . SK. 255.255.255.21“) _ _ _ _ _ _ _ _ _ _ _
+VLAN: «1 «155 .553 |
+I I «Ew-
+I um:
+I “W“ _ BLINDDATE
+I 5w
+I NEI'MASK:
+I I VLAII;
+I NRoc
+I COLLECTION I
+POSTION I
+I I
+I _ ENCRVPTED NETWORK
+I — LINENCRYF’TED NETWORK
+— REC-ENE ONLY
+I I — TRANSMITAND RECEIVE
+I
+.._____________________|
+NODE- 52mm [TI 11:: NAVYBHNDDA'I'E 5'15sz IMO - 1
+
+ 
+
+ 
+
+ 
+

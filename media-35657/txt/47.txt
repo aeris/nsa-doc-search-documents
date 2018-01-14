@@ -1,0 +1,28 @@
+ 
+
+ICMP
+
+ 
+
+ 
+
+- Discuss the following as it pertains to ICMP:
+
+— ICMP is a protocol that defines a collection of message types commonly used for network
+diagnostics.
+
+- Layer of the 08! model: ICMP (usually) consists of Layer 3 (Network) messages
+transported by IP.
+
+- Ping: Message Type 8 (request) and 0 (reply). Used to determine if a device is active
+on the network.
+
+- Traceroute: Uses a combination of the IP time-to-live (TTL) field and the ICMP
+messages 11 (time exceeded) and 3.3 (port unreachable) to determine the route a
+packet takes through the network.
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 47
+

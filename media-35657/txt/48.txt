@@ -1,0 +1,90 @@
+ 
+
+Routing Table
+
+ 
+
+ 
+
+- Discuss the routing table as it pertains to the router:
+
+— The Routing Table Stores What networks are reachable through each interface along with
+metadata about that route.
+
+111.1111} ’35:... 1o.2.o.o roe—H 10.3.0.1) ”at; 1o.4.o.o
+
+E11I h’F—l Flair;I c‘Eo
+
+31) S1}
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Rooﬁng Tobie Routing Tobie Rooting Tobie
+111.1111) E1) 1) 10.2.0.1] 3121 1) 1113.11.11 S1} 1)
+111.2111) 31} 1) 10.3.0.1} S1 1] 1114.11.11 E1) 1)
+111.3110 31} 1 10.4.0.1} S1 1 1112.111} 31) 1
+111.4111) 31} 2 10.1.0.1} S1} 1 1111.11.11 S1) 2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 48
+

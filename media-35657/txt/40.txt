@@ -1,0 +1,54 @@
+ 
+
+TCP 3-Way Handshake
+
+ 
+
+ 
+
+- Define and illustrate the TCP 3-Way Handshake
+
+— The 3-Way handshake is the method
+that all TCP sessions use to initialize
+
+ 
+
+ 
+
+ 
+
+connections and session parameters. It Cﬂmhel'ter A SENS '3 CTDUIIELE
+evnc I'IEII'IIIB MESS-HEB - EH3 I'I-EI-WE Q'ES
+fOIIOWS thesequence SYN: SYN-ACK,‘ tn E containing a that it received
+ACK. Application data can begin sending senumwa number: the measace by
+eeu=lﬂﬂ- Incremunttng
+
+with the final ACK packet.
+
+the sequence
+numbertcelled
+an "AEK'H. Italen
+
+ 
+
+Cnmnutel A receives eendc its :3er
+the Act: it etc-ecte and sequence;
+the connection is new ace=1ﬂ1.5yn=3nﬂ_
+
+ectahlieheu-
+
+.I'-'t|| cummuniuatiun wlll --——-+
+new sen-cl incremented
+sens and acts to ensure
+a good cert nectien.‘
+svn=1ﬂ2, ack=3ﬂ1.
+
+ 
+
+ 
+
+ 
+
+— NA VIOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 40
+

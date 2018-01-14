@@ -1,0 +1,34 @@
+ 
+
+Networking Fundamentals
+
+ 
+
+ 
+
+- Describe the following network component/terms:
+
+— Intranet
+- A private network not normally accessible through the internet.
+— Firewall
+
+- A mechanism to filter network traffic using rules based on attributes like source,
+destination, packet type, port, and session status.
+
+— IDS (Intrusion Detection System):
+- Network traffic analyzer that uses patterns to detect malicious activity.
+— TACACS (Terminal Access Controller Access Control System).
+
+- Provides authentication, authorization, and accounting control to network devices via
+central server.
+
+— RADIUS (Remote Authentication Dial In User Service)
+
+- Authentication protocol for remote users to access network resources via network
+access methods like Dial-in, VPN, DSL, and WAP.
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 31
+

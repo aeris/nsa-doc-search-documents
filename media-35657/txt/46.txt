@@ -1,0 +1,21 @@
+ 
+
+ARP
+
+ 
+
+- Discuss the following as it pertains to ARP:
+
+— ADDRESS RESOLUTION:
+
+- ARP (Address Resolution Protocol) facilitates the mapping between hardware
+addresses (MAC Address) and logical network addresses (IP Addresses). This
+
+mapping can be stored in a file or can determined through ARP broadcast requests on
+a local network.
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 46
+

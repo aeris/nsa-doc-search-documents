@@ -1,0 +1,72 @@
+ 
+
+TCP/IP
+
+ 
+
+ 
+
+- Discuss the following as it pertains to TCP/IP:
+
+— Number of bits in an IP address: 32
+— Number of octets contained in an IP address: 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ﬂ 3 Ilﬁ- 2'11 32
+Md IE:- H gill}
+I) "m E in El [2: 13-15] Close A Address.
+- Humor}. ID Haul ID
+1 u [bili 3 I'D I'H ”'5 hill-J Ell—155- E AL‘EL‘Ir-Hss
+'I Ilﬂl ﬂlfgﬂ TEE": Class C Address.
+I II Ilﬂ .I'Mrkuslﬂilmﬁdﬂﬂs CIUEE D Add'ﬁﬁ-ﬁ
+.1 I I l “Wilm1ﬂrlmm Elms E Adult-ea:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- va6 has 128 bits, roughly a 300 trillion 300 trillion more
+— 90, 000, 000,000,000,000, 000, 000,000,000 times the space of in4
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+b 50
+
+ 
+

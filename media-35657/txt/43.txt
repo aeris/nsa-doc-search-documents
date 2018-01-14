@@ -1,0 +1,75 @@
+ 
+    
+
+Protocol Headers
+
+ 
+
+ 
+
+- Define and describe the structure of the following protocol headers:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+— TOP [1 15 1t: 31
+T
+16-bit murte port number Ian-hit destinatiru'i port number
+32-bit sequence number
+Ell-bl: acknowledgnwnrnumbw 10 bugle:
+
+. Ll .I'i F R S F
+
+”“1”" mm H c 5 5 *r I lﬁ-bitwindﬂwsiae
+Icnglh {elm} G K H T N N
+
+16-bit TCP‘ checksum Iii-bl”: urgent pointer
+
+I
+
+ 
+
+ 
+
+4" uptinm [if any) i
+
+ 
+
+ 
+
+ 
+
+3 data {iEanyJ T
+
+ 
+
+ 
+
+— NA VlOCOM M land Center of Excellence for Non-Kinetic O tions —
+H 43
+
