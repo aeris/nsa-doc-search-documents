@@ -1,0 +1,18 @@
+TOP SECRET/lCOMINT/IRELTO USA,FVEY
+
+Library Reuse: CDR D PPF
+
+' TAO Common Data Receptor
+—‘ Access Control Point (ACP, C)
+—‘ SURPASSPIN Inner/Outer (SP-in, SP-out, Java)
+—‘ libftsk (FOGYNULL Technique Software Kit, C)
+' Turmoil Packet Processing Framework (C++)
+— Atomic Event Generator (AEG)
+—‘ Stateful Event Generator (SEG)
+—‘ Event Filter (EF)
+—‘ Packet-to-Packet Transform Engine (TE)
+
+October 16, 2008 TOP SECRET/lCOMlNT/IRELTO USA,FVEY
+
+ 
+

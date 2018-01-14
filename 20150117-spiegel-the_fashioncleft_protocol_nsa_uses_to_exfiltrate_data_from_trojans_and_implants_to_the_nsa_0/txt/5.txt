@@ -1,0 +1,60 @@
+IP Header
+
+TCP or UDP Header
+
+SA Payload
+
+TOP SECRET/lCOMINT/IRELTO USA,FVEY
+
+— Infrastructure Header (128 bytes)
+- RSA Encrypted w/ Infrastructure Public Key
+
+0 Contains SHA—1(INF—HDR), ID
+— ID ; Deployment—Id + Target—Id + Implant—Id
+
+— Implant Header (128 bytes)
+- RSA Encrypted w/ ID’s Public Key
+- Contains SHA—1(IMP—HDR)
+
+- 128—bit CV, MI, and CRC—16 checksum for
+Exfil/Metadata Block
+
+— EXfil/Metadata Block (variable)
+- RC6 Encrypted w/ CV ‘81 MI
+
+Minimum packet length = 344 bytes
+
+October 16, 2008
+
+FOQVNU
+|'|_|NN|:-AJS [3—D
+
+HSHELLGREV n—{j
+
+TOP SECRET/lCOMINT/IRELTO USA,FVEY
+
+M11113
+Dezlloyment—Id = OXOC‘
+Target-Id = 0xa1a£aaa4
+lrrolant-ld = 0xb1b2
+Packet-IF-Selecto' = 0x31
+Pacsez— F—Data = [']
+
+W
+Opcode = HOB
+lnsl-ld = OxOC
+Implant-Ve' = Oxd‘
+Encrypt-Mode = 0x02
+
+55w
+MataData-Len = IVL
+Data-Len = 0
+
+W
+ExfiI-ld = 0K000000e2
+E:-:fi-Type = Packet
+Time—ol-Intercept = Oxf‘DD
+Fiter-Id = 0x12
+
+ 
+
