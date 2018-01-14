@@ -1,0 +1,55 @@
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+- Co-Traveler Analytics
+—
+
+Background
+
+(TS//S|/RELTO USA, FVEY)- has developed two co—travel analytics: Fast Follower (FF) and
+Meet&Greet Spatial Chaining (MGSC). The FF analytic was initially designed to detect individuals who
+are following station personnel. Detailed non—SIGINT path data is collected consensually on the station
+personnel, and this reference path data provides the seeds for this analytic, which attempts to discover
+mobile GEO data indicating individuals that may be following the station personnel. The MGSC analytic
+is designed to detect meetings between high—value individuals and other entities.
+
+(TS//S|/REL TO USA, FVEY) The FF analytic begins by considering non—SIGINT reference paths for station
+personnel based on detailed knowledge of the entity’s location. Candidate followers are determined by
+identifying other individuals that have traversed some number of consecutive points (determined by the
+analyst) that match the reference path in space and time. The analyst also sets a parameter to specify
+the minimum distance that must be covered along a candidate path.
+
+(S//S|/REL TO USA, FVEY) The MGSC analytic is designed for ELKPRINTS data from smartphones. This
+analytic identifies sequences of consecutive location points close in time and combines them into a
+single data point. A maximum velocity movement parameter is applied to create a time window around
+each point representing the approximate time at which the individual was located there (as opposed to
+traveling to or from that location). Finally, co—travelers are identified by discovering pairs of selectors
+that meet the duration and distance thresholds set by the analyst as input parameters. Spatial chaining
+software aggregates and presents the meeting data, including the locations, times, and scoring metrics
+to the analyst.
+
+ 
+
+Status and Summary
+
+Status Source Data Caveats
+
+The MGSC analytics has been — Smartphone data from — Analytic designed for precise
+tested on real ELKPRINTS data, ELKPRINTS geolocation data (e.g., from
+but results have not been — Reference—path data (FF) smartphones)
+
+validated by operational — List of selectors (MGSC) — MGSC analytic would require
+analysts. the analyst to define a series of
+The FF analytic has been tested meetings
+
+on made-up data.
+
+PACT NGA-NSA GATC Analytic
+
+Background
+
+(TS//S|/REL TO USA, FVEY) The PACT analytic is a joint NSA—NGA effort to identify co—traveling Thuraya
+handsets. The effort was motivated by an increase in Thuraya phone usage by—
+—. SIGINT Geospatial Analysts were able to characterize the travel
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+

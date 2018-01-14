@@ -1,0 +1,67 @@
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+ 
+
+Status and Summary
+
+Status Source Data Caveats
+
+Analytic implemented and — Mobile CDRs and residing in — Requires Netezza (current
+tested at DSD. Netezza—based architecture. implementation)
+
+— Requires Renoir
+
+ 
+
+Future Work
+
+(S//S|/REL TO USA, FVEY) DSD would like to integrate key meeting locations into this analytic, such as
+safehouses. Plans are also underway to identify targets based on COMSEC behaviors such as identifying
+mobiles that are turned off right before convergence between two travel paths occurs.
+
+Geospatial Analysis Tradecraft Center (GATC) Opportunity Volume
+
+Analytic
+—
+
+Background
+
+(TS//S|/REL TO USA, FVEY) The opportunity volume analytic determines whether two entities (e.g.
+devices) could have been co—located by considering the possibility oftheir travel paths intersecting. The
+opportunity volume analytic requires pairs of event locations and times for each entity, and computes
+the possible locations and times in which the two entities could have been co—located. It does this by
+computing possible travel route surfaces for each entity between the specified events, using a travel
+cost surface computed from terrain, land cover, and road network data. These possible travel route
+surfaces include the temporal dimension (that is, the period of time in which the entity could have been
+at the given location); the intersection between these multidimensional surfaces represents the places
+and times during which the entities could have been co—located. The analytic was developed using GPS
+point event data, but the analytic actually uses a 1—km grid for the spatial resolution and a 15—minute
+period for the temporal resolution, so it can be applied to any data that can be expressed in these
+
+terms.
+
+Status and Summary
+
+Status Source Data Caveats
+
+Prototype service implemented — Geohashes of GPS point event — Requires event locations and
+
+on NGANet. Not yet ported to data. times for every selector.
+
+NSANet. — Designed for 1 km grid—based
+locations and 15 minute time
+intervals.
+
+— Co—travel capability would
+require analyst to define a series
+of meetings at specified
+locations.
+
+ 
+
+ 
+
+ 
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+

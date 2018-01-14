@@ -1,0 +1,57 @@
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+Background
+
+(TS//S|/REL TO USA, FVEY) The Café project involved TMAC, SSG, T1212, and $2|5 working in concert to
+develop both DNI and DNR cloud—based travel analytics. The absence of a cloud—based solution that
+could run over bulk data motivated this initiative. The Café objective was to merge the DNI and DNR
+analytics to create one complete co—travel analytic,- however the DNR co—traveler analytic, described
+below, is currently still under development.
+
+(TS//S|/REL TO USA, FVEY) The DNR cloud—based analytic considers all known targets (tasked in OCTAVE)
+that have traveled within a given date range (e.g., monthly roll—up to five month range), and attempts to
+find their co—travelers. Co—travelers are defined as individuals that were seen in the same area (currently
+defined by VLRs) around the same time as the targets. The output includes both tasked and untasked
+selectors as possible co—travelers with the tasked seeds. Each possible co—traveler is assigned a score
+that indicates the probability of co—travel with the seed. Higher scores are assigned to co—travelers that
+are seen at more ofthe same locations and closer in time (pairs are given one point if seen within one
+
+hour, and a half point if seen within two hours of each other).
+
+ 
+
+Status and Summary
+Status Source Data Caveats
+Analytic has been tested on — FASCIA data on GM—PLACE — Analytic only considers tasked
+FASCIA data on GM-PLACE — ”403 rows in the GM PLACE selectors as seeds
+
+CLOUDBASE table — Source data provided by VLRs
+Command line interface — CHALKFUN Enrichment (VLR — Co—travel events are rolled—up
+available to developers Country mapping) by the hour
+
+— CLOUDBASE Events (lMSl,|ME|)
+rounded to nearest hour
+
+ 
+
+Future Work
+
+(S//S|/REL TO USA, FVEY) Follow—on analysis could take advantage of FASTSCOPE reservation number
+feature which will return all co—travelers that travel on the same reservation number within a given time
+period (because reservation numbers are reused, a specific timeframe must be provided).
+
+Other Resources
+https://wiki.nsa.ic.gov/wiki/DNR Traveler
+
+https://wiki.nsa.ic.gov/wiki/DNR Co—Traveler
+
+https://wiki.nsa.ic.gov/wiki/DNR Travel Pattern
+
+DNR Co-Traveler Manual Analysis
+Taken from: httpszﬂncmd—
+
+satc01.ncmd.nsa.ic.gov/gambit/public/q/dnr co travel based on similiar cell ids over a time frame
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+16
+

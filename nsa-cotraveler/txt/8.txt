@@ -1,0 +1,54 @@
+ 
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+Future Work
+
+(TS//S|/REL TO USA, FVEY) The purpose ofthis service is to determine whether two entities could have
+been co—located given observed event locations for those entities. To detect co—travel, the analyst would
+need to define a series of meeting locations and times. The opportunity volume analytic could also
+provide a mechanism for vetting co—travel analytics by testing for possible co—location events along co—
+travel routes.
+
+— TMI Co-Traveler Analytic
+—
+
+Background
+
+(TS//S|/REL TO USA, FVEY) The — Track Mutual Information (TMI) cloud analytic
+was developed as a study under their graph analytics, alerting, and target development program. The
+analytic is oriented to work on 7 to 30 days worth of regional collection. It has been tested on RT—RG
+data from the - region. Instead of using GCID information as co—travel reference points, the
+analytic works cross—network by computing target ”closeness” based on the GCID Lat/Long GEO
+information and time. The Lat/Long information is obtained from RT—RG.
+
+(TS//S|/REL TO USA, FVEY) The analytic starts by computing event sequences of LAT, LONG, and time for
+each selector. These are called ”tracks”. It then computes a value that measures how far the selector
+has traveled in general. If the selector has not traveled outside a 20 to 50 km radius, the selector is not
+considered. Each eligible selector’s tracks are pairwise—compared to the others and a measure of
+similarity in time and space is computed.
+
+ 
+
+Status and Summary
+Status Source Data Caveats
+Initial development completed. — Sortinglead summaries of — Analytic only considers tasked
+In testing phase, not yet FASCIA data on GM—PLACE and selectors as seeds.
+operational GM- — Analytic does not consider
+— RT—RG regional GSM collection targets that do not travel outside
+- a 20 to 50 km radius.
+— Track dataset must be
+repopulated for each data
+update
+Future Work
+
+(TS//S|/REL TO USA, FVEY). would like to reduce processing by creating an index containing selectors
+whose tracks are near each other in space. To achieve this, future work may make use of a GEOAddress
+hashing algorithm that uses LAT/LONG information to group cell towers into clusters that are in the
+same region. This hash considers latitude and longitude only, and is agnostic to the targets’ service
+provider. It may be possible to also compare target tracks quickly by comparing these GeoAddresses.
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+ 
+

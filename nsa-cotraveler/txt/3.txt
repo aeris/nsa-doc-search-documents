@@ -1,0 +1,46 @@
+TOP SECRET//COM|NT//REL TO USA, FVEY
+Introduction
+
+(S//REL TO USA, FVEY) This short—term study overviews and documents key elements of the co—traveler
+analytics both under development and operational at NSA. Each section includes a brief description of
+the analytic, its status, source data, and caveats.
+
+(S//REL TO USA, FVEY) While each analytic was designed to operate on a particular type of data or a
+particular data format, many can likely be scaled to operate on other data sources. For instance,
+analytics designed for DNR GCID or VLR data might also apply to DNI Geolocation data.
+
+(SI/REL TO USA, FVEY) The process of documenting these analytics raised a series of important issues
+that not only distinguish the analytics from each other, but more importantly, shape the landscape
+that we must consider in moving forward to meet the analytic needs at NSA. Some ofthese issues are
+discussed in the next section.
+
+Issues and Questions
+
+Should a co-travel analytic consider where a GCID or VLR is physically located?
+
+0 Many GSM analytics use GCID information to identify co—travelers. If two selectors are seen
+at the same GCID around the same time, they are considered co—travel candidates. The
+analytic does not need to know where the GCID is physically located. However, if the
+individuals are using different network providers (e.g., T—Mobile and Verizon), they may be
+physically standing next to each other as their mobiles register with different cell towers.
+Co—travel analytics that do not consider the physical geo—locations of the towers will not
+discover individuals that are co—traveling on different networks.
+
+0 Analytics that make use of point data (e.g., Thuraya) necessarily need to consider
+geolocational data in order to determine distance from one point to another.
+
+Should incidental co-travelers be considered?
+
+0 There is a difference between incidental co—travel due to collective movement (individuals
+with similar travel behaviors but no other similarities) and functional group—based co—travel
+among individuals with behaviorally relevant relationships. CTCOP makes this definition
+explicit, but warns that we might not want to exclude seemingly incidental co—travelers
+simply because we are unaware oftheir relationship.
+
+0 Other factors, such as contact chains and target COMSEC behaviors (frequent power—down,
+handset swapping, SMS behavior), might assist in determining whether co—travelers are
+associated through their travel behaviors alone or through behaviorally relevant
+relationships.
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+

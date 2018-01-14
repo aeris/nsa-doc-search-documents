@@ -1,0 +1,51 @@
+ 
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+with GEO reference data (or geo—tagging where available). Because this data provides city—level location
+resolution, co—traveler candidates are assigned scores based on the extent to which they were seen in
+the same cities and on the same days as targets.
+
+(TS//S|/REL TO USA, FVEY) The second mode accepts a pattern representing target travel across
+spanning countries of interest (e.g.,—), and optionally, the days on which the countries
+were visited. In this mode, the TAC/Café/TMAC DNI Co—travel analytic in this mode identifies travelers
+that (at minimum) match the pattern. All candidates that match the pattern are regarded as possible
+co—travelers.
+
+(S//REL TO USA, FVEY) The result of these analytics is a QFD monthly roll—up that can be queried.
+
+ 
+
+Status and Summary
+Status Source Data Caveats
+Available to developers with — Tasked DNI selectors (U'I'I') — Tasked targets or travel
+access to Ghostmachine (GM- — Geotagged ASDF data patterns provided as input,-
+PLACE) — User—provided travel patterns results include tasked and
+untasked targets
+— Analytic operates at the
+country level to determine
+travel/city level for co—traveler
+determination, and designed to
+provide monthly QFD roll—up
+— Proxies and other shared |P
+settings can render |P
+geolocation susceptible
+Future Work
+
+(S//S|/REL TO USA, FVEY) The TAC/Café/TMAC DNI Co—traveler team also considered capabilities to
+enable follow—on queries utilizing CHALKFUN for convergence efforts to identify roaming handsets as
+possible DNI target co—travelers.
+
+Other resources
+https://ncmd—satc01.ncmd.nsa.ic.gov/gambit/public/q/dni travel analvtic cloud version
+
+https://wiki.nsa.ic.gov/wiki/Cafetravel dni co—travelers
+
+TAC/Café/TMAC DNR Co-Traveler Analytic
+Café Spin 2 (January — July 2012)
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+15
+
+ 
+

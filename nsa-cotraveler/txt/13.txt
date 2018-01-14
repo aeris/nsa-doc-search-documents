@@ -1,0 +1,61 @@
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+Scalable Analytics Tradecraft Center (SATC) Geospatial Lifelines Co-
+Travel QFD
+—
+
+Background
+
+(TS//S|/REL TO USA, FVEY) The geospatial lifelines QFD applies the concept of ”dwell times” to identify
+DNR co—travelers. Dwell times describe the time period spent at the beginning or ending destination. A
+location is considered a beginning or ending location if the dwell time at that location is greater than 2
+hours.
+
+(TS//S|/REL TO USA, FVEY) This QFD first generates geohashes using GSM event data, and then
+calculates transition lines indicating that a device traveled from one geohash to another. The result is a
+graph in which the geohashes represent nodes and the transitions represent links or edges. Clustering
+algorithms are applied to the graphs to determine locations and selectors of interest.
+
+(TS//S|/REL TO USA, FVEY) The geospatial lifelines represent the beginning and ending locations, as
+defined by their dwe|| times, and all other intermediate observations. The likeliness of co—travel along
+paths between starting and destination points is based on the following measurements: net distance,
+
+time oftransition (mins), speed (kph), Azimuth, and number of travel segments.
+
+ 
+
+Status and Summary
+
+Status Source Data Caveats
+
+Analytic tested on 90 days of — Geohashes of GSM event data — Analytic designed for GSM
+GSM event data from_ retrieved from FASCIA. data, but could be applied to
+_ other types of data
+
+Code is available through SATC, — Oriented to targets that remain
+but analytic is no longer under in one location for at least 2
+development. hours
+
+— Requires Geocoded source data
+for generating Geohashes
+
+ 
+
+Future Work
+
+(S//REL TO USA, FVEY) The code for this QFD is available through SATC, but the analytic is no longer
+under development. Ideas for future work before the project ended included adding acceleration and
+sinuosity to the computation.
+
+SSG Common lMSls Analytic
+—
+
+Background
+
+(S//S|//REL) The Common IMSIs Analytic is a model in SEDB JEMA finds SIM card activity seen on cell
+tower panels in multiple areas (e.g.— border crossings commonly used by traffickers). It makes use ofthe
+Tower QFD.
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+13
+

@@ -1,0 +1,54 @@
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+(S//S|//REL) Analyst inputs areas of interest and time range. The analytic returns an excel file with a list
+of IMSls seen in those areas at that time. It is enriched with OCTAVE tasking information. Limitations are
+that tower locations in OCTSKYWARD can be imprecise. Also, the SEDB Tower QFD summarizes IMSIs by
+LAIC by day. Summaries by MSISDN or IMEI are not available.
+
+Status and Summary
+
+Status Source Data Caveats
+
+Available in JEMA. —OCTAVE and FASCIA — Cell tower locations in
+OCTSKYWARD can be imprecise.
+— The SEDB Tower QFD
+summarizes |MS|s by LAIC by
+day.
+— Summaries by MSISDN or IMEI
+are not available.
+
+ 
+
+ 
+
+Additional Information
+https://wiki.nsa.ic.gov/wiki/Analvtics Taxonomv
+
+https://wiki.nsa.ic.gov/wiki/DNR Travel Pattern
+
+Target Analysis Center (TAC)/Café/ Travel and Mobility Analysis Center
+
+(TMAC) DNI Co-Travel Analytic
+Café Spin 1 (October 2011 — January 2012)
+
+Background
+
+(TS//S|/REL TO USA, FVEY) The Café project involved TMAC, SSG, T1212, and SZ|5 working in concert to
+develop both DNI and DNR cloud—based travel analytics. The absence of a cloud—based solution that
+could run over bulk data motivated this initiative. The Café objective was to steer cloud travel analytics
+toward operational use and ultimately merge the DNI and DNR analytics in a unified co—travel analytic.
+These analytics are currently still under development,- however, they are available to the development
+community on GM—PLACE.
+
+(TS//S|/REL TO USA, FVEY) This analytic uses |P geolocation of active user/presence events as travel
+indication.
+
+(TS//S|/REL TO USA, FVEY) The DNI analytic operates in one of two modes. The first mode accepts a list
+of tasked targets via UTT, and attempts to identify co—travelers for those targets that have been deemed
+to have travelled during a specified time window (typically 30 days). The analytic only considers targets
+that traveled between at least 2 countries in a given month. For these traveling targets, candidate co—
+travelers are scored based on how many times they were seen in the same locations during the same
+times as the target. Target locations are given by DNI selector |P geolocation, provided by ASDF enriched
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+

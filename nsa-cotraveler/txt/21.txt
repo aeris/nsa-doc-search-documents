@@ -1,0 +1,82 @@
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name of Analytic Summary Source Data Architecture Status Caveats
+applies a maximum velocity
+movement parameter to
+approximate the time that an
+individual was at each
+location. Co—travelers are
+identified by discovering pairs
+of selectors that meet
+duration and distance
+thresholds set by the analyst.
+Identifies clusters of —- data Cloud—based Tested on- — Analytic designed for
+waypoints for each target from Hadoop data from - point data
+handset. Identifies which pairs CU LTWEAVE via MapReduce CULTWEAVE.
+PACT NGA-NSA of handsets contain similar LCReach (e.g. framework Patterns stored In
+GATC Analytic waypomt clusters. Palrs are 5M locatlons QFD.
+scored based on the number over 6 years for In process of
+of waypoint clusters that - 200K transitioning PACT
+match. locations per to NSA/SZ.
+day)
+Analytic accepts a tasked or — In testing Cloud—based — FASCIA PCS — Analytic cannot recover
+untasked selector and phase to be MapReduce Sortinglead cross—network co—travelers
+timeframe as input, and then replacement Summaries — Analytic will not be effective
+derives an itinerary for the back—end for the against stationary (non—
+selector that includes the CELL current traveling) targets
+R6 SORTINGLEAD IDS and/or VLRs. The itinerary production — Processing is memory
+
+Co-Traveler
+Analytic
+
+ 
+
+is based on a series of
+waypoints. The analytic
+searches for other selectors
+that were ”near” these
+waypoints in space and time.
+Candidates are scored and
+prioritized.
+
+ 
+
+CHALKFUN co—
+traveler tool
+
+ 
+
+ 
+
+ 
+
+intensive
+
+— Analytic is sensitive to large
+cells, VLRs, and dense areas
+
+— Not directly applicable to sat
+phones with LAT/LONG
+information
+
+— Results can be sensitive to
+timeframe chosen as input
+
+ 
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+21
+
+ 
+

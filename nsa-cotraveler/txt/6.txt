@@ -1,0 +1,58 @@
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+o The analyst will be able to filter in or out potential co—travelers with specified prefixes (for
+instance, return only- mobiles, remove all- mobiles, them, or include only mobiles
+that are from the same country as the target).
+
+ 
+
+Status and Summary
+
+Status Source Data Caveats
+
+— Operational,- Available at — All FASCIA data containing VLR — Current version is not cloud—
+analysts desktops and GCID information based and can have long
+
+— Cloud version could be processing times, however
+available as early as September cloud—based solution is
+
+2012. imminent.
+
+— Analytic will only return co—
+travelers on the same provider
+network
+
+ 
+
+DSD Co-Travel Analytic
+—
+
+Background
+
+(S//S|/REL TO USA, FVEY) The DSD Co—Travel analytic predicts target locations and co—travelers by
+calculating time—based travel trajectories. Probable travel routes are calculated using observed locations
+and determining the most likely paths and travel times similar to that used in turn—by—turn navigation
+systems. These target travel paths are represented as a series of LAT/LONG waypoints or line segments
+along the probable travel routes, such as roads. The travel paths are divided into segments (e.g. 20 to
+50km along the road). The analytic predicts the approximate time that the target would theoretically
+arrive at each segment waypoint based on projected travel times between known locations. Then,
+within the travel window, the analytic discovers candidate co—travellers that intersect locations along
+the buffered travel path. The next step in the analytic is performed using interactive Renoir analysis of a
+two mode graph representing the route segments and selectors observed on these route segments
+within the time windows. Once the data is clean and candidate co—travellers are identified detailed
+analysis can be done in Renoir or other tools such as GeoTime incorporating other supporting data such
+as communications events and content.
+
+(S//S|/REL TO USA, FVEY) The analytic currently runs on a Netezza—based architecture, called Hectic
+Snare, that rapidly executes MySQL—based QFDs. This architecture enables interactive exploratory
+analysis and rapid pattern matching. The analytic is distributable and could be implemented in
+Hadoop/MapReduce or Accumulo.
+
+(S//S|/REL TO USA, FVEY) This analytic was tested using an_ terrorist case study. The case
+study used approximately 80,000 base stations locations and 16 billion mobiles location records for
+CDRs (Call detail records) and infrastructure collect from DRT and Juggernaut systems. This case study
+showed that more candidate co—travellers were discovered by analyzing the travel paths than by
+considering common meeting locations alone.
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+

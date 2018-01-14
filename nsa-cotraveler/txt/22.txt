@@ -1,0 +1,135 @@
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+Source Data
+
+Architecture
+
+Status
+
+Caveats
+
+ 
+
+Name of Analytic
+
+(not effective for large queries
+across multiple countries and
+large time frames)
+
+ 
+
+RT-RG Sidekicks
+
+(TS//S|/REL TO USA, FVEY).
+This analytic computes
+”movement summaries” of
+tasked selectors. These are
+lists of locations that a target
+Visited during the timeframe
+of interest. Then, the system
+discovers pairs of targets that
+could be traveling together by
+comparing their movement
+summaries, factoring out pairs
+that could not have
+reasonably arrived at the
+meeting waypoints within 10
+minutes of each other.
+Because this analytic
+considers physical (LAT/LONG)
+locations and travel velocities,
+it can provide co—traveler
+results that include selectors
+on different provider
+networks.
+
+— Currently
+running on RT—
+RG—
+— Could possibly
+scale to FASCIA
+event
+summaries
+
+Cloud—based
+
+— QFD available at
+RT—RG analyst
+desktop.
+
+— RT—RG Tools:
+Goldminer, CHET,
+GEOT
+
+— Requires pre—computing all
+selectors against all selectors,
+which can be expensive
+
+— Current output includes only
+tasked selectors
+
+— Analytic is not designed for
+stationary targets
+
+ 
+
+ 
+
+Scalable Analytics
+Tradecraft Center
+(SATC) Geospatial
+Lifelines Co-
+Travel QFD
+
+ 
+
+This QFD first generates
+geohashes using GSM event
+data, and then calculates
+transition lines indicating that
+a device traveled from one
+geohash to another.
+
+The likeliness of co—travel is
+based on dwell times at travel
+
+ 
+
+— Geohashes of
+GSM event data
+retrieved from
+FASCIA.
+
+ 
+
+ 
+
+Analytic tested on
+90 days of GSM
+event data from
+Code is available
+
+through SATC, but
+analytic is no
+
+ 
+
+— Analytic designed for GSM
+data, but could be applied to
+other types of data
+
+— Oriented to targets that
+remain in one location for at
+least 2 hours
+
+— Requires Geocoded source
+data for generating
+
+ 
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+22
+
+ 
+

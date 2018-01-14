@@ -1,0 +1,107 @@
+hlame of Analytic
+[onTc]
+ﬂppnrluniljr
+Volume Analytic
+
+T'CI'P SECRETHCDMINTHHEL TU USA, FUE‘r'
+
+Summary
+
+considering the possibility of
+their travel paths Intersecting.
+Computes possible travel
+routes for each entity
+between specified events;
+considering terrain; land
+cover, and road network data.
+
+Source Data
+
+Architecture
+
+Status
+ported to NSAHet.
+
+Eaveats
+
+locations and 15 minute time
+Intervals.
+
+— (So-travel capability would
+require analyst to deﬁne a
+series of meetings at specified
+locations.
+
+ 
+
+ 
+
+ 
+
+ 
+
+The analytic computes event - Sortinglead Cloud—based Initial development — This cloud analytic is
+sequences of LAT; LUNG, and summaries of completed. oriented to work on T to 3i]
+time for each. tasked selector. FASCIA data on In testing phaseI days worth of regional
+These are called "trac its”. Each ISM-PLACE and not yet operational collection.
+selector’ s tracks are pairwise— EM-
+- compared to the others and a - RT—RG regional — Analytic only considers
+[:mele measure of similarity in time 55M collection tasited selectors as seeds.
+Analytic and space Is computed. - - Analytic does not consider
+The analytic works crossv targets that do not travel
+network by computing target outside a 20 to 5:! km radius.
+"closeness" based on the '3ch — Traci: dataset must be
+Lathong EEG information and repopulated for each data
+time- update
+- The Fa st Follower {FF} - Sma rtp hone Cloudvbased The MES-E analytics - Analytic designed for precise
+analytic considers non-SIEiMT data from Implemented has been tested on geolocation data [ego from
+reference paths for station ELEPRINTS in Java and real ELKPHINTS smartpho nes]
+personnel based on detailed - Reference- ported to data. but results - MES: analytic would require
+knowledge of the entity's path data [FFJ Mapfleduce have not been the analyst to deﬁne a series
+
+-.-;.,-
+
+T rav eler A nulyti [5
+
+ 
+
+location. Candidate followers
+are determined by identifying
+other individuals whose path
+matches the reference path in
+space and time-
+
+—The MeetﬁﬁreetSpatial
+Chaining {Pvt-EEC} analytic
+
+ 
+
+- List Elf
+selectors
+[MGSCJI
+
+ 
+
+ 
+
+validatﬁd by
+operational
+analysts-
+
+The FF analytic has
+been tested on
+
+ma de-up data.
+
+ 
+
+Elf meetings
+
+ 
+
+TIDF' SECREI'HCDMINTHREL TD USA, FUE‘t'
+
+2i]
+
+ 
+

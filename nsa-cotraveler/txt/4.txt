@@ -1,0 +1,60 @@
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+Should geography play a role in co-travel?
+
+0
+
+Because it is difficult to know where a GSM target is located within a GCID or VLR, many of
+the GSM co—travel analytics use the mathematical central point in the VLR or GCID as a
+reference point. We could postulate that traveling targets will be located along roads, train
+tracks, or footpaths where network service exists. This type of geographical information
+could theoretically be used to inform a co—traveler analytic in identifying candidates
+(especially those that are traveling via the same means oftransportation). Geographical
+information might also be used to ”fill in the gaps” when data is missing between locations
+that a target visited.
+
+Analytics in this study that make use of such geographical information include DSD’s Co—
+travel analytic and the Geospatial Analysis Tradecraft Center’s (GATC’s) Opportunity Volume
+analytic.
+
+Should device and collection sampling play a role in determining co-travelers?
+
+0
+
+We may collect hundreds of events from one target’s mobile phone while collecting only a
+few events from his co—traveler’s mobile phone. The number of events collected may be due
+to collection bias, differences in network service, and/or target COMSEC behavior. Analytics
+should take these considerations into account when attempting to identify co—travelers.
+
+Should co-travelers seen in diﬁerent source databases be considered?
+
+0
+
+Depending on a target’s preferred communication behaviors, some co—travelers may be
+seen largely in DNR GSM data, and other co—travelers may be seen largely in DNI data. We
+may be able to construct a more complete picture of a target’s locations over time if we
+combine DNR and DNI data sources. It might be worth considering the degree to which
+considering multiple data sources will significantly increase the number of false positives.
+Databases that do not contain geolocation information might also be considered. For
+instance, air travelers on the same reservation number are probably co—traveling on the
+same flight. Users sharing a MAC address are probably co—located using the same device
+even though we may not know where that device is located. Consistent observations of
+devices within the same LAIC may provide evidence of co—location, even ifthe LAIC’s
+physical service area is unknown. Finally, similarities between IP addresses may indicate
+proximity on the same LAN, even ifthe physical location ofthe LAN nodes is unknown.
+The one analytic in this study that attempts to combine multiple sources of information to
+build a more holistic picture of a target’s travel pattern is the TAC/Café/TMAC Co—travel
+analytic.
+
+Can co-travel be considered a series of meetings?
+
+0
+
+We attempted to limit this study to targets co—traveling through two or more locations
+within an analyst—specified time and space window. |fthose locations are defined, however,
+we might consider co—travel as a series of ”meetings” at known locations. Analytics that
+detect co—location may be different in nature from those that detect co—travel. The specific
+analytic need will define which of these approaches is more appropriate and efficient.
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
