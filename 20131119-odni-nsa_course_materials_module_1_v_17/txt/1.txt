@@ -1,0 +1,82 @@
+ 
+
+Version 17 (Final)
+Last Updated 09/07/11
+Includes CA9 Review feedback
+
+ 
+
+ 
+
+ 
+
+ 
+
+COURSE: (—‘FS#SI#N-I;) OV801205 Special Training on FISA (Analytical)
+COURSE: (—‘FS#S-I#N-I;) OVSCIZO6 Special Training on FISA (Technical)
+Module 1: (IFS#SI#NF—) Business Records (BR) and Pen Register Trap and Trace (PRlTT) Bulk Metadata Programs
+
+ 
+
+ 
+
+ 
+
+DATE/PREPARER: TAP Topic Page Classification Screen Number
+(U) Module IQP—SECREIALSWNOFORN 1 of 12
+Introduction
+
+ 
+
+ 
+
+FRAME ID: 1010
+(U) MODULE 1
+
+(IS#SI#N-F) Business Records (BR) and Pen Register Trap and Trace (PRlTT) Bulk
+
+ 
+
+Metadata Programs
+NEXT FRAME ID: 1020
+
+(U) This module will enable you to:
+o (—‘FS#S-I#N-I;) Identify the purpose of the BR and PR/TT Bulk Metadata Programs
+
+ 
+
+ 
+
+ 
+
+ 
+
+BACK FRAME ID: n/a . (—‘FS#S-I#N-I;)—Identify the .Foreign Powers covered by the BR and PR/TT Foreign
+ALT TAG: Intelligence Surveillance Court (FISC) Orders
+
+0 (—‘FS#S-I#N-I'=)—Contrast the differences in the authorities granted between BR FISC
+GRAPHIC/AVE _ . . Orders and PR/TT FISC Orders
+(U) Present learning objectives in the travel _ _
+journal 0 (—‘FS#S-I#N-I;) Recognize the role of the Bulk Metadata Programs in the context of the
+
+broader set of SIGINT authorities
+
+ 
+
+ 
+
+(IS#SI#NF-) (OGC Attorney): During the first part of our road trip we will discuss the Business Records (BR) and Pen Register Trap and Trace (PR/TT)
+Bulk Metadata Programs at a high level. As we progress on our road trip, we will discuss various aspects ofthe authorities granted by the Foreign
+Intelligence Surveillance Court (FISC) which support the BR and PR/TT programs and the policies that NSA implements to provide reasonable assurance
+that we are compliant with these authorities.
+
+ 
+
+ 
+
+Derived From: NSA/CSSM 1-52
+Dated: 20070108
+Declassify 911: 20350501-
+W
+Page 1 of 14
+

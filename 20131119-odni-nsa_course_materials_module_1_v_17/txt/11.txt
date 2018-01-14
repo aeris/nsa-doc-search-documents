@@ -1,0 +1,104 @@
+ 
+
+ 
+
+DATE/PREPARER:
+
+Topic Page Classification Screen Number
+(U) Knowledge IOP—SECREIALSWNQFORN 10 of 12
+Check
+
+ 
+
+FRAME ID: 1080
+
+a)
+
+ 
+
+NEXT FRAME ID: 1081
+
+b)
+
+0)
+
+ 
+
+BACK FRAME ID: 1070
+
+d)
+
+ 
+
+ 
+
+ALT TAG:
+
+GRAPHIC/AV: a)
+
+(U) Knowledge checks in the traveljournal b)
+C)
+d)
+
+ 
+
+ 
+
+(U) Knowledge Check
+
+1. (IS#S!#NF) What is the purpose of the BR and PR/TT Bulk Metadata Programs?
+
+(-‘FS#Sl#NF) To permit NSA to learn more about a terrorist target’s communications, even
+those terrorists potentially located in the United States
+
+(TS#S!#NF) To give NSA the authority to collect and analyze the content of foreign and domestic
+terrorist telecommunications traffic
+
+(TS#S!#NF) To enable NSA to more effectively_collect and analyze telephony and internet
+communications metadata associated with the
+
+(U) All ofthe above
+
+2. (TS#S!#NF) The BR and PR/TT Bulk Metadata Programs enable NSA to query identifiers related to...
+
+All terrorists regardless oftheir affiliation and origin.
+
+Terrorists/terrorist groups associated with—Foreign Powers, _
+Any foreign intelligence target.
+
+Terrorists/terrorist groups associated with—
+
+ 
+
+(U) (OGC Attorney): Let‘s make a few notes in ourtraveljournal and check to see what you remember from this topic!
+
+ 
+
+ 
+
+ANSWERS:
+
+Question 1: (TS#S!#NF) Correct! The purpose ofthe BR and PR/TT Bulk Metadata Programs is to permit NSA to learn more about a terrorist target's
+communications, even those terrorists potentially located in the United States.
+
+(IS#S!#NF) Incorrect. The correct answer is a). The purpose of the BR and PR/TT Bulk Metadata Programs is to permit NSA to learn more about a
+terrorist target’s communications, even those terrorists potentially located in the United States.
+
+Questioi2: (IS#S!#NF) Correct! The BR and PR/TT Bulk Metadata Programs enable NSA to query identiﬁers related to terrorists/terrorist groups who fall
+
+under -Foreign Powers
+
+(TS/lSl/INF) Incorrect. The correct answer is b). The BR and PR/TT Bulk Metadata Programs enable NSA to query identiﬁers related to terrorists/terrorist
+
+groups who fall under : Foreign Powers
+
+ 
+
+ 
+
+ 
+
+W
+
+Page 11 of 14
+

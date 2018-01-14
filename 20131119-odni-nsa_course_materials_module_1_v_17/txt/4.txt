@@ -1,0 +1,76 @@
+W
+
+ 
+
+ 
+
+DATE/PREPARER: TAP Topic Page Classification Screen Number
+(TS#SI#NF) Introduction to the BR TQP—SEGREIIWSWNQFORN 3 of 12
+and PR/TT Bulk Metadata Programs
+
+ 
+
+ 
+
+ 
+
+ 
+
+FRAME ID: 1030
+
+ 
+
+NEXT FRAME ID: 1040
+
+ 
+
+BACK FRAME ID: 1020
+
+ 
+
+ALT TAG:
+
+ 
+
+GRAPHIC/AV:
+(TS#SI#NF) Possible cutaway images
+may include:
+0 images pertinent to
+telecommunications and internet
+communications, call records,
+emai
+
+ 
+   
+ 
+
+ 
+
+ 
+
+ 
+
+(TS#SI#NF) (9G0 Attorney): To get started, let’s discuss the individual Bulk Metadata Programs. The BR Program pertains to the acquisition of telephony
+metadata. The associated FISC Grder allows NSA to ask specific U.S.-based telecommunications service providers for their business records. The
+business records, also known as call detail records, contain information about phone calls.
+
+lTSHSIh‘NFi The PRITT irogram and associated FISC Grder permits the collection of bulk Internet communications metadata. —
+
+(ISAISWNF) Under both these FISC orders, NSA is prohibited from acquiring communications content. Underthese Programs, NSA may not listen to
+
+phone calls, or collect the body or subject of an email — The Bulk Metadata authorities permit the_
+about the communications. —
+
+ 
+
+(TSALSWNF) In Module 2, we will explore how each type of metadata is obtained and what specific information each order permits NSA to collect.
+
+ 
+
+JEGP—SEGRE—TALS-ENGFGRN
+Page 4 of 14
+
+ 
+
+ 
+

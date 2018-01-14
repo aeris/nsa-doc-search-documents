@@ -1,0 +1,56 @@
+ 
+
+DATE/PREPARER: TAP Topic Page Classification Screen Number
+(TSAISWNE) Differences in TOP—SEGREIFALSWNOEORN 6 of 12
+the BR and PR/TT Orders
+
+hm NEE!
+
+ 
+
+ 
+
+FRAME ID: 1055
+
+ 
+
+NEXT FRAME ID: 1060
+
+ 
+
+BACK FRAME ID: 1050
+
+ 
+
+ALT TAG:
+
+ 
+
+ 
+
+GRAPHIC/AV:
+(U) Possible cutaway images may
+include:
+. images that depict the
+differences highlighted in the
+script
+
+ 
+
+ 
+
+(IS#SI#NF) (OGC Attorney): There are two high level differences between the Orders as well. Details of the differences will be addressed in later modules,
+but at a basic level, the biggest difference between the two Programs is how the metadata is obtainedr
+
+  
+
+(ISL/SIM) The other point where the Bulk Metadata Programs differ is in the area of hop restrictions for contact chaining. This will be described in detail
+in Module 4, but for now it is important to know that according to the Orders the hop restrictions are different forthe BR and PR/TT Programs.
+
+ 
+
+ 
+
+JEGP—SEGRE—TALS-ENGFGRN
+Page 7 of 14
+

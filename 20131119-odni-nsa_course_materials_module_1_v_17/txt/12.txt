@@ -1,0 +1,90 @@
+ 
+
+DATE/PREPARER:
+
+Topic Page Classification Screen Number
+(U) Knowledge IOP—SEGREIFAISIWOFORN 11 of 12
+Check
+
+ 
+
+ 
+
+FRAME ID: 1081
+
+(U) Knowledge Check
+
+3. (IIIS#SI#NF) One of the differences between BR and PR/TT is that the is composed of call detail
+records delivered by the telecommunications providers, while the must be processed/extracted from
+live, streaming Internet communications.
+
+ 
+
+NEXT FRAME ID: 1090
+
+a) bulk metadata, PR/T T metadata
+b) PR/TT metadata, bulk metadata
+c) PR/TT metadata, BR metadata
+d) BR metadata, PRITT metadata
+
+ 
+
+BACK FRAME ID: 1080
+
+ 
+
+ALT TAG:
+
+4. (WE) Which ofthe following is true of BR and PR/TT and not other authorities?
+a) (IFS#SI#NIE) In the BR and PR/TT authorities, NSA is authorized to obtain metadata in bulk from
+
+ 
+
+ 
+
+GRAPHIC/AV:
+(U) Knowledge checks in the traveljournal
+
+U.S.-based telecommunications service providers that may not be available from other collection
+sources, and NSA can only query that metadata for counter proliferation purposes.
+
+b) (IFS#SI#NIE) In the BR and PR/TT authorities, NSA is authorized to obtain content from U.S.-
+based telecommunications service providers that may not be available from other collection
+sources, and NSA can only query that content for counterterrorism purposes.
+
+c) (IS#SI#I\IE) In the BR and PRITT authorities, NSA is authorized to obtain metadata in bulk
+from U.S.-based telecommunications service providers that may not be available from
+other collection sources, and NSA can only query that metadata for counterterrorism
+purposes.
+
+d) (IFS#SI#NIE) In the BR and PR/TT authorities, NSA is authorized to obtain metadata in bulk from
+foreign telecommunications service providers that may not be available from other collection
+sources, and NSA can query that intelligence for any foreign intelligence purpose.
+
+ 
+
+ 
+
+(No audio or transcript on this page)
+
+ 
+
+ANSWERS:
+
+ 
+
+Question 3: (TS/lSI/lNF) Correct! One of the differences between BR and PR/TT isl
+
+(TS/lSI/lNF) Incorrect. The correct answer is d). One of the differences between BR and PR/TT is that
+
+Question 4: (ISALSWNE) Correct! In the BR and PR/TT authorities, NSA is authorized to obtain metadata in bulk from U.S.-based telecommunications
+
+  
+
+ 
+
+ 
+
+WN
+Page 12 of 14
+
