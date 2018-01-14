@@ -1,0 +1,73 @@
+TOP SECRETIICOMINTHREL TO USA. FVEY
+
+PHOTOAN
+
+ 
+
+_
+
+(T SHSWREL TO USAFVEY) PHOTOANGLO is a joint NSNGCHQ project to
+develop a new radar system to take the place of the CTX4000.
+
+(U) Capabilities
+
+(TSNSIIIREL TO USA.FVEY) The planned capabilities for this system are:
+-Frequency range: 1 - 2 GHz. which will be later extended to 1 - 4 GHz.
+cMaximum bandwidth: 450 MHz.
+
+-Size: Small enough to lit into a slim briefcase.
+
+oWeight: Less than 10 lbs.
+
+oMaximum Output Power: 2 W
+
+oOutput:
+
+Nideo
+
+cTransmit antenna
+
+olnputs:
+
+oExternal oscillator
+
+-Receive antenna
+
+(U) Concept of Operation
+
+(T SIISINREL TO USAFVEY) TSJISIIIREL TO USA.FVEY) The radar unit
+generates an un-modulated. continuous wave (CW) signal. The oscillator is
+either generated internally. or externally through a signal generator or cavity
+oscillator. The unit ampliﬁes the signal and sends it out to an RF connector.
+where it is directed to some form of transmission antenna (horn. parabolic dish.
+LPA. spiral). The signal illuminates the target system and is re-radiated. The
+receive antenna picks up the re-radiated signal and directs the signal to the
+receive input. The signal is ampliﬁed. filtered. and mixed with the transmit
+antenna. The result is a homodyne receiver in which the RF signal is mixed
+directly to baseband. The baseband video signal is ported to an external BNC
+connector. This connects to a processing system. such as NIGHTWATCH. an
+LFS-Z. or VIEWPLATE. to process the signal and provide the intelligence.
+
+Unit Cost: S40lt (planned)
+Status: Development. Planned IOC is lst QTR FY09.
+
+Poc=_ s32243.--. 1
+
+GLO
+
+ANT Product Data
+
+,—
+
+24 Jul 2008
+
+ 
+
+Derived Front NSNCSSM 1-52
+
+Dusted: 20010103
+
+Occlusity 0n: 20320100
+
+TOP SECRETHCOMINTHREL TO USA. FVEY
+

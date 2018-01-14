@@ -1,0 +1,70 @@
+TOP SECRETIICOMINTIIREL TO USA. FVEY
+
+ 
+
+(TSIISIHREL TO USA.FVEY) NIGHTWATCH is a portable computer with
+specialized. internal hardware designed to process progressive-scan (non-
+interlaced) VAGRANT signals.
+
+(U) Capability Summary
+
+(TSHSHJREL TO USAFVEY) The current
+implementation of NIGHTWATCH consists of
+a general-purpose PC inside of a shielded
+case. The PC has PCI digitizing and clock
+cards to provide the needed interface and
+accurate clocking reQUired for video
+reconstrucrion. It also has:
+
+- horizontal sync. vertical sync and video
+outputs to drive an external. multi-sync
+monitor.
+
+‘- video input
+
+- spectral analysis up to 150 kHz to provide for indications of horizontal and
+vertical sync frequencies
+
+. frame capture and forwarding
+
+- PCMCIA cards for program and data storage
+
+- horizontal sync locking to keep the display set on the NIGHTWATCH display.
+- frame averaging up to 2‘16 (65536) frames.
+
+(U) Concept of Operation
+
+(TSJISIIIREL T0 USAFVEY) The video output from an appropriate collection
+system. such as a CTX4000. PHOTOANGLO. or general-purpose receiver. is
+connected to the video input on the NIGHTWATCH system. The user. using the
+appropriate tools either within NIGHTWATCH or externally. determines the
+horizontal and vertical sync frequencies of the targeted monitor. Once the user
+matches the proper frequencies. he activates “Sync Lock" and frame averaging
+to reduce noise and improve readability of the targeted monitor. If warranted. the
+user then forwards the displayed frames over a network to NSAW. where
+analysts can look at them for intelligence purposes.
+
+Unit Cost: NfA
+
+Status: This system has reached the end of its service life. All work concerning
+the NIGHTWATCH system is strictly for maintenance purposes. This system is
+slated to be replaced by the VIEWPLATE system.
+
+ 
+
+NIGHTWATCH
+
+ANT Product Data
+
+24 Jul 2008
+
+ 
+
+POC:—S32243.-_;"'1= ' J; " DerivedFrom:NSNCSSM1-$2
+
+W: 29070103
+
+“classify On: 20320100
+
+TOP SECRETHCOMINTHREL T0 USA. FVEY
+

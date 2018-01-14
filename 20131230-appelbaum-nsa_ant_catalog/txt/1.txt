@@ -1,0 +1,51 @@
+SECRETﬂCOMINTﬂREL TO USA. FVEY
+
+ 
+
+(T SﬂSIIIREL) DEITYBOU NCE provides software application persistence on Dell
+PowerEdge servers by exploiting the motherboard BIOS and utilizing System
+Management Mode (SMM) to gain periodic execution while the Operating System
+toads.
+
+ 
+
+ 
+
+Interactive DPS Carmela
+asrismaeu oemraounce Extended Concept 0! Operations
+
+(T SIISINREL) This technique supports multi-processor systems with RAID hardware
+and Microsoft Windows 2000. 2003. and XP. It currently targets Dell PowerEdge
+1350123501195012950 RAID servers. using BIOS versions A02. A05. A06. 1.1.0.
+1.2.0. or 1.3.7.
+
+(TSIISWREL) Through remote access or interdiction. ARKSTREAM is used to re-
+flash the BIOS on a target machine to implant DEITYBOUNCE and its payload (the
+implant installer). Implantation via interdiction may be accomplished by non-
+technioal operator though use of a USB thumb drive. Once implanted.
+DEITYBOUNCE's frequency of execution (dropping the payload) is conﬁgurable and
+will occur when the target machine powers on.
+
+Status: Released I Deployed. Ready for
+Immediate Delivery
+
+Poc: — 332221. _ -_ u
+
+Unit Cost: $0
+
+ 
+
+_.
+
+ 
+
+DEITYBOUNCE
+
+ANT Product Data
+
+06:20:03
+
+Deduslﬂ On: 20320100
+
+SECRETIICOMINTHREL TO USA. FVEY
+

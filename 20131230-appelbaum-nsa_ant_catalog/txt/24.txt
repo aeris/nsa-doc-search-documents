@@ -1,0 +1,63 @@
+TOP SECRETHCOMINTIIREL FVEY
+
+ 
+
+(‘I'SllStIlRELJ SOMBERKNAVE is Windows XP wireless software implant
+that provides covert internet connectivity lor isolated targets.
+
+(TSllSlllREL) SOMBERKNAVE is a software implant that surreptitiously routes
+TCP trafﬁc from a designated process to a secondary network via an unused
+embedded 802.11 network device. ti an Internet-connected wireless Access
+Point is present. SOMBERKNAVE can be used to allow OLYMPUS or
+VALIDATOR to “call home" via 802.11 from an air-gapped target computer. If
+the 802.11 interface is in use by the target. SOMBERKNAVE will not attempt
+to transmit.
+
+(TSllSlllREL) Operationally. VALIDATOR initiates a call home.
+SOMBERKNAVE triggers from the named event and tries to associate with an
+access point. It connection is successful. data is sent over 802.11 to the ROC.
+VALIDATOR receives instructions. downloads OLYMPUS. then disassociates
+and gives up control ol the 802.11 hardware. OLYMPUS will then be able to
+communicate with the ROC via SOMBERKNAVE. as long as there is an
+available access point.
+
+“ ' E
+Random Access élilciint\k
+
+SOMBERKNAVE
+
+ 
+
+ 
+
+ROG
+
+     
+
+Status: Available - Fall 2008
+
+..S3223
+S3223.
+
+TOP SECRETHCOMINTNREL FVEY
+
+Unit Cost: $50k
+
+  
+ 
+
+POC:
+ALT POC:
+
+ 
+
+SOMBERKNAVE
+
+ANT Product Data
+
+0810908
+
+Derived From: "SHOES-U 1-52
+Wad: 20070100
+Drool-unity Orr: 20320100
+

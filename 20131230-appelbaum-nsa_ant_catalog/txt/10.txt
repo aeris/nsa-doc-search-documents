@@ -1,0 +1,65 @@
+TOP SECRETIICOMINTIIREL TO USA. FVEY
+
+ 
+
+(T SIISWREL) SIERRAMONTANA provides persistence lor DNT implants. The CIth
+implant will survive an upgrade or replacement oi the operating system - including
+physically replacing the router's compacr ﬂash card.
+
+Comm-d. Count. and Du: Emilie-n a“
+
+    
+
+ 
+
+Fm.l0fm
+I'll; CPI!
+
+(SitSlllREL) SIERRAMONTANA Concept of Operations
+
+(TSHSIf/REL) Currently, the intended DNT Implant to persist is
+VALIDATOR, which must be run as a user process on the target
+operating system. The vector of attack is the modiﬁcation of the target's
+8105. The modiﬁcation will add the necessary software to the BIOS and
+modify its software to execute the SIERRAMONTANA implant at the end
+of its native System Management Mode (SMM) handler.
+
+(TS/ISU/REL) SIERRAMONTANA must support all modern versions of
+JUNOS, which is a version of FreeBSD customized by Juniper. Upon
+system boot, the JUNOS operating system is modiﬁed in memory to run
+the implant, and provide persistent kernel modiﬁcations to support
+implant execution.
+
+(T SIISIIIREL) SIERRAMONTANA is the cover term for the persistence technique to
+deploy a DNT implant to Juniper M-Series routers.
+
+Unit Cost: 3
+
+Status: (UIIFOUO) SIERRAMONTANA under development and is expected to be
+released by 30 November 2008.
+
+90c: UIIFOUO- 332222. _-— -- - - 1.
+
+ 
+    
+
+_
+
+SIERRAMONTANA
+
+ANT Product Data
+
+,._
+
+OGIZMOB
+
+ 
+
+Derived From: NSNCSSM 1-52
+
+Dated: 20010108
+
+Occlusity 0n: 20320100
+
+TOP SECRETHCOMINTIIREL TO USA. FVEY
+

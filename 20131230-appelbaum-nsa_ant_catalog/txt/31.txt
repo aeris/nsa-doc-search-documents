@@ -1,0 +1,146 @@
+TOP SECRETIICOMINTIIREL TO USA. FVEY
+
+ 
+
+(T SIISWREL) MONKEYCALEN DAR is a software implant Ior GSM (Global System
+for Mobile communication) subscriber identify module (SI M} cards. This implant
+pulls geolocation information trom a target handset and exﬁltrates it to a user-
+deﬁned phone number via short message service (SMS).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+YOP securmrur ﬂ
+Handset with MONKEYCALENDAR MONKEYCALENDAR
+implanted SIM issues Get Location lnlo encrypts location Into
+card starts up command to handset data
+MONKEYCALE NOAH Handset MONKE YCALENDAR
+as m m for WM“? commands handset to
+"‘99“ location Inlo send 805W” data
+‘ via SMS
+MONKEYCALENDAR *
+”ﬁg: mlmisg'm‘) Handset sends out
+encrypted Sluts
+Handset idle
+W
+
+ 
+
+ 
+
+museum MONKEYCALENDAR — Operational Schematic
+
+(TSIISIIIREL) Modern SIM cards (Phase 2+) have an application program interface
+known as the SIM Toolkit (STK). The STK has a suite of proactive commands that
+allow the SIM card to issue commands and make requests to the handset.
+MONKEYCALENDAR uses STK commands to retrieve location information and to
+exliltrate data via SMS. After the MONKEYCALENDAR file is compiled. the
+program is loaded onto the SIM card using either a Universal Serial Bus (USB)
+smartcard reader or via over-the-air provisioning. In both cases. keys to the card
+may be required to install the application depending on the service provider’s
+security configuration
+
+Unit Cost: $0
+Status: Released. not deployed.
+
+Poc: urrFouo_ 532222.--.;_
+
+MONKEYCALEN DAR
+
+ANT Product Data
+
+—..—.
+
+10:01:03
+
+ 
+
+Derived From: HSNCSSM 1-52
+
+cm: MIDI.”
+
+Dedullﬂ 0n: 2032010.
+
+TOP SECRETIfCOMlNTﬂREL TO USA. FVEY
+

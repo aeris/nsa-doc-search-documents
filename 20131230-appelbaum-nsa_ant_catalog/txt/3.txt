@@ -1,0 +1,67 @@
+TOP SECRETﬂCOMINTﬂR EL USA. FVEY
+
+FEEDTROUGH
+
+ANT Product Data
+
+ 
+
+(T SllszEL) FEEDTROUGH is a persistence technique for two saturate implants. DNT's “"
+BANANAGLEE and CES's ZESTYLEAK used against Juniper Netscreen ﬁrewalls. 0612 M08
+
+cwcmumoumm
+Munummmdm
+
+    
+   
+ 
+   
+     
+     
+   
+
+: use
+: Remote Operator: Geller
+
+Conocnoctioon tor-ttvli-D
+
+Fmﬂﬂ'm
+UNION!
+'mw
+
+ 
+ 
+
+Target Network .....
+I .....................................
+(SllStttREL) Persistence Operational Scenario . . . .
+(TSIISUIREL) FEEDTROUGH can be used to persist two implants. ZESTYLEAK andlor . . .. -'
+BANANAGLEE across reboots and software upgrades on known and covered 05's tor the .
+I'ollowing Netscreen ﬁrewalls. nsSxt. nszs. nsSD. nsZOO. nsSDO and ISG 1000. There is no
+direct communication to or from FEEDTROUGH. but it present. the BANANAGLEE implant . . .
+
+can receive and transmit covert channel comms. and for certain pladorms. BANANAGLEE
+can also update FEEDTROUGH. FEEDTROUGH however can onty persist 05's included ..
+in it's databases. Therefore this is best employed with known 08's and it a new 05 comes
+out. then the customer would need to add this 03 to the FEEDTROUGH database tor that
+particular ﬁrewall.
+
+(TSHSUIREL) FEEDTROUGH operates every time the particular Juniper firewall boots. The
+ﬁrst hook takes it to the code which checks to see it the OS is in the database. it it is. then a
+chain at events ensures the installation of either one or both implants. Otherwise the ﬁrewall
+boots normally. It the OS is one modiﬁed by ONT. it is not recognized. which gives the
+customer freedom to field new sottware.
+
+Status: (SHSIJIRELJ FE EDTROUGH has on the shell solutions for an 0! the listed platforms.
+It has been deployed on many target plattorms
+
+POC:-332222,-,--__. . ._ .
+
+ 
+
+Dart“!!! From: "5mm 1-52
+0‘16: 2007010.
+Decllnil'y OI'I: 2032010!
+
+TOP SECRETIICOMINTHREL USA. FVEY
+

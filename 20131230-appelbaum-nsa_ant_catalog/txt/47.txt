@@ -1,0 +1,59 @@
+TOP SECRETHCOMINTHREL FVEY
+
+FIREWALK
+
+ANT Product Data
+
+ 
+
+(T SJlSlllREL) FIREWALK is a bidirectional network implant. capable of passively collecting
+
+ 
+
+ 
+
+ 
+
+Gigabit Ethernet network traffic. and actively injecting Ethernet packets onto the same 08,0908
+target network. l
+(TSHSIHREL) FIREWALK IS a til-directional 10310011000bT {Gigabit) Ethernet network
+
+implant residing within a dual stacked H.145 r USB connector. FIREWALK is capable of ...
+
+littering and egressing network traltic over a custom RF link and injecting traffic as
+commanded: this allows a erhemet tunnel (VPN) to be created between target network and ....
+the ROC (or an intermediate redirector node such as DNT‘s DANDERSPRITZ tool.)
+FIREWALK allows active exploitation ol a target network with a ﬁrewall or air gap protection.
+
+(TSlrSlerEL) FIREWALK uses the HOWLERMONKEY transceiver tor back-end o... .
+communications. It can communicate with an LP or other compatible HOWLERMONKEY
+based ANT products to increase RF range through multiple hops. ....
+
+'I'ar‘url .‘i‘pat‘c ...
+
+ 
+
+hlbl
+luau
+
+    
+
+Log-MI:
+-oc.wroenocm.wurrauacm
+-I-Il-ml.¢mltm
+darn-Lon. mutant-Ir
+
+ 
+
+ 
+
+ 
+
+ 
+
+Status: Prototype Available - August 2008 Unit Cost: 50 Units $53?K
+POC: . $3223._. 1:. .1. ”m" ‘mmio'ﬁﬁﬁéiii
+ALT POC: 33223._ .-_-. - a Deer-saw an: 20mm
+
+TOP SECRETHCOMINTNREL FVEY
+

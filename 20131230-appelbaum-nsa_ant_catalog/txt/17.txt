@@ -1,0 +1,53 @@
+TOP SECRETHCOMINTHREL TO USA. FVEY
+
+ 
+
+(T SIISINREL) An embedded computer system running BLINDDATE
+tools. Sparrow II is a fully lunctional WLAN collection system with
+integrated Mini PCI slots for added functionality such as GPS and
+multiple Wireless Network Interface Cards.
+
+(UIIFOUO) System Specs
+
+Processor: IBM Power PC 4OSGPR
+Memory: 64MB (SDRAM)
+16MB (FLASH)
+
+Expansion: Mini PCI (Up to 4
+devices) supports USB. Compact
+Flash. and 802.11 BIG
+
+OS: Linux (2.4 Kernel)
+Application SW: BLINDDATE
+Battery Time: At least two hours
+
+SPARROW II Hardware
+
+(T SIISIHREL) The Sparrow II is a capable option for deployment where
+
+small size. minimal weight and reduced power consumption are required.
+
+PCI devices can be connected to the Sparrow II to provide additional
+functionality. such as wireless command and control or a second or third
+802.11 card. The Sparrow II is shipped with Linux and runs the
+BLINDDATE software suite.
+
+ 
+
+ 
+
+SPARROW II
+
+Wireless Survey - Airborne Operations - UAV
+
+0712508
+
+Unit Cost: 56K
+Status: (SIISIHREL) Operational Restrictions exist for equipment deployment.
+POC:- S32242._ -I_- ||‘-.i .'.'. Lit".
+Derived From: NSNCSSII l-ﬂ
+Dated: 20010100
+Milly 0n: 2032010.
+
+TOP SECRETHCOMINTHREL T0 USA. FVEY
+

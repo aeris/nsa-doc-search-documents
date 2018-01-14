@@ -1,0 +1,60 @@
+SECRETHCOMINTIIREL TO USA. FVEY
+
+CANDYGRAM
+
+GSM Telephone Tripwire
+
+ 
+
+(SfIStﬂREL) Mimics GSM cell tower of a target netwmk. Capable of operations at
+900. 1800. or 1900 MHz. Whenever a target handset enters the CANDYGRAM
+
+base station's area of inﬂuence. the system sends out an SMS through the external 06f20l08
+network to registered watch phones.
+
+   
+
+     
+
+W «Eng
+u a '33,»! Erl. T-nnw
+
+IIIIIIII
+
+v. ) Li-SM {all team m
+
+[SflSllfRELJ CANDYGRAM Operational Concept . . . .
+(SIISINREL) Typical use scenarios are asset validation. target tracking and .....
+identification as well as identifying hostile surveillance units with GSM handsets.
+Functionality is predicated on apriori target information. ....
+
+(SHSIHREL) System l-IW (SHSIHREL) sw Features .... _
+' GPS processing unit - Configurable 200 phone number ...
+. Tri-band BTS radio ‘a'ge‘ “9°“ .
+' Network auto-configuration
+- Windows XP laptop and cell phone' - Area Survey Capability ..
+. .. - .. .. o Remote Operation Capability
+9 wide x 12 long x 2 deep - Configurable Network emulation
+
+- External power (9-30 VDC). - Configurable RF power level
+
+- Mutli-Units under single C&C
+- Remote restart
+- Remote erasure (not field
+
+‘Remote control software can be used
+with any connected to the laptop (used
+for communicating with the
+
+ 
+
+CANDYGRAM unit through text recoverable)
+messages (SMS)- Status: Available 8 mos ARO
+Unit Cost: approx $40K
+poc:- 532242.- ‘ .‘.'-'--i . ; :-.--
+om hem: nsucssu 1-52
+mo: zoorome
+
+MSWOnrm1N
+SECRETHCOMINTHREL TO USA. FVEY
+

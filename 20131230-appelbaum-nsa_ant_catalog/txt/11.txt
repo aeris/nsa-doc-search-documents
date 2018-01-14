@@ -1,0 +1,88 @@
+TOP SECRETIICOMINTIIREL TO USA. FVEY
+
+ 
+
+(T SllSlllREL] STUCCOMONTANA provides persistence for ONT implants. The
+DNT implant will survive an upgrade or replacement oi the operating system «-
+including physically replacing the router's compact ﬂash card.
+
+Comm. Control. ad on: Ellilmion Inna
+WWCWI Protocol (typical:
+
+   
+
+' I
+' I
+: NSA :
+: new. Oponﬂono cantor :
+' I
+
+I
+
+I
+
+    
+
+____-_—_——__-s_-_-__—_—_——___--——————_
+
+ 
+ 
+ 
+
+Fluvial or Router
+IIPu r cm
+W W
+
+  
+ 
+ 
+   
+ 
+
+  
+   
+
+—-i——on—u-u——-———u—o-—
+
+Target Network
+tsusurnm srucconou'rma Concept at Operations
+
+(TS/[SI/IREL) Currently, the intended DNT Implant to persist is
+VALIDATOR, which must be run as a user process on the target operating
+system. The vector of attack is the modiﬁcation of the target's BIOS. The
+modiﬁcation will add the necessary software to the BIOS and modify its
+software to execute the STUCCOMONTANA Implant at the end of its native
+System Management Mode (SMM) handler.
+
+(TS/{SWREU STUCCOMONTANA must support all modern versions of
+JUNOS, which is a version of FreeBSD customized by Juniper. Upon system
+boot, the JUNOS operating system is modiﬁed in memory to run the
+implant, and provide persistent kernel modifications to support implant
+execution.
+
+(‘I'SIISli'lRELi STUCCOMONTANA is the cover term for the persistence technique to
+deploy a DNT implant to Juniper T-Series routers.
+
+Unit Cost: s
+
+Status: (U/IFOUO) STUCCOMONTANA under development and is expected to be
+released by 30 November 2008.
+
+Poc:um=ouo- 532222._-_.~ . :_
+
+ 
+
+STUCCOMONTANA
+
+ANT Product Data
+
+OGIZMOB
+
+Derived From: NSNCSSM 1-52
+
+Dated: 20010108
+
+Dedusily 0n: 20320100
+
+TOP SECRETHCOMINTIIREL TO USA. FVEY
+

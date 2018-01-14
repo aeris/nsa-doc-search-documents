@@ -1,0 +1,102 @@
+TOP SECRETIICOMINTIIREL TO USA. FVEY
+
+MAESTRO-II
+
+ANT Product Data
+
+ 
+
+(TSNSIHREL) MAESTRO-It is a miniaturized digital core packaged in a Mum-Chip Module
+(MGM) to be used in implants with size constraining concealments.
+
+r—E'tﬁ I.
+d”"!.".". 3". I W
+"-‘ul ' ..". _’
+
+' ‘ m
+(T SHSIHREL) MAESTRO-II uses the TAD standard implant architecture. The architecture
+provides a robust. reconﬁgurable. standard digital platform resulting in a dramatic
+penormance improvement over the obsolete H012 microcontroller based designs. A ....
+development Printed Circuit Board (PCB) using packaged parts has been developed and is
+available as the standard platform. The MAESTRO-ll Multi-Chip-Module (MCM) contains an .....
+ARM? microcontroller. FPGA. Flash and SDRAM memories.
+
+OGIOSIOB
+
+_._. F
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I uController Flash scam FPGA I . . . .
+ARM 7 AT498V322A MTdBLCMZ xczvsoo _
+aaum imam BuByte-s 500kgnlcs ....
+
+EBI
+
+ 
+  
+
+J‘MG
+
+  
+ 
+
+ 
+ 
+
+UARTl
+HART:
+
+    
+ 
+
+SE
+
+ 
+  
+  
+
+PlO-s
+
+HAG
+Sic-II Conﬁg
+
+.(I—ﬂummu “HID
+Status: Available - On The Shell Unit Cost: $341K
+POC' _ 53223 --~ .- 1- ~ WWW" "5m“ 1'”
+. . . ;-_- ‘-" _--_'-_-_‘_--“' Wed: 200701“
+ALT POC: - $3223. -: i
+
+a". DechssilyOn:203201OI
+TOP SECRETHCOMINTHREL TO USA. FVEY
+
+ 
+
+ 
+ 
+ 
+

@@ -1,0 +1,92 @@
+TOP SECRETIICOMINTHREL TO USA. FVEY
+
+ 
+
+(T SIISIIIREL) TOTECHASER is a Windows CE implant targeting the Thuraya 2520
+handset. The Thuraya 2520 is a dual mode phone that can operate either in SAT or
+GSM modes. The phone also supports a GPRS data connection tor Web browsing,
+e-mail. and MMS messages. The initial software implant capabilities include
+prgﬂdjgggPSjnd GSM geo-Iogation information. Call log._c_ontact list, and other
+user information can also be retrieved from the phone. Additional capabilities are
+
+being investigated.
+\ wt
+1
+
+roe-secure mm a. _
+
+ 
+    
+
+05‘" W sentiment
+
+m.r:mmnu.t.urm.t.mu
+om -Il¢€.l~l‘:,lh¢,lmm
+mum-mm
+
+c-ILua- but. in. m
+camera-mammal
+
+ﬂit- gin-ﬁst!
+
+"77.!
+
+2..
+
+(mm
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+roe «entrust-“nun
+[UHFOUO] IDTECHASER - Operational Schematic
+
+(T SJISIHREL) TOTECHASER will use SMS messaging for the command. control.
+and data extiltration path. The initial capability will use coven SMS messages to
+communicate with the handset. These covert messages can be transmitted in
+either Thuraya Satellite mode or GSM mode and will nor alert the user of this
+activity. An alternate command and control channel using the GPRS data
+connection based on the TOTEGHOSTLY implant is intended for a future version.
+
+(TSJISINREL) Prior to deployment. the TOTECHASER handsets must be modified.
+Details at how the phone is modified are being developed. A remotely deployable
+TOTECHASER implant is being investigated. The TOTECHASER system consists
+of the modified target handsets and a collection system.
+
+(T SllSlHREL) TOTECHASER will accept configuration parameters to determine
+how the implant operates. Configuration parameters will determine what information
+is recorded. when to collect that information. and when the information is exfiltrated.
+The conﬁguration parameters can be set upon initial deptoyment and updated
+remotely.
+
+Unit Cost: 5
+
+Status:
+
+TOTECHASER
+
+ANT Product Data
+
+_..,_
+
+10101108
+
+ 
+
+Derived Front NSNCSSM 1-52
+
+POC: UHFOUO— 532222. --.: -t-.~-=
+
+TOP SECRETHCOMINTHREL TO USA. FVEY
+
+Dusted: 20010103
+
+causality On: 20320100
+

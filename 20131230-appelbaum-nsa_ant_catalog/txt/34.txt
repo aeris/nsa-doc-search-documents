@@ -1,0 +1,90 @@
+TOP SECRETIICOMINTIIREL TO USA. FVEY
+
+TOTEGHOSTLY 2.0
+
+ANT Product Data
+
+ 
+
+(T SIISWREL) TOTEGHOSTLY 2.0 is a STRAITBIZARRE based implant for the
+Windows Mobile embedded operating system and uses the CHIMNEYPOOL
+framework. TOTEGHOSTLY 2.0 is compliant with the FREEFLOW project.
+therefore it is supported in the TURBU LENCE architecture.
+
+ 
+
+I", ”CI IML
+
+Target Device Analyst
+
+ 
+
+ 
+
+'\
+N.
+
+/’\
+
+ROC High Side
+
+i-l._____‘_,d‘ \l
+I
+
+I
+
+a,
+
+\\
+‘-
+
+ 
+
+ 
+
+roe ”Fm!”
+
+ 
+
+ 
+
+{UHFOUO) TOTEGHOSTLY - Data Flow Schematic
+
+(T SIISIHREL) TOTEGHOSTLY 2.0 is a software implant for the Windows Mobile
+operating system that utilizes modular mission applications to provide specific
+SIGINT lunclionality. This lunctionality includes the ability to remotely pushlpull files
+from the device. SMS retrieval. contact list retrieval. 1iroicen'tail. geolocation. hot mic.
+camera capture. cell tower location. etc. Command. control. and data exfiltration
+can occur over SMS messaging or a GPRS data connection. A FRIEZERAMP
+interface using HTTPSlinkZ transport module handles encrypted communications.
+
+(TSIISUIREL) The initial release 0! TOTEGHOSTLY 2.0 will locus on installing the
+implant via close access methods. A remote installation capability will be pursued
+for a future release.
+
+(T SﬂSIh‘REL) TOTEGHOSTLY 2.0 will be controlled using an interface tasked
+through the NCC {Network Control Center) utilizing the XML based tasking and data
+forward scheme under the TURBULENCE architecture following the TAO GENIE
+Initiative.
+
+Unit Cost: so
+Status: (U) In development
+
+Poc: urrFouo_ 332222. - - ; -
+
+_.
+
+.._.
+
+10:01:03
+
+ 
+
+Derived From: HSNCSSM 1-52
+
+m: MIDI.”
+
+Bestiality 0n: 2032010.
+
+TOP SECRETIICOMINTIIREL TO USA. FVEY
+

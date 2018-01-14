@@ -1,0 +1,91 @@
+SECRETHCOMINTHREL TO USA. FVEY
+
+ 
+
+(SllSI) Target Data via SMS:
+
+' Incoming call numbers
+
+- Outgoing call numbers
+
+. Recently registered netvmks
+
+. Recent Location Area Codes (LAC)
+oCeII power and Timing Advance
+information (GEO)
+
+vRecently Assigned TMSI. lMSI
+oRecent network authentication
+challenge resinonses
+
+. Recent successful PINs entered into
+the phone during the power-on cycle
+*SW version oi PICASSO implant
+
+-' Hot-mic' to collect Room Audio
+
+. Panic Button sequence (sends location
+inlorrnation to an LP Operator)
+
+- Send Targeting Intormation (Le.
+current IMSI and phone number when it
+is turned on - in case the SIM has just
+been switched).
+
+-Block call to deny target service.
+
+(SllSIlIREL) Handset
+Options
+-Eastcom ?60c+
+~Samsung E600. X450
+'Samsung C140
+-(vn'lh Arabic keypadﬂmguage onion)
+
+P°C=_ S32242.--:' a -
+
+ 
+
+PICASSO
+
+GSM HAN DSET
+
+(SHSIHREL) Modiﬁed GSM (target) handset that collects user data. location
+information and room audio. Command and data exiil is done from a laptop and
+regular phone via SMS — (Shun Messaging Sennce). without alerting the target.
+
+ 
+
+ 
+
+ 
+
+ 
+
+(SNSI) PICASSO Operational Concept
+
+(SIISIHREL) Uses include asset
+validation and tracking and target
+templating. Phone can be hot
+mic'd and has a “Panic Button"
+key sequence for the witting user.
+
+Status: 2 weeks ARO (10 or less)
+
+Unit Cost: approx $2000
+
+M
+
+ 
+
+SECRETHCOMINTHREL TO USA. FVEY
+
+ 
+
+OBIZOIOB
+
+Derived ﬂout: HSNCSSH 1-52
+
+Dated: 20010103
+
+casualty 0n: 20320100
+

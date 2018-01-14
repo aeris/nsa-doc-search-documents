@@ -1,0 +1,54 @@
+TOP SECRETIICOMINTHREL TO USA. FVEY
+
+ 
+
+(SIISI) Hand held finishing tool used for geolocating targeted handsets
+in the field.
+
+(SIISI) Features:
+
+0 Split displayicontroller for
+flexible deployment
+capability
+
+0 External antenna for DFing
+target; internal antenna for
+communication with active
+interrogator
+
+.Multiple technology
+capabiﬂty based on SDR (5N5!) WATERWITCH Handset DF Set
+Platform; currently UMTS, with GSM and CDMAZOOO under
+development
+
+0 Approximate size 3" x 7.5" x 1.25" (radio). 2.5" x 5" x 0.75"
+(display): radio shrink in planning stages
+0 Display uses E-lnk technology for low light emissions
+
+(SIISI) Tactical Operators use WATERWITCH to locate
+handsets (last mile) where handset is connected to Typhon or
+similar equipment interrogator. WATERWITCH emits tone and
+gives signal strength of target handset. Directional antenna on
+unit allows operator to locate specific handset.
+
+ 
+
+Status: Under Development. Available FY2008 Unit Cost:
+LRIP Production due August 2008
+
+Poc=_. s32242.—- .
+
+WATERWITCH
+Handheld Finishing Tool
+
+07:30:03
+
+ 
+
+Derived From: HSNCSSM 1-52
+
+TOP SECRETHCOMINTHREL T0 USA. FVEY
+
+Dated: 20070103
+Declnsity On: 20320100
+

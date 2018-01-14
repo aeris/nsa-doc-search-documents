@@ -1,0 +1,68 @@
+TOP SECRETIICOMINTIIREL TO USA. FVEY
+
+SCHOOLMONTANA
+
+ANT Product Data
+
+ 
+
+(TSIISWREL) SCHOOLMONTANA provides persistence l0r DNT implants. The DNT "—
+implant will survive an upgrade or replacement of the Operating system — including 0612 M08
+physically replacing the router's compact flash card.
+
+I
+
+0
+
+Command. emu. mu Data 5mm using 5 NSA
+
+ONT Ween-1mm Promo! Will I Remote Operations center
+l
+
+FRUIIIOWROUNW
+
+IPUICPU
+Mir-h-
+
+I"!
+I-Iﬂlﬂ
+Inna
+on "in.“ . . . .
+
+     
+
+ 
+
+Target Network
+
+(susmneu scuoowomnun Concept 0! Operations . . . .
+(TSI/SU/REL) Currently, the intended DNT Implant to persist is ....
+VALIDATOR, which must be run as a user process on the target .
+
+operating system. The vector of attack is the modiﬁcation of the target's
+
+BIOS. The modiﬁcation will add the necessary software to the BIOS and ...
+modify its software to execute the SCHOOLMONTANA implant at the end
+of its native System Management Mode (SMM) handler. ..
+
+(TSf/SLUREL) SCHOOLMONTANA must support all modern versions of
+JUNOS, which is a version of FreeBSD customized by Juniper. Upon
+system boot, the JUNOS operating system is modiﬁed in memory to run
+the implant, and provide persistent kernel modiﬁcations to support
+implant execution.
+
+(TSHSIIIREL) SCHOOLMONTANA is the cover term for the persistence technique
+to deploy a DNT implant to Juniper J-Series routers.
+
+Status: (UIIFOUO) SCHOOLMONTANA completed and released by ANT May 30.
+2008. It is ready for deployment.
+
+POC:- S32222.__ - ' 1' - ammusucssu 1-52
+
+omunanmun
+Deduslty 0n: 20320100
+
+ 
+
+TOP SECRETHCOMINTIIREL TO USA. FVEY
+

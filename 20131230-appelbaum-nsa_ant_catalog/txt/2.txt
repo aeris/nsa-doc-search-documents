@@ -1,0 +1,66 @@
+TOP SECRETHCOMINTHREL TO USA. FVEY
+
+ 
+
+(T SflSIlIR EL) IR ONCHEF provides access persistence to target systems by
+exploiting the motherboard BIOS and utilizing System Management Mode (SMM) to
+communicate with a hardware implant that provides two-way RF communication.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(TSﬂSiiiREL) IRONCHEF Extended Concept 01 Operations
+
+(TSIISIIREL) This technique supports the HP Proiiant 3800L GS server. onto which
+a hardware implant has been installed that communicates over the I’C Interface
+
+(WAGON BED].
+
+(TSJIStﬂREL) Through interdiction. IRONCHEF. a software CNE implant and the
+hardware implant are installed onto the system. It the software CNE implant is
+removed from the target machine. IRONCHEF is used to access the machine.
+determine the reason for removal of the software. and then reinstall the software
+from a listening post to the target system.
+
+Status: Ready for Immediate Delivery Unit Cost: $0
+
+POC=_ 832221.--; . .
+
+ 
+
+IRONCHEF
+ANT Product Data
+
+.....
+
+07114tf08
+
+ 
+
+Deﬁned} On: 20320100
+
+TOP SECRETHCOMINTNREL T0 USA. FVEY
+

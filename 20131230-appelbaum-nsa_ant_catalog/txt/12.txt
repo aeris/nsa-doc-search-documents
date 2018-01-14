@@ -1,0 +1,62 @@
+TOP SECRETIICOMINTHREL T0 USA. FVEY
+
+ 
+
+(TsrrstEL TO USAFVEY) The ammo is a portable continuous wave (CW)—
+radar unit. It can be used to illuminate a target system to recover different off net
+
+information. Primary uses include VAGRANT and DROPMIRE collection.
+
+ 
+
+(TS/ISIIIREL T0 USAFVEY) The CTX4000 provides the means to collect signals
+that otherwise would not be coliectable. or would be extremely difficult to collect
+and process. It provides the following features:
+
+- Frequency Range: 1 - 2 GHz.
+
+. Bandwidth: Up to 45 MHz
+
+- Output Power: User adjustable up to 2 W using the internal amplifier; external
+ampliﬁers make it possible to go up to 1 kw.
+
+. Phase adjustment with front panel knob
+
+- User-selectable high- and low-pass filters.
+
+- Remote controllable
+
+- Outputs:
+
+. Transmit antenna
+
+- I & Q video outputs
+
+- DC bias for an external pre-amp on the Receive input connector
+
+. Inputs:
+
+- External oscillator
+- Receive antenna
+
+Unit Cost: NIA
+
+Status: unit is operational. However. it is reaching the end of its senrice life. it is
+scheduled to be replaced by PHOTOANGLO starting in September 2008.
+
+ 
+
+CTX4000
+
+ANT Product Data
+
+8 Jul 2008
+
+POC:_. 532243" _'-h I I' 'E E : DNUWFfm1N3NC53M1-52
+
+Dated: 200N110!
+
+Deanna! 0n: 20320100
+
+TOP SECRETHCOMINTHREL T0 USA. FVEY
+

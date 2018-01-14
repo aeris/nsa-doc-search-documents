@@ -1,0 +1,83 @@
+TOP SECRETIICOMINTHREL TO USA. FVEY
+
+ 
+
+(T SiiSiiiRE L) HEADWATER is a Persistent Backdoor (PBD) software implant for
+selected Huawei routers. The implant will enable covert functions to be remotely
+executed within the router via an Internet connection.
+
+Commend. Carrol, and Data Emir-ﬁn wing
+ONT lmplm Commutation: Protocol {typical}
+
+   
+
+Remote Operations Center
+
+    
+
+firewall or Router
+"PU i CPU
+Migue-
+
+ 
+ 
+ 
+
+“I“
+“I
+out lawn
+
+ 
+
+Target Network
+
+(T SNSliiREL) HEADWATER Persistence implant Cement of Operations
+
+(TSHSI/IREL) HEADWATER PBD implant will be transferred remotely over
+the internet to the selected target router by Remote Operations Center
+(ROC) personnel. After the transfer process is complete, the P80 will be
+installed in the router‘s boot ROM via an upgrade command. The 930 will
+then be activated after a system reboot. Once activated, the ROC
+operators will be able to use DNT's HAMMERMILL Insertion Tool (HIT) to
+control the P80 as it captures and examines all IP packets passing through
+the host router.
+
+(TS/ISWREL) HEADWATER is the cover term for the P80 for Huawei
+Technologies routers. PBD has been adopted for use in the joint NSAICIA
+effort to exploit Huawei network equipment. (The cover name for this joint
+project is TURBOPANDA.)
+
+Status: (UIIFOUO) 0n the shell ready for deployment.
+
+POC:- $32222. -.—:.- -- -
+
+I 1
+- i
+' t
+: ”SA l
+I l
+' t
+
+l
+
+  
+ 
+ 
+   
+     
+ 
+
+ 
+
+HEADWATER
+
+ANT Product Data
+
+OHZMOB
+
+Derived From: ﬂSN‘CSS-ﬂ 1-52
+“Id: 2007010:
+Bled-nil)! OI'I: 2032010!
+
+TOP SECRETHCOMINTHREL TO USA. FVEY
+

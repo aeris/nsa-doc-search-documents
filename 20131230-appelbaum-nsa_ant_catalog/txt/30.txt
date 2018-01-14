@@ -1,0 +1,120 @@
+TOP SECRETIICOMINTIIREL TO USA. FVEY
+
+ 
+
+(T SIISIIIREL) GOPHERSET is a software implant for GSM (Global System for
+Mobile communication) subscriber identity module (SIM) cards. This implant pulls
+Phonebook. SMS. and call log information from a target handset and exfrltrates it to
+a user-deﬁned phone number via short message service (SMS).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+   
+ 
+
+GOPHERS ET on
+SIM
+Fill SMS with Encrypt SMS
+Data —'*
+Decrypts Trigger k
+W
+l Retrieve Send SMS
+
+Requested Info
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Parse Instructions
+
+ 
+
+ 
+
+ 
+
+(unsouoi oomenser - Operational Schematic
+
+(T SﬂSIﬂREL} Modern SIM cards (Phase 2+) have an application program intertace
+known as the SIM Toolkit (STK). The STK has a suite of proactive commands that
+allow the SIM card to issue commands and make requests to the handset.
+GOPHERSET uses STK commands to retrieve the requested inlormation and to
+extiltrate data via SMS. After the GOPHERSET tile is compiled. the program is
+loaded onto the SIM card using either a Universal Serial Bus (U53) smartcard
+reader or via over-the-air provisioning. In both cases. keys to the card may be
+required to install the application depending on the service provider's security
+conﬁguration.
+
+Unit Cost: $0
+Status: (UIIFOUO) Released. Has not been deployed.
+
+Poc: urrFouo- 532222._-._-.u
+
+—.
+
+GOPHERSET
+
+ANT Product Data
+
+._.
+
+10:01:08
+
+ 
+
+Derived From: "MOSS” 1-52
+
+mo: MIDI.”
+
+Bestiality 0n: 20320100
+
+TOP SECRETII'COMINTIIREL TO USA. FVEY
+

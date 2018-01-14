@@ -1,0 +1,63 @@
+TOP SECRETHCOMINTHREL TO USA. FVEY
+
+ 
+
+(TSﬂSIﬂREL TO USA.FVEY) Beacon RF retro-reﬂector. Provides return
+when illuminated with radar to provide rough positional location.
+
+(U) Capabilities
+
+(TSHSWREL T0 USA.FVEY) TAWDRYYARD is 32NDB
+used as a beacon. typically to assist in locating 8 1°
+
+and identifying deployed RAGEMASTER units. 4 12 20
+Current design allows it to be detected and located
+quite easily within a 50' radius of the radar system
+being used to illuminate it. TAWDRYYARD draws
+as 8 Mt at 2.5V (20uW) allowing a standard lithium
+coin cell to power it for months or years. The
+simplicity of the design allows the form factor to
+be tailored for speciﬁc operational requirements.
+Future capabilities being considered are return of
+GPS coordinates and a unique target identifier and
+automatic processing to scan a target area for
+presence of TAWDRYYARDs. All components are
+COTS and so are non-attributable to NSA.
+
+(U) Concept of Operation
+
+(TS/ISIHREL T0 USA.FVEY) The board generates a square wave operating
+at a preset frequency. This square wave is used to turn a FET (ﬁeld effect
+transistor) on and off. When the unit is illuminated with 8 CW signal. the
+illuminating signal is amplitude-modulated (AM) with the square wave. This
+signal is re—radiated. where it is picked up by the radar. then processed to
+recover the clock signal. Typically. the fundamental is used to indicate the
+unit's presence. and is simply displayed on a low frequency spectrum
+analyzer. TAWDRYYARD is part of the ANGRYNEIGHBOR family of radar
+retro-reﬂectors.
+
+    
+
+Unit Cost: 530
+
+Status: End processing still in development
+
+POC: — $32243. -. -i:.-
+
+TAWDRYYARD
+ANT Product Data
+
+.—
+
+07 Apr 2009
+
+ 
+
+0m From: NSNCSSM 1-52
+
+Med: MIDI”
+
+bed-55w On: 20320100
+
+TOP SECRETHCOMINTHREL T0 USA. FVEY
+

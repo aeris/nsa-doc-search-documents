@@ -1,0 +1,43 @@
+TOP SECRETIICOMINTH‘REL TO USA. FVEY
+
+ 
+
+(T SIISIHREL) SWAP provides soitware application persistence by exploiting the
+motherboard BIOS and the hard drive's Host Protected Area to gain periodic
+execution before the Operating SyStem loads.
+
+ 
+
+ 
+
+ 
+
+(TSJlstEL) SWAP Extended Concept 0! Operations
+
+(TSIISIIIREL) This technique supports single or multiprocessor systems running
+Windows. Linux. FreeBSD. or Solaris with the following ﬁle systems: FAT32. NTFS.
+EXTZ. EXTS. or UPS 1.0.
+
+(T SIISIIIREL) Through remote access or interdiction. AR KSTREAM is used to re-
+ﬂash the BIOS and TWISTEDKILT to write the Host Protected Area on the hard
+drive on a target machine in order to implant SWAP and its paytoad (the implant
+installer). Once implanted. SWAP's frequency at execution (dropping the payload) is
+conﬁgurable and will occur when the target machine powers on.
+
+Status: Released ! Deployed. Ready for Unit Cost: $0
+
+Immediate Delivery
+
+Poc: — 532221. --g;: s
+
+ 
+
+SWAP
+ANT Product Data
+
+OBIZOJOB
+
+Deduslﬂ On: 20320100
+
+TOP SECRETIICOMINTHREL T0 USA. FVEY
+

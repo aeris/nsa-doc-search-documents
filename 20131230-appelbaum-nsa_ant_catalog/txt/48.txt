@@ -1,0 +1,59 @@
+TOP SECRETUCOMINTIIREL TO USA. FVEY
+
+ 
+
+(T SJlSIﬂREL TO USAFVEY) RF retro-reflector that provides an enhanced radar —
+
+cross-section for VAGRANT collection. We concealed in a standard computer video
+graphics array (VGA) cable between the video card and video monitor. It's typically
+installed in the ferrite on the video cable.
+
+(U) Capabilities
+
+(T SIISIIIREL TO USA.FVEY) RAGEMASTER provides a target for RF flooding
+and allows for easier collection of the VAGRANT video signal. The current
+RAGEMASTER unit taps the red video line on the VGA cable. It was found that.
+empirically. this provides the best video return and cleanest readout of the
+monitor contents.
+
+—«—r van-r m -r
+1 32010
+J 24 28 4 3 12 ‘5
+
+       
+
+(U) Concept of Operation
+
+(T SllSlllREL T0 USA.FVEY) The RAGEMASTER taps the red video line
+between the video card within the desktop unit and the computer monitor.
+typically an LCD. When the RAGEMASTER is illuminated by a radar unit. the
+illuminating signal is modulated with the red video information. This information
+is re-radiated. where it is picked up at the radar. demodulated. and passed
+onto the processing unit. such as a LFS-Z and an external monitor.
+NIGHTWATCH. GOTHAM. or (in the future) VIEWPLATE. The processor
+recreates the horizontal and vertical sync of the targeted monitor. thus allowing
+TAO personnel to see what is displayed on the targeted monitor.
+
+Unit Cost: 3 30
+
+Status: Operational. Manufactured on an as-neecled basis. Contact P00 for
+availability information.
+
+RAG EMASTER
+
+ANT Product Data
+
+.—
+
+24 Jul 2008
+
+ 
+
+FOO: - 532243' _'-H' I 1 3 :‘ om FIMIZNSNCSSM 1-52
+
+Wed: 20010103
+
+Deciusify On: 20320100
+
+TOP SECRETHCOMINTHREL T0 USA. FVEY
+
