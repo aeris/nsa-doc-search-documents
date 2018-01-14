@@ -1,0 +1,59 @@
+ 
+
+Malware from the Five Eyes
+
+Introduction
+
+The Five Eyes commonly share tools and techniques, and in some occasions also collectively develop new
+ones, such as the WARRIORPRIDE malware framework.
+
+WARRIORPRIDE, as all the malware programs we discovered in Five Eyes' arsenal, is very flexible and
+versatile. Among the many interception modules WARRIORPRIDE is provided with, the technical research
+team has obtained a copy of QWERTY - WARRIORPRIDE's component designed to invisibly record all key
+strokes from an infected Windows computer - from the Snowden Archive.
+
+Der Spiegel is now releasing QWERTY to the public in order to foster further research and investigations. Der
+Spiegel believes that the release of the malware, which appears to be several years old and likely replaced by
+more recent variations, will not affect any ongoing operation.
+
+Technical Preview
+
+QWERTY is a keylogger, a plugin for the WARRIORPRIDE malware framework, that is designed to intercept a||
+keyboard keys pressed by the victim and record them for later inspection.
+
+Its structure is really simple. It's made of a core component called QwertyKM, a driver that interfaces directly
+with Windows' keyboard manager, and a QwertyLP library which interacts with the driver to retrieve the keys
+pressed by the user and keep track of them in a file.
+
+QWERTY is composed of the following binary files:
+
+- 20120.dll
+- 20121.dll
+- 20123.5ys
+
+Each one of these components is provided with a structured XML document that defines all available
+commands as well as dependencies.
+
+We learned from Snowden documents that WARRIORPRIDE is the implementation of a CNE library called
+Wzowski. In some of the XML documents from QWERTY we find it referenced as a dependency — WzowskiLib
+v2.1 — along with a more generic CNELib v2.10.
+
+Additionally, we can find hardcoded in one of the binaries the following string:
+
+C:\dev\k1svn\dsd\|mplants\WarriorPride\production2.0\package\E_Wzowski\Release\E_Qwerty.pdb
+
+This strongly confirms the connection to WARRIORPRIDE and possibly suggests a relation to the Defense
+Signals Directorate (DSD), now just known as Australian Signals Directorate (ASD), one of the Five Eyes.
+
+File
+
+The malware samples are contained in a password-protected zip archive (password is “infected”) attached here
+encoded in base64.
+
+To avoid problems with copy and pasting that occur with some PDF readers, the following command line can
+be used on a Linux system to easily extract the zip file from this PDF:
+
+pdftotext filename.pdf -|grep -v greplgrep AAAAA -A 1000|tr -d '\014'|sed -e '/"$/d'|base64 -d > malware.zip
+
+The resulting zip file should have the sha1sum f4fa863426136d0006f897b8a1dd21d2ad838660.
+
