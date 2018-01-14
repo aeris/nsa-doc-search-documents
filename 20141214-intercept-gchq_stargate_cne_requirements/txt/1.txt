@@ -1,0 +1,103 @@
+SECRET STRAPl COMINT
+The maximum classification allowed on GCWiki is TOP SECRET STRAPl COMINT. Click to report
+
+1na ro riate content.
+
+ 
+
+For GCWiki help contact: webteam — Support page
+
+STA'RG'ATE CNE Requirements
+
+From GCWiki
+(Redirected from OPCCNE Prototyping STARGATE CNE Requirements)
+Jump to: navigation, search
+
+OPCCNE Prototypi_ng Team (team leader—
+
+HOME . MAD . KITCHEN SINK . MARVAL ICE . IRONING BOARD . TIN REVERIE . SORCERER .
+FEDEX
+
+Agil_e . Admin . Andromeda . Data Characterisation . Desks . Discussion . Forensics . IndeX . Links . Notes
+. Storyboards . Team . Training . Planning . Priorities . Unification Workshop . Infrastructure .
+
+Development Process
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This page is for OPH—CNE staff to add requirements
+for STARGATE. You should start by reading the STARGATE
+Endpoint Initiative Requirements. Your requirement
+may have already been captured.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0 User Guide
+Some headings have been added to get you started.... . —Bugs & Feedback
+0 Deployments
+0 CNE Requirements
+I Sur er
+Contents . Supgporyt
+I 1 How should the file system be rendered? Administration
+0 2 How do you want to search the file system?
+0 3 How do you want to get tasked by 0 User Management tool
+customers? 0 Plugins
+O 4 What should appear on the summary pages?
+What about summary pages for a Project or VORPAL SWORD
+Implant?
+0 5 Embedded Comments 0 User Guide
+0 6 What would CNE need from Network 0 Bugs & Feedback
+diagrams? 0 Development
+0 7 What input is most important 0 Version history
+
+ 
+
+(ipconf i g/ netstat/ dns/ arps/ . . ..) ?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+o 8 Scrjgts CLOTHO 2
+
+0 9 Visualising non—DareDevil logs
+
+I 10 Add a new section here! . Interface from ROYAL MANTLE
+
+Architecture
+[edit] HOW should the file system be
+rendered? I Connectivity
+' . ERIDANUS
+0 I would like to be able to use STARGATE to . CHEYENNE MOUNTAIN
+0 CHEYENNE MOUNTAIN2
+
+ 
+
+vieW the files directly from the S drive. GCHQ
+
