@@ -1,0 +1,39 @@
+[edit] Other
+Genialto Yuaawaa — secure ﬁle sharing service identiﬁed. apparently used by genialto employees— maybe just as testers?
+
+. Findings from-
+
+JTHIG research identified — as a Gemalto Technical [onsultant in Prague. Searching in LDAD revealed an item in
+which an email was sent from sharinﬁyuuwaamom to a nmIber of @gemalto.com email addresses, including — and -
+_ l[who is already known to us as a Tech [onsultantL Investigation on the internet revealed that ‘I'uuwaa lm.yum1aa.coml
+is a device for storing and sharing files sold by Gemalto. It consists of a LIED stick and associated
+
+management software. The device also provides access to online storage using a subscription model. It claims to use 123—bit SSL
+to encrypt the traffic to the online storage location. The device is aimed at the general consuler market, so presmIably Demalto
+is encouraging its employees to use it. Amusingly, the quotes from “customers" on the website all appear to be from Gemalto
+
+employees !
+
+— is a llinemalto employee in Singapore. His job title is I'Eales — Telecom Solutions and Services". He will shortly
+lIFeb,.I"March 26111 be moving to Paris {still with Gemaltol
+
+— is described as a "[onsuler Device — Product Marketing Manager" at La [iotat {France}. He appears to be some sort
+of adIinist rator for ‘I'uuwaa, and we have not seen any indication that he will have any data of interest, so he is unlikely to be worth following up.
+
+— is "Technical Account Manager MEIHA—Telecom" and is based in Dubai {from previous knowledge}. He did not see
+any interesting data in collection, and since we have good coverage of the Dubai office, further investigation is probably
+unnecessary at this time.
+
+— is "EITD TEaI Servers Softwarefﬂoud Eomputing Innovation HE {hairman" and is not likely to be of interest.
+— is Account Manager {Middle Eastl and is based in Dubai {see —l
+
+— appears to be Sales Manager for Gemalto l{Thailand}. He saw him sending PEP—enc rypted output files in
+IME‘I'EEME. Again, if we ever become more interested in this area, he would certainly be a good place to start.
+
+All other names {other than — who was already known aboutl did not have any useful information or any details of
+their role.
+
+For a full list of names, see the [MAPS l— contactsl under DP HIﬂ-lLMIII FLII'Ik'i.
+
+. Hopefully some of this information will be useful in future efforts against Genialto.
+
