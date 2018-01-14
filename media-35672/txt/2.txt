@@ -1,0 +1,30 @@
+"*"Tu "5' ation Technology ”7‘
+
+    
+
+_ - Dire Grate ITD} -.
+_ _ - _ , - , _ III-IIIIII
+
+- Working definition: Active implant copies traffic and
+directs a copy past a passive collector
+
+— Issues arise when collector is also processing passive traffic
+simultaneously
+
+- Current: Implants on network infrastructure devices,
+not user endpoints
+
+- Two types:
+— Physical/link layer:
+
+- an implant copies and shapes an entire link (E1, STMl) without
+selection; passive midpoint does selection
+
+— Network layer:
+
+- an implant performs targeted copying based on IP or
+application parameters and exfils only the targeted traffic;
+passive collector may or may not do further selection.
+
+TOP SECRET/[COMINT/IF
+
