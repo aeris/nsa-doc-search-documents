@@ -1,0 +1,24 @@
+TOP SECRET H COMINT
+
+I *I Communications Security Centre de la sécurité ‘
+Establishment Canada des telecommunications Canada -
+
+KOG — ReﬂantFarm .
+
+ 
+
+. Created to leverage the WP XML output in a
+meaningful way
+
+. Module based parser/alert system running on real-time
+CNE operational data
+
+. Custom/module based analysis:
+— Actors
+— Implant technology
+— Host based signatures
+— Network based signatures
+
+Safeguarding Canada’s security through information superiority C (1”'
+Préserver la sécurité du Canada par la supériorité de i’information 2111a a
+

@@ -1,0 +1,28 @@
+TOP SECRET H COMINT
+
+I * I Communications Security Centre de la sécurité
+Establishment Canada des telecommunications Canada
+
+ 
+
+ 
+
+CSEC CNE (K) -m\RRIORPRIDE
+
+- WARRIORPRIDE (WP):
+— Scalable, Flexible, Portable CNE platform
+— Unified framework within CSEC and across the 5 eyes
+— WARRIORPRIDE@CSE/etc. 2: DAREDEVIL@GCHQ
+— xml command output to operators
+- Several plugins used for machine recon / OPSEC assessment
+Several WP plugins are useful for CCNE:
+— Slipstream : machine reconnaissance
+— ImplantDetector : implant detection
+— RootkitDetector : rootkit detection
+— Chordflier/U_ftp : file identification / retrieval
+— NameDropper: DNS
+— WormWood : network sniffing and characterization
+
+Safeguarding Canada’s security through information superiority C (1”'
+Préserver la sécurité du Canada par la supériorité de f’information 21113. a
+

@@ -1,0 +1,44 @@
+TOP SECRET H COMINT
+
+I *| Communications Security Centre de la sécurité ‘
+Establishment Canada des telecommunications Canada
+
+ 
+
+ 
+
+ 
+
+Generic modules : example .
+
+my @runningProcs = xml_isProcessRunning( $xml, 'svchost.{l,3}\\.exe',
+'winlogon.{l,3}\\.exe',
+'services.{1,3}\\.exe',
+'|sass.{l,3}\\.exe',
+'spoolsv.{l,3}\\.exe',
+'autochk.{l,3}\\.exe',
+'Iogon.{l,3}\\.scr',
+'rundll32.{1,3}\\.exe',
+'chkdsk.{l,3}\\.exe',
+'chkntfs.{l,3}\\.exe' ,
+'Iogonui.{l,3}\\.exe',
+'ntoskrnl.{l,3}\\.exe',
+'ntvdm.{1,3}\\.exe',
+'rdpclip.{1,3}\\.exe',
+'taskmgr.{l,3}\\.exe',
+'userinit.{l,3}\\.exe',
+'wscntfy.{1,3}\\.exe',
+'tcpmon.{l,3}\\.dil' );
+
+foreach my $runningProc (@runningProcs)
+
+{
+
+$alertText .= "Suspicious process detected, legitimate exe named appended with string: " .
+$runnlngProc i. ".\n";
+
+Saféguarding Canada’s security through information superiority p: _ __ (.1l_2|
+Préserver la sécurité du Canada par la supériorité de i ’information le lddd
+
+——
+

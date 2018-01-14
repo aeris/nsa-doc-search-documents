@@ -1,0 +1,28 @@
+TOP SECRET H COMINT
+
+I * Communications Security Centre de la sécurité
+Establishment Canada des telecommunications Canada
+
+ 
+
+ 
+
+ 
+
+ 
+
+Anomaly Detection Tools
+
+- There are currently over 50 modules in Slipstream
+— RFC Validation
+— Heuristic Checks
+— Periodicity
+— Simple Encryption
+— Streaming Attack Detection
+— Analyst Utilities
+
+- Not all of these tools are ‘YES/NO’, some will require some
+
+Safeguarding Canada’s security through information superiority C dlol
+Préserver la sécurité du Canada par la supériorité de l’information 31121 a
+

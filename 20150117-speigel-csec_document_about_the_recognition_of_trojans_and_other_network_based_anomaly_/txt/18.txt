@@ -1,0 +1,133 @@
+TOP SECRET II COMINT
+
+I * Communications Security Centre de la sécurité
+. Establishment Canada des telecommunications Canada
+
+ 
+
+ 
+
+ 
+
+CLASSIFICATION: TOP SECRET // COMINT // REL TO FVEY
+Global Access Roadmaj supporting SRSG and WISDEN Scenarios
+
+    
+
+  
+      
+  
+  
+
+Calendar Year: 2010 || Calendar Year 291 1
+
+ 
+
+ 
+
+Topic Desired Outcomes # Activity July , 5-}? (QB) 0:: - Do: (94) Jane Mar (91) Apre Jun (on July - Sap (Q3) Oct - De: (9‘?)
+, Shared Situational M- Eiulk daily sharing of Cyber Event Metadata with 5*
+Awareness M2 Receive Metadata from partner agencies
+
+' A3955 value 0f metadata M.3 Report on value of metadata sharinci f
+Metacata shar ng f MA Inst'ument NRT s1arlng of CSEC Cyber Event Metadata
+Sharing SEEYEIOP Use cases or M.5 Report on NRT sharing (value / lessons learned / reqt's]
+aring M.o Enrich NRT feed with Geolocaticn / ASH
+, Develop Requlrments for _ , _
+INRT Uppirlr, hi] Add Im'iant in‘nrmatinn Tn event metadata
+MJEI Extend Deadsea Live feed from CSEC to GCHQ
+MS Receive FastFlux metadata (tip: b/w GHCQ/CSEC (see T.6/T.7)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+, Replace current Signature 5 l Replace existing signature management with Ha ter-iitch l
+Management 5iii’S'Eem E '- Implement Impacts with DGI for Signatures {resenter i"l HH)
+_ ' Impacts to support Actions 5 ' DeLurnr‘iissiUri Lurrerit LdrgeLLirig process and replace wiLli HH I
+Signatdures on I Cuelng and enhance 5 l Report on HH (vaer ,’ lessosn learned I requirments / etc)
+Tgrget M3333: :Ei‘gext to metﬁdm E - Open SIGINT HH repository to ITS for Sig'iature Sharing :|
+Knowledge _ Experiment with TKB to 5 ’ Open SIGINT HH repository to S—eyes to retrieve signatures
+gather requirments 5 ’ Trial nSpaces with CTEC I TAC/ NAC/ DGI
+, Create baseline of Cyber 9 ? Report on value of nSpaces :0 support Target Knowledge |:|
+knowledae 5’ Seteup Collaborative Web Environment :|
+7 Create a shared C 1 Establish Cyber Play»l>en MEIE/ CND
+environment to EXDEFimET‘It (-2 Upcirade EONBLUE for use in Cyber PlayePen cramp
+with content Sharhg C 3 Assist in porting EONBLUE capability tu PPF cream:
+Shar'ng 7 Develop requirments/I ‘3" Promote EONBLUE/ PPF content to sharec XKS I GTE slug
+Cyber lessons learned on Shanng C 5 Evaluate retrieving GHCO content based on events from XKS GIT/am
+Content fDI’I‘ItUeS'Eate e Litable I h Trial feeding FONRI IJF events at CSFC to a local XKS ‘ mm:
+processing inquber capability (-7 Evaluate opening CSEC Cyber-XKS to GCHQ I are / cup
+, Trial XKS for content sharing ‘ " Expose CSEC Cyber—XKS interface :0 5—eyes
+built on existino metadata C-P Report on content sharing experiments ;
+, Leverage EONBLUE's native T.1 Send EONBLUE cue‘s across Canadian SSO Sites l
+messaging to extend nat onal .’ Serid EONBLUE Lue‘s between Canadian Passive Prugrdrris
+capability (Within SIGINT/ 1.3 Instrument Cyber Session Collection Domestically
+With ITS) I I 14 Send tips on GoC activity to IT Security
+peariﬁlrjsﬁ?n::|rsi:|ntgipt:il:ge;aI T.5 Send EONBLUE cue's from Canadian 550 to ITS Sensors
+cueing to enhance content T.5 Introduce and develop Cyber Session Collection Experiment
+Tipping and T.7 Tip FASTFLUX events from CSEC to GCHQ
+
+. shar‘ng/ metadata sharing
+CUEIT‘IQ , Cue international EONBLUE TB Extend EONBLJE FastFlux cue's to GCHQ Fas:F|ux Software
+
+and similar components with T.9 Receive cue's from GCHQ's FastFlux Software at EONBLUE
+FASTFLUX as trial T.1( Make FASTFLUX tips availab e to other Seeyes agencies
+— Tip iri NRT SIGINT ever Ls i.1:Tip irI NRT EONBLUE messages L0 5~eyes based on IP-Geu
+related to partner countries T.1:Send EONBLUE cue's from CSEC EONBLUE to DSD EONBLUE
+T.1: Based on equitable processing (C.3) send cue's tp GCHQ
+T.1: Prepare report on Tipping / Cueinq (reuuirments/ value / etc)
+
+ 
+
+ 
+
+    
+
+ 
+
+ 
+
+anad'éi
+— —
+
+_
+Safeguarding Canada’s security through information superiority C
+Préserver la sécurité du Canada par la supériorité de I ’information
+
