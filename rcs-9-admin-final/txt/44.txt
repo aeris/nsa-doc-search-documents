@@ -1,0 +1,48 @@
+RC5 9 - Editing operation data
+
+Step Action
+
+2 Select the group (or groups) to be assigned to the operation.
+0 NOTE: the user who is creating the operation must belong to at least one of
+the linked groups.
+
+3 Enter the required data and click Save: the new operation appears in the main work
+area in Open status.
+
+Editing operation data
+To edit operation data:
+
+Step Action
+
+ 
+
+1 Select an operation and click Edit: its data appears.
+
+2 Edit data and click Save.
+
+Closing an operation
+
+To close an operation and begin uninstalling agents on all targets:
+
+Step Action
+
+1 Select an operation and click
+Close.
+
+2 Confirm close: all targets are closed and agent uninstall is requested. Data is left
+available on the database.
+
+CAUTION: closing an operation is irreversibie see "What you should know
+. about operations" on page 30
+
+Deleting an operation
+To delete an operation:
+
+Step Action
+
+1 Select an operation and click Delete.
+
+ 
+
+Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013. HTS.r.|. - pag. 34
+

@@ -1,0 +1,63 @@
+RC5 9 - Closing an investigation
+
+Step Action
+
+ 
+
+1
+
+In the Accounting section, Users set the people who will belong to the investigation
+team and their roles.
+
+See ”User management” on page 20
+
+In the Accounting section, Groups set the team enabled to view investigation data
+and receive system alarms.
+
+See "Group management" on page 25
+
+In the Operations section, open the investigation and link one or more groups.
+See "Operation management" on page 31 and "Operation page” on page 35
+
+Inform the RC5 Technician of the TYPE-‘5 0f evidence '00 be collected
+
+In the Audit section, monitor system access by the team and check their actions.
+See "User monitoring fAudit)" on page 41
+
+Closing an investigation
+The typical procedure performed to close an investigation is indicated below:
+
+Step Action
+
+ 
+
+1
+
+In the Operations section, close the investigation.
+See "Operation management"
+
+If necessary, ask the System administrator to save evidence in a Backup file.
+
+Monitoring the system
+
+The typical procedures performed to monitor RC5 use are indicated below:
+
+Step Action
+
+ 
+
+1
+
+In the Monitor section, monitor system messages and licenses used.
+
+See "System monitoring {Monitor}" on page 46
+
+In the Audit section, monitor actions performed by Technicians, Analysts and other
+Administrators.
+
+See "User monitoring fAud'it)" on page 41
+
+ 
+
+Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013. HTS.r.l. -pag. 17
+

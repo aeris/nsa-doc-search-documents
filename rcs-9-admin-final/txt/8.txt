@@ -1,0 +1,50 @@
+RC8 9 - Glossary
+
+ 
+
+E
+entity
+Group ofintelligence information linked to the target and people and places
+involved in the investigation.
+ESSID
+(Extended Service Set lDentiﬁer) Known as SSID, identiﬁes the W'rFi network.
+evidence
+
+Collected data evidence. The format depends on the type ofevidence (i.e.: image).
+
+evidence alerts
+Alerts, usually in the form of emails, sent to analysts when new evidence matches
+
+the set rule.
+
+F
+
+ 
+
+factory
+A template for agent conﬁguration and compiling.
+
+front end
+Environment designed to communicate with agents to collect information and set
+
+their conﬁgurations. In distributed architecture, it includes the Collector and Network
+Controller.
+
+ 
+
+injection rules
+Settings that deﬁne how to identify HTTP trafﬁc, what resource should be injected
+
+and what method is to be used forthe injection.
+
+M
+
+ 
+
+Monitor
+Console section that monitors components and license status.
+
+ 
+
+Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013. |-|TS.r.|. - pag. Vl
+

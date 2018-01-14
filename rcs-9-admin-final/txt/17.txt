@@ -1,0 +1,31 @@
+RCS 9 - Differences between RCS 8.0 and RC3 16 versions
+
+Differences between RCS 8.0 and RCS 7.6 versions
+
+Differences with the RC5 7.6 version are described below
+
+ 
+
+Glossary
+
+365 v. 7.6 365 3.0 and higher
+Activity Operation
+
+Agent Module
+Anonymizer chain Anonymizing chain
+Backdoor Agent
+
+Backdoor Class Factory
+
+Collection Node (ASP) Collector
+
+Injection Proxy Appliance (IPA) Network Injector Appliance
+Log Repository (RCSDB) Master Node and additional Shard
+Mobile Collection Node (RSSM) Collector
+
+RCSAnon Anonymizer
+
+ 
+
+Administrator's Guide I ver.1.4 SEP—2013 I RC8 9 I 2013© HTS.r.I. - pag. 7
+

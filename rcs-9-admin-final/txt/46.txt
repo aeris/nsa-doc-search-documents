@@ -1,0 +1,65 @@
+RCS 9 - What the function looks like
+
+.‘I
+
+ 
+
+ 
+
+ 
+
+ 
+
+Err 1- m- CHI—l
+
+ﬂ mourn": mallow: I'xlx'cc :::'>:m -'Jc:('ln Erm- -'-.o: tin-ix a
+
+g -'.l==n.lur - "9.4.1:“ ﬁle 9
+(E: In: D at ﬂ 4» m E. El . _.q—.
+'.-h'|-u(r mun-3 r' a” 4:» -.-.-.s ..-1-r «hr "Tm"; —
+
+: : : l::.:|b
+
+uwmw Imv mu-m m n.‘
+
+a i. -.-,.I
+
+ 
+
+Area Description
+
+ 
+
+1 RC5 menu.
+2 Scroll bar.
+3 Window toolbar. Descriptions are provided below:
+
+Icon Fun: tien
+
+G Add a target.
++ NOTE: the function is only
+enabled if the user has Target
+
+management authorization.
+
+ 
+
+Edit the selected target.
+
+Delete the selected target.
+
+Close the target.
+
+elJXi
+
+Move the target to another operation.
+
+4 Target list:
+
+9 Open target
+Q Closed target
+
+ 
+
+Administrator's Guide I uer.1.4 SEP—2013 I RC8 9 I 2013- HTS.r.l. -pag. 36
+

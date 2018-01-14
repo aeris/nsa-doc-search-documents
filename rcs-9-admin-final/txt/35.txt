@@ -1,0 +1,57 @@
+RES 9 - Privilege data
+
+ 
+
+Privilege data
+
+Administrator authorizations
+Following is a description of the authorizations assigned to Administrators:
+
+ 
+
+Data Description
+User and group Enables the Accounting section.
+mana ement . . . .
+g 0 NOTE: users with this authorization can naturally
+change their own and others' authorizations.
+Operations Enables Operations management.
+management
+Target Enables target management.
+management
+
+System auditing Enables the Audit section.
+
+License mod- Allows the license to be updated.
+iﬁcation
+
+System administrator authorizations
+Following is a description of the authorizations assigned to System Administrators:
+
+ 
+
+Data Description
+Frontend management Enables the System, Frontend section.
+Backend management Enables the System, Backend section.
+
+System Backup 8: Restore Enables the System, Backup section.
+Injector management Enables the System, Network Injector section.
+
+Connectors management Enables the Connectors section.
+
+Technician authorizations
+Following is a description of the authorizations assigned to Technicians:
+
+ 
+
+Data Description
+
+Factory creation Allows factories to be created and set.
+Installation vector creation Allows installation vectors to be compiled.
+Agent conﬁguration Allows agent configurations to be edited.
+Command execution on Allows commands to be run on agents.
+agents
+
+ 
+
+Administrator's Guide I uer.1.4 SEP—2013 I RC8 9 I 2013. HTS.r.l. -pag. 25
+

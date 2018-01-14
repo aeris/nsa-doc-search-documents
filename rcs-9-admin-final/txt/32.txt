@@ -1,0 +1,57 @@
+RC5 9 -To learn more
+
+ 
+
+Area Description
+
+ 
+
+3 Window toolbar. Descriptions are provided below:
+
+icon Description
+
+. Add a user
+l-I-
+
+EdIt the selected user.
+
+ 
+
+x Delete the selected user.
+
+.1 Disconnect the selected user.
+
+4 Main work area with list of registered users:
+
+‘5' Registered user currently logged into RC5.
+
+G
+U Registered user but not currently logged into RC5.
+F:
+U
+8 Registered user but not enabled to login. The user cannot have access to RC5.
+5 Selected user data.
+
+5 RC5 status bar.
+
+To learn more
+
+For interface elem ent descriptions See ”Shared interface eiements and actions” on page 12 .
+For a description of the data in this window see "User data" on page 24 .
+
+For more information on users and groups see "What you snouid know about users and groups "
+on page 19 .
+
+Registering and enabling a user for RC5
+To register a new user:
+
+Step Action
+
+ 
+
+1 Click New user: data entry fields appear.
+
+ 
+
+Administrator's Guide I yer.1.4 SEP—2013 I RC8 9 I 2013- HTS.r.l. -pag. 22
+

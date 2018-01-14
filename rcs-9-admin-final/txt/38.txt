@@ -1,0 +1,51 @@
+RC5 9 - Creaﬁng a group and linking users and operations
+
+ 
+
+For more information on groups and users see ”What you should knowr about users and groups".
+
+Creating a group and linking users and operations
+To create a new group:
+
+Step Action
+
+ 
+
+1 Click New group: enter a name to be assigned to the group.
+
+2 Enter the required data and click Save: the new group is displayed in the main work
+area.
+
+3 In the Users in this Group table, click EB to add users to the group.
+
+4 In the Operations in this Group table, click to add operations to the group:
+the next time group users login, they will see the added operation.
+
+0 IMPORTANT: if an operation is linked to a user who is currently logged in,
+the user will only be able to view the operation the next time she/he logs
+in.
+
+Editing group data and removing users and operations
+To edit group data:
+
+Step Action
+
+ 
+
+1 Double-click a group.
+
+2 Edit the name and click Save.
+3 In the Users in this Group table, click l:l to remove users from the group.
+
+4 In the Operations in this Group table, click l:l to remove operations from the
+group: the next time group users login, they will no longer see the operations in the
+list.
+
+0 IMPORTANT: if an operation is removed from a user who is currently
+logged in, the user will no longer view the operation the next time shelhe
+logs in.
+
+ 
+
+Administrator's Guide I yer.1.4 SE P—2013 I RC8 9 I 2013. HTS.r.l. - pag. 28
+

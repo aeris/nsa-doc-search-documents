@@ -1,0 +1,45 @@
+RCS 9 - Starling the RC5 Console
+
+Starting the RC5 Console
+
+When started, RC5 Console asks you to enter your credentials previously set by the Administrator.
+
+What the login page looks like
+This is what the login page looks like:
+
+3 E n...‘l_.I-::., mp1“? ill] I
+
+m Causal: 9.0 E
+
+lecrnme cc":
+
+ 
+
+Area Description
+
+ 
+
+1 Title bar with command buttons:
+3 Close RCS Console.
+
+El Expand window button.
+l;l Shrink window button.
+
+2 Login dialog window.
+
+Open RC5 Con sole
+
+To open RCS Console functions:
+
+Step Action
+
+ 
+
+1 In Username and Password, enter the credentials as assigned by the Administrator.
+
+2 In Server, enter the name ofthe machine or server address to connect to.
+
+ 
+
+Administrator's Guide I yer.1.4 SEP—2013 I RC8 9 I 2013. HTS.r.l. - pag. 9
+

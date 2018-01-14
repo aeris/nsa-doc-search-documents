@@ -1,0 +1,24 @@
+ 
+
+Managing RCS login
+
+Presentation
+Introduction
+Managing users and groups is essential to guarantee data conﬁ dentiality and security.
+
+Content
+
+This section includes the following topics:
+
+ 
+
+What you should know about users and groups ....................................................... 19
+User management ............................................................................................... 20
+User data ........................................................................................................... 24
+Privilege data _____________________________________________________________________________________________________ 25
+Group management ............................................................................................. 26
+
+ 
+
+Administrator's Guide uer.1.4 SEP—2013 - RC8 9 - 2013. HTS.r.l. - pag. 13
+

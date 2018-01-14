@@ -1,0 +1,56 @@
+RC5 9 - Whatyou should know aboutusers and groups
+
+ 
+
+What you should know about users and groups
+
+Introduction
+
+To guarantee maximum data conﬁdentiality and security, RCS provides the Administrator the
+opportunity of assigning login privileges to each user and grouping users in workgroups for
+specific operations. The structure adapts to both situations were tasks are highly fragmented and
+situations where all tasks are perform ed by a few people.
+
+By managing users, the Administrator can also quickly disconnect a suspected user and
+temporarily disable hisf'her RC5 login.
+
+Login privileges
+
+RCS was designed to guarantee maximum server and collected data security. To achieve this goal,
+four distinct roles were defined that usually refer to the professionals who can login to the system:
+
+0 "1!! System administrator: exclusively in charge of hardware and software installation and
+backups
+
+0 “ﬂ Administrator: in charge of all system login, investigations and investigation goals
+
+0 F Technician: in charge of setting up and installing tapping agents
+
+0 04 Analyst: in charge of data analysis
+
+‘ Tip: several roles can be assigned to the same user, for exam pl e, an Administrator can
+also have Technician privileges.
+
+Functions enabled by single role
+Following is the list of RCS functions reserved to users in a specific role:
+
+ 
+
+Role E noble-d functions
+administrator o M onitor
+Administrator ° Accounting
+0 Operation
+0 AUdl‘lC
+o M onitor
+Technician 0 Operation
+0 System
+Analyst 0 Operation
+
+0 Intelligence
+0 Dashboard
+o Alerting
+
+ 
+
+Administrator's Guide I ver.1.4 SEP—2013 I RC8 9 I 2013- HTS.r.l. -pag. 19
+

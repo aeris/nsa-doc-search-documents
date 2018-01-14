@@ -1,0 +1,61 @@
+RC5 9 - Removing one or more ﬁlters
+
+Step Action
+
+ 
+
+1 Click on one or more column headings: a search ﬁeld appears where you can enter
+data.
+
+2 Enter the word to be searched and press Enter. Information in the column will be
+filtered and ordered according to the entered search word.
+
+Removing one or more filters
+To remove a filter and display all data:
+
+if you wont to remove... Then...
+
+ 
+
+a single ﬁlter unselect the combo box in the column heading.
+
+all filters simultaneously Clle R95“ filters.
+
+NOTE: the date filter is always on, set on actions in the last 24 hours. Only the time criteria
+can be changed.
+
+Exporting displayed actions
+To export displayed actions:
+
+Step Action
+
+ 
+
+1 Click Export: data entry fields appear.
+
+2 Enter the name of the file to be exported and click OK : a
+
+progress bar indicates operation progress. To check progress,
+click on the bar.
+
+User monitoring data (Audit)
+
+Audit table columns are described below:
+
+ 
+
+Coiumn Description
+
+Date Action date-time.
+
+Actor Name of the logged in user that caused the action.
+
+Action Type of action run by the logged in user. The action is displayed as
+
+individuoioction. For example "user.update" means that a user was updated. This
+makes selecting the same types of actions easier.
+
+ 
+
+Administrator's Guide I yer.1.4 SE P—2013 I RC8 9 I 2013. HTS.r.l. - pag. 43
+

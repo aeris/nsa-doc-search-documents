@@ -1,0 +1,25 @@
+ 
+
+Operation and target
+
+Presentation
+
+Introduction
+Managing operations sets the targets to be tapped.
+Content
+
+This section includes the following topics:
+
+ 
+
+What you should know about operations ................................................................ 30
+What you should know about targets ..................................................................... 30
+Operation management ....................................................................................... 31
+Operation data ___________________________________________________________________________________________________ 35
+Operation page ................................................................................................... 35
+Operation page data ............................................................................................ 38
+
+ 
+
+Administrator's Guide uer.1.4 SEP—2013 - RC8 9 - 2013. HTS.r.l. - pag. 29
+

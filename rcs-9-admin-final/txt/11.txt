@@ -1,0 +1,34 @@
+ 
+
+Guide introduction
+
+Presentation
+
+Manual goals
+
+This manual is a guide for the Administrator on how to use the RC5 Console to:
+
+. create users and workgroups
+. open and close investigations
+. monitor RCS users
+
+. monitor the system
+
+Information on how to consult the manual is provided below.
+Content
+
+This section includes the following topics:
+
+ 
+
+New guide features .............................................................................................. 2
+Supplied documentation ....................................................................................... 2
+Print concepts for notes ........................................................................................ 3
+Print concepts for format ...................................................................................... 3
+Product and guide addressees ________________________________________________________________________________ 4
+Software author identification data ........................................................................ 4
+
+ 
+
+Administrator's Guide uer.1.4 SEP—2013 - RC8 9 - 2013. HTS.r.I. - pag. 1
+

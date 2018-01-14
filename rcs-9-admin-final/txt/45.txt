@@ -1,0 +1,51 @@
+Step Action
+
+RC5 9 - Operation data
+
+ 
+
+2 Confirm the action by clicking OK: operation data, targets, agents and all evidence is
+deleted from databases.
+
+‘ CAUTION: deleting an action is irreversible and all data linked to that operation is lost.
+
+Operation data
+
+Selected operation data is described below:
+
+ 
+
+Data Description
+Name Operation name.
+Description User's description
+Contact Descriptive field used to define, for example, the name of a contact person (Judge,
+Attorney, etc.).
+Status Operation status and close command:
+OPEN: the operation is open. If targets were set and agents correctly installed, the
+RC5 receives the collected evidence.
+CLOSED: the operation is closed and can not be re-opened. Agents no longer send
+data but evidence already received can still be viewed.
+I CAUTION: closing an operation is irreversible.$ee "What you should know
+about operations" on page 30
+Groups Groups that can see the operation.
+
+See "Group management" on page 26
+
+Operation page
+
+To New on operation: 0 Operation section, double-click an operation
+
+Purpose
+
+This function lets you:
+
+1- create one or more targets to be monitored during an operation
+. manage target activationfdeactivation.
+
+What the function looks like
+This is what the page looks like:
+
+ 
+
+Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013. HTS.r.|. - pag. 35
+

@@ -1,0 +1,27 @@
+RC5 9 - User monitoring data [Audit]
+
+Column Description
+
+ 
+
+User User concerned by the action, for example, created by an Administrator. It should
+not be confused with the name in Actor which is the user who caused the action.
+
+Group Group concerned by the action, for example, the group linked to an operation.
+
+Operation Operation concerned by the action, for example, the operation closed by an
+Administrator.
+
+Target Target concerned by the action, for example, the target closed by an
+Administrator.
+
+Agent Agent concerned by the action, for exam pl e, agent created by a Technician.
+
+Description Brief description of the action.
+
+0 NOTE: all actions are displayed in English.
+
+ 
+
+Administrator's Guide I yer.1.4 SE P—2013 I RC8 9 I 2013. HTS.r.|. - pag. 44
+

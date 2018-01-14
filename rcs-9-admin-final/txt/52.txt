@@ -1,0 +1,51 @@
+RCS 9 -To learn more
+
+Area Description
+
+ 
+
+1 RC5 menu.
+2 Window toolbar. Descriptions are provided below:
+
+icon Description
+
+E; Export displayed actions to a CSV
+'5 format file (can be imported in Excel).
+
+ 
+
+‘NQ Remove all filters applied to table
+data.
+
+3 List of actions run by RCS users.
+4 RC5 status bar.
+
+To learn more
+
+For interface elem ent descriptions See "Shared interface eiements and actions" on page 12 .
+For a description of the data in this window see "User monitoring data fAudit)"
+
+For more information on the audit see "What you snouia‘ knowr about user monitoring (A udit)" on
+page 40 .
+
+Selecting actions in a time range
+To only view actions in a certain time range:
+
+Step Action
+
+ 
+
+1 Click on the Date column heading.
+
+2 Click on the required time range.
+
+6 NOTE: the date filter is always on, set on actions in the last 24 hours. Only the criteria can
+' be changed.
+
+Selecting actions based on proposed data
+To increase result accuracy:
+
+ 
+
+Administrator's Guide I yer.1.4 SEP—2013 I RC8 9 I 2013- HTS.r.l. -pag. £12
+

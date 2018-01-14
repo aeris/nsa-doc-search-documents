@@ -1,0 +1,56 @@
+RCS 9 - What happenswhen a target is created
+
+ 
+
+0 creating a new target within an operation
+
+0 instruct the Technician on activation schedules and the types of evidence to be collected
+through a certain target's agents, based on the instructions received from legal authorities
+
+0 monitoring correct instruction application through Audits
+
+0 closing a target
+
+What happens when a target is created
+
+When a target is created it is already declared open and thus the Technician can be asked to
+generate and install agents.
+
+What happens when a target is closed
+A target can be closed, for example, when closing investigations for that target.
+
+Closing a target automatically closes its agents. When an agent is closed, uninstallation occurs at
+the first synchronization, leaving the device clean.
+
+A closed target cannot be re-opened. Only the target data and those sent by agents are left in the
+database.
+
+I CAUTION: when a target is closed, all linked agents are automatically uninstalled. Only
+close a target when certain to have all the required data.
+
+CAUTION: for infrequent synchronizations, Jfor example, every Jfour days, wait for the last
+' planned synchronization before closing the target.
+
+. Tip: only close the target when you are sure that agents have downloaded all the required
+information.
+
+Opening and closing an operation
+
+When an operation is closed, all of its targets are irreversibly closed and all their agents are
+uninstalled. See "What you should know about operations” on previous page .
+
+Operation management
+
+To 111 anage I Operations section
+operations:
+
+Purpose
+This function lets you:
+
+0 create a new operation
+0 assign the operation to a user group
+
+ 
+
+Administrator's Guide I ver.1.4 SEP—2013 I RC8 9 I 2013. HTS.r.|. -pag. 31
+

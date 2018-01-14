@@ -1,0 +1,50 @@
+RC8 9 - Glossary
+
+System
+Console section that manages the system.
+
+System administrator
+The person who installs the servers and consoles, updates software and restores
+data in case offaults.
+
+T
+
+ 
+
+Tactical Network Injector
+The portable version ofNetwork Injector, fortactical use. See: Network Injector
+
+Appliance.
+
+TAP
+(Test Access Port) a hardware device installed in a network that passively monitors
+the transmitted data flow.
+
+target
+The physical person under investigation.
+
+Technician
+The person assigned by the Administrator to create and manage agents.
+
+V
+
+ 
+
+VPS
+(Virtual Private Server) a remote server where the Anonymizer is installed. Com-
+monly available for rent.
+
+W
+
+ 
+
+WPA
+(WIFi Protected Access) WiFi network protection.
+
+WPA 2
+(WiFi Protected Access) WiFi network protection.
+
+ 
+
+Administrator's Guide I ver.1.4 SEP—2013 I RCS 9 I 2013. HTS.r.l. - pag. Vlll
+

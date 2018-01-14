@@ -1,0 +1,49 @@
+RC5 9 - Enablinngisabling a user
+
+Step Action
+
+2 Enter the required data and make sure the Enabled box is selected if you want the
+user to login to RCS.
+
+Click Save: the new user with the 0 icon appears in the main work area.
+
+Enablinngisabling a user
+To enable or disable a user to login to RCS:
+
+Step Action
+
+1 Double-click a user: hislher data appear.
+
+2 Click Enabled to enable or disable.
+
+3
+Click Save: the new user appears in the main work area with icon U (enabled) or
+
+U
+8 (disabled).
+
+IMPORTANT: if the user is logged in, she/he will continue to work but the
+' next login will be denied. To immediately disconnect a user see
+"immeciioteiy disconnecting or user" beiow .
+
+Immediately disconnecting a user
+To immediately disconnect a logged in user:
+
+Step Action
+
+1
+
+Click on a user t' and click Disconnect user:the user appears with icon. in the
+main work area.
+
+0 IMPORTANT: if the user is logged in, she/he will immediately be
+disconnected. The next login will be permitted unless the user is disabled.
+To disable the user see "Enobiing/Disobiing or user” above .
+
+Editing user data
+To edit user data:
+
+ 
+
+Administrator's Guide I ver.1.4 SEP—2013 I RC8 9 I 2013- HTS.r.|. -pag. 23
+

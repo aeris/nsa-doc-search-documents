@@ -1,0 +1,23 @@
+Monitoring users
+
+Presentation
+
+Introduction
+
+Monitoring RCS users guarantees correct investigations and the observance of rules and
+indications issued by any authority that requested the investigations.
+
+Content
+
+This section includes the following topics:
+
+ 
+
+What you should know about user monitoring (Audit) .............................................. 40
+User monitoring (Auditl _______________________________________________________________________________________ 41
+User monitoring data (Audit) ................................................................................ 43
+
+ 
+
+Administrator's Guide ver.1.4 SEP—2013 - RC8 9 - 2013. HTS.r.|. - pag. 39
+

@@ -1,0 +1,62 @@
+RC5 9 - Analyst authorizations
+
+ 
+
+ 
+
+Data Description
+
+Upload files to agent Allows files to be sent to agent.
+
+Import evidence Allows evidence to be imported.
+
+Injector rules management Allows rules to be added for Network
+Injectors.
+
+Analyst authorizations
+Following is a description of the authorizations assigned to Analysts
+
+ 
+
+Data Description
+
+Alerts creation Allows alert rules to be created.
+
+File system browsing Allows the agent's file system to be browsed.
+
+on agents
+
+Evidence editing Allows priorities to be assigned to evidence and notes
+added.
+
+Evidence deletion Allows evidence to be deleted.
+
+NOTE: this authorization is never enabled by
+default since it requires a user license.
+
+Evidence EXPO“: Allows evidence to be exported
+
+Entity management Allows intelligence entities to be managed.
+
+Group management
+
+To manage 0 Accounting section, Groups
+groups:
+
+Purpose
+This function lets you:
+
+c organize users in work groups to assign specific operations
+. create an alerting group to receive system alarm e-m ails
+
+. Tip: to more simply and quickly group and manage users intended to receive RC5 alarms,
+create an "alerting" group without linking it to an operation but containing all the users to
+be alerted in the event of alarm.$ee "User management" on page 20
+
+NOTE: the function is only enabled if the user has User and group management
+authorization.
+
+ 
+
+Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013. HTS.r.l. - pag. 26
+

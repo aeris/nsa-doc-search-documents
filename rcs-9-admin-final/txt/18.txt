@@ -1,0 +1,42 @@
+ 
+
+RCS Console for the Administrator
+
+Presentation
+
+The Administrator's role
+
+The Administrator's role is:
+. to manage system access by assigning users the various roles foreseen bv the application
+. to create and close investigations
+. to define the involved targets
+. to inform the Technician user of the types of evidence to be tapped
+. to monitor actions run by users
+. to monitor licenses available for RC5 components
+
+Functions enabled for the Administrator
+
+To complete hi s/her activities, the Administrator has access to the following functions:
+
+. Accounting
+. Operation
+. Audit
+
+. Monitor
+
+Content
+
+This section includes the following topics:
+
+ 
+
+Starting the RC5 Console ....................................................................................... 9
+Homepage description _________________________________________________________________________________________ 10
+Wizards in the homepage ..................................................................................... 11
+Shared interface elements and actions .................................................................... 12
+Administrator's procedures ................................................................................... 16
+
+ 
+
+Administrator's Guide ver.1.4 SEP—2013 - RC8 9 - 2013. HTS.r.l. - pag. 3
+

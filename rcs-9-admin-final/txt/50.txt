@@ -1,0 +1,60 @@
+RCS 9 - Whatyou should know about user monitoring [Audit]
+
+ 
+
+What you should know about user monitoring (Audit)
+
+What is user monitoring
+
+The Audit is a list of actions taken by all Administrator, Technician and Analyst users in RC5. Its
+purpose is to guarantee correct investigations and the observance of rules and indications issued
+by any authority that requested the investigations.
+
+This way, the Administrator can monitor system access by enabled users and trace special actions
+over time such as, for example, target creation.
+
+How signaled actions are read
+The Audit records all actions run on the system by each single user in a table.
+Four pieces of information are always included in each action:
+
+. action date-time,
+
+. user that performed the action,
+0 action type,
+
+. description of the action
+
+The other ﬁelds are only populated according to the type of action. For example, if a user logs into
+the system, the Audit records the user's name in Actor and the "login" action type in Action.
+
+If a Technician creates agents, an action appears in the list for each agent with the name of the
+user, the "target.create" type of action, the operation name, target name and agent's name.
+
+6 NOTE: : audit records are not localized and only available in English.
+
+Selecting specific actions using filters
+
+The function normally displays actions performed in the last 24 hours. The filter on the Date
+column is thus the only filter that is always set by default but can be changed as needed. For this
+reason, the corresponding combo box is always selected.
+
+A ﬁlter can be set for all other columns to refine the search. If the combo box next to the heading
+is selected, the filter on that column is active.
+
+Each heading thus allows you to select which data should be displayed.
+
+Only the Description column lets you enter part of the text to be searched, for exam pl e, if "log" is
+entered, all actions whose descriptions contain the text "log" will be displayed. For example:
+
+"User 'xxx' logged in"
+"Log ﬁle created"
+
+Exportable data
+
+RC5 lets you export recorded actions for Administrators, Technicians and Analysts. The ﬁle will be
+downloaded to the RC5 Download folder on the desktop.
+
+ 
+
+Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013. HTS.r.l. - pag. 4U
+

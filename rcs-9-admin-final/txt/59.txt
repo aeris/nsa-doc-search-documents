@@ -1,0 +1,75 @@
+RC5 9 - License monitoring data
+
+ 
+
+Data Description
+
+ 
+
+Status Component status at last synchronization:
+
+0 Alarm: the component is not running, contact the alerting group for immediate
+service.
+
+A Warning: the component signals a risky situation, contact the system
+administrator for necessary checks.
+
+U Component running.
+
+CPU 96 CPU use by the single process.
+CPU % CPU use by server.
+Total
+
+Disk Free 96 free disk space.
+
+License monitoring data
+
+License monitoring data is described below: For restricted licenses, the format is "x/y" where x is
+the amount of licenses currently used by the system and y the maximum amount of licenses.
+
+I CAUTION: if all the licenses are in use, any new agents will be put in queue until a license
+is freed or new ones purchased.
+
+Data
+
+Description
+
+ 
+
+License type
+
+Users
+
+Agents
+
+Desktop
+Mobile
+
+Distributed
+server
+
+Collectors
+
+Type of license currently in use for agents.
+reusable: an agent's license can be reused after it is uninstalled.
+oneshot: an agent's license is only valid for one installation.
+
+NOTE: the license can only be updated if the user has License
+modification authorization.
+
+Amount of users currently used by the system and maximum admitted quantity.
+Amount of agents currently used by the system and maximum admitted quantity.
+
+Amount of desktop and mobile agents currently used by the system and
+maximum admitted quantities respectively.
+
+Amount of database currently used by the system and maximum admitted
+quantity.
+
+Amount of Collectors currently used by the system and maximum admitted
+quantity.
+
+ 
+
+Administrator's Guide I ver.1.4 SEP—2013 I RC8 9 I 2013- HTS.r.|. -pag. £19
+

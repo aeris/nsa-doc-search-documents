@@ -1,0 +1,46 @@
+RC5 9 - User monitoring [Audit]
+
+User monitoring (Audit)
+
+To monitor users: I 0 Audit section
+
+Purpose
+
+This function lets you monitor Administrator, Technician and Analyst actions in RC5. For example,
+you can monitor correct operation progress, target activation/deactivation schedules and the
+Technician's correct application of the types of agents authorized for a speciﬁc operation.
+
+What you can do
+
+You can select only the actions run in a certain period and apply filters to search, for example, for
+detailed information on specific operations or users. In the event of need, actions can always be
+
+exported in CSV format files.
+
+0 IMPORTANT: if the page is kept open, it must be refreshed to View the most recent
+actions. See "Homepage description " on page 10
+
+6 NOTE: the function is only enabled if the user has System auditing authorization.
+
+What the function looks like
+This is what the page looks like:
+
+'--'I E inmm-zlhm— L. .- _‘
+ﬂ .-'-.oc: m2: -.q Ur'at 3n: .Ituout .'r'or||:
+?- El
+I'll-A flit. Emu.
+M Di“ L MM J hula" ||_I |lw| L Glam J I\.';IIII'VII L Illvll _ Mil
+
+EVE-:CIR'z'J'E- ::rrl' u;:ru::.r:
+.u..-qu .1 J v .-.\n- m: u:
+
+     
+
+ 
+
+.-. ._...-...|i| ....._.... M
+
+ 
+
+Administrator's Guide I yer.1.4 SE P—2013 I RC8 9 I 2013. HTS.r.l. - pag. 41
+

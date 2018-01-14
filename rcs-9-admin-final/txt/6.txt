@@ -1,0 +1,46 @@
+G lossary
+
+The terms and their definitions used in this manual are provided below.
+
+A
+
+ 
+
+Accounting
+Console section that manages RCS access.
+
+acquisition sequence
+Group ofcomplex events, actions and acquisition modules that make up the
+advanced agent conﬁguration.
+
+Administrator
+The person who enables user access to the system, creates work groups and
+deﬁnes operations, targets and the type ofdata to be collected.
+
+Agent
+Software probes installed on devices to monitor. They are designed to collect
+evidence and communicate it to the Collector.
+
+alert rules
+Rules that create alerts when new evidence is stored or agents communicate back
+forthe ﬁrst time.
+
+Alerting
+Console section that manages new evidence alerts.
+
+alerting group
+Group ofusers who receive notiﬁcations via mail whenever a system alarm is trig-
+gered (for example, when the database exceeds available free space limits). Nor-
+mally this group is not linked to an operation.
+
+Analyst
+Person in charge of analyzing the data collected during operations.
+
+Anonymizer
+(optional) Protects the server against external attacks and permits anonymity during
+investigations. Transfers agent data to Collectors.
+
+ 
+
+Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013. |-|TS.r.|. - pag. l'u'
+

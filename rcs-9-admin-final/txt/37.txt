@@ -1,0 +1,87 @@
+RC5 9 - What the function looks like
+
+ 
+
+What the function looks like
+This is what the page looks like:
+
+ 
+
+ 
+
+'4 l—I,‘ r..--....r..-»I=,...- GE-‘
+ﬁ- Auuuntinn Oral-5:» A...“ .'."u'i|'.'l
+Um: '_ Glouos J
+‘ —
+5+ E! x _ IQ .
+r....-.-.'\..-. =:|c..:-..: mans.“
+4
+5; as a;
+H H
+d-l
+
+Ih‘l'l: :|-\-'- :H\
+
+ 
+
+ 
+
+ 
+
+ 
+
+| LEI
+
+lIScISJha-Erxn n CDCWLIHIISENIP
+
+ 
+
+ 
+
+.1 I
+m- u I “I.“
+
+rm une-
+
+ 
+
+ 
+
+ 
+
+ 
+
+g, .-I-~‘,'Im -..-.-\ .-- ~ 1- I" ‘
+
+Area Description
+
+ 
+
+1 RC5 menu.
+2 Accounting menu.
+
+3 Window toolbar. Descriptions are provided below:
+
+icon Description
+
+.1 Add a group.
+H'I'
+
+ 
+
+Edit the selected group.
+
+x Delete the selected group.
+
+4 Group list.
+5 Users and operation assigned to the selected group.
+
+5 RC5 status bar.
+
+To learn more
+For interface elem ent descriptions See ”Shared interface eiernents and actions” on page 12 .
+
+ 
+
+Administrator's Guide I uer.1.4 SEP—2013 I RC8 9 I 2013- HTS.r.l. -pag. 27
+

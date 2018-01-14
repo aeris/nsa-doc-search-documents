@@ -1,0 +1,50 @@
+RC5 9 - System monitoring data [Monitor]
+
+Step Action
+
+ 
+
+2 0 To turn off e-m ail notifications, select None.
+
+or
+
+0 To turn on group e-mail notifications, select Select a group to be alerted via
+email and the alerting group from the drop down menu. Each time a system
+alarm is triggered, the selected group will receive an e-mail with its descrip-
+tion.
+
+3 Click Sara.
+‘ Tip: to more simply and quickly group and manage users intended to receive RCS alarms,
+
+create an "alerting" group without linking it to an operation but containing all the users to
+be alerted in the event of alarm.$ee "User management" on page 20
+
+System monitoring data (Monitor)
+
+System component monitoring data
+System monitoring data is described below:
+
+ 
+
+Data Description
+Type Monitored component type and name:
+Name 9 a
+Network Controller
+I
+' Anonymizer
+I-
+-
+- Database
+4—-
+"H
+' Collector
+
+Address Component's IP address.
+
+Last con- Last synchronization date-tim e.
+tact
+
+ 
+
+Administrator's Guide I yer.1.4 SEP—2013 I RC8 9 I 2013- HTS.r.|. -pag. £18
+

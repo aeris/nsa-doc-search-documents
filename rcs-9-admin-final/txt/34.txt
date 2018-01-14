@@ -1,0 +1,57 @@
+Step Action
+
+RC5 9 - User data
+
+ 
+
+1 Double-click a user: hislher data appear.
+
+2 Edit data and click Save: data is considered from the next login or next alert
+messages.
+
+User data
+
+Selected user data is described below:
+
+ 
+
+Data Description
+Enabled Select to enable user login to RCS. Do not select to leave the user registered but
+deny login to RCS.
+Name Name used to login to RCS.
+Description User's description
+Contact user's e-m ail.
+Ilv‘i PO RTANT: if the user has Analyst privileges, evidence alerts will be
+sent to this address. The e-mail cannot be changed by the user.
+Password User's password. The user can change it later from the status bar.
+Roles Privileges assigned to the user:
+ab 5 stem administrator
+V
+"k Administrator
+d‘Technician
+Q Anal st
+V
+For a detailed description of privileges see "Privilege data” on next page
+Advanced Opens the window to assign authorizations for each privilege.
+
+permissions
+Language
+
+Console
+Timezone
+
+Groups
+
+For a detailed description of authorizationssee "Privilege data" on next page
+
+RC5 Console interface language. The user can change it later from the status
+bar.
+
+Time zone used by the RC5 Console to display time.
+
+User's groups. The user can only see the operations assigned to the group.
+
+ 
+
+Administrator's Guide I ver.1.4 SEP—2013 I RC8 9 I 2013- HTS.r.|. -pag. 24
+

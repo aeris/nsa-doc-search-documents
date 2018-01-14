@@ -1,0 +1,50 @@
+RCS 9 - User groups per operation
+
+User groups per operation
+
+Groups allow users to be grouped to assign them specific operations. This way, several operations
+can be managed simultaneously, guaranteeing maximum data confidentiality amongst
+workgroups.
+
+See "Operation management” on page 31
+
+0 IMPORTANT: operation assignments to a workgroup will be effective the next time
+the user in that group logs in.
+
+User groups for system alarm alerts
+
+A group of users exclusively intended to receive an e-mail in the event of system alarm can be
+created.
+
+This way, fast System administrator intervention can be guaranteed in the event of serious faults.
+See "System monitoring fMonr'tor)" on page 46
+
+User management
+
+To manage 0 Accounting section, Users
+
+USEJ'S:
+
+Purpose
+This function lets you:
+. register a user and allow himfher access to certain RC5 functions. Once registered, the
+user can login and view functions based on assigned roles
+. temporarily disable user login, for example, in the event of prolonged absence
+1- immediately disconnect the user from RC5, for exam pl e, in the event of alleged illegal
+
+access to RCS
+. monitor the date-time and IP address of the user's last connection to RC5 and other per-
+
+tinent data
+
+him/her (if connected) and disable himfher.
+
+NOTE: the function is only enabled if the user has User and group management
+
+‘ Tip: to block a user and prevent any access to RC5, we suggest you immediately disconnect
+a authorization.
+
+ 
+
+Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013. HTS.r.|. - pag. 20
+

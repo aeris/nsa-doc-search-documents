@@ -1,0 +1,70 @@
+RC5 9 - System monitoring [Monitor]
+
+System monitoring (Monitor)
+
+To in onitor the system: I - Monitor section
+
+Purpose
+This function lets you:
+
+0 monitor system status in both hardware and software terms
+0 monitor license used compared to those purchased
+0 define the alerting group and alert e-mail addressee in the event of system alarms
+
+1: Service caii: Contact your HackingTearn Account Manager if additionai iicenses are
+. required.
+
+What the function looks like
+This is what the page looks like:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+-l I'muw'ﬂlrlan 93D
+.. ........ W... W. ......o W “me-
+x a l 9 El r:-. .
+. '. :::\rm'.:n 0-“: X":
+:5» him |.'.mm -u. m- :W’HIWJI:- In»!
+.
+1.: any-mu. new in m 1
+H :I i": 5 H ”N F.
+- v n m
+—
+Q mu 1» g’ noun-Mr: an 19b 1.1
+t I - I-CIP‘\
+.m ..-.. .- mum.
+'wll ml E Mam .I
+.n. :.-.. :-
+i5 "mu-m 1- 1
+5 “was“... .1. J
+u u n-
+. c uuuuu vs
+on Men M
+n. .n w
+a r . -- El .- 4*
+
+Area Description
+
+ 
+
+1 RC5 menu.
+
+Moni'tmr' : indicates the current number of system alarms triggered.
+
+ 
+
+Administrator's Guide I yer.1.4 SEP—2013 I RC8 9 I 2013- HTS.r.l. -pag. £16
+

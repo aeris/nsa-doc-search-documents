@@ -1,0 +1,25 @@
+ 
+
+RCS (Remote Control System)
+
+Presentation
+
+Introduction
+RCS (Remote Control System] is a solution that supports investigations by actively and passively
+tapping data and information from the devices targeted by the investigations. In fact, RC5
+
+anonymously creates, sets and installs software agents that collect data and information, sending
+the results to the central database to be decrypted and saved.
+
+Content
+
+This section includes the following topics:
+
+ 
+
+Differences between RC5 8.0 and RC5 7.6 versions ..................................................... 7
+
+ 
+
+Administrator's Guide ver.1.4 SEP—2013 - RC8 9 - 2013. HTS.r.l. - pag. 6
+

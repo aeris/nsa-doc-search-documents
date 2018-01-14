@@ -1,0 +1,59 @@
+RC5 9 - Administrator's procedures
+
+Action Description
+
+ 
+
+Filter based on several Select one or more options: the elements that match all selected
+options options appear.
+Emu:
+
+I Untagged
+
+I Law
+I Medlllm
+ll Hiuh
+a Critical
+
+ 
+
+Change the column Select the edge of the column and drag it.
+size
+
+Administrator's procedures
+
+Introduction
+
+Procedures typically performed by the Administrator are indicated below with references to their
+pertinent chapters.
+
+Procedures
+
+Preparing the RC5 for use by other users
+Following are the procedures typically performed to prepare RC5 for use by others:
+
+Step Action
+
+ 
+
+1 In the Accounting section, Users set the people who will have access to RCS.
+See "User management" on page 20
+
+2 In the Accounting section, Groups create the user group (usually composed of
+system administrators and not linked to any operation) that will receive the system
+alarm e-mail notifications
+
+See "Group management" on page 26
+
+3 In the Monitor section, select the group that will receive the system alarm e-mail
+notifications.
+
+See "System monitoring fMonitor)" on page 46
+
+Opening an investigation
+Procedures typically performed to open an investigation are indicated below:
+
+ 
+
+Administrator's Guide I ver.1.4 SEP—2013 I RC8 9 I 2013- HTS.r.|. -pag. 16
+

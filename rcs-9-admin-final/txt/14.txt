@@ -1,0 +1,57 @@
+RC5 9 - Product and guide addressees
+
+ 
+
+Exampie Styie Description
+Select one of [x] indicates the object specified in the text that appears in the adjacent
+the listed image.
+servers [2].
+Click Add. bold indicates text on the operator interface, a graphic element (i.e.:
+Select the File table, tab) or screen button (i.e.: display).
+menu, Save
+data.
+Press ENTER UPPER indicates the name of keyboard keys.
+CASE
+See: Network - suggests you compare the deﬁnition of a word in the glossary or
+Injector content with another word or content.
+Appliance.
+
+Product and guide addressees
+
+Following is the list of professionals that interact with RC5.
+
+Addressee Activity Skiiis
+
+ 
+
+System Follows the HackingTeam's instructions provided during the Expert
+
+administrator contract phase. Installs and updates RC5 servers, Network network
+Injectors and RC5 Consoles. Schedules and manages backups. technician
+Restores backups if servers are replaced.
+
+WARNING: the system administrator must have the
+required necessary skills. The HackingTeam is not liable
+for equipment malfunctions or damages due to
+unprofessional installation.
+
+Administrator Creates authorized accounts and groups. Creates operations and investigation
+
+target. Monitors system and license status. manager
+Technician Creates and sets up agents. Sets Network Injector rules Tapping
+speciaiist
+technician
+Analyst Analyzes and exports evidence. Operative
+
+Software author identification data
+
+HT 5.r.|.
+
+via della Moscova, 13
+20121 Milano (MI)
+Italy
+
+ 
+
+Administrator's Guide I ver.1.4 SEP—2013 I RCS 9 I 2013(3) HTS.r.I. - pag. 4
+

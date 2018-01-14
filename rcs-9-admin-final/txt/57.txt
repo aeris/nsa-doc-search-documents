@@ -1,0 +1,52 @@
+RC5 9 -To learn more
+
+Area Description
+
+ 
+
+2 Window toolbar.
+Descriptions are provided below:
+
+icon Description
+
+ 
+
+' Deﬁnes the alerting group.
+
+NOTE: the function is only enabled if the user has
+User and group management authorization.
+
+P Loads a new license file.
+
+NOTE: the function is only enabled if the user has
+License modiﬁcation authorization.
+
+3 List of RCS components and their status:
+
+0 Alarm (generates an e-m ail sent to the alerting group)
+
+A Warning
+
+U Component running
+4 License status.
+
+5 RC5 status bar.
+
+To learn more
+
+For interface elem ent descriptions See ’iSnared interface elements and actions” on page 12 .
+For a description of the data in this window see "System monitoring data fMonitor)" on next page
+
+Define the alerting group or temporarily enable/disable it
+To select the alerting group:
+
+Step Action
+
+ 
+
+1 Click Set System Alert.
+
+ 
+
+Administrator's Guide I uer.1.4 SEP—2013 I RC8 9 I 2013- HTS.r.l. -pag. £17
+

@@ -1,0 +1,21 @@
+ 
+
+System monitoring
+
+Presentation
+Introduction
+System monitoring guarantees constant control of component status and license usage.
+
+Content
+
+This section includes the following topics:
+
+ 
+
+System monitoring (Monitor} ................................................................................ 46
+System monitoring data {Monitor} ......................................................................... 48
+
+ 
+
+Administrator's Guide uer.1.4 SEP—2013 - RC8 9 - 2013. HTS.r.l. - pag. 45
+

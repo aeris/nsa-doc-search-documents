@@ -1,0 +1,47 @@
+New guide features
+
+RC5 9 - New guide features
+
+List of release notes and updates to this online help.
+
+ 
+
+Release Code Software Description
+date version.
+30 Sep- Administrator's 9 Updated documentation due to improvements to the
+tember Guide user interface.
+2013 1.4 SE P-2013 Improved the contents.
+3 JUIV 2013 Administrator's 34 No documentation update.
+Guide
+15 March Administrator's 8.3 Added user authorization management. See
+2013 Guide "Privilege data" on page 25 .
+1.3 MAR-2013
+15 October Administrator's 8.2 Added description of wizards in the homepage. See
+2012 Guide "Wizards in the homepage" on page 11
+1.2 OCT-2012
+30 June Administrator's g_1 Close operation and target button. See "Operation
+2012 Guide management" on page 31 .
+1.1 JUN 2012 Load license button. See "System monitoring
+fMonitor)" on page 46 .
+16 April Administrator's 8.0 First publication
+2012 Guide
+1.0 APR-2012
+
+Supplied documentation
+
+The following manuals are supplied with RC5 software:
+
+ 
+
+Manaai Addressees Code Distribution for-
+mat
+System Administrator's System System Administrator’s
+Guide administrator Guide pDF
+1.4 $EP-2013
+Administrator's Guide Administrators Administrator’s Guide PDF
+(this manual} 1.4 SEEP-2013
+
+ 
+
+Administrator's Guide I ver.1.4 SEP—2013 I RCS 9 I 20136) HTS.r.I. - pag. 2
+

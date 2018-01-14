@@ -1,0 +1,45 @@
+RC5 9 -To learn more
+
+Area Description
+
+ 
+
+5 Selected target data.
+5 RC5 status bar.
+
+To learn more
+
+For interface elem ent descriptions See "Shared interface elements and actions" on page 12 .
+For more information on operations see "What you should know about operations" on page 30 .
+For a description of the data in this window see "Operation page data" on next page .
+
+Creating a target
+To create a new target:
+
+Step Action
+
+1 Click New Target: data entry fields appear.
+
+2 Enter the required data and click Save: the new target appears in the main work area
+in Open status, meaning it is ready to be used by a Technician.
+
+Closing a target
+
+To close a target and begin uninstalling its agents:
+
+Step Action
+1 Select a target and click Close.
+
+2 Confirm close: the target is closed and agent uninstallation is automatically launched.
+Data is left available on the database.
+
+mUTION: closing a target is irreversibie see ” What you snouia know about
+targets " on page 30
+
+Editing target data
+To edit target data:
+
+ 
+
+Administrator's Guide I yer.1.4 SE P—2013 I RC8 9 I 2013. HTS.r.l. -pag. 37
+

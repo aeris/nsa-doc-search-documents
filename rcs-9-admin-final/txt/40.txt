@@ -1,0 +1,57 @@
+RC3 9 - Whatyou should know about operations
+
+ 
+
+What you should know about operations
+
+What is an operation
+
+An operation is an investigation to be conducted. An operation contains one or more targets
+meaning the physical individuals to be tapped. The Technician assigns one or more agents,
+desktop or mobile, to the target. Thus the agent can be installed on a computer or mobile phone.
+
+Assigning the operation to a user group
+
+To guarantee maximum data conﬁdentiality, we recommend you only link an operation to the RC5
+users assigned to the investigation. Users not linked to the operation will not see any operation
+data or collected evidence. For this reason, the person who creates the operation must be part of
+at least one of the groups linked to the operation when created.
+
+What happens when a new operation is created
+
+When an operation is created it is already declared open thus operation targets can be created
+and the Technician can generate and install agents. When the operation is open, agents begin to
+collect data and send it to RC5.
+
+What happens when an operation is closed
+
+The operation must be closed when the investigation is closed, and it is certain that all agents
+have already transmitted all the collected evidence to the Backend.
+
+Closing the operation automatically closes the targets and agents. When an agent is closed,
+uninstallation occurs at the first synchronization, leaving the device clean.
+
+A closed operation cannot be re-opened. Only the operation data and collected evidence are left
+in the database.
+
+. CAUTION: for infrequent synchronizations, for example, every four days, wait for the iast
+planned synchronization before closing the operation.
+
+What you should know about targets
+
+What is a target
+
+A target is the physical person to be investigated. The Technician assigns one or more agents,
+desktop or mobile, to the target. Thus the agent can be installed on a computer or mobile phone.
+
+Administrator tasks
+
+The Administrator manages targets on the general organizational level,- the Technician sets and
+works on targets according to the Administrator's instructions.
+
+The Administrator is in charge of:
+
+ 
+
+Administrator's Guide I ver.1.4 SEP—2013 I RC8 9 I 2013' HTS.r.l. -pag. 30
+

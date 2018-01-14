@@ -1,0 +1,55 @@
+RC5 9 -To learn more
+
+Area Description
+
+ 
+
+3 Window toolbar.
+Descriptions are provided below:
+
+icon Description
+
+ 
+
+Add an o eration.
+H:- p
+
+EdIt the selected operatl on.
+
+x Delete the selected operation.
+
+n Close the operation.
+
+4 List of created operations:
+a
+Open operation. If targets were set and agents correctly installed, collected
+evidence is received.
+
+F
+a Closed operation. All targets are closed and agents uninstalled. All its targets
+and evidence can still be viewed.
+
+5 Selected operation data.
+
+5 RC5 status bar.
+
+To learn more
+
+For interface elem ent descriptions See "Shared interface eiements and actions" on page 12 .
+For a description of the data in this window see "Operation data" on page 35 .
+
+For more information on operations see ”What you shoaia‘ know about operations" on page 30 .
+
+Creating an operation
+To create a new operation:
+
+Step Action
+
+ 
+
+1 Click New Operation: data entry fields appear.
+
+ 
+
+Administrator's Guide I ver.1.4 SEP—2013 I RC8 9 I 2013- HTS.r.l. -pag. 33
+

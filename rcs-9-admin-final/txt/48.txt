@@ -1,0 +1,45 @@
+RC5 9 - Deleting a target
+
+Step Action
+
+ 
+
+1 Select a target and click Edit: its data appears.
+2 Edit data and click Save.
+
+Deleting a target
+To delete a target:
+
+Step Action
+
+ 
+
+1 Select a target and click Delete.
+
+2 Confirm the action by clicking OK: target data, its agents and all evidence is deleted
+from databases.
+
+‘ CAUTION: deieting or target is irreversibie and at” data iinkeo‘ to that target wiii be iost.
+
+Operation page data
+
+Selected target data is described below:
+
+Date Description
+
+ 
+
+Name Target name.
+Description User's description
+
+Status Defines the target's status:
+
+9 Open. If the Technician correctly installs agents, RCS receives the collected
+evidence.
+
+@ Closed, it can no longer be opened.
+
+ 
+
+Administrator's Guide I ver.1.4 SEP—2013 I RC8 9 I 2013- HTS.r.l. -pag. 38
+

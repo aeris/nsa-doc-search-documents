@@ -1,0 +1,15 @@
+RC3 9 - License monitoring data
+
+ 
+
+Data Description
+
+ 
+
+Anonymizers Amount of Anonymizers currently used by the system and maximum admitted
+quantity.
+
+ 
+
+Administrator's Guide I yer.1.4 SEP—2013 I RC8 9 I 2013. HTS.r.|. -pag. 50
+

@@ -1,0 +1,54 @@
+Button
+
+RC5 9 - Shared interface elements and actions
+
+F um: tr'on
+
+ 
+
+.9
+
+Invest: mad-m
+W lard
+
+ﬁrthl" Wind
+
+ 
+
+Open the wizard to quickly create an agent.
+0 NOTE: the button is only enabled for users with Administrator and Technician
+
+privileges.
+
+Open the wizard to quickly save operation and target data.
+0 NOTE: the button is only enabled for users with Administrator and System
+
+Administrator privileges.
+
+Shared interface elements and actions
+
+Each program page uses shared elements and allows similar actions to be run.
+For easier manual comprehension, elements and actions shared by some functions are described
+
+in this chapter.
+
+What the RC5 Console looks like
+This is what a typical RC5 Console page looks like. A target page is displayed in this example:
+
+1| El I.-...,_--:-mu;r.m GIEI
+h .Ioocun'. n; Openllom |"Jelge'.'= Last-baa: llernc I '1,-.'nen Adz mn'rxro
+
+a m: ...... | arm-J“ - a Jan.“ E E5! E P
+m was _.e..,$_|1|1i_ 5*- r- 5» ...-.___-.
+
+n... .L.- .-..I "a. r ......u --. E
+I‘A"'.'rl'.
+
+‘a—r‘Jv-v ‘0'“ E "t’m'f 'HH.
+
+ 
+
+ 
+
+Administrator's Guide I yer.1.4 SE P—2013 I RC8 9 I 2013. HTS.r.l. -pag. 12
+
