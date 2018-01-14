@@ -1,0 +1,37 @@
+ 
+
+7. GLOSSARY '
+
+(S/ISI/lREL)
+STATEROOM sites
+
+(Cl/REL) Concealed
+collection system
+
+(Sl/SI/IREL) Mock site
+
+(U) Diplomatic facilities or
+premises
+
+ 
+
+STATEROOM sites an: covert SIGINT collection sites located in diplomatic facilities abroad. SIGINT
+agencies hosting such sites include SCS (at US. Diplomatic facilities). Govemment Communications
+headquarters or GCHQ (at British diplomatic facilities), Communication Security Establishments or
+CSE ( at Canadian diplomatic facilities), and Defense Signals Directorate or DSD (at Australian
+diplomatic facilities). These sites are small in size and in number of personnel stafﬁng them. They are
+covert, and their true mission is not known by the majority of the diplomatic staff at the facility where
+they are assigned.
+
+Collection equipment whose location on a building is concealed so as not to reveal a SIGINT activity.
+For example, antennas are sometimes hidden in false architectural features or roof maintenance sheds.
+
+A typical SCS site set up at SCS HQS primarily for demonstration purposes, but which is incidentally
+used for processing SIGINT collected overseas and forwarded back via the SCS wide area network.
+
+Embassies or Consulates.
+
+ 
+
+ 
+
