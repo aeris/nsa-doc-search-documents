@@ -1,0 +1,51 @@
+RCS 9 - Supplied documentation
+
+ 
+
+Reiease Code Software Description
+date version.
+15 System 8.2 Added utility to restart Windows services, see "Service
+October Administrator's restart procedures " on page 80.
+2012 Guide Added BareTail for Windows, log code viewer. See
+1.2 OCT-2012 "System fogs" on page 2'? .
+Added incremental backup management and
+mandatory metadata backup job. See " What you
+sbouid know about backup" on page 98 .
+E-mail delivery authentication support for alerts. See
+"Editing Master Node settings" on page 72 .
+Optional OCR module See "OCR moduie instaiiation"
+on page 33
+Added fast database management wizard. See
+"Wizards in the homepage" on page 88
+Sole Tactical Control Center application on Tactical
+Network Injector.
+30 June System 3_1 File Manager to delete file packets in the folder
+2012 Administrator's C:\RCS\Collector\public. See "Front end management"
+Guide on page 94 .
+1.1 JUN-2012
+16 April System 3.0 First publication
+2012 Administrator's
+Guide
+1.0 APR-2012
+
+Supplied documentation
+
+The following manuals are supplied with RCS software:
+
+ 
+
+Manuai Addressees Code Distribution
+Jformat
+System Administrator's Guide System System Administrator’s
+(this manual} administrator Guide PDF
+1.4 SEP-2013
+Administrator's Guide Administrators Administrator’s Guide PDF
+1.4 $EP-20'13
+Technician's Guide Technicians Technician’s Guide PDF
+
+1.5 SEP-20'13
+
+ 
+
+System Administrator's Guide I ver.1.4 SEP—2013 I RC8 9 I 2013© HTS.r.l. - pag. 3
+

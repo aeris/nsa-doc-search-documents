@@ -1,0 +1,61 @@
+RC5 9 -Anonvmizer installation and setﬁngs
+
+ 
+
+Anonymizer installation and settings
+
+Introduction
+
+Installing Anonymizers in a chain is optional and is used to redirect data from a group of agents.
+The Anonymizer is installed on a server connected to Internet which cannot be reconnected to the
+rest of the infrastructure like, for example, a ‘v’PS (Virtual Private Server), rented for this purpose.
+Once installed and set up, the Anonymizer communicates its status to the Network Controller
+
+every 30 seconds.
+
+Installation requirement
+
+A VPS must be rented with the minimum system requirements defined in the contract phase to
+
+install anonymizers.
+See "Minim um system requirements" on page 14
+
+Installation
+
+CAUTION: use 55H protocol for all installation, setup and data exchange operations to the
+
+remote unit.
+
+To install the Anonymizer on a private server:
+
+Step Action
+
+ 
+
+1
+2
+
+From RC5 Console, in the System section, click Frontend, New Anonymizer.
+Enter the required data and click Save.
+i
+
+Result: the Anonymizer appears in the Anonymizer list with icon ' . In the Monitor
+section, a monitoring object appears for the added Anonymizer.
+Select the Anonymizer and drag it to the Collector or another Anonymizer to create a
+chain.
+
+9
+Result: the Anonymizer appears in the Anonymizer list with icon .
+
+Click Download installer.
+
+Result: the rcsanon_install.zip installer file is generated and saved on the
+console desktop.
+
+Connect to the server and copy ﬁle rcsanon_install. zip to a folder on the
+server.
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013. HTS.r.|. - pag. 38
+

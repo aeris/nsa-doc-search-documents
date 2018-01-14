@@ -1,0 +1,60 @@
+RCS 9 - What the RC5 Console looks like
+
+Areo Description
+
+ 
+
+3 Operation scroll bar. Descriptions are provided below:
+
+icon Description
+
+ 
+
+a Back to higher level.
+
+H Show the operation page (Operations section).
+a Show the target page.
+
+b Show the factory page.
+
+5' Show the agent page.
+
+H
+
+Show the operation page (Intelligence section).
+
+* Show the entity page.
+
+4 Buttons to display all elements regardless of their group membership. Descriptions
+are provided below:
+
+icon Description
+
+ 
+
+a Show all operations.
+‘3 Show all targets.
+5* Show all agents.
+* Show all entities.
+
+5 Window toolbar.
+
+5 Search buttons and box:
+
+ 
+
+Object Description
+Search box. Enter part of the name to display a list of
+
+elements that contain the entered letters.
+
+Display elements in a table.
+
+Display elements as icons.
+
+7 Logged in user with possibility of changing the language and password.
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013. HTS.r.l. - pag. 91
+

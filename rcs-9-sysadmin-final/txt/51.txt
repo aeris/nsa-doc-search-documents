@@ -1,0 +1,52 @@
+RCS 9 - Checking correct OCR module operations
+
+Steps Result
+
+ 
+
+3. Follow the steps below until installation has
+completed: the module will begin
+converting images the ﬁrst time a
+screenshot type ofevidence is received.
+
+Checking correct OCR module operations
+
+To check whether image conversion to text is too slow, check how long it takes for the button
+
+to appear in the evidence details page.
+
+Uninstall
+The OCR module can be uninstalled from the Windows Control Panel.
+
+0 NOTE: uninstalling an OCR module does not compromise converted and tagged text.
+
+Files installed at the end of installation
+
+Various folders appear at the end of installation, organized according to the type of architecture
+and installed optional components:
+
+Folder includedﬁles
+
+ 
+
+backup The folder contains files with data saved in the databases.
+See "Backup management" on page 100
+0 IM PO RTANT: This folder's content should not be touched. To save backup data
+
+on remote disks, use the Windows Disk Management function and install the
+disk as a NTFS folder, selecting it as the target.
+
+Path:
+C:\RCS\DB\backup
+
+bin The folder contains the utilities (i.e.: rcs-db-config) used to set RC5 utilities.
+See "Setup utilities" on page ?1
+
+Path:
+C:\RCS\DB\bin
+C:\RCS\Col lector\bin
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013(3) HTS.r.l. - pag. 35
+

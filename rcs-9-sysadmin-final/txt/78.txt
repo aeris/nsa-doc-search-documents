@@ -1,0 +1,33 @@
+6
+
+Routine maintenance and software updates
+
+ 
+
+Presentation
+
+Introduction
+
+Routine maintenance includes RCS updates and operations scheduled or indicated by support
+service for system performance upkeep.
+
+‘ WARNING: lack of maintenance may cause unforeseeable system behavior.
+
+Content
+
+This section includes the following topics:
+
+ 
+
+What you should know about RC5 maintenance ....................................................... 63
+Routine maintenance procedures .......................................................................... 63
+RC5 server update _______________________________________________________________________________________________ 64
+RC5 Console update ............................................................................................. 64
+Anonymizer update ............................................................................................. 64
+Network Injector Appliance update ________________________________________________________________________ 65
+Tactical Network Injector update ........................................................................... 67
+
+ 
+
+System Administrator's Guide yer.1.4 SEP—2013 - RC8 9 - 2013. HTS.r.l. - pag. 62
+

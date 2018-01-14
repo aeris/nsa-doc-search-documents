@@ -1,0 +1,60 @@
+RC5 9 -To learn more
+
+Area Description
+
+ 
+
+5 Anonymizer chains on the system with the IP address ofthe last element.
+Possible conditions:
+
+5‘
+
+:Anonymizer not in chain.
+:Anonymizer in chain and running.
+
+:Anonymizer not monitored by the Network Controller.
+
+we
+_ a
+H
+
+. o
+v :Anonymizer with faults.
+o
+
+4"!-
+: Collector running.
+0
+
+' : Collector not running.
+
+5 RC5 status bar.
+
+To learn more
+
+For interface elem ent descriptions See ”Shared interface elements and actions” on page 90 .
+To install, edit or cancel an Anonymizer see "l-inonyrnizer installation and settings" on page 38 .
+
+Adding an Anonymizer to the configuration
+To add an Anonym izer see "Anonymizer installation and settings" on page 38
+
+Editing Ananymizer settings
+To edit Anonymizer settings see "Anonymizer installation and settings" on page 38 .
+
+File Manager data
+
+Descriptions are provided below:
+
+Field Description
+
+ 
+
+Time Vector installation date-time on the device.
+Name File name created by the installer.
+
+Faun“,llr Factory that generated the installer.
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013. HTS.r.l. - pag. 96
+

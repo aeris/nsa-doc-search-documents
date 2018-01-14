@@ -1,0 +1,20 @@
+RC5 9 - Maintain and update the system
+
+Maintain and update the system
+
+References to the chapters on how to maintain performance and update the system are listed
+below:
+
+. See "Routine maintenance and software updates" on page 62 .
+t See "Editing Master Node and Collector settings" on page 70 .
+1- See "Troubleshooting" on page 75 .
+
+Monitoring the system
+References to chapters on how to monitor the system are given below:
+
+. See "RES Console for the System administrator" on page 85
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013© HTS.r.l. - pag. 16
+

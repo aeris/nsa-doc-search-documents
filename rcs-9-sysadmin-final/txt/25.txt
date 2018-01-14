@@ -1,0 +1,97 @@
+RC5 9 - Distributed architeclure components
+
+Distributed architecture components
+
+Introduction
+In special cases, RCS can also be installed in distributed architecture.
+
+Distributed architecture layout
+
+Software components are installed on several servers in distributed architecture. The architecture
+layout is provided below:
+
+ 
+
+r,
+Targetl Age-mi. Agent: Target: Agentl Targeta Agentl
+& "1 a: i E
+
+l__l____ L'____ L l_'____
+
+ 
+
+Network ,J‘ﬁ—L
+Injector I
+\g nnemmjzer J
+—\
+I V— 4,
+[AM nymlzer VJ | Anonymizer W
+
+Status
+Seth n35 J7 $
+
+Anon-,rmlzer it I: Anonvmlzer Z J
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Status Status
+Settings Settings Annnvmizing Ana rrymizing
+Chain Chain
+‘ External Network
+J; ‘L Internal Network
+V V V
+[Network Controller] l: Collector ] [ Collector ]
+_'____ I Untrusted
+C] “”5119“ RC5 Console
+V l
+RES Console
+(1—
+—{> Master Node 4
+@ RC5 Console
+______1____ i
+I | . I
+”‘s°°"‘°""'
+
+ 
+
+ 
+
+ 
+
+RC5 Server
+
+Figural: Distributed RC5 architecture: iogicui Fug-nut
+
+Distributed architecture components
+
+Following are the difference in components in distributed architecture compared to All-in-One
+architecture:
+
+ 
+
+System Administrator's Guide I ver.1.4 SEP—2013 I RCSQ I 2013© HTS.r.I. - pag. 9
+

@@ -1,0 +1,28 @@
+ 
+
+Troubleshooting
+
+Presentation
+
+Introduction
+
+RC5 is a system where the greatest focus must be on collected data transmission, decoding and
+saving. RC5 design focuses on preventing any data loss and quickly managing potential errors that
+may occur.
+
+Content
+
+This section includes the following topics:
+
+ 
+
+Potential faults ................................................................................................... 76
+System logs ........................................................................................................ 77
+Component status check procedure _______________________________________________________________________ 79
+Service restart procedures .................................................................................... 80
+Hardware component service procedures ................................................................ 83
+
+ 
+
+System Administrator's Guide yer.1.4 SEP—2013 - RCS 9 - 2013. HTS.r.|. - pag. 75
+

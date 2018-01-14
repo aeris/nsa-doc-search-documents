@@ -1,0 +1,29 @@
+ 
+
+RCS installation
+
+Presentation
+
+Introduction
+RCS installation requires intervention on various local and remote servers.
+Content
+
+This section includes the following topics:
+
+ 
+
+What you should know about RC5 installation ......................................................... 18
+RC5 server installation in All-in-One architecture ...................................................... 18
+RC5 server installation in distributed architecture ..................................................... 22
+List of started RC5 services ____________________________________________________________________________________ 29
+To learn more ..................................................................................................... 30
+RC5 Console installation ....................................................................................... 3D
+OCR module installation ....................................................................................... 33
+Files installed at the end of installation ................................................................... 35
+
+36
+
+ 
+
+System Administrator's Guide ver.1.4 SEP—2013 - RC8 9 - 2013. HTS.r.l. - pag. 17
+

@@ -1,0 +1,57 @@
+RC5 9 - Parljal update with infecIjon in progress
+
+Partial update with infection in progress
+
+These are the phases in updating Appliance Control Center software when an infection is in
+progress:
+
+0 IMPORTANT: to update, first synchronize Network Injector and RC5 server. See "First
+Network Injector synchronization with RC5 server” on page 53
+
+Phase Description
+
+ 
+
+1 From RC5 Console, in the System, Network Injector section, select the Network
+Injector to be updated and click Upgrade.
+
+2 Since an infection is in progress, Network Injector immediately receives the update
+and automatically installs it.
+
+When the update is completed, the infection is restarted with the updated software.
+
+Partial update without infection in progress
+
+These are the phases in updating Appliance Control Center software when an infection is not in
+progress:
+
+Step Action
+
+ 
+
+1. From RCS Console, in the System, Network
+Injector section, selectlhe Network
+Injector to be updated and click Upgrade.
+
+2. Open Appliance Control Center
+
+3. In the Network Injector tab, click Conﬁg: " APP-lime Et-rlr-Jl'im-Er
+synchronization is enabled. Nemrlclnjccmc Iogsustem
+
+ 
+
+Network Interface: echo [cable connected] v ."_3"
+snifﬁng inl'Pl'farP: U'JL‘u'rII‘3dll1IIil'uLL'lldtu a
+
+_l hIJrnmarirsI—eirrup
+
+Wailingiul Llwnewwli'lguldliundnd Lpdolu... SLup SLdli.
+
+ 
+
+ 
+
+ 
+
+SystemAdministrator's Guide | ver.1.4 SE P—2013 | RCSQ | 2013© HTS.r.|. -pag. 66
+

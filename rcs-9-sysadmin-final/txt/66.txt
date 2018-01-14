@@ -1,0 +1,47 @@
+RC5 9 - Operating system installation and settings
+
+Step Action Paragraph
+
+1 Installing the Tactical Device operating "Operating system installation and settings"
+system below
+
+6 NOTE: the operating system is
+already installed at purchase.
+
+2 Synchronizing Network Injector with ”First Network lnj'ector synchronization
+
+RC5 server with RC5 server" on page 53
+3 Checking Network Injector status "Checking Network [HF-"530’ 5W?“ " 0" page
+54
+
+Operating system installation and settings
+
+Tactical Network Injector is supplied installed and ready for use, complete with all the foreseen
+applications. It can also be installed using a restore disk.
+
+The procedure is described below:
+
+Steps Result
+
+1. Connect the computer to the network using
+an Ethernet cable and insert the installation —
+CD.
+
+2. Select Tactical Device for notebook version
+installation: operating system installation is
+launched and the computer shuts down
+when ﬁnished.
+
+- IMPORTANT: the computer must
+remain connected to the internet
+during the entire installation process.
+
+3. Reboot the notebook; enter the passphrase
+
+to unlock the encrypted disk. The —
+passphrase for ﬁrst bootis "ﬁrstboot".
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 20136) HTS.r.|. - pag. 50
+

@@ -1,0 +1,73 @@
+RC5 9 - Rear panel description
+
+Step Action
+
+Paragraph
+
+ 
+
+1 Connect Network Injector Appliance to the network.
+2 Installing Network Appliance operating system
+6 NOTE: the operating system is already installed
+
+at purchase.
+
+3 Synchronizing Network Injector with RC5 server
+
+4 Checking Network Injector status
+
+5 Transfer Network Injector Appliance to the Internet
+service provider and change the network addresses to
+enable Internet access
+
+Rear panel description
+The rear panel is described below:
+
+"Network connections" on
+next page
+
+"Operating system instai-
+iation and settings" on next
+
+page
+
+"First Network injector syn-
+chronization with RES
+server" on page 53
+
+"Checking Network injector
+status " on page 54
+
+ 
+
+A list of visible components is provided below:
+
+Area Component Description
+
+ 
+
+1 Snifﬁng ports Up to four connections to the traffic switches on the targets to be
+monitored or up to two for redundant devices.
+
+6 NOTE: optic fiber or copper connections are admitted.
+
+2 Mother board Standard PC outputs for monitor and keyboard connections to
+launch sysconf utilities or compiete updates from the instaiiation
+
+CD.
+
+See "Routine maintenance procedures" on page 63
+
+3 Management Port 1: network connection with Network Controiier to receive
+
+and injection
+ports Manager:
+
+settings and send status. The address must be set with Network
+
+Port 2: network connection for traffic injection.
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013© HTS.r.l. - pag. 43
+

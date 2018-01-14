@@ -1,0 +1,53 @@
+RC5 9 - Back end management
+
+Fieid Description
+
+ 
+
+User User who created the installer.
+
+Back end management
+
+To manage back end: I a System section, Backend
+
+Function scope
+When RC5 is running, this function lets you check database status and available disk space.
+
+0 NOTE: the function is only enabled if the user has Backend management authorization.
+
+What the function looks like
+This is what the page looks like:
+
+ 
+
+ 
+
+ 
+
+'4 '_I1 W'::IFr-1'~l'-n4" GL“ -
+ﬁ- Emhem .-rL:-i.-.-ul—l
+'cmnd i_ Badman" 5.1.: hea'mwrjtcxrs '_':1n::l:rs
+1"-
+m-Mm
+E
+a H
+= .mnn-m =
+- -
+.mm.m.-,r:m
+LEL‘: - nzun
+c .x. wrinull
+
+ 
+
+Area Description
+
+ 
+
+1 RC5 menu.
+
+2 System menu.
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013© HTS.r.|. - pag. 97
+

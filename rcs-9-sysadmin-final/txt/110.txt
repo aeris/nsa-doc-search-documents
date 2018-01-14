@@ -1,0 +1,59 @@
+RC5 9 - Frontend management
+
+Front end management
+
+a System section, Frontencl
+
+ 
+
+To manage the front end:
+
+Function scope
+
+When RC5 is running, this function lets you monitor the Anonymizers and Collectors, change the
+Anonymizer and chains settings and update the VPSes.
+
+During installation, this function lets you create a new Anonymizer "object" that acts as the logical
+connection between the RC5 Console and the software component to be installed on a UPS.
+
+0 NOTE: the function is only enabled if the user has Frontend management authorization.
+
+What the function looks like
+This is what the page looks like:
+
+ 
+
+ 
+
+‘J ITI NI-Hu'f- -. any»... GL" -
+0 5pm". .'J'|:ri :J—l
+[—mm‘ j new ...-. .- Han-w. :mwu
+‘1 El x 4.. 1* J,» V -
+M‘A'J'rtrgru: on Dem: quom-mie- L::m: cm‘o_:u:1:'\oc-. ﬁapyocmm-mr mm .3.-
+*
+MII' 'wﬂll
+m 15:2 ”_-
+[ .
+mm. L _ .-.....n
+i o I a El 9 .
+AIII' .. ._ .. ... . u. - -. II I - ...
+51lbtlh'( ‘. .I..I. .t ...IHI I.|.' |._ “H .II. 0"":II‘ I“ 5.. U4
+I I
+o n n n n o o
+‘5’ ‘9” ‘9“ ‘1'“ ‘9‘ ‘9‘ ‘9”
+I I I IIIIII: 1::IIIII' 1::III I' ”H! | I1.I:I
+Fl rte I II lint: P:Ic-'n: ' ' 'lr
+' I
+
+Area Descriptim
+
+ 
+
+1 RC5 menu.
+
+2 System menu.
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013(3) HTS.r.l. - pag. 94
+

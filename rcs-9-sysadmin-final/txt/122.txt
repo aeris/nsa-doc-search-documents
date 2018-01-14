@@ -1,0 +1,34 @@
+RC5 9 - What the function looks like
+
+1- create a new Network Injector
+
+1- update Appliance Control Center or Tactical Control Center software
+. View logs and check Network Injector status
+
+What the function looks like
+This is what the page looks like:
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+Area Description
+
+ 
+
+1 RC5 menu.
+
+2 System menu.
+
+ 
+
+System Administrator's Guide | ver.1.4 SEP—2013 | RCS 9 | 2013' HTS.r.l. - pag. 106
+

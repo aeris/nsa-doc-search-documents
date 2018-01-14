@@ -1,0 +1,77 @@
+RC5 9 - Additional Collector installation
+
+ 
+
+ 
+
+ 
+
+Steps Result
+9. Enter the Master Node server name or IP
+address [i.e.: RCSMaste rNode]. Mm“ Him
+10. Click Install: when installation has mmmwwmm m
+
+ 
+
+completed, services start and attemptto
+communicate with Master Node. The server
+in back end environmentis protected and
+
+any remote login is redirected
+MimoflthanhrNDt:
+
+ 
+
+HIE-IRENE: I MastaFEaa-ual
+
+ 
+
+]HackingTeam[ 1C3 (2013210401)
+
+[mimic-w
+
+ 
+
+ 
+
+ 
+
+6 NOTE: if the server name or IP address needs to be changed after installation due to faults
+see "Editing Master Node settings" on page ?2 .
+
+Additional Collector installation
+To install several Collectors in front end environment:
+
+Steps Result
+
+ 
+
+ 
+
+1. Insertthe CD with the installation package.
+
+Run ﬁle RCS—version.exe in folder x:\setup: _
+the ﬁrst wizard window appears. Wdoome ‘0 “'3 ROS Setup “(Hard
+
+2. Click Next. H I
+Tlialnizzl'duﬂglide nu lh'ouﬂl lhc'nalzlalimnm.
+
+[thremded Il'latyujdosedulha'qﬁmlim:
+heﬁreshrlthi-hnﬂiaﬂndritrm l'mpdall!
+relevmtsvstan Iesuilhwthm tnrebootm
+EDITIIIIE.
+
+[idcﬂext I3) mime.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013© HTS.r.l. - pag. 53
+

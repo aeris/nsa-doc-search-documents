@@ -1,0 +1,59 @@
+RCS 9 - Hardware component service procedures
+
+0 IMPORTANT: command syntax refers to the Linux CentOS 6 operating system version.
+
+Hardware component service procedures
+
+Introduction
+
+Typical hardware component service procedures to be used in the event of hardware faults are
+provided below.
+
+Hardware key replacement
+
+If the main hardware key stops working, it must be immediately replaced with the backup key,
+contained in the supplied package. Contact support service for a license file compatible with the
+backup key.
+
+Instructions on how to replace and activate a new key are given below:
+
+Phase Who Does what
+
+ 
+
+1 the client lnforms HacklngTeam of the fault.
+2 HackingTeam sends a new llcense flle linked to the backup hardware key.
+
+3 the client replace the main key with the backup key and start the procedure to
+asslgn the new llcense flle.
+
+4 the client sends the faulty key to HackingTeam.
+
+5 HackingTeam replace the faulty key with a new backup key and send lt to the
+customer.
+
+Master Node replacement
+The recommended procedure is described below:
+
+Step Action
+
+ 
+
+1 Restore a server, repeating all installation operations.
+
+See "RCS server installation in All-in-One architecture" on page 18 or "RC5 server
+installation in distributed architecture " on page 22
+
+2 Select the most recent backup (full or metadata). If the most recent backup is
+metadata, full backup can be restored later. In fact, the backup is not destructive and
+supplements the information it has with that present,
+
+See "What you should know about backup" on page 98
+
+Shard replacement
+The recommended procedure is described below:
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013(3) HTS.r.|. - pag. 33
+

@@ -1,0 +1,56 @@
+9
+
+ 
+
+RCS Console for the System administrator
+
+Presentation
+
+System administrator's role
+
+The System Administrator's role is to:
+
+. complete installation with Anonymizer, Network Injector and Backup settings
+
+. check Shard database space
+
+. check Collector, Anonymizer, Network Injector and other system component operations
+. update system components
+
+. manage backup
+
+. resolve any problems
+
+Enabled functions
+
+To complete hi s/her assigned activities, the System administrator has access to the following
+functions:
+
+. System
+. Monitor
+
+Content
+
+This section includes the following topics:
+
+ 
+
+Starting the RES Console ...................................................................................... 86
+Homepage description _________________________________________________________________________________________ 8?
+Wizards in the homepage ..................................................................................... 88
+Shared interface elements and actions .................................................................... 90
+Front end management ........................................................................................ 94
+File Manager data ............................................................................................... 96
+Back end management ......................................................................................... 97
+What you should know about backup ____________________________________________________________________ 98
+Backup management .......................................................................................... 100
+Connector management ..................................................................................... 103
+Managing the Network Injector ........................................................................... 105
+Network Injector data ........................................................................................ 108
+System monitoring (Monitorl .............................................................................. 109
+System monitoring data (Monitorl _______________________________________________________________________ 111
+
+ 
+
+System Administrator's Guide yer.1.4 SEP—2013 - RC8 9 - 2013. HTS.r.l. - pag. 85
+

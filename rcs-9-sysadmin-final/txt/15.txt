@@ -1,0 +1,49 @@
+RC8 9 - Glossary
+
+ 
+
+N
+
+ 
+
+Network Controller
+Component that checks Network Injector and Anonymizer status and sends them
+new conﬁgurations and software updates.
+
+Network Injector
+Hardware component that monitors the target’s network trafﬁc and injects an agent
+into selected Web resources. It comes in two versions, Appliance or Tactical: the
+former is for deployment at the ISP, the latter for use on the ﬁeld.
+
+Network Injector Appliance
+Rackable version ofthe Network Injector, for installation at ISP. See: Tactical Net-
+work Injector.
+
+ 
+
+ 
+
+ 
+
+0
+operation
+Investigation aimed at one or more targets, whose devices will be recipients for
+agents.
+R
+RCS
+(Remote Control System) the product documented hereto.
+RCS Console
+Software designed to interact with the ROS Server.
+RCS Server
+One or more computers, based on the installation architecture, were essential RCS
+components are installed: Shard databases, Network Controllers and Collector.
+S
+SSH
+
+(Secure SH ell) a network protocol for secure data communication, remote shell serv-
+ices or command execution.
+
+ 
+
+System Administrator's Guide I ver.1.4 SEP—2013 I RC8 9 I 2013. HTS.r.l. - pag. XIII
+

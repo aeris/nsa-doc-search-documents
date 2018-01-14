@@ -1,0 +1,52 @@
+RCS 9 - Whatyou should know about RCS maintenance
+
+ 
+
+What you should know about RCS maintenance
+
+Receiving updates
+
+Support service publishes the update package on the support portal for every RC5 software
+release. The package can be linked to a new license file that may be required during the update
+procedure.
+
+Download the package and complete the update procedures.
+
+Updating machine behavior
+
+During updates, normal system service may not be guaranteed.
+
+All data normally received and managed by the updating machine are kept for the required
+period of time and automatically retrieved as soon as the system resumes normal operations.
+
+Routine maintenance procedures
+
+Introduction
+Procedure recommended to keep system performance high are provided below.
+
+‘ WARNING: lack of maintenance may cause unforeseeable system behavior.
+
+Check and delete log files
+
+Purpose: check the amount of log files and delete the older ones to avoid occupying excessive disk
+space.
+
+Suggested frequency: depends on the amount of agents being monitored. Checking disk space
+once a month may be sufficient.
+
+Checking available backup disk space
+
+Purpose: routinely check the backup disk based on the quantity and frequency of backups set in
+the RC5 Console System section.
+
+Recommended frequency: depends on backup frequency and size.
+
+Linux operating system updates
+
+Purpose: keep Linux operating systems installed on the VP5 that host Anonymizers and Network
+Injectors constantly updated.
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013© HTS.r.l. - pag. 63
+

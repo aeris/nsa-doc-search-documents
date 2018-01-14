@@ -1,0 +1,50 @@
+RC5 9 - System monitoring data [Monitor]
+
+System monitoring data (Monitor)
+
+System component monitoring data
+System monitoring data is described below:
+
+ 
+
+Data Description
+Type Monitored component type and name:
+Name 9 a
+Network Controller
+\‘l
+Anonymizer
+I-
+I-
+'- Database
+"H
+
+' Collector
+Address Component's IP address.
+
+Last con- Last synchronization date-tim e.
+
+tact
+Status Component status at last synchronization:
+0 Alarm: the component is not running, contact the alerting group for immediate
+service.
+A Warning: the component signals a risky situation, contact the system
+administrator for necessary checks.
+' Component running.
+CPU % CPU use by the single process.
+CPU 96 CPU use by server.
+Total
+
+Disk Free % free disk space.
+
+License monitoring data
+
+License monitoring data is described below: For restricted licenses, the format is "My" where x is
+the amount of licenses currently used by the system and y the maximum amount of licenses.
+
+I GAUTION: if aii the iicenses are in use, any new agents wiii be put in queue untilr a license
+is freed or new ones purchased.
+
+ 
+
+System Administrator's Guide I yer.1.4 SEP—2013 I RCSEJ I 2013. HTS.r.I. -pag. 111
+

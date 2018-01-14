@@ -1,0 +1,82 @@
+RC5 9 -All-in-One architecture components
+
+All-in-One architecture components
+
+Introduction
+
+RC5 is installed at the operating center and proprietary authority's tapping rooms. It can come
+with special devices (hardware and software) installed at remote organizations such as Internet
+providers or remote servers. RCS can be installed in All-ln-One or Distributed architecture.
+
+All-ln-One architecture layout
+
+All-in-One architecture includes RCS installed on a single server. The logical architecture layout is
+provided below:
+
+ 
+
+Target Agent 1 Agent 2 Agent 3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+i I“
+I—l__l_ _ __
+I'iletwork V
+' t
+n}or An onymizer Y
+—'> 47
+(I. Ana nvmizer 1»:
+Status Status
+Settings Settings Anonvmlzlng
+Chain
+I- External Network
+Internal Network
+J7 v v
+I Network Co ntrollerI I Collector I
+__ I Untrusted
+__ I Trusted RC5 Console
+V RC5 Console
+<1—
+_[> Master Node d—I RC5 Console
+l
+RC5 Console
+
+ 
+
+ 
+
+ 
+
+RC5 Server
+
+Figure 1.‘ Allin-One RC5 architecture: logical layout
+
+All-in-One RC5 architecture components
+Architecture components are provided below:
+
+ 
+
+System Administrator's Guide I ver.1.4 SEP—2013 I RCSQ I 2013. HTS.r.I. - pag. 7
+

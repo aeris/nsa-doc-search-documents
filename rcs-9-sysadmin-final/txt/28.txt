@@ -1,0 +1,36 @@
+ 
+
+Installation introduction
+
+Presentation
+
+Introduction
+
+RC5 installation is run at first installation or subsequent updates. Installation files are available on
+the CD included in the package or can be downloaded from the HackingTeam support portal.
+
+Installation requirements
+
+All hardware must already be installed and running according to the system requirements
+communicated by HackingTeam upon order confirmation.
+
+See "Minim um system requirements" on page 14
+
+0 NOTE: Network Injector or Anonymizer installation is optional and will be documented in
+the following chapters.
+
+Content
+
+This section includes the following topics:
+
+ 
+
+Package content ................................................................................................. 13
+Minimum system requirements ............................................................................. 14
+Ports to be opened on the ﬁrewall _________________________________________________________________________ 14
+System administrator procedures .......................................................................... 15
+
+ 
+
+System Administrator's Guide ver.1.4 SEP—2013 - RCS 9 - 2013. HTS.r.l. - pag. 12
+

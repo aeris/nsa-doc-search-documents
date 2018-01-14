@@ -1,0 +1,53 @@
+RC5 9 -To learn more
+
+ 
+
+Areo Description
+
+ 
+
+3 Window toolbar. Descriptions are provided below:
+
+icon Description
+
+M Zip the database.
+
+4 Shard database structures with their status, occupied and available disk space.
+6 NOTE: database 0 is the one included in MasterNode.
+
+ 
+
+5 RC5 status bar.
+
+To learn more
+For interface elem ent descriptions See ’Shored interface elements and actions" on page 90 .
+For further information on backups see "What you should know about backup" beiow.
+
+Significant Shard database data
+Selected Shard database data is described below:
+
+ 
+
+Fieid Description
+Data Size Occupied space.
+(In Disk Total Shard device space.
+
+serverNome:port Shard server port
+What you should know about backup
+
+Management responsibilities
+
+The System administrator must protect logged data and set frequency for the various types of
+backups.
+
+Backup methods
+
+RCS saves all data in databases in the specified folder when editing RCS settings. See ”Editing
+Master Node settings" on page 72
+
+A backup can save one or more types of data. Backup types are:
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013. HTS.r.l. - pag. 98
+

@@ -1,0 +1,52 @@
+RC5 9 - License monitoring data
+
+ 
+
+Doro
+
+Description
+
+ 
+
+License type
+
+Users
+
+Agents
+
+Desktop
+Mobile
+
+Distributed
+server
+
+Collectors
+
+Anonymizers
+
+Type of license currently in use for agents.
+reusable: an agent's license can be reused after it is uninstalled.
+oneshot: an agent's license is only valid for one installation.
+
+NOTE: the license can only be updated if the user has License
+modification authorization.
+
+Amount of users currently used by the system and maximum admitted quantity.
+Amount of agents currently used by the system and maximum admitted quantity.
+
+Amount of desktop and mobile agents currently used by the system and
+maximum admitted quantities respectively.
+
+Amount of database currently used by the system and maximum admitted
+quantity.
+
+Amount of Collectors currently used by the system and maximum admitted
+quantity.
+
+Amount of Anonymizers currently used by the system and maximum admitted
+quantity.
+
+ 
+
+System Administrator's Guide I ver.1.4 SEP—2013 I RCS 9 I 2013. HTS.r.l. - pag. 112
+

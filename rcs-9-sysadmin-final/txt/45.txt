@@ -1,0 +1,58 @@
+RCS 9 - Check IP addresses
+
+ 
+
+Check IP addresses
+
+To check all addresses, start the RC5 Console, System section, Frontend: Collector addresses
+appear on the screen. See "Anonymizer installation and settings" on page 38
+
+Uninstall
+RCS can be uninstalled from the Windows Control Panel.
+
+CAUTION: All saved data is lost when Master Node is aninstalled. For correct operations,
+' backup data. See "Backup management" on page 100 .
+
+6 NOTE: data will not be lost when other servers are uninstalled.
+
+List of started RC5 services
+
+RCS services appear at the end of the various installation phases. Making sure they have correctly
+started is one of the procedures required to ensure installation is complete.
+
+Services are listed below:
+
+Architecture Services Server in environment
+
+ 
+
+All-in-One RCSMasterConﬁg back end
+RCSMasterRouter
+
+RCSMasterShard
+RCSMasterWorker
+RCSMasterDb
+RCSCollector
+RCSDB
+
+Mongodb
+
+Distributed RCSCol lector front end
+
+RCSMHSTEFCOWS back end only with Master Node
+RCSMasterRouter
+
+RCSMasterShard
+RCSMasterWorker
+RCSMasterDb
+RCSDB
+
+Mongodb
+
+RCSWOFREF back end with additional Shards
+RCSShard
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013(3) HTS.r.|. - pag. 29
+

@@ -1,0 +1,75 @@
+RC5 9 - Operating system installation and settings
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Steps Result
+7. The keyboard layout is read. Only change it if System conﬁguration
+"6C6 ssary.
+Keyb oarcl lays Ul:
+Chooscgwur keyboard layu ut:
+FJ‘IQIlSlT [let id)
+Friglisl‘l [Snulll AI'I in!) English {US} ' CherOkee
+anllsh (”Kl English {US} - English (Co lama k)
+English {US} - English (Dvorak altem.‘
+Bperanto English {US} - English (Dvorak intem.‘
+Etonlan English {US} - English (Duorak)
+I-aroese English {US} English (Macintosh)
+. r-..l:-l. flu-1 r....l:—L. l'l Id" -.Ii-.....-.I-:...
+ITpr here m resrynur keyboard I
+Detect: Keyboard LayoutI [E
+.... m
+8. Enter user data: operating system setup 55mm- [GI-ﬁguraticln
+starts
+
+ 
+
+. 'l ' 7‘
+WARNING: Ifyou lose your password “N ITO are EJOU -
+' you must re-install Tactical Network
+
+ 
+
+ 
+
+Injector. Yum name: I
+Your computer's name: I I
+0 IMPORTANT: the entered password Themrneituseswhenittallxsbouthermmputers.
+becomes the (“5k encryption P'Iclc a username: Illcernarne I
+
+passphrase requested each time the
+notebook is turned on. The password
+is also requested at user login.
+
+Chnmea password: IPasswnrd
+Cunl'I III yum passmld: IConfiI In passwold
+Loginautomatiﬁally
+
+. Require my password to log in
+|_| Fnrrypl: my home folder
+
+l3:
+
+Back I Contir'uel
+
+9. The standard login page appears at the end
+ofoperatjng system installation. The Tactical
+Control Center operating system and —
+control software are installed on the
+computer.
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013(3) HTS.r.l. - pag. 52
+

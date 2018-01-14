@@ -1,0 +1,50 @@
+RCS 9 - RCS server update
+
+RCS server update
+
+Update requirements
+
+I CAUTION: fully backup before proceeding with an update.5ee "Backup management” on
+page 100
+
+Update methods
+
+Once the installer is launched, it identifies machine components and suggests automatic update.
+The procedure is thus identical in both All-in-One and distributed architecture.
+
+RC5 server{s] update
+0 IMPORTANT: the hardware key must always be inserted in the server.
+
+To update RCS, repeat the following steps for each server:
+
+Step Action
+
+ 
+
+1 Run the res —Version . exe installation ﬁle: the list of installed components that will
+be automatically updated appears. Click Next.
+
+3 Select the new license file from the installation package. Click Next.
+RCS Console update
+
+Update requirements
+No data is saved in RCS Console. The software can thus be updated without any special precaution.
+
+RCS Console update
+
+The console is automatically updated by the server, if necessary, after each login.
+
+As an alternative, repeat the installation procedure using the ﬁles in the new installation package.
+See "RCS Console installation " on page 30
+
+Anonymizer update
+
+Update requirements
+
+No data is saved in Anonymizers. The software can thus be updated without any special
+precaution.
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013(3) HTS.r.l. - pag. 64
+

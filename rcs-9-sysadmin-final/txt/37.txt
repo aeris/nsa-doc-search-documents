@@ -1,0 +1,57 @@
+RCS 9 - Checking service start
+
+Steps Result
+
+ 
+
+8. Select the license ﬁle.
+9. Click Next.
+
+    
+
+Carlin-dim seltirm: cherue
+
+ 
+
+Lica'laeﬂe:
+
+Liane: IGWWWJC I I House... I
+
+ 
+
+]HackingTeam[ 1C3 (2013210401) |
+
+.m1m[ww
+
+10. Enter the system administrator's password.
+11. Click Next: installation is launched.
+
+0 NOTE: if the server name or IP address needs to be changed after installation due to faults
+see "Editing Master Node settings" on page 72 .
+
+Checking service start
+
+Make sure all RCS services are up and running. If services are not running, manually start them.
+See "List of started RES services" on page 29
+
+Checking installation logs
+
+If errors occur during installation, check logs and send them to support service if necessary.
+
+See "System logs" on page 2'?
+
+Check IP addresses
+
+To check addresses, open RCS Console, System section, Frontend : the server address appears on
+the screen (Collector).$ee "Anonymizer installation and settings" on page 38
+
+Uninstall
+RCS can be uninstalled from the Windows Control Panel.
+
+CAUTlON: All saved data is lost when the RC5 server is uninstalled. For correct
+operations, backup data. See "Backup management" on page 100
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013© HTS.r.l. - pag. 21
+

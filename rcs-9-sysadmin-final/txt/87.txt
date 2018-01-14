@@ -1,0 +1,55 @@
+RCS 9 - What you should know about settings
+
+ 
+
+What you should know about settings
+
+What you can edit
+
+The following Master Node Collector installation data can be edited:
+0 the Master Node nam eflP address
+0 System administrator's password
+
+0 backup folder
+0 The outgoing mail server to send alert e-mails
+
+When to edit settings
+
+The nam eflP address or password may need to be changed when servers are replaced or simply
+due to incorrect data entry during installation.
+
+0 IMPORTANT: specifying a different backup folder, for example on a remote device, is
+highly recommended to protect backup data.
+
+Order used to edit settings
+
+Since the server where Master Node is installed is the system "master", the following order must
+be followed to change the installation:
+
+1. Change the Master Node name/IP address or password
+2. Inform the Collector of the new Master Node name/IP address or password
+
+Mail server settings
+
+The RCS system can be set to send e-mail when the first pieces of evidence is received from a
+target. E-mail addressees must have Analyst privileges and belong to the alerting group set for
+that operation.
+
+To do this, set the sender settings of the outgoing mail server and, especially, the required
+authentication level.
+
+See "Setup utilities" below
+
+Setup utilities
+
+RC5 utilities
+
+Setup is run through some utilities in the Windows command prompt in folder C:\RCS\DB\bin or
+C:\RCS\Collector\bin (based on the type of installation).
+
+Component setup utilities include:
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013(3) HTS.r.l. - pag. 71
+

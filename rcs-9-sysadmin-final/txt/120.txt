@@ -1,0 +1,37 @@
+RC5 9 -To learn more
+
+   
+
+ 
+
+Area Description
+
+ 
+
+1 RC5 menu.
+2 System menu.
+
+3 Window toolbar. Descriptions are provided below:
+
+icon Description
+; Add a connection rule.
+
+ 
+
+EdIt the selected connection rule.
+
+x Delete the selected connection rule.
+4 List of connection rules.
+
+5 RC5 status bar.
+
+To learn more
+For interface elem ent descriptions See ’Shored interface eiements and actions" on page 90 .
+
+Significant connection rule data
+Selected rule data is described below:
+
+ 
+
+System Administrator's Guide I ver.1.4 SEP—2013 I RCSEJ I 2013. HTS.r.l. -pag. 104
+

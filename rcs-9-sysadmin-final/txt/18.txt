@@ -1,0 +1,46 @@
+New guide features
+
+RC5 9 - New guide features
+
+List of release notes and updates to this online help.
+
+ 
+
+Release Code Software Description
+date version.
+30 Sep- System 9 Updated Network Injector installation, update and
+tember Administrator's management documentation, see " Optional and
+2013 Guide additional component installation " on page 37 ,
+1.4 SE p-2013 "Routine maintenance and software updates" on page
+62 , "Managing the Network lnjector" on page 105 .
+Updated connector documentation, see "Connector
+management" on page 103 .
+Updated documentation due to improvements to the
+user interface.
+8 July System 3_4 No documentation update.
+2013 Administrator's
+Guide
+15 March System 33 Changed Tactical Network Injector update methods.
+2013 Administrator's See "Tactical Network injector update" on page 6? .
+
+Guide
+1.3 MAR-2013
+
+Changed Network Injector appliance update methods.
+See "Network injector Appliance update" on page 65 .
+
+Added description of third party software connection
+rules. See "Connector management" on page 103 .
+
+The OCR module can index file type evidence content
+(all formats). See "OCR module installation " on page
+33.
+
+Added description of the RC5 Translate module
+available with the purchase of a user license and can
+be installed with support service assistance.
+
+ 
+
+System Administrator's Guide I ver.1.4 SEP—2013 I RC8 9 I 2013© HTS.r.|. - pag. 2
+

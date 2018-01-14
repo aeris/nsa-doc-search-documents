@@ -1,0 +1,55 @@
+RC5 9 - Editing setljngs
+
+Editing settings
+To edit Anonymizer settings:
+
+Step Action
+
+ 
+
+1 In the System section, Frontend, click on the Anonymizer icon.
+
+2 Edit the required data and click Save.
+Result: the screen is updated.
+
+3 Check Anonymizer status in the Monitor section.
+
+4 Click Apply conﬁguration.
+Result: RCS connects to the Anonymizer and copies the new settings.
+
+Uninstall
+
+To uninstall the Anonymizer delete the private server folder J.I’opt,(rcsanon and delete the
+Anonymizer from the RC5 Console. See ’Sqnonymizer update".
+
+What you should know about Network Injector Appliance
+
+Introduction
+
+Network Injector Appliance is a network server for installation in an intra-switch segment at an
+Internet service provider.
+
+An RC5 agent can be injected in visited web pages or downloaded files by monitoring target
+connections.
+
+Network Injector Appliance uses Network Injector - Network Appliance as an operating system and
+Appliance Control Center for control software.
+
+0 NOTE: Network Injector Appliance is supplied installed and ready for use, complete with
+all the foreseen applications.
+
+Operations
+
+Network Injector Appliance analyzes the target's trafﬁc and, in the event set rules match, injects
+agents.
+
+RC5 queries Network Injector Appliance every 30 seconds to receive status and logs and send
+injection rules.
+
+See Appliance Control Center functions.
+Appliance Control Center control software lets you:
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013(3) HTS.r.|. - pag. 4U
+

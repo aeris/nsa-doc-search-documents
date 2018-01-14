@@ -1,0 +1,87 @@
+RCS 9 - Checking service start
+
+Steps
+
+Result
+
+ 
+
+7. Enter the system administrator password
+indicated in Master Node installation.
+
+8. Click Next: installation is launched.
+
+9. Enter the Master Node server name or IP
+address [i.e.: RCSMasterNode].
+
+10. Click Install: when installation has
+completed, services start and attemptto
+communicate with Master Node. The server
+in back end environmentis protected and
+any remote login is redirected
+
+Checking service start
+
+Carlin-dim satin-n: Min mu!
+”mmmﬁmﬂm self-195.
+
+ 
+
+ 
+
+mtfnrlhe'aiilil'uaa".
+
+ 
+
+Password: nun--
+
+ 
+
+]Hacl’.ingTeam[ 1C3 (2013210401)
+
+ 
+
+ 
+
+Cnrligl'ilim settings
+Pleaseatermﬁmlation selling.
+
+ 
+
+ 
+
+Waspflhe Masterl‘tlmie:
+
+ 
+
+ 
+
+ 
+
+]HackingTeam[ 1C5 (20L2E104UL)
+
+ 
+
+ 
+
+<BadcllImlil
+
+llt'im:l
+
+ 
+
+ 
+
+ 
+
+Make sure all RC5 services are up and running. If services are not running, manually start them.
+See "List of started RC5 services" on page 29
+
+Checking Collector redirecting
+
+To check whether Collector installation was successfully completed:
+
+ 
+
+SvstemAdministrator's Guide | ver.1.4 SE P—2013 | Rcsg | 2013© HTS.r.l. -pag. 60
+

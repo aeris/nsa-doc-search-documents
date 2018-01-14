@@ -1,0 +1,53 @@
+RC3 9 - What to check
+
+ 
+
+What to check
+
+In folder C:\RCS\DB\|og check log rcs-worker*.log logs
+
+Check agent status via Collector
+
+Make sure agents are routinely communicating their status to RCS via Network Controller and
+that they are sending their data to Collector. Agent data may be lost in the event of a persistent
+Collector fault.
+
+Command
+
+In folder C:\RCS\Collector\bin enter rcs—collector-status
+Result: the Collector status report appears
+
+'ll'lll F
+IEILE
+
+ 
+
+What to check
+
+The Lost sync time must be as recent as possible, compatible with the set synchronization methods
+for each agent: a recent Lost sync time indicates that agents correctly communication with
+Collector. If Lost sync time is not recent, wait for any other synchronizations to check whether it is
+updated. Alternatively, check Collector logs to see whether there are synchronization attempts: in
+this case inform support service.
+
+The logs value must be minimum since it is the data saved by the Collector awaiting to be sent to
+Master Node. If the value is high, this means that Master Node is not running or is not connected.
+Check Master Node service status.
+
+The number of logs will decrease as soon as the connection is resumed.
+
+Network Injector start check
+Network Injector logs are normally saved in folder {varflog/syslog.
+
+To learn more
+To view logs see "System fogs" on page 77
+
+Service restart procedures
+
+Introduction
+Typical procedures on how to restart services are provided below.
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCSQ I 20139:] HTS.r.l. -pag. SO
+

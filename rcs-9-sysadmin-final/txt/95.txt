@@ -1,0 +1,50 @@
+RC5 9 - Component status check procedure
+
+ 
+
+Severity level Description
+
+ 
+
+Error There is a component error but RCS can guarantee main
+service coverage (i.e.: Master Node not running).
+
+Debug (only appears if enabled upon support service indication,
+increases and provides more details on log records to
+resolve problem 5).
+
+Info information note.
+Component status check procedure
+
+Introduction
+Typical procedures on how to check hardware and software status are provided below.
+
+Installed license check
+Check all licenses installed in RC5, including updates.
+
+Command
+
+In folder C:\RCS\DB\bin enter rcs—db—license
+
+Master Node status check
+Make sure Master Node is routinely communicating data to databases via Worker services.
+
+Command
+
+In folder C:\RCS\DB\bin enter rcs—db-evidence-queue.
+Result: an example is provided below .
+
+ 
+
+What to check
+
+If the logs and size values begin to significantly increase, this may be due to Worker service that is
+not running. Check status on each Worker service.
+
+Checking Worker service status
+Make sure that Worker service is correctly running to decode and save data in databases.
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCSQ I 20139:] HTS.r.|. -pag. 79
+

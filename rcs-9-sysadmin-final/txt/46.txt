@@ -1,0 +1,55 @@
+RC5 9 -To learn more
+
+ 
+
+0 NOTE: Network Controller does not appear amongst services since it is a RCSCollector
+service setting.
+
+To learn more
+
+To restart any stopped services see "Service restart procedures " on page 80.
+
+RCS Console installation
+
+Introduction
+
+RC5 Console is a client designed to interact with Master Node. It is typically installed on control
+room computers (for inspectors and analvsts) and used bv all personnel involved in RC5
+installation.
+
+0 NOTE: for All-in-One architecture you can also install an RC5 Console on the RC5 server.
+
+Requirements
+Before installing RC5 Console you must:
+
+If you are installing" Then you must...
+
+ 
+
+RC5 All-in-Dne t have the RC5 server installed
+0 prepare the server name or IP address
+a prepare the system administrator's password.
+
+Distributed RC5 t have the RC5 serverIs) installed
+0 prepare the Master Node name or IP address
+
+a prepare the Master Node Svstem administrator's
+password
+
+Installation sequence
+The full RCS Console installation sequence is the following:
+
+Step Action
+
+ 
+
+1 Install Adobe AIR.
+2 Install RCS Console.
+
+Adobe AIR installation
+To install Adobe AIR:
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013(3) HTS.r.l. - pag. 3U
+

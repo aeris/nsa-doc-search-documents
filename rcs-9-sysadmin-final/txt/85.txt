@@ -1,0 +1,17 @@
+RC3 9 - Partial update
+
+ 
+
+Step Action
+
+ 
+
+5. Install the update.
+
+6. When the update is completed, Tactical '
+Control Center reboots.
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013© HTS.r.l. - pag. 69
+

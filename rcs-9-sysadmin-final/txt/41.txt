@@ -1,0 +1,56 @@
+RC5 9 - Collector and Network Controller installation
+
+ 
+
+Steps Result
+
+ 
+
+10. Selectthe license ﬁle.
+11. Click Next.
+
+    
+
+Carlin-dim satin-n: cherue
+
+ 
+
+Emile:
+
+ 
+
+Liana: IGWWWJC I I Hausa... I
+
+]Hacl’.ingTeam[ 1C3 (2013210401)
+
+.m 1m[w
+
+ 
+
+ 
+
+ 
+
+12. Enter the system administrator's password.
+
+13. Click Next: when installation has
+completed, services are started and are -
+ready to receive data and communicate
+with the RC5 Console.
+
+0 NOTE: if the server name or IP address needs to be changed after installation due to faults
+see "Editing Muster Node settings" on page 72 .
+
+Collector and Network Controller installation
+To install Collector(s) and Network ControllerIs) in front end environment:
+
+Steps Result
+
+ 
+
+1. Insertthe hardware key. —
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013© HTS.r.l. - pag. 25
+

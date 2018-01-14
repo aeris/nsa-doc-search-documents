@@ -1,0 +1,59 @@
+RCS 9 - System administrator procedures
+
+From... To... Port
+to be opened
+
+ 
+
+Network Controller remote 443
+
+Console Master Node 443, 444
+
+System administrator procedures
+
+Introduction
+
+Typical System administrator procedures are listed below with references to the pertinent
+chapters.
+
+Procedures
+
+Install RC5 and setup components
+
+The server, Console, Shard, additional Collector and optional Anonymizer and Network Injector
+component installation procedure is described below:
+
+Step Action
+
+ 
+
+1 Prepare the installation environment.
+See ’Tnstaiiation introduction " on page 12 .
+
+2 Install the RC5 server (in All-In-One or distributed architecture).
+See ’TICS installation" on page 17 .
+
+3 Install the RC5 Consoles.
+See ’GRCS Consoie instaiiation " on page 30 .
+
+4 (optional) Install an OCR module.
+See "OCR moduie instaiiation" on page 33
+
+q ' Service caii: to instaii other RCS moduies, contact Hacking Team
+
+technicians.
+
+5 (optional) Install the Shard databases and additional Collectors.
+See ’Llldditionai component instaiiation in distributed architecture" on page 55 .
+
+5 (optional) Install and setup up Anonymizers.
+See "Anonymizer instaiiation and settings" on page 38
+
+7 (optional) Install Network Injectors.
+See "What you shouid know about Network injector Appiiance" on page 40 .
+See "What you shouid know about Tacticai Network injector" on page 47 .
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013. HTS.r.|. - pag. 15
+

@@ -1,0 +1,51 @@
+RC5 9 -To learn more
+
+Area Description
+
+ 
+
+2 Window toolbar.
+Descriptions are provided below:
+
+icon Description
+x Deletes the component to be monitored.
+
+ 
+
+3 List of RCS components and their status:
+
+0 Alarm (generates an e-m ail sent to the alerting group)
+
+A Warning
+
+I Component running
+4 License status.
+
+5 RC5 status bar.
+
+To learn more
+
+For interface elem ent descriptions See "Shared interface elements and actions" on page 90 .
+For a description of the data in this window see "System monitoring data fMonitor)" on the facing
+page .
+
+Deleting a component to be monitored
+To delete an uninstalled component:
+
+Step Action
+
+ 
+
+1 Select the component.
+
+2 Click Delete: RCS will no longer read the status of that component. Only subsequent
+installations of new components automatically updates the list.
+
+6 NOTE: erroneously deleting a component that is still installed is not
+destructive. Component status will reappear the next time the page is
+refreshed.
+
+ 
+
+System Administrator's Guide I yer.1.4 SEP—2013 I RCSEJ I 2013. HTS.r.l. -pag. 110
+

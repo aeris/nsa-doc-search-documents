@@ -1,0 +1,67 @@
+RC5 9 - Space occupied by tagged text in the database
+
+ 
+
+Space occupied by tagged text in the database
+
+Each piece of screenshot evidence occupies more space in the database because it is always
+accompanied by its tagged text. The increase in space cannot be predicted since it depends on
+both the number of screenshots acquired from the agent and the number of words in each
+screenshot.
+
+OCR module work load
+The OCR module occupies a lot ofthe CPU when converting a screenshot, but is run with a lower
+priority than other processes.
+
+Thus the CPU load will only have an effect when the system shows the converted image text
+during evidence analysis.
+
+For distributed architecture, it can be installed on Shard and not on the Master Node, already full
+of processes.
+
+Symptoms of excessive load
+
+Check how long it takes for the text to be displayed in the single evidence detail and check the
+times recorded in the log when acquiring images. If these are deemed excessive and another
+server is free (i.e.: that housing another shard database or Master Node) install another OCR
+module.
+
+This way the work load will be divided amongst all installed modules.
+
+OCR module installation
+To install an OCR module in back end environment:
+
+Steps Result
+
+ 
+
+1. lnsertlhe CD with the installation package.
+Run ﬁle RCS-ocr-version.exe in folder
+
+ 
+
+x:\se11|p:lhe ﬁrstwizard window appears. WEIDOHIE 10 ihe ROS-OCR Seiup
+. I Wii'ﬂl’d
+2. Cllck Next.
+I Tﬂsﬂﬂdﬂgichmuﬂrmmwhsﬂatimnf
+ecsooz.
+
+[tisremtlnmded ﬂlatmdnﬁrdnﬂ'ierm
+beheshiuﬁehuﬂisﬂmdaitnmsﬂemwdate
+rdevaltswtan ﬁestilhmthaﬂin lnrellontm
+mllrr.
+
+Udalndil lnda'tlhehaldal'nn.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013(3) HTS.r.|. - pag. 34
+

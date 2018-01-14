@@ -1,0 +1,81 @@
+RC5 9 - Archive Wizard
+
+Button Function
+
+ 
+
+, Open the wizard to quickly create an agent.
+
+Invesuuad-m 0
+Wind
+Open the wizard to quickly save operation and target data.
+
+Archive Wins! 0
+
+Archive Wizard
+
+ 
+
+NOTE: the button is only enabled for users with Administrator and Technician
+privileges.
+
+NOTE: the button is only enabled for users with Administrator and System
+Administrator privileges.
+
+This wizard lets you quickly manage open operation or target data to save and delete them from
+
+the database.
+
+Data is saved in a backup and can be restored at any time.
+Following are explanations of the various options:
+
+Option
+
+Description
+
+ 
+
+Archive all data
+into a backup
+
+Remove all data
+from the live
+system
+
+Mark the item
+as closed
+
+Delete the item
+from the system
+
+Saves all selected operation or target data in a full type backup file.
+
+The backup appears in a programmed backup list and can be restored at any
+time.
+
+Deletes all selected operation or target evidence from the database.
+
+The operation or target remain open and running Only the database is
+reduced in size.
+
+CAUTION: if this option is combined with immediate backup, give the
+' backup a name that clearly indicates that the corresponding evidence
+was deleted from the system.
+
+Close the selected operation or target.
+
+CAUTION: the operation or target is closed and cannot be reopened.
+
+' Agents no longer send data but evidence already received can still be
+viewed.
+
+Deletes all selected operation or target data. Operation data, targets, agents
+and all evidence is deleted from databases.
+
+I CAUTION: deleting an operation/target is irreversible and all data
+linked to that operation/target is lost.
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 20136) HTS.r.|. - pag. 39
+

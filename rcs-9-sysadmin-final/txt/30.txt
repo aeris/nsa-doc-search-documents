@@ -1,0 +1,70 @@
+RCS 9 - USE hardware keys
+
+USB hardware keys
+
+Two hardware keys are included in the package: a main one, already linked to the license in the
+USB license key, and a backup, ready to be activated in the event the main key fails.
+
+IMPORTANT: the hardware key must always be connected to the server (to Master
+Node in distributed architecture} to allow all RC5 services to run. All services are
+
+immediately aborted when the key is disconnected!
+
+Minimum system requirements
+
+Hardware must be configured as instructed by support service in the contract phase. The
+computers on which RC5 is installed require the following characteristics:
+
+ 
+
+Machine Component Requirement
+Front end and back end server Operating Microsoft Windows Server 2008 R2
+system Standard {Engiish}
+
+Computer for RC5 Console
+
+UPS for Anonymizer
+
+Network Injector (Appliance or
+
+Tactical}
+
+Ports to be opened on the firewall
+
+Operating sys-
+tem
+
+Browser
+
+Operating
+system
+
+Operating sys-
+tem
+
+Microsoft Windows orAppie Mac OS X.
+
+Firefox 11
+iE 9
+Chrome
+
+Linux CentOS 6
+
+Provided by HockingTeom
+
+If a firewall is installed between RCS server components, the following TCP ports must be opened
+to allow services to communicate:
+
+ 
+
+From... To... Port
+to be opened
+Agenthnonymizer Collector 80
+Collector Master Node 443
+Collector remote all
+Master Node Collector 80
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013© HTS.r.|. - pag. 14
+

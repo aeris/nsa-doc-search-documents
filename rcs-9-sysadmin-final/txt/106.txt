@@ -1,0 +1,42 @@
+RC5 9 - Shared interface elements and actions
+
+Shared interface elements and actions
+
+Each program page uses shared elements and allows similar actions to be run.
+
+For easier manual comprehension, elements and actions shared by some functions are described
+in this chapter.
+
+What the RC5 Console looks like
+This is what a typical RC5 Console page looks like. A target page is displayed in this example:
+
+GE":
+
+ 
+
+ 
+
+ 
+
+El- .3 5
+e. st IE, ;.
+th'HCN‘u band-W:- ..1':>°I—k.'
+“WI”... El 4.
+
+Area Description
+
+ 
+
+1 Title bar with command buttons:
+‘3. Logout from RC5.
+G Page refresh button-
+El Expand window button.
+E Shrink window button.
+
+2 o ‘H' Return to homepage button
+0 RC5 menu with functions enabled for the user.
+
+ 
+
+System Administrator's Guide I yer.1.4 SE P—2013 I RC8 9 I 2013. HTS.r.l. - pag. 90
+

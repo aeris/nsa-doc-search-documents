@@ -1,0 +1,60 @@
+RC5 9 - Anonymizer data
+
+Step Action
+
+ 
+
+5 Connect to the server, unzip the file and launch the installer by entering:
+# sh rcsanon—install.sh
+
+Result: the Anonymizer is installed in server folder foptfrcsanon and listens on port
+443.
+
+7 From RC5 Console, in the System section, Frontend, select the Anonymizer and click
+Apply configuration.
+
+Anonymizer data
+Selected Anonymizer data is described below:
+
+ 
+
+Data Description
+
+Name User's description
+
+Description
+
+Version Software version. To view software versions for all components see the Monitor
+section.
+
+Address IP address of the UPS where the Anonymizer was installed.
+
+port 443. To view the ports to be opened for firewall see "Parts to he openedon the
+firewall" on page 14 .
+
+Monitor If enabled, Network Controller acquires Anonymizer status every 30 seconds.
+
+via NC If not enabled, the Anonymizer runs normally but Network Controller does not
+
+check status- To be used to avoid connections with Anonymizers in untrusted
+environments.
+
+Log Last messages logged. To view log file content see "System logs" on page ??
+
+Boot check
+
+The Anonymizer sends its logs to syslog that manages and saves them in a file. Files are normally
+saved in the following files (based on the operating system version and syslog service settings):
+
+fvar/logfmessages
+fvar/log/syslog
+
+IP address check
+
+To check all Anonymizer addresses, start the RC5 Console, System section, Frontend: the
+addresses appear on the screen. See "Anonymizer update" on page 64
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013(3) HTS.r.|. - pag. 39
+

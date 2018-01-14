@@ -1,0 +1,66 @@
+RCS 9 - Potential faults
+
+Potential faults
+
+Potential installation faults
+
+Following is a list of potential faults that may occur during installation and references to
+recommended actions:
+
+ 
+
+If... Then...
+
+installation does not make sure the hardware key is correctly inserted.
+
+progress
+
+RCS console cannot 0 Make sure you logged in with the System administrator's name,
+connect to the seryer password and name of the server where Master Node was
+
+installed.
+
+0|"
+
+0 connect from the browser with "httpsﬂserveh'llame" or
+"https:ffbackehdServerName"
+
+o The browser inspects the HTFPS certificate and returns some
+addresses to find out what went wrong.
+
+Possible server problems
+
+Following is a list of potential faults that may occur during product use and references to
+recommended actions:
+
+ 
+
+If And Then
+
+cannot connect the hardware key is correctly 0 check Master Node service status
+
+to Master Node Inserted but Master Node 59er“? 0 request hardware key replace-
+does not start merit.
+
+data no longer from RCS Console the Collector is check Collectorstatus.
+
+arrives from running and correctly
+
+agents communicates
+
+The Master The Collector is running 0 check whether an update ls in
+Node is not progress
+
+available 0 check the Collector log flle
+images are not the OCR module is installed check how slow in the module log and
+converted into install another OCR module {lfln dis-
+text tributed architecture}.
+
+The Collector is - restart Rﬁcollector servlce.
+
+not available
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013© HTS.r.l. - pag. 76
+

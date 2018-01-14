@@ -1,0 +1,55 @@
+To...
+
+RC5 9 - Settings check
+
+Enter...
+
+ 
+
+communicate the new Master Node
+name/IP address
+
+Settings check
+
+> rcs—collector—config —d Name —u admin —
+p Password —t
+
+or
+
+) rcs—collector—config —d IPaddress —u
+admin —p Password —t
+
+0 IMPORTANT: "Password" must match the one
+used to login to Master Node.
+
+Result: certificates are restored in folder
+\RCS\DB\conﬁg\certs.
+
+Previous and current settings can be checked using RC5 utilities.
+To check previous and current settings, launch the relevant utilities without any option:
+
+> rcs—db—config
+> rcs—collector—config
+
+Example of settings check output
+
+An example of a check is given below:
+
+Current configuration:
+{"CA_PEM"=>"rcs.pem",
+"DB_CERT"=>"rcs—db.crt",
+"DB_KEY"=>"rcs—db.key",
+"LISTENING_PORT"=>443,
+"HB_INTERVAL"=>30,
+"WORKER_PORT"=>5150,
+"CN"=>"1T2.20.20.157",
+"BACKUP_DIR"=>"baCkup",
+"PERF"=>true,
+"SMTP"=>"mail.abc.com:25",
+"SMTP_FROM"=>"alert@abc.com",
+"SHARD"=>"shardOOOO"}
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013(3) HTS.r.|. - pag. 74
+

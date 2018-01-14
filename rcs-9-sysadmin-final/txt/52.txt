@@ -1,0 +1,32 @@
+RCSQ-
+
+ 
+
+Foider .‘ndudedﬁles
+certs The folder contains the certiﬁcates used by the various services to access Master
+Node. They are updated when RCS settings are edited.
+See "Editing Master Node settings" on page ?2
+Path:
+\RCS\DB\config\certs
+conﬁg The folder contains:
+. decoy. htm page to redirect or customize undesired remote login landing on
+the server. It can be customized. See "Routine maintenance procedures" on
+page 63
+0 License file copied from the USB key.
+0 Export.zip: ﬁle containing the style sheets to be customized for evidence
+export.
+Path:
+C:\RCS\DB\conﬁg
+C :\RCS\Col lector\c onfig
+log RC5 component log file.
+
+See "System logs" on page .7?
+
+Path:
+C:\RCS\DB\|og
+C :\RCS\Col lector\l og
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013© HTS.r.|. - pag. 36
+

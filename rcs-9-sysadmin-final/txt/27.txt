@@ -1,0 +1,56 @@
+RC5 9 - Redirecting login to Collector
+
+Redirecting login to Collector
+
+The Collectors real function can be hidden, for direct access to data collection service, by
+redirecting to an unsuspicious page (i.e.: Google, e-commerce site and so on). Redirecting is
+through a customizable HTM L page.
+
+See "Files installed at the end of installation " on page 35
+
+Digital certificates
+
+Master Node uses HTTPS digital certificates that guarantee communication security between
+Master Node, Collector, Network Controller and RCS Consoles.
+
+Some agents (Android, Symbian) require specific certificates that must be created and saved in
+folder \RCS\DB\config\certs.
+
+See "Files installed at the end of installation " on page 35
+
+Decoding data
+
+Worker service is installed with each Shard and decodes data before it is saved in the database.
+For distributed databases, each Shard has its own Worker that receives encrypted data from
+Master Node, decodes it and saves it in the database. The work load is automatically evenly
+distributed among all Shards in the same cluster.
+
+Differences between RC5 8.0 and RC5 7.6 versions
+
+Differences with the RC5 16 version are described below
+
+ 
+
+Glossary
+
+RES v. ?.6 RES 8.0 and higher
+Activity Operation
+
+Agent Module
+Anonymizer chain Anonymizing chain
+Backdoor Agent
+
+Backdoor Class Factory
+
+Collection Node (ASP) Collector
+
+Injection Proxy Appliance (IPA) Network Injector Appliance
+Log Repository (RCSDB) Master Node and additional Shard
+Mobile Collection Node (RSSM) Collector
+
+RCSAnon Anonymizer
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013(3) HTS.r.l. - pag. 11
+

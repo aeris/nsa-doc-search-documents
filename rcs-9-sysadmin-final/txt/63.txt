@@ -1,0 +1,49 @@
+RC5 9 - Changing Ihe IP address
+
+Changing the IP address
+
+If the Network Injector device IP address changes, reinstall Network Injector and synchronize.$ee
+’Tnstaiiotion sequence” on page 4.2 , "First Network injector synchronization with RC5 server " on
+page 53
+
+To check all addresses, open RC5 Console, System section, Network Injector and view data for
+each Network Injector. See "Network injector data" on page 108 .
+
+Uninstall
+
+To uninstall a Network Injector Appliance, simply delete the object in RC5 Console and turn off the
+device.
+
+See "Managing the Network injector" on page 105
+
+What you should know about Tactical Network Injector
+
+Introduction
+
+Tactical Network Injector is a notebook for tactical installation on LAN or WiFi networks.
+
+Tactical Network Injector uses Network Injector - Tactical Device as an operating system and
+Tactical Control Center for control software.
+
+6 NOTE: Tactical Network Injector is supplied installed and ready for use, complete with disk
+' encryption and all the foreseen applications.
+
+Tactical Control Center functions
+Tactical Control Center lets you:
+1- Enable synchronization with RC5 to receive updated identiﬁcation and injection rules and
+send logs.
+1- Update Tactical Control Center with the latest version sent by RC5 Console.
+. Automatically identify connected devices using the rules and infect them
+a Manually identify connected devices using the rules and infect them
+. Crack protected WiFi network passwords
+. Simulate a WiFi network to attract target devices
+
+Network connections
+
+Tactical Network Injector requires two network connections: one to tap the target's traffic and the
+other to inject agents and communicate with the RC5 server.
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013(3) HTS.r.|. - pag. 47
+

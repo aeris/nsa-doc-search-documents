@@ -1,0 +1,56 @@
+RC5 9 - Network connections
+
+0 Enable synchronization with RCS to receive updated identiﬁcation and injection rules and
+send logs.
+
+0 Update Appliance Control Center with the latest version sent by RCS Console.
+
+0 Automatically identify connected devices using the rules and infect them
+
+Network connections
+Network Injector Appliance requires two network connections: one to tap the target's trafﬁc and
+the other to inject agents and communicate with the RC5 server.
+
+Tip: after setup, Network Injector Appliance is independent. It can be left to run without
+further communication with the RC5 server.
+
+x' , Service caii: given special Network injectorAppiiance features, this manuai oniy provides
+essentiai connection indications, ietting support service provide aii those strategic aspects
+
+that are defined in the start-up and deiiven/ phase.
+
+Standard connection layout
+Typical layout for an Access Switch that routes data to Network Injector Appliance:
+
+ 
+
+ 
+
+Access
+Switch DSLAM Target
+INTERNET “—3 I 3 ' I> ﬁ
+‘— Ly
+guilt-$33 Injection
+Q Network
+I! ln]ector
+ISP
+
+ 
+
+ 
+
+ 
+
+ 
+
+| Network Controller I RC5
+
+Figure I: Ndmrk injector Appﬁancie.‘ physical Iayaut
+
+Connection layout as an intra-switch segment
+Typical layout with TAP device to boost Access Switch data routing:
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 20139:] HTS.r.|. - pag. 41
+

@@ -1,0 +1,36 @@
+ 
+
+Optional and additional component
+installation
+
+Presentation
+
+Introduction
+
+RCS installation may include the installation of other optional and additional components:
+
+. Network Injector
+. Anonymizer
+
+. Shard database
+. Collector
+
+Content
+
+This section includes the following topics:
+
+ 
+
+Anonymizer installation and settings ...................................................................... 38
+What you should know about Network Injector Appliance _________________________________________ 40
+Network Injector Appliance installation .................................................................. 42
+What you should know about Tactical Network Injector ............................................ 47
+Tactical Control Center installation _________________________________________________________________________ 49
+First Network Injector synchronization with RC5 server ............................................. 53
+Checking Network Injector status ........................................................................... 54
+Additional component installation in distributed architecture ____________________________________ 55
+
+ 
+
+System Administrator's Guide yer.1.4 SEP—2013 - RC8 9 - 2013. HTS.r.|. - pag. 37
+

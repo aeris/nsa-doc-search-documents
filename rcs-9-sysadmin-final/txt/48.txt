@@ -1,0 +1,63 @@
+RCS 9 - RCS Console uninstall
+
+ 
+
+Steps Result
+3. Set any preferences. 3—1-3?
+
+4. Click Continue: RCS Console wdl be Installed RCS Console
+
+on the computer.
+Descnzione
+
+e. Tl = .—':_min ':_Il_:|l_:_:ll :_|' LII: F:_-:
+
+Percorso di instalbziune:
+
+l Continua l Annulla
+
+ 
+
+5. The RCS Console login window appears at
+the end ofinstallatjon.
+
+6. Enter your credentials and the server
+nameg'lP address.
+
+7. Click 6. "2:"
+
+NOTE: the System administrator logs "“ 0
+in with name "admin" and the - -
+
+password selected during installation.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+will W ILM
+
+RCS Console uninstall
+
+RCS Console can be uninstalled at any time, for example, to use the computer in another way or
+to remove RCS Console from the All-in-One server and install it on a separate computer. Database
+data and user preferences are not inﬂuenced in any way.
+
+Creating the Administrator user
+
+An RCS Console Administrator user must be created during RC5 installation. The Administrator is
+in charge of creating all other users and managing operations and targets.$ee ’T’roduct and guide
+
+addressees" on page 5 .
+To create an Administrator user:
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 20133:] HTS.r.l. - pag. 32
+

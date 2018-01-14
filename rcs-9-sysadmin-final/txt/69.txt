@@ -1,0 +1,57 @@
+RCS 9 - Changing the IP address
+
+Changing the IP address
+
+If the Network Injector device IP address changed, reinstall Network Injector and run first
+sync hronization.$ee "instoiiotion sequence" on page 49 , "First Network Injector synchronization
+with RC5 server” below
+
+To check all addresses, open RC5 Console, System section, Network Injector and view data for
+each Network Injector. See "Network injector data" on page 108
+
+Uninstall
+
+To uninstall Tactical Control Center, simply remove it from the computer. To uninstall a Tactical
+Network Injector, simply delete the object in RCS Console and turn off the device.
+
+See "Managing the Network injector" on page 105
+
+First Network Injector synchronization with RCS server
+
+Introduction
+
+First Network Injector synchronization is required to allow the technician to create sniffing and
+injection rules and to include the device in Network Controller polling. Once installed and
+synchronized, Network Injector communicates its status to Network Controller every 30 seconds.
+
+Synchronizing a Network Injector with RCS server
+To complete Network Injector installation, synchronize Network Injector with the RC5 server.
+Following is the procedure for both Network Injector Appliance and Tactical Network Injector:
+
+Step Action
+
+ 
+
+1 Connect Network Injector to the network and from Network Manager, Connection
+information identify its IP address
+
+6 NOTE: the IP address must be accessible from RCS server. Check by pinging
+from RCS Collector. If there is a firewall between RCS server and the Network
+Injector, open port 443.
+
+2 Open Appliance Control Center or Tactical Control Center and click Config
+
+3 From RCS Console, in the System section, Network Injector, click New Injector.
+
+4 Compile the required data entering the Network Injector IP address in the Address
+field and click Save
+
+See "Network injector data" on page 108
+
+Result: the Network Injector appears in the list and the new object to be monitored is
+added to the Monitor section.
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013(3) HTS.r.|. - pag. 53
+

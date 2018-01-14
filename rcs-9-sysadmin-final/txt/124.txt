@@ -1,0 +1,58 @@
+RC5 9 - Network Injector data
+
+ 
+
+Step Action
+
+ 
+
+Select the Network Injector
+Click Upgrade: update data appears.
+Click OK: RCS receives the request to send the update to Network Injector.
+
+IMPORTANT: Network Injector onlyr receives the software when it
+synchronizes with the RC5 server.5ee "Checking Network injector status "
+on page 54
+
+Network Injector data
+
+Network Injector data is described below:
+
+ 
+
+Data Description
+
+Name User's descriptions.
+
+Description
+
+Version Software version.
+To view the software versions of all the components see "System monitoring
+fMonitor)" an the facing page .
+
+Address Device IP address.
+
+Port 443. To view the ports to be opened for firewallsee "Ports to be opened on the
+firewai " on page 14
+
+Monitor If enabled, Network Controller acquires the Network Injector status every 30
+
+via NC seconds.
+If not enabled, Network Injector continues sniffing and injection operations, but
+the Network Controller does not check its status. Used when connections to
+Network Injector are down for any reason once installed at ISP, or for tactical use.
+
+Log Last messages logged.
+
+NOTE: Tactical Network Injector log updates depend on the frequency with
+which the operator enables synchronization.
+
+To view log file content see "System iogs" on page .77.
+98: update the list.
+
+xat: delete viewed logs.
+
+ 
+
+System Administrator's Guide I ver.1.4 SEP—2013 I RC8 9 I 2013. HTS.r.I. - pag. 108
+

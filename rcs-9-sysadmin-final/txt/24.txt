@@ -1,0 +1,84 @@
+RCS 9 - All-in-One RCS architecture components
+
+ 
+
+ 
+
+Component Function Installation
+
+Agent Software bugs tap and communicate the 0 target
+investigation target's data and information to devices
+an Anonymizer or, if not installed, directly to o doto
+Collectors. sources
+
+Anonymizing
+chain
+Anonymizer
+
+Collector
+
+Firewall
+
+RCS console
+
+Master Node
+
+Network
+Controller
+
+Network
+Injector
+
+Ta rget
+
+(optional) geographically distributed VPS (Virtual phi-
+Anonymizer groups that guarantee Collector vote Server)
+
+anonymity and redirect collected data to
+protect servers from remote attacks. It
+transfers agent data to servers. Several
+Anonymizers can be set up in a chain to
+increase the level of protection. Each chain
+leads to one Collector.
+
+RCS server component that collects agent data RC5 server
+either directly or through the Anonymizer
+chain.
+
+Optional but highly recommended, it protects RCS server
+the trusted environment were data is
+
+processed and saved from the untrusted
+environment where data is collected.
+
+Setup, monitoring and analysis console used by 0 RC5
+operating center workers. server
+0 internal
+network
+
+Heart ofthe RCS server, it manages data flows, RC3 server
+component status and includes the first Shard
+
+database. It includes the Worker service to
+
+decode data before saving it in the database.
+
+(optional) RCS server component, sends RCS server
+settings to Network Injector, Anonymizer
+chains and constantly acquires their status.
+
+(optional) Fixed hardware component 0 lSP
+(Appliance) or notebook (Tactical), it runs . Wired or
+snifﬁng and injection operations on the target's Wireless
+HTTP connections. LAN
+(homes,
+hotel}
+
+Investigation targets. Each device owned by -
+the target is a data source and can be
+monitored by an agent.
+
+ 
+
+System Administrator's Guide I ver.1.4 SEP—2013 I RCS 9 I 2013© HTS.r.|. - pag. 3
+

@@ -1,0 +1,73 @@
+RC5 9 - Data snifﬁng via TA P, SPAN port
+
+ 
+
+“we
+Access
+
+/ \ Swltch DSLAM Target
+
+INTERNET I—
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+Injection
+
+ 
+
+N etwork
+Injector 1!
+
+| Network Controller l RC5
+
+Figure 2: Network Injector Appﬁanae with TAP: physicai layout
+
+ 
+
+ISP
+
+ 
+
+ 
+
+Data sniffing via TAP, SPAN port
+
+A TAP device is often installed at the Internet service provider and is the most appropriate solution
+for traffic monitoring.
+
+Using a SPAN port has the following drawbacks:
+
+0 switch CPU use may signiﬁcantly increase due to port use
+0 the SPAN port on the switch may already be in use.
+
+Network Injector Appliance installation
+
+Introduction
+
+Network Injector Appliance is supplied with pre-installed and set Network Appliance operating
+system and Appliance Control Center control software. Hardware must be installed with the
+
+Internet service provider and synchronized with RCS server.
+
+Package content
+The package includes a series of GBIC connectors to monitor optic fiber and RJ45 connections.
+
+Installation sequence
+
+‘ Tip: prepare Network Injector Appliance at your offices before installing it at the Internet
+provider.
+
+The full installation sequence is provided below:
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 20139:] HTS.r.l. - pag. 42
+

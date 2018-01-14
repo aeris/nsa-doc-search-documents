@@ -1,0 +1,53 @@
+RCS 9 - Connector management
+
+ 
+
+Fieid Description
+
+ 
+
+Enabled Enables/disables the backup process. Use to temporarily disable the process, for
+example, when replacing the backup device.
+
+‘ Tip: to quickly enablefdisable a process, flag the box in the En column in the
+list.
+
+What Data to be included in backup.
+
+metadata: the entire system conﬁguration: database, Collector, Network Injector,
+Anonymizer, agent. This is the bare minimum required to restore the system in the
+event of disaster. All information required to collect agent information is contained in
+this type of backup.
+
+full: full backup of the system conﬁguration and tapping data (operation and target).
+It may take a while to execute.
+
+operation: backup of the indicated operation, data included.
+target: backup of the indicated target, data included
+
+When Backup frequency.
+UTC: time zone.
+
+Name Name to be assigned to the backup.
+
+Connector management
+
+ 
+
+To manage connectors: 0 System section, Connectors
+
+Function scope
+
+This function lets you create connection rules with third party software. The evidence received by
+RC5 will be sorted according to these rules.
+
+0 IMPORTANT: this function requires a user license.
+6 NOTE: the function is only enabled if the user has Connector management authorization.
+
+What the function looks like
+This is what the page looks like:
+
+ 
+
+System Administrator's Guide I ver.1.4 SEP—2013 I RCS 9 I 2013. HTS.r.I. - pag. 103
+

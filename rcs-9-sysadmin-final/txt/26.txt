@@ -1,0 +1,57 @@
+RC5 9 - Whatyou should know about RC5
+
+ 
+
+Component F anction Installation
+
+ 
+
+Collector One per each Anonymizing Chain, it collects data one or more
+communicated by the last Anonymizer in the chain. It requires servers infront
+
+a single license. end environment
+Network One per architecture, it is included in ﬁrst Collector one serverin
+Controller Installation. front end envi-
+ronment
+Shard x Additional RC5 distributed database partitions. Shard 0 is one or more
+included in Master Node. It includes Worker service to decode servers in back
+data and enter it in the database. end environment
+
+What you should know about RC5
+
+Operations
+
+RC5 system components must be suitably installed at both the operating center and, eventually, an
+Internet service provider. Typically divided in front end environments for all data collection,
+tapping and monitoring, and back end environment for data collection and backup-
+
+Data flow and protection
+The RC5 server clearly separates activities in untrusted environment from those in tmsted
+environment. The barrier limit is provided by a resident firewall.
+
+Tapping data is collected in untrusted environment, eventually redirected to protect the
+addressee's identity (you) and sent to an information collector (Collector). Remote device status
+and settings are checked by a speciﬁc component (Network Controller).
+
+In trusted environment, evidence is managed, set and monitored (Master Node).
+
+Lastly, RC5 Console is a client that directly connects to Master Node. It can be installed on any
+computer to be used by the various RC5 users.
+
+See "Distributed architecture components" on previous page .
+
+Data logging continuity
+
+Agents send collected data to the Collector. If communications fail, connectivity is down or the
+Collector does not work, agents can save a set amount of data until connectivity is restored. Data
+that exceed the admitted limit are lost.
+
+If the Collector cannot communicate with Master Node (disservice or maintenance in progress),
+
+received data is locally saved on the Collector until Master Mode is restored. Once restored, data
+is automatically sent.
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013(3) HTS.r.|. - pag. 10
+

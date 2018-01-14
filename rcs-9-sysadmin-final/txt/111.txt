@@ -1,0 +1,61 @@
+RC5 9 - What the function looks like
+
+ 
+
+Area Description
+
+ 
+
+3 Window toolbar.
+Descriptions are provided below:
+
+icon
+
+Description
+
+ 
+
+ﬂ
+
+Ilﬂ time IX
+
+Create a new Anonymizer.
+
+Edit Anonymizer data.
+After editing, click itpplyr configuration.
+Show last logs.
+
+‘ Tip: double-click an Anonymizer to checkfedit data.
+
+Delete an Anonymizer. This does not delete the Anonymizer
+installed on the 'v'PS.
+
+It generates the installer for the first Anonymizer installation
+and saves it on the desktop. Copy the file via SSH to the remote
+UPS and run it.
+
+Update the Anonymizer software version from remote.
+
+Simulate agent behavior. It connects to each Anonymizer in the
+chain up to the gateway Collector, and returns connection
+results.
+
+Update settings on all Anonymizers. This command is used after
+adding, deleting or changing the Anonymizer chain in use.
+
+It shows packets automatically created on the Collector by
+Exploit, WAP Push and (IR Code vectors made available for the
+target device. Files that are no longer used can be deleted.
+
+CAUTION: deieting ﬂies too eoriy couid compromise
+infection by vectors.
+
+' NOTE: any files manually copied to the folder do not
+' appear.
+
+4 Anonymizers set but not yet included in a chain.
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013. HTS.r.l. - pag. 95
+

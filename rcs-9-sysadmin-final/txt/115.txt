@@ -1,0 +1,54 @@
+RC5 9 - Metadata type backup
+
+1- metadata
+
+1- full
+. operation
+. target
+
+Metadata type backup
+
+The metadata backup type is fast and saves the entire system configuration, allowing normal
+system operations to be quickly restored in the event of problems. This type of backup does not
+include collected evidence. Daily backup is recommended.
+
+WARNING: agents installed on various devices may be lost without a recent metadata
+backup.
+
+6 NOTE: thejob that runs weekly metadata backup is set by default and enabled whenever
+the system is rebooted. The default job cannot be deleted.
+
+Full type backup
+
+Full backup contains all evidence, therefore this could take a long time. Since it can be restored
+after a metadata backup, it is recommended once a month.
+
+Operation type backup
+
+The operation backup saves all open and closed operations. Since it can be restored after a
+metadata backup, it is recommended once a month.
+
+Target type backup
+
+The target backup saves all opened and closed target data. Since it can be restored after a
+metadata backup, it is recommended once a month.
+
+Incremental backup
+
+Full, operation and target backups can also be incremental. This way the system saves data
+generated from the date-time of the last backup. The first incremental backup is always complete
+(full, operation or target). Only subsequent backups are incremental.
+
+6 NOTE: if the incremental option is removed and reapplied to a job, the next backup of that
+' job will be complete.
+
+‘ Tip: name thejob so it is later recognized as an incremental backup (i.e.: "|ncrem_
+lastWeek”).
+
+We suggest you run a complete backup (full, operation or target) once a month and an
+incremental backup once a week.
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013(3) HTS.r.l. - pag. 99
+

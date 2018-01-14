@@ -1,0 +1,49 @@
+RC5 9 -Anonymizer update
+
+Anonymizer update
+
+Repeat the installation procedure using the files in the new installation package.
+0 IMPORTANT: keep the Linux operating system updated
+
+See "Anonymizer installation and settings" on page 38
+
+Network Injector Appliance update
+
+Introduction
+
+There are three ways to update Network Injector Appliance:
+
+. fully, including the operating system, see ”Full Network Injector Appliance update" below
+
+. partially, saving data, with an infection in progress see "Partial update with infection in
+progress " on the facing page .
+
+1- partially, saving data, without an infection in progress see "Partial update without infec-
+tion in progress" on the facing page
+
+Full Network Injector Appliance update
+‘ CAUTION: updating deletes all data on the machine.
+
+If you have the updated .iso file, run the following procedure to install the operating system
+update:
+
+Step Action
+
+ 
+
+1 Insert the installation CD with the new operating system version and boot from CD:
+disk content will be deleted and both the operating system and Network Injector ﬁles
+will be re-installed. This procedures takes about 20 minutes.
+
+0 IMPORTANT: select Network Appliance for server version installation.
+
+2 Reboot the server: the procedure must be confirmed.
+
+‘ CAUTlON: the entire hard disk will be deleted.
+
+Result: Network Injector Appliance is installed.
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013(3) HTS.r.|. - pag. 65
+

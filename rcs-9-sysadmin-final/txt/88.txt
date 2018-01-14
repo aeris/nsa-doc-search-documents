@@ -1,0 +1,55 @@
+RC5 9 - Utility command syntax
+
+ 
+
+o for Master Node: rcs—db-config
+o for Collector: rcs—collector-config
+
+6 NOTE: The RCS settings procedure in All-in-One architecture is identical to the RC5 one in
+distributed architecture.
+
+Utility command syntax
+
+Utility command syntax is the following:
+> rcs—db—config —X AAA
+> rcs—collector—config —x AAA
+
+Where:
+
+0 -x: selected option
+0 AAA: entered value
+
+Other options
+
+For prompt diagnostics, support service can request additional commands be launched. For the
+correct syntax, enter:
+
+> rcs—db—config ——help
+> rcs—collector—config ——help
+
+gig Service caii: oniy use the other options if indicated by support service.
+
+‘ Tip: syntax "-x" is the short version of syntax "--xxxxx": "rcs—db—config —n" is the
+sameas"rcs—db—config ——CN"
+
+Editing Master Node settings
+
+From folder C:\RCS\DB\bin or C:\RCS\Collector\bin (based on the type of installation) enter the
+following commands:
+
+To edit... Enter...
+
+ 
+
+thEhﬂaﬂerNode > rcs—db—config —n Name —g
+name/IP address or
+> rcs—db—config —n IPaddress —g
+
+Result : certiﬁcates are updated and appear in folder
+\RCS\D B\config\certs. Collector settings must also be edited. See "Editing
+the Coiiector conﬁguration" on next page
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013. HTS.r.|. - pag. 72
+

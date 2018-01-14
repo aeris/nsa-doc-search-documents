@@ -1,0 +1,68 @@
+RCS 9 - RCS Console installation
+
+ 
+
+Steps
+
+Result
+
+ 
+
+1. Install Adobe AIR: no icon appears on the
+
+desktop at the end ofinstallation.
+
+RCS Console installation
+To install RC5 Console:
+
+Steps
+
+ 
+
+.i _ lnsbllaznne d1 Adah -\'.
+
+Adobe“ AIR“
+
+lmpostazione programmadi installazione
+
+Contratto di Iicenza software per Pl:
+
+1. ESCLUSIDNI DI GAMNZIA, CDHTRA'l—I'O
+VINEDLANTE E LILTERIDRI TERMINI E [ZDNTRA1T1.
+
+INFO . .__ N
+DME SONG" E
+l'UH.Nl I UHJ I: Ll: nu! Uh
+
+Accet‘to l ﬁnnulla
+
+Result
+
+ 
+
+1. Run the ﬁle RCSconsole—versionair
+2. Click Install.
+
+ 
+
+_—'Jm
+
+Volete \reramente installare questa
+applicazione nel computer?
+E=:li 5C 'lOSIIIU
+
+RC5 Can
+
+I
+Annulla
+
+Identiﬂ e.:lil:-:.I'e: SCOHOSCI'JTO
+
+:‘l":rrnin=.r.= l':-:' :r.= :‘li :1II.==l—-u :r:r:li:'
+
+:l :i:tern:.: ILLIP-‘IITATD
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013© HTS.r.l. - pag. 31
+

@@ -1,0 +1,55 @@
+RCS 9 - RCS server installation in distributed architeclure
+
+RCS server installation in distributed architecture
+
+Introduction
+
+Installation in distributed architecture typically installs all components on two or more servers:
+one server for the front end environment to collect data and manage remote devices and one
+server for the back end environment to process and save data.
+
+L}? Service coii: distributed architecture is scdidbie. Check with the HockingTedm support
+; service.
+
+0 NOTE: RCS Console will be installed with a separate procedure on either the same server
+or other remote computer.
+
+Installation requirements
+The following is required before installing RCS server(s):
+o the name or IP address of the serverls) where RC5 is to be installed
+0 the license ﬁle, found on the USB key supplied in the delivered package or other support if
+downloaded from Internet.
+
+0 the USB hardware key, supplied in the package.
+0 for firewall, open the ports for correct service operations. See "Ports to be opened on the
+
+firewoi " on page 14 .
+
+Installation sequence
+The installation sequence in distributed architecture is described below:
+
+Step Action Machine
+
+ 
+
+1 Prepare that indicated in instoiicrtion _
+requirements.
+
+2 Install Master Node. server in back end environment
+3 Check installation logs.
+
+Make sure Master Node services have
+
+4
+started.
+5 Check installation logs.
+7 Chem COHECtO" redirecting same server or other computer
+8 Install RC5 Console. server in back end environment or other
+computer
+
+9 Setup the backup folder on the remote unit. server in back end environment
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013. HTS.r.l. - pag. 22
+

@@ -1,0 +1,55 @@
+RC5 9 - Package content
+
+ 
+
+Package content
+
+Package content
+RC5 is supplied in a package that includes:
+
+0 an installation CD
+0 a USB key with user license
+0 two USB hardware keys (main and backup)
+
+L; Service caii: aii U53 keys are suppiied with an it) code that must be communicated to
+. support service for aii software repiacements and updates.
+
+Installation package content (CD or web]
+
+The installation package in the CD or downloaded from the HackingTeam support portal contains
+the following files where 'x' is the CD root:
+
+ 
+
+Foider inciudedﬂies Description
+
+1:: ChangeLogpdf Reiease notes
+
+x:\doc RCS_x.x_Admin_v.y_ RC5 instaiiation and user manuais. Each manuai is
+tanguage.PDF addressed to a specific user roie.
+RCS_x.x_Analist_v.v_ o x.x:RC5 version.
+LanguagePDF . v.31.- manuai version.
+RCS_x.x_SysAdmIn_y.y_ 0 Language: manuai ianguage.
+tanguage.PDF
+RCS_x.x_Technician_v.v_
+LanguagePDF
+
+x:\setup AdoberAlRinstaller.exe Adobe AiR instaiiation fiie
+
+x:\setup RCS-version.exe RC5 server(s,l instaiiation fiie
+
+x:\setup RCSconsole-versionair RC5 Consoie instaiiation fiie
+
+x:\setup RCS-ocr-version.exe OCR moduie instaiiation fiie (optionai)
+
+USB key with user license
+
+The package contains a USB key with the user license for the supplied RC5 version.
+
+The ﬁle is required for installation and software updates. It can be copied from the USB key to any
+other support device.
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013. HTS.r.|. - pag. 13
+

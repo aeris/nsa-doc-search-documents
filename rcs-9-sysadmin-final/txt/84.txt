@@ -1,0 +1,93 @@
+RC5 9 - Partial update
+
+ 
+
+Step Action
+
+ 
+
+Partial update
+
+These are the Tactical Control Center update phases:
+
+Step
+
+Action
+
+ 
+
+1. From RC5 Console, in the System, Network
+Injector section, selectthe Network
+Injector to be updated and click Upgrade
+
+2. Open Tactical Control Center
+
+3. In the Network Injector tab, click Conﬁg:
+synchronization is enabled.
+
+4. During synchronization, RC5 queries
+Network Injector every 30 seconds. A
+message appears at the end of the ﬁrst
+interval requesting consentto install.
+
+NOTE: ifthe update isnotinstalled,
+an installation authorization request
+will appear the next time Tactical
+Control Center is booted.
+
+_ " '-II:PJ-:I|. :-:r lrr.-| CHIM-
+
+ 
+
+mulch-1mg: wlmecama-unnr mtenmml: lugsymm
+ch-Inrlclnbcrrccm malabomnrcmcﬂ} ' I."
+uirﬁugiulnlaw UbtlleIrElllllrdud -
+
+unmwmmnnmmnxummn :uulurmnm.. snip smrr
+
+ 
+
+lpurmnrkrlrrr:
+
+slaw: Ilwaoallea IPaoolm- '1!”qu Humane 0L3 UID‘WIEI Lat-Helium";
+
+PrathaU
+
+man all
+
+ 
+
+.. "am-3|. :crlml Ernte'
+
+ 
+
+”Milan-inch: wlrdessmzmrlnr mtcmmmm mung-5mm
+Ncl'lnrltlnbcﬂccr: malabcznnrmxu: v :2"
+HifﬁllgilllHlJI-v Usellves-alreillelraue -
+
+Yolrmlllhlnltlnnhm mustnsanunn:Unnnuhnmlunls. I Shun I cnirr
+:» Hrmnrk nma
+
+shun ”Waddle” lPeddIIsL venom Imumm as Ulo‘mel unusual";
+a Nauupdata available
+In
+
+n:- ’liL
+“will “a... l
+
+-L
+
+  
+
+ 
+
+mulluU
+
+rm: all
+
+ 
+
+ 
+
+SystemAdministrator's Guide | ver.1.4 SE P—2013 | Rcss | 2013© HTS.r.l. -pag. 68
+

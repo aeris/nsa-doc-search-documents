@@ -1,0 +1,26 @@
+7
+
+ 
+
+Editing Master Node and Collector settings
+
+Presentation
+
+Introduction
+Component settings can be edited after installation if needed.
+Content
+
+This section includes the following topics:
+
+ 
+
+What you should know about settings .................................................................... 71
+Setup utilities ..................................................................................................... 71
+Editing Master Node settings ................................................................................ 72
+Editing the Collector configuration _________________________________________________________________________ 73
+Settings check .................................................................................................... 74
+
+ 
+
+System Administrator's Guide ver.1.4 SEP—2013 - RC8 9 - 2013. HTS.r.l. - pag. 70
+

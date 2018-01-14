@@ -1,0 +1,55 @@
+RCS 9 - Restarting Worker service
+
+ 
+
+Restarting Worker service
+
+Purpose
+
+In the event of faults, Worker service can be restarted using this utility instead of using the
+Windows Service Management function.
+
+Command
+
+The commands to start, stop and restart the service are given below in order:
+0 > rcs—worker—service start
+0 > rcs—worker—service stop
+0 > rcs—worker—service restart
+
+Restarting Network Injector service
+
+I CAUTION: use 55H protocol for all installation, setup and data exchange operations to the
+remote unit.
+
+Purpose
+
+In the event of faults you can directly work on Network Injector and restart service.
+
+Command
+
+To restart the service with the same settings or new ones, open Appliance Control Center, reset if
+necessary and reboot the service by clicking Restart.
+
+Restarting Anonymizer service
+
+I CAUTlON: use 55H protocol for all installation, setup and data exchange operations to the
+remote unit.
+
+Purpose
+
+In the event of faults signaled on RCS Console you can directly work on the VP5 server and restart
+service.
+
+Command
+
+To restart the service, enter the following command:
+# /etc/init.d/rcsanon restart
+
+To stop the service, enter the following command:
+
+# fetc/init.d/rcsanon stop
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013(3) HTS.r.|. - pag. 32
+

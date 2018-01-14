@@ -1,0 +1,50 @@
+RC5 9 - Editing the Collector conﬁguration
+
+ 
+
+To edit... Enter...
+
+ 
+
+theSyﬂen1adnﬁn- > rcs—db—config —R Password
+istrator's password
+
+(admin) Result : certiﬁcates are updated and appear in folder
+\RCS\D B\config\certs. Collector settings must also be edited. See "Editing
+the Collector conﬁguration" below
+
+backup folder > rcs—db—config —B Folder
+0 NOTE: "Folder" can be a path for the RCSde folder or an absolute
+path.
+
+0 IM PO RTANT: any backup files in the previously set folder will be
+copied to the new one.
+
+Result: all subsequent backup ﬁles are saved in the new folder.
+
+‘ Tip: a remote device can be installed in an NTFS folder using
+Windows Disk Manager: this way, a remote disk can be used for
+backup.
+
+outgoing mail > rcs—db—config —M —Server HostName: PortNumer
+server settings for to set the outgoing main server name and port to be used.
+alert e-mails > rcs—db—config —from senderEmail
+to set the alert e-mail sender's e-m ail (i.e.: "alert@myp|ace.com").
+> rcs—db—config —user UserName
+To set the e-mail sender's user name.
+> rcs—db—config —pass Password
+To set his password.
+> rcs—db—config —auth AuthenticationType
+
+To set the type of authentication to be used ("plain", "login" or "cram_
+md5").
+
+Editing the Collector configuration
+
+From folder C:\RCS\DB\bin or C:\RCS\Co|Iector\bin (based on the type of installation) enter the
+following commands:
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 20136) HTS.r.l. - pag. 73
+

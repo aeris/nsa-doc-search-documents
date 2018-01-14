@@ -1,0 +1,29 @@
+RCS 9 -Tacchal Control Center installation
+
+INTERN ET
+
+ 
+
+Figure 2‘. Tactical Network Injector: access paint emaiatian diagram
+
+Tactical Control Center installation
+
+Introduction
+
+Tactical Network Injector is supplied with pre-installed and set Tactical Device operating system
+and Tactical Control Center control software. It must be synchronized with RCS server.
+
+- IMPORTANT: installation requires the Master Node authentication files and
+synchronization requires the creation of Network Injector on RC5 Console. Be well
+prepared for installations far from the operating center.
+
+Package content
+The package includes a notebook and installation CD.
+
+Installation sequence
+The full installation sequence is provided below:
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 20139:] HTS.r.l. - pag. 49
+

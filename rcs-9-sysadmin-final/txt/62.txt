@@ -1,0 +1,70 @@
+RC5 9 - Operating system installation and settings
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Steps Result
+7. The keyboard layout is read. Only change it if System conﬁguration
+"6C6 ssary.
+Keyb oarcl lay a u l:
+Choosegwur keyboard layu ut:
+E1glisl1INigmidII
+Friglisl‘l [Snulll an in!) English {US} ' CherOkee
+anllsh (UK) English {US} - English (Co lama k)
+English {US} - English (Dvorak altem.‘
+Bperanto English {US} - English (Dvorak intem.‘
+Etonlan English {US} - English (Duorak)
+I-aroese English {US} English (Macintosh)
+. r-..l:-l. flu-1 r....l:—L. l'l Id" -.Ii-.....-.I-:...
+ITpr hPrP m resrynur keyboard I
+Detect: Keyboard Layoutl [E
+.... m
+8. Enter user data: operating system setup 55mm- [GI-ﬁguraticln
+starts
+
+Who are you?
+
+ 
+
+ 
+
+Yum name:
+
+Your computer's name: I I
+The mmei‘: uses when'ﬂ: talksbouther computers.
+
+P'Iclc a username: Illcernarne I
+Chnnse a password: IPasswnrd
+
+Cunt“: III your passwmd: IW
+Loginautomatiﬁally
+. Require my password to log in
+|_| Fnrrypl: my home folder
+
+l3:
+
+Back I . ContinJe I
+
+9.1he standard login page appears at the end
+ofoperatjng system installation. 'lhe
+Appliance Control Center operating system —
+and control software are installed on the
+computer.
+
+ 
+
+System Administrator's Guide I uer.1.4 SE P—2013 I RCS 9 I 20136) HTS.r.l. - pag. 46
+

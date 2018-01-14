@@ -1,0 +1,60 @@
+RC5 9 -To learn more
+
+ 
+
+Area Description
+
+ 
+
+3 Network Injector toolbar. Descriptions are provided below:
+
+Action Function
+
+ 
+
+x‘ Add a new Network Injector
+,5:-
+
+-| Edit Network Injector data and View logs.
+
+Update Appliance Control Center or Tactical
+Control Center software. If Network Injector is
+Appliance type, it will be automatically updated
+at the next synchronization provided an
+infection process is running. If, on the other
+hand, it is Tactical type, the operator will select
+whether or not the application is updated.$ee
+”Network Injector Appiiance update" on page
+65 , "Tacticai Network Injector update" on page
+67
+
+x Delete the selected Network Injector.
+E
+
+Network Injector list.
+Injection rule toolbar.
+List of selected Network Injector rules
+
+RC5 status bar. .
+
+"hlﬂ‘lU'l-L‘I
+
+To learn more
+
+For interface elem ent descriptions See ”Shared interface eiements and actions” on page 90 .
+
+To learn more about Network Injector Appliance installation see "Network injector Appiiance
+instaiiation" on page 42
+
+To learn more about Tactical Network Injector installation see ”Tacticai Controi Center
+instaiiation” on page 49 see "Network injector Appiiance instaiiation" on page 42
+
+To learn more on Network Injector data see "Network injector data" on next page
+
+Updating Network Injector control software
+To update Network Injector:
+
+ 
+
+System Administrator's Guide I yer.1.4 SEP—2013 I RC8 9 I 2013. HTS.r.l. - pag. 107
+

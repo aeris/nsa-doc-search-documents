@@ -1,0 +1,75 @@
+RC5 9 - Additional Shard database installation
+
+ 
+
+Additional Shard database installation
+To install an additional Shard database in back end environment:
+
+Steps Result
+
+ 
+
+1. Insertlhe CD with the installation package.
+
+Run ﬁle RCS—version.exe in folder x:\setup: _
+the ﬁrst wizard window appears. Weimme ‘0 “'9 R03 3911“) Wizard
+
+2. Click Next. I—I I
+Tliawizzl'duﬂglidc wu lh'ouj1 lhc'nalzlalimnm.
+
+[tieremlllaidacl Il'latyujdosedulha'qﬁmlims
+heliwaslwlhgﬂlhnﬂizﬂmdritrm l'mpdall:
+r-Elevmtsvstan iasu'lhmthav'l’iu torebootm
+Giulia.
+
+ 
+
+[idcﬂext I3) mime.
+
+ 
+
+ 
+
+ 
+
+ 
+
+3. Select Distributed.
+
+ 
+
+4. Click Next. I'Iﬂalldiun ijc
+DmnynaltMeﬂ'lnd @
+
+ 
+
+Haasesdmmensﬁlaum type wuwa'lt:
+DALI-Hana
+ﬂl hemmﬂbemﬂedmaiﬂemadhe. Easvseupﬁarsnﬂ
+Howls.
+{Quin-tum
+
+l'hei’slilatimisfllynﬁkn‘aitle. Eadlmmmtalbeiﬂiledm
+:Iﬁermtmadmemad'levemamn m.mggasledmrtq
+Hamis-
+
+]Hack.lngTeam[ 1C5 (30.2:1040.)
+
+ 
+
+ 
+
+<DachlﬂertleCh-ncd
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013© HTS.r.l. - pag. 56
+

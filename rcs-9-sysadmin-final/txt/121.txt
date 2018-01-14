@@ -1,0 +1,53 @@
+RC5 9 - Managing the Network Injector
+
+ 
+
+Field Description
+
+ 
+
+Path Name of the operation or target evidence is sent to.
+If not specified, all operations and evidence will be sent to third party software.
+
+Type Evidence storage type:
+a Local: evidence is sent to a local folder
+a Remote: evidence is sent to an RC5 installation with Archive license
+
+6 The RCS system with Archive license receives central system data and is
+
+enabled to run all analysis functions as if it directly received information
+from target devices; however, it cannot create agents or receive new data
+directly from the Collector.
+
+[Format] Evidence format.
+a JSON, XML for Local type
+0 RC5 for Remote type
+
+Keep the If selected, a copy of the evidence is kept in the RC5 database.
+
+evidence - . . . . .
+‘ CAUTION: If not selected, this evidence can no longer be viewed In RC5,
+nor can alerts be received.
+
+Destination Local folder path where evidence is sent (i.e.: "C:\RCSevidence") or RC5 Archive
+server IP address.
+
+Managing the Network Injector
+
+To manage Network Injec- | a System section, Network Injector
+tors:
+
+Purpose
+
+During installation, this function lets you create a new Network Injector "object" that creates the
+logical connection between the RC5 Console and single hardware device.
+
+0 NOTE: the function is only enabled if the user has Injector management authorization.
+
+What you can do
+With this function you can:
+
+ 
+
+System Administrator's Guide I ver.1.4 SEP—2013 I RCS 9 I 2013. HTS.r.I. - pag. 105
+

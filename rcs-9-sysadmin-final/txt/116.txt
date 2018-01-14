@@ -1,0 +1,54 @@
+RCS 9 - Backup restore for severe reasons
+
+ 
+
+Backup restore for severe reasons
+
+I CAUTION: restoring a backup shouid oniy be considered in severe situations such as
+repiacihg a database.
+
+A backup must be restored whenever a server is replaced.
+
+Backup data restore
+
+0 IMPORTANT: backup restore is never destructive. For this reason, restore should not
+' be used to restore accidentally changed elements.
+
+Some examples are provided below:
+
+if after the iast backup Then restore
+
+ 
+
+an element was deleted restores the deleted element.
+
+an element was edited leaves the element changed.
+
+a new element was added leaves the element changed.
+
+0 IMPORTANT: backup does not restore information on operations that were
+' erroneously closed Ideleted}.
+
+0 IMPORTANT: to restore an incremental backup, restore them all starting with the
+oldest.
+
+Backup management
+
+To manage backups: I a System section, Backup
+
+Function scope
+
+When RC5 is running, this function lets you check the last backup status, create new backup
+processes or immediately run a backup process.
+
+During RC5 maintenance, this function lets you fix damaged data restoring them with a backup.
+
+6 NOTE: the function is only enabled if the user has System Backup&Restore authorization.
+
+What the function looks like
+This is what the page looks like:
+
+ 
+
+System Administrator's Guide I ver.1.4 SEP—2013 I RC8 9 I 2013. HTS.r.I. - pag. 100
+

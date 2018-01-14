@@ -1,0 +1,71 @@
+RCS 9 - Checking service start
+
+Steps Result
+
+ 
+
+10. Enter the Master Node server name or IP
+address [i.e.: RCSMaste rNode]. Mm“ Him
+
+11. Click Install: when installation has mmmwwmm m
+completed, services start and attemptto
+communicate with Master Node. The server
+in back end environmentis protected and
+any remote login is redirected
+
+ 
+
+ 
+
+mmoflhc: Manhrl‘lot:
+
+ 
+
+HIE-IRENE: I MaslaFEaa-ual
+
+ 
+
+]Hacl’.ingTeam[ 1C3 (2013210401)
+
+.m1m[w
+
+ 
+
+ 
+
+ 
+
+Checking service start
+Make sure all RC5 services are up and running. If services are not running, manually start them.
+See "List of started RC5 services" on the facing page
+
+Checking Collector redirecting
+To check whether Collector installation was successfully completed:
+
+If Then
+
+ 
+
+on the server a open a browser
+a enter localhost
+1- Result: the browser must be redirected to Google.
+
+on another computer ' open a browser
+a enter http: // front end serverName or IP
+
+address .
+1- Result: the browser must be redirected to Google.
+
+‘ Tip: you can edit redirecting or create a custom page. To do this, edit page decoy. html.
+
+See "Files installed at the end of installation" on page 35
+
+Checking installation logs
+
+If errors occur during installation, check logs and send them to support service if necessary.
+See "System logs" on page ??
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013© HTS.r.l. - pag. 23
+

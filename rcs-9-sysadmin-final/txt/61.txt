@@ -1,0 +1,46 @@
+RC5 9 - Operating system installation and settings
+
+Steps Result
+
+ 
+
+4.11m ﬁrst setup window appears. System Configuration
+
+5. Select the language.
+Welcome
+
+ 
+
+ 
+
+ 
+
+As turianu Ba hasa Indu nes la Rosa nski
+cat-“a feitlm naml:
+Dcutsch Ecsti _
+Bpaml Esperanto Euskara
+Francais Gaeilg: Galego
+Hnlacski I'slenska Icaliano
+Kurd'l Latviski Lietmriéltai
+Magyar Nederlands No rsk bokmal
+
+ 
+
+ 
+
+6. Select the correct time zone. system Corflguratlen
+
+Where are you?
+
+ 
+
+ 
+
+Ra rm: l} I
+
+ 
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RC5 9 I 2013© HTS.r.l. - pag. 45
+

@@ -1,0 +1,32 @@
+ 
+
+Guide introduction
+
+Presentation
+
+Manual goals
+
+This manual is a guide for the System Administrator to:
+
+o correctly install the RC3 system and its components
+0 set up components using the administration console
+o understand and resolve any system problems
+
+Information on how to consult the manual is provided below.
+Content
+
+This section includes the following topics:
+
+ 
+
+New guide features .............................................................................................. 2
+Supplied documentation ....................................................................................... 3
+Print concepts for notes ________________________________________________________________________________________ 4
+Print concepts for format ...................................................................................... 4
+Product and guide addressees ................................................................................ 5
+Software author identification data ________________________________________________________________________ 5
+
+ 
+
+System Administrator's Guide yer.1.4 SEP—2013 - RC8 9 - 2013© HTS.r.I. - pag. 1
+

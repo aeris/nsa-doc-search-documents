@@ -1,0 +1,60 @@
+RCS 9 - Potential backup problems
+
+ 
+
+If And Then
+
+data is queued the most recent data does not 5""?le WOW” service status for MGSl-"EI'
+in the Master appear on RC5 Node andfor the other Shards.
+
+Node
+
+Network Con- Connect to the machine where Network
+troller indicates Injector or Anonymizer is instailea and
+an error check the Iog file.
+
+Potential backup problems
+
+Following is a list of potential faults that may occur during backup and references to
+recommended actions:
+
+If And Then
+
+ 
+
+backup status is error _ check available disk space and manually restart backup.
+
+To learn more
+To check component status see "Component status check procedure" on page 79
+To restart services See "Service restart procedures " on page 80
+
+System logs
+
+Introduction
+
+Each RCS component generates daily logs that help to analyze possible fault or error causes.
+Analyzing file content lets you review RCS operations step by step and understand any error cause
+(i.e.: service starts but immediately stops, service started but with incorrect deploy.htm page
+redirect).
+
+Log analysis utility
+The reasons that can lead to log analysis are provided below:
+
+ 
+
+Component Analyst's reason
+
+Master Node Check problems with RCS Console.
+
+Collector Check data reception from agents.
+
+OCR module Check for any slowed indexing in exported content.
+
+Translate module Check for any slowed content translation.
+
+Network Controller In the event of doubts on Network Injector or Anonymizer status.
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013(3) HTS.r.l. - pag. 77
+

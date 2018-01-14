@@ -1,0 +1,39 @@
+Information ownership
+
+© COPYRIGHT 2013, HT S.r-l.
+All rights reserved in all countries.
+
+No part of this manual can be translated into other languages and/or
+adapted andf'or reproduced in other formats and/or mechanically,
+electronically processed or photocopied, recorded or otherwise
+without prior written authorization from HackingTeam.
+
+All corporations and product names may be legal or registered
+trademarks, property of their respective owners. Specifically Internet
+ExplorerTM is a Microsoft Corporation registered trademark.
+
+Albeit text and images being selected with the utmost care,
+HackingTeam reserves the right to change andf'or update the
+information hereto to correct typos and/or errors without any prior
+notice or additional liability.
+
+Any reference to names, data and addresses of companies not in the
+HackingTeam is purely coincidental and, unless otherwise indicated,
+included as examples to better clarify product use.
+
+NOTE: requests for additional copies of this manual or product
+technical information should be addressed to:
+
+HT S.r.l.
+
+via della Moscova, 13
+
+20121 Milano (MI)
+
+Italy
+
+Tel.: + 39 02 29 060 603
+
+Fax: + 39 02 63 118 946
+e-mail: info@hacl<ingteam.com
+

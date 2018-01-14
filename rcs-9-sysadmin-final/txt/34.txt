@@ -1,0 +1,50 @@
+RCS 9 - Whatyou should know about RCS installation
+
+What you should know about RCS installation
+
+Lagin privileges
+RCS was designed to guarantee maximum server and collected data security. To achieve this goal,
+four distinct roles were defined that usually refer to the professionals who can login to the system:
+o ”b System administrator: exclusively in charge of hardware and software installation and
+backups
+o 1‘! Administrator: in charge of all system login, investigations and investigation goals
+0 "Technician: in charge of setting up and installing tapping agents
+0 Cl. Analyst: in charge of data analysis
+
+‘ Tip: several roles can be assigned to the same user, for exam pl e, an Administrator can
+also have Technician privileges.
+
+Admin user and System administrator user
+
+A special user is created during installation with the name "admin" and all privileges (system
+administrator, administrator, technician and analyst) to be used for all RCS Console settings and
+login functions.
+
+This user must only be used for this purpose. After completing installation, we recommend you
+create one or more users with the required privileges according to your organization.
+
+0 IMPORTANT: we usually refer to the admin user in this manual as the System
+Administrator, even if shelhe has all privileges.
+
+RCS server installation in All-in-One architecture
+
+Introduction
+
+RCS server installation in All-in-One architecture installs all server components on the same
+computer.
+
+The RC5 Console will be installed with a separate procedure.
+See "RCS Console installation " on page 30
+
+Installation requirements
+The following is required before installing RCS server(s):
+o the name or IP address of the server(s) where RC5 is to be installed
+0 the license ﬁle, found on the USB key supplied in the delivered package or other support if
+
+downloaded from Internet.
+0 the USB hardware key, supplied in the package.
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013. HTS.r.l. - pag. 18
+

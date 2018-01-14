@@ -1,0 +1,52 @@
+RC5 9 - Addiljonal component installaljon in distributed architeclure
+
+Step Action
+
+ 
+
+1 In the System section, Network Injector, select the Network Injector
+to be analyzed, double-click and click Edit
+
+Result: a window opens with Network Injector data and saved logs. See
+"Network injector data" on page 108
+
+6 NOTE: logs are only received and displayed if Network Injector
+is synchronized.
+
+Additional component installation in distributed architecture
+
+Introduction
+
+Installation in distributed architecture lets you add Shard databases (larger data volumes) and
+Collectors (one for each Anonymizer chain).
+
+L}? Service caii: distributed architecture design must be checked with HackingTeam support
+- . service.
+
+Additional component installation requirements
+
+Before installing additional components, complete Master Node and Collector installation.
+See "RCS server instoiiotion in distributed architecture" on page 22 .
+
+Installation sequence
+The complete additional component installation sequence is described below:
+
+ 
+
+Step Action Machine
+1 Prepare that indicated in instaiiation requirements. _
+2 Install additional Shard databases. server in back end envi-
+3 Check installation logs. ronment
+4 Install additional Collectors. server in front end envi-
+5 Check installation logs. ronment
+5 Check redirecting on each Collector. same server or other
+
+computer
+
+7 Check for the installed objects in the System, Backend and RC5 Consoie
+Frontend sections.
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013. HTS.r.l. - pag. 55
+

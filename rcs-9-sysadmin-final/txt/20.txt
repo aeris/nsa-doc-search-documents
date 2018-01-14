@@ -1,0 +1,66 @@
+RC5 9 - Print concepts for notes
+
+ 
+
+Man aai Addressees Code Distribution
+format
+Analyst's Guide Analysts Analyst’s Guide PDF
+1.4 SEP-2013
+
+Print concepts for notes
+
+Notes foreseen in this document are listed below (Microsoft Manual of Style):
+
+A
+A
+0
+9
+Q
+
+WARNING: indicates a riskyr situation which, if not avoided, could cause user injuryr or
+equipment damages.
+
+CAUTION: indicates a risky situation which, if not avoided, can cause data to be iost.
+
+IMPORTANT: offers the indications required to complete the task. While notes can be
+neglected and do not inﬂuence task completion, important indications should not be
+neglected.
+
+NOTE: neutral and positive information that emphasize or add information to the main
+text. They provide information that can only be applied in special cases.
+
+Tip: suggestion for the application of techniques and procedures described in the text
+according to special needs. It may suggest an alternative method and is not essential to
+text comprehension.
+
+L}? Service call: the operation may only be completed with the help of technical service.
+
+Print concepts for format
+
+A key to print concepts is provided below:
+
+Exampie Styie Description
+
+ 
+
+See "User data" italic this indicates a chapter, section, sub-section, paragraph, table or
+
+illustration heading in this manual or other publication of reference.
+
+<ddmmyyyy> <aaa> indicates text that must be speciﬁed by the user according to a
+
+certain syntax. In the example <ddmmyyyy> is a date and could be
+"14072011".
+
+Select one of [x] indicates the object specified in the text that appears in the adjacent
+
+the
+
+listed image.
+
+servers [2].
+
+ 
+
+System Administrator's Guide I ver.1.4 SEP—2013 I RCSQ I 2013. HTS.r.I. - pag. £1
+

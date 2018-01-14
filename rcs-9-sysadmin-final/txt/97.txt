@@ -1,0 +1,48 @@
+RC3 9 - Restarting RCSDB service
+
+Restarting RCSDB service
+
+Purpose
+
+In the event of faults, RCSDB service can be restarted using this utility instead of using the
+Windows Service Management function.
+
+Command
+
+The commands to start, stop and restart the service are given below in order:
+0 > ros—db—servioe start
+0 > rcs—db—service stop
+0 > rcs—db—service restart
+
+Restarting MongoDB service
+
+Purpose
+
+In the event of faults, MongoDB service can be restarted using this utility instead of using the
+Windows Service Management function.
+
+Command
+
+The commands to start, stop and restart the service are given below in order:
+0 > ros—mongo—servioe start
+0 > rcs—mongo—servioe stop
+0 > rcs—mongo—servioe restart
+
+Restarting Collector service
+
+Purpose
+
+In the event of faults, Collector service can be restarted using this utility instead of using the
+Windows Service Management function.
+
+Command
+
+The commands to start, stop and restart the service are given below in order:
+0 > ros—oolleotor—servioe start
+0 > rcs—collector—service stop
+0 > rcs—collector—service restart
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013© HTS.r.|. - pag. 31
+

@@ -1,0 +1,78 @@
+RCS 9 - Master Node installation
+
+Master Node installation
+
+To install Master Mode on the server in back end environment:
+
+Steps
+1. lnsertlhe hardware key.
+
+2. Insertlhe CD with the installation package.
+Run ﬁle RCS-version.exe in folder x:\se1].lp:
+the ﬁrst wizard window appears.
+
+3. Click Next.
+
+4. Select Distributed.
+5. Click Next.
+
+Result
+
+ 
+
+deme la ihe ROS Seiup Wizard
+
+Tliau'ﬁrduigjdc you ll'rouj1 H'Ici'lolilalimoﬂ'lﬂs.
+
+[tieremllia’idacl “Iatyujdosedahqqialiam
+heﬁvaslwliuﬁrhnﬁiqﬂnliteil‘fm l'ﬂlﬂ‘lﬁh?‘
+relevmtsvslan lesﬂlhmlhav'l'm torebootm
+annular.
+
+[ickrlert In mime.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+hsldldiun Type
+Dmoyna'lthlelhod
+
+ 
+
+PleaseselmMehsﬂaumqrpemnmt:
+
+DAHHmE
+ﬂl hemisnlbehslﬂedmasiﬂamadhe. Easvsehoﬁarsnd
+Howls.
+
+@nhhimlad
+ﬂunﬂaﬁmishlraﬁmme. Eadlampma’ltal’lbeiﬁﬂedm
+
+:lﬁ'erentmad’ne mmmamn 5m. 31993531 forty
+Howls.
+
+ 
+
+]HacklngTeam[ RC5 (30.2:1040.)
+
+ 
+
+~:Dad:]lncrt/I[Cma:l
+
+ 
+
+ 
+
+ 
+
+ 
+
+SystemAdministrator's Guide | ver.1.4 SE P—2013 | Rcsg | 2013© HTS.r.l. -pag. 23
+

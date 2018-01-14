@@ -1,0 +1,54 @@
+RCS 9 - Installation sequence
+
+1- for firewall, open the ports for correct service operations. See "Ports to be openedon the
+firewal " on page 14 .
+
+Installation sequence
+The complete installation procedure for All-in-One architecture is described below:
+
+ 
+
+Step Action Machine
+1 Prepare that indicated in lnstallatlon requirements. _
+2 Install RC5. server
+3 Make sure services have started. server
+4 Check the installation log. server
+5 Install RC5 CWSOIE- server or other computer
+5 Setup the backup folder on the remote unit. server
+Installation
+
+To install the server in All-in-One architecture:
+
+Steps Result
+
+ 
+
+1. Insertlhe hardware key. —
+
+2. Insertlhe CD with the installation package.
+
+Run ﬁle RCS—version.exe in folder x:\setup _
+the ﬁrst wizard window appears. Welcome in “19 R65 SE21“PWIzard
+
+3. Click Next. H I
+Tl'sviza'dﬂgjde wu Mum summons.
+
+[tlsreannmded lhatywdasedall’la'ﬂlﬁmm
+buﬁlusldlilgﬁcllp. ﬂisﬂmdcintuilc luLpddl-t:
+rdcmtsysltm Instilhmlhuvi'ig lnrcbootyur
+WEI.
+
+ 
+
+firlcﬂerl‘lnmhte.
+
+ 
+
+ 
+
+ 
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013© HTS.r.|. - pag. 19
+

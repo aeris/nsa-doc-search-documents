@@ -1,0 +1,48 @@
+RC5 9 - Checking Network Injector status
+
+ 
+
+Step Action
+
+ 
+
+5 Check Network Injector status in the Monitor section. See "Checking Network
+Injector status ” below
+
+Checking Network Injector status
+
+Introduction
+
+Network Injector synchronizes with the RC5 server to download updated control software versions,
+identiﬁcation and injection rules and send their logs.
+
+Network Injector status can be monitored from RC5 Console.
+Speciﬁcally:
+. in the Monitor section: to identify when Network Injector is synchronized and thus avail-
+able for data exchanges.
+c in the System section, Network Injector: to view the logs sent by Network Injector.
+
+Identifying when Network Injector is synchronized
+The procedure is described below:
+
+Step Action
+
+ 
+
+1 In the Monitor section, select the Network Injector object row to be analyzed. Check
+the Status column: if flagged green, the Network Injector is synchronized.
+
+This situation occurs when on Control Center software (Appliance or Tactical):
+a Config was clicked, the operator manually queued for new rules or updates;
+1- Start was clicked or an infection is in progress.
+
+IMPORTANT: applied rules and updates can only be received from RC5
+' when Network Injector is synchronized.
+
+Viewing Network Injector logs
+The procedure is described below:
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013(3) HTS.r.l. - pag. 54
+

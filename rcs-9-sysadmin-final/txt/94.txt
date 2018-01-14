@@ -1,0 +1,55 @@
+RCS 9 - Log ﬁle example
+
+Component Analysis reoson
+
+ 
+
+Network Injector Check completed operations.
+
+Anonymizer Check incoming data flow from agents.
+
+Log file example
+
+The log file name has the following syntax: component W—mm— dd.log (i.e.: rcs—dbdb
+2012—02—04 . log)
+
+RC5 log files
+
+Log files generate by components in full installation are provided below:
+
+ 
+
+Component Folder
+
+Master Node CZ\RC5\DB\IOE
+Collector C:\RCS\Co|I ector\|og
+OCR module C1\RC5\DB\IOB
+
+Translate module C:\RCS\DB\Iog
+Network Controller C:\RCS\Collector\log
+Network Injector lvar/log/syslog
+Anonymizer {var/log
+
+‘ WARNING: the lack of log files indicates incomplete installation.
+
+Quick log display
+BareTail, an application that lets you immediately view the content of several log files, is included
+in the RC5 installation.
+
+To run BareTail, enter:
+> rcs—db—log
+
+Log file content
+Each record is identiﬁed by one of the following levels of severity:
+
+Severity level Description
+
+ 
+
+Fatal RC5 is not running and requires service (i.e.: no settings, no
+certificates).
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013(3) HTS.r.|. - pag. 73
+

@@ -1,0 +1,54 @@
+RC5 9 - Network connections
+
+Network connections
+
+. Tip: prepare Network Injector Appliance first connecting it to its network and setting
+parameters to then be transferred to the Internet provider.
+
+The network connection procedure is described below:
+
+Steps Layout
+
+1. Connect the target‘s traffic switch to the
+snifﬁng p0rts[1].
+
+IMPORTANT: for redundant devices,
+' connect both devices.
+
+ 
+
+2. Connect management [port 1] and injection
+[port 2] ports [3] to the Internet.
+
+3. Connect the monitor and keyboard [2].
+
+Operating system installation and settings
+
+Network Injector Appliance is supplied installed and ready for use, complete with all the foreseen
+applications. It can also be installed using a restore disk.
+
+The procedure is described below:
+
+Steps Result
+
+1. Connect the computer to the network using
+
+an Ethernet cable and insert the installation -
+CD.
+
+2. Select Network Appliance for server version
+installation: operating system installation is
+launched and the computer shuts down
+when ﬁnished.
+
+IMPORTANT: the computer must
+remain connected to the internet
+
+during the entire installation process.
+
+3. Reboot the notebook. -
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 20136) HTS.r.l. - pag. 44
+

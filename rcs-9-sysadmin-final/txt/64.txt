@@ -1,0 +1,34 @@
+RC5 9 - Standard connection layout
+
+ 
+
+‘ Tip: after setup, Tactical Network Injector is independent. Internet connection is required
+. to obtain updated rules from RC5 and send logs (synchronization).
+
+Standard connection layout
+Typical WiFi layout where Tactical Network Injector is connected to the same WiFi network as
+
+target devices.
+lﬂmﬂ controller
+
+ 
+
+Tactical
+Met-smut
+III-I]! {tar
+
+ 
+
+ 
+
+Figure 1.‘ '.l'ar:tr'oa.lI Network injector: standard connection layout
+
+Access point emulation connection diagram
+
+Typical layout in WiFi where Tactical Network Injector emulates the open WiFi network access
+point to attract target devices.
+
+ 
+
+System Administrator's Guide I yer.1.4 SE P—2013 I RC8 9 I 2013. HTS.r.l. - pag. 48
+

@@ -1,0 +1,85 @@
+RCS 9 - Master Node installation
+
+ 
+
+Steps
+
+Result
+
+ 
+
+6. Select Master Node.
+Y. Click Next.
+
+8. Enter the server name or IP addresswhere
+the software is being installed and thatwill
+be indicated at RC5 Console login [i.e.:
+RCSMasterNode].
+
+IMPORTANT: the name andfor IP
+' _ address must be univocal.
+
+9. Click Next.
+
+ 
+
+Mediation Tyne _
+Whadcdim m
+
+ 
+
+Racial-III:
+IIIIas'ErIIDde
+I'I'IcﬁppimlinnSu'wmd ﬂlepr'lnal'ynnd: ﬁlrlheDalzbase.
+|=lsnam
+
+Islrlulad si'lﬂesha'dnflhe DaHJase. Itnaadeatlastane MacIHrmde lube
+met-lad In.
+
+Fmrllencl:
+ijmhtﬂnl
+Sﬂuimmwﬂich'hdnhmﬁmhthlthshbcmm
+nIn’rutnill’l apﬂcﬂ‘adrl'caa.
+Ijﬂelwnlt Cum-e:
+Sauiu: “3:111:31: El “It: (mmuiuiliunsrilll knlyﬂimsard InjnJiJIPrmiics.
+]HackingTeam[ 1C3 (2013210401)
+
+.M1m[w
+
+ 
+
+Cnrligl'ilim settings: Certiﬁcae _
+Pleaseatermﬁmlation selling. W
+
+ 
+
+ 
+
+Certiﬁed: Chmnm l'laIe ﬂ'lnslnane orlP add'em]:
+
+ 
+
+Cl'l: MiiEenra
+
+ 
+
+ 
+
+]HackingTeam[ 1C5 (20L2E104UL)
+
+ 
+
+<BachIHext>IIcmcd
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013© HTS.r.l. - pag. 24
+

@@ -1,0 +1,55 @@
+RCS 9 - OCR module installation
+
+ 
+
+Step Action
+
+ 
+
+1 From RC5 Console, in the Accounting section, click New user.
+
+2 Enter the required data, selecting the Administrator role and click Save: the
+
+new user appears in the main work area with icon 0 . from now on the user
+with the indicated credential can log into RCS Console and run the foreseen
+functions.
+
+OCR module installation
+
+Introduction
+
+The OCR module is an optional module that indexes all content (i.e.: in addition to traditional
+documents, also images, audio, video) for full-text search.
+
+0 NOTE: it supports only ASCII characters and left to right reading.
+
+Installation requirements
+For all-in-one architecture, install the module on Master Node.
+
+For distributed architecture, install the first OCR module on Shard to avoid increasing the Master
+Node work load.
+
+OCR module operations
+OCR module operations are described below:
+
+Phase Description
+
+ 
+
+1 Screenshot evidence images, awaiting conversion, are saved in a separate queue from
+evidence awaiting analysis.
+
+2 The OCR module read the image queue and converts it into text. This operation can last
+from one to 5-10 seconds according to the number of words to be acquired.
+
+3 Each image text is saved in the database and tagged as full-text.
+
+4 Storage times and tags for the single image are saved in the module log.
+
+5 The text is made available to the Analyst in the page with the list of evidence for a
+search in the Info field and in the detailed evidence page.
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RC8 9 I 2013. HTS.r.l. - pag. 33
+

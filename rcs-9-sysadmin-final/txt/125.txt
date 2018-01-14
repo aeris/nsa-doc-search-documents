@@ -1,0 +1,36 @@
+RC5 9 - System monitoring [Monitor]
+
+System monitoring (Monitor)
+
+To in (miter the system: I - Monitor section
+
+Purpose
+
+This function lets you:
+0 monitor system status in both hardware and software terms
+0 delete elements to be monitored since uninstalled
+0 monitor license used compared to those purchased
+
+:3 Service caii: Contact your HackingTearn Account Manager if additionai iicenses are
+. required.
+
+What the function looks like
+This is what the page looks like:
+
+QED-
+
+an 19b 1.1
+
+ 
+
+   
+
+Area Description
+1 RC5 menu.
+
+Moni'tmr' : indicates the current number of system alarms triggered.
+
+ 
+
+System Administrator's Guide I yer.1.4 SEP—2013 I RC8 9 I 2013. HTS.r.l. - pag. 109
+

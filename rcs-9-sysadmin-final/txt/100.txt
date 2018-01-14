@@ -1,0 +1,32 @@
+RC5 9 - Replacing the CollectorlNetwork Controller
+
+Step Action
+
+ 
+
+1 Repeat the entire installation procedure.
+See "RC5 server installation in distributed architecture " on page 22
+
+2 Restore the last full backup.
+See "Backup management" on page 100
+
+Replacing the Collector/Network Controller
+Repeat the entire installation procedure.
+See "RCS server instaiiation in distributed architecture " on page 22
+
+Replacing an Anonymizer
+Repeat the entire installation procedure.
+See "Anonymizer instaiiation and settings" on page 38
+
+Replacing a Network Injector Appliance
+Repeat the entire installation procedure.
+See "Network injector Appiiance instaiiation" on page 42
+
+Replacing a Tactical Injector Appliance
+Repeat the entire installation procedure.
+See "Tacticai Controi Center instaiiation" on page 49
+
+ 
+
+System Administrator's Guide I ver.1.4 SE P—2013 I RCS 9 I 2013(3) HTS.r.l. - pag. 34
+
