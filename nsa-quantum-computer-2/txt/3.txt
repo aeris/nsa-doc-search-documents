@@ -1,0 +1,51 @@
+TOP SECRET/lSI/IREL TO USA, AUS, CAN, GBR, NZL
+
+CLASSIFICATION GUIDE TITLE/NUMBER: (U) NSA/CSS Quantum Computing
+Research, 10-25
+
+PUBLICATION DATE: (U) 21 September 2011
+
+OFFICE OF ORIGIN: (U) The Laboratory for Physical Sciences/R3
+
+Poe: (move)—
+ORIGINAL CLASSIFICATION AUTHORITY: (U)—-
+
+, Community Integration, Policy and Records
+
+(U//FOUO) This document establishes information security guidelines on NSA/CSS-sponsored
+research in the ﬁeld of quantum computing (QC). The objectives deﬁning the scope of this
+research activity are:
+
+l) (S/fREL) To assess if it is to NSA’s beneﬁt to continue research into whether
+practical-scale QC can be developed within a reasonable timeframe, to identify its most
+promising physical embodiment(s), and to formulate a credible scenario for its large-scale
+development;
+
+2) (U//FOUO) To gain an understanding of the computational cryptanalytic capabilities
+of quantum computers; and
+
+3) (U//FOUO) To identify practical cryptographic methods that are not susceptible to
+quantum computational attack.
+
+(S//REL) These guidelines do not cover the possibility of large-scale cryptologic QC
+development programs at NSA, but only the research and planning preliminary to, and in
+possible support of, such programs.
+
+(S//SI//REL) Much of the research in quantum computing is still very basic and is most
+effectively pursued in NSA-funded open research programs. These programs play a critical role
+as the major source of new ideas and for training future researchers in the ﬁeld. However, NSA
+is pursuing more than just basic, unclassiﬁed research. NSA is also attempting to preserve the
+SIGINT potential of quantum computing (i.e., the cryptanalytic applications of QC) while
+simultaneously attempting to protect the information security of both the Government and
+private sectors against hostile QC attacks (i.e., the cryptographic, mission assurance applications
+of QC of interest to the Information Assurance community). These goals must be pursued at the
+classiﬁed level.
+
+(U//FOUO) There are several fundamental reasons for classifying QC research:
+1) (TS//SI//REL) To protect NSA’s efforts to develop cryptanalytic QC to attack high-
+
+grade public key encryption systems by denying adversaries information concerning
+NSA’s assessment of, and/or plans for, large-scale QC development;
+
+TOP SECRET/lSI/IREL TO USA, AUS, CAN, GBR, NZL
+
