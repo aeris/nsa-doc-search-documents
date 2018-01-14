@@ -1,0 +1,61 @@
+LONG HAUL - Wikilnfo
+
+The accredited security level of this system is: TOP SECRET/lSI-GAMMA/TALENT KEYHOLE/[ORCON/PROPIN
+IRELIDOIREL To USA, FVEY *
+TOP SECRETHSIHREL TO USA, FVEY
+
+(U) LONGHAUL
+
+From WikiInfo
+
+(TS/ISI/REL) The LONGHAUL system provides the Extended NSA Enterprise with an
+end-to-end attack orchestration and key recovery service for Data Network Cipher (DNC) and
+Data Network Session Cipher (DNSC) trafﬁc. LONGHAUL is extensible to allow for the addition of
+other Digital Network Intelligence cipher types.
+
+Contents
+
+I 1 (Ul/FOUO) LONGHAUL Overview
+I 1.1 (U) General
+I 1.1.1 (U) DataFlow and CONOP
+I 1.2 (U/IFOUO) Attack Orchestration
+I 1.2.1 (Ul/FOUO) POISONNUT
+I 1.2.2 (Ul/FOUO) SCARLETFEVER
+1.3 (U) Management and Analysis
+1.4 (U) Security and Policy
+1.5 (U) Common
+1.6 (U) Interfaces (ICD)
+I 2 (U) Design
+I 2.1 (U) Architecture
+I 2.2 (U) High Availability
+I 2.3 (U) AMF/ITX JMS Messaging
+I 3 (U) Deployment
+I 3.1 (U) Hardware
+I 3.2 (U) Software Releases
+I 4 (U) Development
+I 4.1 (U) Software/Schedules
+I 4.2 (U) Development Principles, Processes, and Standards
+I 4.2.1 (Ul/FOUO) LONGHAUL Processes
+I 4.2.1.1 (U) Requirements
+I 4.2.1.2 (U) Coding Standards/Reviews
+I 4.2.1.3 (U) Lessons Learned
+I 4.2.1.4 (U) Conﬁguration Management (and Metrics)
+I 4.2.1.5 (U) Testing
+I 4.2.1.6 (U) Working with NSA Way
+I 4.3 (U) Development and Management Tools
+I 5 (U) Technology
+I 5.1 (U) In-Memory Distributed Data Analysis of Alternatives (AOA)
+I 5.2 (U) BigData and Metrics Techniques
+I 6 (U) TE6 Security, Compliance and Policy Enforcement
+I '7 (U) TS Certiﬁcation & Accreditation
+I 8 (U) Operations
+I 8.1 (U) Tier 1 Support
+I 8.2 (U) Tier 2 Support
+I 8.3 (U) Tier 3 Support
+I 8.4 (U) Site Deployments
+I 9 (U) Transition
+I 10 (U/IFOUO) Team Members
+I 11 (U) See also
+
+10f15
+

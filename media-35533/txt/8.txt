@@ -1,0 +1,63 @@
+LONG HAUL - Wikilnfo
+
+(U) Working with NSA Way
+
+S/lSI/REL The LONGHAUL Project is an enthusiastic participant in the NSA Way
+. Because the LONGHAUL team is responsible for all phases of
+
+development, starting with requirements, through design, technology selection, development,
+integration, system test, and deployment, it uses a modiﬁed NSA Way Gate structure.
+
+(U) Development and Management Tools
+
+LONGHAUL relies on a variety of tools to support development and management tasks. The tools
+listed below have been assessed and found to be valuable
+
+- (UIIFOUO) Preject Management —-
+including a bug and feature tracker —
+
+) (restricted)
+
+I (U/IFOUO) Subversion Repository - available for browsing _
+_
+
+(restricted)
+
+I (U/IFOUO) Maven Repository - an instance of Sonatype Nexus
+
+I (_U//FOUO) Continuous Builds- an instance of Hudson (—
+
+I (_U//FOUO) CORALREEF- a test instance is running speciﬁcall for us on scubadiver2
+F or coralreef—ua _
+
+(U) Technology
+
+I (U) Integrating Java with C/C++
+I (U) JMS Performance Testing
+I (U) OMQ Messaging
+
+I (U) HBase Performance Testing
+I (U) Scala Research
+
+(U) In-Memory Distributed Data Analysis of Alternatives
+(AOA)
+
+I (U) The project is looking into several technologies for in—memory data caches with
+replication.
+
+I (U) For more information, view the Distributed Data AOA
+(U) BigData and Metrics Techniques
+
+I (TS) LONGHAUL MapReduce ~
+I (TS) Hadoop Metrics Implementation
+
+(U) TE6 Security, Compliance and Policy
+Enforcement
+
+I (Cl/REL) LONGHAUL's position in the processing chain necessitates that it be prepared to
+deal with a whole host of security, policy and compliance enforcement issues, such as
+ensuring that the system is only accessed by authorized individuals, ensuring that the
+processing meets all legal requirements, resolving classiﬁcations from multiple sources,
+
+80f15
+

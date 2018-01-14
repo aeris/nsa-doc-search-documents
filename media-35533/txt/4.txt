@@ -1,0 +1,59 @@
+LONG HAUL - Wikilnfo
+
+(Operations and Mission) and Mission Analysis which can be found here: Web Applications List
+
+(—)
+(U) Security and Policy
+
+(U/IFOUO) SPAM is our Security, Policy, and Adjudication Module which will be used to apply
+rules for sanitizing, ﬁltering, and determining if a response should be sent to a particular client.
+
+(U) Common
+
+(Sl/SI/IREL) All child projects share LONGHAUL COMMON components or services. This is not
+shown as a separate block on the diagram as all the components use COMMON.
+
+(U) Interfaces (ICD)
+
+(U) All Interfaces are described on the ICD wiki page. These include both the external interfaces
+(how a CA Server communicates with LONGHAUL) as well as the interfaces LONGHAUL uses
+with other CES systems.
+
+(U) Design
+(U) Architecture
+
+(U/IFOUO) Software and Hardware architecture discussions are available on the LONGHAUL
+Architecture page.
+
+(U) High Availability
+
+(Sl/SI/IREL) LONGHAUL is a high availability system that makes use of Continuity of Operations
+(COOP) to meet availability requirements. The system is designed from both hardware and
+software perspectives to provide high availability, ensuring that key recovery services are always
+available. The two site deployment with equal processing capacity will meet the COOP
+requirement for the system. Each system is designed with redundant hardware and processes so
+that the system can survive any single component (hardware or software) failure. During normal
+operation, both systems will be operational and share the processing load. In the event of a single
+site failure, the second site will, within seconds, assume total processing responsibility, but at
+reduced capacity. The requestor of CA Services (the ﬁeld deployed CA Server) never knows (or
+needs to know) which hardware is used to process its requests. CA Servers send data to
+LONGHAUL and receive responses from LONGHAUL using the AMF. LONGHAUL and the AMP
+manage the physical routing and failover behavior of the system.
+
+(Ul/FOUO) For more detailed information, see Availability Analysis.
+(U) AMF/ITx JMS Messaging
+
+(Ul/FOUO) The use of a high capacity, low latency JMS messaging fabric is critical to the success
+of the LONGHAUL mission. LONGHAUL has worked closely with the Application Messaging
+Framework (AMF) team to design a fabric to support the LONGHAUL requirements.
+
+(U) See AMF I LONGHAUL Teaming for more detailed information.
+
+(U/IFOUO) The collection site clients (CA Servers) will publish messages into the fabric with no
+knowledge of where the processing actually occurs. The fabric should support both active/active
+and active/passive processing modes. In active/active mode multiple sites would consume the
+same message, and manage the client response strategy. In active/passive, one site would
+consume a message, but in a failure mode, an alternate site would seamlessly pick up message
+
+40f15
+

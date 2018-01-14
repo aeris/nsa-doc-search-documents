@@ -1,0 +1,68 @@
+LONG HAUL - Wikilnfo
+
+ensuring that the recovered cryptovariables are only distributed to those entities that are
+authorized to receive them, ensuring that clients don't exceed some policy-deﬁned limit on
+amount of work requested, and a whole host of other issues. This page seeks to capture the
+important security, compliance, and policy related scenarios LONGHAUL will address and
+document the design of their solutions.
+
+I (Ul/FOUO) For details, see LONGHAUL Security, Compliance and Policy
+
+(U) TS Certiﬁcation & Accreditation
+
+I (U/IFOUO) This link contains information pertaining to LONGHAUL SSPs (System Security
+Plans)— LONGHAUL Certiﬁcation & Accreditation
+I LONGHAUL IAVA Patch Rollout Scheme
+
+(U) Operations
+
+(Ul/FOUO) LONGHAUL has been processing DNC data since Oct. 2009, and was declared IOC for
+DNC in Dec. 2010. Also, in Dec. 2010 an ICC (Initial Customer Capability) for DNSC was
+deployed. 24/ 7 System monitoring has been in place since Dec. 2010.
+
+I (U/IFOUO) Operations Manager —
+—
+
+- responsible for the operations of LONGHAUL.
+
+I (Ul/FOUO) IMPORTANT: Use the gDocUpdate Website —
+_ for the proper UNCLASSIFIED terms when talking over the
+black line.
+
+I (U) LONGHAUL/Contact - For general contact information.
+
+- an rot Prooess _ .lists the steps that
+need to be taken to ensure continued security when a person leaves the project.
+
+(U) Tier 1 Support
+
+(U) GECC - provides Tier 1 First Response/Help Desk support. The GECC attempt to resolve
+unexpected operational issues using well-deﬁned procedures. If resolved by the GECC, then the
+details of the resolution are recorded and no further action is required. If the incident cannot be
+resolved using the remote capabilities at the Operations Center's disposal or within the
+pre—determined time threshold, the incident is escalated to Tier 2 for resolution.
+
+I (U/IFOUO) LONGHAUL Special Instructions - For COALCAR Incidents this SOP directs the
+GECC to use WebSA to restart failing processes on COALCAR.
+
+I (U/IFOUO) STOCKCAR Special Instructions - For STOCKCAR Incidents this SOP directs the
+GECC to use WebSA to restart failing processes on STOCKCAR.
+
+- (UIIFOUO) LONGHAUL System Support _ For
+LONGHAUL Incidents that require SA support for rebooting machines, etc. this URL directs
+the GECC to use the T3332 Infrastructure Operations page.
+
+(U) Tier 2 Support
+
+(Ul/FOUO) Tier 2 Support is provided by Maintenance/Operations Support (LONGHAUL team).
+Maintenance/Operations Support provides the day-to—day administration and support of
+production systems in accordance with documented, deployed conﬁgurations. Doing so usually
+requires speciﬁc knowledge about the associated servers, applications and how they interact.
+With respect to applications, this is referred to as "applications administration", as opposed to
+"systems administrationll which is performed at the server hardware and operation systems (OS)
+level. Tier 2 also serves as the escalation point for problems not resolved at the Tier 1 level.
+Problems related to the internal workings of the software or are integration-related issues are
+escalated to the appropriate Tier 3 organization for resolution. Use the "Tier 2 Support" link
+
+90f15
+

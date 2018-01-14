@@ -1,0 +1,69 @@
+LONG HAUL - Wikilnfo
+
+consumption.
+(U) Deployment
+(U) Hardware
+
+(U/IFOUO) LONGHAUL is composed of almost identical hardware at two geographically
+distributed sites - the Tordella Supercomputer Building (TSCB) at Fort Meade and Oak Ridge
+Data Center (ORDC) in Oak Ridge, Tennessee. The initial hardware conﬁgurations for TSCB and
+ORDC arrived in November 2009 and May 2010 respectively. The ﬁnal conﬁgurations arrived in
+Jan 2011 at both sites. A system, termed "Hadoop ClusterII has also been purchased to produce
+analytics and store metrics for LONGHAUL. The Hadoop Cluster will reside at ORDC and is
+scheduled to be delivered in April 201 1. CAVIUM is being considered for CA Server.
+
+(U) For more detailed information, see Hardware Description and Schedule.
+
+(U) Software Releases
+
+(Ul/FOUO) LONGHAUL 3.4.0 was released on February 2'7, 2013. The release consists of:
+
+I (Ul/FOUO) LONGHAULiCommon73.4.1 - Full Release. Built on 12 February 2013.
+I (U/IFOUO) Added Capabilities
+I (TS/ISIIIREL) HEROICSAN D improvements and initial metrics
+I (U/IFOUO) Bug ﬁxes and minor enhancements
+
+(U/IFOUO) Included tracker artifacts v3.4.1 (r
+(U/IFOUO) Included tracker—aftifacts v3.4.0 (r
+
+I (Ul/FOUO) POISONNUT 3.4.1 - Full Release. Built on 12 February 2013.
+I (U/IFOUO) Added Capabilities
+
+I (U/IFOUO) Bug ﬁxes and minor enhancements
+
+I (U/IFOUO) Included tracker artifacts v3.4.1
+
+ 
+ 
+
+  
+ 
+ 
+ 
+
+I (U/IFOUO) Included tracker artifacts v3.4.0
+
+I (Ul/FOUO) SCARLETFEVER73.4.1 - Full Release. Built on 12 February 2013.
+I (U/IFOUO) Added Capabilities
+I (TS/lSI/IREL) Fix PLATINUMRING timeouts for GALLANTWAVE
+I (TS/lSI/IREL) Increased capacity
+I (U/IFOUO) Bug ﬁxes and minor enhancements
+
+I (U/IFOUO) Included tracker artifacts v3.4.1 —
+
+   
+
+I (U/IFOUO) Included tracker artifacts v3.4.0 —
+
+I (U/IFOUO) WOLVERINESTAKE_3.4.1 - Full Release. Built on 12 February 2013.
+I (U/IFOUO) Added Capabilities
+I (U/IFOUO) Bug ﬁxes and minor enhancements
+I (U/IFOUO) Included tracker artifacts v3.4.1
+
+ 
+ 
+
+I (U/IFOUO) Included tracker artifacts v3.4.0 (—
+
+50f15
+

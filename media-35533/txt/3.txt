@@ -1,0 +1,65 @@
+LONG HAUL - Wikilnfo
+
+keys, information about what crypt processing is appropriate, data needed for cryptanalytic
+attacks, as well as information retained to enable future cryptanalytic attacks. LONGHAUL does
+not store cipher data or ever have access to decrypted data. If the "technical data" passed to
+Attack Service components or CES databases contains information from the collected stream (as
+opposed to information about the collected stream such as SICAD, DTOI), then appropriate
+Critical Identifying Information (CII) will be passed also. From a compliance perspective this is
+the system being "certiﬁed".
+
+(TS/ISI/IREL) Field deployed collection systems and CA Servers (also known as Extended
+LONGHAUL) are shown on the left. A CA Server is the ﬁeld CES component that runs CA
+Services. The terms CA Server or CA Services are used depending on the context
+(hardware/software). For information on CA Server deployments see the CES/DNCA wiki pages
+CA Servers (— , and for information on CA Server
+architecture see LONGHAUL/CA Server. The CA Server stores cipher data, and decrypts it based
+upon a key returned by LONGHAUL.
+
+(S/lSI/IREL) LONGHAUL is a High Availability system using hardware at two geographically
+distributed locations to also provide a COOP capability. LONGHAUL uses the Application
+Messaging Framework AMF with the ISLANDTRANSPORT (ITX) transport and
+ISLANDHIDEAWAY (IH) integrity and privacy capabilities to send data between collection
+systems and LONGHAUL. The requestor of CA Services (the ﬁeld deployed CA Server) never
+knows (or needs to know) which hardware is used to process its requests. LONGHAUL and the
+AMF manage the physical routing and failover behavior of the system.
+
+(TS/ISI/IREL) LONGHAUL has a Service-Oriented, Java-Based Enterprise Architecture. It includes
+multiple coordinated software development efforts. Each Attack Orchestrator is a major
+development effort, as are the Management and Analysis and Security and Policy
+components. LONGHAUL also has a hardware acquisition component, and manages the
+interfaces and integration activities with TURMOIL/TURBULENCE (collection), and the High
+Performance Computing (HPC) activities of CES/T5. The LONGHAUL team is responsible for all
+phases of development, starting with requirements, thorough design, technology selection,
+development, integration, system test, and deployment. The team is also responsible for the
+system engineering and hardware design and acquisition to support a two-site, high-availability
+system.
+
+(Cl/SI/IREL) In July 2010, T1, T5 and CES signed an SLA _,'~ for "the provisioning and support of
+Cryptanalytic (CA) Services within the TURBULENCE Passive Collection Suite (TU PCS)."
+
+(Ul/FOUO) Attack Orchestration
+
+(U/ I FOUO) POISONNUT
+
+(TS/ISI/IREL) POISONNUT (—) is a Child LONGHAUL
+Project that enables Data Network Cipher (DNC) Recovery. Initial Customer Capability was
+released on September 30, 2009. LONCHAUL/POISONNUT (DNC) was determined by CES and
+T5 SPO to be IOC on 10 Jan. 2011.
+
+(Ul/FOUO) SCARLETFEVER
+(TS/ISI/IREL) SCARLETFEVER (_ is a Child
+
+LONGHAUL Project that enables Data Network Session Cipher (DNSC) Recovery. Initial
+Customer Capability was achieved in December 2010.
+
+(U) Management and Analysis
+
+(U) For this very high level view our diagram shows Management and Analysis as one block.
+This block contains many components and further details can be found on the Software
+Architecture page.
+
+(U) Additionally, LONGHAUL has begun to create a set of web applications for Management
+
+30f15
+

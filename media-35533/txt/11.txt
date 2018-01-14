@@ -1,0 +1,43 @@
+LONG HAUL - Wikilnfo
+
+I (U) Release Procedures - managing maintenance releases
+I (U) Outage Procedures - Managing and Scheduling Outages using
+
+(U) Site Deployments
+
+(U) see Deployments F - contains
+information about upcoming site ep oyments 0 CA Servers.
+
+(U) Transition
+
+(TS/lSl/IREL) Transitioning Life Cycle Support of LONGHAUL is contingent upon successful
+completion of FOC in September 201 1. The system will transition to the following organizations:
+
+I HPC Integration and Production (T53 —
+—
+I Exploitation Solutions Ofﬁce (ESO )
+I Ofﬁce of Target Pursuit (OTP )
+(Ul/FOUO) Planning for this transition began in April 201 0 and is ongoing.
+
+(Ul/FOUO) For more detailed information, see Transition.
+
+(Ul/FOUO) Team Members
+
+Government Team Members/LONGHAUL
+
+Name SID Function Afﬁliation Work Black JSlgnout
+
+E Phone IE
+Project
+Opera“ T5323 _—
+Manager
+M15510” T5323 ——
+Assurance
+TestLead T5323 _-
+C2DP
+melee—1...... ——
+
+ 
+
+11 of 15
+

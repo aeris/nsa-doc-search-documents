@@ -1,0 +1,173 @@
+LONG HAUL - Wikilnfo
+
+(Ul/FOUO) LONGHAUL Overview
+(U) General
+
+(U) DataFlow and CONOP
+
+(TS/ISIIIREL) The LONGHAUL system is composed of several components as shown in this
+End-to-End View. LONGHAUL receives cryptanalytic information (CA Data) from the ﬁeld systems
+and passes information back to ﬁeld systems using its Front End. The Front End validates the
+sender/receiver using CASPORT services. LONGHAUL contains Attack Orchestration
+components (one orchestrator for each distinct type of attack), and Attack Service components.
+Attack orchestration ﬁgures out what cryptanalytic processing should be applied for each piece of
+CA Data, and then initiates, and as needed manages, that processing. Attack service performs the
+cryptanalytic attack. Once the processing is complete, the result is returned to the attack
+orchestration component, information about the processing is "saved" for Management and
+Analysis, and then as appropriate the result is returned to the "requesting" CA Server.
+LONGHAUL accesses CES Databases for certain information needed for attack orchestration and
+attack services. LONGHAUL also provides an interface for CES Analysts that need access to
+information pertaining to the LONGHAUL processed data. LONGHAUL maintains its own internal
+databases for the management and control of its processing activities.
+
+‘mr w a) r nu nu \\ il_£_1'i'h‘_<‘h‘u an )njnlml LONGHAUL Architecture I'ub 28.2012
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MAI.
+ORDER
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+
+ 
+
+,v CA Rmurcui
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Thus anagram has been Simpliﬁed fut readability Bulh
+Silas are doomed and all connecluons men are shown
+going In one sile really go In bulh. .mumm RH nu d u \| \\ mm v1 rm...»
+
+LONGHAUL End-to-End Overview
+
+(TS/ISIIIREL) LONGHAUL (in Purge_Surge parlance) is a Collection Store, that is a "system that
+processes and/or retains collected SIGINT data items, and that permits access to those
+performing collection functions and limits access of those performing intelligence analysis".
+LONGHAUL maintains internal databases that contain Cryptanalytic "technical data", and
+LONGHAUL also exchanges Cryptanalytic "technical datall with other CES databases and with
+CES HPC resources that perform cryptanalytic attacks. This "technical datall includes recovered
+
+20f15
+

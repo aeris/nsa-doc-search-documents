@@ -1,0 +1,78 @@
+LONG HAUL - Wikilnfo
+
+above for more information.
+
+(Ul/FOUO) Troubleshooting Resources
+
+I (U) LONGHAUL_Take_Home_Support_SOP . - Contains troubleshooting instructions
+LONGHAUL Tier 2 support staff can take home.
+
+I U Troubleshootin Hel for Tier 2 Personnel —
+- Page contains links to support pages for the various
+
+LONGHAUL components and possible solutions to previously seen issues.
+- (iii Ueetoi Support Links _ - A directory
+of useful support links. Contains troubleshooting instructions LONGHAUL Tier 2 support
+staff can take home.
+I (U) Switching Operations
+Page contains the procedures to take when switching operations to alternate site
+
+I U LONGHAUL After Hours Beachhead
+) - Location of after hours support
+I (U) Creating a CES Help Ticket - Process
+
+for creating a CES help ticket for LONGHAUL issues.
+
+- (tit Reporting rrooeooree _t - Process
+
+for reporting on Tier 2 issues.
+
+  
+ 
+ 
+
+(Ul/FOUO) Outage Process
+
+I (U) For unexpected/emergency outages.-
+
+I Send messa e to LH customers see outa e email list
+). Be sure to include how the
+sys em was a ec e an an es lma e o ow ongi w1 take to restore the system.
+
+I If system remains unavailable 1 hour after troubleshooting began, switch operations to
+
+the alternate site (see switching operations
+).
+
+I If system continues to be unavailable after 90 minutes, inform T532 management. Be
+sure to include how the system was affected and an estimate of how long it will take to
+restore the system.
+
+I If system continues to be unavailable after 2 hours, inform T53 management. Be sure to
+include how the system was affected and an estimate of how long it will take to restore
+the system.
+
+I (U) For scheduled outaies, iollow the normal outaie procedure —
+
+(Ul/FOUO) Contacting the GECC
+
+- (UIIFOUO) — The GECC director
+
+I (Ul/FOUO) _- The Turbulence desk where LONGHAUL support personnel are
+located.
+
+I (Ul/FOUO) T3332 Infrastructure Operations —
+
+(for reboots of system after-hours)
+
+(U) Tier 3 Support
+
+(U/IFOUO) Tier 3 support is provided by Development Support (LONGHAUL team).
+Development Support resolves issues escalated from Tier 2 related to the internal workings of the
+software (i.e., requires "cracking open the code") or COTS/G OTS integration. These are break/ﬁx
+activities, which are outside of typical development, and implementation activities (such as
+resource planning, project management, architecture, s/w development, initial implementation
+[integration/testing, etc.). Tier 3 support consists of:
+
+10 of 15
+

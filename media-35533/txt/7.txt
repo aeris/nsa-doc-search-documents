@@ -1,0 +1,60 @@
+LONG HAUL - Wikilnfo
+
+(Ul/FOUO) Release 3.2.x - Sept. 30, 2012 - TBD
+
+Planned caiabiliti details can be found here —
+
+(TS/lSI/IREL) Each LONGHAUL child project had its own schedule. Projects used to be planned
+quarterly "Phases" with monthly "Milestones".
+
+(U) Development Principles, Processes, and Standards
+
+(Ul/FOUO) LONGHAUL strives to use best practices in all its development
+activities, and is continually looking for ways to improve. We continue to
+reﬁne our processes and want to share with and learn from other projects
+as well as the NSA Way. Please explore our wiki and "take" what you need.
+Conversely, if you have something that works for you, please contact us.
+POISONNUT was the ﬁrst LONGHAUL child project, and the processes
+were initially developed then, but now all the child projects are using them.
+LONGHAUL Principles is a description of our development principles, and
+
+ 
+
+Aug 2010 Overview A is a summary brief of the project, process and tools (Ul/FOUO)
+we are using. LONGHAUL
+Principles
+
+(Ul/FOUO) LONGHAUL Processes
+(Ul/FOUO) Detailed information for each LONGHAUL process is available below.
+(U) Requirements
+
+(Ul/FOUO) Requirements Development -— - we use DOORS for maintaining all
+our requirements.
+
+(U) Coding Standards/Reviews
+
+(Ul/FOUO) Coding Standards - _ Project Coding Standards -
+
+(Ul/FOUO) Code Reviews —LONGHAUL Code Review Process and Code
+Review Checklist
+
+(U) Lessons Learned
+
+(Ul/FOUO) Lessons Learned -_- Changes made as a result of development
+experience
+
+(U) Conﬁguration Management (and Metrics)
+
+(Ul/FOUO) Conﬁguration Management -_ - Conﬁguration Management, Change
+Management and Metrics
+
+(U) Testing
+(Ul/FOUO) Test Methodologies _- Testing Description
+
+(Ul/FOUO) Unit Testing — —— Unit Test Guidelines i]
+(Ul/FOUO) integration Testing _ — Testing with ISLANDTRANSPORT
+
+(Ul/FOUO) System Testing - — - System Test plans and schedules.
+
+70f15
+
