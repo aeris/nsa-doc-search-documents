@@ -1,0 +1,18 @@
+—
+HﬁP Web Client/Server
+
+= Client initiates request, then server replies
+= TCP socket:
+
+= Client: TCP SYN
+
+=~ Server: TCP SYN/ACK
+= H'I'I'P 1.1 Persistent COnnection
+
+= Client: H'l'l'P GETl
+
+= Server: H'I'I'P Responsel
+
+=' Client: HTTP GET2
+= Server: HTTP Responsez
+

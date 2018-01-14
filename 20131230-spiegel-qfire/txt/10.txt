@@ -1,0 +1,94 @@
+/
+
+QiEdlgRE Components @
+
+\scs
+
+ 
+
+    
+  
+
+'1 Inject 2"
+
+ 
+
+ 
+
+9/
+
+ 
+
+ 
+
+ 
+
+{ﬁ— Wii ‘w———/
+r i 77* Hi h- .
+\ 7 Wu J 5316 scs s-te SCIF
+5p d *Reglonal Inject node is on
+1 Internet.
+\ MLocal Inject node is
+
+' collocated wfth‘ RefayNode‘ir
+
+*Eve
+
+1—
+x
+I
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TURHNE
+
+Injectéomma
+nd
+
+H Diodag'r‘ RelayNode* i"
+._...._*—
+
+injectComm 1
+and
+
+RPC
+A or B
+
+ 
+
+ 
+
+In__“°.i“°_ni__.___...._ _ _. - - _ _.
+SCS Site RMS Cooperative
+”i RF-Tx H .---.g;,, 4 RF- I»
+frﬁtf£iﬁ§¥dﬁukiiw W ”"M' “M’ ””i'
+i Non-cooperative .3
+g SCS Site RMS Wireless Access Point 2
+. _ {nap ‘ : .5
+a; —> lnyec é ....‘.. WAP NAT- 7’5
+i Internet ,
+i "(.2 5—») ;
+! O q 3
+} W'rsless Wired .
+‘--—-—---——-——-—-—-—-—-—_-——C¥ient‘s——-r—mc:li'entS——--——J
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

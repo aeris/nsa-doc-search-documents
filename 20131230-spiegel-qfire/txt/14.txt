@@ -1,0 +1,16 @@
+_
+QUANTUM INSERT: racing
+theeaserver
+
+= M for client to initiate new connection
+
+= Observe server—to-client TCP SYN/ACK
+
+=' Shoot! (H'I'I'P Payload)
+
+=- 42% to beat server-to-client H‘I'I'P Response
+
+2The Challenge:
+= Can only win the race on some links/targets
+a For many links/targets: too slow to win the race!
+

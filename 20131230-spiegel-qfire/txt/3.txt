@@ -1,0 +1,18 @@
+_
+Topics
+
+:‘ Layered Defense Model
+= NSA TURBULENCE Architecture
+= TURMOIL passive SIGINT sensors
+aTURBINE active SIGINT command/control
+a QUANTUMTHEORY
+
+a Integrating passive/active systems for
+CNE/CND/CNA
+
+2 QFIRE
+
+= Consolidated low-latency QUANTUMTHEORY
+capability under development for forward-based
+defense
+
