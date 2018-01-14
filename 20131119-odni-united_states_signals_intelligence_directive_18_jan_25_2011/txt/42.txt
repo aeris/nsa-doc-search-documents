@@ -1,0 +1,55 @@
+DOCID: 4086222
+
+ANNEx E — (U) SEARCH AND DEVELOPMENT OPERATIONS
+
+(U) Procedures
+for Safeguarding
+the Rights of U.S.
+Persons
+
+SECTION I — (U) PROCEDURES
+
+E | . I. (U) This Annex provides the procedures for safeguarding the rights ofU.S.
+persons when conducting SIGINT search and development activities.
+
+El.2. (Uf/‘FBHBj'The USSS may conduct search and development activities with
+respect to signals throughout the radio spectrum under the following limitations:
+
+a. (U) Signals may be collected only for the purpose ofidentifying those signals
+that:
+
+(1) (U) May contain information related to the production of foreign
+intelligence or counterintelligence;
+
+(2) U) Are enciphered or appear to contain secret meaning;
+
+(3) (U) Are necessary to assure efﬁcient signals intelligence collection or
+to avoid the collection ofunwanted signals; or
+
+(4) (-Si‘f'S-l'h‘R'Eb) Reveal vulnerabilities of United States communications
+security.
+
+b. (-Sn‘S'l'H'R-E'Ij Communications originated or intended for receipt in the United
+States or originated or intended for receipt by U‘ S. persons shall be processed in
+accordance with Section 5 of USSID SPUUIS. provided that information
+necessary for cataloging the constituent elements of the signal environment may
+be processed and retained if such information does not identify a U.S. person
+Information revealing a United States communications security vulnerability may
+be retained.
+
+c. (-S-i‘a‘S-b’i‘R-E-lj Information necessary for cataloging the constituent
+elements of the signal environment may be disseminated to the extent
+such information does not identify U.S. persons. Communications
+equipment nomenclature may be disseminated. Information that reveals a
+vulnerability to United States communications security may be
+disseminated to the appropriate communications security authorities.
+
+d. (U) All information obtained in the process of search and development
+that appears to be oftbreign intelligence value may be forwarded to the
+proper analytic ofﬁce within NSA/CSS for processing and dissemination
+in accordance with relevant portions ofthis USSID.
+
+ 
+
+ 
+

@@ -1,0 +1,49 @@
+DOCID: 4086222
+
+ 
+   
+
+.1
+
+ 
+
+accordance with Section 106(b) of the Act and crimes reporting procedures approved by the Secretary of
+Defense and the Attorney General. (U)
+
+SECTION 7 - OTHER FOREIGN COMMUNICATIONS (U)
+
+ 
+
+Foreign communications of or concerning a non-United States person may be retained. used. and
+disseminated in any form in accordance with other applicable law. regulation, and policy. (U)
+
+SECTION 8 - COLLABORATION WITH FOREIGN GOVERNMENTS {SPECS}
+
+(a) The sharing or exchange of foreign communications governed by these procedures with signals
+intelligence authorities ofcollaborating foreign governments (Second Parties) may be undertaken by the NSA
+only with the written assurance of the Second Party that the use ofthose foreign communications will be subject
+to the retention and dissemination provisions of these procedures. (8-666)
+
+(b) Domestic communications and communications to or from United States persons shall not be shared with
+
+Second Parties. (-S-GGQ}
+
+(c) Foreign plain text communications may be shared with Second Parties ifthey are ﬁrst reviewed by NSA
+analysts. who shall remove references to United States persons that are not necessary to understand or assess the
+foreign intelligence information contained therein. (-S-GGG')
+
+(d) Foreign enciphered or encoded communications may be shared with Second Palties without such prior
+review. provided that at least annually a representative sampling ofthose shared communications that can be
+deciphered or decoded is reviewed by the NSA to ensure that any references therein to United States persons are
+necessary to understand or assess the foreign intelligence information being disseminated. Corrective measures
+with respect to each target or line shall be undertaken as necessary to maintain compliance with the above
+dissemination standard. The results of each review shall be made available to the Attorney General or a
+
+designee. (8-6693
+
+Approved by Attorney General Janet Reno on | July |997
+
+ 
+
+ 
+

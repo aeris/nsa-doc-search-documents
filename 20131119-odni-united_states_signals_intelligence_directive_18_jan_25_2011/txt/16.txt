@@ -1,0 +1,62 @@
+DOCID: 4086222
+
+(U) Access
+
+6.2. (U) Access to raw trafﬁc storage systems which contain identities of US.
+PERSONS must be limited to SIGINT production personnel or other persons
+who conduct signals intelligence activities under the direction. authority. or
+control of DIRNSNCHCSS . For more information on access to SIGINT. refer
+to USSID CRIGIU. 2.3.
+
+ 
+
+(ll) Focus of
+SIGINT Reports
+
+(U) Dissemination
+of [1.8. PERSON
+Identities
+
+SECTION 7- (U) DISSEMINATION
+
+7.1. (U) All SIGINT reports will be written so as to focus solely on the activities
+of foreign entities and persons and their agents. Except as provided in Section
+12.. FOREIGN INTELLIGENCE information concerning U.S. PERSONS
+must be disseminated in a manner which does not identify the US. PERSON.
+Generic or general terms or phrases must be substituted for the identity (eg.
+"US. ﬁrm" for the speciﬁc name ofa US. CORPORATION or "US.
+PERSON" for the speciﬁc name ofa U.S. PERSON). Files containing the
+identities of U. S. persons deleted from SIGINT reports will be maintained for a
+maximum period of one year and any requests from SIGINT customers for such
+identities should be referred to the Signals Intelligence Directorate’s Office of
+Information Sharing Selvices (SIZ).
+
+ 
+
+12. (U) SIGINT reports may include the identiﬁcation ofa U.S. PERSON only
+ifone ofthe following conditions is met and a determination is made by the
+appropriate approval authority that the recipient has a need for the identity for
+the performance of his ofﬁcial duties:
+
+a. (U) The US. PERSON has CONSENTED to the dissemination of
+communications of. or about. him or her and has executed the
+CONSENT form found in Annex "H of this USSID. or
+
+b. (U) The information is PUBLICLY AVAILABLE (i.e.. the
+inforlnatiOn is derived from unclassiﬁed information available to the
+general public). or
+
+c. (U) The identity of the US. PERSON is necessary to understand the
+FOREIGN INTELLIGENCE information or assess its importance. The
+following nonexclusive list contains examples of the type ofinformation
+that meet this standard:
+
+(I) (U) FOREIGN POWER or AGENT OF A FOREIGN
+
+POWER. The information indicates that the US. PERSON is a
+FOREIGN POWER or an AGENT OF A FOREIGN POWER
+
+(2) (U) Unauthorized Disclosure of Classified Information. The
+
+ 
+

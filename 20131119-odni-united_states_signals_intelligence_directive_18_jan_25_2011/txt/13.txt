@@ -1,0 +1,53 @@
+DOCID: 4086222
+
+(U) lntercepted
+Material
+
+b. (LI/(F866) The purpose of the review shall be to determine whether
+there is reason to believe that FOREIGN INTELLIGENCE will be
+obtained. or will continue to be obtained. by the use of these
+SELECTION TERMS.
+
+c. (UH-F869) A copy of the results of the review will be provided to
+the Inspector General (IG) and the i.
+
+5.3. (U) Forwarding of [ntercepted Material. FOREIGN
+COMMUNICATIONS collected by the USSS may be forwarded as
+intercepted to NSA. intermediate processing facilities. and collaborating
+centers.
+
+5.4. (U) Non-foreign Communications.
+
+a. (U) Communications between persons in the UNITED STATES.
+Private communications solely between persons in the UNITED
+STATES inadveitently intercepted during the COLLECTION of
+FOREIGN COMMUNICATIONS will be promptly destroyed unless
+the Attorney General determines that the contents indicate a threat of
+death or serious bodily harm to any person.
+
+b. (U) Communications between US. PERSONS. Communications
+solely between US. PERSONS will be treated as follows:
+
+(I) (U) Communications solely between US. PERSONS
+inadvertently intercepted during the COLLECTION of
+FOREIGN COMMUNICATIONS will be destroyed upon
+recognition- if technically possible. except as provided in
+paragraph 5.4.d. below.
+
+(2) (U) Notwithstanding the preceding provision. cryptologic
+data (e.g.. signal and encipherment information) and technical
+communications data (e.g.. circuit usage) may be extracted and
+retained from these communications if necessary to:
+
+(a) (U) Establish or maintain intercept. or
+
+(b) (U) Minimize unwanted intercept. or
+
+(c) (U) Support cryptologic operations related to
+FOREIGN COMMUNICATIONS.
+
+c. (U) Communications Involving an Ofﬁcer or Emplo yee ofthe U. S.
+Government. Communications to or from any ofﬁcer or employee of
+
+ 
+

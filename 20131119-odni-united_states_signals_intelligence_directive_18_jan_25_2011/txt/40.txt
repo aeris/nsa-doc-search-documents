@@ -1,0 +1,50 @@
+DOCID: 4086222
+
+ 
+
+ 
+
+ 
+
+USSID SP0018
+ANNEX D - (U) TESTING OF ELECTRONIC EQUIPMENT
+
+SECTION 1 — (U) PURPOSE AND APPLICABILITY
+
+(U) Testing of D1. 1. (U) This Annex applies to the testing of electronic equipment that has the
+Electronic capability to intercept communications and other non-public information.
+Equipment Testing includes development, calibration. and evaluation of such equipment,
+
+and will be conducted. to the maximum extent practical. without interception or
+monitoring of US. persons.
+
+ 
+
+SECTION 2 — (U) PROCEDURES
+
+(U) Testing D2.l. (U) The USSS may test electronic equipment that has the capability to
+Limitations intercept communications and other information subject to the following
+limitations:
+
+a. (U) To the maximum extent practical. the following should be used:
+(1) (U) Laboratory -generated signals;
+
+(2) (U) Communications transmitted between terminals located
+outside the United States not used by any known US. person;
+
+(3) (U) Ofﬁcial government agency communications with the
+consent of an appropriate ofﬁcial ofthat agency. or an
+individual's communications with the consent ofthat individual;
+
+(4) (U) Public broadcast signals; or
+
+(5) (U) Other communications in which there is no reasonable
+expectation ot‘privacy (as approved in each instance by the
+NSNCSS General Counsel).
+
+b. (U) Where it is not practical to test electronic equipment solely
+against signals described in paragraph D2.|.a.. above. testing may be
+conducted. provided:
+
+ 
+

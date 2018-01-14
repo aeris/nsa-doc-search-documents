@@ -1,0 +1,82 @@
+DOCID:
+
+(o) USSID
+Edition
+
+(U) Legal
+Protection of
+Sensitive
+Information
+
+(U) Handling of
+USSID
+
+(U) Location of
+Ofﬁcial USSID
+
+(U) Access by
+Contractors and
+Consultants
+
+(U) Access by
+Third Party
+
+4086222
+
+ 
+
+rights of US. persons.
+
+ 
+
+(U) This USSID supersedes USSID SPOOIS. dated 2? July 1993. which must
+now be destroyed.
+
+ 
+
+(UK/{38%) This USSID contains sensitive information that is legally protected
+from public disclosure and is to be used only for ofﬁcial purposes of National
+Security Agency/Central Security Services (NSA/CSS).
+
+ 
+
+(UK/P666) Users must strictly adhere to all classification and handling
+restrictions (see NSNCSS Classiﬁcation Manual I-SE) when:
+
+0 (U) storing hard or soﬁ copies ofthis USSID. or
+I- (U) hyperlinking to this USSID.
+
+(U) Users are responsible for the update and management ofthis USSID when it
+is stored locally.
+
+(U/H‘QUQL) The SIGINT Policy System Manager will maintain and update the
+current ofﬁcial USSID on NSANet. As warranted. the USSID will be available
+on INTELINK.
+
+(U) For NSA elements to include the SIGINT Extended Enterprise:
+
+(U/ﬁFGU’G) USSS contractors or consultants assigned to NSA/CSS
+Headquarters or to other elements of the SIGINT Extended Enterprise are pre-
+authorized for access to USSIDs via NSANet. lntelinlx'. or in hard -copy formats
+as needed to perform theirjobs. However. for those sensitive USSIDs for which
+access is password -control|ed. all users. to include contractors. must undergo
+additional security and mission vetting.
+
+(U) Outside NSA elements:
+
+(U/fPQUQ) Non-USSS contractors or consultants working at external facilities
+are pre-authorized for soft-copy access to USSIDs via NSANet or in selected
+cases. via [NTELINK if connectivity to those systems is allowed by the
+contractor's NSAFCSS sponsor. Where such connectivity is not established. any
+
+hard-copy provision ofUSSIDs must be authorized b the SIGINT Polic
+System Manager (NSTS: 966-5487. STE: |-.DISN:I I
+
+ 
+
+ 
+
+(U) This USSID is not releasable to any Third Party partner. " '(b)(3)-P.L. 86-36
+
+ 
+

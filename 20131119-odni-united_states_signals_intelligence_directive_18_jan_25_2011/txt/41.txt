@@ -1,0 +1,58 @@
+DOCID:
+
+4086222
+
+     
+
+.'.I .r
+
+(1) (U) The proposed test is coordinated with the
+NSAKCSS General Counsel;
+
+(2) (U) The test is limited in scope and duration to
+that necessary to determine the capability of the
+equipment;
+
+(3) (U) No particular person istar‘geted without consent
+and it is not reasonable to obtain the consent of the
+persons incidentally subjected to the surveillance; and
+
+(4) (U) The test does not exceed 90 calendar days.
+
+c. (U) Where the test involves communications other than those
+identiﬁed in paragraph D2. la. and a test period longer than 90
+days is required. the Foreign Intelligence Surveillance Act
+requires that the test be approved by the Attorney General. Such
+proposals and plans shall be submitted by USSS elements
+through the General Counsel. NSA/CSS. to the
+DIRNSAXCHCSS for transmission to the Attorney General The
+test proposal shall state the requirement for an extended test
+involving such communications the nature of the test? the
+organization that will conduct the test. and the proposed
+disposition ofany signals or communications acquired during the
+test.
+
+D22. (U) The content of any communication other than communications
+between non-US. persons outside the United States which are acquired during a
+test and evaluation shall be:
+
+a. (U) Retained and used only for the purpose of determining the
+capability of the electronic equipment;
+
+b. (U) Disclosed only to persons conducting or evaluating the test; and
+
+c. (U) Destroyed before or immediately upon completion of the testing.
+
+D23. (U) The technical parameters ofa communication. such as frequency.
+modulation. and time of activity ofacquired electronic signals- may be retained
+and used for test reporting or collection -avoidance purposes Such parameters
+may be disseminated to other DoD intelligence components and other entities
+authorized to conduct electronic surveillance. provided such dissemination and
+use are limited to testing. evaluation. or collection -avoidance purposes.
+
+ 
+
+USSID SP0018
+
+ 
+
