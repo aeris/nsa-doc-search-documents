@@ -1,0 +1,69 @@
+TOP SECRET H COMINT
+
+I * I Communications Security Centre de la sécurité
+. Establishment Canada des telecommunications Canada
+
+WP SLIPSTREAM output (parsed)
+
+[2010/05/18 - 16:28:05 (UTC)] Transaction Id: 582966
+U_SLIPSTREAM - <ssservices>
+
+Impiantch: <51.8.1.13>
+
+Timestamp (UTC): 2010/02/09 06:42:42
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PAGE : 1 of 1
+
+------- I--- I I---- I I I --
+
+PID [Service Name I [Status [Startup Type [Service Process Type|Display Name [Binary Path
+
+------- I--- I I---- I I I ---I--
+
+924 [AeLookupSvc [RUNNING [AUTOMATIC [SHARED Application Experience Lookup Service |
+C:\W|NDOWS\system32\svchost.exe -k netsvcs
+
+0 [Alerter |STOPPED [DISABLED [SHARED [Alerter |C:\W|NDOWS\system32\svchost.exe -k
+LocalService |
+
+3184 [ALG [RUNNING [MANUAL |OWN PROCESS [Application Layer Gateway Service |
+C:\W|NDOWS\System32\alg.exe [
+
+0 [Apngmt |STOPPED [MANUAL [SHARED [Application Management |C:\W|NDOWS\system32\svchost.exe
+-k netsvcs [
+
+924 [iudioSrv [RUNNING [AUTOMATIC [SHARED [Windows Audio [C:\W|NDOWS\System32\svchost.exe
+- netsvcs
+
+0 |B|TS |STOPPED [MANUAL [SHARED [Background Intelligent Transfer Service |
+C:\W|NDOWS\system32\svchost.exe -k netsvcs |
+
+0 |Br[:)wser |STOPPED [ALIJTOMATIC [SHARED [Computer Browser [C:\WlNDOWS\system32\svchost.exe
+- netsvcs
+
+1028 [ccEvtMgr [RUNNING [AUTOMATIC [SHARED [Symantec Event Manager |"C:\Program Files\Common
+Files\Symantec Shared\ccSvcHst.exe" ih ccCommon |
+
+1028 [ccSetMgr [RUNNING [AUTOMATIC [SHARED [Symantec Settings Manager |"C:\Program Files\Common
+Files\Symantec Shared\ccSvcHst.exe" lh ccCommon |
+
+1708 [Cissesrv _ _ [RUNNING [AUTOMATIC |OWN PROCESS [HP Smart Array SASISATA Event Notification Service |"C:\Program
+FI|es\HP\CIssesrv\CIssesrv.exe" |
+
+0 |CiSvc [STOPPIIED [DISABLED [SHARED [Indexing Service |C:\W|NDOWS\system32\cisvc.exe
+
+0 [ClipSrv |STOPPED [DISABLED |OWN PROCESS [ClipBook
+
+Safeguarding Canada ’5 security through information superiority C dl‘l'l
+Preserver la sécunté du Canada par la superiorite' de I'information ana a
+

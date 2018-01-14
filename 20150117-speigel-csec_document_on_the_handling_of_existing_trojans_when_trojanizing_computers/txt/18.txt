@@ -1,0 +1,27 @@
+TOP SECRET H COMINT
+
+I A. I Communications Security Centre de la sécurité
+I " . Establishment Canada des telecommunications Canada
+
+ 
+
+ 
+
+ 
+
+ 
+
+« % —
+Specific signatures : example .
+
+# Check a known drivers present
+
+my @driversPresent = xml_isDriverPresent( $xml, 'usbdev\\.sys', 'acpimem32\\.sys',
+'usblink32i\\.exe', '\\$NtUninstaIIQ722833\\$' );
+
+foreach my $driver (@driversPresent)
+
+$alertText .= "Possible MM CARBON driver detected: " . $driver . ".\n";
+Safeguarding Canada’s security through information superiority Carl dl'l
+Préserver la sécurité du Canada par la supériorité de I 'information a a.
+

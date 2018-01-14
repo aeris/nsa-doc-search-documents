@@ -1,0 +1,31 @@
+TOP SECRET H COMINT
+
+I A. I Communications Security Centre de la sécurité ‘
+I " I Establishment Canada des telecommunications Canada ‘ ’
+
+ 
+
+ 
+
+ 
+
+RF specific signatures .
+
+- KNOWN actor filenames, processes, covert stores:
+— MAKERSMARK/FANNER
+— SEEDSPHERE/BYZANTINE
+— ALOOFNESS
+— SNOWGLOBE
+— VOYEUR
+— SUPERDRAKE
+— GOSSIPGIRL
+
+- Infrastructure
+— Known IP addresses
+— Known DNS queries
+
+- Other tools
+
+Safeguarding Canada’s security through information superiority C did
+Préserver la sécurité du Canada par la supériorité de i’information Elna a
+

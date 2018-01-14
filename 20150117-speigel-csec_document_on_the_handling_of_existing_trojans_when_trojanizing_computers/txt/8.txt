@@ -1,0 +1,31 @@
+TOP SECRET H COMINT
+
+.l a.- Communications Security Centre de la sécurité
+-* I Establishment Canada des télécomrnuni cations Canada
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+WARRIORPRIDE plug- -ins and output
+
+- Several WP plugins are useful for CCNE:
+— Slipstream : machine reconnaissance
+— lmplantDetector : implant detection
+— RootkitDetector : rootkit detection
+— Chordflier/U_ftp : file identification / retrieval
+— NameDropper: DNS
+— WormWood : network sniffing and characterization
+
+- Already used for CNE OPSEC
+
+° Used for precise identification and heuristics
+
+Safeguarding Canada ’5 security through information superiority C dla'l
+Pre'server la sécurité du Canada par la supériorite' de I'information Elna
+

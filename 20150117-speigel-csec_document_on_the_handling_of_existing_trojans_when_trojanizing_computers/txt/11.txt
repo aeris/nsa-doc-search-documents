@@ -1,0 +1,49 @@
+TOP SECRET H COMINT
+
+I * Communications Security Centre de la sécurité
+. Establishment Canada des telecommunications Canada
+
+ 
+
+ 
+
+ 
+
+WP SLIPSTREAM output... drivers
+53.13%:aria:diagram“52968 (parsed)
+
+Impiantid: <51.8.1.13>
+Timestamp (UTC): 2010i02/09 06:42:43
+
+ 
+
+ 
+
+ 
+
+PAGE : 1 of 1
+---| i i ------ i -------------------- I -------------------------------------------------- | ------------------------------------------------------------------------------------ |
+SCMlDriver Name |Status |Startup Type |Driver Type |Display Name |Binary Path
+I
+III i i ------------------------ I ---------------------------------------------------------------------------------------------------- |
+|ntoskrn|.exe |RUNN|NG | | | |C:\W|NDOWS\system32\ntoskrnl.exe |
+|ha|.d|| IRUNNING | | | |C:\W|NDOWS\system32\hal.dll |
+|KDCOM.DLL IRUNNING | | | |C:\W|NDOWS\SyStem32\KDCOM.DLL
+|
+|BOOTV|D.d|i IRUNNING | | | |C:\W|NDOWS\SyStem32\BOOTVID.d||
+I
+|ACPI.sys |RUNN|NG | | | |ACPI.sys |
+|WM|L|B.SYS IRUNNING | | | |C:\W|NDOWS\system32\DRIVERS\WM|L|B.SYS
+|
+|pci.sys |RUNN|NG | | | |pci.sys |
+|isapnp.sys |RUNN|NG | | | |isapnp.sys |
+|pciide.sys |RUNN|NG | | | |pciide.sys |
+|PC|IDEX.S\|’S IR UNNI N6 | | | |C:\W|NDOWS\system32\DRIVERS\PC| |DEX.SYS
+|MountMgr.sys |RUNN|NG | | | |MountMgr.sys |
+|ftdisk.sys |RUNN|NG | | | |ftdisk.sys |
+|dm|oad.sys |RUNN|NG | | | |dm|oad.sys |
+|dmio.sys |RUNN|NG | | | |dmio.sys |
+|vo|snap.sys |RUNN|NG | | | |vo|snap.sys |
+Safeguarding Canada’s security through information superiority C d'“
+Préserver la sécurité du Canada par la supériorité de i’information ana a
+
