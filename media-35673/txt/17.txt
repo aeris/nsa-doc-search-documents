@@ -1,0 +1,31 @@
+TOP SECRET/ICOMINTl/RELTO USA,FVEY
+
+Simple Packet Cache
+
+° The hardware LightDelay provides a 30 second cache. M
+° The software XFSPF provides a 2 second cache.
+° Pros:
+
+"Ill
+
+1. No problems with bufferng data since Turmoil does it automatically.
+2. No work required to implement cache.
+
+° Cons:
+
+1. Cache is much smaller than 15 minute (900 seconds = 30X 30) CDR
+requirement.
+
+l
+2. Cache delay is further reduced by unspecified latency to register new DP "."l
+filters after receipt of SA.
+
+3. Many DPs would be ignored if SA is missed/delayed.
+
+— Possibly "mitigated" by sending multiple SA copies in first 30 (or 2) seconds
+of exfil.
+
+October 16, 2008 TOP SECRET/ICOMINTI/RELTO USA,FVEY l7
+
+ 
+

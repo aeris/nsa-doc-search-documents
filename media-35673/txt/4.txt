@@ -1,0 +1,29 @@
+TOP SECRET/ICOMINTl/RELTO USA,FVEY
+
+Receiver: Needs Metadata
+
+- Metadata explains how to:
+
+Identify an eXfil packet and the implant source.
+
+Recover original IP destination address.
+
+Recover other original protocol fields (1P, UDP, TCP).
+
+Contains Key to decrypt/unmunge transport layer payload. llm
+
+- Metadata sent in a Session Announcement (SA)
+
+- SAs use IP/UDP or IP/TCP sent to an IP/port.
+- Multiple copies of SA sent to mitigate dropped SA packets.
+
+. . . . . ll
+° Receiver IS dynamically configured With: "l
+- SA IP/ports, Infrastructure 8: Implant Private Keys
+
+PWN!‘
+
+October 16, 2008 TOP SECRET/ICOMINTI/RELTO USA,FVEY 4
+
+ 
+

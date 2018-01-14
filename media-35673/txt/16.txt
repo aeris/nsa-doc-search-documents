@@ -1,0 +1,30 @@
+TOP SECRET/ICOMINTl/RELTO USA,FVEY
+
+Packet Cache Options
+
+° CDR uses a 15 minute packet cache.
+
+— SAS are sent multiple times per session and the cache is searched for matching
+DPs to mitigate dropped SAs.
+
+° Simple Cache:
+
+— Use existing Turmoil cache (Delay Flow Control Engine).
+
+0 Large Cache:
+
+— Create a large cache that allows a 15 minute delay.
+
+"Ill!
+
+0 Options:
+— Start with Simple cache and see if we miss too many DPs. If problems then ll.
+implement Large cache. lll
+
+— Start with a Large cache and see if we can keep up with data rate 8: memory
+requirements. If problems then scale back to Simple cache.
+
+October 16, 2008 TOP SECRET/ICOMINTI/RELTO USA,FVEY 16
+
+ 
+

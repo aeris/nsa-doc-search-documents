@@ -1,0 +1,29 @@
+TOP SECRET/ICOMINTl/RELTO USA,FVEY
+
+To be Determined
+
+0 Tasking 8: Monitoring of Turmoil
+— Add/Delete/Query tasking (JMS ITX?)
+— Add/Delete/Query other processing/config options (MBean?)
+— Tasking/configuration persistence
+— Processing metrics 8: logging
+— Should tasking use CDR .icf files? (Implant Config Files)
+— Should Turmoil interface W/ PUZZLECUBE? (TAO tasking database)
+
+0 Protocol Processing
+— Metadata: Implant CASN + Turmoil link CASN
+
+— Reinject? Packet Bundling?
+' VoIP, VPN, etc.
+
+— Force Strong Selection Option: On/Off
+— Turmoil 30—sec DFCE vs. CDR 15—minute packet cache
+
+October 16, 2008 TOP SECRET/ICOMINTI/RELTO USA,FVEY
+
+13
+
+"Ill!
+
+ 
+

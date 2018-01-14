@@ -1,0 +1,54 @@
+TOP SECRET/ICOMINTl/RELTO USA,FVEY
+
+ACP “Equivalent API”
+
+' Cache::setTimeWindow '
+' Cache::setSize
+
+' Cache::getInfo
+
+' Cache::c1ear
+
+' Cache::enableArchiving
+
+' Cache::disableArchiving
+
+' Cache::getArchivingStatus '
+
+' SaFilter::set
+
+' SaFilter::de1ete
+
+' SaFilter::getList
+
+' SaFilter::clearList
+
+' DpFilter::set
+— Create DpFilter & check cache for match
+' DpFilter::de1ete
+' DpFilter::getList
+' DpFilter::clearList
+
+Ckiober16,2008
+
+Acp:
+
+IHIIIII
+:getStatus
+Cache::getArchivingStatus
+SaFilter::getList
+DpFilter::getList
+Cache::getInfo
+::checkRawPacket ".m
+(packet processing callback)
+cache the packet
+' if cacheFull
+- archiveIfEnabled
+- warnIfInCacheTimeWindow
+find/process all matching DpFilters H
+find/process unique matching SaFilter I‘m
+
+TOPSECRETUCONHNTHREUHDUSAEVEY 12
+
+ 
+

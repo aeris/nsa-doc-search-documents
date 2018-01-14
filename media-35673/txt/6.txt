@@ -1,0 +1,28 @@
+TOP SECRET/ICOMINTl/RELTO USA,FVEY
+
+Session Announcement Processing
+1. Look for SAs at IP/port that are at least 344 bytes long.
+
+ppf::api::KeywordCriterion(IP.dstAddr, IP.dstPort)
+° (Easy/quick initial check)
+1. RSA Decrypt INF—HDR w/ Infrastructure Private Key.
+° Authenticate w/ SHA-1
+' (Slow secondary check; can’t withstand much non-SA traffic on IP/port)
+
+1. RSA Decrypt IMP—HDR w/ lD’s Private Key.
+' Authenticate W/ SHA-1
+
+1. RC6 Decrypt EXfil/Metadata w/ CV and MI
+' Perform CRC-16 integrity check.
+
+1. Extract Metadata and create Data Packet (DP) filter rule.
+
+' Metadata contains either 5-tuples or pattern/mask/offset that match DPs
+ppf::api::KeywordCriterion(5-tuple or pattern/mask/offset)
+
+llm
+
+October 16, 2008 TOP SECRET/ICOMINTI/RELTO USA,FVEY 6
+
+ 
+

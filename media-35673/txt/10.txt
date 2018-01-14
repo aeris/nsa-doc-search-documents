@@ -1,0 +1,28 @@
+TOP SECRET/ICOMINTl/RELTO USA,FVEY
+
+FASHIONCLEFT 8: Turmoil
+
+° Adding FASHIONCLEFT capability to Turmoil
+supports these missions:
+
+— VPN
+
+' Provide IKE/ISAKMP key exchanges obtained from unique TAO
+accesses to the VPN Attack Orchestrator.
+
+— VoIP
+
+° Create new high bandwidth eXfiltration path to Turmoil for
+streaming VoIP to overcome limited CDR bandwidth.
+
+— Others ”I‘ll
+
+° Automatic eXfil path discovery?
+' Etc...
+
+llm
+
+October 16, 2008 TOP SECRET/ICOMINTI/RELTO USA,FVEY 10
+
+ 
+

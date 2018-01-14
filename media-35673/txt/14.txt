@@ -1,0 +1,23 @@
+TOP SECRET/ICOMINTl/RELTO USA,FVEY
+
+Current CDR Tasking
+
+° FLASHHANDLE Mission Manager (FMM)
+— Provides tasking to CDR/SURPASSPIN
+
+° FMM Server
+— Reads configuration information from the PUZZLECUBE database
+— Allows the operator to add/change tasking
+° (including generating implant encryption keys)
+° Tasking changes are:
+— Sent back to PUZZLECUBE Via JDBC messages
+
+— Published Via J MS messages to SURPASSPIN
+° SURPASSPIN stores the tasking in a persistent POJO cache.
+
+October 16, 2008 TOP SECRET/ICOMINTI/RELTO USA,FVEY 14
+
+"Ill
+
+ 
+

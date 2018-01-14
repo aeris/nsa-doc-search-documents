@@ -1,0 +1,22 @@
+TOP SECRET/ICOMINTl/RELTO USA,FVEY
+
+Large Packet Cache
+
+Illl'lll
+° Implement large 15—minute packet cache within AEG.
+° Pros:
+1. Meets CDR cache requirement. "Ill
+2. Most/all DPs should be processed even if initial SA is missed/delayed.
+' Cons:
+1. Violates normal Turmoil architecture. May not be possible/feasible to l.
+implement a large cache at typical Turmoil rates. I”
+
+2. Requires caching all IP packets sent to "CDR IP address”, then manually
+searching for DP hits instead of letting the PPF search packets.
+
+3. Time/effort required to implement.
+
+October 16, 2008 TOP SECRET/ICOMINTI/RELTO USA,FVEY 18
+
+ 
+

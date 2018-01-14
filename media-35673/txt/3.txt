@@ -1,0 +1,19 @@
+TOP SECRET/ICOMINTl/RELTO USA,FVEY
+
+How To EXfiltrate 1P Packets
+
+1. Make a copy of the captured packet.
+2. Modify packet IP destination address.
+3. Modify other protocol fields (1P, UDP, TCP) as
+
+ 
+
+needed to bypass firewalls and tag packets for ID. "ll
+4. Optionally encrypt/munge Transport layer payload.
+5. Send modified Data Packet (DP) to new destination.
+"'Im
+
+October 16, 2008 TOP SECRET/ICOMINTI/RELTO USA,FVEY 3
+
+ 
+

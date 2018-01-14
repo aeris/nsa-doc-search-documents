@@ -1,0 +1,23 @@
+TOP SECRET/ICOMINTl/RELTO USA,FVEY
+
+Definition: FASHIONCLEFT
+
+° TAO/DN T protocol used by implants to exfiltrate collected
+network packets to the Common Data Receptor (CDR).
+
+° Provides support for: Him
+- Metadata Authentication/Integrity + AntiReplay + Encryption
+
+- Data Encryption
+— Uses 1024-bit RSA, 128-bit RC6
+
+° Based on DNT standards: m."
+— FOGYNULL (EXfil Protocol) ‘
+
+— FUNNELAPS (EXfil Data Format)
+— SHELLGREY (EXfil Metadata Format)
+
+October 16, 2008 TOP SECRET/ICOMINTI/RELTO USA,FVEY 2
+
+ 
+

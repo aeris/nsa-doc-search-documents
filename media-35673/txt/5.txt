@@ -1,0 +1,44 @@
+TOP SECRETUCOMINTHRELTO USA,FVEY
+
+Session Announcement Format
+
+llllll
+. IP Header
+LELF.-|:LD.R
+° TCP 01‘ UDP Header Deployment-Id = 0x00
+Target-Id = 0xa1a2a3a4
+l | t-|d=0.b1b£
+. SA Payload PacEeFl-lg-Selectgr = 0x01
+— Infrastructure Header (128 bytes) PWBW'DEIE‘ = [‘1
+- RSA Encrypted w/ Infrastructure Public Key
+mains
+- Contains SHA-1(INF-HDR), ID Opcode: 0x09
+— ID = Deployment-Id + Target-Id + Implant—Id Imllarljitwlliagroﬂim
+_ Implant Header (128 bytes) g Encrypt'mde = ”M
+- RSA Encrypted w/ ID’s Public Key ;
+- Contains SHA-1(IMP-HDR) L W
+_ I'm-letaData-Len = ML
+- 128—b1t CV, MI, and ORG—16 checksum for Data-Len = u
+Exfil/Metadata Block
+
+— EXfil/Metadata Block (variable)
+- RC6 Encrypted w/ CV & MI
+
+0 Minimum packet length = 344 bytes
+
+W
+Exfil-ld = DxDUDDUDez
+Emil-Type = Packet
+Time-of-lntercept = UxffDO
+Filter-Id = Uxi2
+
+FUN NELAPS
+
+ 
+
+HSHELLGREVD—U
+
+October 16, 2008 TOP SECRET//COMINT//RELTO USA,FVEY 5
+
+ 
+

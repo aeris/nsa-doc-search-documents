@@ -1,0 +1,24 @@
+TOP SECRET/ICOMINTl/RELTO USA,FVEY
+
+Data Packet Processing
+
+Identify an eXfil packet that matches DP filter rule.
+Modify to original IP destination address.
+Modify to original protocol fields (1P, UDP, TCP).
+
+Decrypt/unmunge transport layer payload. “It
+— Have now recovered the original captured packet.
+
+PWN!‘
+
+1. Associate metadata with recovered packet.
+— Implant CASN, Turmoil link CASN Ml
+
+1. Perform protocol specific processing.
+— Reinject? Bundle?
+— Need option to force packets to be “strongly selected”.
+
+October 16, 2008 TOP SECRET/ICOMINTI/RELTO USA,FVEY 7
+
+ 
+
