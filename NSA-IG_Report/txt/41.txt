@@ -1,0 +1,53 @@
+TOP SE CRE T //S T L W//C OMIN T /0RC ONﬂV 0F ORN
+
+WORKING DRAFT
+
+Domestic Content Order. On 1 February 2007, the ﬁnal Authorization was allowed
+to expire and was not renewed.
+
+(TS//SI//NF) Transition of Internet Metadata Collection to Pen Register/T rap
+and Trace Order Authority
+
+(TS//SI//NF) According to NSA personnel, the decision to transition
+Internet metadata collection to a FISC order was driven by DoJ. At a
+meeting on 26 March 2007, DoJ directed NSA representatives from OGC
+and SID to ﬁnd a legal basis, using a FISC order, to recreate NSA’s PSP
+authority to collect bulk Internet metadata.
+
+(TSI/SI/fNF) After extensive coordination, DoJ and NSA devised the
+PR/TT theory to which the Chief Judge of the FISC seemed amenable.
+DoJ and NSA worked closely over the following months, exchanging
+drafts of the application, preparing declarations, and responding to
+questions from court advisers. NSA representatives explained the
+capabilities that were needed to recreate the Authority, and Do] personnel
+devised a workable legal basis to meet those needs. In April 2004, NSA
+briefed Judge Kollar—Kotelly and a law clerk because Judge Kollar—Kotelly
+was researching the impact of using PSP-derived information in FISA
+applications. In May 2004, NSA personnel provided a technical brieﬁng
+on NSA collection of bulk Internet metadata to Judge Kollar-Kotelly. In
+addition, General Hayden said he met with Judge Kollar—Kotelly on two
+successive Saturdays during the summer of 2004 to discuss the on-going
+efforts.
+
+(TSI/SII/NF) The F ISC signed the ﬁrst PR/TT order on 14 July 2004.
+Although NSA lost access to the bulk metadata from 26 March 2004 until
+the order was signed, the order essentially gave NSA the same authority to
+collect bulk Internet metadata that it had under the PSP, except that it
+speciﬁed the datalinks from which NSA could collect, and it limited the
+number of people that could access the data. The FISC continues to renew
+the PR/TT approximately every 90 days.
+
+(TS//SI//NF) Transition of Telephony Metadata Collection to the Business
+Records Order
+
+(TS//SI//NF) According to NSA General Counsel Vito Potenza, the
+decision to transition telephony metadata to the Business Records Order
+was driven by a private sector company. After the New York Times article
+was published in December 2005, Mr. Potenza stated that one of the PSP
+providers expressed concern about providing telephony metadata to NSA
+under Presidential Authority without being compelled. Although OLC’s
+
+TOP SE CRE T //S T L W//COMIN T /0R CON/N 0F ORN
+
+39
+

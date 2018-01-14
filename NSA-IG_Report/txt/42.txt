@@ -1,0 +1,52 @@
+ST-09-0002
+WORKING DRAFT
+
+TOP SE CRE T //S T L W//C OMIN T /0RC ONﬂV 0F ORN
+
+May 2004 opinion states that NSA collection of telephony metadata as
+business records under the Authorization was legally supportable, the
+provider preferred to be compelled to do so by a court order.”
+
+(TS//SI//NF) As with the PR/TT Order, Do] and NSA collaboratively
+designed the application, prepared declarations, and responded to questions
+from court advisers. Their previous experience in drafting the PRTT Order
+made this process more efficient.
+
+(TS//SI//NF) The F ISC signed the ﬁrst Business Records Order on 24 May
+2006. The order essentially gave NSA the same authority to collect bulk
+telephony metadata from business records that it had under the PSP. And,
+unlike the PRTT, there was no break in collection at transition. The order
+did, however, limit the number of people that could access the data and
+required more stringent oversight by and reporting to DOJ. The FISC
+continues to renew the Business Records Order every 90 days or so. (See
+Appendix H.)
+
+(TS//SI//NF) Transition of Internet and Telephony Content Collection to the
+Foreign and Domestic Content Orders
+
+(TS//SI//NF) According to NSA OGC, the transition of PSP content
+collection to FISC orders was driven by DoJ. DoJ had contemplated a
+transition in July 2004 when the FISC’s signing of the PR/TT order
+indicated its willingness to authorize PSP activities under court order.
+Given this precedent, DoJ concluded the FISC might also accept content
+collection. However, little progress was made until June 2005 when the
+DoJ OIPR with NSA OGC and SID representatives began researching the
+feasibility of collecting PSP content under court order. In essence, DOJ
+and NSA needed to ﬁnd a legal theory that would allow NSA to add and
+drop thousands of foreign targets for content collection. Because the law
+was more restrictive for content than metadata, NSA had serious
+reservations about whether it would be possible to ﬁnd a workable solution
+using a FISC order at that time, especially given the large number of
+selectors to be tasked and the complexity from legal and operational
+perspectives. For example:
+
+“(TS//STLW//SI//OR/NF) In addition to the telephony metdata that NSA was receiving from private sector
+companies as business records, it was also obtaining “live” telephony metadata from its own SIGINT
+collection sources. It continued until mid-2005. (***We will include a reference to the corresponding
+
+notiﬁcation here.** *)
+
+TOP SE CRE T //S T L W//C OMIN T /0RCONﬂV 0F ORN
+
+40
+

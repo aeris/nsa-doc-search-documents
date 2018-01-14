@@ -1,0 +1,53 @@
+S T-09—0002
+WORKING DRAFT
+
+TOP SE CRE T //S T L W//C OMIN T /0RC ONﬂV 0F ORN
+
+ 
+
+ 
+
+(TS//Sl//NF) Until March 2004, NSA considered its
+collection of bulk Internet metadata under the PSP to be
+legal and appropriate. Speciﬁcally, NSA leadership,
+including OGC lawyers and the IG, interpreted the terms of
+the Authorization to allow NSA to obtain bulk Internet
+metadata for analysis because NSA did not actually
+“acquire” communications until specific communications
+were selected. In other words, because the Authorization
+permitted NSA to conduct metadata analysis on Selectors
+that met certain criteria, it implicitly authorized NSA to
+obtain the bulk data that was needed to conduct the
+metadata analysis.
+
+(TS//SI//NF) On 11 March 2004, General Hayden had to
+decide whether NSA would execute the Authorization
+without the Attorney General’s signature (I V-A/32- 11).
+General Hayden described a conversation in which David
+Addington asked, “Will you do it (I V-A/32- 11)?” At that time,
+General Hayden also said that he asked Daniel Levin,
+Counsel to the Attorney General, in March 2004 if he
+needed to stop anything he was doing. Mr. Levin said that
+he did not need to stop anything (I V-A/32-7 and lV-A/32a-
+7&8). After conferring with NSA operational and legal
+personnel, General Hayden stated that he decided to
+continue the PSP because 1) the members of Congress he
+briefed the previous day, 10 March, were supportive of
+continuing the Program, 2) he knew the value of the
+Program, and 3) NSA lawyers had determined the Program
+was legal.
+
+ 
+
+(TS//SI//NF) Eight days later on 19 March 2004, the President rescinded the
+authority to collect bulk Internet metadata and gave NSA one week to stop
+collection and block access to previously collected bulk Internet metadata. NSA
+did so on 26 March 2004. To close the resulting collection gap, D0] and NSA
+immediately began efforts to recreate this authority in what became the PR/TT
+order. By January 2007, the remaining three authorities had also been replicated in
+FISC orders: the Business Records (BR) Order, the Foreign Content Order, and the
+
+TOP SE CRE T //S T L W//COMINT/0RCONﬂVOFORN
+
+38
+

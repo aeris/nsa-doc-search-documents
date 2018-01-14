@@ -1,0 +1,52 @@
+S 1109-0002
+WORKING DRAFT
+
+TOP SE CRE T //S T L W//COMIN T /0RCONﬂV OF ORN
+
+following describes the process used to obtain requests, conduct analysis,
+and report results under the PSP. (See Appendix E for a ﬂowchart of the
+end-to—end process.)
+
+(TS//SI//NF) Requests for Information and Leads. Contact chaining
+analysis requests were received from FBI, CIA, or NSA. Requests
+typically took one of two forms, Requests for Information (RF 1) and Leads.
+RFIs were speciﬁc questions about a target’s telephone numbers or email
+addresses, called “selectors” at NSA. Leads were more general requests
+about a target’s contacts. Requestors submitted leads to discover new
+investigative leads. Contact chaining requests were documented from the
+inception of the PSP.
+
+(TS//SI//OC/NF) Approvals to Chain. Prior to chaining, NSA
+counterterrorism shift coordinators reviewed chaining requests to
+determine whether they met criteria provided by the OGC and based on the
+terms of the Authorization. They had to have enough information to
+identify a terrorism nexus and demonstrate compliance with criteria
+required by the Authorization before analysis could begin. Shift
+coordinators either approved requests, approved them for 1-hop (direct
+contact) analysis, or denied them. Approved requests were passed to
+analysts for contact chaining.
+
+(TS//SI//OC/NF) Analysis. NSA used a variety of tools to conduct
+metadata analysis and View the results. NSA’s primary tool for conducting
+metadata analysis, for PSP and traditional SIGINT collection, was
+MAINWAY. MAINWAY was used for storage, contact chaining, and for
+analyzing large volumes of global communications metadata. At the
+beginning of the PSP, only the “SIGINT Navigator” tool was available to
+View MAINWAY output. Over time, new tools and new processes, such as
+automated chaining alerting, were created to improve analysts’ efficiency.
+To obtain the most complete results, analysts used data collected under PSP
+and non-PSP authorities. Typically, they analyzed networks with two
+degrees of separation (two hops) from the target. Analysts determined if
+resulting information was reportable.
+
+(TS// SI/lOC/N F) In addition, an automated chaining alert process was
+created to alert analysts of new potentially reportable selectors. Previously
+approved selectors were compared to incoming MAINWAY data
+authorized by the PSP, E.O. 12333, or the FISC. Alerts of direct contacts
+with approved selectors were reported to NSA analysts for further analysis
+and potential reporting to FBI and CIA.
+
+TOP SE CRE T //S T L W//C OMIN T /OR C ONﬂV OF ORN
+
+14
+

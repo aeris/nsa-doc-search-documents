@@ -1,0 +1,53 @@
+TOP SE CRE T //S T L W//C OMIN T /0R CONﬂV 0F ORN
+
+S 1109-0002
+WORKING DRAFT
+
+(U) Organizational Structure
+
+(TS// SI/lN F) NSA conducted all PSP analysis and reporting at its
+headquarters at Ft. Meade, Maryland, within the SIGINT Directorate.
+Speciﬁcally, tasking approvals, analysis, and reporting were conducted in
+the CT Product Line within SID, Analysis and Production. Collection of
+data was managed in SID, Directorate for Acquisition. No PSP activities
+were managed at NSA ﬁeld sites.
+
+ 
+
+(TS//SI//NF) Although the formal chain of command for SIGINT
+operations was through SID, in practice, the Director and Deputy Director
+of NSA/CSS managed the Program while keeping the SIGINT Director
+informed. Over time, the SIGINT Director became more involved, but the
+Director and Deputy Director always maintained direct operational control.
+
+(TS//SI//NF) Program Manager. Five officials held the Program
+Manager position over the life of the PSP? Initially, the Program Manager
+reported to the Chief of the CT Product Line. In 2004, the Program
+Manager position was restructured as the SID Program Manager for CT
+Special Projects and elevated to report to the SIGINT Director. This
+allowed the Program Manager jurisdiction of PSP elements across SID, not
+just those within the Directorate for Analysis and Production. At that time,
+the position was also formally designated as a senior level civilian position.
+A small staff was added to form the Program Management Ofﬁce.
+
+(TS//SI//NF) SID Analysis and Production. Initially, the MAC
+analyzed PSP metadata (data that describes the content, events, or networks
+associated with SIGINT targets), while SIGINT Development in the CT
+Product Line analyzed non-PSP metadata. The CT Product Line performed
+PSP content analysis. SIGINT Development, a separate organization
+within the SID, managed approvals for content tasking. In 2004, the
+analysis and production of metadata and content were consolidated into a
+new organization called the Advanced Analysis Division (AAD). AAD
+was divided into three teams: intemet metadata, telephony metadata, and
+content.
+
+(TS//SI//NF) Coordination with FBI and CIA. By 2004, four FBI
+
+integrees and two CIA integrees, operating under SIGINT authorities in
+accordance with written agreements, were co-located with NSA PSP-
+
+5(TS//SI//NF) The Chief of the CT Product Line was Acting Program Manager for a brief time in 2004.
+TOP SE CRE T //S T L W//C OMIN T /0R C ONﬂV 0F ORN
+
+12
+

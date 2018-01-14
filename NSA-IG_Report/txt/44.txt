@@ -1,0 +1,32 @@
+ST—09—0002
+WORKING DRAFT
+
+TOP SE CRE T //S T L W//COMINT/0RCONﬂVOFORN
+
+domestic selectors. Consequently, on 10 January 2007, the FISC signed
+two separate orders: the Foreign Content Order and the Domestic Content
+Order.
+
+(TS/lSI/fNF) The Foreign Content Order negatively affected SIGINT
+exploitation. Most notably, the number of foreign selectors on collection
+dropped by 73 percent, from 11,000 selectors under PSP to 3,000 under the
+order. In addition, the administrative workload for NSA analysts to put
+critical foreign selectors on collection was so burdensome that the order
+became operationally unsustainable. The order was eventually superseded
+by Congress’ FISA modernization. It was temporarily replaced by the
+Protect America Act in August 2007 and then permanently replaced by the
+FISA Amendments Act in July 2008.
+
+(TS//SI//NF) The Domestic Content Order did not create a similar loss in
+collection because so few domestic numbers were tasked at that time. It
+did, however, slow operations because of the documentation required, and
+it took considerably longer to task under the order than under the PSP.
+Over time, the scope of the Domestic Content Order gradually decreased to
+a single selector tasked for collection in January 2009. In January 2009,
+the FBI, at NSA’s request, assumed responsibility for the Domestic Content
+Order and became the declarant before the FISC.
+
+TOP SE CRE T //S T L W//COMIN T /0R C ONﬂV 0F ORN
+
+42
+

@@ -1,0 +1,38 @@
+S 1109-0002
+WORKING DRAFT
+
+TOP SE CRE T //S T L W//COMIN T /0RCON/N 0F ORN
+
+to perform assigned job duties. The Program Manager questioned access
+requests with unclear justiﬁcations. Approved requests were forwarded to
+the Program security ofﬁcer, who performed a security check. If the
+security check yielded nothing to impede access, individuals were
+instructed to go to the security ofﬁce to read the “Security Pre-Brief
+Agreement” and sign a “Sensitive Compartmented Information
+Nondisclosure Agreement” form. NSA’s General Counsel also had the
+authority to read in Attorneys from other agencies.
+
+(TS//SI//NF) On 20 May 2005, the Program Manager changed the PSP
+clearance request and re-certiﬁcation process. The Project Security Ofﬁcer
+assigned to Special Source Operations in the SIGINT Directorate assumed
+responsibility for the PSP clearance process. (Special Source Operations
+managed all PSP-related collection for NSA.) Additionally, the Program
+Manager initiated monthly PSP clearance brieﬁngs.
+
+(TS//SI//NF) From 4 October 2001 until 23 May 2005, a two—level PSP
+clearance structure was used. One level was limited to the “fact of”
+Program existence. A second level included access to PSP targeting data
+through a “must know” principle. Access lists were maintained in the SSO
+Security Director’s ofﬁce on an internal SSO compartmented LAN.
+
+(TS//SI-ECI//NF) Regular zero-based reviews were conducted by the SSO
+Security Director’s ofﬁce quarterly to validate that cleared individuals had
+a continuing need for access to PSP information. The clearance did not
+automatically transfer with individuals who moved to new assignments.
+The clearance had to be re-justified for the new position, or the individual
+would be debriefed from the Program.
+
+TOP SE CRE T //S T L W//C OMIN T/OR C ONﬂV 0F ORN
+
+26
+

@@ -1,0 +1,43 @@
+S 1109-0002
+WORKING DRAFT
+
+TOP SE CRE T //S T L W//C OMIN T /0R C ONﬂV 0F ORN
+
+engineering). Records included all call events from the companies’ long
+distance and international communication networks. The Call Detail
+Records were aggregated as large ﬁles by TS/SCI—cleared groups at
+COMPANY A and COMPANY B and forwarded, on an hourly or daily
+basis, across classified communications circuits to a PSP-restricted NSA
+data repository.
+
+COMPANY A provided PSP-authorized CDRs as early as November 2001,
+and COMPANY B began to provide CDRs in February 2002. Both
+continued to provide this support through the end of the PSP, and support
+continues today under the FISC Business Records Order. COMPANY C
+provided select PSP-authorized CDRs from December 2002 through March
+2003.
+
+(TS//SI-ECI//N F) Internet Metadata. The last category of private sector
+assistance was access to Internet Protocol (IP) metadata associated with
+communications of al Qaeda (and affiliates) from data links owned or
+operated by COMPANIES A, B, and C. In order to be a candidate for PSP
+IP metadata collection, data links were ﬁrst vetted to ensure that the
+preponderance of communications was from foreign sources, and that there
+was a high probability of collecting al Qaeda (and affiliate)
+communications. NSA took great care to ensure that metadata was
+produced against foreign, not domestic, communications.
+
+(TS//SI-ECI//NF) COMPANY A began providing PSP IP metadata
+collection as early as November 2001. Although COMPANY B began
+providing CD-ROMs of PSP 1P metadata in October 2001, an automated
+transfer of data was not available until February-March 2002. The
+Presidential authority to collect IP metadata was terminated in March 2004.
+COMPANY A and COMPANY B IP metadata collection resumed after the
+FISC Pen Register/Trap & Trace (PR/TT) Order authorizing this activity
+was signed on 15 July 2004. COMPANY C provided IP metadata
+beginning in April 2005.
+
+TOP SE CRE T //S T L W//C OMIN T /0RC ONﬂV 0F ORN
+
+34
+

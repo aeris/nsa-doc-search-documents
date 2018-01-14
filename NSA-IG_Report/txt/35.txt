@@ -1,0 +1,53 @@
+TOP SE CRE T //S T L W//C OMIN T /0RC 0N/NOF ORN
+
+WORKING DRAFT
+
+(TS// SI—ECI/lN F) Letters for COMPANIES A, B, C, and B were couriered
+to the companies’ local facility. COMPANY B sometimes picked up its
+letters at NSA Headquarters. Letters for COMPANY D were stored at NSA
+since no one at the company had the proper clearance to store them.
+
+(U//FOUO) PSPAuthorized'Support to NSA
+
+(TS// SI-ECI/[N F ) Private sector companies provided assistance to NSA
+under the PSP in three categories: telephone and Internet Protocol content,
+Metadata from Call Detail Records, and Internet Protocol Metadata.
+
+(TS//ECI//NF) The PSP allowed content to be collected if the selected
+communication was one-end foreign or the location of the communicants
+could not be determined. Selectors (email addresses and telephone
+numbers) were provided by NSA’s Ofﬁce of Counterterrorism.
+
+(TS//SI-ECI//N F) Content: Telephony. Under the PSP, companies
+provided the content of one-end-foreign intemational telephone calls
+(telephony content) and the content of electronic communications (email
+content) of al Qaeda and its afﬁliates. COMPANIES A, B, and C provided
+telephony content from communications links they owned and operated.
+They had been providing telephony content to NSA before 2001 under
+FISA and E0. 12333 authorities. NSA began to receive telephony content
+from COMPANIES A and B on 6 October 2001 and COMPANY C on 7
+October 2001. This support ended on 17 January 2007.
+
+(TS//SI—ECI//NF) Content: Internet Email. COMPANIES A, B, and C
+provided access to the content of Al Qaeda and Al Qaeda-affiliate email
+from communication links they owned and operated. NSA received email
+content from COMPANYA as early as October 2001 until 17 January
+2007, ﬁom Company B beginning February-March 2002 through 17
+January 2007, and from COMPANY C from April 2005 until 17 January
+2007. From April 2003 through November 2003, COMPANY D provided
+a limited amount of email content under the PSP. It did not provide PSP-
+related support after November 2003, but it did provide support under
+FISA.
+
+(TS// SI—ECI/IN F) Metadata from Call Detail Records. COMPANIES A
+and B provided Call Detail Records to NSA. The records were used by
+NSA Counter-Terrorism metadata analysts to perform call chaining and
+network reconstruction between known al Qaeda and al Qaeda-afﬁliate
+telephone numbers and previously unknown telephone numbers with which
+they had been in contact. Providers generated Call Detail Records as a
+normal course of doing business (e.g., billing purposes and trafﬁc
+
+TOP SE CRE T //S T L W//C OMIN T /0R C 0NﬂV 0F ORN
+
+33
+

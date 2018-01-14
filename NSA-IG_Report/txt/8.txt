@@ -1,0 +1,55 @@
+S T-09— 0002
+WORKING DRAFT
+
+TOP SE CRE T //S T L W//COMIN T /0R CONﬂV 0F ORN
+
+would grant a warrant before initiating emergency surveillance.
+Additionally, before NSA surveillance requests were submitted to the
+Attorney General, they had to be reviewed by NSA intelligence ofﬁcers,
+NSA attorneys, and Department of Justice attorneys. Each reviewer had to
+be satisﬁed that standards had been met before the request proceeded to the
+next review group, and each request was certiﬁed by a senior ofﬁcial in the
+DoD, usually the Secretary or Deputy Secretary. From the time NSA sent a
+request to Justice’s OIPR until the time data arrived at NSA, the average
+wait was between a day and a day and a half. In the existing threat
+environment with US. interests at risk, NSA deemed the wait too long.
+
+ 
+
+(U//FOUO) Early Efforts to Amend FISA
+
+(TS//SI//NF) Given the limitations of FISA, there were early
+efforts to amend the statute. For example, shortly after 11
+September, the HPSCI asked NSA for technical assistance
+in drafting a proposal to amend Section III of FISA that
+would give the President the authority to conduct electronic
+surveillances without a court order for the purpose of
+obtaining foreign intelligence information. On
+
+20 September 2001, the NSA General Counsel wrote to
+Judge Alberto Gonzales, Counsel to the President, asking
+whether the proposal had merit. We found no record of a
+response.
+
+(U//FOUO) We could not determine why early efforts to
+amend FISA were abandoned. Anecdotal evidence
+suggests that government officials feared the public debate
+surrounding any changes to FISA would compromise
+intelligence sources and methods.
+
+ 
+
+ 
+
+(U) NSA identifies SIGINT collection gaps to Vice President’s Office.
+
+(TS/lSII/NF) Because early discussions about expanding NSA’s authority
+were not documented, we do not have records of speciﬁc topics discussed
+or people who attended General Hayden’s meetings with White House
+representatives. General Hayden stated that after consulting with NSA
+personnel, he described to the White House how NSA collection of
+communications on a wire inside the United States was constrained by the
+FISA statute. Speciﬁcally, NSA could not collect from a wire in the United
+
+TOP SE CRE T //S T L W//COMINT/0RCONﬂVOFORN
+

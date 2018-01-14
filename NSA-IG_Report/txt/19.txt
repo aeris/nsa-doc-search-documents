@@ -1,0 +1,70 @@
+TOP SE CRE T //S T L W//C OMIN T /0R C ONﬂV 0F ORN
+
+WORKING DRAFT
+
+(TS//SI//NF) Foreign selectors tasked for PSP content collection did not
+require formal approvals or tasking packages. Analysts were responsible
+for determining whether a foreign selector met the criteria for foreign
+intelligence terms-etlt-he—Pmtheﬁ-zanen.
+
+(TS//SI//NF) Collection. After a demest-ie selector was approved for PSP
+content collection, it was identified as “tasked” in the STELLARWIND
+Addresses Database by CT/AAD tasking managers who then emailed a
+collection tasking request to the 880 Collection Manager for telephony
+and Internet content collection. Foreign selector content collection
+requests were sent directly to the 880 Collection Manager. They did not
+require special approval.
+
+ 
+
+(TS//SI//STLW//NF) SSO collection managers were responsible for
+ensuring that telephony and Internet content selectors were put on or taken
+off collection. For telephenﬁelephonv content selectors, collection
+managers sent content collection tasking instructions to private sector
+companies. Private sector companies were responsible for implementing
+tasking at front-end devices to obtain the required content collection. For
+Internet content selectors, collection managers sent content tasking
+instructions directly to equipment installed at
+
+company-controlled locations. Collected data was sent back to NSA/SSO
+and made available to analysts through the HYBRID voice processing
+system for telephony content selectors or the PINWALE database for
+Internet content selectors. SSO collection managers worked with private
+sector companies and the CT Product Line to ensure that collected data was
+as intended and legally authorized.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(TS//SI//NF) Storage. Content (voice or dBata) collected under PSP was
+stored in protected partitions in existing NSA databases. Access to the
+partitions was restricted to PSP-cleared personnel.
+
+(TS//SI//NF) Reporting. After analyzing content data collected under
+Presidential authority and identifying foreign intelligence information,
+counterterrorism analysts wrote reports. After an initial review within the
+CT Product Line, some reports were sent to SID Oversight and Compliance
+(0&C) for a second review for US. person identities. 0&C reviewers
+determined whether the US. identities in the report were necessary to
+assess or understand the foreign intelligence information being reported i
+was required within the conduct of recipient’s official duties . If an identity
+was found to be unnecessary, it was not reported. Before any US. person
+information was disseminated in reporting, internal NSA approvals were
+obtained as required by United States Signals Intelligence Directive
+SP0018 — Legal Compliance and Minimization Procedures.
+
+ 
+
+TOP SE CRE T //S T L W//COMIN T /0R CONﬂV 0F ORN
+
+17
+
