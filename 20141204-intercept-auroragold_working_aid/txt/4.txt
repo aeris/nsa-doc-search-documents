@@ -1,0 +1,26 @@
+SECRET/ISI/IREL TO FVEY
+
+ 
+
+ 
+
+ 
+
+Information radio interface information.
+
+Packet Data (U) Packet Data Services identifies the affected GPRS (S//Sl//REL) This data element also provides
+
+Services networks. An Access Point Name is also included in information on the WAP gateway being access and
+
+Information this information. APNs can identify the type of multimedia messaging services gateway lP
+service provided by GPRS networks provided to addresses which is useful for target development.
+mobile users. APNs also help identify the network Insight into the GPRS Tunneling Protocol versions
+and operator's packet network involved in the IR.21 being used within the networks is provided as well.
+and could be used for targeting. GPRS, EDGE and HSPA technologies are covered.
+
+ 
+
+SECRET/ISI/IREL TO FVEY
+
+ 
+

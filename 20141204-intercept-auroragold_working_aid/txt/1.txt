@@ -1,0 +1,50 @@
+ 
+
+SECRET/ISIIIREL TO FVEY
+
+   
+
+WORKING AID (UPDATED 17 MAY
+
+2012)
+
+(U//FOUO) AURORAGOLD is a team of 5564 analysts, developers and wireless SMEs
+working on:
+
+(S/lSl/IREL) Database of Mobile Network Operators (MNOs), networks, and
+PWle collected from GSM/UMTS/LTE roaming documents (IR.215),
+
+(S/lSI//REL) Target development effort against MNOs, roaming hubs, and GSM
+Association (GSMA) working groups, and
+
+(U) Fusion of open source, licensed, commercial data with SIGINT to answer
+wireless needs.
+
+(SI/Sl/IREL) Sample SIGINT (IR.21) Queries
+
+(S/lSl/IREL) What lR.21s have we seen for networks within a country or set of
+countries?
+
+(S/lSl/IREL) What IR.215 have we seen for networks managed by a mobile
+network operator?
+
+(S/lSl/IREL) What lR.21s have we seen for a particular network or set of
+networks?
+
+(U) Sample Open Source (Licensed Commercial Data)
+Queries
+
+(S/lSl/IREL) What are all of the cellular network operators within a country
+currently in service?
+
+(S/lSl/lREL) What suppliers have sold equipment to which operators within a
+country?
+
+(S/lSl/IREL) What networks are currently in service/planned within a country
+for each operator?
+
+(S/lSl/IREL) Which network technology equipment exists within a country for
+each operator?
+
+SECRET/ISIIIREL TO FVEY
+

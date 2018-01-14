@@ -1,0 +1,115 @@
+SECRET/ISIIIREL TO FVEY
+
+(S/lSl/IREL) Some IR.21 Fields Useful to SIGINT
+
+ 
+
+(U) IR.21 Field
+Mobile Country
+Code (MCC)/
+Mobile Network
+
+(U) What is it?
+
+(U) A decimal digit code which uniquely identifies a
+mobile network. The MCC which identifies the
+country is used as the first three digits of any user's
+
+(U) How is it used?
+
+(U) Provide unique identification of networks to
+identify network boundaries, interfaces, protocols,
+software, hardware, etc.
+
+ 
+
+Code (MNC) IMSI, followed by the two digit MNC which identifies
+the network within that country.
+Mobile (U) A number uniquely identifying a subscription in a (U) Allow identification of real phone number dialed
+Subscriber GSM or a UMTS mobile network (the telephone
+Integrated number to the SIM card in a mobile/cellular phone).
+
+Services Digital
+Network Number
+(MSISDN)
+
+ 
+
+TADIG codes
+
+(U) A number allocated by the GSMA for use as
+primary identifiers, both within file contents and file
+names. Also used as a more generic entity identifier
+in the mobile industry
+
+(U) Identify the network for billing purposes and
+help identify targets
+
+ 
+
+ 
+
+Signaling (U) A network layer protocol that provides extended (U) Provides routing information within the Public
+
+Connection routing, flow control, segmentation, connection- Land Mobile Network and provides access to
+
+Control Part orientation, and error correction facilities in applications such as 800-call processing and
+
+(SCCP) Signaling System 7 telecommunications networks calling card processing to identify targets and
+other information
+
+Subscriber (U) This field indicates whether or not authentication (S//S|//REL) It would also show the emergence of
+
+Identity is performed for roaming subscribers at the start of new cipher algorithms and support target analysis,
+
+Authentication
+
+GSM service and the type of A5 cipher algorithm
+version in use.
+
+trending and the development of exploits.
+
+ 
+
+Mobile
+Application Part
+(MAP)
+
+(U) A 557 protocol which provides an application
+layer for the various nodes in GSM and UMTS mobile
+core networks and GPRS core networks to
+communicate with each other in order to provide
+services to mobile phone users. The Mobile
+Application Part is the application-layer protocol
+used to access the Home Location Register, Visitor
+Location Register, Mobile Switching Center,
+Equipment Identity Register, Authentication Centre,
+Short message service center and Serving GPRS
+Support Node (SGSN).
+
+(S//S|//REL) Provides a clearer understanding of
+network features when roaming agreement
+information is published. Current information about
+subscribers, mobility management and
+applications can be used for targeting and target
+development.
+
+ 
+
+ 
+
+Network
+Element
+
+(U) Specific network components, their
+manufacturer, software & hardware versions, etc.
+
+(S//S|//REL) This specific information is necessary
+for targeting and exploitation. Includes core and
+
+ 
+
+SECRET/ISIIIREL TO FVEY
+
+ 
+

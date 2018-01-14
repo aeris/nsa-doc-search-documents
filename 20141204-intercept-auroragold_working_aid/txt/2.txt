@@ -1,0 +1,34 @@
+SECRET/ISIIIREL TO FVEY
+(S/lSl/IREL) What is the network name for each network within a country for
+each operator?
+
+(S/lSl/IREL) When was each network placed into service for each operator
+within a country?
+
+(S/lSl/IREL) What cellular network technology (e.g., GSM, W-CDMA, HSPA,
+etc.,) is in service for each operator in a country?
+
+(S/lSl/IREL) Which frequency spectrum bands are being used by which
+operators in a country?
+
+(S/lSl/IREL) What 4G/LTE networks are currently in service/planned for each
+operator within a country?
+
+(S/lSl/IREL) What CDMA or CDMA Wireless Local Loop networks are currently
+
+ 
+
+in service/planned for each operator within a cou ""7
+Derived From:
+
+(S/lSl/IREL) What network license auctions are NSA/CSSM 1-52
+planned within a country? Dated: 20070108
+
+ 
+
+ 
+
+ 
+
+SECRET/ISIIIREL TO FVEY
+
