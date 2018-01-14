@@ -1,0 +1,29 @@
+ 
+
+(SilSDHandhetlliﬁsrmgtodtsedlorgeobcaﬁngtargetedhandsets
+i1tl'lel‘ielcl.
+
+ 
+
+(SIISI) Wes:
+o Spit display/controller for
+ﬂexible deployment
+capabiity
+:- External antenna for DFing
+target: 'I'Itemal antenna for
+commutation with active
+interrogator
+oMult‘ple technology
+capabiitybasedonSDR (gamma-mars:
+Platform: currently U ' under
+development
+c Approx'mate size 3' x 7.5' x 125‘ (radio). 25‘ x 5" x 0.75“
+(diSPIHYJ: radio shrink in planting stages
+o Display uses E-lnk technology for low light emiss‘ons
+
+ 
+
+ 
+
+ 
+
