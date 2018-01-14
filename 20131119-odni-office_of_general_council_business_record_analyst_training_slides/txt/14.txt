@@ -1,0 +1,20 @@
+Other Access Requirements
+
+An automatic audit log must be generated
+for each occasion when the information is
+accessed.
+The Log must contain:
+
+> User Login
+
+> User IP address
+
+> Date and time
+
+> Retrieval request
+
+'On_Q_E,f_‘_DE f‘
+‘TVr 0..»-\L-Tlloel‘u'lI-NT—llNGF-GRN—
+
+ 
+
