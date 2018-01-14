@@ -1,0 +1,16 @@
+ChaHenges(U)
+
+. (Cl/REL) Complexity
+_ Understand target, technology. & SIGINT system
+
+. (S//S|//REL) Getting data is only step 1
+_ Getting a data set is like to getting a new bearer to analyze
+
+. (U) Visualization
+_ Excel tops out at a million rows...
+
+. (TS/lSI/lREL) Clean data
+_ Targets vs. Selectors
+
+ 
+

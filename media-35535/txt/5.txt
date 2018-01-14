@@ -1,0 +1,20 @@
+—
+Risk Management for SIGINT
+
+Threats (U)
+
+(SI/REL) Threat to SIGINT Capability
+
+— A behavior or technology that has the potential to have a negative
+impact on NSA’s capability to provide SIGINT on a Terrorism Target
+
+(U) Use Risk
+— The possibility that a particular threat will be adopted by Terrorist targets
+(SI/REL) Indications and Warning
+
+— Early warning of high impact threats to prevent surprise to key
+stakeholders and reduce risk from Terrorist adoption of technology that
+would adversely affect SIGINT production
+
+ 
+

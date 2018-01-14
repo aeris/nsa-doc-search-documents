@@ -1,0 +1,17 @@
+—
+Clean Data (U)
+
+(S//Sl//REL) Metrics will only provide a near-accurate picture: ground truth will always be the domain of
+the TOPI and based on content
+
+(S//S|//REL) Some selectors (accurately) map to multiple targets, multiple teams, multiple organizations
+(S//S|//REL) Some selectors simply don't have a known target, only a target set
+
+(S//REL) Need to correlate across widely different datasets requires creation of normalized bridge
+datasets (e.g. comparing executables to domains)
+
+(S//Sl//REL) TKB/U'IT are victims of years of "fill in the blank" freeform data entry; very slowly being
+addressed (~2015?)
+
+ 
+

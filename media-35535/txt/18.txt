@@ -1,0 +1,23 @@
+—
+The Wicked Problem Aspect (U)
+
+(S//REL) Defining the problem is the first (wicked)
+problem
+
+_ Triage Stage 1
+_ Initial priority: (single) target + initial understanding of technology
+_ Implications Research
+
+_ What does the product/service do?
+_ Current NSA capabilities to detect, collect, exploit, analyze?
+_ Do any other CT targets use it?
+
+_ Triage Stage 2
+_ Updated priority: target(s) + updated understanding of tech/USSS
+_ Validated Next Steps
+
+_ As needed: capabilities/access development requirements
+_ Reporting: internal, CIR, e-gram; Gaps report; prioritization w/in tech category
+
+ 
+

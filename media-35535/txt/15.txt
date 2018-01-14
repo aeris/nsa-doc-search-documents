@@ -1,0 +1,35 @@
+—
+Optic #2: Technology Use
+
+Discovery (U)
+
+, (S//S|//REL) Technology Use and Behavior Discovery
+
+_ "Stratactical” data sets
+_ Includes target-specific data point for each item (e.g. selector)
+
+_ Discovery of target behavior by identifying technology use patterns, trends, and/or
+anomalies in:
+
+_ User-agents (browsers, OS, devices)
+
+_ Tasking (new tasking, total tasking)
+
+_ Network, Protocol usage (Active User metrics)
+
+_ Visited URLs, web searches
+
+_ Process lists, pre-fetch logs, registry entries, software logs
+
+_ Hardware usage (smartphones, tablets, SD cards)
+
+_ Currently using various tools (XKEYSCORE, SEEKER, BIONICTURTLE, JEMA, JOLLYROGER,
+MARINA, TUNINGFORK, QFDs, etc...) and approaches with multiple cloud analytics in
+varying stages of development and/or planning
+
+Goal: Generate Prioritized Input (techs/behaviors) for Research _
+
+1 5 k K “I
+
+ 
+
