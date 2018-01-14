@@ -1,0 +1,33 @@
+ 
+ 
+ 
+
+TOP SECRET/lCOMINTl/REL USA, AUSI CAN. GBR, NZU/20320108
+
+ 
+  
+ 
+
+%'
+
+we) EXOPUMP
+
+[24“ t
+
+9/
+
+(U) Inputs
+
+- (U) SOTF object from TUBE via MAILORDER.
+
+(U) Processing
+
+- (U) Extracts metadata from SOTF records for PWV XML metadata.
+- (U) Inserts SOTF objects and XML metadata into PWV.
+
+(U) Outputs
+
+- (U) PRESSUREWAVE metadata object.
+
+RFC F O IN Fl S S C N G 7| 70 70108 41
+

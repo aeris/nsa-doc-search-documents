@@ -1,0 +1,23 @@
+TOP SECRET/lCOMINTI/REL USA. AUS, CAN, GBR, NZU/20320108
+
+VPN Spin 9 Fielded Capability Upgrade
+
+ 
+
+(UIIFOUO) Exploited Protocols
+
+(TS/ISIIIREL) lPsec automatic key management protocols establish security
+associations between communicants. A security association (SA) is a relationship
+between a source and a destination that includes a session key and other
+parameters. The VPN capability exploits the following key management protocols:
+
+ 
+
+' (U) ISAKMP‘ — Internet Security Association and Key Management Protocol
+(RFC2407, RFCZ408) provides the authentication and key exchange framework.
+
+' (U) IKE — Internet Key Exchange (RFC2409) provides the authentication and
+key exchange mechanisms.
+
+0 :FC F CD IN Fl S [JR C N G 7| 70370109 5
+

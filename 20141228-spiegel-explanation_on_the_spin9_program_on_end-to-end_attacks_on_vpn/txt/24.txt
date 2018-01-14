@@ -1,0 +1,87 @@
+TOP SECRET/lCOMINTl/REL USA, AUSI CAN. GBR, NZU/20320108
+
+ 
+
+ 
+
+ 
+
+ 
+
+{
+(
+
+{ W 0
+Metadata Flow
+
+Decryption Subﬂow: iKE & ESP Sessions to TDS Decryption Flow
+
+1
+
+Decryption Subﬂow: PIQ Blade processing
+
+ML I&T (rML + APP) TU I“
+
+ 
+
+{ F etadata Flow (APP) - 21 Sep
+
+{
+
+T
+
+ 
+
+i
+
+ 
+
+ 
+
+ 
+
+ 
+
+(
+
+Decryption Subﬂow: process and recurse decrypted packets
+
+F
+F
+
+ 
+
+LegencML I&T(TMI + APP
+
+W 0
+
+ 
+
+  
+
+VPN Analytic (
+
+ 
+
+Decrypt (APP) - 19‘ Oct TML I&T
+
+VAC (9%???) PPF App (APP) & Sessionize nr [KI—mm») (I mu ,2
+VPN) Metrics (CES)
+
+TDS(TML)
+iBrid e TML I IR. l +
+
+ 
+
+ 
+
+@K“
+
+ 
+
+(“ﬂ—NW“
+
+\ 24
+
+S C IN | S S C N G 7| 7037010
+

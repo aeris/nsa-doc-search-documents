@@ -1,0 +1,70 @@
+  
+
+TOP SECRET/lCOMINTl/REL USA. AUS, CAN, GBR. NZU/20320108
+
+VPN Spin 9 Fielded Capability Upgrade
+. _
+
+(U) lPsec Modes
+
+ 
+
+ 
+
+ 
+
+Internet
+“ice I | I ll . II II 3°”
+IP:A A IP=B
+
+IP Hdr: Src=A, Dst=B ESP Header ESP Trailer
+
+(U) Transport Mode
+' (U) Original IP Header is preserved
+' (U) ESP Header and Trailer encapsulate and encrypt remaining IP Packet
+
+Alice Internet Bob
+IP=A - I II A II l ‘.
+/
+lP Hdr: Src=FA, Dst=FB ESP Header ESP Trailer
+
+(U) Tunnel Mode
+
+ 
+
+/
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+' (U) Security Gateway at source encapsulates, encrypts, and adds new IP‘ Header
+to original packet.
+
+' (U) Security Gateway at destination recovers and forwards original packet.
+' (U) Identities of traffic source and destination is concealed
+
+' (U) Extra padding also may be added to hide packet size
+
+S (I CD IN | S S C N G 7| 70370108 8
+

@@ -1,0 +1,147 @@
+Q
+
+! VPN?
+
+ 
+
+F: SOTF
+VPNB
+‘ T: Socket Connection
+C: Selected Application Sessions"
+_ F: SOTF
+
+T: Socket Connection
+C: Sessionized Decrypted Packets
+
+ 
+
+ 
+
+ 
+
+ 
+
+VPN9
+
+T: MAILORDER
+
+C: Selected Application Sessons*
+
+F: SOTF
+: m
+. ‘ Selected Application Sessions
+I are identiﬁed and selected from
+' the decrypted packets extracted
+: from the VPN tunnel and inserted
+
+into the TURMOIL input stream.
+"III"J
+
+_ _ _VPN11
+
+T: ITx (JMS)
+C: Selected Appi Sessions"
+F: XML/SOTF
+
+    
+  
+ 
+
+VPN18
+
+ 
+
+TOP‘ SECRETHCOMINTH20320108
+
+VPN SPIN 9 Decrypt Dataflows
+
+Internet Key Exchange (IKE)—p
+Encapsulating Security Payload (ESP)—>
+
+ 
+
+ 
+
+T = Transport
+C = Content
+F = Format
+
+ 
+
+Interface Key
+
+ 
+
+ 
+
+VPN1.
+
+T: Socket Connection
+
+C: Selector Hit Query/Response
+F: Binary
+
+_VPN2 _ _
+T: Secure Socket (SSL)
+C: VPN Metrics
+F: SOAP
+
+T: Secure Socket (SSL)
+C: PIQ Blade Monitoring
+F: WebSA
+
+T: Secure Socket (SSL)
+C: ESP Key Requet/Response
+F: SOAP
+
+.VPN4 __
+T: Secure Socket (SSL)
+
+C: IKE Messages
+
+F: SOAP
+
+TOP SECRETHCOMINTH20320108
+
+Dataﬂow Kev
+
+- - - - Selector Lookup
+— - VPN Metrics
+- — PIQ Blade Monitoring
+— . - — ESP Key Request/Response
+- — IKE Messages
+------ Selected Application Sessions
+
+ 
+
+Sessionized Decrypted Packets
+
+ 
+
+ 
+
+_‘yPN Metrics;
+>o.
+g
+51:: — E —b CESWatch
+EB 32
+_I 'u'.
+E
+X ﬂ
+(0 o I o I
+5
+
+VAO
+
+ 
+
+ 
+
+ 
+
+27
+
+ 
+
+ 
+

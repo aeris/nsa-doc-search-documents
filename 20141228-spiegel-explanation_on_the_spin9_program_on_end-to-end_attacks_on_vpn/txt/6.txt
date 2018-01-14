@@ -1,0 +1,20 @@
+   
+
+TOP SECRET/lCOMINTl/REL USA. AUS, CAN, GBR, NZU/20320108
+
+VPN Spin 9 Fielded Capability Upgrade
+
+(UIIFOUO) Exploited Protocols (continued)
+
+(TS/ISIIIREL) lPsec security protocols provide integrity, confidentiality, and
+authentication for higher layer IP protocols. lPsec security protocols use security
+associations previously established either manually or by automatic lkey
+management protocols (IKE). The VPN capability targets SA’s that are established
+by IKE. The VPN capability exploits the following security protocol:
+
+' (U) ESP - Encapsulating Security Payload (RFC2406) provides traffic
+confidentiality (via encryption) and optionally provides authentication and
+integrity protection.
+
+0 RFC F CD IN Fl 9 HF C N GR 7| 70370102 6
+

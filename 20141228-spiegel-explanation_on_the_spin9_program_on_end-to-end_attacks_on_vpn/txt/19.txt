@@ -1,0 +1,18 @@
+   
+
+TOP SECRET/lCOMINTI/REL USA. AUS, CAN, GBR. NZU/20320108
+
+VPN Spin 9 Fielded Capability Upgrade
+
+(U) What Spin 9 VPN will n_ot do
+
+' (S/lSI/IREL) Will not process lPsec in other protocol implementations
+' Will not perform pattern-based IKE / ESP detection.
+' Will not process TOP/500, UDP/4500, or TOP/4500 implementations.
+' Will not process IKEV2 (RFC4306).
+
+' (S/lSI/IREL) Will not process non-lPsec based VPNs
+' TU VPN capability will only process lPsec based VPNs.
+
+RFC F IN Fl S S C N G 7| 70 70108 19
+

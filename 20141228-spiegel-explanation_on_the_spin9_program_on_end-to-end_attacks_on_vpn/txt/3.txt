@@ -1,0 +1,19 @@
+   
+
+TOP SECRETHCOMINTHREL USA. AUS, CAN, GBR, NZLH20320108
+
+VPN Spin 9 Fielded Capability Upgrade
+
+(U) Spin 9 Objectives
+
+' (S/lSl/IREL) The Spin 9 Objective for the TURBULENCE (TU) VPN Private
+capability is to transition to the Blue Architecture.
+
+' (S/lSl/IREL) Spin 9 VPN will implement a redesign of the decryption flow that
+reallocates some functionality between TURMOIL, the VPN Attack Orchestrator
+(VAO), and the VPN Metrics service.
+
+' (U) Deliver all capabilities as deployable at the end of Spin 9.
+
+0 RFC F CD IN Fl S US C N GR 7| 70370108 3
+

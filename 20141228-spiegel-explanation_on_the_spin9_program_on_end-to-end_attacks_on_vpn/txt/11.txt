@@ -1,0 +1,24 @@
+TOP SECRET/ICOMINT/IRELUSA, AUS, CAN, GBP, NZL/l20320108
+
+VPN Spin 9 Fielded Capability Upgrade
+
+ 
+
+(SIISIIIREL) TU VPN Product Retrieval Mechanisms
+X (SIISIIIREL) wc2.o
+
+' An analyst uses the AGILITY interface on WC2.0 to View selected traffic as
+the intended recipient would see it.
+
+- (S/lSl/IREL) PRESSUREWAVE
+
+' The PRESSUREWAVE analytic and standing query pulls, reformats, and
+pushes metadata objects to TOYGRIPPE.
+
+' (S/lSl//REL) TOYGRIPPE
+
+' A SIGDEV analyst uses the TOYGRIPPE query interface to pull VPN
+metadata.
+
+PRFC F ll Ml H Fl [IRA AIIR A GRP N7| [170370108 11
+

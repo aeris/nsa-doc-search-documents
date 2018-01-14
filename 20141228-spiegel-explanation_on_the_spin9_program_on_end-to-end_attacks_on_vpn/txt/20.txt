@@ -1,0 +1,22 @@
+TOP SECRETHCOMINTHREL USAI AUS. CAN. GBR. NZLH20320108
+
+VPN Spin 9 Fielded Capability Upgrade
+
+ 
+
+(U) End-to-end test
+
+' (TS/lSI/IREL) IKE and ESP test packets must use coordinated security
+associations
+
+' (S//S|//REL) Use both synthetic (lab generated) and live collect test data
+' (S//SI//REL) Live test data may only be processed through PIQ blade
+
+' (TS/lSI/lREL) Test data characterization must include:
+' 5-tuples (sourcelP, destinationIP, protocol, sourcePort, destinationPort)
+' Number of IKE packets
+' Number of ESP packets
+' Unencrypted ESP payload content
+
+RFC F 1' MIN H Fl 9 R C N R 7| HQO 70108 20
+

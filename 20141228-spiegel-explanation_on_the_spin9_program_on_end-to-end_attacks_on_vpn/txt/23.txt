@@ -1,0 +1,19 @@
+TOP SECRETHCOMINTHREL USA. AUS, CAN, GBR. NZLH20320108
+
+VPN Spin 9 Fielded Capability Upgrade
+
+ 
+
+(U) Test Scenarios (continued)
+
+' (S/lSI/IREL) Miscellaneous Scenarios.
+
+' (S/lSI/IREL) Multiple, rapid (< 30 second) Phase 2 re-keys for same initiator/
+responder pair.
+
+' (Sl/SI/IREL) Two VPN sessions collected concurrently for same IP source.
+' (TS/ISl/IREL) Decryption flow can be disabled.
+' (Sl/SI/IREL) IKE Metadata flow can be disabled.
+
+RFC F O IN Fl S S C N G 7| 70370108 23
+

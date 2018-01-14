@@ -1,0 +1,32 @@
+TOP SECRET/lCOMINTI/REL USA, AUSI CAN, GBR, NZU/20320108
+
+ 
+
+(U) Inputs
+
+- (S//S|//REL) IKE packets
+- (S//S|//REL) ESP Crypto-variable (CV) Requests
+
+(U) Processing
+
+- (S//S|//REL) Generates ESP SA CV’s from IKE packets
+
+- (S//S|//REL) Matches ESP SA CV requests with generated CV’s
+- (S//S|//REL) Responds to ESP SA CV requests
+
+(U) Outputs"
+
+- (S//S|//REL) ESP Crypto-variable Response
+
+ 
+
+ 
+
+ 
+
+* Note: VAO requests that multiple ESP packets also be sent for each session
+
+ 
+
+SF F O IN Fl S US N 7| 70 70108 45
+

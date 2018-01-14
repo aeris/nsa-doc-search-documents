@@ -1,0 +1,29 @@
+TOP SECRET/lCOMINTI/REL USA, AUSI CAN. ‘GBR, NZU/20320108
+
+   
+
+.‘ t KEY ARD
+
+.. c
+(U) Inputs
+
+- (U) Application ID: VPN
+
+- (U/lFOUO) Raw Selectors: IP addresses of sessions carrying the IKE exchange
+
+- (U) Context: Packet IP addresses both source and destination (properly iidentified)
+with realm derived from network universe
+
+(U) Processing
+
+- (S/lSI/IREL) Lookup raw selectors and report hit/no-hit results.
+- (S/lSI/IREL) Return tasking for hits.
+
+(U) Outputs
+
+- (U/lFOUO) Evaluated Selectors:
+- Hit or No-Hit iindicators
+- Target match data if necessary
+
+RFC F O IN Fl S S C N G 7| 70 70108 35
+

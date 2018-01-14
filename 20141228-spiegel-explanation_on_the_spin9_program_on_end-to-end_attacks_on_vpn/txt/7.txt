@@ -1,0 +1,111 @@
+   
+
+S
+
+ 
+
+TOP SECRET/lCOMINTI/REL USA, AUSI CAN, GBR, NZU/20320108
+
+; VPN Spin 9 Fielded Capability Upgrade
+
+‘_ l ,' ,4
+. //
+1/
+
+(U) lPsec Operation (Alicel$ Bob)
+
+ 
+
+ 
+
+\ /
+/ ISAKMP/IKE Phasel ]< Unencrypted Handshake > ISAKMP/IKE Phasel \
+'AKMF’ ISAKMP/IKE Phase2 <: m} lISAKMP/IKE Phase2 'SAK”
+- -
+Security Security
+Association ESP SA Association
+Database Database
+- —'\
+Al'ce @ Cleartext > _B°b_ @
+\IP Source —V IP Destination]
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+     
+ 
+  
+    
+
+ 
+
+ 
+
+ 
+
+  
+ 
+
+    
+  
+
+  
+    
+
+ 
+
+ 
+
+  
+ 
+  
+   
+
+   
+    
+     
+ 
+
+     
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(U) An SA is identified by a 4-tuple <SrclP, DstIP, SPI, SecurityProtocol>, where
+
+the SPI (
+
+Securit Parameter Index) is chosen by Dsth for SA uniqueness.
+
+ 
+
+(U) The Bi-directional ISAKMP SA is negotiated in Phasel and protects the ESP
+key negotiations in Phase2.
+
+(U) A Uni-directional ESP SA is negotiated in Phase2 and is used to protect the
+user’s Cleartext.
+
+(U) Reverse communication (Bob Eb Alice) requires a separate ESP SA and is
+negotiated using the same ISAKMP SA as used for (Alice Eb Bob).
+
+FCFC
+
+Fl S S C N G 7| 70370108 7
+

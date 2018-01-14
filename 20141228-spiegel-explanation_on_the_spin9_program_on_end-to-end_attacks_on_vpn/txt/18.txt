@@ -1,0 +1,27 @@
+TOP SECRET/lCOMINTI/REL USA, AUS, CAN, GBR, NZU/20320108
+
+VPN Spin 9 Fielded Capability Upgrade
+
+ 
+
+(U) What Spin 9 VPN will do (continued)
+
+' (TS/lSl/IREL) ESP Decryption Flow
+
+' When IKE exchange is observed, lookup IP addresses in KEYCARD. If
+tasked for collection, fonNard to VAO.
+
+' When ESP is observed, lookup IP addresses in KEYCARD. If tasked for
+collection, request key from VAO.
+
+' If decrypt key is provided by VAO, decrypt ESP packet.
+' Send VPN decrypt metrics to CES VPN Metrics Service in CA Enclave.
+' Recurse decrypted packets to find identifiers tasked for TURMOL processing.
+' Send selected sessions to PWV via TUBE and EXOPUMP.
+' Sessionize all decrypted packets and pass to XKEYSCORE for SIGDEV.
+X" Forward all decrypted packets to W020 for additional application processing.
+
+' Process only Tunnel mode ESP packets.
+
+RFC F O IN Fl [IS S C N GR 7 msamra 18
+

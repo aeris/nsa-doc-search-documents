@@ -1,0 +1,68 @@
+T: Socket Connection
+C: IKE Records
+F: SOTF
+
+VPN8
+
+T: MAILORDER
+C: IKE Records
+F: SOTF
+
+I
+
+L .VPN1D
+
+TOP SECRETIICOMINTH20320108
+
+VPN SPIN 9 Metadata Dataflows
+
+Internet Key Exchange (lKE)—§
+
+ 
+
+ 
+
+Interface Key Dataﬂow Key
+T = Transport
+
+0 = Content
+
+F = Format
+
+ 
+
+ 
+
+ 
+
+— — IKE Records
+
+  
+ 
+
+ 
+
+ 
+
+.\‘
+
+VPN12 , -- 7 VPN13 T
+T: lTx(JMS) ' VPN Analyt'c‘ T: IVEAILORDER
+
+ 
+
+T: ITx (JMS)
+C: IKE Records
+F: XMUSOTF
+
+ 
+
+C: IKE Records C: IKE Records
+F: SOTF F: TGIF
+
+ 
+
+TOP SECRETIICOMINTH20320108 26
+
+ 
+

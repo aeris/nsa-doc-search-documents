@@ -1,0 +1,128 @@
+ 
+
+TOP SECRETIICOMINTII20320108
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+segeo --i-- we - vaMeIrIcs vaAnaIyIIc cesweeh rereerppe
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IKE I I I I I I I I I I
+Packer-N I . . I I I ' I I I I
+I ) Aggregate/SeSSIonIzeI I I I I I I I
+I I I I | I I I I I
+G—IKE Metadata——pI I I I I I I I
+I I ¢—IKE MetadaIa—pI I I I I I I
+' IKE Select .I I o—IKE MétadatII—OI I I I I
+Query I I I I Q—IKE Metadala—Pl I I
+TRANSFORM or __ -Id-IKE Select“ I I I | I m—IKE Meladata—QI
+(TRANSFORM ‘_ LI Response I I I I I I I
+and SURVEY} "'7 I I I I I I I I I
+D AggregaIte I I I I I I
+I I
+. I I I I I
+'.H,‘ I IKIIE Message. I DI I I 9 Socket
+I I I I I I
+l 'I - A n\ I
+ESP IItlI, I I VPN Memos-(SS, .. , I I I .I ® MAILORDER
+._ a I I I I I I
+PackeI “ISP Select I I I I I I 0
+Query I I . I I I ISLANDTRANSPORT (JMS)
+I I
+I I | | | I
+TRANSFORM or ,, I ESP SeIeC : ' I I I IZH'I Secure Socket Layer (HTTPS)
+(TRANSFORM {I *4 ResponseaI I I I I I “ " I
+and_SURVEY) I__ I I I I I I .
+IAI ) AggregaIate I I I I I I
+, I I
+.H-I. I ESP Key ReqUQW—H : E I
+‘v' I I I I I I I I
+. I | l | I
+:H :——l—;VPN MetricerserAPI I I I pI I
+I I I I I I I
+I | | I“ I I
+Key :-' eIQ—I—ESP Key Respon- I H.’ I I I
+Recovered "’I I I I I I I I
+I DecrypItion I I I I I I
+II. I I I I I
+:H: I I VPN Metrics (SOAP) I I I H I
+I I I I I I I
+I l I |
+I ! I I I I
+if (TRANSFORM and SURVEY) Recursion for Sessionization I I I I
+I I I I I I I I
+I '. I I ' I I I
+ISessionized Decrypted Packets—DI I I I ' '
+I I I I I I I
+I I I I I I I
+I l I I I
+IE2 if (TRANSFORM) Recursion for Tunnel Selection and Application Processing I I I
+I I I I I I I
+I I I I I I
+Selected I I I I I I
+Application Sessions I" Selected I I I I I
+I w Application Sessions ' ' Selected I I I
+I I — . . . —>I I I
+I I I I Appllcatlon SeSSIons I I I
+- I . I I I
+(Hi I I I PIQ Blade Monitoring I I b:
+H I I I I I I ' '
+TOP SECRETIICOMINTII20320108 28
+
+ 
+

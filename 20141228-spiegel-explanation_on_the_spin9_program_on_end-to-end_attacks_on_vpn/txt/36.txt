@@ -1,0 +1,22 @@
+    
+
+TOP SECRET/lCOMINT/IREL USA. AUS, CANl GBR, NZL/l20320108
+
+/ TURMOIL VPN Metadata Processing
+(U) Inputs
+- (U) Raw packets
+
+(U) Processing
+
+- (S/lSI/IREL) Detect IKE exchanges at UDP source and destination ports 500
+
+- (S/lSI/IREL) Extract IP addresses, responder cookie, message ID, ISAKMP
+payload
+
+- (S/lSI/IREL) Bundle a|| IKE detect messages with SRI
+
+(U) Outputs
+- (S/lSI/IREL) SOTE object containing metadata and IKE packets
+
+QFCRF l/COMIN l/RFI SA A 9 AN GRR N7|ll70370108 36
+

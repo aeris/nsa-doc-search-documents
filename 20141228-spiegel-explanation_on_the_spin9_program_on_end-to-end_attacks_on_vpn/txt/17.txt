@@ -1,0 +1,26 @@
+   
+
+TOP SECRET/lCOMINTI/REL USA. AUS, CAN, GBR. NZU/20320108
+
+VPN Spin 9 Fielded Capability Upgrade
+
+(U) What Spin 9 VPN will do
+' (S/lSl/lREL) Packet Detection
+' Detect IKE exchanges
+' Detect ESP packets
+' (S/lSl/lREL) lPsec Metadata Flow
+
+' Bundle all detected IKE with SRI and send to PWV
+
+ 
+
+Reference: VPN Spin 9 Sequence Diagram
+
+ 
+
+ 
+
+ 
+
+RFC F IN Fl S S C N G 7| 70370108 17
+

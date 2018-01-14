@@ -1,0 +1,32 @@
+TOP SECRETHCOMINTHREL USA, AUS, CAN, GBR, NZLH20320108
+
+. XWEALTHYCLUSTER 2.0
+
+ 
+
+(U) Inputs
+
+- (S//S|//REL) Bundled decrypted packets in SOTF format via MAILORDER.
+(U) Processing
+
+- (U) Signal identification
+
+- (S//S|//REL) Protocol recognition, processing and sessionization
+- (C/lSI/IREL) Application identification and processing
+
+- (C/lSI/IREL) Link characterization aggregation
+
+- (U//FOUO) Filtering, selection, and forwarding
+
+- (U//FOUO) Strong selection
+
+° (S//S|//REL) Persona session association
+
+° (S//S|//REL) Session association
+
+° (S//S|//REL) IP Decompression
+
+- (S//S|//REL) Contact chaining
+
+0 SF F Fl S S N R 7| ?f 90108 47
+

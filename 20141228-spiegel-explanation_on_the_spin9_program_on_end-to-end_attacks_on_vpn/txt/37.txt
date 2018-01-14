@@ -1,0 +1,45 @@
+   
+
+TOP SECRET/lCOMINTI/REL USA. AUSI CAN, GBR, NZU/20320108
+
+) TURMOIL VPN Decrypt Processing
+
+'
+(U Inputs
+
+- (U) Raw packets
+- (U) Selection results from KEYCARD
+
+(U) Processing
+
+- (S//S|//REL) Detect ESP packets and extract IP addresses and SPI
+
+- (S//S|//REL) Match tasked IKE exchange packets with an ESP packet stream
+
+- (S//S|//REL) Generate UUID and assign to VPNID for unique exchange ID
+
+- (S/lSI/IREL) Send Crypto-variable Request to the CES VAO
+
+- (TS/lSI/IREL) If the key is returned, decrypt the ESP packets
+
+- (TS/lSI/IREL) Send decrypt metrics to the CES VPN Metrics service
+
+- (TS/lSI/IREL) Recurse all decrypted packets from the VPN.
+
+- (TS/lSI/IREL) Sessionize all decrypted packets, pass sessions to XKEYSCORE
+
+X (TS/lSI/IREL) FonNard all decrypted packets to a WCZ.O for application processing.
+
+(U) Outputs
+
+X (TS/lSI/IREL) Decrypted packets to a WCZ.O
+
+- (TS/lSI/IREL) Decrypt metrics to VAO
+
+- (TS/lSI/IREL) Sessionized decrypted packets to XKEYSCORE
+- (S//S|//REL) Selected application SOTF
+
+ 
+
+RFC F O IN Fl HS S C N GR 7| 70 70108 37
+

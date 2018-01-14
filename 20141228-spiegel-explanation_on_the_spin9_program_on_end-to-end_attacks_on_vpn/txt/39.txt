@@ -1,0 +1,39 @@
+   
+
+TOP SECRET/lCOMINTl/REL USA, AUSI CAN, GBR, NZU/20320108
+
+) TUBE (ID and Decryption)
+
+"
+U) Inputs
+
+ 
+
+(U) SOTF objects.
+
+(U) Processing
+
+(C/lSI/IREL) Defragments fragmented sessions, creating an SOTF object with the
+complete session.
+
+(C/lSI/IREL) Examines the BME to determine if the session should go to PWV.
+(C/lSI/IREL) Creates a new SOTF object, placing the received or defragged
+SOTF object into the data section. The BME of the newly created object contains
+classification metadata*, as well as certain fields such as sessionID and
+
+signalUpTime replicated from the BME of the original received SOTF object.
+* NOTE: Classification metadata needs more discussion to determine appropriate
+origination. TURMOIL may assume some responsibilities.
+
+(U) Determines appropriate routing (MAILORDER FDI) and forwards the new
+SOTF object to EXOPUMP via MAILORDER.
+
+(U) Optionally (configurable) wrap multiple objects destined for EXOPUMP/PWV
+into one MAILORDER file to reduce the number of individual files transmitted.
+
+(U) Outputs
+
+(U) SOTF objects.
+
+RFC F IN Fl S S C N G 7| 70370108 39
+

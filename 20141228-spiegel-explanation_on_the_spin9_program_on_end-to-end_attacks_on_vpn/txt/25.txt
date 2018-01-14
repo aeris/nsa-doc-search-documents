@@ -1,0 +1,178 @@
+ 
+
+   
+
+VPNQI
+T: MAILORDER
+C: Selected Application Sessons*
+F: SOTF
+VPN8 ;
+T: MAILORDER u * m. .
+_ . Selected Application Sessmns
+C. IKE Records . . .
+F' SOTF I are Identified and selected from
+' ' the decrypted packets extracted
+: from the VPN tunnel and inserted
+‘ ' into the TURMOIL input stream.
+
+._ .. VPN11
+"T: ITx (JMS)
+C: Selected Appi Sessions*
+F: XML/SOTF
+_VPN10
+T: lTx (JMS)
+
+_VPN7
+
+T: Socket Connection
+0: Sessionized Decrypted Packets
+F: SOTF
+
+VPN5
+
+TOP SECRETIICOMINTII20320108
+
+VPN SPIN 9 Dataflows
+
+Internet Key Exchange (lKE)——§
+Encapsulating Security Payload (ESP)——>
+
+  
+  
+
+ 
+
+’: Socket Connection
+C: IKE Records
+F: SOTF
+
+VPN6
+‘I T: Socket Connection
+C: Selected Application Sessions*
+F: SOTF
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+C: IKE Records
+
+ 
+
+ 
+
+ 
+
+ 
+
+Interface Key
+T = Transport
+
+C = Content
+F = Format
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VPN1.
+
+T: Socket Connection
+
+C: Selector Hit Query/Response
+F: Binary
+
+ 
+
+Dataflow Key
+
+0 - - ‘SelectorLookup
+— - VPN Metrics
+
+- — PIQ Blade Monitoring
+— - - — ESP Key Request/Response
+
+- — IKE Messages
+------ Selected Application Sessions
+— — IKE Records
+Sessionized Decrypted Packets
+
+ 
+
+ 
+
+ 
+
+_VPN2_ _
+
+T: Secure Socket (88L)-
+C: VPN Metrics
+
+F: SOAP
+
+ 
+
+_VPN18
+
+T: Secure Socket (SSL)
+C: PIQ Blade Monitoring
+F: WebSA
+
+T: Secure Socket (88L)-
+C: ESP Key Requet/Response
+F: SOAP
+
+_VPN4
+T: Secure Socket (88L)—
+C: IKE Messages
+
+ 
+
+ 
+
+TOP SECRETIICOMINTII20320108
+
+  
+
+ 
+
+l «1“.-- x
+_i “12‘—~__. :11?
+VPN Metrics
+>
+g
+3 — (:21 —> CES Watch
+EB 92
+3 if.
+X Q ->
+Q
+VAO
+- # if
+
+ 
+
+ 
+
+ 
+
+F: SOAP F; 5 _ :Ea‘
+\T‘OYGRIPP'E
+¥PIIT12(JMS) VPN Analytic ’ \TI-PIIIIIIAILORDER
+I X .
+C: IKE Records C: IKE Records
+F1 SOTF F: TGIF
+
+25
+

@@ -1,0 +1,21 @@
+TOP SECRET/lCOMINT/IREL USAI AUSI CAN, GBR. NZU/20320108
+
+VPN Analytic
+
+ 
+
+(U) Inputs
+
+- (Sl/SI/IREL) Persistent query to detect VPN metadata/IKE packets in
+PRESSUREWAVE
+- (Sl/SI/IREL) SOTF files containing IKE packets
+
+(U) Processing
+° (Ul/FOUO) Convert SOTF to TGIF records
+(U) Outputs
+
+° (Sl/SI/IREL) MAILORDER files with TGIF records containing intercepted IKE
+packets
+
+SFC F [ICC IN [I Fl US US C N GR N7lll9n. 90108 43
+
