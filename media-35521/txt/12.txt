@@ -1,0 +1,27 @@
+TOP SECRET/ISIIIREL TO USA, AUS, CAN, GBR, NZL
+
+Cyber applications
+
+- Other Cyber applications:
+
+— Multiple examples of FIS data exfiltration using SSL have been found using
+FLYING PIG.
+
+— In particular, certificates related to LEGION JADE, LEGION RUBY, and
+MAKERSMARK activity were found on FLYING PIG using known signatures
+
+— These were then used to find previously unknown servers involved in
+exfiltration from US companies.
+
+— FLYING PIG has also been used to identify events involving a mail server used
+by Russian Intelligence.
+
+TOP SECRET/ISIIIREL TO USA, AUS, CAN, GBR, NZL
+
+9""‘T R—mrﬁjﬂﬂc THIH wrnpvannN In rrrr u DDDDDDDD F nnnnnn INFD RRRRR omnmnnnw LFGIEL ATIDN. W
+
+-‘ ‘ R nnnnnnn rum 9 uuuuuuuu ECHD on G ;
+.'_ C EEEEEEEEEEEEEEEEEE F' DDDDDDDDDDDDDDD 'DR MANAGED BY EBHU, GCHQ
+
+T EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE . BUT ECHO IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+

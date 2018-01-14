@@ -1,0 +1,90 @@
+TOP SECRETI'I'SII'IREL TO USA, AUS, CAN, GBR, NZL
+
+Query by certificate metadata
+FLYING PIG
+
+TLS/SS L KNOWLEDGE BASE
+HRA Justification Query FLYING PIG - general 55L toolkit
+
+ 
+
+\
+Quent QUICK ANT - Tor events QFD Prototype UWl'IBFi—ICTR-NE
+
+Query FLYING PIG Server certificate fields to search within:
+19! network [ certrficate ﬁeld %rnail.m SUbJeCt common name F
+Query as: iii Client IP 1:: Server IP _ Both
+
+Subject organisation name i
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+or; 6. Network [36. 1.2.3.624] 1:33;; 333.212.3331“ ll
+. .'. ' ' a o [_
+or. 9 Server Certificate [e.g, foexamolecom (use lo for Wildcards)] REA modulus I
+Run Query!
+4'
+1-50f500items 10|26|50|100 1 2 z: 4 5 6 7 > hi o
+Server IP Host name First seen Last seen 3 Count wfe _Count all time
+25th Nov 3
+104.105 swa.mail.ru 2011-10-13 16:05:53.0 2011-11-25 21:11:59.0 6005663 42640739
+104.104 5wa.mai|.ru 2011-10-13 17:29:10.0 2011-11-25 21:11:55.0 6073103 36025411
+134.201 fc.el‘.d4.l:f.bd,al.top:mall.ru 2011-10—13 21:43: 10.0 2011—11-25 21:10:49.0 404-9743 19360920
+135.13 t005.mail.ru 2011-10-14 20:00:00.0 2011-11-25 21: 12:05.0 3006068 14160963
+135.12 top3.mall.ri.i 2011-10-14 20:00:00.0 2011-11-25 21:10:40.0 2400950 12306999
+Tip 1: Right click on a row to find all server lPs that serve that certificate! Tip 1: Right click on a server IP to
+Tip 2: Click on the disk icon in the title bar to download data in CSV format! explore 't further!
+Tip 3: Double-dick on a field to enable copy and pastel 1 . 25 of 500 1 g 3 4
+Tip 4: Change displayed columns ('Basic' is default; ‘Aclvanced' adds RSA Modulus and cipher suite distribution columns): Basic columns Advanced columns items 5 i5 7 > N
+, Server IP Cert Cert
+1 - 10 of 70 items 10 | 25 | 50 | 100 1 3 3 4 5 6 7 i N 4 count count all
+_ wle time
+Full First seen Last seen Count Count all Valid from Valid to Subject common Subject Subject org Issuer common Issuer Issuer org Self
+Certiﬁcate wle time name country . name I name country name sinne
+25th . I I
+Nov . . . 3 E , 7 -' i IF‘ funl'ierl
+300203C03002|2011—09-22 2011-11-25 2952729 16630950 2011-01-31 2012—03-27 *.rnail.ru ru llc n'lail.ru thawte ssl ca us thawtel inc. N
+13:17:32 19:01:59 00:00:00 23:59:59 ”7‘1 333592 1052513
+300203613002f2011-09-22 2011-11-25 249926 1005232 2010-01-21 2011-02-20 *.maii.ru ru II: mai|.ru thawte premium 2a thawte N 191213 330212 1333517
+14:05:50 10:59:32 00:00:00 23:59:59 server ca consulting 00 13415 333599 2495915
+300203033002i2011-10-07 2011-11-25 10059 30520 2011-09-25 2013-11-23 *.money.rnail.ru ru IIc mail.ru thawte ssl ca us thawtei inc. N 13417 297233 2325133
+20:29:55 10:53:40 00:00:00 23:59:59 104.15 294437 2395012
+300203513002E2011-09-23 2011-11-25 976 0517 2010-01-25 2012-01-27 rnail.ru.i5 i5 mai|.ru.i5 us equifax N 109160 163414 659037
+17:01:50 15:40:05 15:42:05 10:12:59 134.77 123533 550335
+300202C03002l2011—05-22 2011-09-06 0 1432 2011-03-04 2012-05-03 mailru-sibru us mail.ru—sib.ru us Y 13474 113555 515159
+00:14:21 06:15:36 06:42:12 06:42:12 , 13435 112574 533512
+300204303002E2011-10-17 2011-11-25 22 1236 2011-05-27 2012-07-25 rnailru-comru mai|.ru-corn.ru thawte dv ssl ca us thawte. inc. N 104.76 113325 590093
+14:09:52 10:50:10 00:00:00 23:59:59 135 55 3779 5023
+300203C43002l2011—10-03 2011-11-25 501 1150 2010-02—13 2012-11-00 rnxl.shogo-rnail.ru ru shogo shogo.ru ru shogo N 13556 3740 7353
+00:05:24 17:04:02 14:19:06 14:19:06 ‘
+300204153002E2011-11-01 2011-11-25 246 693 2011-09-15 2012-09-14 Iimas.maii.ru ru isp.cegedim.fr fr oegedim N 134151 3554 3493
+07:36:53 14:26:29 11:47:51 11:47:51 63121 2532 4337
+300202643062t2011-10-14 2011-11-21 201 306 2011-10-05 2014-10-04 rnoder.foto.mail.ru ru rnail.ru moder.i‘oto.mail.ru ru mall.rU Y 13643 2523 9226
+10:20:34 05:13:34 00:07:34 00:07:34 134.90 2360 9165
+300204153002E2011-10-31 2011-11-25 99 259 2011-09-15 2012-09-14- auth.mail.ru ru isp.cegedim.fr fr oegedim N 17909 2227 7600
+14:14:12 15:45:50 11:47:51 11:47:51 17930 2051 7320
+136.04 1901 0442 v
+
+ 
+
+L, TOP SECRET/ISIIIREL TO USA, AUS, CAN, GBR, NZL
+
+ll. ' . k
+. mo lenlllo Tm] mrulMA'rinN ll lxme‘r unozn THE Fnzzncm or lNFOIMATID Min 1 N IHATIEIN LEBIILAYIDN. W
+Dill ‘ I REFER m-nr FDIA quzaica TD ism-In cm GCH
+
+mef‘} I CONTEINI INTELLECTUAL FIUFEm OWNED AND UR MANAGED IV -
+ML THE MATERIAL MAY BE DIBEENINAYED THROUOHOUT THE RECIPIENT OROANIEATION. HUT BCHD PERMISSION MUST BE OBTAINED FOR OIEBEMINATION OUTSIDE THE ORGANISATION.
+

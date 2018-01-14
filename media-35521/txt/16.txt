@@ -1,0 +1,26 @@
+TOP SECRET/ISIIIREL TO USA, AUS, CAN, GBR, NZL
+
+Other HUSH PUPPY datasets
+
+HUSH PUPPY also makes use of Yahoo T-cookies to do correlations
+A T-cookie contains the IP address of the client as Yahoo sees it
+
+Hence a T cookie coming from a private IP can give the public IP of the
+NAT or proxy
+
+In addition, HUSH PUPPY uses the following data to help verify results
+
+- Kerberos & Lotus Notes: Domains, organisations, departments, countries,
+machine names, user names
+
+- HTTP: Heuristic detection of Intranet web servers
+- SSL: Issuers, subjects, countries
+- SMTP: From & to domains
+
+TOP SECRET/ISIIIREL TO USA, AUS, CAN, GBR, NZL
+T HHHHHHHHHHHHHHHHHHHH I DDDDDDDD F nnnnnn I NNNNNNN on ACT 2000 IFDIA) AND Maw a: r DDDDDDDDDDDDDD LIK wrnnmnnnn LFGISLATIDN. W
+W ((3
+
+D
+n nnnnnnn rum .3 uuuuuuuu ECHO cm
+

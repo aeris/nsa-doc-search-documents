@@ -1,0 +1,47 @@
+TOP SECRET/ISIIIREL TO USA, AUS, CAN, GBR, NZL
+
+FLYING PIG - TLSISSL Background
+
+— TLSISSL (Transport Layer Security I Secure Sockets Layer)
+provides encrypted communication over the internet
+
+— Simple TLSISSL handshake:
+
+Client Server
+
+Client hello
+Server hello i
+
+Certificate
+Server hello done
+
+Ml
+
+Client key exchange
+
+Change cipher spec
+
+Handshake finished
+
+\Hnlv
+
+Change cipher spec
+Handshake finished
+
+Application data
+
+AM
+
+>
+
+ 
+
+TOP SECRET/lSI/IREL TO USA, AUS, CAN, GBR, NZL
+
+TWT R‘lﬂﬁG-‘WO THIB wranAnon l5 EXEMPT unoep THE FREEDOM or INFORMATI NATION LEﬁstATIDN,
+" Rare: ANY rum nuzmzs To 5cm: n
+CDNYA‘NS lNTELLECTLIAL PHDPEHYY OWNED AND-'Uﬂ MANAGED BY BBHQ
+3 T EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE . auT ECHO IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+
+(ﬁe?
+

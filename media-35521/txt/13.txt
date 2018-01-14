@@ -1,0 +1,27 @@
+TOP SECRET/ISIIIREL TO USA, AUS, CAN, GBR, NZL
+
+Identification of malicious TLSISSL
+
+° Can identify malicious TLSISSL using signatures if known
+
+- However this approach generally does not allow discovery of new threats
+
+- Alternative is to use “behavioural” features to automatically identify potentially
+malicious traffic
+
+- Features currently being investigated include:
+
+— Certificates with same subject but different issuers — may be indicative of
+Diginotar—style attack
+
+— Beaconing in TLSISSL (indicative of botnetsIFlS implants)
+— Number of client cipher suites offered
+
+— Repeated identical random challenges
+
+TOP SECRET/ISIIIREL TO USA, AUS, CAN, GBR, NZL
+
+ 
+
+€6ch
+

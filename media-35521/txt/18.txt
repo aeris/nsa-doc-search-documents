@@ -1,0 +1,25 @@
+TOP SECRET/ISIIIREL TO USA, AUS, CAN, GBR, NZL
+
+Examples of operational successes
+
+A large private network related to the Afghan government was
+identified, with ~800,000 events correlated.
+
+Examination of the case notations suggested it belonged to the
+Afghan MOD
+
+— A Kerberos domain mod.loca|
+— HTTP servers *.mod.loca| & mail
+— SSL certificates with the subject “Ministry of Defense” and the geo “AF”
+
+Results confirmed by analysis of content on XKEYSCORE
+
+A VSAT private network belonging to a Ministry of Foreign Affairs
+was identified
+
+NOSEY PARKER events were correlated with SSE
+
+TOP SECRET/ISIIIREL TO USA, AUS, CAN, GBR, NZL
+
+ 
+
