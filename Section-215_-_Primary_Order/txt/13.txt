@@ -1,0 +1,34 @@
+W
+
+receive appropriate and adequate training and guidance regarding the procedures and
+restrictions for the handling and dissemination of such information.15 NSA shall apply
+the minimization and dissemination requirements and procedures of Section 7 of
+‘United States Signals Intelligence Directive SP0018 (USSID 18) issued on January 25,
+2011, to any results from queries of the BR metadata, in any form, before the
+information is disseminated outside of NSA in any form. Additionally, prior to
+disseminating any US. person information outside NSA, the Director of NSA, the
+Deputy Director of NSA, or one of the‘officials listed in Section 7.3(c) of USSID 18 (Leg
+the Director of the Signals Intelligence Directorate (SID), the Deputy Director of the SID,
+the Chief of the Information Sharing Services (ISS) office, the Deputy Chief of the ISS
+office, and the Senior Operations Officer of the ‘National Security Operations Center)
+must determine that the information identifying the US. person is in fact related to
+counterterrorism information and that it is necessary to understand the
+counterterrorism information or assess its importance.16 Notwithstanding the above
+requirements, N SA may share results from intelligence analysis queries of the BR
+
+metadata, including US. person identifying information, with Executive Branch
+
+ 
+
+15 In addition, the Court understands that NSA may apply the full range of SIGINT analytic
+tradecraft to the results of intelligence analysis queries of the collected BR metadata.
+
+16 In the event the Government encounters circumstances that it believes necessitate the
+alteration of these dissemination procedures, it may obtain prospectively—applicable
+modifications to the procedures upon a determination by the Court that such modifications are
+appropriate under the circumstances and in light of the size and nature of this bulk collection.
+
+W
+
+13
+

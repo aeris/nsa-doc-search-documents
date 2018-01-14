@@ -1,0 +1,28 @@
+W
+
+appropriate technical and management controls, that queries of the BR metadata for
+intelligence analysis purposes will be initiated using only a selection term that has been
+RAS-approved. Whenever the BR metadata is accessed for foreign intelligence analysis
+purposes or using foreign intelligence analysis query tools, an auditable record of the
+I activity shall be generated.6
+
+(i) Except as provided in subparagraph (ii) below, all selection terms to be
+used as ”seeds” with which to query the BR metadata shall be approved by any
+of the following designated approving ofﬁcials: the Chief or Deputy Chief,
+Homeland Security Analysis Center; or one of the twenty specially—authorized
+Homeland Mission Coordinators in the Analysis and Production Directorate of
+the Signals Intelligence Directorate. Such approval shall be given only after the
+designated approving official has determined that based on the factual and
+practical considerations of everyday life on which reasonable and prudent
+
+persons act, there are facts giving rise to a reasonable; articulable suspicion (RAS)
+
+that the selection term to be queried is associated With—
+
+ 
+
+6 This auditable record requirement shall not apply to accesses of the results of RAB-approved
+queries. .
+
+    
+

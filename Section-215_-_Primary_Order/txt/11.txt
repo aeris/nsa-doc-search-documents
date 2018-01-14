@@ -1,0 +1,32 @@
+WSW
+
+~ (iv) Queries of the BR metadata using RAS—approved selection terms may
+. occur either by manual analyst query or through the automated query process
+
+described below.“ This automated query process queries the collected BR
+metadata (in a ” collection store”) with RAS-approved selection terms and returns
+the hop-limited results from those queries to a ”corporate store.” The corporate
+store may then be searched by appropriately and adequately trained personnel
+for valid foreign intelligence purposes, without the requirement that those
+searches use only RAB-approved selection terms. The specifics of the automated
+
+query process, as described in the- Declaration, are as follows:
+
+ 
+
+ 
+
+‘1 This automated query process was initially approved by this Court in its_ 2012
+Order amending docket number
+
+12 As an added protection in case technical issues prevent the process from verifying that the
+most up-to-date list of RAS—approved selection terms is being used, this. step of the automated
+process checks the expiration dates of RAS—approved selection terms to conﬁrm that the
+approvals for those terms have not expired. This step does not use expired RAB—approved
+selection terms to create the list of ”authorized query terms” (described below) regardless of
+whether the list of RAS—approved selection terms is up-to—date.
+
+49mm
+
+11,
+

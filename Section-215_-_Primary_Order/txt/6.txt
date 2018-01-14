@@ -1,0 +1,32 @@
+46W
+
+but the results of any such queries will not be used for intelligence analysis purposes.
+An authorized technician may access the BR metadata to ascertain those identifiers that
+may be high volume identifiers. The technician may share the results of any such
+access, i.e., the identifiers and the fact that they are high volume identiﬁers, with
+authorized personnel (including those responsible for the identification and defeat of
+high volume and other unwanted BR metadata from any of NSA’s various metadata
+repositories), but may not share any other information from the results of that access for
+intelligence analysis purposes. In addition, authorized technical personnel may access
+the BR metadata for purposes of obtaining foreign intelligence information pursuant to
+the requirements of subparagraph (3)C below.
+
+C. NSA shall access the BR metadata for purposes of obtaining foreign
+intelligence information only through contact chaining queries of the BR metadata as
+_ described in paragraph 17 of the Declaration of—, attached to the
+application as Exhibit A, using selection terms approved as ”seeds’i pursuant to the
+
+RAS approval process described below.5 NSA shall ensure, through adequate and
+
+ 
+
+5 For purposes of this Order, ”National Security Agency” and ”NSA personnel” are deﬁned as
+any employees of the National Security Agency/Central Security Service (”NSA/CSS” or
+"NSA”) and any other personnel engaged in Signals Intelligence (SIGINT) operations
+authorized pursuant to FISA if such operations are executed under the direction, authority, or
+control of the Director, NSA/Chief, CSS (DIRNSA). NSA personnel shall not disseminate BR
+metadata outside the NSA unless the dissemination is permitted by, and in accordance with, the
+requirements of this Order that are applicable to the NSA.
+
+49W
+

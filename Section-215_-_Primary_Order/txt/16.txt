@@ -1,0 +1,30 @@
+(vi) At least once during the authorization period, NSA’s OGC and
+
+NSD/Do] shall review a sample of the justifications for RAS approvals for
+
+selection terms used to query the BR metadata. I I
+
+(vii) Prior to implementation, all proposed automated query proceSSes
+shall be reviewed and approved by NSA’s OGC, 1\lSD/Do],and the Court.
+
+G. Approximately every thirty days, NSA shall file With the Court a report that .
+includes a discussion of NSA’s application of the RAS standard, as well as NSA’s
+implementation of the automated query process. In addition, should the United States
+seek renewal of the requested authority, NSA shall also include in its report a
+description of any significant changes proposed in the way in which the call detail
+records would be received from the Providers and any significant changes to the
+
+. controls NSA has in place to receive, store, process, and disseminate the BR metadata.
+
+Each report shall include a statement of the number of instances since the
+preceding report in which NSA has shared, in any form, results from queries-of the BR
+metadata that contain United States person information, in any form, with anyone
+outside NSA. For each such instance in which United States person information has
+been shared, the report shall include NSA’s attestation that one of the officials
+authorized to approve such disseminations determined, prior to dissemination, that the
+information wasrelated to counterterrorism information and necessary to understand
+
+49W
+
+16
+

@@ -1,0 +1,28 @@
+that sOftware and other controls (including user authentication services) can restrict I
+access to it to authorized personnel who have received appropriate and adequate
+
+training with regard to this authority. NSA shall restrict access to the BR metadata to
+
+authorized personnel who have received appropriate and adequate training.3
+
+Appropriately trained and authorized technical personnel may access the BR metadata
+
+to perform those processes needed to make it usable for intelligence analysis. Technical
+
+personnel may query the BR metadata using selection terms4 that have not been RAS-
+
+approvecl (described below) for those purposes described above, and may share the
+
+results of those queries with other authorized personnel responsible for these purposes,
+
+ 
+
+or use of the BR metadata in the event of any natural disaster, man-made emergency, attack, or
+other unforeseen event' is in compliance with the Court’ 5 Order.
+
+3 The Court understands that the technical personnel responsible for NSA’s underlying
+corporate infrastructure and the transmission of the BR metadata from the speciﬁed persons to
+NSA, will not receive special training regarding the authority granted herein.
+
+ 
+

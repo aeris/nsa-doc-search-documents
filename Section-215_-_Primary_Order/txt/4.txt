@@ -1,0 +1,32 @@
+499W
+thereafter for the duration of this order, unless otherwise ordered by the Court, an
+electronic copy of the following tangible things: all call detail records or “telephony
+metadata” created by- for communications (i) between the United States and
+abroad; or (ii) wholly within the United States, including local telephone calls. -
+— I
+_
+
+(fl) With respect to any information the FBI receives asa result of this Order
+(information that is disseminated to it by NSA), the FBI shall follow as minimization
+procedures the procedures set forth in The Attorney General’s Guidelines for Domestic FBI
+Operations (September 29, 2008).
+
+(3) With respect to the information that NSA receives as a result of this Order, I
+NSA shall strictly adhere to the following minimization procedures: '
+
+A. The government is hereby prohibited from accessing business record
+metadata acquired pursuant to this Court's orders in the above-captioned docket and its
+
+_ predecessors (”BR metadata”) for any purpose except as described herein. A
+
+B. NSA shall store and process the BR metadata in repositories within secure
+
+networks under NSA’s control.2 The BR metadata shall carry unique markings such
+
+ 
+
+2 The Court understands that NSA will maintain the BR metadata in recovery back—up systems
+for mission assurance and continuity of operations purposes. NSA shall ensure that any access
+
+W
+
