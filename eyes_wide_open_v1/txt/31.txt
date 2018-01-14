@@ -1,0 +1,53 @@
+Chapter Three — Holding the Five Eyes to account
+
+ 
+
+The recent revelations of global surveillance practices have prompted a fundamental re-
+examination of the responsibility of States under international law with respect to cross-
+border surveillance. The patchwork of secret spying programmes and intelligence-
+sharing agreements implemented by parties to the Five Eyes arrangement constitutes an
+integrated global surveillance arrangement that now covers the majority of the world’s
+communications.
+
+At the heart of this arrangement are carefully constructed legal frameworks that provide
+differing levels of protections for internal versus external communications, or those
+relating to nationals versus non-nationals. These frameworks attempt to circumvent
+national constitutional or human rights protections governing interferences with the right
+to privacy of communications that, States contend, apply only to nationals or those
+within their territorial jurisdiction.
+
+In doing so, the Five Eyes states not only defeat the spirit and purpose of international
+human rights instruments; they are in direct violation of their obligations under such
+instruments. Human rights obligations apply to all individuals subject to a State’s
+jurisdiction.107 Jurisdiction extends not only to the territory of the State, but to anyone
+within the power and effective control of the State, even if they are outside the
+territory.108 It is argued here that jurisdiction extends to situations where a State
+interferes with the right to privacy of an individual whose communications are
+intercepted, stored or processed within that State’s territory. In such circumstances, the
+State owes obligations to that individual regardless of their location.
+
+By understanding State jurisdiction over human rights violations in this way we can give
+effect to international human rights obligations in the digital age. Through the concept of
+”interference-based jurisdiction", whereby, subject to permissible limitations, States owe
+a general duty not to interfere with communications that pass through their territorial
+borders, mass surveillance is cognisable within a human rights framework in a way that
+provides rights and remedies to affected individuals. Without such a perspective on
+responsibility for violations that properly reflects the nature and scope of Five Eyes
+surveillance, and the way in which privacy violations occur, States will continue to
+conduct surveillance in a way that renders human rights obligations meaningless.
+
+ 
+
+‘07 ICCPR, Article 2: ”Each State Party to the present Covenant undertakes to respect and to ensure to all
+individuals within its territory and subject to its jurisdiction...”; ECHR, Article 1: “The High Contracting
+Parties shall secure to everyone within their jurisdiction the rights and freedoms defined in Section | of this
+Convention,” American Convention on Human Rights, Article 1: ”The States Parties to this Convention
+undertake to respect the rights and freedoms recognized herein and to ensure to all persons subject to
+theirjurisdiction the free and full exercise of those rights and freedoms, without any discrimination for
+reasons of race, color, sex, language, religion, political or other opinion, national or social origin,
+economic status, birth, or any other social condition."
+
+‘08 Human Rights Committee General Comment 51, para 10.
+
+30
+

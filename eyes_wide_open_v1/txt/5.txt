@@ -1,0 +1,52 @@
+Chapter 1 — Understanding the Five Eyes
+
+ 
+
+The birth of the Five Eyes alliance
+
+Beginning in 1946, an alliance of five countries (the US, the UK, Australia, Canada and
+New Zealand) developed a series of bilateral agreements over more than a decade that
+became known as the UKUSA (pronounced yew-kew-zah) agreement, establishing the
+Five Eyes alliance for the purpose of sharing intelligence, but primarily signals
+intelligence (hereafter ”SIGINT"). While the existence of the agreement has been noted
+in history books and references are often made to it as part of reporting on the
+intelligence agencies, there is little knowledge or understanding outside the services
+themselves of exactly what the arrangement comprises.
+
+Even within the governments of the respective countries, which the intelligence agencies
+are meant to serve, there has historically been little appreciation for the extent of the
+arrangement. The arrangement is so secretive the Australian Prime Minister reportedly
+wasn't informed of its existence until 19752. Former Prime Minister of New Zealand,
+David Lange, once remarked that ”it was not until I read this book [Nicky Hager’s
+”Secret Power", which detailed GCSB’s history] that I had any idea that we had been
+committed to an international integrated electronic network." He continued: ”it is an
+outrage that l and other ministers were told so little, and this raises the question of to
+whom those concerned saw themselves ultimately answerable."3
+
+There has been no debate around the legitimacy or purpose of the Five Eyes alliance in
+part due to the lack of publicly available information about it. In 2010, the US and UK
+declassified numerous documents, including memoranda and draft texts, relating to the
+creation of the UKUSA agreement. However, generally the Five Eyes States and their
+intelligence services have been far too slow in declassifying information that no longer
+needs to be secret, resulting in no mention on any government website of the
+arrangement until recently.
+
+The intelligence agencies involved in the alliance are the United States National Security
+Agency (NSA), the United Kingdom’s Government Communications Headquarters
+(GCHQ), Canada’s Communications Security Establishment Canada (CSEC), the
+Australian Signals Directorate (ASD), and New Zealand’s Government Communications
+Security Bureau (GCSB).
+
+The extent of the original arrangement is broad and includes the
+
+(1) collection of traffic;
+(2) acquisition of communications documents and equipment;
+
+ 
+
+2 Canada’s role in secret intelligence alliance Five Eyes, CTV News, 8 October 2013, available at:
+http://kn|ive.ctvnews.ca/mobile/the-knlive-hub/canada-s-role-in-secret-intelligence-aIliance-five-eyes-
+1.1489170
+
+3 Secret Power, Nicky Hager, 1996, page 8 available at: http://www.nickyhager.info/Secret_Power.pdf
+

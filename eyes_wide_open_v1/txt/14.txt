@@ -1,0 +1,60 @@
+surveillance in their own corners of the world. Those recipients included Canada,
+[...] Britain, Australia and New Zealand."45
+
+Analysis tools such as these have been developed in secret over many years, often at
+huge cost. That this tool was shared, even in trial version with Five Eyes partners, is an
+important indicator of how tightly integrated the relationship is. Subsequent related
+
+programmes codenamed TRAILBLAZER, TURBULENCE and TRAFFICTHIEF were later
+
+adopted and used by Five Eyes partners.46
+
+More recently, the Guardian reported47 that 500 analysts from GCHQ and 250 from the
+NSA were directly assigned to examine material collected under the TEMPORA
+programme. By placing taps at key undersea fibre optic cable landing stations, the
+programme is able to intercept a significant portion of the communications that
+traverses the UK. TEMPORA stores content for three days and metadata for 50 days.
+Once content and data are collected, they can be filtered.
+
+The precise nature of GCHQ’s filters remains secret. Filters could be applied based on
+type of traffic (e.g. Skype, Facebook, Email), origin/destination of traffic, or to conduct
+basic keyword searches, among many other purposes. Reportedly, approximately 40,000
+search terms have been chosen and applied by GCHQ, and another 51,000 by the NSA
+to information collected via TEMPORA.
+
+GCHQ have had staff examining collected material since the project’s inception in 2008,
+with NSA analysts brought to trial runs of the technology in summer 2011. Full access
+was provided to NSA by autumn 2011. An additional 850,000 NSA employees and US
+private contractors with top-secret clearance reportedly also have access to GCHQ
+databases. GCHQ boasted that it had ”given the NSA 56% of all the raw information
+the British had intercepted from computers the agency was monitoring."48 Additional
+reporting from GCHQ internal documents explains how they "can now interchange
+100% of GCHQ End Point Projects with NSA."49
+
+GCHQ received £100 million ($160 million) in secret NSA funding over the last three
+years to assist in the running of this project. This relationship was characterized by Sir
+David Omand, former Director of GCHQ, as ”a collaboration that’s worked very well
+[...] [w]e have the brains; they have the money."50
+
+ 
+
+45 http://motherboard.vice.com/blog/the-nsa-reported|y-tested-its-top-spyware-on-new-zealand
+
+45 http://www.smh.com.au/world/snowden-reveals-australias-Iinks-to-us-spy-web-20130708-2plyg.htm|
+
+47 An early version of TEMPORA is referred to as the Cheltenham Processing Centre, additionally
+codenamed TINT, and is described as a "joint GCHQ/NSA research initiative". The Guardian quotes an
+internal GCHQ report that claims "GCHQ and NSA avoid processing the same data twice and proactively
+seek to converge technical solutions and processing architectures." It was additionally reported that NSA
+provided GCHQ with the technology necessary to sift through the material collected.
+
+48 http://www.theguardian.com/wor|d/2013/nov/02/nsa-portrait-totaI-surveillance
+
+49 GCHQ: Inside the top secret world of Britain's biggest spy agency, The Guardian, 2 August 2013,
+available at http://www.theguardian.com/wor|d/2013/aug/02/gchq-spy-agency-nsa-snowden
+
+5° http://www.japantimes.co.jp/news/2013/11/18/worId/britains-gchq-the-brains-americas-nsa-the-money-
+behind-spy-alliance/
+
+13
+

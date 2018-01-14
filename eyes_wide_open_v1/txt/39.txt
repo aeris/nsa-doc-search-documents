@@ -1,0 +1,57 @@
+Regardless of their location or nationality, all individuals are entitled to have their right to
+privacy respected not only by the State upon whose territory they stand, but by the
+State within whose territory their rights are exercised. If their communications pass
+through the territory of another State, and that State interferes with the communications,
+it will activate that State’sjurisdiction under international human rights law. Accordingly,
+the US and UK owe the same obligation to each individual whose communications pass
+through their territory: not to interfere with those communications, subject to permissible
+limitations established under international law. Such ”interference-based jurisdiction”
+obligations extend globally, regardless of boundaries.
+
+Five Eyes legal frameworks that circumvent human rights obligations
+
+Each of the Five Eyes members have complex legal frameworks governing the
+interception, monitoring and retention of communications content and data. This paper
+does not attempt to comprehensively outline such frameworks, and only excerpts some
+relevant provisions to illustrate the obfuscatory nature of legal frameworks that enable
+the rights of non-nationals or those outside the territory to be diminished.
+
+United States
+FlSA section 1881a is entitled ”Procedures for targeting certain persons outside the
+United States other than United States persons”.
+
+Section 1881(a) ss (a) provides:
+
+(a) the Attorney General and the Director of National Intelligence may authorize
+jointly, for a period of up to 1 year from the effective date of the authorization,
+the targeting of persons reasonably believed to be located outside the United
+States to acquire foreign intelligence information.
+
+An authorisation pursuant to FlSA section 1881(a) permits ”foreign intelligence
+information” to be obtained both by directly intercepting communications during
+transmission and by making a request to an electronic service provider that stores the
+information to make it available to the authorities.
+
+United Kingdom
+
+The Regulation of lnvestigatory Powers Act 2000 distinguishes between ”interna
+”external” surveillance. Where the communication is internal (i.e. neither sent nor
+received outside the British lslands, see RIPA s 20), a warrant to permit lawful
+interception must describe one person as the ”interception subject” (s 8(1)(a)) or
+identify a ”single set of premises” for which the interception is to take place (s 8(1)(b)).
+The warrant must set out ”the addresses, numbers, apparatus or other factors, or
+combination of factors, that are to be used for identifying the communications that may
+be or are to be intercepted” (s 8(2)).
+
+III
+
+and
+
+III
+
+Where the communication is ”externa , that is either sent or received outside the British
+lslands, RIPA s 8(1) and 8(2) do not apply. There is no need to identify any particular
+person who is to be subject of the interception or a particular address that will be
+
+38
+
