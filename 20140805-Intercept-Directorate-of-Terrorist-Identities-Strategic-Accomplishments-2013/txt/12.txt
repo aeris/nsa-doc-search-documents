@@ -1,0 +1,51 @@
+ 
+
+ 
+
+ 
+
+[U//FOUO) Development of Metrics to Minimize Individual Requirements to Track
+Work Completion: DTI developed a monthly TIDE-based metrics template in May 2013
+and began [retroactively] tracking several datasets effective 1 Jan 2013. Information
+collected includes data on nominations, nomination backlog, special projects/hulk ingest,
+new entities created, encounters, and QA audits.
+
+DTI Accomplishments supporting NCTC Goal 5: Technology
+
+[Il//l"0UO] Standard Nomination Tool: DTI, along with WaLchlisting Community
+partners, upgraded the standard nomination tool Used to send data for entry into TIDE.
+Significant improvements were made to the user interface to streamline the process of
+submitting data and the inclusion of the TIDE Restricted capability provided nominating
+agencies the ability to ensure that data too sensitive for export to unclassiﬁed systems
+could be appropriately marked and handled by TIDE. This allows nominating agencies to
+provide more data than previously disseminated as appropriate controls are now in place
+to ensure the sensitivity of the data is accounted for.
+
+[S] Bulk Ingest capability: DTI developed an internal self-service program to ingest large
+datasets for automated exploitation and enhancement oleDE records. The self-service
+capability allows DTI to quickly ingest large datasets into TIDE in a flexible environment
+where those providing the technical support are fully trained on DTI's policies and work
+closely with those who will process the data. The result is fewer policy errors and the
+ability to quickly make modiﬁcations and set priorities based on DTI's needs. The
+program‘s efﬁciency has enabled DTI to ingest multiple datasels in the time that the
+previous process would have taken to prioritize the datasets.
+
+[ll//FOUO] Database DeveIOpment ilG's Data Exploitation Team developed a database
+which has created multiple efficiencies for internal processes. The database allows for
+automated tracking metrics reporting, increased accuracy in de—duplication, and allows for
+tracking and identiﬁcation of KSTs for further research. The database also aliows for
+tracking of PISA classified cables. This database has saved at least 10 hou rs of work per
+week and has streamlined processes for RFIs, metrics, and identity management. Based on
+this success, this database has been duplicated for other internal DTI sections.
+
+[S//NF] EFT ofCBP Packages to TIDE: After 2-plus years ofdevelopment, the early
+February 2013 approval of the Interconnection Security Agreement between CBP and NCTC
+resulted in the successful electronic file transfer of CBP Encounter Packages to TIDE.
+Previously, the Encounter Packages were retrieved from CBP via a Compact Disc. Since the
+7 March 2013 start up, more than 5,378 Encounter Packages have been received and
+processed into TIDE by EAB.
+
+   
+
+seems/moment
+

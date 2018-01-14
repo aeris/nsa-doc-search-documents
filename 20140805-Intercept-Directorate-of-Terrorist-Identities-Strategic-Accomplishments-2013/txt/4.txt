@@ -1,0 +1,51 @@
+ 
+
+[U/[FOUO] DTI Threat Team (DTT/MTT]:
+
+D11 Threat Team (DTI) Increases $813
+
+an: '
+
+ 
+
+34.995 ' '
+
+337 1,740
+
+ 
+
+i'ia-‘w X3?!)
+i-Ivrinai-izd it} iiD-r
+
+ 
+
+[S//NF] Reduction of TIDE Enhancement Backlog: This year, automation, policy
+modifications, and resource realignments helped reduce a historic backlog of Department
+ofState Consular Consolidated Database (CCD) records consisting of visa information on
+KSTs that are already in TIDE and/or watchlisted in the TSDB. DTI had experienced a
+historical backlog that numbered in excess of 153,000 records. This number was reduced
+by 88% in FY13 to around 18,000 and that should be completely eliminated by Q1 2014.
+This reduction will allow for all newly identified KST TIDE records to be enhanced with
+CCD information within 48 hours of nomination.
+
+[S//NF] NCTC Meets HSPD-24 Requirements for Biometric Export: In March 2013, in
+accordance with HSPD—24/NSPD-59, the full implementation ofthe biometric export
+occurred. This culminates a five year effort, which included significant changes such as
+moving from TIDE1 to TIDEZ, in order to provide storing and matching capabilities for
+facial images, fingerprints and iris scans. As part of this effort, NCTC delivered biometric
+data for more than 127,000 known or suspected terrorists [KSTs) to the Terrorist
+Screening Center to date. Due to the hard work by NCTC, writ large, these KSTs will have
+their biometric data properly placed into the biometric Screening systems. This means
+when one of these known or suspected terrorists attempts to enter the United States either
+by applying for a visa or through a DIIS point ofentry screening, regardless of falsified
+documentation, the subject will likely be denied entry.
+
+[SUNF] Growth for Non-Traditional Biometric Data: DTI has continued to enhance
+several "non-traditional" biometric data fields in TIDE, for FY13 TIDE has shown the
+following growth: Handwriting (32%); Signatures (52%},- Scars/marks/tattoos [70%];
+DNA strands [90%). Beginning collection on this data helps to ensure that when the
+biometric and forensic community is ready to actively screen this data, that NCTC will be
+readily ahle to provide the appropriate data on all known or suspected terrorists.
+
+SECRET//NO FORN Page 4
+
