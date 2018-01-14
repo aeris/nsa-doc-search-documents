@@ -1,0 +1,12 @@
+ 
+
+8% NBC NEWS INVESTIGATIONS investigations.nbcnews.com
+Development of new capability:
+- Capabilities being developed to access data from various internet services
+
+- How these data sources may help to mitigate the loss that passive access could
+suffer to encryption etc
+
+- How to look further at integrating / fusing these data sources into our analytic stores
+and workflows
+

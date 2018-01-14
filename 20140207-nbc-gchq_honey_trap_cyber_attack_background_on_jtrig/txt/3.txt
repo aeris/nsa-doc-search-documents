@@ -1,0 +1,36 @@
+l NBCNEWSINVESTIGATIONS investigations.nbcnews.com
+
+JTRIG - CoreJEI
+
+JTRIG has the following core functions:
+
+- Covert Internet Investigations
+Forensic Investigation and Analysis
+Active Covert Internet Operations, (including online Humint and Effects)
+Covert Technical Operations
+Provision of Unattributable Internet Access
+
+Development of new capability
+
+ 
+
+Explanation of the “base-line” for JTRIG-related work and make-up:
+
+The structure of JTRIG:
+- Ops / Technical (Cap Dev) / JBOS.
+
+Mention the “Online Covert Action Accreditation” Programme.
+- Commenced September 2011.
+- Initially for JTRIG staff.
+
+- A small number of [SD analysts now being accepted on courses.
+
+Main skills covered:
+
+- Information & Inﬂuence Operations.
+- Online Humint.
+
+- Disruption & CNA.
+
+- Brieﬁng to be provided by I-.
+

@@ -1,0 +1,30 @@
+NBC NEWS INVESTIGATIONS investigations.nbcnewscom
+
+E Get another. I
+
+believe a
+
+0 Place ‘secret’ information on a compromised
+computer
+
+0 Send ‘secret’ information across a network visible
+to Sigint
+
+- Provide ‘secret’ information through an online
+agent
+
+ 
+
+Work alongside CNE:
+~ Use of various masquerade type techniques.
+- Placement of potential “damming” information, where appropriate.
+
+Visible networks:
+- Shape the environment, so that Sigint can provide BDA for Operations.
+- Use of releasable information, (support from SIA’s etc).
+
+Online agent:
+- Use of online aliases to good effect.
+
+- Visibly shaping the online environment.
+
