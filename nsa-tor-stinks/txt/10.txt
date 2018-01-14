@@ -1,0 +1,15 @@
+—
+Analytics: Node Lifespan
+
+How do I know WHEN a particular IP was a Tor
+node as opposed to IF it was a Tor node?
+
+0 Current: detection done once an hour by NTOC.
+RONIN stores “last seen" and nodes age off
+slowly with no accurate lifespan.
+
+° Goal: Working with RONIN to add more details
+on node lifespan.
+
+_0
+

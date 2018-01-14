@@ -1,0 +1,49 @@
+—
+Analytics: Circuit Reconstruction
+
+Terrorist with
+Tor client installed
+\I Tor relay node
+
+. .. .Tor entry node ,«)
+(19‘ 4: .0 I a
+
+. ”I‘m n V
+
+ 
+
+Internet site
+
+Tor exit node ﬂ—
+“ n
+
+ 
+  
+
+   
+
+  
+ 
+
+ 
+   
+
+‘ ,
+
+(a (TY‘rj .
+
+ 
+
+ANONYM/ZER CLOUD
+
+° Current: access to m few nodes. Success rate negligible
+because all three Tor nodes in the circuit have to be in the set
+of nodes we have access to.
+
+— Difﬁcult to combine meaningfully with passive SIGINT.
+
+- Goal: expand number of nodes we have access to
+— GCHQ runs Tor nodes under NEWTONS CRADLE (how many?)
+— Other partners?
+— Partial reconstruction (ﬁrst hops or last hops)?
+

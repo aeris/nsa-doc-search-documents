@@ -1,0 +1,9 @@
+—
+Nodes: Tor Node Flooding
+
+Could we set up a lot of really slow Tor nodes
+(advertised as high bandwidth) to degrade the
+overall stability of the network?
+
+ 
+

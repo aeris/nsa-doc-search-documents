@@ -1,0 +1,14 @@
+—
+Exploitation: Web Server Enabling
+
+(TS/ISI)
+
+Given CNE access to web server modify the server
+to enable a “timing/counting" attack similar to
+timing pattern idea.
+
+° Current: GCHQ has a research paper and
+demonstrated the technique in the lab.
+
+ 
+

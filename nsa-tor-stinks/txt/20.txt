@@ -1,0 +1,13 @@
+—
+Exploitation: Degrade Tor experience
+
+(TSl/Sl)
+
+Given CNE access to a web server make it
+painful for Tor users?
+
+Given CNE access to a network can we deny/
+degrade/disrupt Tor users’?
+
+ 
+

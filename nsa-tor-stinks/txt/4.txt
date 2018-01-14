@@ -1,0 +1,25 @@
+Laundry List
+
+° Analytics to de-anonymize users ° Exploitation
+
+— Circuit reconstruction (21) — QUANTUM attacks (1, 20, 22)
+
+— Goes inta goes outta/low latency (2) — Existing options (8 + 11)
+
+— Cookie leakage — Shaping (9 + 16)
+
+— Dumb users (EPICFAIL) — Web server enabling (10)
+
+— Node Lifespan (17) — Nodes (14)
+
+— DNS — Degrade user experience (13 + 18)
+° Technical Analysis/Research ° Nodes
+
+— Hidden services (4, 5, 6, 7) — Baseline our nodes (21)
+
+— Timing pattern (3) — Tor node ﬂooding
+
+— Torservers.net/Amazon AWS
+
+   
+

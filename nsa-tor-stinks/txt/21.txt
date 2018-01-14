@@ -1,0 +1,16 @@
+—
+Nodes: Baseline Our Nodes
+
+How many nodes do we have cooperative or
+direct access to? Can we deploy similar code
+to these nodes to aid with circuit
+reconstruction?
+
+Can we do packet timing attacks using nodes?
+Can we use the nodes to shape trafﬁc flow?
+
+Can we use the nodes to deny/degrade/disrupt
+comms to certain sites?
+
+_1
+
