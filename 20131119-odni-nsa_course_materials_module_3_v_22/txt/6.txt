@@ -1,0 +1,90 @@
+ 
+
+DATE/PREPARER: 11/09/2010 SLS Topic Page Classification Screen Number
+(U) What is RAS? lOP-SECREMCOlVIl-NMNOEORN— 4 of 13
+
+ 
+
+ 
+
+FRAME ID: 3035
+
+(U) The RAS Equation
+
+(U) (Continue to display definition of RAS then pull out the RAS Equation.)
+
+ 
+
+ 
+
+NEXT FRAME ID: 3040 Reasonable Articulable Suspicion (RAS) Standard
+
+ﬁSﬁS-Ivﬁ‘N-F) An identiﬁer will meet the Reasonable Articulable Suspicion Standard if based on
+the factual and practical considerations of everyday life on which reasonable and prudent
+persons act, there are facts giving rise to a reasonable articulable suspicion that the identiﬁer is
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BACK FRAME ID: 3030 associated with one of the specified Foreign Powers.”
+
+ALT TAG: — Foreign Intelligence Surveillance Court
+GRAPHIC/AV: RAS Equation
+
+(U) Continue to display definition of RAS _ . _
+
+then pull out the RAS Equation. identiﬁer + Lmk to Fore1g11Power = RAS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(TSI’I‘SliI‘N-F) (OGC Attorney). As it applies to the BR and PR/TT Orders RAS is a suspicion that an identifier. sach_ as an amelil add-ress. telephone-(number
+or other identifier type is associated with one ofthe-Foreign Powers named in BR and PR/TT Orders The
+FISC requires that NSA base that suspicion on a certain level of factual evidence -- and NSA must articulate those facts that connect the identifier with one
+ofthe named terrorist organizations. The requirement that these facts be articulable effectively provides reasonable assurance that analyst queries of the
+metadata are based on substantive information (meaning more than simple hunches or uninformed guesswork). So in orderto obtain RAS approval for an
+identifier, analysts must provide enough factual evidence that it would lead a reasonable person to suspect that an identifier is associated with one of the
+named Foreign Powers in the BR and PR/TT Orders. We will get more into the kinds of facts that may be used and how they can support a RAS
+nomination later in this module.
+
+'(‘FSﬂSlﬁN-F) In summary, based on the factual and practical considerations of everyday life W
+determine if there is a reasonable articulable suspicion that the identiﬁer is associated with]
+named in the Orders. There must be at least one qualifying fact giving rise to the suspicion that the identifier is associated
+
+with one of the Foreign Powers listed in the BR and PR/TT Orders. Unless that determination is made, the identifier cannot be approved to query this
+metadata repository. NSA's implementation of the BR and PR/TT Orders mandates that the RAS nomination statement must clearly link the identifier/target
+
+ 
+
+ 
+
+ 
+
+ 
+
+to one ofthe Foreign Powers and document this finding in_ which will be discussed later in the module.
+—
+
+JFGP'SEERE‘BW
+Page 6 of 17
+

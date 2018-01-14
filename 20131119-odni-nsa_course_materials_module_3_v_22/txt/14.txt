@@ -1,0 +1,69 @@
+ 
+
+DATE/PREPARER: 11/09/2010 SLS Topic Page Classification Screen Number
+(U) Lifespan of a RAS JFGP-SEeREﬁ‘eeh/HNWNGFGRN- 10 of 13
+A roval
+
+ 
+
+ 
+
+FRAME ID: 3090
+
+(U) What is the Lifespan of a RAS Approval?
+
+—(=FS+fS+hLN-F) RAS determinations for foreign identifiers are legally effective for one
+
+ 
+
+NEXT FRAME ”13100 year. NSA CT has implemented guidance that requires RAS review/re-approval every
+
+ 
+
+ 
+
+ 
+
+180 days.
+
+(TMS—WN—F) Although a RAS determination for an identifier reasonably believed to be
+BACK FRAME ID: 3080 used by a United States person is legally effective for 180 days, NSA CT has
+ALT TAG. implemented guidance that requires RAS review/re-approval every 90 days.
+GRAPHIC/AV: - €FS#SI#NF) After the sunset of an identifier’s RAS approval -- or anytime before -- the
+
+(U) Use a graphic to show effective dates
+for US. and non-U.S. person RAS
+approval
+
+identifier can be submitted for RAS revalidation through the same process.
+
+(U) (Show passing of time and then a
+graphic of an identifier with a “RAS-
+APPROVED” or “DENIED“ applied over the
+identifier)
+
+ 
+
+ 
+
+ 
+
+(TS#S-l-#N-F) (HMC Character): RAS approvals have sunset or expiration dates which analysts must comply with. Currently a RAS approval on a foreign
+identifier, per the FISC, is legally valid for one year. However, NSA CT has taken a conservative approach and implemented guidance that mandates RAS
+review and re-approval every 180 days. Likewise, a RAS approval for an identifier believed to be used by a US. person has a legal lifespan of 180 days
+perthe FISC, but NSA CT has implemented guidance requiring review and re-approval every 90 days. It is the analyst's responsibility to monitorthe sunset
+dates and take appropriate actions before the RAS nomination expires.
+
+(TSA‘SWNE) (HMC Character): Any identifier can be resubmitted for revalidation at any time. Revalidations require proof ofthe same categories of
+information that was required for the original request. Revalidations should try to validate that the original evidence is still true by presenting any new
+documentation to demonstrate that the identifier is still associated with the Foreign Powers named in the Orders. It is up to the HMCs to make an informed
+revalidation, based on the totality of the evidence. If you are uncertain of your evidence, submit the nomination anyway and work with the HMCs through
+the process.
+
+ 
+
+ 
+
+WN
+Page 14 of 17
+

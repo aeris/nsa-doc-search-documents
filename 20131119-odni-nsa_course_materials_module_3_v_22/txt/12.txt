@@ -1,0 +1,81 @@
+JFGP-S-EGREWNGFGRN—
+
+ 
+
+ 
+
+DATE/PREPARER: 11/09/2010 SLS
+
+Page Classification Screen Number
+(U)_ ‘FGP-SECREﬁCOll/ltN‘FﬁNGFGRN— 9 of 13
+
+ 
+
+ 
+
+FRAME ID: 3080
+
+(TS/lSl/IN F)- NSA’s RAS Identifier Management System
+
+ 
+
+NEXT FRAME ID: 3090
+
+ 
+
+BACK FRAME ID: 3070
+
+ 
+
+ 
+
+ 
+
+ALT TAG: o (TSﬁSWN-F-)—Supports the Homeland Defense Counterterrorism (CT) Mission.
+0 (TSAlS-l-ALN-F) Provides the ability to request, justify, review, approve/disapprove RAS
+GRAPHIC/AV: nominations/requests.
+E6\E62 Learning 0 (TS#SHNF-) Is the authoritative source for the list of RAS-approved identifiers and will export that list to
+Technologies\NOFORN Course other systems that require it.
+Development\Requirement_196_OVS o -(3l'-S#Sl#N-F) Provides metrics and other information to facilitate oversight review and report generation for
+C_1205_BR- the Department ofJustice (DOJ) and the FISC.
+PR'l'l'lGraphics txt40.jpg
+
+(U) Time Bounded Approvals
+
+ 
+
+ 
+
+(TSﬁSl-h‘N-F) (HMC Character): Remember from earlier in this module, we introduced the RAS process as a simple equation: identifier + link to Foreign
+Powers = RAS. Now you may be wondering how an identifier is nominated for RAS. NSA must demonstrate and document that when used to
+query the bulk metadata meets the RAS standard PRIOR to querying the BR and PR/TT bulk metadata repositories. NSA created_ the RAS
+identifier management tool, to streamline the adjudication of the RAS nomination statements and documentation of RAS determinations.
+
+(TSl/S-l-ALN-F) (HMC Character): Typically, an intellioence a st will gatherthe necessary information and draft the nomination statement in IRONMAN
+articulating the RAS equation. An HMC, also usin will review the nomination statement and approve or disapprove the request. lfthe
+nomination statement is for a US. person, the ool includes functionality that allows the HMCs to forward such requests to OGC forthe required
+First Amendment review. In either case, if the RAS nomination is approved, the identifier is now authorized for querying.
+
+'(‘FSﬁSbS‘N-F) (OGC Attorney): Through —NSA documents all RAS-approved identifier:‘ Ithe rationale used to gain RAS approval.
+IRONMAN provides the ability to ﬂy, review, approve/disapprove RAS nominations. is therefore the authoritative source forthe list
+
+of RAS-approved identifiers, and ‘exports that list to other systems that require it.
+
+ 
+  
+  
+
+ 
+   
+   
+
+(ISA‘SWNF) (OGC Attorney): It is important to rememberthat copies ofthe documents, such as court orders or reports, are required as part ofthe
+nomination process. The papertrail should enable an auditor from Department ofJustice (DOJ) to clearly evaluate all of the evidence presented to support
+a RAS decision.
+
+ 
+
+Page 12 of 17
+
+ 
+

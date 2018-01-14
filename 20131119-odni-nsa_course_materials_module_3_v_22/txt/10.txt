@@ -1,0 +1,85 @@
+ 
+
+DATE/PREPARER: 11/09/2010 SLS Topic Page Classification Screen Number
+(U) Sources of Information -=F6P-SEGRE=I'7'T€-el\/I+N=l'7rNeF6RN- 8 of 13
+Used to JusitfRAS
+
+FRAME ID: 3070
+
+ 
+
+ 
+
+(U) What sources of information can be used to justify RAS?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(T—Sré‘SIﬁ‘N-F) FISA Orders fTSt‘i‘S-LG‘N-F) IC and Public Sector
+NEXT FRAME ID: 3080 - Existing FISA Orders ' Federal Bureau of Investigation documents
+. Central Intelligence Agency documents
+‘(TSﬁSIﬁN—F). Reports and/or RAW ' National Counterterrorism Center
+SIGINT documents
+BACK FRAME ID: 3060 . Documents from other US. Government
+ALT TAG: . SIGINT reports . Organizations
+- FISA surveillance data denved from other . Foreign Partner nations
+GRAPHIC/AV: authoﬁzed targets . « Public records available on the
+' Raw SIGINT (after a Repomng Source internet, newspapers, or other public
+Validation Check) resources
+- SIGDEV Work
+- Other transcripts
+
+ 
+
+ 
+
+ 
+
+ 
+
+'(TS77‘Sl77NF') (HMC Character): 80 now let‘s look at the type of evidence that can be used to justify RAS. NSA can use any information that is lawfully in our
+possession. A published SIGINT report describing the results of electronic surveillance of a target might be more reliable than say pocket litter found during
+a detainee’s interrogation -- but NSA can rely on any lawfully held evidence. The HMCs are responsible for assessing the quality and reliability of the
+evidence.
+
+(TSi‘l‘Sl-h‘N-F) (OGC Attorney): Sources that are often used to justify a RAS nomination include, but are not limited to:
+- Existing FISA Orders
+
+- SIGINT reports
+
+- FISA surveillance data derived from other authorized targets
+
+- SIGINT traffic, as long as the submitting analyst has performed a Reporting Source Validation Check
+- SIGDEV work (with verified sources), and
+
+- Other transcripts
+
+OGC Attorne : If an analyst/requestor uses unpublished query results in a RAS justiﬁcation, and they classify the material appropriately as
+then that information will only be visible to those —users with _)r— credentials, as confirmed
+
+  
+
+ 
+
+ 
+
+ 
+
+49PM
+Page 10 of 17
+
