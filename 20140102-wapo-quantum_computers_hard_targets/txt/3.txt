@@ -1,0 +1,11 @@
+{---}
+
+(U) Base resources in this project are used to:
+
+{---}
+
+° (TS//SI//REL TO USA, FVEY) Continue research of quantum
+communications technology to support the development of novel
+Quantum Key Distribution (QKD) attacks and assess the security
+of new QKD system designs.
+

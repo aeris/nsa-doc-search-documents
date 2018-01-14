@@ -1,0 +1,28 @@
+Excerpts from the ”black budget, ” Volume 2, ”Combined Cryptologic Program ”:
+
+(U) RESEARCH & TECHNOLOGY (U) PENETRATING
+HARD TARGETS
+
+(U) Project Description
+
+(S//SI//REL TO USA, FVEY) The Penetrating Hard Targets Project
+provides proof-of—concept technological solutions to {...} enable:
+
+{---}
+° (S//SI//REL TO USA, FVEY) Breaking strong encryption.
+
+(TS//SI//REL TO USA, FVEY) This Project focuses on meeting those
+customer requirements that will directly impact the end-to-end SIGINT
+mission during the next decade and beyond. It provides advanced
+knowledge of technology trends and opportunities to steer IT products
+and standards in a SIGINT-friendly direction. This Project contains the
+Penetrating Hard Targets Sub-Project.
+
+(U) Base resources in this project are used to:
+
+{---}
+
+° (S//SI//REL TO USA, FVEY) Conduct basic research in quantum
+physics and architecture/engineering studies to determine if, and
+how, a cryptologically useful quantum computer can be built.
+
