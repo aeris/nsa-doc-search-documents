@@ -1,0 +1,32 @@
+ 
+
+What do we see?
+
+ 
+
+ 
+
+ 
+
+Any traffic between the client & tor is heavily encrypted.
+
+We can only really see traffic from an exit node to a website
+— But we don’t know where this traffic originated from
+
+Still could link up aliases though
+
+— ‘Somebody’ could still visit a dodgy forum and log in with an alias, or even
+
+send an email using a known target email address (Assumin Wiley don’t
+use SSL). é
+
+Phew... at least there is some intelligence gain.... Right?
+
+© Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
+2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on
+
+Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may be disseminated
+Slide 7 throughout the recipient organisation, dissemination outside the
+
+ 
+

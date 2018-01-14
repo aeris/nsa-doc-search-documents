@@ -1,0 +1,34 @@
+ 
+
+Pieces of the Jig-Saw
+
+ 
+
+ 
+
+ 
+
+The actual Hidden Service (HS)
+— Where the service actually originates from
+
+User
+— The user who wishes to access the Hidden Service
+
+Hidden Service Directory (HSDir)
+— A directory server that hold information on a Hidden Service
+
+Introduction Point (IPT)
+— Hidden Service’s ‘front door’ / relay
+
+Rendezvous Point (RP)
+— Client’s ‘front door’ / relay
+
+© Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
+
+2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on
+
+Contains Intellectual Property owned and/or managed by Ownership GCHQ The material may be disseminated
+Slide 11 throughout the recipient organisation, bt't CC: :C‘ :‘cr'm";:'c: I‘TL‘Z‘?’ ix“ r-irtsirc «i‘ ‘rrr dissemination outside the
+
+ 
+

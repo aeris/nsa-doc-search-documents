@@ -1,0 +1,30 @@
+ 
+
+What is Tor?
+
+ 
+
+ 
+
+ 
+
+Tor is an implementation of 2nd generation onion routing
+Originally sponsored by the US Naval Research Laboratory
+Later became an Electronic Frontier Foundation project
+Helps to prevent network traffic analysis & surveillance
+Open network with over 2000 nodes
+
+Anonymity tool
+
+Uses multiple layers of encryption
+
+° Multi-hop proxy
+
+© Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
+2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on
+
+Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may be disseminated
+Slide 2 throughout the recipient organisation, bu‘gCC: :0 :‘eI'm":|2:errlraust.lgqbrhm; ‘62: dissemination outside the
+
+ 
+

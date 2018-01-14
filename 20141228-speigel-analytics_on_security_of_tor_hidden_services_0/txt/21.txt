@@ -1,0 +1,32 @@
+UK TOP SECRET STRAP1 COMINT
+
+- Introduction Points (IPT)
+
+All Hidden Service IPTs are listed on its descriptor (the thing that’s stored
+on a HSDir)
+
+Potential for an attack on IPTs to stop them accepting connections for the
+HS
+
+This could be done using a ‘Coil Attack’
+
+———->
+
+//> —-—
+
+‘lll:
+
+?
+'§\"\ 4/
+
+— Doesn’t stop a HS selecting another set of IPTs
+— HS can encrypt their IPTs in their descriptor (but not many do)
+
+© Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
+2000 and may be subject to exemption under other UK information leoislation. Refer disclosure requests to GCHQ on
+
+Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may be disseminated
+Slide 21 throughout the moment organisation, bqgﬁCII-Igpaﬁégﬁgnrirgusttkggbaifmmer dissemination outside the
+
+ 
+

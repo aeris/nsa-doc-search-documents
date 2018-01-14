@@ -1,0 +1,21 @@
+The dot eem onion BOOM
+
+- What’s this .onion business?
+— TLD Tor uses to initiate a connection to a lhidden service
+
+- Example onion domain
+— 15 characters in b85632 (few characters are actually missing)
+— oqznfi3tdo6nwgSfonion
+
+— Tor uses something similar to DNS to resolve an onion domain:
+— Onion domains ‘resolve’ to 3+ IP addresses called Introduction Points (IPT)
+
+© Crown Copyright. All rights reserved. This information is exempt from disclosure under the Freedom of Information Act
+2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on
+
+Contains Intellectual Property owned and/or managed by Ownership GCHQ. The material may be disseminated
+
+Slide 10 throughout the recipient organisation, dissemination outside the
+
+ 
+
