@@ -1,0 +1,40 @@
+Print Notes http://www.documentcloud.org/notes/print?docs[]=807030
+
+Document interne de la NSA sur l'espionnage visant la France
+2 pages — Contributed by Martin Untersinger , Le Monde — Oct 18, 2013
+
+ 
+
+Ce terme designe la classiﬁcation utilisee par la NSA pour repe rtcrier ses dispositifs d‘intercepticn et de surveillance. (p. 1)
+
+iIGADs
+
+ 
+
+ 
+
+Les programmes visant la France sont decrits un peu plus has sur la page. (p. 1)
+
+HOE-[LANDS
+(AGRANT
+'{IGHLANDS
+’BX
+
+ 
+
+ 
+
+Descriptions des techniques d‘interception (p. 1)
+Rural Tenn Dcscn'ptions
+
+ll s'agit de la liste des techniques utilisées de maniere générale par la NSA pour son espionnage. et non de celles visant
+spéc'rfiquement la Frame. Les techniques ulilisées contre la France portcnt le nom de Highland. Vagrant et PBX.
+
+ 
+
+ 
+
+ 
+
+1 of 1 10/22/2013 6:28 PM
+

@@ -1,0 +1,70 @@
+NSA planted bugs at Indian missions in DC, U.N. - The Hindu http://www.thehindu.com/news/international/world/nsa—planted-bug...
+
+20f3
+
+Asked by The Hindu, why India’s UN. mission and embassy, which clearly pose no terrorism threat to the US, were
+targeted by the NSA, a spokesman for the Office of the Director of National Intelligence said: “The US. government
+will respond through diplomatic channels to our partners and allies. While we are not going to comment publicly on
+every specific alleged intelligence activity, as a matter of policy we have made clear that the United States gathers
+foreign intelligence of the type gathered by all nations. We value our cooperation with all countries on issues of
+mutual concern.”
+
+But the spokesman didn’t answer The Hindu’s specific questions about why the top-secret document about spying
+on Indian missions shouldn’t be revealed or “reproduced by this newspaper in full or part”.
+
+The document obtained by The Hindu reveals a scary scenario of breach of official secrecy of Indian missions and
+violation of privacy of Indian diplomats and other staff working in the three premises that were targeted.
+
+Located between 2nd and 3rd Avenue on 43rd Street in the eastern part of Manhattan, the office of India’s permanent
+representative to the UN was on top of the list of Indian targets. Designed by the legendary Indian architect, Charles
+Correa, the building with a red granite base and a double-height penthouse porch at the top has the offices of India’s
+permanent representative, deputy permanent representative, a minister and political coordinator, six counsellors, a
+Colonel-rank military advisor and several other secretaries who look after different areas of India’s engagement with
+the world.
+
+It was this building that was the main target of all four NSA bugs: from Lifesaver, which can send to the NSA copies
+of everything saved on the hard drives of office computers, to Vagrant, which can pick data straight from computer
+screens.
+
+Though emails sent to India’s New York mission have remained unanswered so far, an Indian diplomat told The
+Hindu that the NSA eavesdropping might have done “extensive damage” to India’s stand on many international
+issues ranging from UN Security Council reforms to peacekeeping operations. “If they could implant bugs inside
+communications equipment of European Union office here and tap into their communications cables as well, there is
+no reason to believe that they didn’t snoop on us,” said the diplomat, speaking strictly on condition of anonymity. “We
+are still assessing the damage. If they managed to copy our hard drives, nothing is left to imagination.”
+
+Second to the UN mission on the “target” list was the chancery building of the Indian Embassy located at 2107,
+Massachusetts Avenue in Washington, DC. Consisting of two adjacent buildings, one constructed in 1885 and the
+other in 1901, the chancery has offices of the Indian ambassador, the deputy chief of mission, several ministers and
+counsellors who head political, economic, defence and industry sections and three Defence Attachés representing
+the Indian Army, Air Force and Navy. This building, from where India maintains its diplomatic, trade and strategic ties
+with the US, was on the “target” list for three bugs that can make images of hard drives, pick digital signals and
+copy data of computer screens.
+
+The third Indian building targeted by the NSA is the embassy annex located on 2536, Massachusetts Avenue in
+Washington, DC. The annex has three very important departments: the consular section, headed by a minister, looks
+after visa services; the commerce department, also headed by a minister, is involved in a broad range of trade
+issues and negotiations besides assisting the Indian businesses; and an office of the Indian Space Research
+Organization (ISRO), represented by a counsellor, takes care of cooperation between two countries in the field of
+space. This building was on the NSA “target” list for Highlands and Vagrant, which collect data from implants and
+computer screens respectively. It’s important to recall here that India’s space programme was targeted by another
+NSA tool PRISM, which intercepts and collects actual content on internet and telephone networks (as reported by
+The Hindu on Tuesday).
+
+But officials at the Indian embassy claim that the premises are safe. “Adequate measures are in place in this regard
+and all steps taken to safeguard the national interest,” wrote an official in an email response to queries by The
+Hindu. Though no Indian official was willing to talk on record specifically about the NSA bugs mentioned in the top
+secret document, in private they admitted that it’s a violation of all norms and security. “If these bugs were implanted
+physically on our machinery, telephones and computers, it means a serious breach in security. Who did that job for
+them? It’s very alarming situation. Even if they accessed our data remotely, it is quite a serious matter because we
+try to de-bug our systems constantly,” said an Indian diplomat, speaking on condition of anonymity.
+
+The document obtained by The Hindu doesn’t say if the bugs were placed physically or if the machines at the Indian
+Mission and embassy were targeted through the internet network, bugs similar to those aimed at Indian offices were
+actually “implanted” in a commercially available encrypted fax machine used at missions such as that of the
+European Union. In a recent expose, The Guardian had revealed that the NSA infiltrated the internal computer
+network of several European embassies and the EU to intercept their communications. That had led to a roar of
+protests from European capitals.
+
+10/24/2013 1:39 PM
+
