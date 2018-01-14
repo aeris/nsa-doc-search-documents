@@ -1,0 +1,53 @@
+TOP SECRET/lCOMINT/IREL USA, FVEY
+
+   
+
+(TS/ISl/IREL) TAO establishes itself
+as a trusted CZ node
+
+- (U/IFOUO) Captured traffic indicates
+m the existence of a bot net
+
+— (SI/REL) Command and control split
+into two layers (C2 and C4)
+
+— (SI/REL) C2 layer has a peer-to-peer
+mesh network topology with direct
+connection to a C4 node
+
+    
+
+TAO c2
+Server
+
+    
+  
+ 
+
+- (SI/REL) CZ nodes connect directly
+to victims as well as through open
+web proxies
+
+Open Web
+Proxies
+
+ 
+
+NSA and
+TAO
+
+Covert
+lnfrastructu
+re
+
+ 
+
+Victims (Bots
+)
+
+ 
+
+ 
+
+ 
+
