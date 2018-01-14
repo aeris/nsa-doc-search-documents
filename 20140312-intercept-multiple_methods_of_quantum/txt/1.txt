@@ -1,0 +1,84 @@
+TOP SECRET/ICOMINT/IREL USA, FVEY
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+QUANTUMSKY
+
+infrastructure.
+
+Denies access to awebpage through RST packet spoofing.
+
+2004
+
+QUANTUMINSERT ‘ Man-on-the-Side technique 2005 Operational Highly Successful
+0 Brieﬂy hi—jacks connections to a terrorist web site (In 2010, 300'|1A0 implants were
+0 Re-directs the target to a TAO server ( FOXACID) for deplored via ‘IIUa‘ll‘l'l'lJN'lINSERTm
+implantation Ltgjtlsl‘tggere tin-exploitable by any
+QUANTUMBOT ' Takes COMFOI Ofidle 'RC bOIS Aug 2007 Operational Highly Successful
+0 Finds computers belonging to botnets, and hijacks the [over 140,000 bots ca-opted)
+command and control channel
+QUANTUMBISCUIT ' Enhances QUANTUMINSERTS man-on-the-side technique Dec 2007 Operational Limited success at NSAW
+ofeprOItatlon due to high latency on passive
+- Motivated by the need to Ql targets that are behind large access
+proxies, lack predictable source addresses, and have [GCHQuses technique for 80%ofCNE
+insufﬁcient uniqueweb activity. atteﬁES)
+QUANTUMDNS 0 DNS injection/redirection based offofA Record queries. Dec 2008 Operational successful
+0 Targets single hosts or caching name servers. (High priority CCItarget exploited)
+QUANTUMHAND Exploits the computer ofa target who uses Facebook Get 2010 Operational successful
+QUANTUMPHANTOM Hijacks any IP on QUANTUMahIe passive coverage to use as covert OCt 2010 Live Tested N/A
+
+Operational
+
+Successful
+
+ 
+
+QUANTU MCOPPER
+
+QUANTU MSMACKDOWN
+
+ 
+
+ 
+
+File download/upload disruption and corruption.
+
+Pevents target from downloading implants to DoD computers while
+capturing malicious payload for analysis.
+
+ 
+
+Dec 2008
+
+Oct 2010
+
+ 
+
+Live Tested
+
+Live Tested
+
+ 
+
+N/A
+
+N/A
+
+ 
+
+TS/lSl/l REL
+
+ 
+
+TOP SECRET/ICOMINT/IREL USA, FVEY ‘I
+
