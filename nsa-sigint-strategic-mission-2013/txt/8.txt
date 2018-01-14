@@ -1,0 +1,61 @@
+TOP SECRETHCOMINTHREL TO USA. FVEYH203201£IB
+
+often via bulk “midpoint" collection of global backbones. Vendors and service providers must
+also be leveraged to obtain rnetadata and other targeting and vulnerability information, as well as
+trai‘lic. “Endpoint" operations must expand, to retrieve more targeted data directly and to alter
+routing or encryption For the beneﬁt of passive sensors.
+
+{Sir‘SIr‘r’REL} Midpoint collectors will still be used to acquire content (and not just metadatal. but
+with less success and at greater cost as trafﬁc volumes and velocities rise. Mobile and tactical
+systems. covert and clandestine programs. and overhead assets will continue to perform their
+specialized tasks until the spread of network technology offers a better play, and will he
+modemined as the mission requires or when automation or new technology can significantly
+reduce long-term manpower or life-cycle support costs. Endpoint methods will he used for more
+ELINT and F13 tasks, gathering data on some weapons or emitters before they're deployed?
+
+{if} Processing and Esploitatinn
+
+{Sr'r'Slr'i'RELl If collection operations arotnid the globe are to work in tandem in real-time, then
+the processing and exploitation fabric of the SIGINT system to ust provide for distributed storage
+and robust messaging. Fast, ﬂexible, front-end processors must spot targets based on patterns,
+events, or metadata rather than pro-deﬁned selectors or brute force scanning of content. High
+performance computing systems must extract meaning liotn huge data sets and to negate data
+encryption and computer access controls.
+
+{Sr'.-'Slr'.-‘RJ:'L_) New developments will stress standardized interfaces that let diverse applications
+share infrastructure, and will favor automation and oli-the—slrelt‘ technology over manual
+processes and point solutions. New SIGINT system architec-uu'es will de—couple event detection
+Erom follow-on reaction and processing, so that applications can he added or deleted with little
+impact to ongoing operations and so that sensors and processors can serve many tasks rather than
+one operational stovepipe. All this — and increased use of remotely conﬁgurable commercial
+hardware — will also cut the time needed to retool or refocus technical in fi'astruclure as customer
+needs, target behaviors, or technical constraints change; they'll reduce life-cycle costs as well.
+
+t l?) Analysis and Production
+
+{SiiSlir’RELl In the aftermath of the digital revolution, powerﬁrl analytics and empowered
+analysts are how we discover targets and their secrets and how we harness our technical
+capabilities to our customers“ missions. Advances in collection and processing must let us ﬂag
+events of interest as they happen, accumulate far more contest-rich rnetadata, and collate
+targeted communications and transactions across accesses. To take advantage of this, analysts
+must have new tasking, association, and presentation tools, and larger and more adaptable
+storage and retrieval systems. Fortunately, intonnation management and mining is central to the
+Internet age and next-generation analytics can employ many conrmercial products and practices.
+
+ 
+
+{St-REL) Looking forward. we will continue to devote more analysts to exploiting digital
+network intelligence and to working problems related to counter-terrorism. counter-pro]iteration.
+China, into, and the Middle East, aggressively investing in the necessary tools and training, and
+“Franchising" some mature missions to qualified partners. We will deemphasize the traditional
+concept of" a SIGINT storefront [requirements intreporting out) in Favor of" having Far more
+analysts working physically or virtually within the missions that the; support. They will act
+more as a consultancy than a simple data source, helping shape customer plans to reﬂect the “art
+
+ 
+
+[NEEDED] Some characterization of actual emitters in real world operation may still, however, he
+neecssan‘.
+
+TOP SEC RETHCOMINTHREL T0 USA, FVEYH20320108 3
+
