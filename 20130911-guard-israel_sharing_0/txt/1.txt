@@ -1,0 +1,56 @@
+lUr OLMREIII\.UIVIIIV l/IREL 1k} UDM, l.‘l\
+
+(TS//Sl//REL) MEMORANDUM OF UNDERSTANDING (MOU)
+BETWEEN THE
+NATIONAL SECURITY AGENCY/CENTRAL SECURITY SERVICE (NSA/CSS)
+AND
+THE ISRAELI SIGINT NATIONAL UNIT (ISNU)
+PERTAINING TO THE PROTECTION OF U.S. PERSONS
+
+I. (U) PURPOSE
+
+a.
+
+II.
+
+(TS//SI//REL) This agreement between NSA and The Israeli SIGINT National Unit (ISNU) prescribes
+procedures and responsibilities for ensuring that ISNU handling of materials provided by NSA — including, but
+not limited to, Signals Intelligence (SIGINT) technology and equipment and raw SIGINT data (i.e., signals
+intelligence information that has not been reviewed for foreign intelligence purposes or minimized) — is
+consistent with the requirements placed upon NSA by U.S. law and Executive Order to establish safeguards
+protecting the rights of US. persons under the Fourth Amendment to the United States Constitution.
+
+(TSI/Sll/REL) This agreement will apply to any SIGINT raw trafﬁc, technology, or enabling that NSA may
+provide to ISNU. This agreement applies only to materials provided by NSA and shall not be construed to
+apply to materials collected independently by ISNU.
+
+(TS//SI//REL) ISNU also recognizes that NSA has agreements with Australia, Canada, New Zealand, and the
+United Kingdom that require it to protect information associated with UK. persons, Australian persons,
+Canadian persons and New Zealand persons using procedures and safeguards similar to those applied for US.
+persons. For this reason, in all uses of raw material provided by NSA, ISNU agrees to apply the procedures
+outlined in this agreement to persons of these countries.
+
+(U) This agreement is not intended to create any legally enforceable rights and shall not be construed to be
+either an intemational agreement or a legally binding instrument according to international law.
+
+(U) DEFINITIONS
+
+(C.//SI//REL) Raw SIGINT is any SIGINT acquired either as a result ofsearch and development. or targeted
+collection operations against a particular foreign intelligence target before the information has been evaluated
+for foreign intelligence and minimized. Raw SIGINT includes, but is not limited to. unevaluated and
+unminimized transcripts. gists. facsimiles, telex, voice and Digital Network Intelligence (DNI) metadata and
+content. -
+
+(U//FOUO) Minimization is the process used to determine whether U.S. person information encountered in
+raw SIGINT is essential to assess or understand the signiﬁcance of the foreign intelligence. The NSA Special
+US Liaison Advisor Israel (SUSLAIS) should be consulted any time U.S. person information is found in raw
+SIGINT data supplied by NSA.
+
+(U) A U.S. Person is:
+l) (U) a citizen ofthe United States;
+
+2) (U) an alien lawfully admitted for permanent residence in the United States (informally referred to as a
+“green card“ holder);
+
+TOP SECRETL’COMINT/“REL TO USA. ISR
+
