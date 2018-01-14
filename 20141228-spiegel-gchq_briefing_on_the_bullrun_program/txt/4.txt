@@ -1,0 +1,20 @@
+TOP SECRET STRAPl COMINT
+
+(U) TLS- Transport Laver Security. The follow—on to SSL. SSLv3 ano TLSvlJZII| are
+nearlv io entic al.
+
+(U) ‘VoIP - Voice over Internet Protocol. A general term for the using IP networks to
+make voice phone calls. The application laver protocol can be standards—based (e.g..
+H.323. SIP). or proprietarv (e.g.. Skvpe).
+
+(U) ‘VPN - ’v'irtual Private Network. A private network that makes use of the public
+telecommunications infrastructure. maintaining privacv via the use of a tunneling
+
+protocol and securitv procedures that tvpicallv incluoe encrvption. Common protocols
+incluoe IPSEC ano PPTP.
+
+4 of 4
+This information is exempt from disclosure uruzler the Freedom of Information Act EDDIE: .anI:l| may be subject to exem ion under
+other UK information legislation. Refer-disclosure requests to GCHQ d
+TO P SECRET STRA P1 COMINT
+

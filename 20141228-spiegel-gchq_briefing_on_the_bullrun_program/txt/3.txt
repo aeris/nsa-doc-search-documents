@@ -1,0 +1,61 @@
+TOP SECRET STRAPl COMINT
+
+15. All questions or concerns regarding BULLRUN material and information should
+be directed to |{UPC—SEC.
+
+Protective Marking Guidance
+
+The following offers some guidance on Protectiye Markings {PM} for BULLRUN
+material. Questions regarding PMs can be directed to the Col Authority’s delegates.
+
+At SECRET STRAP1 COMINT AUSCANZUKUS- EYES- .:
+
+The fact that GCHQ has unspecified capabilities against network security
+technologies eg TLSfSSL. HTTPS. SSH. yPNs. IPSec. NB capability does not
+necessarily equate to decryption capability.
+
+At TOP SECRET STRAP1 COMINT AUSCANZUKUS EYES- .:
+
+The fact that GCHQ or its 2"” Party partners has some capability againstthe
+
+encryption used in a class or type of network communications technology. For
+example. yPNs. IPSec. TSUSSL. HTTPS. SSH. encrypted chat. encrypted onP.
+
+At TOP SECRET STRAP2 COMINT BULLRUN AUSCANZUKUS EYES. .:
+
+The fact that GCHQ or a 2"“ Party partner has a capability against a speciﬁc
+encrypted network security technology —- see Annexe for details. [At a minimum.
+specific capabilities may be protected by additional ECIs and restriction on "Eyes".}
+
+The fact that GCHQ or its partners exploits specific encrypted network
+communications —-see Annexe for details. [At a minimum. speciﬁc capabilities may
+be protected by additional ECIs and restriction on "Eyes".}
+
+Decrypts [plaintext or deriyed eyents f metadata} obtained from BULLRUN
+capabilities. (At a minimum. specific capabilities may be protected by additional
+restriction on "Eyes" and. in a few cases. additional ECIs.)
+
+GLOSSARY
+
+[U] HTTPS. - HTTP trafﬁc secured inside an SSLfTLS- session. indicated by the
+httpszl'tIr URL. commonly using TCP port 443
+
+[U] IPSEC -- IPSec. or IP Security. is the Internet Engineering Task Force [IETFJ
+standard for layer 3 real—time communication security. IPSec allows IWO hosts for IWO
+gateways} to establish a secure connection. sometimes called a tunnel. All traffic is
+protected at the network layer.
+
+[U] SSH - Secure Shell. A common protocol used for secure remote computer
+access
+
+[U] SSL- Secure Sockets Layer. Commonly used to proyide secure network
+communication. Widely used on the internet to proyide secure web browsing.
+webmail. instant: messaging. electronic commerce. etc.
+
+3of4
+
+this information is exempt fiEIITII disclosure under the Freedom of Inforn
+other UK information legislation. Refer disclosure requests to ECHO —
+
+TOP SECRET STRAPl COMINT
+

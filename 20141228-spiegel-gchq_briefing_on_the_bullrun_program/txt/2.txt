@@ -1,0 +1,56 @@
+TOP SECRET STRAPl COMINT
+indoctrinated for BULLRUN. The yarious types of security coyered by BULLRUN
+include. but are not limited to. TLSiSSL. https [e.g. webmail]. SSH. encrypted
+chat. yPNs and encrypted VGIP. The speciﬁc instances of these technologies
+
+that can be exploited will be published in a separate Annexe [ayailable to
+BULLRUN indoctrinated staff}.
+
+'i. In addition to the specific technologies that GCHQ or its Sigint partners are able
+to exploit. the methods used to achieye the exploitation must also be protected.
+These include support from other organisations. both internal and external to
+GCHQ. Access to BULLRUN does NOT imply any "need—to—know” the details of
+sources and methods used to achieye exploitation and. in general. there will be
+NO "need—to—know”. Requests for access to information on sources and methods
+should be sent to UPC—SEC; if considered appropriate. this access may require
+clearance for certain ECIs.
+
+8. BULLRUN material. data. and details must be protected with the use of the
+BULLRUN Col and be marked with the label "BULLRUN." in addition to the
+required priyacy marking and other descriptors. Use of the BULLRUN marking
+is restricted to ECHO and its Sigirrt 2”d Parties.
+
+Access and Security
+
+9. Requests for access to the Col must be sponsored by a GCS or aboye and must
+be accompanied by a business case outlining the "need—to—know”. Access for
+contractors will be limited and will require a strong business case; such requests
+should be discussed with the Col Authority’s delegates before submission.
+Requests for access are to be sent by email to PTDAccesses.
+
+10. Knowledge of BULLRUN information and access to the BULLRUN Col will only
+be granted to indoctrinated indiyiduals.
+
+11. It is the responsibility of sponsors [or their successors} to notify UPC—SEC [yia
+PTDAccesses} when an indiyidual no longer require access to BULLRUN.
+
+Handling Procedures
+
+12. Owners of BULLRUN materials are responsible for correctly marking the
+information and for ensuring that it is handled according to guidelines for
+protecting classified or CGI information.
+
+13.. Reports deriyed from BULLRUN material shall not reyeal [or imply} thatthe
+source data was decrypted. The network communication technology that carried
+the communication should not be reyealed.
+
+14. Further dissemination. other than in product reports. of any data or information
+
+deriyed from BULLRUN data must be thoroughly justified and receiye prior
+approyal from |DPS—SEC.
+
+2 of 4
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exem tioh under
+other UK information legislation. Refer disclosure requests to GCHQ on—
+T0 P SECRET STRA P1 COMINT
+
