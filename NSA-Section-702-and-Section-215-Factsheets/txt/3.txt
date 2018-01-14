@@ -1,0 +1,42 @@
+Section 215
+
+Section 215 of the USA PATRIOT Act of 2001, which amended Title V, Section 501 of the Foreign
+Intelligence Surveillance Act (FISA), ”Access to Certain Business Records for Foreign Intelligence
+and International Terrorism Investigations” (50 U.S.C. sec. 1861)
+
+o This program concerns the collection only of telephone metadata. Under this program, the
+government does not acquire the content of any communication, the identity of any party
+to the communication, or any cell—site locational information.
+
+0 This metadata is stored in repositories within secure networks, must be uniquely marked,
+and can only be accessed by a limited number ofjauthorized personnel who have received
+appropriate and adequate training.
+
+0 This metadata may be queried only when there is a reasonable suspicion, based on specific
+and articulated facts, that the identifier that will be used as the basis for the query is
+associated with specific foreign terrorist organizations.
+
+0 The basis for these queries must be documented in writing in advance.
+0 Fewer than two dozen NSA officials may approve such queries.
+0 The documented basis for these queries is regularly audited by the Department ofJustice.
+
+- Only seven senior officials may authorize the dissemination of any US. person information
+outside of NSA (e.g. to the FBI) after determining that the information is related to and is
+necessary to understand counterterrorism information, or assess its importance.
+
+0 Every 30 days, the government must file with the Foreign Intelligence Surveillance Court a
+report describing the implementation of the program, to include a discussion of the
+application of the Reasonable Articulable Suspicion (RAS) standard, the number of approved
+queries and the number of instances that query results that contain US. person information
+were shared outside of NSA in any form.
+
+0 The Foreign Intelligence Surveillance Court reviews and must reauthorize the program every
+90 days.
+
+0 At least once every 90 days, DOJ must meet with the NSA Office of Inspector General to
+discuss their respective oversight responsibilities and assess NSA’s compliance with the
+Court’s orders.
+
+0 At least once every 90 days, representatives from DC], ODNI and NSA meet to assess
+compliance with the Court’s orders.
+
