@@ -1,0 +1,49 @@
+records in bulk where necessary to identify connections between individuals suspected to be
+involved in terrorism.
+
+Fifth, Congress built into the statutory scheme protections not found in the other legal
+contexts to help ensure that even an appropriately broad construction of the “relevance”
+requirement will not lead to misuse of the authority. Section 215, unlike the rules governing
+civil discovery or grand jury subpoenas, always requires prior judicial approval of the
+Govemment’s assertion that particular records meet the relevance requirement and the other
+legal prerequisites. Once the information is produced, the Government can retain and
+disseminate the information only in accordance with minimization procedures reported to and
+approved by the Court. See 50 U.S.C. § 1861(g). The entire process is subject to active
+congressional oversight. See, e. g., id. § 1862. Although Congress certainly intended the
+Government to make a threshold showing of relevance before obtaining information under
+Section 215, these more robust protections regarding collection, retention, dissemination, and
+oversight provide additional mechanisms for promoting responsible use of the authority.
+
+In light of these features of Section 215, and the broad understanding of “relevance,” the
+telephony metadata collection program meets the Section 215 “relevance” standard. There
+clearly are “reasonable grounds to believe” that this category of data, when queried and analyzed
+by the NSA consistent with the Court-imposed standards, will produce information pertinent to
+FBI investigations of international terrorism, and it is equally clear that NSA’s analytic tools
+require the collection and storage of a large volume of metadata in order to accomplish this
+objective. As noted above, NSA employs a multi-tiered process of analyzing the data in an effort
+to identify otherwise unknown connections between telephone numbers associated with known
+or suspected terrorists and other telephone numbers, and to analyze those connections in a way
+that can help identify terrorist operatives or networks. That process is not feasible unless NSA
+analysts have access to telephony metadata in bulk, because they cannot know which of the
+many phone numbers might be connected until they conduct the analysis. The results of the
+analysis ultimately can assist in discovering whether known or suspected terrorists have been in
+contact with other persons who may be engaged in terrorist activities, including persons and
+activities inside the United States. If not collected and held by the NSA, telephony metadata
+may not continue to be available for the period of time (currently ﬁve years) deemed appropriate
+for national security purposes because telecommunications service providers are not typically
+required to retain it for this length of time. Unless the data is aggregated, it may not be feasible
+to identify chains of communications that cross different telecommunications networks.
+Although NSA is exploring whether certain functions could be performed by the
+telecommunications service providers, doing so may not be possible without signiﬁcant
+additional investment and new statutes or regulations requiring providers to preserve and format
+the records and render necessary technical assistance.
+
+The national security objectives advanced by the telephony metadata program would
+therefore be frustrated if the NSA were limited to collection of a narrower set of records. In
+particular, a more restrictive collection of telephony metadata would impede the ability to
+identify a chain of contacts between telephone numbers, including numbers served by different
+telecommunications service providers, signiﬁcantly curtailing the usefulness of the tool. This is
+therefore not a case in which a broad collection of records provides only a marginal increase in
+
+-13-
+

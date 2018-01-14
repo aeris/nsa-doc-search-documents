@@ -1,0 +1,54 @@
+States v. Arthur Young & Co., 465 U.S. 805, 814 (1984) (stating that IRS’s statutory power to
+subpoena any records that may be relevant to a particular tax inquiry allows IRS to obtain items
+“of even potential relevance to an ongoing investigation”) (emphasis in original). Relevance in
+that context is not evaluated in a vacuum but rather through consideration of the nature, purpose,
+and scope of the investigation, see, e.g., Oklahoma Press Pub. Co. v. Walling, 327 US. 186, 209
+(1946), and courts generally defer to an agency’s appraisal of what is relevant. See, e.g., EEOC
+v. Randstad, 685 F.3d 433, 451 (4th Cir. 2012).
+
+In light of that basic understanding of relevance, courts have held that the relevance
+standard permits requests for the production of entire repositories of records, even when any
+particular record is unlikely to directly bear on the matter being investigated, because searching
+the entire repository is the only feasible means to locate the critical documents.7 More generally,
+courts have concluded that the relevance standard permits discovery of large volumes of
+information in circumstances where the requester seeks to identify much smaller amounts of
+information within the data that directly bears on the matter.8 Federal agencies exercise broad
+subpoena powers or other authorities to collect and analyze large data sets in order to identify
+information that directly pertains to the particular subject of an investigation.9 Finally, in the
+analogous ﬁeld of search warrants for data stored on computers, courts permit Government
+agents to copy entire computer hard drives and then later review the entire drive for the specific
+evidence described in the warrant. See Fed. R. Crim. P. 41(e)(2)(B) (“A warrant may
+
+ 
+
+7 See, e.g., Carrillo Huettel, LLP v. SEC, 2011 WL 601369, at *2 (SD. Cal. Feb. 11, 2011) (holding that there is
+reason to believe that law firm’s trust account information for all of its clients is relevant to SEC investigation,
+where the Government asserted the trust account information “may reveal concealed connections between
+unidentified entities and persons and those identified in the investigation thus far . . . [and] the transfer of funds
+cannot effectively be traced without access to all the records”); Goshawk Dedicated Ltd. v. Am. Viatical Servs.,
+LLC, 2007 WL 3492762 at *1 (ND. Ga. Nov. 5, 2007) (compelling production of business’s entire underwriting
+database, despite business’s assertion that it contained a signiﬁcant amount of irrelevant data); see also Chen-Oster
+v. Goldman, Sachs & Co., 285 F.R.D. 294, 305 (S.D.N.Y. 2012) (noting that production of multiple databases could
+be ordered as a “data dump” if necessary for plaintiffs’ statistical analysis of business’s employment practices).
+
+8 See, e.g., In re Subpoena Duces Tecum, 228 F.3d 341, 350-51 (4th Cir. 2000) (holding that subpoena to doctor to
+produce 15,000 patient files was relevant to investigation of doctor for healthcare fraud); In re Grand Jury
+Proceedings, 827 F.2d 301, 305 (8th Cir. 1987) (upholding grand jury subpoenas for all wire money transfer records
+of business’s primary wire service agent in the Kansas City area that exceeded $1000 for a one year period despite
+claim that “the subpoena may make available to the grand jury records involving hundreds of innocent people”); In
+re Adelphia Comm. Corp., 338 BR. 546, 549 and 553 (Bankr. S.D.N.Y. 2005) (permitting inspection of
+“approximately 20,000 large bankers boxes of business records,” and holding that “[i]t is well-settled . . . that sheer
+volume alone is an insufficient reason to deny discovery of documents”); Medtronic Sofamor Danek, Inc. v.
+Michelson, 229 F.R.D. 550, 552 (W.D. Tenn. 2003) (concerning discovery request for “approximately 996 network
+backup tapes, containing, among other things, electronic mail, plus an estimated 300 gigabytes of other electronic
+data that is not in a backed-up format, all of which contains items potentially responsive to discovery requests”).
+
+9 See, e.g., F .T.C. v. Invention Submission Corp., 965 F.2d 1086 (DC. Cir. 1992) (upholding broad subpoena for
+financial information in FI’C investigation of unfair or deceptive trade practices because it “could facilitate the
+Commission’s investigation . . . in different ways, not all of which may yet be apparent”); see also Associated
+Container Transp. (Aus.) Ltd. v. United States, 705 F.2d 53, 58 (2nd Cir. 1983) (“recognizing the broad
+investigatory powers granted to the Justice Department by the Antitrust Civil Process Act,” which are broad in scope
+due to the “‘less precise nature of investigations’”) (quoting H.R. Rep. No. 94-1343, at 11 (1976)).
+
+-10-
+

@@ -1,0 +1,47 @@
+The vast majority of the telephony metadata is never seen by any person because it is not
+responsive to the limited queries that are authorized. But the information that is generated in
+response to these limited queries could be especially signiﬁcant in helping the Government
+identify and disrupt terrorist plots. Thus, while the relevance standard provides the Government
+with broad authority to collect data that is necessary to conduct authorized investigations, the
+FISC’s orders require that the data will be substantively queried only for that authorized purpose.
+That is the balanced scheme that Congress adopted when it joined the broad relevance standard
+with the requirement for judicial approval set forth in Section 215.
+
+Indeed, given the rigorous protections imposed by the FISC, even if the statutory
+standard were not “relevance” as the term has been used in analogous legal contexts, but rather
+the Fourth Amendment reasonableness standard that the Supreme Court has adopted for searches
+not predicated on individualized suspicion, the telephony metadata program would be lawful.
+(For the reasons discussed below, the Fourth Amendment’s reasonableness requirement does not
+apply in this context because individuals have no reasonable expectation of privacy in the
+telephony metadata records collected from providers under the program, see pp. 19-21, infra, but
+for present purposes we assume contrary to the facts that such a reasonable expectation exists.)
+The Supreme Court has held that “where a Fourth Amendment intrusion serves special
+government needs, beyond the normal need for law enforcement, it is necessary to balance the
+individual’s privacy expectations against the Govemment’s interests to determine whether it is
+impractical to require a warrant or . . . individualized suspicion in the particular context.” Nat’l
+Treas. Employees Union v. Von Raab, 489 US. 656, 665-66 (1989). As noted above, the
+telephony metadata collected under Section 215 does not include the private content of any
+person’s telephone calls, or who places or answers the calls, but only technical data, such as
+information concerning the numbers dialed and the time and duration of the calls. Even if there
+were an individual privacy interest in such telephony metadata under the Fourth Amendment, it
+would be limited, and any infringement on that interest would be substantially mitigated by the
+judicially approved restrictions on accessing and disseminating the data. See Board of Educ. of
+Indep. School Dist. No. 92 of Pottawatomie County v. Earls, 536 US 822, 833 (2002) (ﬁnding
+that restrictions on access to drug testing information lessened testing program’s intrusion on
+privacy). On the other side of the scale, the interest of the Government—and the broader
+public—in discovering and tracking terrorist operatives and thwarting terrorist attacks is a
+national security concern of overwhelming importance. See Haig v. Agee, 453 US. 280, 307
+(1981) (“It is obvious and unarguable that no governmental interest is more compelling than the
+security of the Nation.”) (internal quotation marks omitted); see also In re Directives, 551 F.3d
+1004, 1012 (FISC-R 2008) (“Here, the relevant governmental interest—the interest in national
+security—is of the highest order of magnitude.”). Moreover, the telephony metadata collection
+program is, at the very least, “a reasonably effective means of addressing” the Govemment’s
+national security needs in this context. Earls, 536 US. at 837. Thus, even if the appropriate
+standard for the telephony metadata collection program were not relevance, but rather a Fourth
+Amendment reasonableness analysis, the Govemment’s interest is compelling and immediate,
+the intrusion on privacy interests is limited, and the collection is a reasonably effective means of
+detecting and monitoring terrorist operatives and thereby obtaining information important to FBI
+investigations.
+
+-15-
+

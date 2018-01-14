@@ -1,0 +1,49 @@
+investigations that “relevance” is a broad standard that permits discovery of large volumes of
+data in circumstances where doing so is necessary to identify much smaller amounts of
+information within that data that directly bears on the matter being investigated. Although broad
+in scope, the telephony metadata collection program meets the “relevance” standard of Section
+215 because there are “reasonable grounds to believe” that this category of data, when queried
+and analyzed consistent with the Court-approved standards, will produce information pertinent to
+FBI investigations of international terrorism, and because certain analytic tools used to
+accomplish this objective require the collection and storage of a large volume of telephony
+metadata. This does not mean that Section 215 authorizes the collection and storage of all types
+of information in bulk: the relevance of any particular data to investigations of international
+terrorism depends on all the facts and circumstances. For example, communications metadata is
+different from many other kinds of records because it is inter-connected and the connections
+between individual data points, which can be reliably identiﬁed only through analysis of a large
+volume of data, are particularly important to a broad range of investigations of international
+terrorism.
+
+Moreover, information concerning the use of Section 215 to collect telephony metadata
+in bulk was made available to all Members of Congress, and Congress reauthorized Section 215
+without change after this information was provided. It is signiﬁcant to the legal analysis of the
+statute that Congress was on notice of this activity and of the source of its legal authority when
+the statute was reauthorized.
+
+The telephony metadata collection program also complies with the Constitution.
+Supreme Court precedent makes clear that participants in telephone calls lack a reasonable
+expectation of privacy for purposes of the Fourth Amendment in the telephone numbers used to
+make and receive their calls. Moreover, particularly given the Court-imposed restrictions on
+accessing and disseminating the data, any arguable privacy intrusion arising from the collection
+of telephony metadata would be outweighed by the public interest in identifying suspected
+terrorist operatives and thwarting terrorist plots, rendering the program reasonable within the
+meaning of the Fourth Amendment. Likewise, the program does not violate the First
+Amendment, particularly given that the telephony metadata is collected to serve as an
+investigative tool in authorized investigations of international terrorism.
+
+I. THE TELEPHONY METADATA COLLECTION PROGRAM
+
+One of the greatest challenges the United States faces in combating international
+terrorism and preventing potentially catastrophic terrorist attacks on our country is identifying
+terrorist operatives and networks, particularly those operating within the United States.
+Detecting threats by exploiting terrorist communications has been, and continues to be, one of
+the critical tools in this effort. It is imperative that we have the capability to rapidly identify any
+terrorist threat inside the United States.
+
+One important method that the Government has developed to accomplish this task is
+analysis of metadata associated with telephone calls within, to, or from the United States. The
+term “metadata” as used here refers to data collected under the program that is about telephone
+calls but does not include the content of those calls. By analyzing telephony metadata based on
+
+-2-
+

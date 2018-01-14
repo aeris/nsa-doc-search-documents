@@ -1,0 +1,48 @@
+metadata substantially mitigate any First Amendment concerns arising from the breadth of the
+collection.
+
+In any event, otherwise lawful investigative activities conducted in good faith—that is,
+not for the purpose of deterring or penalizing activity protected by the First Amendment—do not
+violate the First Amendment. See, e. g., Reporters Comm. for Freedom of the Press v. AT&T,
+593 F.2d 1030, 1051 (DC. Cir. 1978) (First Amendment protects activities “subject to the
+general and incidental burdens that arise from good faith enforcement of otherwise valid criminal
+and civil laws that are not themselves” directed at First Amendment conduct) (emphasis added);
+United States v. Aguilar, 883 F.2d 662, 705 (9th Cir. 1989) (“use of undercover informants to
+inﬁltrate an organization engag[ed] in protected ﬁrst amendment activities” must be part of an
+investigation “conducted in good faith; i.e., not for the purpose of abridging first amendment
+freedoms”). The Govemment’s collection of telephony metadata in support of investigative
+efforts against specific foreign terrorist organizations are not aimed at curtailing any First
+Amendment activities, whether free speech or associational activities. Rather, the collection is in
+furtherance of the compelling national interest in identifying and tracking terrorist operatives and
+ultimately in thwarting terrorist attacks, particularly against the United States. It therefore
+satisﬁes any “good faith” requirement for purposes of the First Amendment. See Reporters
+Comm., 593 F.2d at 1052 (“[T]he Govemment’s good faith inspection of defendant telephone
+companies’ toll call records does not infringe on plaintiffs’ First Amendment rights, because that
+Amendment guarantees no freedom from such investigation.”)
+
+Nor does the Government’s collection and targeted analysis of metadata violate the First
+Amendment because of an asserted “chilling effect” on First Amendment-protected speech or
+association. The Supreme Court has held that an otherwise constitutionally reasonable search of
+international mail, though not based on probable cause or a warrant, does not impermissibly chill
+the exercise of First Amendment rights, at least where regulations preclude the Government from
+reading the content of any correspondence without a warrant. See United States v. Ramsey, 431
+U.S. 606, 623-24 (1977) (noting that because envelopes are opened at the border only when
+customs ofﬁcers have reason to suspect they contain something other than correspondence, and
+reading of correspondence is forbidden absent a warrant, any “chill” that might exist is both
+minimal and subjective and there is no infringement of First Amendment rights). Similarly, the
+bulk telephony metadata is queried only where there is a reasonable, articulable suspicion that
+the identifier used to query the data is associated with a particular foreign terrorist organization,
+and the program does not involve the collection of any content, let alone the review of such
+content.
+
+The Executive Branch and the FISC have enacted strict oversight standards to guard
+against any potential for misuse of the data, and mandatory reporting to the FISC and Congress
+are designed to make certain that, when significant compliance problems are identiﬁed, they are
+promptly addressed with the active engagement of all three branches of Government. This
+system of checks and balances guarantees that the telephony metadata is not used to inﬁinge
+First Amendment protected rights while also ensuring that it remains available to the
+Government to use for one of its most important responsibilities—protecting its people from
+international terrorism.
+
+-22-
+

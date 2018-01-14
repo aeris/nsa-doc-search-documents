@@ -1,0 +1,51 @@
+§ 1861(b)(2)(A) (emphasis added). This includes not only information directly relevant to the
+authorized object of the investigation—i.e., “foreign intelligence information” or “international
+terrorism or clandestine intelligence activities”—but also information relevant to the
+investigative process or methods employed in reasonable furtherance of such national security
+investigations. In the particular circumstance in which the collection of communications
+metadata in bulk is necessary to enable discovery of otherwise hidden connections between
+individuals suspected of engaging in terrorist activity, the metadata records are relevant to the
+FBI’s “investigation[s]” to which those connections relate. Notably, Congress specifically
+rejected proposals to limit the relevance standard so that it would encompass only records
+pertaining to individuals suspected of terrorist activity. 12
+
+Third, unlike most civil or criminal discovery or administrative inquiries, these
+investigations often focus on preventing threats to national security from causing harm, not on
+the retrospective determination of liability or guilt for prior activities. The basic purpose of
+Section 215, after all, is to provide a tool for discovering and thwarting terrorist plots and other
+national security threats that may not be known to the Government at the outset. For that reason,
+Congress recognized that in collecting records potentially “relevant to an authorized
+investigation” under Section 215, the FBI would not be limited to records known with certainty,
+or even with a particular level of statistical probability, to contain information that directly bears
+on a terrorist plot or national security threat. Rather, for Section 215 to be effective in advancing
+its core objective, the FBI must have the authority to collect records that, when subjected to
+reasonable and proven investigatory techniques, can produce information that will help the
+Government to identify previously unknown operatives and thus to prevent terrorist attacks
+before they succeed.
+
+Fourth, and relatedly, unlike ordinary criminal investigations, the sort of national security
+investigations with which Section 215 is concerned often have a remarkable breadth—spanning
+long periods of time, multiple geographic regions, and numerous individuals, whose identities
+are often unknown to the intelligence community at the outset. The investigative tools needed to
+combat those threats must be deployed on a correspondingly broad scale. In this context, it is not
+surprising that Congress enacted a statute with a standard that enables the FBI to seek certain
+
+ 
+
+12 See S. 2369, 109th Cong. § 3 (2006) (requiring Government to demonstrate relevance of records sought to agents
+of foreign powers, including terrorist organizations, or their activities or contacts); 152 Cong. Rec. 81598-03 (2006)
+(statement of Sen. Levin) (“The Senate bill required a showing that the records sought were not only relevant to an
+investigation but also either pertained to a foreign power or an agent of a foreign power, which term includes
+terrorist organizations, or were relevant to the activities of a suspected agent of a foreign power who is the subject of
+an authorized investigation or pertained to an individual in contact with or known to be a suspected agent. In other
+words, the order had to be linked to some suspected individual or foreign power. Those important protections are
+omitted in the bill before us.”); 152 Cong. Rec. H581-02 (2006) (statement of Rep. Nadler) (“The conference report
+does not restore the section 505 previous standard of speciﬁc and articulable facts connecting the records sought to a
+suspected terrorist. It should”); 151 Cong. Rec. 814275-01 (2005) (statement of Sen. Dodd) (“Unfortunately, the
+conference report differs from the Senate version as it maintains the minimal standard of relevance without a
+requirement of fact connecting the records sought, or the individual, suspected of terrorist activity. Additionally, the
+conference report does not impose any limit on the breadth of the records that can be requested or how long these
+records can be kept by the Govemment.”).
+
+-12-
+

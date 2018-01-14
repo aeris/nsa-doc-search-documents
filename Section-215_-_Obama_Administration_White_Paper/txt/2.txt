@@ -1,0 +1,47 @@
+BULK COLLECTION OF TELEPHONY METADATA
+UNDER SECTION 215 OF THE USA PATRIOT ACT
+
+This white paper explains the Government’s legal basis for an intelligence collection
+program under which the Federal Bureau of Investigation (FBI) obtains court orders directing
+certain telecommunications service providers to produce telephony metadata in bulk. The bulk
+metadata is stored, queried and analyzed by the National Security Agency (NSA) for
+counterterrorism purposes. The Foreign Intelligence Surveillance Court (“the FISC” or “the
+Court”) authorizes this program under the “business records” provision of the Foreign
+Intelligence Surveillance Act (FISA), 50 U.S.C. § 1861, enacted as section 215 of the USA
+PATRIOT Act (Section 215). The Court ﬁrst authorized the program in 2006, and it has since
+been renewed thirty-four times under orders issued by fourteen different FISC judges. This
+paper explains why the telephony metadata collection program, subject to the restrictions
+imposed by the Court, is consistent with the Constitution and the standards set forth by Congress
+in Section 215. Because aspects of this program remain classified, there are limits to what can
+be said publicly about the facts underlying its legal authorization. This paper is an effort to
+provide as much information as possible to the public concerning the legal authority for this
+program, consistent with the need to protect national security, including intelligence sources and
+methods. While this paper summarizes the legal basis for the program, it is not intended to be an
+exhaustive analysis of the program or the legal arguments or authorities in support of it.
+
+EXECUTIVE SUMMARY
+
+Under the telephony metadata collection program, telecommunications service
+providers, as required by court orders issued by the FISC, produce to the Government certain
+information about telephone calls, principally those made within the United States and between
+the United States and foreign countries. This information is limited to telephony metadata,
+which includes information about what telephone numbers were used to make and receive the
+calls, when the calls took place, and how long the calls lasted. Importantly, this information does
+not include any information about the content of those calls—the Government cannot, through
+this program, listen to or record any telephone conversations.
+
+This telephony metadata is important to the Government because, by analyzing it, the
+Government can determine whether known or suspected terrorist operatives have been in contact
+with other persons who may be engaged in terrorist activities, including persons and activities
+within the United States. The program is carefully limited to this purpose: it is not lawful for
+anyone to query the bulk telephony metadata for any purpose other than counterterrorism, and
+Court-imposed rules strictly limit all such queries. The program includes internal oversight
+mechanisms to prevent misuse, as well as external reporting requirements to the FISC and
+Congress.
+
+Multiple FISC judges have found that Section 215 authorizes the collection of telephony
+metadata in bulk. Section 215 permits the FBI to seek a court order directing a business or other
+entity to produce records or documents when there are reasonable grounds to believe that the
+information sought is relevant to an authorized investigation of international terrorism. Courts
+have held in the analogous contexts of civil discovery and criminal and administrative
+

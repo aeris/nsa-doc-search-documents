@@ -1,0 +1,52 @@
+supporting such conduct. See id. at 23. FBI investigations into the international terrorist
+organizations identiﬁed to the Court readily meet that standard, and there have been numerous
+FBI investigations in the last several years to which the telephony metadata records are relevant.
+The guidelines provide that investigations of a terrorist organization “may include a general
+examination of the structure, scope, and nature of the group or organization including: its
+relationship, if any, to a foreign power; [and] the identity and relationship of its members,
+employees, or other persons who may be acting in furtherance of its objectives.” Id. And in
+investigating international terrorism, the FBI is required to “fully utilize the authorities and the
+methods authorized” in the guidelines, which include “[a]ll lawful . . . methods,” including the
+use of intelligence tools such as Section 215. Id. at 12 and 31.
+
+2. Tangible Things. The telephony metadata records are among the types of materials
+that can be obtained under Section 215. The statute broadly provides for the production of “any
+tangible things (including books, records, papers, documents, and other items).” See 50 U.S.C.
+§ 1861(a)(1). There is little question that in enacting Section 215 in 2001 and then amending it
+in 2006, Congress understood that among the things that the FBI would need to acquire to
+conduct terrorism investigations were documents and records stored in electronic form.
+Congress may have used the term “tangible things” to make clear that this authority covers the
+production of items as opposed to oral testimony, which is another type of subpoena beyond the
+scope of Section 215. Thus, as Congress has made clear in other statutes involving production of
+records, “tangible things” include electronically stored information. See 7 U.S.C. § 7733(a)
+(“The Secretary shall have the power to subpoena . . . the production of all evidence (including
+books, papers, documents, electronically stored information, and other tangible things that
+constitute or contain evidence).”) (emphasis added); 7 U.S.C. § 8314 (a)(2)(A) (containing the
+same language).3
+
+The non-exhaustive list of “tangible things” in Section 215, moreover, includes the terms
+“documents” and “records,” both of which are commonly used in reference to information stored
+in electronic form. The telephony metadata information is an electronically stored “record” of,
+among other information, the date, time, and duration of a call between two telephone numbers.
+And in the analogous context of civil discovery, the term “documents” has for decades been
+interpreted to include electronically stored information. The Federal Rules of Civil Procedure
+were amended in 1970 to make that understanding of the term “documents” explicit, see Nat’l.
+Union Elec. Corp. v. Matsushita Elec. Indus. Co., Ltd., 494 F. Supp. 1257, 1261-62 (E.D. Pa.
+1980), and again in 2006 to expressly add the term “electronically stored information.” See Fed.
+R. Civ. Pro. 34 (governing production of “documents, electronically stored information, and
+tangible things”).4 Moreover, a judge may grant an order for production of records under
+
+ 
+
+3 The word “tangible” can be used in some contexts to connote not only tactile objects like pieces of paper, but also
+any other things that are “capable of being perceived” by the senses. See Merriam Webster Online Dictionary
+(2013) (defining “tangible” as “capable of being perceived especially by the sense of touch”) (emphasis added).
+
+4 The notes of the Advisory Committee on the 2006 amendments to Rule 34 explain that:
+Lawyers and judges interpreted the term “documents” to include electronically stored information because
+
+it was obviously improper to allow a party to evade discovery obligations on the basis that the label had not
+kept pace with changes in information technology. But it has become increasingly difficult to say that all
+
+-7-
+

@@ -1,0 +1,49 @@
+B. Congressional Reauthorizations
+
+The telephony metadata collection program satisﬁes the plain text and basic purposes of
+Section 215 (as well as the Constitution, see infra pp. 20-24) and is therefore lawful. But to the
+extent there is any question as to the program’s compliance with the statute, it is signiﬁcant that,
+after information concerning the telephony metadata collection program carried out under the
+authority of Section 215 was made available to Members of Congress, Congress twice
+reauthorized Section 215. When Congress reenacts a statute without change, it is presumed to
+have adopted the administrative or judicial interpretation of the statute if it is aware of the
+interpretation. See Lorillard v. Pans, 434 US. 575, 580 (1978). The FISC’s conclusion that
+Section 215 authorized the collection of telephony metadata in bulk was classified and not
+publicly known. However, it is important to the legal analysis of the statute that the Congress
+was on notice of this program and the legal authority for it when the statute was reauthorized.
+
+Although the proceedings before the FISC are classified, Congress has enacted legislation
+to ensure that its members are aware of signiﬁcant interpretations of law by the FISC. FISA
+requires “the Attorney General [to] submit to the [Senate and House Intelligence and Judiciary
+Committees] . . . a summary of significant legal interpretations of this chapter involving matters
+before the [FISC or Foreign Intelligence Surveillance Court of Review (FISCR)], including
+interpretations presented in applications or pleadings ﬁled with the [FISC or FISCR] by the
+Department of Justice and . . . copies of all decisions, orders, or opinions of the [FISC or FISCR]
+that include signiﬁcant construction or interpretation of the provisions of this chapter.” 50
+U.S.C. § 1871(a). The Executive Branch not only complied with this requirement with respect to
+the telephony metadata collection program, it also worked to ensure that all Members of
+Congress had access to information about this program and the legal authority for it. Congress
+was thus on notice of the FISC’s interpretation of Section 215, and with that notice, twice
+extended Section 215 without change.
+
+In December 2009, DO] worked with the Intelligence Community to provide a classiﬁed
+briefing paper to the House and Senate Intelligence Committees that could be made available to
+all Members of Congress regarding the telephony metadata collection program. A letter
+accompanying the briefing paper sent to the House Intelligence Committee speciﬁcally stated
+that “it is important that all Members of Congress have access to information about this
+program” and that “making this document available to all members of Congress is an effective
+way to inform the legislative debate about reauthorization of Section 215.” See Letter from
+Assistant Attorney General Ronald Weich to the Honorable Silvestre Reyes, Chairman, House
+Permanent Select Committee on Intelligence (Dec. 14, 2009). Both Intelligence Committees
+made this document available to all Members of Congress prior to the February 2010
+reauthorization of Section 215. See Letter from Sen. Diane Feinstein and Sen. Christopher S.
+Bond to Colleagues (Feb. 23, 2010); Letter from Rep. Silvestre Reyes to Colleagues (Feb. 24,
+2010); see also 156 Cong. Rec. H838 (daily ed. Feb. 25, 2010) (statement of Rep. Hastings); 156
+Cong. Rec. S2109 (daily ed. Mar. 25, 2010) (statement of Sen. Wyden) (“[T]he Attorney General
+and the Director of National Intelligence have prepared a classified paper that contains details
+about how some of the Patriot Act’s authorities have actually been used, and this paper is now
+available to all members of Congress, who can read it in the Intelligence Committee’s secure
+ofﬁce spaces. I would certainly encourage all of my colleagues to come down to the Intelligence
+
+-17-
+

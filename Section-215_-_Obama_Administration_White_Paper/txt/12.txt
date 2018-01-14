@@ -1,0 +1,52 @@
+authorize the seizure of electronic storage media [and] authorize[] a later review of the media
+or information consistent with the warrant.”). 10 These longstanding practices in a variety of legal
+arenas demonstrate a broad understanding of the requirement of relevance developed in the
+context of investigatory information collection.
+
+It is reasonable to conclude that Congress had that broad concept of relevance in mind
+when it incorporated this standard into Section 215. The statutory relevance standard in Section
+215, therefore, should be interpreted to be at least as broad as the standard of relevance that has
+long governed ordinary civil discovery and criminal and administrative investigations, which
+allows the broad collection of records when necessary to identify the directly pertinent
+documents. To be sure, the cases that have been decided in these contexts do not involve
+collection of data on the scale at issue in the telephony metadata collection program, and the
+purpose for which information was sought in these cases was not as expansive in scope as a
+nationwide intelligence collection effort designed to identify terrorist threats. While these cases
+do not demonstrate that bulk collection of the type at issue here would routinely be permitted in
+civil discovery or a criminal or administrative investigation, they do show that the “relevance”
+standard affords considerable latitude, where necessary, and depending on the context, to collect
+a large volume of data in order to ﬁnd the key bits of information contained within. Moreover,
+there are a number of textual and contextual indications that Congress intended Section 215 to
+embody an even more ﬂexible standard that takes into account the uniquely important purposes
+of the statute, the factual environment in which national security investigations take place, and
+the special facets of the statutory scheme in which Section 215 is embedded.
+
+First, Section 215’s standard on its face is particularly broad, because the Government
+need only show that there are “reasonable grounds to believe” that the records sought are
+relevant to an authorized investigation. 50 U.S.C. § 1861(b)(2)(A). That phrase reﬂects
+Congress’s understanding that Section 215 permits a particularly broad scope for production of
+records in connection with an authorized national security investigation.
+
+Second, unlike, for example, civil discovery rules, which limit discovery to those matters
+“relevant to the subject matter involved in the action,” Fed. R. Civ. P. 26(b)(1), Section 215
+requires only that the documents be relevant to an “authorized investigation.” 50 U.S.C.
+
+ 
+
+10 See, e.g., United States v. Hill, 459 F.3d 966, 975 (9th Cir. 2006) (recognizing that “blanket seizure” of the
+defendant’s entire computer system, followed by subsequent review, may be permissible if explanation as to why it
+is necessary is provided); United States v. Upham, 168 F.3d 532, 535 (1st Cir. 1999) (explaining that “the seizure
+and subsequent off-premises search of the computer and all available disks was about the narrowest definable search
+and seizure reasonably likely to obtain the images” and that “[a] sufficient chance of finding some needles in the
+computer haystack was established by the probable-cause showing in the warrant application”).
+
+11 Some Members of Congress opposed Section 215 because in their View it afforded too broad a standard for
+collection of information. See, e. g., 152 Cong. Rec. 2422 (2006) (statement of Sen. Feingold) (“[T]he deal would
+allow subpoenas in instances when there are reasonable grounds for simply believing that information is relevant to
+a terrorism investigation. That is an extremely low bar.”); 156 Cong. Rec. 82108-01 (2010) (statement of Sen.
+Wyden) (“‘Relevant’ is an incredibly broad standard. In fact, it could potentially permit the Government to collect
+the personal information of large numbers of law-abiding Americans who have no connection to terrorism
+whatsoever.”)
+
+-11-
+

@@ -1,0 +1,52 @@
+This collection, moreover, occurs only in a context in which the Government’s acquisition, use,
+and dissemination of the information are subject to strict judicial oversight and rigorous
+protections to prevent its misuse.
+
+A. Statutory Requirements
+
+Section 215 authorizes the FISC to issue an order for the “production of any tangible
+things (including books, records, papers, documents, and other items) for an investigation to
+obtain foreign intelligence information not concerning a United States person or to protect
+against international terrorism,” except that it prohibits an “investigation of a United States
+person” that is “conducted solely on the basis of activities protected by the ﬁrst amendment to
+the Constitution.” 50 U.S.C. § l861(a)(1). The Government’s application for an order must
+include “a statement of facts showing that there are reasonable grounds to believe that the
+tangible things sought are relevant to [such] an authorized investigation (other than a threat
+assessment)” and that the investigation is being conducted under guidelines approved by the
+Attorney General. Id. § 1861(b)(2)(A) and (a)(2)(A). Because Section 215 does not authorize
+the FISC to issue an order for the collection of records in connection with FBI threat
+assessments,1 to obtain records under Section 215 the investigation must be “predicated” (e. g.,
+based on facts or circumstances indicative of terrorism, consistent with FBI guidelines approved
+by the Attorney General). Finally, Section 215 authorizes the collection of records only if they
+are of a type that could be obtained either “with a subpoena duces tecum issued by a court of the
+United States in aid of a grand jury investigation or with any other order issued by a court of the
+United States directing the production of records or tangible things.” Id. § 1861(c)(2)(D).2 The
+telephony metadata collection program complies with each of these requirements.
+
+1. Authorized Investigation. The telephony metadata records are sought for properly
+predicated FBI investigations into specific international terrorist organizations and suspected
+terrorists. The FBI conducts the investigations consistent with the Attorney General ’s
+Guidelines for Domestic FBI Operations, U.S. Dep’t of Justice (2008), which direct the FBI “to
+protect the United States and its people from . . . threats to the national security” and to “further
+the foreign intelligence objectives of the United States,” a mandate that extends beyond
+traditional criminal law enforcement. See id. at 12. The guidelines authorize a full investigation
+into an international terrorist organization if there is an “articulable factual basis for the
+investigation that reasonably indicates that the group or organization may have engaged . . .
+in . . . international terrorism or other threat to the national security,” or may be planning or
+
+ 
+
+1 “Threat assessments” refer to investigative activity that does not require any particular factual predication (but
+
+does require an authorized purpose and cannot be based on the exercise of First Amendment protected activity or on
+race, ethnicity, national origin, or religion of the subject). FBI Domestic Investigations and Operations Guide, § 5.1
+(201 1).
+
+2 Indeed, Section 215 was enacted because the FBI lacked the ability, in national security investigations, to seek
+business records in a way similar to its ability to seek records using a grand jury subpoena in a criminal case or an
+administrative subpoena in civil investigations. See, e. g., S. Rep. No. 109-85, at 20 (2005) (“[A] federal prosecutor
+need only sign and issue a grand jury subpoena to obtain similar documents in criminal investigations, yet national
+security investigations have no similar investigative tool.”).
+
+-6-
+

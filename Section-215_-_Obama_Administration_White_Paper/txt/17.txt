@@ -1,0 +1,47 @@
+4. Prospective Orders. Section 215 authorizes the FISC to issue orders to produce
+telephony metadata records prospectively. Nothing in the text of the statute suggests that FISC
+orders may relate only to records previously created. The fact that the requested information has
+not yet been created at the time of the application, and that its production is requested on an
+ongoing basis, does not affect the basic character of the information as “documents,” “records,”
+or other “tangible things” subject to production under the statute. Nor do the orders require the
+creation or preservation of documents that would otherwise not exist. Section 215 orders are not
+being used to compel a telecommunications service provider to retain information that the
+provider would otherwise discard, because the telephony metadata records are routinely
+maintained by the providers for at least eighteen months in the ordinary course of business
+pursuant to Federal Communications Commission regulations. See 47 C.F.R. § 42.6. In this
+context, the continued existence of the records and their continuing relevance to an international
+terrorism investigation will not change over the 90-day life of a FISC order.
+
+Prospective production of records has been deemed appropriate in other analogous
+contexts. For example, courts have held that the Federal Rules of Civil Procedure give a court
+the “authority to order [the] respondent to produce materials created after the return date of the
+subpoena.” Chevron v. Salazar, 275 F.R.D. 437, 449 (S.D.N.Y 2011); see also United States v.
+I.B.M., 83 F.R.D. 92, 96 (S.D.N.Y. 1979). Other courts have held that, under the Stored
+Communications Act, because the statute does not “limit the ongoing disclosure of records to the
+Government as soon as they are created,” the Government may seek prospective disclosure of
+records. See, e. g., In re Application for an Order Authorizing the Use of Two Pen Register and
+Trap and Trace Devices, 632 F. Supp. 2d 202, 207 n.8 (E.D.N.Y. 2008) (“prospective . . .
+information sought by the Government . . . becomes a ‘historical record’ as soon as it is recorded
+by the provider.”). Neither Section 215 nor any other part of the FISA statutory scheme
+prohibits the ongoing production of business records that are generated on a daily basis to the
+Government soon after they are created. Nor is there any legislative history indicating that
+Congress intended to prevent courts from issuing prospective orders under Section 215 in these
+circumstances.
+
+This type of prospective order also provides efficient administration for all parties
+involved—the Court, the Government, and the provider. There is little doubt that the
+Government could seek a new order on a daily basis for the records created within the last 24
+hours. But the creation and processing of such requests would impose entirely unnecessary
+burdens on both the Court and the Govemment—and no new information would be anticipated
+in such a short period of time to alter the basis of the Govemment’s request or the facts upon
+which the Court has based its order. Providers would also be forced to review daily requests of
+differing docket numbers, rather than merely complying with one ongoing request, which would
+be more onerous on the providers and raise potential and unnecessary compliance issues.
+Importantly, the FISC orders do not allow the Government to receive this information in
+perpetuity: the 90-day renewal requires the Government to make continuing justiﬁcations for the
+business records on a routine basis. Therefore, the prospective orders merely ensure that the
+records can be sought in a reasonable manner for a reasonable period of time while avoiding
+unreasonable and burdensome paperwork.
+
+-16-
+

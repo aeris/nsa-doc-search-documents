@@ -1,0 +1,48 @@
+unreasonable and overbroad under the Fourth Amendment because it “may make available to the
+grand jury records involving hundreds of innocent people”).
+
+Even if one were to assume arguendo that the collection of telephony metadata involved
+a “search” within the meaning of the Fourth Amendment, for the reasons discussed above (see p.
+15, supra), that search would satisfy the reasonableness standard that the Supreme Court has
+established in its cases authorizing the Government to conduct large-scale, but minimally
+intrusive, suspicionless searches. That standard requires a balancing of “the promotion of
+legitimate Governmental interests against the degree to which [the search] intrudes upon an
+individual’s privacy.” Maryland v. King, 133 S. Ct. 1958, 1970 (2013) (internal citation and
+quotation marks omitted). Such a balance of interests overwhelmingly favors the Government in
+this context. If any Fourth Amendment privacy interest were implicated by collection of
+telephony metadata, which does not include the content of any conversations, it would be
+minimal. Moreover, the intrusion on that interest would be substantially reduced by judicial
+orders providing that the data may be examined by an NSA analyst only when there is a
+“reasonable, articulable suspicion” that the seed identifier that is proposed for querying the data
+is associated with a specific foreign terrorist organization previously approved by the Court.
+Indeed, as the program has been conducted, only an exceedingly small fraction of the data
+collected has ever been seen—a fact that weighs heavily in the Fourth Amendment calculus.
+See, e. g., id. at 1979 (relying on safeguards that limited DNA analysis to identiﬁcation
+information alone, without revealing any private information, as reducing any intrusion into
+privacy); Vernonia School District 47.] v. Acton, 515 US. 646, 658 (1995) (ﬁnding it significant
+that urine testing of student athletes looked only for certain drugs, not for any medical
+conditions, as reducing any intrusion on privacy).
+
+On the other side of the balance, there is an exceptionally strong public interest in the
+prevention of terrorist attacks, and telephony metadata analysis can be an important part of
+achieving that objective. This interest does not merely entail “ordinary crime-solving,” King,
+133 S. Ct. at 1982 (Scalia, J ., dissenting), but rather the forward-looking prevention of the loss of
+life, including potentially on a catastrophic scale. Given that exceedingly important objective,
+and the minimal, if any, Fourth Amendment intrusion that the program entails, the program
+would be constitutional even if the Fourth Amendment’s reasonableness standard applied.
+
+B. First Amendment
+
+The telephony metadata collection is also consistent with the First Amendment. It merits
+emphasis again in this context that the program does not collect the content of any
+communications and that the data may be queried only when the Government has a reasonable,
+articulable suspicion that a particular number is associated with a speciﬁc foreign terrorist
+organization. Section 215, moreover, expressly prohibits the collection of records for an
+investigation that is being conducted solely on the basis of protected First Amendment activity, if
+the investigation is of a US. person. The FBI is also prohibited under applicable Attorney
+General guidelines from predicating an investigation solely on the basis of activity protected by
+the First Amendment. The Court-imposed rules that restrict the Govemment’s queries to those
+based on terrorist-associated seed identifiers and preclude indiscriminate use of the telephony
+
+-21-
+

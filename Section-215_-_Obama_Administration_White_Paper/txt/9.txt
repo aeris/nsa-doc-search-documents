@@ -1,0 +1,50 @@
+Section 215 only if the records could “be obtained with a subpoena duces tecum issued by a
+court of the United States in aid of a grand jury investigation or with any other order issued by a
+court of the United States directing the production of records or tangible things,” and grand jury
+subpoenas can be and frequently are used to seek electronically stored telephony metadata
+records such as those sought under Section 215 or other electronically stored records. See 50
+U.S.C. § 1861(c)(2)(D) (emphasis added); 18 U.S.C. § 2703(b)(1)(B)(i). That further conﬁrms
+that Section 215 applies to electronically stored information.
+
+3. Relevance to an Authorized Investigation. The telephony metadata program also
+satisﬁes the statutory requirement that there be “reasonable grounds to believe” that the records
+collected are “relevant to an authorized investigation . . . to obtain foreign intelligence
+information . . . or to protect against international terrorism or clandestine intelligence
+activities.” See 50 U.S.C. § 1861(b)(2)(A). The text of Section 215, considered in light of the
+well-developed understanding of “relevance” in the context of civil discovery and criminal and
+administrative subpoenas, as well as the broader purposes of this statute, indicates that there are
+“reasonable grounds to believe” that the records at issue here are “relevant to an authorized
+investigation.” Speciﬁcally, in the circumstance where the Government has reason to believe
+that conducting a search of a broad collection of telephony metadata records will produce
+counterterrorism information—and that it is necessary to collect a large volume of data in order
+
+ 
+
+forms of electronically stored information, many dynamic in nature, fit within the traditional concept of a
+‘document.’ Electronically stored information may exist in dynamic databases and other forms far different
+from fixed expression on paper. Rule 34(a) is amended to conﬁrm that discovery of electronically stored
+information stands on equal footing with discovery of paper documents. The change clarifies that Rule 34
+applies to information that is fixed in a tangible form and to information that is stored in a medium from
+which it can be retrieved and examined. At the same time, a Rule 34 request for production of ‘documents’
+should be understood to encompass, and the response should include, electronically stored information
+unless discovery in the action has clearly distinguished between electronically stored information and
+‘documents.’
+
+Fed. R. Civ. Pro 34, Notes of Advisory Committee on 2006 Amendments (emphasis added).
+
+5 The legislative history of Section 215 also supports this reading of the provision to include electronic data. In its
+discussion of Section 215, the House Report accompanying the USA PATRIOT Reauthorization Act of 2006 notes
+that there were electronic records in a Florida public library that might have been used to help prevent the September
+11, 2001, attacks had the FBI obtained them. See H.R. Rep. No. 109-174(1), at 17-18 (2005). Specifically, the
+report describes “records indicat[ing] that a person using [the hijacker] Alhazmi’s account used the library’s
+computer to review September 11th reservations that had been previously booked.” Id. at 18. Congress used this
+example to illustrate the types of “tangible things” that Section 215 authorizes the FBI to obtain through a FISC
+order. Moreover, the House Report cites testimony in 2005 by the Attorney General before the House Committee
+on the Judiciary, where the Attorney General explained that Section 215 had been used “to obtain driver’s license
+records, public accommodation records, apartment leasing records, credit card records, and subscriber information,
+such as names and addresses, for telephone numbers captured through court-authorized pen-register devices.” Id.
+(emphasis added). Telecommunications service providers store such subscriber information electronically.
+Accordingly, the House Report suggests that Congress understood that Section 215 had been used to capture
+electronically stored records held by telecommunications service providers and reauthorized Section 215 based on
+that understanding.
+

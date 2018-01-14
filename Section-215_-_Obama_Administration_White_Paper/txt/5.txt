@@ -1,0 +1,49 @@
+identiﬁer. The second “hop” refers to the set of numbers found to be in direct contact with the
+first “hop” numbers, and the third “hop” refers to the set of numbers found to be in direct contact
+with the second “hop” numbers. Following the trail in this fashion allows focused inquiries on
+numbers of interest, thus potentially revealing a contact at the second or third “hop” from the
+seed telephone number that connects to a different terrorist-associated telephone number already
+known to the analyst. Thus, the order allows the NSA to retrieve information as many as three
+“hops” from the initial identifier. Even so, under this process, only a tiny fraction of the bulk
+telephony metadata records stored at NSA are authorized to be seen by an NSA intelligence
+analyst, and only under carefully controlled circumstances.
+
+Results of authorized queries are stored and are available only to those analysts trained in
+the restrictions on the handling and dissemination of the metadata. Query results can be further
+analyzed only for valid foreign intelligence purposes. Based on this analysis of the data, the
+NSA then provides leads to the FBI or others in the Intelligence Community. For US. persons,
+these leads are limited to counterterrorism investigations. Analysts must also apply the
+minimization and dissemination requirements and procedures speciﬁcally set out in the Court’s
+orders before query results, in any form, are disseminated outside of the NSA. NSA’s analysis
+of query results obtained from the bulk metadata has generated and continues to generate
+investigative leads for ongoing efforts by the FBI and other agencies to identify and track
+terrorist operatives, associates, and facilitators.
+
+Thus, critically, although a large amount of metadata is consolidated and preserved by the
+Government, the vast majority of that information is never seen by any person. Only
+information responsive to the limited queries that are authorized for counterterrorism purposes is
+extracted and reviewed by analysts. Although the number of unique identifiers has varied
+substantially over the years, in 2012, fewer than 300 met the “reasonable, articulable suspicion”
+standard and were used as seeds to query the data after meeting the standard. Because the same
+seed identiﬁer can be queried more than once over time, can generate multiple responsive
+records, and can be used to obtain contact numbers up to three “hops” from the seed identiﬁer,
+the number of metadata records responsive to such queries is substantially larger than 300, but it
+is still a tiny fraction of the total volume of metadata records. It would be impossible to conduct
+these queries effectively without a large pool of telephony metadata to search, as there is no way
+to know in advance which numbers will be responsive to the authorized queries.
+
+If the FBI investigates a telephone number or other identifier tipped to it through this
+program, the FBI must rely on publicly available information, other available intelligence, or
+other legal processes in order to identify the subscribers of any of the numbers that are retrieved.
+For example, the FBI could submit a grand jury subpoena to a telephone company to obtain
+subscriber information for a telephone number. If, through further investigation, the FBI were
+able to develop probable cause to believe that a number in the United States was being used by
+an agent of a foreign terrorist organization, the FBI could apply to the FISC for an order under
+Title I of FISA to authorize interception of the contents of future communications to and from
+that telephone number.
+
+The telephony metadata collection program is subject to an extensive regime of oversight
+and internal checks and is monitored by the Department of Justice (DOJ), the FISC, and
+
+-4-
+

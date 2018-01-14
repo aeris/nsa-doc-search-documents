@@ -1,0 +1,52 @@
+to employ the analytic tools needed to identify that information—the standard of relevance under
+Section 215 is satisﬁed.
+
+Standing alone, “relevant” is a broad term that connotes anything “[b]earing upon,
+connected with, [or] pertinent to” a specified subject matter. 13 Oxford English Dictionary 561
+(2d ed. 1989). The concept of relevance, however, has developed a particularized legal meaning
+in the context of the production of documents and other things in conjunction with official
+investigations and legal proceedings. Congress legislated against that legal background in
+enacting Section 215 and thus “presumably kn[e]w and adopt[ed] the cluster of ideas that were
+attached to [the] word in the body of learning from which it was taken.” See FAA v. Cooper, 132
+S. Ct. 1441, 1449 (2012) (internal citation and quotation marks omitted). Indeed, as discussed
+above, in identifying the sort of items that may be the subject of a Section 215 order, Congress
+expressly referred to items obtainable with “a subpoena duces tecum issued by a court of the
+United States in aid of a grand jury investigation” or “any other order issued by a court of the
+United States directing the production of records or tangible things,” 50 U.S.C. § 1861(c)(2)(D),
+indicating that it was well aware of this legal context when it added the relevance requirement.
+That understanding is also reﬂected in the statute’s legislative history. See 152 Cong. Rec. 2426
+(2006) (statement of Sen. Kyl) (“Relevance is a simple and well established standard of law.
+Indeed, it is the standard for obtaining every other kind of subpoena, including administrative
+subpoenas, grand jury subpoenas, and civil discovery orders.”).
+
+It is well-settled in the context of other forms of legal process for the production of
+documents that a document is “relevant” to a particular subject matter not only where it directly
+bears on that subject matter, but also where it is reasonable to believe that it could lead to other
+information that directly bears on that subject matter. In civil discovery, for example, the
+Supreme Court has construed the phrase “relevant to the subject matter involved in the pending
+action” “broadly to encompass any matter that bears on, or that reasonably could lead to other
+matter that could bear on, any issue that is or may be in the case.” Oppenheimer Fund, Inc. v.
+Sanders, 437 US. 340, 351 (1978) (emphasis added); see also Condit v. Dunne, 225 F.R.D. 100,
+105 (S.D.N.Y. 2004) (“Although not unlimited, relevance, for purposes of discovery, is an
+extremely broad concept.”). A similar standard applies to grand jury subpoenas, which will be
+upheld unless “there is no reasonable possibility that the category of materials the Government
+seeks will produce information relevant to the general subject of the grand jury’s investigation.”
+United States v. R. Enterprises, Inc., 498 US. 292, 301 (1991).6 And the Supreme Court has
+explained that a statutory “relevance” limitation on administrative subpoenas, even for
+investigations into matters not involving national security threats, is “not especially constraining’
+and affords an agency “access to virtually any material that might cast light on the allegations” at
+issue in an investigation. EEOC v. Shell Oil Co., 466 US. 54, 68-69 (1984). See also United
+
+5
+
+ 
+
+6 One court has noted that the Court’s reference to “category of materials,” rather than to speciﬁc documents,
+“contemplates that the district court will assess relevancy based on the broad types of material sought by the
+Government,” not by “engaging in a document-by—document [or] line-by—line assessment of relevancy.” In re
+Grand Jury Proceedings, 616 F.3d 1186, 1202 (10th Cir. 2010). The court explained that “[i]ncidenta1 production
+of irrelevant documents . . . is simply a necessary consequence of the grand jury’s broad investigative powers and
+the categorical approach to relevancy adopted in R. Enterprises.” Id. at 1205.
+
+-9-
+

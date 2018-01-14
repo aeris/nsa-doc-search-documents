@@ -1,0 +1,49 @@
+telephone numbers or other identifiers associated with terrorist activity, trained expert analysts
+can work to determine whether known or suspected terrorists have been in contact with
+individuals in the United States. International terrorist organizations and their agents use the
+international telephone system to communicate with one another between numerous countries all
+over the world, including to and from the United States. In addition, when they are located
+inside the United States, terrorist operatives make domestic U.S. telephone calls. The most
+analytically significant terrorist-related communications are those with one end in the United
+States or those that are purely domestic, because those communications are particularly likely to
+identify suspects in the United States—whose activities may include planning attacks against the
+homeland. The telephony metadata collection program was speciﬁcally developed to assist the
+US. Government in detecting communications between known or suspected terrorists who are
+operating outside of the United States and who are communicating with others inside the United
+States, as well as communications between operatives within the United States. In this respect,
+the program helps to close critical intelligence gaps that were highlighted by the September 11,
+2001 attacks.
+
+Pursuant to Section 215, the FBI obtains orders from the FISC directing certain
+telecommunications service providers to produce business records that contain information about
+communications between telephone numbers, generally relating to telephone calls made between
+the United States and a foreign country and calls made entirely within the United States. The
+information collected includes, for example, the telephone numbers dialed, other session-
+identifying information, and the date, time, and duration of a call. The NSA, in turn, stores and
+analyzes this information under carefully controlled circumstances. The judicial orders
+authorizing the collection do not allow the Government to collect the content of any telephone
+call, or the names, addresses, or ﬁnancial information of any party to a call. The Government
+also does not collect cell phone locational information pursuant to these orders.
+
+The Government cannot conduct substantive queries of the bulk records for any purpose
+other than counterterrorism. Under the FISC orders authorizing the collection, authorized
+queries may only begin with an “identifier,” such as a telephone number, that is associated with
+one of the foreign terrorist organizations that was previously identiﬁed to and approved by the
+Court. An identiﬁer used to commence a query of the data is referred to as a “seed.”
+Speciﬁcally, under Court-approved rules applicable to the program, there must be a “reasonable,
+articulable suspicion” that a seed identiﬁer used to query the data for foreign intelligence
+purposes is associated with a particular foreign terrorist organization. When the seed identiﬁer is
+reasonably believed to be used by a US. person, the suspicion of an association with a particular
+foreign terrorist organization cannot be based solely on activities protected by the First
+Amendment. The “reasonable, articulable suspicion” requirement protects against the
+indiscriminate querying of the collected data. Technical controls preclude NSA analysts from
+seeing any metadata unless it is the result of a query using an approved identifier.
+
+Information responsive to an authorized query could include, among other things,
+telephone numbers that have been in contact with the terrorist-associated number used to query
+the data, plus the dates, times, and durations of the calls. Under the FISC’s order, the NSA may
+also obtain information concerning second and third-tier contacts of the identifier (also referred
+to as “hops”). The ﬁrst “hop” refers to the set of numbers directly in contact with the seed
+
+-3-
+
