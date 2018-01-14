@@ -1,0 +1,55 @@
+]HT[
+
+How to install the release
+
+This release can be installed only over a previous 8.4.x release. You cannot upgrade
+directly from 8.3.):
+It is still possible to install it from scratch (no previous RCS installation on the system).
+
+9.0.0 speciﬁc instruction for upgrading form 8.4.x:
+
+0 Run the installer rcs—setup—*.exe on the backend server and answer 'yes' when asked
+to upgrade.
+
+If you have multiple shards, install the update on all the shards ﬁrst and then on the
+master node.
+0 Run the installer rcs—setup—*.exe on the frontend server and answer 'yes' when asked
+to upgrade
+
+What’s new in Remote Control System 9.0
+
+Agent (Windows)
+
+0 Improved invisibility against most common Antiviruses
+o Compatibility with last Skype version
+
+0 Improved correlation for Facebook data
+
+Agent (Windows Phone)
+0 First release, refer to the manual
+
+Agent (Android)
+
+0 Added password module
+
+0 Added support for latest Viber version
+
+0 Fix for GPS location tracking
+
+0 Added upgrade when phone is rooted
+
+0 Under certain circumstances the agent can obtain root privileges even on unrooted
+phone
+
+Agent (Linux)
+0 Support for the top5 distributions from DistroWatch.com
+0 Support for INJECT—HTML—FLASH infection vector
+
+Agent (iOS)
+0 Support for installation without jailbreak on iphone 36S with ios 4.1
+0 Minor bugﬁx
+
+Agent (05X)
+0 Minor bugfix
+0 Support for INJECT—HTML—FLASH infection vector
+

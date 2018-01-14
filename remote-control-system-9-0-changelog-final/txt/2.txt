@@ -1,0 +1,34 @@
+Network Injector
+
+0 Opera support
+
+0 Improved YouTube attack
+
+0 Improved Fake Access Point attack
+
+0 Autoboot using USB thumbdrive for authentication
+
+0 The rules format has changed. After upgrading to Galileo, remember to push them
+again.
+
+Console
+0 Brand new console for Galileo
+0 New section: Intelligence
+
+Database
+
+0 Ability to create manual entities in the intelligence module
+
+0 Links are created between entities communicating each other
+
+0 Links are created between entities that were in the same place
+
+0 Most visited places by targets are automatically created
+
+0 Ability to search with OR queries in info and notes
+
+0 New and revamped connector system, now supports remote archiviation
+o Mongodb updated to 2.4.6
+
+0 Ruby updated to 2.0.0
+
