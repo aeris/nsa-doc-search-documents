@@ -1,0 +1,65 @@
+TOP SECRET/lSII/ORCON/NOFORN
+
+ 
+
+ 
+
+Description of Information Classiﬁcation Reason Declassification Remarks
+[Markings Date
+33. (TS//SI//NF) Information that reveals in TOP SECRET//STLW/ 1.4(c) 25 Years* (C//SI//REL TO USA, FVEY)
+any way the location of facilities that SI//ORCON/NOFORN Information that would provide
+provided access and/or collection whether in an understanding of the
+summary or detailed terms and is associated partnership/location for the
+with STELLARWIND. program is covered by the ECI
+WPG SSO compartment.
+
+(C//SI//REL TO USA, FVEY)
+This information is also
+
+ 
+
+ 
+
+ 
+
+protected by the $80
+compartment (ECI WPG).
+34. (TS//Sl//NF) Dataﬂows or associated TOP SECRET//SI// 1.4(c) 25 Years* (TS//SI//NF) Clariﬁes that the
+data created to support collection derived NOFORN sequence of transition events
+from STELLARWIND program without leading up to PAA enactment
+revealing the details of the Presidential and its associated operational
+authorization. considerations do not require
+STLW compartmented
+protection for LCF and FAA
+data.
+35. (U/lFOUO) Speciﬁc performance TOP SECRET//SI// 1.4(c) 25 Years* (TS/lSI/NF) For example,
+parameters for search analysis detection or NOFORN response times, capacities, and
+selection. loading would reveal
+operational details of program.
+36. (S//N F) Descriptions, diagrams, TOP SECRET//SI// 1.4(c) 25 Years* (U//FOUO) Information may
+schematics, or other technical documentation ORCON/NOFORN be otherwise controlled/
+that identiﬁes speciﬁc SIGINT methods, compartmented by $80.
+techniques and devices used to select, ﬁlter Amplifying details may be
+and process STELLARWIND target protected within an ECI.
+
+communications without speciﬁc reference to
+the authorization and details concerning the
+creation of the STELLARWIND program.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+         
+ 
+
+TOP SECRET/lSI/lORCON/NOFORN 15
+

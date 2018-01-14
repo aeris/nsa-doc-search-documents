@@ -1,0 +1,40 @@
+TOP SECRET/ISI/lORCON/NOFORN
+
+Services, and OGC. The NSA OGC can be used as an initial POC/contact point. Although compartmented controls may be removed from the F ISA PR/TT and
+FISA BR information currently marked STLW, court ordered access controls and classiﬁcation guidelines must continue to be observed. Users should note that
+classiﬁcation guidance for FlSA/PAA/FAA/FAA information can be found in an NSA/CSS FISA/PAA/FAA guide.
+
+(TS//SI//NF) For example, the FISA/PAA/FAA classiﬁcation guide should be consulted when deriving classiﬁcation for FISA PR/TT or FISA BR information
+currently marked STLW such as:
+
+(TS//SI//N F) FISA PR/TT ( initiated 17 July 2004)
+
+l. (TS//SI//NF) FISA PR/T T information collected, stored, processed under FISA authorization.
+
+2. (TS//SI//NF) FISA PR/T T targeting information - email address forms, query requests and approvals, selectors queried, query results, alert lists.
+3. (TS//SI//NF) FISA PR/TT-related Mainway databases, realms & data ﬂows and all related technical data, collection statistics, and software.
+
+4. (TS//SI//NF) FISA PR/TT-related working aids, brieﬁng materials, query logs, etc.
+
+(TS//SI//NF) BR FISA (initiated 24 May 2006)
+
+1. (TS//SI/fNF) FISA BR information collected, stored, processed under FISA authorization.
+
+2. (TS//SI//NF) FISA BR targeting information - address forms, query requests and approvals, selectors queried, query results, alert lists, etc.
+3. (TS//SI//NF) FISA BR—related Mainway Databases, realms & data ﬂows and all related technical data, collection statistics, and software.
+4. (TS//SI//NF) FISA BR—related Working Aids, brieﬁng materials, query logs, etc.
+
+(U) ANNEX B:
+
+(U) Preservation Requirements and Other Related Issues
+
+(U//FOUO) Documentation you have originated (memos, analytic summaries, etc.) - do not destroy/remove/delete. Please contact the SID PMO for questions.
+Your records may constitute valuable temporary or permanent records and may be transferred to a designated ofﬁcial or records ofﬁcer, records include documents
+created regarding STLW policies, decisions, procedures and essential operational, logistical and support transactions.
+
+(U//FOUO) SIGINT Reporting -You are authorized to retain published reporting marked with the STLW caveat, however further dissemination of the
+information contained in those reports must be coordinated through the SIGINT Intelligence Directorate Counterterrorism RF I process and accurately sourced to
+the original STLW report number/title.
+
+TOP SECRETI/SI/IORCON/N OF ORN 37
+

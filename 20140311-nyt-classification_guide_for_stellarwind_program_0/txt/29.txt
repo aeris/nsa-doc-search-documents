@@ -1,0 +1,62 @@
+TOP SECRETl/SIl/ORCON/NOFORN
+
+ 
+
+ 
+
+ 
+
+Description of Information Classification Reason Declassification Remarks
+[Markings Date
+authorization and currently marked guide) allowed NSA to remove
+STELLARWIND certain data from the STLW
+
+compartment, not all legacy
+data (to include reporting) was
+automatically removed from
+the STLW compartment.
+Consequently there is reporting
+in the STLW databases that is
+eligible to be removed from the
+compartment, but was not. The
+data still carries a STLW
+marking and must be protected
+as such until it is formally
+removed from the
+compartment. Consequently, it
+is necessary to restrict access to
+existing reports to all but a
+cadre of cleared SIGINT
+Intelligence Directorate
+Counterterrorism personnel.
+Additional RFI can be used to
+identify information needed to
+be reviewed and subsequently
+removed from the STLW
+compartment. Distribution may
+be expanded. If reporting is
+removed from the STLW
+compartment and reissued,
+procedures must be in place so
+that the source of the
+information can be readily
+determined.
+
+(U//FOUO) Information
+currently marked as STLW
+remains compartmented until
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP SECRET/ISI/IORCON/N OF ORN 30
+
+ 
+

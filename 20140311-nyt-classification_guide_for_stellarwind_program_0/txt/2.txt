@@ -1,0 +1,39 @@
+TOP SECRET/lSI/IORCON/NOFORN
+
+(U/IFOUO) STELLARWIND Classiﬁcation Guide
+
+(U) National Security Agency/Central Security Service (N SA/CSS): Classiﬁcation Guide Number: 2-400
+
+(U//FOUO) Project/Activity Name: STELLARWIND (STLW)
+
+(U) Ofﬁce of Origin: NSA/CSS Signals Intelligence Directorate (SID)
+
+(U//FOUO) POC: William J. Amass, CT Special Projects
+
+(U) Phone: 963-0087/963-0491(s)
+
+(U//FOUO) Classiﬁed By: Keith B. Alexander, Lieutenant General, United States Army, Director, National Security Agency.
+(U) Declassify On: 25 Years*
+
+(U//FOUO) Note: This guide provides classiﬁcation guidance for information requiring marking and handling under the STELLARWIND special
+compartment.
+
+(TS//Sl//NF) In January 2008, the Director of National Intelligence authorized certain information associated with STELLARWIND, as well as
+related information authorized under Foreign Intelligence Surveillance Court (FISC) orders (such as the Large Content Foreign Intelligence
+Surveillance Act (FISA) orders, Business Records (BR) FISA orders and the Pen Register Trap and Trace (PR/TT) F ISA orders), to be removed from
+the STELLARWIND compartment. This guide addresses information associated with STELLARWIND and associated classiﬁcation instructions,
+while classiﬁcation guidance associated with FISA information can be found, in one location, in an NSA/CSS FISA/Protect America Act
+
+(PAA)/F ISA Amendments Act (FAA) classiﬁcation guide authored by NSA SID Oversight and Compliance (SV). Consequently, this document will
+reference an NSA/CSS F ISA/PAA/F AA classiﬁcation guidance where information formerly associated with STELLARWIND is now authorized by
+the F ISC. Also, this document references classiﬁcation guidelines for FISA/PAA/F AA information and within Exceptionally Controlled Information
+(ECI) compartments within NSA where necessary. Users should reference both guides to determine proper classiﬁcation. Additional Annexes are
+provided as additional information to assist the users of this guide.
+
+(TS//SI//NF) The markings “TSP” and “Compartmented” were at times used in brieﬁng materials and documentation associated with the
+STELLARWIND program. “TSP” and “Compartmented” were used primarily by the National Security Agency (N SA) Legislative Affairs Ofﬁce
+(LAO), NSA Ofﬁce of General Counsel (OGC), and the Executive Branch in brieﬁngs and declarations intended for external audiences, such as
+Congress and the courts. The term “TSP” was initially used in relation to only that portion of the Program that was publicly disclosed by the
+
+TOP SECRET/lSI/lORCON/NOFORN
+

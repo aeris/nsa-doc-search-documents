@@ -1,0 +1,68 @@
+TOP SECRET/ISU/ORCON/NOFORN
+
+ 
+
+ 
+
+ 
+
+ 
+
+Description of Information Classiﬁcation Reason Declassification Remarks
+[Markings Date
+
+20. (TS//SI//NF) STLW counterterrorism TOP SECRET//SI// 1.4(c) 25 Years* (TS//SI//OC/NF) Speciﬁcally
+
+information used to evaluate the quantity or ORCON/NOFORN addresses the number of
+
+value of STELLARWIND collection based reports, tippers, or leads
+
+on products/tippers/leads provided without generated under STLW. Any
+
+reference to targets, methods or techniques. information revealing or
+naming Special Source
+Operations (880) programs
+supporting STELLARWIND
+must also include additional
+markings/Exceptional
+Controlled Information (ECI)s
+for the program(s) as speciﬁed
+by $80.
+
+21. (TS//SI//NF) Information that reveals the TOP SECRET//SI// 1.4(c) 25 Years* (TS//SI//NF) This classiﬁcation
+
+scope of STELLARWIND collection against ORCON/NOFORN determination allows
+
+various methods of communication,
+including voice, data networks, facsimile,
+etc. without details of the special
+authorization
+
+ 
+
+ 
+
+ 
+
+ 
+
+information concerning the fact
+of various methods of
+collection under STLW, and
+subsequently authorized under
+FISA (17 Jan 2007) or PAA (5
+Aug 2007), to be handled
+outside of STLW
+compartmented channels -
+Example: Data Flow X is
+Digital Network Intelligence
+(DNI) collection under the
+STLW program - no further
+details.
+
+ 
+
+TOP SECRET/ISI/lORCON/N OF ORN
+
+ 
+

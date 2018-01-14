@@ -1,0 +1,59 @@
+TOP SECRET/lSI/lORCON/NOFORN
+
+ 
+
+ 
+
+ 
+
+Description of Information Classiﬁcation Reason Declassification Remarks
+lMarkings Date
+43. (TS//SI//N F) Unevaluated, unminimized TOP SECRET//STLW/ 1.4(c) 25 Years* (U//FOUO) Information
+content intercept alone, identiﬁed with SI//ORCON/NOFORN currently marked as STLW
+SIGAD US3170, without knowledge of (such as reports, database
+access techniques. records, etc.) remains
+
+compartmented until
+appropriate action is taken
+under Executive Order 12958,
+as amended. Program speciﬁcs
+concerning output and analytic
+results may be downgraded to
+TOP SECRET//SI//ORCON/
+NOFORN, but information
+may not be removed from the
+STLW compartment without
+approval from an appropriate
+Original Classiﬁcation
+Authority and in coordination
+with the appropriate SIGINT
+authority (STLW Program
+Manager (PM) or D/PM, 812
+Information Sharing Services,
+and NSA OGC). The NSA
+OGC can be used as an initial
+POC/contact point.
+
+(TS//SI//NF) Access to data
+identiﬁed by SIGAD US3170
+will be allowed on a case-by-
+case basis by the STLW
+Program Manager. Reporting
+derived from this collection
+must be clearly identiﬁed as to
+source.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP SECRETI/SII/ORCON/NOFORN 21
+
+ 
+

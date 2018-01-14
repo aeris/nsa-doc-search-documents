@@ -1,0 +1,70 @@
+TOP SECRET/ISU/ORCON/NOFORN
+
+ 
+
+ 
+
+ 
+
+Description of Information Classification Reason Declassification Remarks
+[Markings Date
+25. (S//NF) Information that reveals the TOP SECRET//STLW/ 1.4(c) 25 Years* (S//NF) Information that
+scope of operations under the Presidential SI//ORCON/NOFORN summarizes or otherwise
+
+authorization. (Such as collection
+techniques, targets, or other operational
+details)
+
+ 
+     
+
+26. (U//FOUO) The fact of FBI collaboration
+on the STELLARWIND program
+
+ 
+
+ 
+
+ 
+
+ 
+
+speciﬁes the scope of
+operations authorized by the
+President, but not publicly
+disclosed, remains
+compartmented. Example:
+Program Brieﬁngs, Program
+Memos, NSA LAO & NSA
+OGC summaries, etc.
+
+(S//NF) Operational details H
+about collaboration between
+NSA and FBI and FBI’s
+
+ 
+
+a. (U//FOUO) The association a. UNCLASSIFIED// Exemption 3 N/A involvement in the STLW
+of the terms FOUO program (such as speciﬁc
+STELLARWIND and FBI targets, speciﬁc sources,
+
+methods, etc.) will raise the
+
+b. (U//FOUO) The fact that b. UNCLASSIFIED// Exemption 3 N/A classiﬁcation to
+NSA provided the FBI FOUO TOP SECRET//STLW/SI//
+information collected under ORCON/NOFORN
+the Presidentially Authorized
+program.
+
+c. (S//NF) The fact that FBI 0. SECRET//NOFORN 1.4(c) 25 Years*
+played an operational role in
+the program and details
+describing that role.
+
+TOP SECRET//SI//ORCON/NOFORN 11
+
+ 
+  
+
+ 
+
