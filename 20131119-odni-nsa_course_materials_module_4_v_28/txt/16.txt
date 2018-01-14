@@ -1,0 +1,25 @@
+‘chain" on that identifier. In the BR and PR/TT Orders, the FISC sets limits on how extensive this chainin ma be. We refer to this as the number of hops
+from a RAS-approved identiﬁer. For example, let’s say your target calls an associate #That associate then calls several-In
+this example it is one hop from your RAS-appm_vedidentifier to the associate and anotn'er Hop from tne assocEte to a recruit. In other words, the associate
+is a “ﬁrst hop" contact of your target, and the —are “second hop" contacts.
+
+ 
+
+ 
+
+(JISI-ISl-l-ﬂN-F) (OGC Attorney): Whilel the BR Order permits contact chaining for up to three hops. NSA has decided to limit contact chaining to onlv two hop Comment [a5]: We canprobably use some ofthe
+away from the RAS-approved identiﬁer without prior approval from your Division management to chain the third hop. Under PR/TT, the FISC limits the existing screenshots we made to also illustrate the
+number of hops for internet communications to only two. Technical controls will not permit these FISC-mandated hop levels to be exceeded. hOPS-
+
+ 
+
+(ISﬂ-SW-N-E) (HMC Character): If another RAS-approved identifier is encountered within the authorized number of hops from the previous RAS-approved
+
+identifier, the number of hops resets to allow a contact chain to be generated out the authorized number of hops from the newly encountered RAS-
+approved identifier.
+
+ 
+
+W
+Page 14 of 39
+

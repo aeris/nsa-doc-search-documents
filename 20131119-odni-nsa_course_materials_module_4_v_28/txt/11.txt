@@ -1,0 +1,97 @@
+    
+
+ 
+
+    
+ 
+
+Screen Number
+8 of 27
+
+Page Classification
+IOP—SEGREALGQIVH-NMNOFORN
+
+Topic
+(TSLISI-ALN-F) Querying the
+BR and PR/TT Metadata
+
+DATE/PREPARER:
+
+  
+ 
+ 
+
+ 
+
+FRAME ID: 4070
+(IS#SI#N-F) How are Analyst Queries of the BR and PRITI' Metadata Conducted?
+
+ 
+
+NEXT FRAME ID: 4075
+(TS//S|//NF) Queries of BR and PR/TT metadata are conducted through -the user
+
+interface to_As a default, queries are federated with data from other collection
+sources.
+
+ 
+
+BACK FRAME ID: 4060
+
+ 
+
+ALT TAG:
+
+ 
+
+ 
+
+GRAPHIC/AV:
+
+   
+
+WARN-l sr-HJIAL Hills AH lY‘
+. ,, I I I .I.I...II.II.
+III. ,_, .
+
+ 
+
+NI r MA MI ll"
+l'l um um «v MI-III-
+”alum Mud--
+um nul Mum-
+
+? rlFISABR Mode
+9.-:u.ImI.I....II. .I..I.. |.|
+
+Ir. mum-D...
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(TSAlSl-ALNF) (HMC Wnce RAS approved an identiﬁer can be used to query the BR and/or PR/TT metadata via authorized versions of -
+o
+
+the user interface t When launching —analysts with the appropriate BR or PR/TT credentials have the option to check a box If the
+wish to include BR or PR/TT metadata In their queries. If an analyst checks the “FISABR Mode" or “PENREGISTRY Mode" box when logging into *omment [SLS3] Note for audm recording th1s
+
+will perform a federated query. This means that in addition to either BR or PR/TT metadata. -will also query data collected under Ishouldbe pronounced as the word FISA then the
+
+ 
+
+ 
+
+additional collection authorities, depending on the analyst’s credentials. Therefore, when performing; ue of the BR or PR/TT metadata, analysts will letterSBK 5" Slmply“FISABR”
+potentially receive results from all ofthe above collection sources. Users of more recent versions of Ho have the option, however, to “unfederate”
+the query, and pick and choose amongst the collection sources that they would like to query. [Comment [a4]: See Screenshotl.
+
+W
+Page 10 of 39
+

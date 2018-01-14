@@ -1,0 +1,70 @@
+ 
+
+ 
+
+DATE/PREPARER: SLS Topic Page Classification Screen Number
+(M) BR and PR/TT IORSEGRWGOMlNlﬂ-NOEORN 2 of 27
+Data Access and
+Governance
+
+ 
+
+ 
+
+ 
+
+ 
+
+FRAME ID: 4020
+
+(IS#SI#NE) BR and PRITT Credentials — who can query, who can view results
+
+(IS#SI#NF) Access to BR and PR/TT raw
+
+ 
+
+NEXT FRAME ID: 4025 metadata and query results is restricted to those
+who have the required training and appropriate
+credentials
+
+ 
+
+BACK FRAME ID: 4010
+
+ 
+
+ALT TAG:
+
+ 
+
+ 
+
+GRAPHIC/AV:
+
+(U) Image of OGC Attorney, HMC
+Character, and SV Character sitting at a
+table
+
+ 
+
+ 
+
+) (SV Character): Access to BR and PRITT raw metadata and query results is restricted to those who have the required training and appropriate
+credentials. The Ofﬁce of the Director of Compliance (ODOC) through the Signals Intelligence Directorate‘s Ofﬁce of Oversight and Compliance (SV)
+controls access to the BR and PR/TT FISA metadata, ensuring that only those who have completed all ofthe required training and have been granted the
+appropriate credentials are permitted to touch the metadata.
+
+(IS/48W) \Mthin the analyst workforce, a distinction is made between individuals who are permitted to quer the data and those who are permitted only
+to view the query results. Individuals who are authorized to query BR and PR/TT metadata sets have —credentials. Division level
+management within a production center determines when query permissions will be granted to analysts based on a mission need, not solely on completion
+of BR and PR/TT FISA Training. Some technical personnel may also require query access, but their queries are for the purposes of data accuracy and
+integrity, not for target or intelligence analysis. Managers of technical personnel who require query permissions will make the determination in concert with
+their organization’s compliance ofﬁce, usually either SV or TV (the Technology Directorate’s ofﬁce of compliance).
+
+ 
+
+ 
+
+W
+Page 3 of 39
+

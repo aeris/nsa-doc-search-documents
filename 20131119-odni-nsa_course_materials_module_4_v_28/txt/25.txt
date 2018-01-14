@@ -1,0 +1,90 @@
+WW
+
+ 
+
+ 
+
+ 
+ 
+
+  
+
+Screen Number
+16 of 27
+
+DATE/PREPARER: 11/23/2010 SLS
+
+   
+
+Topic
+(U) Retention of Metadata
+and Query Results
+
+Page Classification
+WWN
+
+    
+
+ 
+
+FRAME ID: 4120
+
+(U) Retention of Metadata and Query Results
+
+ 
+
+NEXT FRAME ID: 4130 (TS#Sl-#NF) NSA must destroy BR and PR/TT metadata no later than ﬁve years (60
+
+months) after initial collection
+
+ 
+
+BACK FRAME ID: 4110 (IS#Sl#NF) The FISC has not imposed any destruction requirement on BR or PR/TT
+
+ 
+
+ALT TAG query results
+
+ 
+
+GRAPHIC/AV:
+
+(U) Image of OGC Attorney, HMC
+Character, and SV Character sitting at a
+table
+
+(ISAlSl-ALNF) Possible cutaway images may
+include:
+
+0 image depicting notional storage of
+bulk metadata and US. person
+information and then the
+destruction/deletion of the
+metadata
+
+0 image depicting the retention of BR
+and PR/TT query results
+
+ 
+
+ 
+
+ 
+
+(IS#Sl#N-F) (OGC Attorney): The Court Orders mandate destruction ofthe metadata five years or 60 months after initial collection. NSA destroys the BR
+and PR/TT metadata no later than ﬁve years after collection. There are no exceptions to this requirement when it comes to the bulk metadata.
+
+(IS#S|#NF) (HMC Character): The destruction requirement applies to the bulk metadata; it does not apply to query results that have been generated as a
+result of queries of RAS-approved identifiers. Once we have queried the metadata we have selected metadata, or query results, and the 60-month cutoff
+does not apply.
+
+ 
+
+W
+Page 23 of 39
+
+ 
+ 
+
+ 
+

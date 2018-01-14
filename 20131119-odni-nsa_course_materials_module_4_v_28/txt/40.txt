@@ -1,0 +1,78 @@
+DATE/PREPARER: 11/23/2010 SLS
+
+   
+  
+
+ 
+
+ 
+ 
+
+  
+ 
+
+Screen Number
+27 of 27
+
+Topic
+(U) Summary
+
+Page Classification
+IOP-SECRETﬂGOlW-NIﬂNOFOR—N
+
+ 
+
+FRAME ID: 4220
+
+(U) Now that we have completed this part of yourtrip you should be able to:
+o (IS#Sl#NF—) Distinguish between the analysts authorized to query BR and PR/TT
+metadata and those authorized to view query results
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NEXT FRAME ID: N/A 0 (IS#S+#NE) Recognize the contact chaining restrictions for RAS-approved
+identiﬁers
+o (IS#Sl#NF—) Recognize what constitutes unique BR and PR/TT query results
+BACK FRAME ID: 4210 o (IS#Sl#NF—) Identify limitations that impact access, sharing, dissemination and
+ALT TAG- retention of BR and PR/TT query results
+' o (IS#Sl#NF—) Recognize the BR and PR/TT dissemination tracking requirement and
+GRAPHIC/AV: the additional CT nexus requirement for US. person identiﬁers
+
+(U) Image of OGC Attorney, HMC
+Character, and SV Character sitting at a
+
+table
+
+ 
+
+ 
+
+($S#Sl#N-F) (OGC Attorney): Remember, you are responsible for ensuring that the recipient of query results is authorized to receive these results. Also,
+you must be mindful of the special restrictions for dissemination, either oral or written, of the BR- and PR/TT-derived information.
+
+(U) (OGC Attorney): Now that we have completed this part of the trip you should be able to:
+
+(IS#Sl#N-F) Distinguish between the analysts authorized to query BR and PR/TT metadata and those authorized to view query results
+(IS#Sl#N-F) Recognize the contact chaining restrictions for RAS-approved identiﬁers
+
+(ISI-ISWN-F) Recognize what constitutes unique BR and PR/TT query results
+
+(IS#Sl#N-F) Identify limitations that impact access, sharing, dissemination, and retention of BR and PR/TT query results
+
+(IS#Sl#N-F) Recognize the BR and PR/TT dissemination tracking requirement and the additional CT nexus requirement for US. person identiﬁers
+
+ 
+
+ 
+
+W
+Page 38 of 39
+

@@ -1,0 +1,74 @@
+ 
+
+ 
+
+DATE/PREPARER: SLS Topic Page Classification Screen Number
+(ISﬁlSl-ALNF) BR and PR/TT Data TOP 4 of 27
+Access and Governance SEGRHALCQMI-NTALNQFQRN
+
+ 
+
+ 
+
+FRAME ID: 4030
+
+(U) Auditing and Access
+
+(IS#Sl#NF) The Court Orders require that when the metadata is queried for intelligence
+analysis purposes that an auditable record be generated.
+
+ 
+
+NEXT FRAME ID: 4040
+
+(IS#Sl#NF) The -audit log includes:
+- Query requests
+
+ 
+
+ 
+
+BACKFRAMEID: 4025 ' Userlogln
+- IP address
+
+ 
+
+ALT TAG: - Date and time of the access
+
+ 
+
+ElizﬁﬁaHQS/(ﬁvéec Attorney HMC (IS#Sl#NF) What is the EAR and how does it function as a compliance safeguard?
+
+Character, and SV Character sitting at a
+table
+
+ 
+
+ 
+
+ 
+
+(Is#Sl-#NF) (SV Character): The BR and PR/TT Court Orders require that an auditable record be generated whenever metadata is queried for intelligence
+
+analysis purposes. When thruammﬂ and PR/T T metadata is queried inI-Ian automatic audit log is generated to enable appropriate oversight of Comment [SLs1]: Note for audlo recordmg, th1s
+
+these Authorities. SV audits -queries performed by both analysts and technical personnel and reviews the following on a periodic basis: s pronounced as awordl
+0 Query requests
+0 User login
+0 Internet Protocol (IP) address
+0 Date and time ofthe access
+
+ 
+
+ 
+
+(TS/ISI/INWharacter): While these audits are one way to verify that only RAS-approved identiﬁers are used as seeds to query the BR and PR/TT
+metadata. the analytic tool used to query this metadata, employs an Emphatic Access Restriction (EAR) software to provide reasonable Comment [s|_sz]: Note for audio recording) this ]
+assurance that only RAS-approved identiﬁers are queried by analysts. While the EAR is of great beneﬁt for analysts, it should not lessen awareness and is pronounced as aword EAR (not as letters)
+attention to detail while using the NSA tools and applications associated with BR and PR/TT. We’ll discuss the EAR in greater detail later in this module. |
+
+ 
+
+W
+Page 6 of 39
+

@@ -1,0 +1,71 @@
+    
+
+ 
+
+ 
+ 
+
+  
+
+Screen Number
+9 of 27
+
+DATE/PREPARER: Topic
+(ISLISI-ALN-F) Querying the
+
+BR and PR/TT Metadata
+
+Page Classification
+IOP—SEGREALGQNH-NMNOFORN
+
+  
+ 
+ 
+
+ 
+
+FRAME ID: 4075
+
+(IS#SI#N-F) How are Analyst Queries of the BR and PRI'I'I' Metadata Conducted?
+
+ 
+
+NEXT FRAME ID: 4077
+
+ 
+
+BACK FRAME ID: 4070
+
+ 
+
+ALT TAG:
+
+ 
+
+GRAPHIC/AV:
+(U) Look at Annie’s notes and match
+transcript to screen shots.
+
+ 
+
+ 
+
+ 
+
+(ISAlSI-ALNF) (HMC Character): Once you are operating within the BR or PR/TT mode of — remember that you may only use a RAS-approved
+identifier to query the metadata. A RAS-approved identiﬁer that is used to initiate a query of BR or PR/TT metadata is referred to as a “seed“ since it is
+being used to produce a “chain" of metadata contacts, known as contact chaining.
+
+(IS#SI#NF) -emp|oys the EAR software to provide reasonable assurance that only RAS-approved identifiers are queried by analysts. Before
+executing a query on an identiﬁer, the EAR verifies that the identiﬁer is RAS-approved. If an analyst attempts to query a non-RAS-approved identiﬁer while
+still in BR or PR/TT query mode, the EAR will provide reasonable assurance that no results are returned for that query; this includes data not derived from
+BR or PR/TT. This query will, however. be reflected in SV’s auditing and a justiﬁcation for the query attempt may be requested. If you are unsure whether
+an identifier is RAS-approved, use _to determine the identifier’s approval status.
+
+ 
+
+ 
+
+W
+Page 12 of 39
+

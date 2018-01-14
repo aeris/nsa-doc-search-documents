@@ -1,0 +1,92 @@
+ 
+
+ 
+
+ 
+   
+ 
+
+  
+
+DATE/PREPARER: 1123/2010 SLS Screen Number
+
+21 of 27
+
+Topic
+(lSl-IS-l-I-INF) The CT
+
+Nexus Re uirement
+
+Page Classiﬁcation
+W
+
+     
+
+ 
+
+FRAME ID: 4160
+
+(-‘FSllSWN-F) The CT Nexus Requirement
+
+ 
+
+(WP) Prior to the dissemination of BR— or PRrTTderived unminimized US. person
+
+NEXT FRAME ID: 4170 information outside of NSA, one of the designated approval authorities must determine:
+
+(a) that the US. person information is related to CT information, and
+
+ 
+
+BACK FRAME ID: 4150 (b) that the US. person information is necessary to understand the CT information
+
+ 
+
+ALT TAG: or to assess its importance
+
+ 
+
+ 
+
+GRAPHIC/AV:
+
+(U) Image of OGC Attorney. HMC
+Character. and SV Character sitting at a
+table
+
+W) Image to explain the CT Nexus
+
+ 
+
+ 
+
+{-TSIJSWNF) (OGC Attorney): The CT nexus requirement applies only to US. person information. If you run a query and the information returned is all
+foreign person information. then the CT nexus requirement does not apply to this situation. However. if your query results include U.S. person information
+derived from BR or PRﬂ'T and you want to disseminate that information to an external customer. such as the FBI, then this requirement must be met prior
+to dissemination. in any form. Traditionally. under IUSSID SPOO1B. ifthere is a piece of unminimized US. person information that you would like to
+disseminate, one of the designated approval authorities (to be covered on the next screen) needs to determine that the information is necessary to
+understand the foreign intelligence in that particular intelligence report before the information can be released. For BR and PR/Tl'. the requirement is
+slightly different.
+
+(-T-SHSWNF) (OGC Attorney): With respect to the BR and PRITT authorities, the unminimized US. person information not only has to relate to and be
+necessary to understand the foreign intelligence information in the report. but it has to relate to and be necessary to understand the Counterterrorism
+information.
+
+ 
+
+-' C ‘ [SL519]: UPDATE 7513-4 1 from the
+
+ 
+
+SM'Fs: ease record arUSSfT') 18 [do not say SPEW
+or SPUW, jLisL “IJSSID 18"
+
+ 
+
+ 
+
+ 
+
+W
+Page 30 of 39
+

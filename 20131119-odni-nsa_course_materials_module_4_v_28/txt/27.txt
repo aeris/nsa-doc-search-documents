@@ -1,0 +1,21 @@
+WWN
+
+ 
+
+ANSWERS:
+
+Question 3. (TSIISl-ALN-F) Correct! The EAR prohibits non-RAS-approved identiﬁers from being queried in-
+(TS#Sl#N-F) Incorrect. The correct answer is d). The EAR prohibits non-RAS-approved identiﬁers from being queried in—
+
+Question 4. (TSIISl-ALN-F) Correct! None of the examples listed should be shared with anyone outside of channels.
+
+(TSLISl-ALN-F) Incorrect. The correct answer is e). None of the examples listed should be shared with anyone outside of channels.
+Question 5. (TSIISl-ALN-F) Correct! lfa PR/TT query result can also be sourced to Executive Order 12333, then the information is considered E.O. 12333
+collection and follows the E0. 12333 processes and procedures.
+
+(TSALSl-ALN-F) lncorrect. If a PR/TT query result can also be sourced to Executive Order 12333, then the information is considered E.O. 12333 collection and
+follows the E0. 12333 processes and procedures.
+
+W
+Page 25 of 39
+

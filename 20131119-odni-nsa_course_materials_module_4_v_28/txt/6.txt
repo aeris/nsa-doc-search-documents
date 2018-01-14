@@ -1,0 +1,59 @@
+ 
+
+ 
+
+DATE/PREPARER: SLS Topic Page Classification Screen Number
+(ISALSl-ALNF) BR and PR/TT Data 19F? 3 of 27
+Access and Governance SEGREALGGMI-NIALNQFGRN
+
+ 
+
+ 
+
+FRAME ID: 4025
+
+(TS/ISIIINF) How Do | Determine Who Has the Proper Credentials?
+
+— — .
+(U) Type —0 access —ano check credentials.
+—
+
+ 
+
+NEXT FRAME ID: 4030
+
+ 
+
+BACK FRAME ID: 4020
+
+ 
+
+ 
+
+ALT TAG:
+
+GRAPHIC/AV:
+(U#FOUO) View of_or Images
+pertinent to checking for credentials
+
+ 
+
+ 
+
+ 
+
+(Is#Sl-#NF) (SV Character): 80, how do you determine if an analyst or technical colleague has the a re riate credentials? _s a tool that can
+help vou check someone else’s credentials against your own. From your NSANet machine, type ﬁn your web browser. This takes you to the
+
+Lookup Utility. Insert the sid of the analyst or technical erson ou’re workin with and hit search, the formal accesses you
+share in common are displayed. From that you can determine ifthey hold theuredentials. Ifthe utility is not functioning for
+
+some reason, you should contact 8V4 to verify the individual’s credentials before proceeding.
+
+ 
+
+ 
+
+W
+Page 5 of 39
+

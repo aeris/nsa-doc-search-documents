@@ -1,0 +1,64 @@
+      
+ 
+
+ 
+
+DATE/PREPARER: Screen Number
+
+14 on7
+
+Page Classification
+IOP—SEGREALGQIVH-NMNOFORN
+
+Topic
+(ISAISI-ALNF) BR or PR/TT
+Unlue QuerResuIt
+
+ 
+
+ 
+
+FRAME ID: 4105
+(IS#SI#N-F) BR or PRI'I'I' Query Results — Not Just a Line Within a Chain
+
+ 
+
+NEXT FRAME ID: 4110
+
+ 
+
+BACK FRAME ID: 4100
+
+ 
+
+ALT TAG:
+
+ 
+
+ 
+
+GRAPHIC/AV:
+
+ 
+
+ 
+
+(ISAISI-ALNF) (HMC Character): 80, for example, if you run a BR or PR/TT query on a particular RAS-approved e-maiI identifier and it returns information
+that depicts identifier A, the RAS-approved seed, was in direct contact with identifier B and the source ofthe metadata is BR or PR/TT, then just the fact
+that identiﬁer A is communicating with identiﬁer B is considered a BR or PR/TT query result.
+
+(ISLISI-ﬂﬂN-F) (HMC Character): In addition, any summary of that information would also be a BR or PR/TT query result. So, if you knew that identifier A
+belonged to Joe and identiﬁer B belonged to Sam, and the fact ofthat contact was derived from BR or PR/TT metadata, if you communicate orally or in
+writing that Joe talked to Sam, even if you don’t include the actual e-mail account or telephone numbers that were used to communicate, this is still a BR or
+PR/TT query result.
+
+(ISALSI-ALNF) (OGC Attorney): Remember, if these results are determined to be BR- or PR/TT-UNIQUE. they are subject to sharing and handling
+restrictions.
+
+ 
+
+ 
+
+TOP SECRET//SI//NOFORN
+Page 20 of 39
+

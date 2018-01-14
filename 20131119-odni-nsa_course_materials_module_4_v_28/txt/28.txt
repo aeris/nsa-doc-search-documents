@@ -1,0 +1,99 @@
+DATE/PREPARER: 11/23/2010 SLS
+
+ 
+
+Topic
+
+ 
+
+FRAME ID: 4135
+
+ 
+
+NEXT FRAME ID: 4140
+
+ 
+
+ 
+
+ 
+
+ 
+
+a)
+BACK FRAME ID: 4130 b)
+ALT TAG: C)
+GRAPHIC/AV: g;
+
+(No audio or transcript on this page)
+
+a)
+
+ 
+
+  
+
+(U) Knowledge Check 2
+
+ 
+
+ 
+
+Screen Number
+18 of 27
+
+Page Classification
+IOP—SEGR
+
+    
+  
+
+(U) Knowledge Check 2
+
+6. (TS/ISIIINF) If—Is Er RAS-a roved identifier, and he e-mails
+
+who then e-mails
+
+|who then e-mails
+how many hops is from your RAS-approved
+
+identifier? Are you allowed to chain that far in the PR/TT mode of_?
+
+4 hops, no, unless one ofthe contacts between-and -is RAS
+
+approved.
+
+3 hops, no (unless one of the contacts between-and -is
+RAS approved).
+
+4 hops, yes.
+
+3 hops, no.
+
+2 hops, yes.
+
+7. (MSW) If Badguy1’s identiﬁer is RAS-approved, and he calls Associate1, who then calls
+Unknownguy, who then calls Unknownguy2, how many hops ' k wnguy2 from your RAS-approved
+identifier? Are you allowed to chain that far in the BR mode 0
+
+4 hops, no, unless one ofthe contacts between badguy1 and unknownguy2 is RAS
+approved.
+
+3 hops, yes (with management approval).
+
+4 hops, yes.
+
+3 hops, no.
+
+2 hops, yes (with management approval).
+
+ 
+
+ 
+
+W
+
+Page 26 of 39
+
+ 
+

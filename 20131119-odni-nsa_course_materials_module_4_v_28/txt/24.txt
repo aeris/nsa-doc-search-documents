@@ -1,0 +1,36 @@
+ 
+
+ 
+
+ 
+
+ 
+
+controlledfshaﬁed location that is accessible to only BR End PR/TT cltﬁed personnel.
+
+0 Query results cannot be put into any system where the results would be shared with individuals without
+
+0 BR- or PR/TT-unique results may not be queried in tools where user queries are visible to other analysts (who may not have— or
+can be manipulated by behind the scenes analytics. If you have questions regarding which tools are acceptable to further researcn query resullt-s,
+please contact your management or technical director.
+
+(ISLISl-ALN-F) (SV Character) However, as we’ve discussed, not all BR or PR/TT results are unique. If a query result indicates it was derived from another
+collection source in addition to BR or PR/TT, the rules governing the other collection authority would apply to the handling and sharing ofthat query result.
+For example, this result came from both BR and E0. 12333 collection; therefore, because it is not unique to BR information, it would be okto inform non-
+BR cleared individuals of the fact of this communication, as well as task, query, and report this information according to standard E.O. 12333 guidelines.
+
+(ISLISl-ALN-F) (SV Character) In summary, if a query result has multiple collection authorities, analysts should source and/or report the non-BR or PR/TT
+version ofthat query result according to the rules governing the other authority. But if it is unique to either the BR or PRlTT authority then it is a unique
+query result with all ofthe applicable BR and PR/TT restrictions placed on it. In both cases, however, analysts should not share the actual chain containing
+BR or PR/TT results with analysts who do not have the credentials to receive or view BR or PR/TT information. In such an instance, if it is necessary to
+share the chain, analysts should re-run the query in the non-BR or non-PR/TT areas of-' and share that .cml.
+
+ 
+
+ 
+
+ 
+
+W
+Page 22 of 39
+

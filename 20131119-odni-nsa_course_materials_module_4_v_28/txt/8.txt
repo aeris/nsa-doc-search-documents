@@ -1,0 +1,60 @@
+DATE/PREPARER: SL8
+
+ 
+
+ 
+
+Topic Page Classification Screen Number
+(ISLISWNF) BR and PR/TT Data 19F2 5 of 27
+Access and Governance SEGRHALGGMI-NIALNQFGRN
+
+ 
+
+FRAME ID: 4040
+
+(IS#SI#N-F) Sourcing of BR and PRITT Metadata Records
+(IS#SI#NF) Within NSA’s source systems of record, BR and PR/I | metadata records are
+
+ 
+
+NEXT FRAME ID: 4050
+
+tagged as to their origin, which allows for:
+0 Determining if information is derived from the BR or PR/TT repository
+0 Software and other management controls to function properly
+
+ 
+
+BACK FRAME ID: 4030
+
+ 
+
+ALT TAG:
+
+ 
+
+ 
+
+GRAPHIC/AV:
+
+(U) Image of OGC Attorney, HMC
+Character, and SV Character sitting at a
+table
+
+ 
+
+ 
+
+ 
+
+(ISAlSI-ALNF) (OGC Attorney): Another aspect of data access and governance is the requirement for the sourcing of BR and PR/TT metadata records. As we
+mentioned in Module 2, the metadata must carry unique markings, or tags. These tags allow the analyst to determine if a particular piece of information is
+derived from either the BR or PR/TT repository. In addition, these markings enable the EAR software and other management controls to function properly.
+
+ 
+
+W
+Page 7 of 39
+
+ 
+

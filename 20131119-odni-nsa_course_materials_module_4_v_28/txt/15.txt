@@ -1,0 +1,72 @@
+WW
+
+ 
+
+ 
+
+DATE/PREPARER: Topic Page Classification Screen Number
+(myQuerying the ICESECREILCOMI-NMNOF—ORN 10 of 27
+BR and PR/TT Metadata
+
+ 
+
+ 
+
+ 
+
+FRAME ID: 4077
+(TS/ISIIINF) Contact Chaining with BR and PRITT metadata
+
+ 
+
+NEXT FRAME ID: 4080
+
+ 
+
+BACK FRAME ID: 4075
+
+ 
+
+ALT TAG:
+
+ 
+
+ 
+
+GRAPHIC/AV:
+
+(U) Image of OGC Attorney, HMC
+Character, and SV Character sitting at a
+table _
+
+(U) Look at —notes and match
+transcript to screen shots.
+
+(ISI-lSI-ALN-E) Create animation to explain
+the following: While the BR Order permits
+contact chaining for up to three hops, NSA
+has decided to limit contact chaining to only
+two hops away from the RAS-approved
+identifier without prior approval from your
+Division management to chain the third
+hop. Under PR/TT, the FISC limits the
+number of hops for internet
+communications to only two, and the hop
+counter will not permit these FISC-
+mandated levels to be exceeded
+
+ 
+
+ 
+
+ 
+
+V(IS#SI#N-E) (HMC Character): Once the EAR verifies that the seed that the analyst has requested to quierv is RAS approved, it will allow the analyst to
+
+ 
+
+ 
+
+W
+Page 13 of 39
+

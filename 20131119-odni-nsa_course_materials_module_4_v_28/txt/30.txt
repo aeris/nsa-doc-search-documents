@@ -1,0 +1,84 @@
+DATE/PREPARER: 11/23/2010 SLS
+
+ 
+
+ 
+
+FRAME ID: 4140
+
+ 
+
+NEXT FRAME ID: 4150
+
+ 
+
+BACK FRAME ID: 4135
+
+ 
+
+ALT TAG:
+
+ 
+
+ 
+
+GRAPHIC/AV:
+
+(U) Image of OGC Attorney, HMC
+
+Character, and SV Character sitting at
+
+a table
+
+(U) Possible cutaway images may
+
+include:
+
+0 Sharing of information outside
+
+of NSA (perhaps with FBI or
+other customer)
+
+ 
+
+ 
+
+(ISAISWNE) Dissemination of BR- and PRITT-Derived Information
+
+(IS#SI#NF) Dissemination of BR and PR/TT results is distributing information to external
+customers in any form to include oral or written form
+
+(¥S#SI#NF) Topics covered:
+
+ 
+
+Topic Page Classification Screen Number
+(lSAISl-ALNF) Dissemination of BR $OP—SEGREALGOIVH-NIALNOFQRN 19 of 27
+and PR/TT Derived Information
+
+Information of foreign intelligence value which contains only foreign person information
+that IS NOT unique to BR or PR/TT
+
+Information on US. persons (minimized) or foreign target activity unique to BR or PR/TT
+metadata
+
+Information on US. persons (unminimized) unique to BR or PR/TT
+
+ 
+
+(IFSALSWN-F) (OGC Attorney): Now let’s focus our attention on the dissemination of BR and PR/TT results. We deﬁne dissemination of BR and PR/TT
+results as distributing information to external customers in any form to include oral or written form. Let‘s say you perform a BR or PR/TT query using a
+RAS-approved identifier, and the query returns good foreign intelligence information based on unique BR or PR/TT metadata that you would like to report
+to Intelligence Community customers. What should you do? In this topic we will discuss to what extent we can use standard processes and procedures for
+the dissemination ofthis information and to what extent we must use special processes and procedures for the dissemination ofthis speciaI foreign
+intelligence information. Given the sensitive nature ofthis Program, you will not be surprised to hear that there are special rules that apply to the
+
+dissemination of this information.
+
+ 
+
+ 
+
+mm
+Page 28 of 39
+

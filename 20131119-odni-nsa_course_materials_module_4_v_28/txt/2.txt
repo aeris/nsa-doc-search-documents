@@ -1,0 +1,35 @@
+ 
+
+ 
+
+ 
+
+ 
+
+k(IS#Sl#N-F) (OGC Attorney): Duriﬁthis part of our trip we will ideTttifﬂhé limitations regarding access, sharirﬁ, disseminiating, and reitainiﬁof BR and
+PR/TT query results.
+
+(U) This module will enable you to:
+o (ISA‘SWNF) Distinguish between the analysts authorized to query BR and PR/TT metadata and those authorized to view query results
+
+0 (IS#Sl#N-F) Recognize the contact chaining restrictions for RAS-approved identiﬁers
+
+o (IS#Sl#N-F) Recognize what constitutes unique BR and PR/TT query results
+
+0 (ISALSl-AlN-F) ldentify limitations that impact the access, sharing, dissemination, and retention of BR and PR/TT query results
+
+0 (ISALSl-AlN-F) Recognize the BR and PR/TT dissemination tracking requirement and the additional CT nexus requirement for US. person identiﬁers
+
+(ISALSl-lﬂN-F) If you are a technical person, you might be asking yourself if this information is directly applicable to you and your team. Compliance with the
+FISC Orders could be jeopardized by inadvertent or unintended changes in the infrastructure maintained by technical personnel. Therefore, an
+understanding ofthe requirements outlined in the Orders is important in the event that any technical support functions (data access, presentation,
+underlying system support — both hardware and software, etc.) cause changes to the support infrastructure that would bring NSA’s compliance with the BR
+and PR/TT Court Orders into question.
+
+ 
+
+ 
+
+W
+Page 2 of 39
+
