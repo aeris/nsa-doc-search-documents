@@ -1,0 +1,88 @@
+Version 9.0 - Invisibility report
+
+Results of the invisibility tests apply to the following infection
+vectors:
+
+° Silent installer
+
+' Melted application
+' Network Injector INIECT-EXE attack
+° Ofﬂine CD
+
+Please note:
+
+' AV products were installed with default options in a Windows
+7 64-bit environment.
+
+ifyoa need information about a spchicAVnot listed, please contact as.
+
+The table below details the results of the test:
+
+Product name Invisibility
+
+ 
+
+Ahnlab Internet Security 2013
+
+ 
+
+Avast Internet Security 2013
+AVG Internet Security 2013 -' = -; :; gaginngﬂija
+Avira Internet Security 2013
+BitDefencler Total Secu rity 2013 Iaﬁﬁigjg..17magv-I.;aﬁﬂ
+
+Comodo Internet Security Pro _ Iﬁﬁarzimltgmﬂatmtiling:
+ESET Smart Security
+
+ 
+
+ 
+
+ 
+
+ 
+
+F-Secu re Internet Secu rity
+
+ 
+
+Kaspersky Antivirus 2013
+
+ 
+
+McAfee Antivirus 2013
+
+ 
+
+Microsoft Security Essential
+
+ 
+
+Norman Antivirus
+
+ 
+
+Norton Internet Security 2013
+
+ 
+
+Panda Internet Security 2013
+
+ 
+
+PCTools Internet Security 2013
+Sophos EnclUser Antivirus + Firewall - 'rilﬂéaiﬁriuﬂﬁﬁs
+Trend Micro Titanium
+
+ 
+
+ 
+
+ZoneAlarm Antivirus + Firewall
+
+ 
+
+ 
+
+ 
+
