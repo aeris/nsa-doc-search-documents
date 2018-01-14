@@ -1,0 +1,52 @@
+SIDToday - Interview with a SID "Hacker" -- Part 1: How Does TAO Do Its Work?
+
+speciﬁc targets. 80, for example, I work the CT [counterterrorism] target, and we
+have counterpart operators who focus on CT, too. {In the past, we analysts would
+have shown up for an operation and been assigned an operator randomly out of a
+pool.) The beneﬁt of this new approach is that the analysts and operators can
+develop working relationships and collaborate ahead of time on an upcoming
+operation.
+
+(U/lFOUO) In terms of how an operation is scheduled, our analysts decide to work
+a project and start to do research on targets to go after. Next we get approvals
+through the ROC mission directors to pursue operations against those targets. The
+mission directors are a small group of people with lots of experience. They assess
+the risks involved in the operation and approve or deny it. Once we have the
+approval, the analysts plan an operation in coordination with an operator and,
+when they are ready, arrange a speciﬁc time to carry it out. We have the ﬂexibility
+to conduct the operation at the optimal time.
+
+{U//FOUO) In the early days TAO used to be just a bunch of hackers! We did things
+in a more ad hoc manner... one guy did it all. Now we're more systematic in how we
+do things.
+
+(S/lSI/IRE L) In the CT world, we usually go after the infrastructure (like an ISP
+[internet service provider]) or after the speciﬁc target in end-point collection --
+extracting data from a speciﬁc "box" [computer or device]. Normally collection is
+automated for end-point, but sometimes it's an interactive, real-time event when
+the target is up on the net. The latter happens quite a bit in CT. The operations
+might take place at 2AM or 6AM, since that is when the target is active. Some CT
+targets use really slow dial-up connections from remote places in the Pakistani
+tribal areas, and we have to move quickly when the opportunity presents itself.
+
+ 
+
+(U) ...Do you need linguists to participate in your operations, to
+translate the names of the ﬁles, etc?
+
+{S/lSI/REL) Not as much as you might think. We don't evaluate the content of the
+data, we just collect it. Usually we have an idea of what types of ﬁles and
+information the TOPIs are interested in -- like text ﬁles -- and we try to grab all of it
+for analysis later. We don't take the time during the operation to sort out the good
+from the bad.
+
+(U) Stand by for the conclusion of this interview, appearing tomorrow. [Editor's
+note: click HERE]
+
+"(U/lFOUO) SIDtoday
+articles may not be
+republished or
+reposted outside
+
+30f4
+

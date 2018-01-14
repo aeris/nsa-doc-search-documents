@@ -1,0 +1,61 @@
+SIDToday - Interview with a SID "Hacker" -- Part 1: How Does TAO Do Its Work?
+
+computers. — (pictured), a counterterrorism subject-
+matter expert in TAO's Requirements and Targeting organization,
+spoke with SIDtoday recently to explain how TAO carries out its work:
+
+ 
+
+ 
+
+1. (Ul/FOUO) What do TAO Requirements 8: Targeting analysts like
+you do? -- What's your role?
+
+(U) Our role in R&T is to serve as a liaison with the TOPIs in 82. We work with the
+TOPIs to ﬁnd out what they really want in terms of ONE [computer-network
+exploitation] collection and then work within TAO to ﬁgure out how to get it... To
+give you a quick overview, there are different elements in TAO:
+
+- (U/lFOUO) First there are are the developers who create the software and
+the hardware -- the tools that TAO uses to carry out our collection.
+
+- (U/IFOUO) Next are the operators in the ROC [Remote Operations Center]
+who actually use the tools. They do the actual collection of intelligence from
+the targets' systems, while showing good OPSEC [operations security] and
+making sure our tools themselves are protected.
+
+0 (U/IFOUO) And then there is my element, Requirements and Targeting. We are
+the analysts and planners for operations. We ﬁnd out what the TOPIs are
+looking for, do the network analysis, and draw up a plan for getting that
+collection.
+
+0 (U/lFOUO) Supporting it all are the folks who provide the infrastructure. They
+provide the computers, networks, etc. and keep everything running.
+
+(U/lFOUO) Each group brings a different skill to the table. Regarding the tools we
+use, the developers know the coding for them, the operators know how to use
+them, and R&T just knows that they exist. R&T's focus is on where we can
+apply the tools to get the intelligence we want.
+
+(U/lFOUO) In TAO, we all have to work hand-in-glove. Often the analysts are eager
+to grab whatever intelligence we can, while the operators are more conscious of
+the risks involved, so we meet somewhere in between. Each side brings their own
+perspective and it creates checks and balances.
+
+(U/lFOUO) The ROC does after-action reviews of operations -- every action taken is
+automatically recorded -- to make sure things were done appropriately. Operators
+have to be certiﬁed -- and they can have their certiﬁcations pulled -- so they have a
+strong incentive to show good OPSEC.
+
+2. (Ul/FOUO) Do RSzT analysts participate when operations are
+carried out in the ROC? If so, how does it play out?
+
+(U//FOUO) Yes, the R&T analysts actually sit side-by-side with the ROC operators
+when an operation takes place. We're there to provide knowledge of the
+networks, and the operators, as I mentioned, know how to use the tools to
+extract the data.
+
+(U//FOUO) Nowadays there are dedicated analysts and operators working on
+
+20f4
+
