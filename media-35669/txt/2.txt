@@ -1,0 +1,17 @@
+TOP SECRET/lCOMINT/INOFORN
+
+network was also using this backbone. Since the STE GSM network had never before
+been exploited, this new access represented a real coup.
+
+(TS/ISU/NF) TAO is now able to automatically exfiltrate call detail records (CDRs)
+containing billing information from STE, showing subscribers’ interlocutors and their
+geographic locations. This access has, in turn, enabled access to CDRs from other GSM
+networks in the region, including GPRS data as well as the exploitation of a GSM switch
+that provides target voice content exfiltration. A very successful operation!
+
+(Uf/FOUO) Want to know more about A0? Type “go A0” in your browser.
+
+(Ul/FOUO) P0C= —
+
+TOP SECRET/lCOMINT/INOFORN
+
