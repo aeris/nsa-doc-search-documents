@@ -1,0 +1,42 @@
+NSA's DNI architecture. The JSAJ an operational element of' the Special US Liaison
+Activity Germany [SUSLAGL is ajoint SIGINT development; collection; and
+exploitation site manned by German and US personnel.
+
+[SHED END analysts discussed their processing architecture; which is largely
+based on NSA's old P25 and P26 GRANDMASTEE prototypes. Their focus is
+primarily e-maiI processing; specifically SMTP e-mail. Spam filters are used to
+manage large data volumes. Selected trafﬁc is passed through an automated
+privacy protection system; ensuring that analysts cannot viev.r German-protected
+trafﬁc. Urn-site END analysts then manually assess all selected trafﬁc to determine
+potential intelligence value.
+
+[SHED In conducting this evaluation; they do not prioritize the selected trafﬁc by
+target or keyword. Instead they focus on e-mails carrying attachments with the
+goal to scan e-mails as quickly as possible to increase their throughput. E-mails
+that are determined to he of'potential intelligence value are then forwarded to END
+HUS f'or follow-on evaluation and reporting.
+
+[SHED NSA intelligence analysts discussed NSA's SIGINT Development model;
+NSA's "Hunt versus Gather" philosophy; our multi-stage selection and ﬁltering
+process; and the evolution of'DNI processing systems from GEANDMASTEE to
+WEALTHYCLUSTEE and; in the future; TUEMDIL. The END appeared especially
+interested in the TUEMDIL approach of' scanning and making judgments at the
+packet level prior to any sessionizing.
+
+[SHED In summary NBA and END use opposite selection and ﬁltering
+approaches. Where NSA primarily relies on equipment for selection [e.g.
+ELACKNIGHT} and analyst minimization for privacy protection; the END relies on
+analysts to manually scan trafﬁc for selection; and then equipment to filter data for
+privacy protection. Full use of' current NSA DNI processing systems and analysis
+methodologies at JSA will be key to inﬂuencing the END to alter their strategic DNI
+processing approach.
+
+*[U] Note: END = Germany's Eundesnachrichtendienst [the Federal Intelligence
+Service}
+
+ 
+
+[D] This article is reprinted from the Foreign Aﬁhirs Digest; April edition.
+
+2of3
+
