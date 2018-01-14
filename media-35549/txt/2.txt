@@ -1,0 +1,148 @@
+UNCLASSIFIED/IFOR OFFICIAL USE ONLY
+
+Description of Information
+
+ClassificationiI
+
+Reason
+
+Declass
+Date
+
+Remarks
+
+ 
+
+3.9 (U) The use of Suite A and
+Suite B algorithm names andlor
+cover names used in the
+CryptoMod.
+
+Markings
+UNCLASSIFIED
+
+MA
+
+MA
+
+ 
+
+8.10 (U) The fact that NSA is
+migrating many of its
+cryptographic products to modern
+crypto-algorithms within CMI.
+
+UNCLASSIFIED
+
+MA
+
+MA
+
+(U) CMI specifies the
+use of multiple suites of
+crypto-algorithms.
+
+ 
+
+3.11 (U) The fact that a named
+CryptoMod product will
+incorporate multiple suites of
+crypto-algorithms.
+
+UNCLASSIFIED
+
+MA
+
+MA
+
+(U) For example, the
+KIV-TM employs multiple
+suites of crypto-
+algorithms.
+
+ 
+
+B.12 (U) The fact that the next
+generation US DOD Key
+Management Infrastructure (KMI)
+will support products using
+multiple suites of crypto-
+algorithms and will be using these
+algorithms to protect KMI
+information.
+
+UNCLASSIFIED
+
+MA
+
+MA
+
+ 
+
+ 
+
+B.13 (UIIFOUO) CryptoMod
+Program planning information
+such as schedules or milestones
+that show when the entire US.
+cryptographic inventory will
+transition to modern crypto-
+algorithms.
+
+ 
+
+SECRET
+
+(See remarks for
+releasability.)
+
+ 
+
+1.4 (c) g)
+
+ 
+
+25 years"
+
+ 
+
+(UIIFOUO) Program
+planning information on
+cryptographic products
+is normally REL TO
+USA, AUS, CAN, GBR,
+NZL. See following
+remark.
+
+(UIIFOUO) Information
+related to Nuclear
+Command and Control
+or Space systems is
+generally not releasable.
+
+However:
+
+(U) There may be
+occasions when this
+information is shared
+with select Allied
+national security
+authorities. Such
+determinations will be
+made by the IAD
+Technical Director in
+conjunction with the IAD
+Office of Foreign Affairs
+after consideration of
+need-to-know.
+
+(U) Refer to Service or
+program-specific
+classification guidance.
+
+ 
+
+UNCLASSIFIED/IFOR OFFICIAL USE ONLY
+
+ 
+

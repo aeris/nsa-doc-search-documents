@@ -1,0 +1,112 @@
+UNCLASSIFIED/IFOR OFFICIAL USE ONLY
+
+Description of Information
+
+Classification:l
+
+Reason
+
+Declass
+Date
+
+Remarks
+
+ 
+
+Markings
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+C? (U) Test DePAC parameters UNCLASSIFIED NIA NIA
+
+and test software verification
+
+parameters.
+
+D. (U) Miscellaneous
+
+D.1 (Ul/FOUO) The use of named SECRETIIREL TO USA, 1.4 (c) (g) 25 years* (Ul/FOUO) The
+
+public crypto-algorithms, not part AUS, CAN, GBR, NZL association is classified
+
+of Suite B, with an NSA-certified for all references to the
+
+product. public cryptographic
+algorithms.
+(Ul/FOUO) The use of
+public cryptographic
+algorithm names can be
+used as cover for any
+classified algorithm.
+(Ul/FOUO) For example,
+using PGP for the
+protection of classified
+information within the
+KG-### would be
+classified SECRETIIREL
+TO USA, AUS, CAN,
+GBR, NZL.
+
+D.2 (UIIFOUO) The association of SECRETI/REL TO USA, 1.4 (c) (g) 25 years*
+
+crypto-algorithms or equipments AUS, CAN, GBR, NZL
+
+with LYOU identified.
+
+D.3 (UIIFOUO) Any list which TOP SECRETI/REL T0 1.4 (c) (g) 25 years* (UHFOUO) The
+
+associates crypto-algorithms and
+equipment with Critical Year (CY)
+identified.
+
+ 
+
+USA, AUS, CAN, GBR,
+NZL
+
+(See remarks for
+releasability.)
+
+ 
+
+ 
+
+ 
+
+“Assessment of Type 1
+Cryptographic Products”
+provides a compiled
+listing of algorithms and
+equipments with the
+associated LYOU and
+CY data. Only the
+equipment name,
+Strategic LYOU, Tactical
+LYOU, clarifying remarks
+and algorithms may be
+extracted and shared at
+the SECRET/[REL FVEY
+level with individuals
+with a need-to-know.
+
+ 
+
+* 25 years: Declassification in 25 years indicates that the information is classified for 25 years
+from the date a document is created or 25 years from the date of this original classification
+
+decision, whichever is later.
+
+UNCLASSIFIED/IFOR OFFICIAL USE ONLY
+
+11
+
+ 
+
