@@ -1,0 +1,28 @@
+ 
+
+Discovered -opposition individuals who could have possibly been traveling with the ships of interest .
+
+ 
+
+Our Approach
+
+- Queried over 900 towers and other selectors in MAINWAYISEDB in attempt
+to discover any identiﬁable selectors around the coordinates of interest.
+
+- Created another query based on identiﬁed selectors of interest to pull for
+any cell fan information in order to more precisely locate each selector of
+interest.
+
+ 
+
+ 
+
+o Queried in SEDB ship data on the ships of interest and plotted the track the D
+ships took into
+
+- Identiﬁed selectors by cell fan information seen near the ports where the
+ships of interest had docked. Also correlated any selectors moving in
+relation to the ships’ movements using cell fan data.
+
+ 
+

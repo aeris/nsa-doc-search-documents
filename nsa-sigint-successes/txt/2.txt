@@ -1,0 +1,10 @@
+ 
+
+Mission Example and Result: The HAPPYFOOT analytic aggregates leaked location-based service I location-aware application data
+to infer lP address geo-locations. SDS identiﬁed ‘Public' and ‘private' usage of the same IP address that caused HAPPYFOOT to
+assign -netblocks to —geo-Iocations (the IP address was used in both countries). This private network is now
+
+being realmed and property geo-located Ongoing work will solve this realming problem for networks lafiecting other cloud analytics.
+
+I! OMWI._
+

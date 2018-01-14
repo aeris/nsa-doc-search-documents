@@ -1,0 +1,27 @@
+Our Approach
+
+-Tracked .target's converged communications and CNE accesses.
+
+- Monitored passive internet traffic; created automated processes where
+possible (XKS ANCHORMAN, Workﬂows, Fingerprints).
+
+- Provided TAOIGCHQ with WLles/DSL accounts, Cookies,
+GooglePREFle to enable remote exploitation.
+
+- Partnered with NGA and R4 to conﬁrm locations and USRP equipment
+based on collected photographs.
+
+- Drove CNE collection and partnered with TAO to increase USRP
+speciﬁc endpoint accesses.
+
+- Provided knowledge to interagency partners for potential on the ground
+survey options and FBI-led intelligence guiding efforts.
+
+ 
+
+ 
+
+ 
+
+ 
+
