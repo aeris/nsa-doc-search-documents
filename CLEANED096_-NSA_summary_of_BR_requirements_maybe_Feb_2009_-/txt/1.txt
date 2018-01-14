@@ -1,0 +1,58 @@
+/€ air/6:]; (Jim Aim ”/29
+
+ 
+
+FISA Business Records Telephony Metadata Collectiﬂ
+
+Veriﬁcation Requirement:
+
+Verify that the data is of the ELIE authorized by the order (i.e., call-detail records/
+telephony metadata). (See page 2 of the Order.)
+
+Under no circumstances may the substantive content of communications
+be received under this order.
+
+Specific Court-Ordered Procedures and Restrictions (see pages 5-12 of the Order):
+
+Standard for Accessing Data
+
+Any search or analysis of the data archive shall occur onl after a articular
+known telephone number has been associated with
+
+ 
+
+Seed queries must be particular known telephone numbers that
+meet the targeting standard articulated by the Court --based on the factual and
+practical considerations of everyday life on which reasonable and prudent persons
+act, there are facts giving rise to a reasonable, articulable suspicion that the
+
+telephone number is associated with —
+
+provided, however, that a telephone number believed to be used b a U.S.‘ erson
+shall not be reiarded as associated with—
+solely
+
+on the basis of activities that are protected by the First Amendment to the
+Constitution. (See Order, 11 3(A).) '
+
+ 
+ 
+     
+
+No targeting U.S. persons based upon lSt Amendment protected activities.
+
+OGC must review and approve targeting of US. persons to ensure that
+standards are met.
+
+Other Access Requiremelﬂ
+
+Access to this data is limited to authorized analysts. NSA’s OGC shall monitor
+the designation of individuals with access to the archive; Access to the archive
+shall be controlled by user name and password. When the metadata archive is
+
+Derived From: NSA/CSSM l~52
+Dated: 20041 123
+Declassify On: “Source-Marked???
+
+ 
+
