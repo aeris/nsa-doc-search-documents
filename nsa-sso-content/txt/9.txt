@@ -1,0 +1,43 @@
+TOP SECRET//S|//NOFORN
+
+Mobile IMAP
+
+- IMAP protocol used by email clients to CAPABILITY
+
+ 
+
+ 
+
+to fetch mail from server(s) ii iiiﬂnm
+. . _ R3 EXMIINE INBOX
+- Not desngned for devnces With me us: «w mox
+
+A5 LIST "" "INB'OX.%"
+
+intermittent connections (i.e. mobile A6 5mm smca 15-Aug-2011 mum» m
+
+A? FETCH l? [ENVELOPE INTERNALDATE RF'C822.SIZE
+
+ 
+
+ 
+
+phones) As FETCH 17 [BOULPEEKmEADER];
+A9 CLOSE
+- AndrOId Implementation In “0 LOGO“
+particular uses a lot of bandwidth
+m M T_o Subject Attachments
+‘rﬁm— — l— 2nd Wmaemander— 0
+V Display Information: Email BSend to v
+
+Subject: 2nd Payment Reminder—
+m —
+
+DNI Parser: Document. or message has no data
+
+Text Size - + new Full Erase :i'
+
+ 
+
+TOP SECRET//S|//NOFORN
+

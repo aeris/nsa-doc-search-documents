@@ -1,0 +1,26 @@
+TOP SECRET//S|//NOFORN
+
+Yahoo Webmessenger
+
+ 
+
+Update data sent to individuals logged into Yahoo’s Instant
+Messenger service online
+
+— Online contact status, unread emails in Yahoo inbox
+
+— Usually small sessions (2—4kB)
+
+Sporadic collection (30,000 — 60,000 sessions per day)
+
+Intermittent bursts of collection against contacts of targets
+— Large numbers of sessions (20,000+) against a single targeted selector
+— Not collected against the target (online presence/unread email from target)
+— No owner attribution (metadata value limited to fact-of comms for emails,
+online presence events for buddies)
+Over a dozen selectors detasked in two weeks
+— Because a target’s contact was using/idling on Yahoo Webmessenger
+— Several very timely selectors (Libyan transition, Greek financial related)
+
+TOP SECRET//S|//NOFORN
+
