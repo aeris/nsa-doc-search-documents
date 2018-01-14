@@ -1,0 +1,59 @@
+SIDToday - '4th Party Collection': Taking Advantage of Non-Partner Computer Network Exploitation Activity
+
+ 
+
+(S/lSI/lRE L) The Menwith Hill Station Computer Network Operations team has
+been working on developing methods of "4th Party Collection" - a technique that
+allows the Intelligence Community to take advantage of non-5-eyes computer
+network exploitation (CNE) activity. The exploitation activity may be state-
+sponsored or opportunistic, but when one target nation is gathering data on
+another target nation, the Intelligence Community (IC) may be able to use that
+information.
+
+(S/lSI/lRE L) Initial development in this arena has focused on developing capability
+against keyboard loggers (keyloggers), speciﬁcally attempts by the Kurdistan
+Democratic Party against several targets. A keylogger is software or hardware that
+has been installed, either co-operatively or maliciously, on a computer to capture
+key strokes, screen captures, chats, passwords, logins, etc. Keylogger activity is
+quite prevalent and is being used to identify activity on computers related to IC
+targets.
+
+(S/lSI/IREL) MHS is interested not only in the data that is being ex-ﬁltrated, but
+also in who is installing the keylogging software to initiate that ex-ﬁltration. Some
+initial work has already identiﬁed a network believed to be associated with the
+Kurdistan Security Service. Research has shown that CNE activities targeting
+civilian and government individuals and computer networks are taking place in
+
+several locations: the northern Iraq city of Erbil,1 various locations in Iran, and
+some Iraqi Ministry of Foreign Affairs computers.
+
+(S/lSI/lREL) The method of exploitation involves the use of a commercial keylogger
+called "Perfect Keylogger." This keylogger records data from the computer it is
+
+installed on and emails the data to a conﬁgurable email address.2 The data from
+these activities are being emailed to accounts that trace back to terminals believed
+to be associated with the Kurdistan Democratic Party (KDP).
+
+(S//SI//REL) Image represents a sampling of the data taken from keylogger reports
+between the last week ofNovember and the ﬁrst week ofDecember 2007.
+
+(S/lSI/lRE L) The computer networks being targeted appear to be internet cafes in
+both Iran and Iraq. Email addresses from at least ﬁve different private domains are
+receiving the keylogger reports. These domains are all registered in Erbil, Iraq. In
+all cases, the targeted individuals appear to be inﬂuential and were probably
+chosen because they have links with the Kurdistan Regional Government. At least
+one Iraqi Ministry of Foreign Affairs computer has also been compromised by this
+CNE activity. The keylogger reports that are targeting individuals are being sent to
+gmail accounts, which may indicate that the person receiving the ex-ﬁltrated data
+wants to be able to access it from different locations. The email addresses of the
+person(s) receiving the keylogger reports have been associated to MAC addresses
+which are believed to belong to the KDP.
+
+(S/lSI/lRE L) Keyloggers can give analysts information such as login/passwords,
+additional email addresses, phone numbers, and documents that reside on the
+victim's computer that might never have been seen via traditional SIGINT.
+
+Information on the CNE activity by the KDP has been passed to the analysts in
+
+20f3
+
