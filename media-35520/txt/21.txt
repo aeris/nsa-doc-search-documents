@@ -1,0 +1,17 @@
+ 
+
+ 
+
+(TS//S|//REL) PINWALE
+
+- (TS/ISIIREL) Both VPN traffic and Sys Admins
+passing information about VPN setup
+
+' (TS/ISIIREL) IP addresses and port numbers (ex.
+AP 00500) ***Document Zone = C2C
+
+- (TSI/SI/REL) Display ‘DZ Protocol SRC Port’,‘DZ
+Protocol DEST Port’, ‘Next Protocol Name’
+
+ 
+

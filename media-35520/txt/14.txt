@@ -1,0 +1,272 @@
+ 
+
+   
+
+Ele Edl: glew Hlstnry Bookmarks Innis gel;
+
+4: veg
+
+   
+
+SHINE-If! FBFH‘I - “62'“! FIFEFBX
+
+        
+ 
+
+ 
+
+ 
+
+.‘(XKEYSCORE @‘OYGRlPFE bNKE Home HNKE DlECn Route ZfﬁoadaeanetMyPage @Gnlmlnt
+
+ 
+
+ 
+
+M XK Results
+9Logoﬂ
+Quart
+.Siandard
+QFreeFom‘l
+Results
+#Allﬁemlts
+.Vlew
+93ml
+’m
+Dellmrted
+Prelelences
+.General
+
+Help
+9%
+
+§ (2 :1 mm Us
+
+Done
+
+“ﬂat--
+. I la:
+
+ 
+
+ 
+
+ﬂ)
+
+‘1
+
+ 
+
+ 
+
+U')
+
+ 
+
+ 
+
+_‘_ second level
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+lDaleRange(Required): __ ' d
+a ‘ r
+START- “i, no : 3 v
+END'-.' 5 :Il 2011 : -#‘Du
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+|oala Fields: .—
+" U53 CHECKHUKES TU EXCIUUE m3 Il'ldlCﬁiEd YEIUE :-
+
+Silas MMMM 3
+
+D Selecied Silas
+
+ 
+
+ 
+
+     
+
+Sources ACTI‘JE_SURVEY
+D Selecled Suurces
+D case Notation
+D VandurNime
+
+D Source CIDR
+
+[:
+D Desilnatiun cum [:
+a swam [:
+a Wm [:
+
+level
+
+ 
+
+‘Display Fields:
+
+ 
+
+Gen Source Country
+Source in Address
+Destinatur lFAddress
+
+Geo Destination Country
+lPSEC AUIhEl’ItICEtIUH Name
+
+:lﬂlﬂ lniomlailor'
+
+ 
+
+* Timestan'p: The tilrestamp of
+the traffic as provided Dy the
+source. (dtTilr'e, timestamps)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Save 35 default Clear RESEI TD DEfaUlT
+
+ 
+
+ 
+
+ 
+
+ 
+
+D nest Cuunlry I
+
+‘IP Addressesﬂhnges and Wildcards Accepted]:
+
+ 
+
+D Source Domain
+
+Query daiailelds based (:1 cansirainis.
+Save Standard Query: I
+
+D Desll Dumiin
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Descnpllm
+
+ 
+
+ 
+
+Source ID Addresses
+
+)ei’iil'latun ID Addre§es
+
+ 
+
+Source ID PINES
+Clear AGSFQESES FIlQ
+
+CU'iS’i'ElH [ESLlLiiU SUJICE
+
+ 
+
+)estll'latun ID FINES
+Clear AGGTESSEE HIE
+
+desllnailun P Address matches.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- ,l _7
+MW
+
+ 
+
+ 
+
+(TSllRELlTYG T'pS'
+
+9 Populate “Display
+Fields"
+
+9 For both directions
+between 2 Ips, use
+AND
+
+9 For either direction
+connecting to a
+single IP, put IP in
+both “Source" and
+“Destination" boxes,
+and use OR
+
+ 
+
+ 
+
+ 
+
+[Em
+
+ 
+
+ 
+
+ 
+
+ 
+

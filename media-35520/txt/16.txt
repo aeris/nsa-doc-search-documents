@@ -1,0 +1,25 @@
+(TS//S|//REL) XKEYSCORE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(TS/IREL) Fingerprints (TS/IREL) Search Forms
+- IPSec - Start with FULL DNI
+a vpn/esp a vpn/*
+a vpn/isakmp a network_encrytion/*
+- PPTP 'IPSec
+a vpn/pptp* a IKE Parser
+- SSL - SSL
+a network_encyption/ssl a SSL Parser
+
+ 
+

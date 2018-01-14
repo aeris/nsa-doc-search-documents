@@ -1,0 +1,20 @@
+ 
+
+ 
+
+(U)|PSec
+
+- (U) Authentication
+a Pre-shared key (PSK) or Public key certificates
+
+- (U) ISAKMP/IKE packets are used for key exchange
+and to establish the secure connection
+
+a UDP port 500, 4500; TCP port 500
+
+- (U) ESP packets contain the encrypted data
+a IP Next Protocol 50; UDP port 500
+- (U) RFC2402, RFC2406, RFC2409, RFC4306, RFC2408
+
+ 
+

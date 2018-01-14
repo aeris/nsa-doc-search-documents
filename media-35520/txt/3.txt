@@ -1,0 +1,21 @@
+ 
+
+ 
+
+(U) What is a VPN?
+
+- (U) A Virtual Private Network or VPN is a
+computer network that uses encryption to
+securely connect remote users/networks over
+an otherwise insecure network, usually the
+public internet.
+
+- (U) Common Types:
+D PPTP, IPSec, SSL
+° (U) Public Key Encryption
+
+a Diffie-Hellman, RSA
+—
+
+ 
+
