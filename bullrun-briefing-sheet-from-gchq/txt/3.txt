@@ -1,0 +1,65 @@
+TOP SECRET STRAP1 COMINT
+
+15. All questions or concerns regarding BULLRUN material and information should
+be directed to OPC—SEC.
+
+Protective Marking Guidance
+
+The following offers some guidance on Protective Markings (PM) for BULLRUN
+material. Questions regarding PMs can be directed to the Col Authority’s delegates
+
+At SECRET STRAP1 COMINT AUSCANZUKUS EYES :
+
+The fact that GCHQ has unspecified capabilities against network security
+technologies eg TLS/SSL, HTTPS, SSH, VPNs, IPSec. NB capability does not
+
+necessarily equate to decryption capability.
+At TOP SECRET STRAP1 COMINT AUSCANZUKUS EYES :
+
+The fact that GCHQ or its 2"d Party partners has some capability against the
+encryption used in a class or type of network communications technology. For
+example, VPNs, lPSec, TSL/SSL, HTTPS, SSH, encrypted chat, encrypted VolP.
+
+At TOP SECRET STRAP2 COMINT BULLRUN AUSCANZUKUS EYES I
+
+The fact that GCHQ or a 2nd Party partner has a capability against a specific
+encrypted network security technology — see Annexe for details. (At a minimum,
+specific capabilities may be protected by additional ECls and restriction on “Eyes”.)
+
+The fact that GCHQ or its partners exploits specific encrypted network
+communications — see Annexe for details. (At a minimum, specific capabilities may
+
+be protected by additional ECls and restriction on “Eyes”.)
+
+Decrypts (plaintext or derived events / metadata) obtained from BULLRUN
+capabilities. (At a minimum, specific capabilities may be protected by additional
+restriction on “Eyes” and, in a few cases, additional ECls.)
+
+GLOSSARY
+
+(U) HTTPS — HTTP traffic secured inside an SSL/TLS session, indicated by the
+httpszl/ URL, commonly using TCP port 443
+
+(U) lPSEC -- lPSec, or lP Security, is the Internet Engineering Task Force (IETF)
+standard for layer 3 real—time communication security. lPSec allows two hosts (or two
+gateways) to establish a secure connection, sometimes called a tunnel. All traffic is
+
+protected at the network layer.
+
+(U) SSH ~ Secure Shell. A common protocol used for secure remote computer
+access
+
+30f4
+
+«ii-3n Act ZCJO . . L ITlL‘
+
+    
+ 
+
+Tin. miorr.» iion iC (nempi from d' ,r usurp under tilt: Filmehl of ii ion.
+cider I ll: inform: iion legislation. hoi‘e: ditvCiOSUit. rzmuests tc CC‘wC' on
+
+ 
+
+he sur ‘ect to exert. .iinr. m Um
+
