@@ -1,0 +1,17 @@
+TOP SECRET STRAPl COMINT
+
+[U] TLS — Tran sport Layer Seourity. The follow—on to SSL, SSLyS ano TLSylﬂ are
+nearly io entioal.
+
+[U] VoIP — l~.r'oioe over Internet Protoool. A general term for the using IP networks to
+make yoioe phone oalls. The applioation layer protoool can be standards—based (e.g.,
+H.323, SIP}, or proprietary (e.g., Skype}.
+
+[U] VPN — lillirtual Private Network. A private network that makes use of the publio
+teleoommunioatjons infrastructure, maintaining priyaoy via the use of a tunneling
+protoool ano seourity prooeoures that typioally inoluoe enoryption. Common protoools
+inoluoe IPSEC ano PPTP.
+
+1.. I'm". l-:E'II.:III' I. _-: -:.:.=:I :.|.I:III I. : :I ll —':: I : " -=' " -='.'1 -. : ;; ._ . :: . . . .
+TOP SECRET STRAPl COMINT
+
