@@ -1,0 +1,31 @@
+TOP SECRET STRAP1 COMINT
+
+(U) SSL - Secure Sockets Layer. Commonly used to provide secure network
+communication. Widely used on the internet to provide secure web browsing,
+
+webmail, instant messaging, electronic commerce, etc.
+
+(U) TLS — Transport Layer Security. The follow—on to SSL, SSLv3 and TLSvl .0 are
+nearly identical.
+
+(U) VolP — Voice over lnternet Protocol. A general term for the using IP networks to
+make voice phone calls. The application layer protocol can be standards-based (e.g.,
+
+H.323, SIP), or proprietary (e.g., Skype).
+
+(U) VPN — Virtual Private Network. A private network that makes use of the public
+telecommunications infrastructure, maintaining privacy via the use of a tunneling
+protocol and security procedures that typically include encryption. Common protocols
+include lPSEC and PPTP.
+
+4of4
+
+be sub act to ('xemrticn urda
+
+Tl. c fnti rrnz ‘fion is axmnpt from dccmrure moi-r the iratzdom of Won .51; )n Act TM; and mi:
+._,I' (inﬂrii
+
+on or UK Lifer mm." chg sluticn, lack; a" cicrurc reuucsls to bCflCi M
+
+ 
+
