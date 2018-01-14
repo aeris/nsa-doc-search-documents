@@ -1,0 +1,22 @@
+   
+
+- Show me all the VPN startups in
+country X, and give me the data so I
+can decrypt and discover the users
+
+. These events are easily browsable in
+XKEYSCORE
+
+. No strong-selector
+
+- XKEYSCORE extracts and stores authoring
+information for many major document types — can
+perform a retrospective survey to trace the
+document origin sinCe metadata is typically kept for
+up to 30 days
+
+0 No other system performs this on raw unselected
+bulk traffic, data volumes prohibit forwarding
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+

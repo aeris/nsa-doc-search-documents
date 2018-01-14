@@ -1,0 +1,60 @@
+     
+ 
+
+. 0,1 ‘ I "I" ”I ' ;j_ _‘ , -‘:‘ ”“11.
+um I no: mo: W‘Wlnﬁﬂ‘; .,)? ..
+
+ 
+ 
+
+    
+
+mm mm mm ”mnswhm to: ma Q?“ ‘ _5’,_,j
+
+I I Imiiﬁlﬂ ”:0? J? . , “*9; .
+‘ ' @911? THE " " -
+- ul :4” -'."—..i:”',,;.:',,,:
+
+ 
+
+F’hugJ-irl
+
+.E-mail Addresses
+; Extracted Files
+(FuH Log
+
+" HTI'P Parser
+
+I Phone Number
+
+: User Activity
+
+~""’«J:rii////lCl®lIVI NV” El "THGI aim, was ” ‘\
+
+ 
+
+DESCRIPTION
+
+[ Indexes every E- mail address seen in a session by
+i both username and domain
+
+" Indexes every file seen in a session by both filename
+._ and extension
+
+Indexes every DNI session collected. Data is
+indexed by the standard N-tupple (IP, Port,
+
+3; Casenotation etc.)
+
+‘ Indexes the client-side HTl'P traffic (examples to. V
+follow)
+
+Indexes every phone number seen in a session (e.g.
+
+7 address book entries or signature block)
+
+l Indexes the Webmail and Chat activity to inClude , W E
+,, username, buddylist, machine specific cookies etc.
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
