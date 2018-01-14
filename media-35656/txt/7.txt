@@ -1,0 +1,102 @@
+TOP SECRET/ISU/REL TO USA, FVEY
+
+ 
+
+participants, off-net or on-net
+operations, CNE command,
+control and data exfiltration
+tools/capabilities and locations,
+used to exploit or maintain
+
+See remarks for foreign
+releasability.
+
+ECI.
+
+(U) Foreign releasability
+decisions handled on a case-
+by-case basis. Contact TAO
+
+ 
+
+ 
+
+ 
+
+intrusive access to a target’s CAO for further guidance.
+IT/computer structure
+
+40. (S//SI//REL) Combination of TOP SECRET//SI Sec 1.4 (c) *25 years (U) Details may also be
+details of individual aspects of protected by one or more
+CNE activities, that would See remarks for foreign ECI.
+allow a specific target to take releasability.
+specific counter-measures, such (U) Foreign releasability
+as: decisions handled on a case-
+- Specific target network or by-case basis. Contact TAO
+device El CAO for further guidance.
+- Specific capability, tool or
+technique used for exploitation
+of vulnerability
+
+41. (TS//SI//REL) The fact that TOP SECRET//SI Sec 1.4(c) *25 years (U//FOUO) Details may also
+
+NSA/CSS (or TAO) acquires
+cryptographic enabling
+information through CNE
+activities.
+
+ 
+
+See remarks for foreign
+releasability.
+
+ 
+
+ 
+
+ 
+
+be protected by one or more
+ECI and/or HCS.
+
+(U) Foreign releasability
+decisions handled on a case-
+by-case basis. Contact TAO
+CAO for further guidance.
+
+ 
+
+(U) *25 years: Declassification in 25 years indicates that the information is classified for 25 years from the date a
+
+ 
+
+document is created or 25 years from the date of this original classification decision, whichever is later.
+
+ACRONYMS/DEFINITIONS:
+
+ 
+
+(U) Computer Network Exploitation (CNE): intelligence collection and enabling operations to gather data from
+target or adversary automated information systems (AIS) or networks. (Per DCID 7/3, Information Operations and
+Intelligence Community Related Activities, effective 01 July 1999, administratively changed 5 June 2003)
+
+(U) Computer Network Attack (CNA): operations to manipulate, disrupt, deny, degrade, or destroy information
+resident in computers and computer networks, or the computers and networks themselves. (Per DCID 7/3, Information
+Operations and Intelligence Community Related Activities, effective 01 July 1999, administratively changed 5 June
+2003)
+
+(U) Computer Network Defense (CND): efforts to defend against the CNO of others, especially that directed against
+U.S. and allied computers and networks. (Per DCID 7/3, Information Operations and Intelligence Community Related
+Activities, effective 01 July 1999, administratively changed 5 June 2003)
+
+(U) Computer Network Operations (CNO): CNE, CNA, and CND collectively. (Per DCID 7/3, Information
+Operations and Intelligence Community Related Activities, effective 01 July 1999, administratively changed 5 June
+2003)
+
+(U) Information Operations (10): actions taken to affect adversary information and information systems while
+defending one’s own information and information systems. 10 is an integrating strategy. (Per DCID 7/3, Information
+Operations and Intelligence Community Related Activities, effective 01 July 1999, administratively changed 5 June
+2003)
+
+TOP SECRET/ISU/REL TO USA, FVEY
+

@@ -1,0 +1,105 @@
+TOP SECRET/lSI/IREL TO USA, FVEY
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+14. (U) The fact that NSA/CSS or UNCLASSIFIED N/A N/A (U) Details indicating
+TAO, as part of CNE specific targets, level of
+operations, targets, collects and success or capabilities remain
+processes computers, computer classified.
+networks and computer-to-
+computer (C2C)
+communications without
+reference to a specific
+operation, activity or target
+
+15. (S/lSI/fREL) The fact that NSA SECRET/lSI/fREL TO USA, Sec 1.4(c) *25 years (U) Details indicating
+or TAO, as part of CNE FVEY specific targets, level of
+operations, targets, collects and success or capabilities may
+processes specific computer raise the classification level
+protocols (such as email, instant to TOP SECRET.
+messaging, file transfer
+protocols) (U) Details may also be
+
+protected by one or more
+ECIs and/or a different level
+of foreign releasability
+(including NOFORN).
+
+16. (S/lSI/lREL) The fact that SECRET/lSI/fREL TO USA, Sec 1.4(c) *25 years (U) Details indicating
+NSA/CSS or TAO, as part of FVEY specific targets, level of
+CNE operations, remotely success or capabilities may
+introduces code into target raise the classification level
+computer networks to facilitate to TOP SECRET.
+foreign intelligence collection
+
+(U) Details may also be
+protected by one or more
+ECIs and/or a different level
+of foreign releasability
+(including NOFORN).
+
+17. (TS/lSI/fREL) The fact that TOP SECRET/[SI/[REL TO Sec 1.4(c) *25 years (U) Details may also be
+NSA/CSS or TAO, as part of USA, FVEY protected by one or more
+CNE operations, conducts off- ECIs and/or a different level
+net field operations to develop, of foreign releasability
+deploy, exploit, or maintain (including NOFORN).
+intrusive access, without further
+detail
+
+18. (S/[SI/[REL) The fact that TOP SECRET/[SI Sec 1.4(c) *25 years (U) Details may also be
+NSA/CSS or TAO, as part of protected by an ECI.
+
+CNE operations, conducts off- See remarks for foreign
+
+net activities at specified releasability. (U) Foreign releasability
+
+locations other than NSA/CSS decisions handled on a case-
+
+facilities by-case basis. Contact TAO
+CAO for further guidance.
+
+19. (U) TAO project names, in UNCLASSIFIED/lFOR FOIA (3) N/A
+association with CNE or TAO, OFFICIAL USE ONLY
+with no amplifying details
+
+B. (U) PARTNERING/C. OLLABORATION
+
+20. (Cf/REL) The fact that CONFIDENTIAL/lREL TO Sec 1.4(c, d) *25 years (U) Details indicating
+NSA/CSS or TAO, as part of USA, FVEY specific targets, level of
+CNE operations, collaborates success or capabilities may
+with Second Party Partners to raise the classification level.
+conduct CNE activities
+
+(U) Details may also be
+protected by one or more
+
+ 
+
+TOP SECRET/lSI/IREL TO USA, FVEY
+
+ 
+

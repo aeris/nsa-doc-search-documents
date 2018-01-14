@@ -1,0 +1,106 @@
+TOP SECRET/[SHIREL TO USA, FVEY
+
+ 
+
+D. (U) OPERATIONS and TARGETING
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+33. (U) The fact that NSA/CSS or SECRET/lSI/fREL TO USA, Sec. 1.4 (c) *25 years (U) Details may also be
+TAO, as part of CNE FVEY at a minimum protected by a different level
+operations, targets a specific of foreign releasability
+country or international (including NOFORN).
+organization
+
+(U) Contact TAO CAO for
+further guidance on levels of
+success as well as for more
+specific targeting details such
+as individual(s), specific
+government entity(ies), etc.
+
+34. (SI/SII/REL) Association of TOP SECRET/[SI Sec 1.4(c) *25 years (U) Details may also be
+cover names for off-net protected by one or more
+operations (i.e., physical See remarks for foreign ECIs.
+subversion activities) with releasability.
+amplifying details (e.g., (U) Foreign releasability
+specific electronic components, decisions handled on a case-
+systems, their host facilities, by-case basis. Contact TAO
+etc) CAO for further guidance.
+
+35. (SI/REL) Association of cover SECRET/ISI at a minimum Sec 1.4(c) *25 years (U) Details may also be
+names for on-net operations protected by one or more
+(i.e., remote subversion See remarks for foreign ECIs.
+activities) with amplifying releasability.
+details (e.g., specific electronic (U) Foreign releasability
+components, systems, their host decisions handled on a case-
+facilities, etc) by-case basis. Contact TAO
+
+CAO for further guidance.
+
+36. (S/[SI/fREL) Individual details TOP SECRET/[SI Sec 1.4 (c) *25 years (U) Details may also be
+of CNE activities, such as: protected by one or more
+- Target information including See remarks for foreign ECIs.
+intended target network andfor releasability.
+device (U) Foreign releasability
+- Vulnerability being targeted decisions handled on a case-
+- Target infrastructure by-case basis. Contact TAO
+
+CAO for further guidance.
+
+37. (TS/lSI/fREL) The fact that TOP SECRET/[SI Sec 1.4(c) *25 years (U) Details may also be
+NSA/CSS or TAO, as part of protected by one or more
+CNE operations, is attempting See remarks for foreign ECI.
+to exploit or has succeeded in releasability.
+exploiting a specific (U) Foreign releasability
+vulnerability (e.g., in a firewall, decisions handled on a case-
+operating system, software by-case basis. Contact TAO
+application, etc.), and a specific CAO for further guidance.
+entity or facility within a
+target’s IT/computer structure
+
+38. (S/[SI/fREL) Facts related to TOP SECRET/[SI Sec 1.4(c) *25 years (U) Details may also be
+the description of US. See remarks for foreign protected by one or more
+hardware or software implants releasability. ECI.
+and location (e.g., specific
+organization and Internet (U) Foreign releasability
+Protocol Device/Address, etc.) decisions handled on a case-
+on a target’s by-case basis. Contact TAO
+IT/communications system CAO for further guidance.
+
+39. (S/lSI/fREL) Facts related to TOP SECRET/[SI Sec 1.4(c) *25 years (U) Details may also be
+
+the exact timing, location,
+
+ 
+
+at a minimum.
+
+ 
+
+ 
+
+ 
+
+protected by one or more
+
+ 
+
+TOP SECRET/[SHIREL TO USA, FVEY
+
+ 
+

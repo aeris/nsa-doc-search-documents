@@ -1,0 +1,24 @@
+TOP SECRET/[SHIREL TO USA, FVEY
+
+(Sf/SU/REL) Intrusive Access: Refers to CNE operations involving remote manipulation, hardware/software
+modifications, or sensing of environment changes in a computer device or system, and/or occasionally the facilities that
+house the systems.
+
+(Sf/SU/REL) Off-Net Operations: Refers to covert or clandestine field activities of personnel carried out in support of
+CNE activities.
+
+(Sf/SU/REL) Physical subversion: Subverts with physical access to a device or host facility. Other terms sometimes
+used to connote physical subversion are close access enabling, exploitation, or operations; off-net enabling,
+exploitation, or operations; supply-chain enabling, exploitation, or operations; or hardware implant enabling,
+exploitation, or operations.
+
+(Sf/SU/REL) Remote subversion: Subverts without physical access to a device or host facility; obtains unauthorized
+permission. Other terms sometimes used to connote remote subversion are computer network exploitation; endpoint
+access, exploitation, or operations; on-net access, exploitation, or operations; software implant access, exploitation, or
+operations; or accessing or exploiting data at rest.
+
+(S/[SI/[REL) Supply Chain Operations: Interdiction activities that focus on modifying equipment in a target’s supply
+chain.
+
+TOP SECRET/[SHIREL TO USA, FVEY
+

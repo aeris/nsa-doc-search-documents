@@ -1,0 +1,91 @@
+TOP SECRET/[SHIREL TO USA, FVEY
+
+(U) CLASSIFICATION GUIDE TITLE/NUMBER: Computer Network Exploitation
+(CNE) Classification Guide 1’ 2-59
+
+(U) PUBLICATION DATE: 1 March 2010
+
+(U) OFFICE OF ORIGIN: Tailored Access Operations (TAO)/S32
+(U) POC: TAO Classification Advisory Officer
+
+(U) PHONE: 961-67945
+
+(Uf/FOUO) ORIGINAL CLASSIFICATION AUTHORITY: SIGINT Deputy Chief of
+Staff for Operations and Support,
+
+ 
+
+ 
+
+ 
+
+ 
+
+Description of Information I Classification/Markings I Reason I Declass I Remarks
+
+A. (U) GENERAL
+
+1. (U) The fact that NSA/CSS or UNCLASSIFIED N/A N/A (U) Details indicating
+TAO performs computer specific targets, level of
+network exploitation (CNE) success or capabilities remain
+
+classified.
+
+2. (S/[REL) The fact that SECRET/[REL TO USA, Sec 1.4(c) *25 years (U) Details indicating
+NSA/CSS or TAO, as part of FVEY specific targets, level of
+CNE operations, performs success or capabilities may
+remote subversion raise the classification level
+
+and/or require
+compartmentation.
+
+(U) Foreign releasability
+decisions on specific details
+relating to remote subversion
+are handled on a case-by-case
+basis. Contact TAO CAO for
+further guidance.
+
+ 
+
+3. (SI/SII/REL) Identification of SECRET/ISI/fREL TO USA, Sec 1.4(c) *25 years (U) Details indicating
+specific remote subversion FVEY specific targets, level of
+methods used by NSAJCSS or success or capabilities may
+TAO, to include: raise the classification level
+- Endpoint access, exploitation, and/or require
+or operations compartmentation.
+
+- On-net access, exploitation, or
+
+operations (U) Foreign releasability
+
+- Software implant access, decisions on specific details
+exploitation, or operations relating to remote subversion
+- Accessing or exploiting data are handled on a case-by-case
+at rest basis. Contact TAO CAO for
+
+further guidance.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4. (SI/SII/REL) The fact that SECRET/ISI/fREL TO USA, Sec 1.4 (c) *25 years (U) Details indicating
+NSA/CSS or TAO, as part of FVEY specific targets, level of
+CNE operations, performs success or capabilities may
+physical subversion, to include: raise the classification and
+
+ 
+
+TOP SECRET/[SHIREL TO USA, FVEY
+
+ 
+
