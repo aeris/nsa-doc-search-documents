@@ -1,0 +1,17 @@
+Crypt Examples: a:
+Layered Encryption _
+
+BYZANTINE FOOTHOLD
+SSH
+Mod DES
+WIDOWKEY
+Single Byte XOR
+Fixed Key mask
+3DES
+
+   
+
+TOPSECRETl/COMINT/IREL TO USA, FVEY
+
+ 
+

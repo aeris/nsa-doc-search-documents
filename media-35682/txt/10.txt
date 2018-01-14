@@ -1,0 +1,23 @@
+What Kinds of Data?
+(What is the plaintext)
+
+Command & Control
+RDP, RAdmin (heavyweight)
+many home-grown (lightweight)
+File ransfer
+Actor —> Victim (malware)
+Victim —> Actor (exfil)
+
+Email
+Credentials
+
+   
+
+ 
+
+ 
+
+TOPSECRETl/COMINT/IREL TO USA, FVEY
+
+ 
+

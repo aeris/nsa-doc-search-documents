@@ -1,0 +1,17 @@
+Wh at Ki n d s of E ncrypti o n? Ea *
+2— Other u
+
+Block Ciphers (DES, 3DES)
+Stream Ciphers (RC4)
+
+Masking
+short or long, fixed or variable
+
+Layered Encryption
+
+   
+
+TOPSECRETl/COMINT/IREL TO USA, FVEY
+
+ 
+

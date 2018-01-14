@@ -1,0 +1,15 @@
+Encodings
+
+   
+
+None (raw binary)
+base64
+Modified base64 (BYZANTINE RAPTOR)
+A permutation of the 64 base64 characters
+HTML Character encoding (ADJUTANT VENTURE)
+e.g., 0x1278cd = '&#18;&#120;&#205'
+
+TOPSECRETl/COMINT/IREL TO USA, FVEY
+
+ 
+
