@@ -1,0 +1,14 @@
+109 SECRET/ICOMKNYIIREL 10 USN GBR. AUS. CAN, NZL
+
+(U) Hops
+
+a(U) We may build a 1-hop graph by selecting all
+vertices connected to a root node
+
+u(U) A 1.5-hop graph contains all vertices connected to
+a root node and all connections between those vertices
+
+1H—p 1~5 “OP
+
+TOP SECRETIICOMKNTI/REL To USA, GBR AUS, CAN, NZL
+

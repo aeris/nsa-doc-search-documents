@@ -1,0 +1,15 @@
+to? sEcntYllconM/IREL vo usn, sax, nus, can, nu
+
+(U) Contact Graphs
+
+n(U) A graph is a set of objects (nodes, vertices)
+connected by links (edges).
+
+u(U) Graphs are a useful way of visualizing and
+analyzing the structure of communication
+networks
+
+ 
+
+m, sscnm/mnmmm m usn, can, nus, can, 1m
+
