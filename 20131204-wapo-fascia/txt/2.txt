@@ -1,0 +1,38 @@
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+ 
+
+ 
+
+ 
+
+Dupe Methodology
+
+Compare records Within various time Windows that share
+identical selectors and locations, specifically:
+
+LAC CellID VLR DesigChannellD
+IMEI ESN IMSI MIN
+
+TMSI MDN CLI ODN
+
+MSISDN RegFMID CdFMID C gFMID
+RegGID CdGID RegIID Kc
+
+CdIID C gIID MSRN Rand
+
+Sres Opcode RQl XRl
+
+Q_CKl Q_IKl AUl NeWPTMSI
+OSME DSME RTMSI PDP_Address
+
+TEID TLLI PTMSI PDDG
+
+ 
+
+ 
+
+ 
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
