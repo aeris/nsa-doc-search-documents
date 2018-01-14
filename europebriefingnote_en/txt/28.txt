@@ -1,0 +1,69 @@
+Policy Department C: Citizens' rights and Constitutional Affairs
+
+BCRs-for-processors might sound like a variant of the existing BCRs (for
+Controllers), but in actuality they are vastly more risky for Europeans’ privacy.
+The strategic risk to EU data sovereignty, which arises directly from the concept of BCRs-
+for-processors, is that the global Cloud industry is dominated by software “platforms” from
+Microsoft, Google, Amazon, and a few others. Microsoft’s goal for its public-sector sales-
+force from 2010 was to compete for every contract for data processing by governments“.
+The cost savings for Cloud processing can be massive (sometimes one tenth the cost of
+processing “on-premises” by the Controller according to industry marketing claims). The
+cost savings are from equipment, overhead, operational staff (increasingly expensive for
+leading cyber-security expertise), and the major Cloud providers can take advantage of
+economies of scale, and higher average utilization by spreading processing loads across
+time-zones globally. Therefore there is already, and will be further, a competitive
+imperative to migrate European “on-premises" data to Cloud processing, and so far the EU
+has almost no significant indigenous software platforms that can compete (on cost,
+features, or reliability) with the leading US providers. The exception to this gloomy picture
+is free and open-source software, which has produced powerful Cloud “stacks" competitive
+with proprietary software and services.
+
+In this light, BCR-for-processors can be seen as an expedient strategy both for the
+Commission and for Data Protection Authorities (DPAs) who wish to maintain the
+semblance of legal control over EU data, and for the Cloud providers who find the existing
+EU Data Protection regime generally inconvenient, especially for tax purposes“. The
+Commission promoted the legal status of the BCR-for-processors concept in the text of the
+new draft Regulation”. Subsequently, national DPAs would have no alternative but to
+accept their validity once issued. So far, only a few dozen of the existing Controller BCRs
+have been approved“, and the standard of compliance already is not reassuring".
+
+2.3.2. Model Contracts
+
+From 2001 the EU Commission drafted approved “model" clauses for inclusion in contracts
+both for Controllers and Processors located outside the EU, intended to guarantee privacy
+rights for individuals comparable to those they would have if the data remained inside the
+EU.
+
+The conceptual flaw in this general approach is the supposition that computer
+systems can be “audited” to guarantee the three essential requirements of
+information security: Confidentiality, Integrity and Availability. Whilst integrity73
+and availability of data are technically and logically verifiable properties, confidentiality is
+not. It is impossible to know with certainty whether either an “insider” or external
+unauthorised party has seen or copied data. Even if data is encrypted with a
+
+ 
+
+58 The author was Chief Privacy Adviser to Microsoft's forty National Technology Officers (in charge of government
+liaison) until 2011, and received special sales training emphasizing the Cloud goal of competing for all government
+business, irrespective of the sensitivity of the data. On querying whether this was a mistake, the goal was
+reaffirmed.
+
+59 Large US Internet companies tend to “forum-shop" for MS with low-tax and low-privacy regimes. If these do not
+coincide, corporate attorney must draft onerously complex contracts to comply with the technicalities of “model"
+contracts
+
+7° BCRs (Art.43) are no longer categorized as a “derogation" (Art.44), see: European Commission (2012), Proposal
+for a General Data Protection Regulation, 25.1.2012, COM(2012) 11 final 2012/0011.
+
+7‘ A rough sample of a dozen of these companies showed that most do not provide the actual BCR terms online as
+required.
+
+72 The author filed a test complaint to the Luxembourg DPA about lack of any knowledge about BCRs by PayPal’s
+privacy support staff (PayPal cannot comply with the terms of the BCR if their staff are unaware even of its
+existence or obligations). Despite several reminders, after one year there is still no news of the outcome of the
+investigation.
+
+73 To check integrity, a “hash function" is computed over the data which functions as a verifiable “fingerprint".
+
+26
+

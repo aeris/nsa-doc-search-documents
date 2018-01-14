@@ -1,0 +1,71 @@
+Policy Department C: Citizens' rights and Constitutional Affairs
+
+2.2.2. Specific powers over communications of non-US persons
+
+To end the public controversy43 over “warrantiess wiretapping” of Americans, the US
+Congress enacted44 the interim Protect America Act (PAA) in 2007, which amended FISA
+1978, and created a new power targeted at the communications of non-US persons located
+outside the territory of the US (i.e. the 95% of the rest-of-the-world). The most heated
+political difficulty was over whether telecommunications companies had broken statute law
+regulating the privacy of their subscribers by co-operating. Depending on the contested
+legitimacy of the use of the Authorization for Use of Military Force (AUMF) to effect
+surveillance, which had impinged on Americans, the companies were potentially liable for
+billions of dollars of damages. The telecommunications companies and the Internet service
+providers industry were adamant that complete civil immunity was their price for future co-
+operation. It is here critical to underline that this controversy was about the effects on the
+privacy of Americans, and that the surveillance of foreigners outside the US, through their
+communications routed to or via the US, was an assumed fait accompli and national
+prerogative45.
+
+2.2.3. The Fourth Amendment does not apply to non-USPERs outside the US
+
+The connection between the controversy over the s.215 PATRIOT Act power and the use of
+the FISA 702 power in the PRISM programme can now be explained. The database of 5
+years of details of domestic and international calls was used to establish a counter-terrorist
+justification (according to the “three hops" principle). A second database was then checked
+of a directory the NSA maintains of telephone numbers believed to belong to Americans. If
+that check indicated the number was probably n_ot that of an American, then the contents
+of that telephone call could be listened to with any further authorisation, under the FISA
+702 law. Otherwise, if the number seemed probably that of an American, a further
+particular warrant for the interception would have to be obtained (under a different section
+of FISA), justifying the intrusion to a much higher legal standard, and with reference to the
+circumstances of the individual case.
+
+However a close reading of s.215 shows that an alternative purpose (other than a
+connection to terrorism) is “to obtain foreign intelligence information not concerning a
+United States person”46. From a non-US perspective this may be an important point which
+has not so far featured in any of the analysis made in the US, nor is it clear how this
+provision would interact with the already tangled skein of contested legality. However it is a
+further illustration of US legislation which discriminates between the protections
+afforded by the Constitution to US citizens, and everybody else.
+
+Some remarkable interviews have been given by former NSA Director Gen. Hayden, in
+which he stressed that “the Fourth Amendment - that prohibits unreasonable searches and
+seizures and requires any warrant to be judicially sanctioned and supported by probable
+cause - is not an international treaty"47, and that the US enjoys a “home field advantage" of
+untrammelled access to foreign communications routed via US territory, or foreign data
+stored there.
+
+ 
+
+‘3 Bloom, Stephanie Cooper (2009), What Reallv Is at Stake with the FISA Amendments Act of 2008 and Ideas for
+Future Surveillance Reform, Public Interest Law Journal Vol 18:269.
+
+4‘ Congressional Research Service (2007), PL. 110-55, the Protect America Act of 2007: Modifications to the
+Foreign Intelligence Surveillance Act, August 23, 2007.
+
+‘5 Congressional Research Service (2007), PL. 110-55. the Protect America Act of 2007: Modifications to the
+Foreign Intelligence Surveillance Act, August 23, 2007 and Congressional Research Service — Liu, Edward C.
+(2013), Reauthorizattion of the FISA Amendments Act, 7-5700, R42725, January 2, 2013.
+
+‘5 http://www.law.cornell.edu/uscode/text/50/1861
+‘7 CBS News 30th June 2013; for further discussion see YOUNG (2003) Op.cit.
+
+ 
+
+ 
+
+ 
+
+2O
+

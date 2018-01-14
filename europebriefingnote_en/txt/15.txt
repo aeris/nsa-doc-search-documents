@@ -1,0 +1,67 @@
+The US surveillance programmes and their impact on EU citizens' fundamental rights
+
+When the “warrantiess wiretapping” allegations surfaced in a series of press reports from
+The New York Times, The Los Angeles Times, and The Wall Street Journal, the resonance
+with the supposedly cancelled T.|.A project intensified the level of public unease.
+
+1.5. Edward Snowden’s revelations and PRISM
+
+On June 5th The Washington Post and The Guardian published a secret order made under
+s.215 of the PATRIOT Act requiring the Verizon telephone company to give the NSA details
+of all US domestic and international phone calls, and “on an ongoing basis”. On June 6th
+the two newspapers revealed the existence of an NSA programme codenamed PRISM,
+which accessed data from leading brands of US Internet companies. By the end of the day
+a statement from Adm.Clapper (Director of NSA) officially acknowledged the PRISM
+programme and that it relied on powers under the FISA Amendment 2008 s.1881a/702. On
+June 9‘“ Edward Snowden voluntarily disclosed his identity and a film interview with him
+was released.
+
+The primary publication was in three newspapers: The Guardian, The Washington Post, and
+Der Spiegel. Four journalists have played a central role in obtaining, analysing and
+interpreting this material for the public: Barton Gellman, Laura Poitras, Jacob Appelbaum
+and Glenn Greenwald. They were joined by The Guardian (US edition), the New York Times
+in conjunction with ProPublica after the UK government insisted on destruction of The
+Guardian’s copy of the Snowden material in their London offices, under the supervision of
+GCHQ‘B.
+
+What can be referred to as the ‘PRISM scandal’ revealed a number of surveillance
+programmes, including:
+
+1.5.1 “Upstream"
+
+The slides published from the Snowden material feature references to “Upstream" collection
+programmes by the NSA adumbrated by various codewords. Data is copied from both
+public and private networks to the NSA from international fibre-optic cables at landing
+points, and from central exchanges which switch Internet traffic between the major
+carriers, through agreements negotiated with (or legal orders served on) the operating
+companies (and probably also by intercepting cables on the seabed19 when necessary).
+
+1.5.2 XKeyscore
+
+The XKeyscore system was described in slides20 (dated 2008“) published by The Guardian
+on the 31St of July. It is an “exploitation system/analytic framework”, which enables
+searching a “3 day rolling buffer" of “full take” data stored at 150 global sites on 700
+database servers. The system integrates data collected22 from US embassy sites, foreign
+satellite and microwave transmissions (i.e. the system formerly known as ECHELON), and
+the “upstream” sources above.
+
+The system indexes e-mail addresses, file names, IP addresses and port numbers, cookies,
+webmail and chat usernames and buddylists, phone numbers, and metadata from web
+
+ 
+
+‘8 It is outside the scope of this report to give a full analysis of what has been revealed, but in what follows it is
+assumed that the slides and documents are authentic, and no serious suggestions have been made to the
+contrary.
+
+‘9 The existence US submarines specially equipped for intercepting undersea cables was outlined in the 2000 EP
+ECHELON report cf. “Ivy Bells"
+
+2° http://www.theouardian.com/world/interactive/2013/iul/31/nsa-xkevscore-prooramme-full-presentation
+
+2‘ A job advertisement was posted by a defence contractor in July 2013 indicating the programme is still active.
+
+22 http://theweek.com/article/index/247684/whats-xkevscore
+
+13
+

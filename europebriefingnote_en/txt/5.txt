@@ -1,0 +1,48 @@
+The US surveillance programmes and their impact on EU citizens’ fundamental rights
+
+ 
+
+CONTENTS
+LIST OF ABBREVIATIONS 4
+EXECUTIVE SUMMARY 5
+INTRODUCTION 6
+1. HISTORICAL BACKGROUND OF US SURVEILLANCE 10
+1.1 World War II and the origins of the UKUSA treaties 10
+1.2 ECHELON: the UKUSA communications surveillance nexus 11
+1.3 1975-1978: Watergate and the Church Committee 11
+1.4 The post-9/11 context: extension of intelligence powers 12
+1.5 Edward Snowden’s revelations and PRISM 13
+1.5.1 “Upstream" 13
+1.5.2 XKeyscore 13
+1.5.3 BULLRUN 14
+2. NSA PROGRAMMES AND RELATED LEGISLATION: CONTROVERSI ES,
+GAPS AND LOOPHOLES AND IMPLICATIONS FOR EU CITIZENS 16
+2.1 Legal gaps and uncertainties of US privacy law: implications for US citizens and
+residents 16
+2.1.1 The Third Party Doctrine and limitations to the Fourth Amendment 16
+2.1.2 CDRs and the ‘Relevance Test’ 17
+2.1.3 ‘Direct Access’ to data-centres granted for surveillance purposes? 18
+
+2.1.4 Intelligence Agencies’ ‘Black Budget’: scale and costs of US capabilities 19
+
+2.2 Situation of non-US citizens and residents (non ‘USPERs’) 19
+2.2.1 The political definitions of ‘foreign information intelligence’ 19
+2.2.2 Specific powers over communications of non-US persons 20
+2.2.3 The Fourth Amendment does not apply to non-USPERs outside the US 20
+2.2.4 Cloud computing risks for non-US persons 21
+2.2.5 There are no privacy rights recognised by US authorities for non-US persons
+under FISA 23
+2.3 Data export: false solutions and insufficient safeguards 24
+2.3.1 Safe Harbour,BCRs for processors and Cloud Computing 24
+2.3.2 Model Contracts 26
+
+3. STRATEGIC OPTIONS AND RECOMMENDATIONS FOR THE EUROPEAN
+PARLIAMENT 28
+3.1 Reducing exposure and growing a European Cloud 28
+3.2 Reinstating ‘Article 42’ 28
+3.3 Whistle-Blowers’ Protection and Incentives 30
+3.4 Institutional Reform 30
+3.5 Data Protection Authorities and Governance 30
+CONCLUSION 33
+REFERENCES 35
+

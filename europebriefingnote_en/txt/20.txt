@@ -1,0 +1,65 @@
+Policy Department C: Citizens' rights and Constitutional Affairs
+
+by one advocate: “they were conducting suspicion-less searches to obtain the suspicion the
+FISA court required to conduct searches”?
+
+Problems that emerged from Fl SA were left to the interpretation (in secret proceedings) of
+the Foreign Intelligence Surveillance Court (FISC and the higher Review court FISCR)
+whose judges are appointed solely by the Chief Justice of the Supreme Court. It appears
+that the FISA courts agree with the government’s argument that it is common in
+investigations for some indefinitely large corpus of records to be considered “relevant”, in
+order to discover the actual evidence. Some official declassifications of the secret FISC(R)
+Opinions are in progress, but have not so far explained this logical anomaly.
+
+2.1.3. ‘Direct Access’ to data-centres granted for surveillance purposes?
+
+The companies named in the PRISM slides issued prompt denials of “direct access" to their
+datacentres, mentioned in the “marketing" slides that revealed PRISM’s existence. Their
+position was that they were simply complying with a mandatory court order, and they had
+never heard of the PRISM codename (which is not surprising since this was an NSA
+codeword for a Top Secret programme). Microsoft asserted that they only responded to
+requests referencing specific account identifiers, and Google and Facebook denied they had
+“black boxes” stationed in their networks giving “direct access". The companies are
+constrained by the secrecy provisions of s.702, on pain of contempt or even espionage
+charges“. Google and Microsoft are now suing the government for permission to publish a
+breakdown of the number of persons affected by Fl SA orders.
+
+However there is no substantive inconsistency between the carefully wordsmithed (and
+apparently co-ordinated34) company denials and the reports of PRISM. The phrase “direct
+access" was likely intended to distinguish this modality from “upstream” collection (see
+above), not necessarily implying a literal capability to extract data without the company’s
+knowledge. However, such literal “direct access" is not precluded by the 702 statute, and it
+may be that this has already occurred with some other companies, or may in future be
+permitted by the FISC.
+
+A critical further development resulted from a keen observation by The New York Times35
+on August 8th that in the targeting procedures published on June 20‘“, the “selectors" used
+to specify the information to be accessed under 702 could include arbitrary search terms.
+This ought not to be surprising from a plain reading of the statute, but it emphasized that
+Americans’ (and of course non-Americans’) privacy could be implicated in arbitrary trawls
+through a mass of data, rather than access being confined to account identifiers judged
+50% likely to be non-American. A further story disclosed36 that at the government’s
+request in 2011 the FISA court reversed an earlier ruling and thenceforth permitted
+arbitrary search terms even if these included targeting factors characteristic of Americans.
+
+ 
+
+32 https://www.eff.oro/deeplinks/2013/09/oovernment-releases-nsa-surveillance-docs-and-previouslv-secret-fisa-
+court
+
+33 http://www.theouardian.com/technoloov/2013/sep/11/vahoo-ceo-maver-iail-nsa-surveillance
+
+3‘ The phrasing of statements from Google and Facebook have many concordances which strongly suggest they
+are derived from a common text.
+
+35 htt '//www n times.com/2013/08/08/us/broader-siftin -of-data-abroad-is-seen-b -
+
+nsa.html?pagewanted=1&hp
+
+35.http://www.washingtonpost.com/politics/federal government/report-surveillance-court-ruling-allowed-nsa-
+search-of-domestic-em ail/2013/09/08/4d9c8bb8-18c0-11e3-80ac-96205cacb45a storv.html
+
+ 
+
+18
+

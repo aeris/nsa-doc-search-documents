@@ -1,0 +1,42 @@
+The US surveillance programmes and their impact on EU citizens' fundamental rights
+
+EXECUTIVE SUMMARY
+
+This Briefing note provides the LIBE Committee with background and contextual
+information on PRISM/FlSA/NSA activities and US surveillance programmes, and their
+specific impact on EU citizens’ fundamental rights, including privacy and data protection.
+
+Prior to the PRISM scandal, European media underestimated this aspect, apparently
+oblivious to the fact that the surveillance activity was primarily directed at the rest-of-the-
+world, and was not targeted at US citizens. The note argues that the scope of surveillance
+under the Foreign Intelligence Surveillance Act of 1978 Amendments Act of 2008 (FAA) has
+very strong implications on EU data sovereignty and the protection of its citizens’ rights.
+
+The first section provides a historical account of US surveillance programmes,
+showing that the US authorities have continuously disregarded the human right to privacy
+of non-Americans. The analysis of various surveillance programmes (Echelon, PRISM) and
+US national security legislation (FISA, PATRIOT and FAA) clearly indicates that surveillance
+activities by the US authorities are conducted without taking into account the rights of non-
+US citizens and residents. In particular, the scope of FAA creates a power of mass-
+surveillance specifically targeted at the data of non-US persons located outside the US,
+including data processed by ’Cloud computing’, which eludes EU Data Protection regulation.
+
+The second section gives an overview of the main legal gaps, loopholes and
+controversies of these programmes and their differing consequences for the
+rights of American and EU citizens. The section unravels the legal provisions governing
+US surveillance programmes and further uncertainties in their application, such as:
+
+- serious limitations to the Fourth Amendment for US citizens
+- specific powers over communications and personal data of “non-US persons”
+
+- absence of any cognizable privacy rights for “non-US persons” under Fl SA
+
+The section also shows that the accelerating and already widespread use of Cloud
+computing further undermines data protection for EU citizens, and that a review of some of
+the existing and proposed mechanisms that have been put in place to protect EU citizens’
+rights after data export, actually function as loopholes.
+
+Finally, some strategic options for the European Parliament are developed, and
+related recommendations are suggested in order to improve future EU regulation and to
+provide effective safeguards for protection for EU citizens’ rights.
+

@@ -1,0 +1,65 @@
+Policy Department C: Citizens’ rights and Constitutional Affairs
+
+being inadvertently targeted by 3.702. Analysts may only proceed to access “content data”
+under the 702 power if there is more than a 50% likelihood the target is not American and
+located outside the US, because the Fourth Amendment was held not to apply. Otherwise a
+particular warrant must be applied for under a different section of FISA.
+
+This shows that the “probable cause” requirement for evidence of a 50% likelihood of
+criminality was converted into a 50% probability of nationality. This interpretation was first
+visible in a FISA Court of Review (FISCR) decision of 2008, released briefly in redacted
+form in 2010, and then apparently withdrawn from the official website (but a copy59 had
+been kept by a transparency NGO).
+
+The reasoning of FISCR was that foreign intelligence surveillance of targets
+reasonably believed to be outside of the US qualifies for a “special needs”
+exception60 to the Fourth Amendment warrant requirement. The constitutionality of
+that judgement is being contested in a number of lawsuits brought by US civil liberties
+organisations, because this “coin-flip” criterion implies many unconstitutional searches of
+Americans’ communications.
+
+2.3. Data export: false solutions and insufficient safeguards
+
+In order to conclude this section, the author would like to draw the Parliament’s attention
+to certain difficulties with current derogations and/or safeguards proposed as solutions to
+the implications for EU Citizens underlined above. This subsection aims to highlight the
+loopholes and gaps in several mechanisms that have been put in place for data export. In
+the author’s view, these mechanisms should not be seen as guarantees for the protection
+of EU citizens’ rights.
+
+2.3.1 Safe Harbour, BCRs for processors and Cloud Computing
+
+The EU/US Safe Harbour Agreement of 2000 implemented a process for US companies to
+comply with the EU Directive 95/46/EC on the protection of personal data. If a US company
+makes a declaration of adherence to the Safe Harbour Principles then an EU Controller may
+export data to that company (although a written contract is still required).
+
+Sometimes described as a ’simultaneous unilateral declaration’, the Agreement left
+ambiguous whether it covered the situation of remote processing of data inside the US, on
+instruction from Controllers inside the EU. Especially in the case of Cloud computing, such
+remote processors were most unlikely to be capable of giving effect to the Safe Harbour
+Principles, which, the US argued, thus became void. Did the deal still apply, for unrestricted
+export of EU data for remote processing under essentially a self-regulatory framework? In
+2000, the EU Commission over-ruled objections from civil society and some DPAs, to
+conclude a deal.
+
+The US negotiators in the Department of Commerce worked closely with US trade lobbies,
+on a series of “FAQs” for US companies to interpret the Agreement to marginalize EU
+privacy rights, building in loopholes on such questions as what counted as identifiable data,
+refusing rights of access, and avoiding any duty of finality or right-of-deletion. Safe
+
+ 
+
+5" This appears to be a different database, a directory, rather than the metadata controversially acquired under
+s.215. It is not known how this is compiled (for example from network surveillance) or under what authority, but
+evidently it is more than commercial telephone directories.
+
+59 www.fas.org/irp/agency/doi/fisa/fiscro82208.pdf
+
+6° Anzalda, Matthew A. and Gannon, Jonathan W. (2010), In re Directives...: Judicial Recognition of Certain
+Warrantless Foreign Intelligence Surveillance (paywall), Texas Law Review, Vol 88:1599 2010.
+
+ 
+
+24
+

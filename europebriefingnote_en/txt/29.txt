@@ -1,0 +1,59 @@
+The US surveillance programmes and their impact on EU citizens' fundamental rights
+
+mathematically strong cipher, the algorithm implementation may have software defects, or
+the key may be leaked or stolen secretly.
+
+The revelations about PRISM dramatically illustrate the folly of this legal
+stratagem. No force of law operating in civil cases on private parties can guarantee
+privacy rights in the face of an adversary such as the NSA trying to breach them, and
+operating lawfully in its own terms.
+
+Clause.5(d)174 provided that the processor had to tell the EU exporter about any “legally
+binding request” for data unless that was prohibited, such as a prohibition under criminal
+law to preserve the confidentiality of a criminal investigation. The wording “such as" invites
+a reading that national security laws a fortiori override any contractual obligation. Although
+the EU retained powers to terminate the transfers, this required a basis of evidence to do
+so, and thus the structural temptation for turning a blind-eye was incorporated.
+
+Every organizational actor has an incentive to turn a blind-eye under these arrangements.
+The Commission so they can maintain “high standards" of data protection are observed,
+DPAs so as not to expose their technical limits and exhaust their limited resources in
+expensive legal actions, Member States whose security hierarchies benefit from access to
+US counter-terror information, and business in EU and the US who simply want to transact
+without awkward questions of state mass-surveillance continually arising. Even EU civil
+society75 seemed quiescent since ECHELON, and has mostly focussed on consumer rights76
+instead of meaningfully questioning the implications for Fundamental Rights and
+sovereignty in commercial data-flows to the US.
+
+As a legal mechanism for guaranteeing rights and obtaining damages for poor
+security or privacy practices, such contracts (and their “model” clauses) have
+proved useless in so far as they have not given rise to litigation. In most situations
+where an EU Controller might want to obtain monetary damages from a Third Country
+processor/controller, the reputation damage they could suffer in the marketplace (e.g. from
+a data breach becoming known) would be very unlikely to be recouped. In theory, this
+disincentive would be removed by the new draft Regulations’ requirement77 to notify DPAs
+of data breaches, but DPAs have signalled that they will not necessarily require data
+subjects to be informed (and thus effectively make the incident public knowledge), partly in
+order to shield Controllers from disproportionate reputation damage. When disputes are
+settled out of court without publicity, it undercuts the function that contract litigation would
+perform, of informing Controllers about the reliability of those to whom they might export
+data. Data subjects of course have no idea when their rights may have been infringed
+under this approach.
+
+ 
+
+7‘ Commission decision of 27 December 2001 on standard contractual clauses for the transfer of personal data to
+processors established in third countries, under Directive 95/46/EC (2002/16/EC).
+
+75 The notable exception is the Chaos Computer Club of Germany.
+
+75 With promising exceptions such as the short-lived International Campaign Against Mass Surveillance of 2005
+(website now defunct — but a copy preserved M), and the generally high level of civil society vigilance in
+Germany, which must be taken as read for avoidance of repetition
+
+77.The current breach notification requirement under the revised e-Privacy Directive only applies to
+telecommunications companies and Internet Services Providers, not to information society services provided
+through websites like social networks and search engines and general data Controllers.
+
+27
+
