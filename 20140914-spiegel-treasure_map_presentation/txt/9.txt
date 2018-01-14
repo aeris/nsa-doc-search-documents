@@ -1,0 +1,24 @@
+‘4'
+
+TSHSIIIREL TO USA. FVEY
+
+ 
+
+ 
+
+(U) OSINT, Commercial & Academic”
+
+a“: ."ti ril— F’J’J‘IF:
+
+- (U/IFOUO) BGP
+— Gives the 300,000 foot View of the Internet
+— Defines routing across Autonomous Systems (AS)
+— Origination of IP address spaces (Prefixes) to AS
+— How the Internet gets knowledge of itself (IP address space)
+— Commericaly purchased Data Sources
+- Akamai, SOCIALSTAMP, SEASIDEFERRY
+—— Open Source
+° Public BGP, IXP (RIPE), APNIC, ROUTEVIEWS, CERNET
+
+ 
+

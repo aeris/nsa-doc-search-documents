@@ -1,0 +1,19 @@
+TSf/Slf/REL TO USA. FVEY
+
+W‘ESIISIIIREL) Known Devices
+
+— (SliSl/IREL) Sources: DISCOROUTE (NAC router configuration repository)
+
+— (SHSIHREL) Display supporting infrastructure, as configured in router
+configuration files
+
+. Where router accessed from
+(possible NOC?)
+
+- servers configured for router
+(NTP, DNS, Radius, TACACS)
+
+ 
+
+TSJISWREL TO USA. FVEY
+

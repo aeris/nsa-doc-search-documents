@@ -1,0 +1,32 @@
+TSHSII/REL TO USA. FVEY
+
+(U) Data Relationships
+
+BGP lp 05 Router
+
+Advertisements Geo|ocation Fingerprints Traceroutes Configluration
+Fi es
+
+Autonomous IP Preﬁx IP Address Router
+
+System L 7.. -
+L;...- — .
+
+ 
+
+AS Domain
+Owner SIGADICASN .. MAC Address Names
+
+EL Ex:
+
+Yellow links denotes direct relationships between data types.
+
+For example, we know which AS contains a router because we can relate a router to IP Addresses,
+IP Addresses to IP Preﬁxes. then IP Preﬁxes to an AS.
+
+ 
+
+ 
+
+TSHSWREL TO USA. WEY
+

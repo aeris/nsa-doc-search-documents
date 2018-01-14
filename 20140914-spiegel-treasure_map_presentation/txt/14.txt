@@ -1,0 +1,23 @@
+TSHSIIIREL TO USA. FVEY
+
+ 
+
+ 
+
+(U) Traceroutes - CAIDA
+
+Tr‘f'é‘: 7:1 PF: F’J'J’IF:
+
+(U) University of California, San Diego
+- Cooperative Association for Internet Data Analysis
+— Archipelago measurement platform
+
+(U/IFOUO) TM data source: ARK
+(U) High volume: ~10 million traceroutes per day
+(U) Random targeting (/24 netblock, BGP advertised)
+
+(U) 44 Locations: Asia (5), Europe (15), Africa (2), North
+America (18), South America (2), Oceania (2)
+
+ 
+
