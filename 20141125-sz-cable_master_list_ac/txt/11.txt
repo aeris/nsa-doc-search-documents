@@ -1,0 +1,79 @@
+Cable Master List
+Cable
+
+Owners
+
+Landing Partner SRT
+Non_Partner
+
+RFS Year
+
+UK Landing Point
+
+UK Landing Point Group
+Landings
+
+Foreign Landing Categories
+Ge
+
+Fibre Pairs
+
+Potential Capacity
+/ Lit Capacity
+
+Available to Access
+
+Lit Capacity
+
+Lit Adjusted
+
+Total Potential Capacity
+Egress
+
+Total Capacity 2011
+
+Lit Capacity Adjusted 2011
+Available to Access 2011
+Egress 2011
+
+Available to Access 2011
+(Suggested Scenario)
+
+Available to Access 2011
+Suggested Scenerio Notes
+
+Notes
+
+Collateral
+
+Access_Direct
+Interconnections
+
+Latest Telegeography Page
+
+Intel Value Notes
+
+UK—Netherlands 14 (inc FARLAND3)
+C&W, BT, KPN
+GERONTIC or REMEDY?
+
+Winterton-on-sea
+Winterton-on-sea
+U K, Netherlands
+Europe
+
+10
+3*2.5G (GERONTIC) +? 1*2.5G (REMEDY) + Approx 5 KPN??
+
+10.0
+10.0
+10.0
+
+10.0
+10.0
+0.0
+0.0
+0.0
+
+[REDACTED]
+

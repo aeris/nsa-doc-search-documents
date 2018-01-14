@@ -1,0 +1,86 @@
+Cable Master List
+Cable
+
+Owners
+
+Landing Partner SRT
+Non_Partner
+
+RFS Year
+
+UK Landing Point
+
+UK Landing Point Group
+Landings
+
+Foreign Landing Categories
+Ge
+
+Fibre Pairs
+
+Potential Capacity
+/ Lit Capacity
+
+Available to Access
+
+Lit Capacity
+
+Lit Adjusted
+
+Total Potential Capacity
+Egress
+
+2011
+2011
+2011
+2011
+
+Available to Access 2011
+(Suggested Scenario)
+
+Total Capacity
+Lit Capacity Adjusted
+Available to Access
+
+Egress
+
+Available to Access 2011
+Suggested Scenerio Notes
+
+Notes
+
+Collateral
+
+Access_Direct
+Interconnections
+
+Latest Telegeography Page
+
+Intel Value Notes
+
+TGN Western Europe South
+Tata Communications
+
+Tata
+
+2002
+Pottington
+Pottington
+UK, Spain
+Europe
+
+4
+
+3840.0
+120.0
+120.0
+0.0
+
+3840.0
+0.0
+
+0.0
+0.0
+
+[REDACTED]
+

@@ -1,0 +1,97 @@
+Cable Master List
+Cable
+
+Owners
+
+Landing Partner SRT
+Non_Partner
+
+RFS Year
+
+UK Landing Point
+
+UK Landing Point Group
+Landings
+
+Foreign Landing Categories
+Ge
+
+Fibre Pairs
+
+Potential Capacity
+/ Lit Capacity
+
+Available to Access
+
+Lit Capacity
+
+Lit Adjusted
+
+Total Potential Capacity
+Egress
+
+2011
+2011
+2011
+2011
+
+Available to Access 2011
+(Suggested Scenario)
+
+Total Capacity
+Lit Capacity Adjusted
+Available to Access
+
+Egress
+
+Available to Access 2011
+Suggested Scenerio Notes
+
+Notes
+
+Collateral
+
+Access_Direct
+Interconnections
+
+Latest Telegeography Page
+
+Intel Value Notes
+
+AC-1
+GX
+PINNAGE
+
+1 998
+
+Whitesands Bay
+
+Sennen
+
+UK, Netherlands, Germany, US
+Transatlantic
+
+100Mbps-1GbE
+
+4
+
+Potential: 4fp*32wl*1OG
+
+1600.0
+420.0
+420.0
+0.0
+
+1600.0
+604.8
+0.0
+
+0.0
+
+0.0
+
+Added 6006b (Telegeog Jan 09)
+Requested from PINNAGE
+
+[REDACTED]
+

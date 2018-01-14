@@ -1,0 +1,82 @@
+Cable Master List
+Cable
+
+Owners
+
+Landing Partner SRT
+Non_Partner
+
+RFS Year
+
+UK Landing Point
+
+UK Landing Point Group
+Landings
+
+Foreign Landing Categories
+Ge
+
+Fibre Pairs
+
+Potential Capacity
+/ Lit Capacity
+
+Available to Access
+
+Lit Capacity
+
+Lit Adjusted
+
+Total Potential Capacity
+Egress
+
+2011
+2011
+2011
+2011
+
+Available to Access 2011
+(Suggested Scenario)
+
+Total Capacity
+Lit Capacity Adjusted
+Available to Access
+
+Egress
+
+Available to Access 2011
+Suggested Scenerio Notes
+
+Notes
+
+Collateral
+
+Access_Direct
+Interconnections
+
+Latest Telegeography Page
+
+Intel Value Notes
+
+GLO-1
+C&W, Globacom (Nigeria)
+GERONTIC
+
+2009?
+
+UK, West Africa
+Africa
+
+N/A
+N/A
+
+N/A
+10.0
+320.0
+30.0
+30.0
+10.0
+30.0
+
+Possible Access, TEA taps in place(?)
+

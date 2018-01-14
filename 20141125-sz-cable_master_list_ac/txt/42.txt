@@ -1,0 +1,86 @@
+Cable Master List
+Cable
+
+Owners
+
+Landing Partner SRT
+Non_Partner
+
+RFS Year
+
+UK Landing Point
+
+UK Landing Point Group
+Landings
+
+Foreign Landing Categories
+Ge
+
+Fibre Pairs
+
+Potential Capacity
+/ Lit Capacity
+
+Available to Access
+
+Lit Capacity
+
+Lit Adjusted
+
+Total Potential Capacity
+Egress
+
+Total Capacity 2011
+
+Lit Capacity Adjusted 2011
+Available to Access 2011
+Egress 2011
+
+Available to Access 2011
+(Suggested Scenario)
+
+Available to Access 2011
+Suggested Scenerio Notes
+
+Notes
+
+Collateral
+
+Access_Direct
+Interconnections
+
+Latest Telegeography Page
+
+Intel Value Notes
+
+Apollo South (not UK)
+C &W
+GERONTIC
+
+2003?
+
+*
+
+*
+
+France, US
+Transatlantic
+
+4
+Potential: 4fp*128wl*10G
+
+5120.0
+1100.0
+1100.0
+1090.0
+60.0
+
+5120.0
+1584.0
+1569.6
+60.0
+
+2260.2
+
+[REDACTED]
+

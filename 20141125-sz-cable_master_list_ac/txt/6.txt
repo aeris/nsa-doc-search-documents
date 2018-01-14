@@ -1,0 +1,91 @@
+Cable Master List
+Cable
+
+Owners
+
+Landing Partner SRT
+Non_Partner
+
+RFS Year
+
+UK Landing Point
+
+UK Landing Point Group
+Landings
+
+Foreign Landing Categories
+Ge
+
+Fibre Pairs
+
+Potential Capacity
+/ Lit Capacity
+
+Available to Access
+
+Lit Capacity
+
+Lit Adjusted
+
+Total Potential Capacity
+Egress
+
+Total Capacity 2011
+
+Lit Capacity Adjusted 2011
+Available to Access 2011
+Egress 2011
+
+Available to Access 2011
+
+(Suggested Scenario)
+
+Available to Access 2011
+Suggested Scenerio Notes
+
+Notes
+
+Collateral
+
+Access_Direct
+Interconnections
+
+Latest Telegeography Page
+
+Intel Value Notes
+
+Apollo North
+C&W
+GERONTIC
+
+2003
+
+Bude
+
+Bude
+
+UK, US
+
+Transatlantic
+
+1 OG b E
+
+4
+
+Potential: 4fp*128wl*1OG
+
+5120.0
+900.0
+590.0
+590.0
+140.0
+5120.0
+1296.0
+849.6
+140.0
+1223.4
+
+LATUS
+
+[REDACTED]
+

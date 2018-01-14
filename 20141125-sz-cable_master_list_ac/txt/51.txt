@@ -1,0 +1,44 @@
+Cable Master List
+
+Cable ELAPSE
+Owners GERONTIC
+Landing Partner SRT Non-Cable Access
+Non_Partner
+RFS Year
+UK Landing Point
+UK Landing Point Group
+Landings
+Foreign Landing Categories
+Ge
+Fibre Pairs
+
+Potential Capacity
+/ Lit Capacity
+
+Available to Access
+Lit Capacity
+Lit Adjusted
+Total Potential Capacity 100.0
+Egress 20.0
+Total Capacity 2011 0.0
+Lit Capacity Adjusted 2011 0.0
+Available to Access 2011 100.0
+Egress 2011 20.0
+
+Available to Access 2011 100.0
+(Suggested Scenario)
+
+Available to Access 2011
+Suggested Scenerio Notes
+
+Notes
+
+Collateral
+
+Access_Direct
+Interconnections
+
+Latest Telegeography Page
+
+Intel Value Notes
+

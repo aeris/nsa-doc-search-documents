@@ -1,0 +1,95 @@
+Cable Master List
+Cable
+
+Owners
+
+Landing Partner SRT
+Non_Partner
+
+RFS Year
+
+UK Landing Point
+
+UK Landing Point Group
+Landings
+
+Foreign Landing Categories
+Ge
+
+Fibre Pairs
+
+Potential Capacity
+/ Lit Capacity
+
+Available to Access
+
+Lit Capacity
+
+Lit Adjusted
+
+Total Potential Capacity
+Egress
+
+2011
+2011
+2011
+2011
+
+Available to Access 2011
+(Suggested Scenario)
+
+Total Capacity
+Lit Capacity Adjusted
+Available to Access
+
+Egress
+
+Available to Access 2011
+Suggested Scenerio Notes
+
+Notes
+
+Collateral
+
+Access_Direct
+Interconnections
+
+Latest Telegeography Page
+
+Intel Value Notes
+
+Yellow / AC-2
+Level 3 & GX (2fp)
+LITTLE & PINNAGE
+
+2000
+
+Bude
+
+Bude
+
+UK, US
+
+Transatlantic
+
+100Mbps-1GbE
+
+4 (2 L3, 2 GX)
+
+Potential: 2fp*47wl*1OG (L3) + 2fp*80*1OG (GX)
+
+2540.0
+980.0
+980.0
+0.0
+
+2540.0
+1411.2
+0.0
+0.0
+0.0
+
+Requested from PINNAGE
+
+[REDACTED]
+

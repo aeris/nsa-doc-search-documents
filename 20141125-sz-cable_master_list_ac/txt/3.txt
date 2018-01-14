@@ -1,0 +1,90 @@
+Cable Master List
+Cable
+
+Owners
+
+Landing Partner SRT
+Non_Partner
+
+RFS Year
+
+UK Landing Point
+
+UK Landing Point Group
+Landings
+
+Foreign Landing Categories
+Ge
+
+Fibre Pairs
+
+Potential Capacity
+/ Lit Capacity
+
+Available to Access
+
+Lit Capacity
+
+Lit Adjusted
+
+Total Potential Capacity
+Egress
+
+Total Capacity 2011
+
+Lit Capacity Adjusted 2011
+Available to Access 2011
+Egress 2011
+
+Available to Access 2011
+(Suggested Scenario)
+
+Available to Access 2011
+Suggested Scenerio Notes
+
+Notes
+
+Collateral
+
+Access_Direct
+Interconnections
+
+Latest Telegeography Page
+
+Intel Value Notes
+
+Hibernia
+Hibernia
+
+Hibernia
+
+2001
+
+Southport
+
+Southport
+
+UK, Ireland, (Iceland - Future), Canada, US
+Ireland, Transatlatnic
+
+10Mbps-1OGbE
+
+4
+
+Potential: 4fp*96*10 + 4fp*96*10
+
+7680.0
+1280.0
+844.8
+0.0
+
+7680.0
+1843.2
+0.0
+0.0
+0.0
+
+Huawei 4OG equipment on UK—lreland & US-Canada segments
+
+[REDACTED]
+

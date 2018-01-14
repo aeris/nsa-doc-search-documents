@@ -1,0 +1,78 @@
+Cable Master List
+Cable
+
+Owners
+
+Landing Partner SRT
+Non_Partner
+
+RFS Year
+
+UK Landing Point
+
+UK Landing Point Group
+Landings
+
+Foreign Landing Categories
+Ge
+
+Fibre Pairs
+
+Potential Capacity
+/ Lit Capacity
+
+Available to Access
+
+Lit Capacity
+
+Lit Adjusted
+
+Total Potential Capacity
+Egress
+
+Total Capacity 2011
+
+Lit Capacity Adjusted 2011
+Available to Access 2011
+Egress 2011
+
+Available to Access 2011
+(Suggested Scenario)
+
+Available to Access 2011
+Suggested Scenerio Notes
+
+Notes
+
+Collateral
+
+Access_Direct
+Interconnections
+
+Latest Telegeography Page
+
+Intel Value Notes
+
+Circe North
+Viatel
+VITREOUS
+
+Lowestoft
+Lowestoft
+
+Europe
+
+24
+
+90.0
+50.0
+50.0
+
+90.0
+72.0
+0.0
+0.0
+0.0
+
+Requested from VITREOUS
+

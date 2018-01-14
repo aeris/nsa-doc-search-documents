@@ -1,0 +1,83 @@
+Cable Master List
+Cable
+
+Owners
+
+Landing Partner SRT
+Non_Partner
+
+RFS Year
+
+UK Landing Point
+
+UK Landing Point Group
+Landings
+
+Foreign Landing Categories
+
+Ge
+
+Fibre Pairs
+
+Potential Capacity
+
+/ Lit Capacity
+
+Available to Access
+
+Lit Capacity
+
+Lit Adjusted
+
+Total Potential Capacity
+Egress
+
+Total Capacity 2011
+
+Lit Capacity Adjusted 2011
+Available to Access 2011
+Egress 2011
+
+Available to Access 2011
+
+(Suggested Scenario)
+
+Available to Access 2011
+Suggested Scenerio Notes
+
+Notes
+
+Collateral
+
+Access_Direct
+Interconnections
+
+Latest Telegeography Page
+
+Intel Value Notes
+
+SMW-4
+VzB, FT, Consortium
+DAC RON
+
+2005
+
+France, India
+Europe, Middle East, Asia
+
+2
+Potential: 2fp*64*10G
+
+480.0
+240.0
+240.0
+170.0
+20.0
+1280.0
+345.6
+170.0
+20.0
+170.0
+
+[REDACTED]
+
