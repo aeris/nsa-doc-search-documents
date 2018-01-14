@@ -1,0 +1,24 @@
+TOP SECRETl/COMINTIIREL USA. AUS, CAN. GBR. NZL
+
+   
+
+Data Flow Integrity
+-Evaluate data integrity, quality, & quantity
+
+IDifferent collectors produce different metadata
+formats
+
+INeed rich metadata
+'Need all the pieces (IKE and ESP for IPSec)
+
+'Ensure that the data Is not garbled and headers
+attached appropriately
+
+'Check that the data volume is what is expected
+
+33
+
+TOP SECRET/lCOMINT/IREL USA, AUS, CAN, GBR, NZL
+
+ 
+

@@ -1,0 +1,32 @@
+TOP SECRETHCOMINTHREL USA. AUS, CAN. GBR. NZL
+
+Establish the Data Flow
+
+Establish the correct corporate data flow
+ICES data flow guru
+
+IMake sure the correct routing tags and categories
+are appended to the data
+
+'Direct tasked traffic to correct data repository
+'PINWALE
+'VULCANDEATHGRIP — IPSec
+'VULCANMINDMELD — SSL
+'FOURSCORE - PPTP
+
+fTry to avoid relying on XKS workflows due to legal and
+logistical Issues
+
+_IXKEYSCORE — SSH using XKS workflows directed to
+a file directory
+
+   
+
+ 
+
+32
+
+TOP SECRET/lCOMINT/IREL USA, AUS, CAN, GBR, NZL
+
+ 
+

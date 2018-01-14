@@ -1,0 +1,31 @@
+TOP SECRETHCOMINTHREL USA. AUS, CAN. GBR. NZL
+
+Type 4: SSH
+
+_ SSH _ Secure Shell
+
+' Industry-standard networking protocol for securely
+logging Into other machines Via a network.
+
+       
+
+ 
+
+' Complete paired traffic
+. Port number 22
+
+' Potentially recover user names and passwords
+
+' Useful to TA_O_t0 access boxes and gather
+cryptographic Information
+
+' XKEYSCORE Queries
+' Full log DNI search
+' AppID/Fingerprints: “terminal/ssh/*"
+
+19
+
+TOP SECRET/lCOMINT/IREL USA, AUS, CAN, GBR, NZL
+
+ 
+

@@ -1,0 +1,25 @@
+TOP SECRETHCOMINTHREL USA AUS CAN GBR NZL
+
+Type 2: PPTP
+
+' PPTP: Point— to- Point Tunneling Protocol
+
+   
+
+' Paired collect
+' Next Protocol 47 = PPTP payload
+' TCP Port 1723 = PPTP tunnel set up, no payload
+
+' One-sided collect, client side
+
+' XKEYSCORE Queries
+' Full log DNI search
+' Enter your IPs/casn/etc of interest
+' AppID/Fingerprint: “vpn/pptp_encr*”
+' Share your results with
+
+17
+TOP SECRET/lCOMINT/IREL USA, AUS, CAN, GBR, NZL
+
+ 
+

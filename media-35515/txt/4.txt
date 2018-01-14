@@ -1,0 +1,25 @@
+TOP SECRETHCOMINTHREL USA, AUS, CAN, GBR, NZL
+
+Mission Statement
+
+  
+
+ 
+
+831176 provides cryptanalytic support services for many
+network encryption protocols, including, but not limited to:
+IPSec, SSL, PPTP, SSH and proprietary protocols. We are
+the front-door of CES for targeted vulnerability assessment
+and custom interim end-to-end exploitation flows for these
+protocols. In conjunction with various agency SIGDEV
+counterparts and target organizations, we engage in
+discovery to find TOPl targets of interest. By maintaining
+contact with field sites, TAO, and NCSC, we endeavor to
+guide and direct development and access through both
+active and passive means in order to make exploitation
+possible and enable full prosecution of the target...
+
+TOP SECRET/lCOMINT/IREL USA, AUS, CAN, GBR, NZL
+
+ 
+
