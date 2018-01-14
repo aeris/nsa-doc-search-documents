@@ -1,0 +1,50 @@
+I‘ll:lr<]lﬂ\
+
+August26,2013
+
+Dr. Richard Tynan
+Privacy International
+46 Bedford Row
+London
+
+WC1 R 4|R
+
+United Kingdom
+
+Dear Dr. Tynan
+
+| write in response to your letter to Stephen Elop of August 19, 2013. As you noted in your letter, at
+Nokia we take the privacy of our customers seriously.
+
+Our devices are designed so that when they are switched off, the radio transceivers within the devices
+should be powered off. We are not aware of any way they could be re-activated until the user switches
+the device on again. We believe that this means that the device could not be tracked in the manner
+suggested in the article you referenced.
+
+Some processes inside devices may continue to operate when the device has been switched off by the
+user, for as long as there is power available to them. This is consistent with the behaviour of other con-
+sumer electronic devices, such as laptops, tablets and games consoles. One example would be the real
+time clock, which ensures that when the device is switched on again the user does not have to re-enter
+the correct time. Another example would be the phone’s charging circuits. Depending on the model,
+connecting or disconnecting chargers including USB cables, or placing the phone on a wireless charging
+plate, may cause the device to register the change in charging state and display that to the user, for
+example by showing a charging symbol on the screen. This would not, however, change the status of
+the radio components.
+
+Consumers who are concerned about the privacy of their devices can visit
+www.nokia.com/global/privacv/privacv to learn more about our Privacy Policy and related topics.
+
+Yours sincerely
+cl Milw—
+
+Chad Fentress
+VP, Chief Ethics & Compliance Officer
+
+Nokia Corporation
+
+200 S. Mathilda Avenue
+Sunnyvale, California 94086
+United States of America
+
+www.nokia.com
+
