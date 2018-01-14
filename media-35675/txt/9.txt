@@ -1,0 +1,65 @@
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
+ 
+   
+
+V‘s“ SPINALTAP Fingerprints
+
+ 
+
+ 
+
+ 
+
+ 
+
+'31168 active fingerprints attached_device fingerprints 1102
+
+Fingerprints for 722 projects user fingerprints 23173
+'488 TAO CNE projects machinelD fingerprints 5599
+.7 GCHQ CNE projects cipher_key fingerprints 1293
+
+ 
+
+ 
+
+'227 SFC Forensics projects
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+. . . NSA TAO fin er rints 29361
+'Fingerpnnts for 6188 unique _ g p _
+machines NSA SFC fingerprints 1745
+GCHQ CNE fingerprints 61
+
+ 
+
+ 
+
+ 
+
+ 
+
+endpointlrelatedl<BOXNAME>I<id_class>l<agency_owner>l<source>l<id_type>
+endpoint/related/STONEHENGE18/user/nsa/cne/skypeHash
+endpoint/related/DEADDRUMMER10/machinelD/gchq/cne/simbar
+endpoint/related/FREEFLOWERPEOPLE1/attached_device/nsa/forensic/appleUDI D
+
+ 
+
+ 
+
+ 
+
+TOP SECRETNCOMINTHREL TO USA, FVEY *Last updated 11
+

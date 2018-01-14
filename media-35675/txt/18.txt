@@ -1,0 +1,25 @@
+ 
+
+TOP SECRETHCOMINTIIREL TO USA, FVEY
+
+I 3% F utu re Work
+
+- Further automate extraction, fingerprint
+
+creation (currently weekly)
+Provide access to SPINALTAP DB via GUI
+
+Support for new ID types
+
+- MAC addresses
+
+° Expansion of SFC related fingerprints
+
+- Expansion of 2nd Party CNE related fingerprints
+
+Deprecation/Expiration of fingerprints
+Improve private network identification
+Provide as enrichment source to other tools
+
+TOP SECRETHCOMINTHREL TO USA, FVEY
+
