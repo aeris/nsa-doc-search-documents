@@ -1,0 +1,10 @@
+TOP SECRET/lCOMINT/r’NOFORN/l20291123
+
+(S/lSl/IREL USA. FVEY) In summary. the way ahead is to address these existing
+challenges in order to effectively push more TAO data flows out to analysts in
+near real time. CTlO should also remained synched with TAO‘s effort to develop
+and deploy the RDF database. Finally, CTlO needs to implement the data model
+extension and move any currently ingested TAO data into the new model.
+
+TOP SECRET/lCOMINT/r’NOFORN/l20291123
+
