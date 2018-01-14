@@ -1,0 +1,61 @@
+\1) Analysis of Converged Data
+
+'r : cu s o L 06 v Converged data leads to better analysis, which leads to more focused tasking
+
+DIRECTORATE
+
+ 
+
+   
+
+     
+   
+   
+ 
+ 
+   
+
+unselected content selected content
+
+unselected
+metadata
+
+M ETAWAVE MARINA
+unselected (W ﬁrehouse) (Metadata)
+metadata
+
+from every implant
+l at is on each box) Ana st
+
+SlGDe / tD
+TURBINE ( V a'ge 9”
+
+Direct, high-level tasking
+- Where active tasking already in use,
+refine what is collected
+- If no CNE, pursue active collection
+
+ 
+  
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+Note: Our goals for high-level tasking are to relieve the user
+ﬁ'om needing to know I care about the details. For example, a
+user should be able to ask for "all details about application X"
+and not need to know how and where the application keeps
+ﬁles, registry entries, user application data, etc.
+
+ 
+
+ 
+
+ 
+
