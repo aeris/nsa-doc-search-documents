@@ -1,0 +1,23 @@
+ 
+
+ 
+ 
+
+(U//FOUO) AU R0 RAG 0 LD
+
+  
+
+(C//REL) Demonstration Script
+- (Only capability currently available is basic querying against small portion of WCIS database)
+
+ 
+
+Goto
+
+Click on any of the brown boxes
+Select your search criteria
+Select your query result criteria
+Click ”Submit”
+
+View the results
+
