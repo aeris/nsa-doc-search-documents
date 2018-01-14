@@ -1,0 +1,44 @@
+TOP SECRET/lCOMINT/lNOFORN
+
+(TS/lSl/INF) User’s Guide For PRISM Skype Collection
+
+August 2012
+POC For Document:_ 83531
+
+1. (TSl/Sll/NF) Introduction
+3. PRISM Skype collection can be identified by the following:
+
+a.i. SIGAD: US-984XN (this SIGAD is used for all PRISM collection, notjust
+Skype collection).
+
+a.ii. Case Notation: P7*, where the * represents awildcard.
+
+b. Sustained Skype collection began in Feb 2011 against “in and out” modes; this is
+the mode in which one end of the call is using a Skype application, and the other
+end is using a landline, or cell phone, without a Skype application. This is audio
+only. PRISM collection added exploitation against peer-to-peer Skype applications
+in July 2011. In this mode, both/all users are using the Skype application. This can
+be a mixture of audio, video, chat, and file transfers. PRISM collection can be from
+both modes of communication; however, there is no distinction made in the Case
+Notation.
+
+c. PRISM collection is available for “surveillance” tasking in UTT. There is no “stored
+comms" or “search" capability for tasking.
+
+2. (TSl/Sll/NF) Questions on tasking Skype Selectors to PRISM:
+a. Can I task something other than SkypeUser?
+
+a.i. No - this is your only option for Skype selectors in PRISM. You cannot task
+skypeMailToken.
+
+b. Do I need to include a V-Sen'es zipcode?
+
+b.i. Yes. When you submit FAA Skype requirements, please remember to include
+a V-series zipcode — otherwise, voice content will not be routed to
+NUCLEON.
+
+Derived From: NSA/CSSM 1-52
+Dated: 20070108
+Declassify On: 20361001
+TOP SECRET/[COMINT/INOFORN
+

@@ -1,0 +1,39 @@
+TOP SECRET/lCOMINT/lNOFORN
+
+Scenario C is an interesting case -- it implies that the target is talking to
+himself. In fact. he is... This scenario occurs when the target uses 2 different
+devices (i.e. laptop and mobile phone. or laptop & desktop. etc), and is
+logged in from both devices at the same time.
+
+These 2 devices will automatically "synch" with each other. and transmit
+information between them (including past communications that the target
+was a party to).
+
+Now - when it comes to multi-parti communications (conference calls. multi-
+person IMs. etc.). Skype is still a peer-to-peer protocol (l-to-l). Skype
+creates a mesh-network, where users are connected together through
+multiple peer-to-peer links. Instant Messages sent to this group of meshed
+participants can be routed *through* any participant. For example, ifA. B.
+and C are chatting together in a conference chat, the peer-to-peer network
+may look like this: A <-—> B <--> C. In this scenario, IM's from Ato B and C
+will all be routed through B. If B is our target. we will see these IM's... but B is
+a party to these IMs - because they're multi-party IMs (not private IMs
+between A and C).
+
+5. (TS/ISII/NF) Other Useful Resources:
+3. Instructional Videos on KapShare Learning Portal
+a.i. Go to this link:
+
+and type in “Skype” in the Search box. You will see a list of short videos
+which describe different aspects of Skype exploitation. As of Nov 2011, the
+list includes a primer on how Skype works, how to analyze Skype metadata,
+Skype in XKeyscore and other topics.
+
+b. Email the PRISM technical help team with any Skype question:
+DL BL_PRISM_HELP.
+
+c. Visit the PRISMFAA web site and search the FAQ section for Skype answers and
+tips.
+
+TOP SECRET/[COMINT/INOFORN
+

@@ -1,0 +1,48 @@
+TOP SECRET/lCOMINT/INOFORN
+
+i. What does “0 Frames Available” mean in my Skype video results?
+
+Whenever you see this' In PINWALE: “Stream 1 has 0 frames available” or
+"Stream 2 has 0 frames available”. it means that we know that a video- feed
+was taking place. but we didn't get enough traffic to reconstruct any video
+frames. Either the target was unable to get a video feed up, or too much
+traffic was lost during the collection process to reconstruct any images.
+
+j. Why are so many e-maii addresses correlated to one Skype user account?
+
+j.i.
+
+These are probably all valid associations. Skype does not require that a user enter
+a "valid" email address when creating a Skype account (which establishes their
+skypeMailTokens). A simple email address like "abed@hotmail.com" is likely to be
+randomly picked by a large population of Skype users when creating their
+accounts... so it's not unreasonable to find a lot of correlations. You will likely find a
+similarly high correlation count for something like "abc@hotmail.com" or
+"asdf@hotmail.com" or "b0b@hotmail.com". These are not false hits... these users
+*did* enter this email address when creating their Skype account... but a lot ofthem
+probably did so to maintain their anonymity by typing in something simple &
+random, rather than their true email address.
+
+k. What's wrong with the timestamps in my Skype data?
+
+k.i.
+
+This is due to 2 reasons:
+
+1) Skype sends chunks of old conversations to synchronize conversation
+histories across multiple Skype installations. DNI Presenter & UIS attempt to
+detect "historic conversation dumps" and label them as such (but keep in
+mind these conversation histories can be quite old... days or weeks - so it's
+important to pay close attention to the timestamps).
+
+2) There are 2 timestamps displayed in UIS & DNI Presenter for Skype. The
+first is the collection time, and the second is the target's local computer time.
+DNI Presenter displays them properly as "Collection Time (GMT)" and "User
+workstation time (GMT)". Please note that NSA has no control over the "User
+workstation time”... a target could decide to set his local computer's clock
+months or years off from the true time.
+
+1. Why do i sometimes have to piece together a lot of chat sessions from Skype?
+
+TOP SECRET/[COMINT/INOFORN
+

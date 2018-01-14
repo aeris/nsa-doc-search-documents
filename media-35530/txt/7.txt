@@ -1,0 +1,49 @@
+TOP SECRET/lCOMINT/INOFORN
+
+InlOut number, then we will collect voicemails. Both of these scenarios only
+apply to surveillance collection. We do not have any stored comms collection
+from Skype at this time.
+
+IlO is a telephone number assigned by Skype. You can use either your
+Skype ID or your I/O number to make/receive calls. If you're only making
+P2P calls you don't need an llO assigned. You only need an IIO number if
+you want to make calls tolfrom the PSTN. Note you can also make I/O to Ho
+calls, which must hit a PSTN switch of some type.
+
+c. What happens when both sides of a Skype call are tasked selectors?
+
+c.i.
+
+PRISM should collect two copies of the communication. This is true unless
+one of the users' Skype communications falls into one of a couple of
+technical limitations which prevents us from currently collecting via PRISM.
+
+d. Why did l receive small and incomplete files from Skype collection?
+
+d.i.
+
+d.ii.
+
+The first 256 bytes of a document for transfer are sent so that the Skype
+client can figure out what type of file it is (a PDF verses a JPEG). It shows-up
+on the user's Skype chat window as a message that says something like “so
+and so is attempting to sent you a file... click here to download... etc.“. If the
+user doesn't choose to download it. then you will not receive the entire file.
+but only this first nibble of data. which might include the filename.
+
+Also, due to known limitations in our collection process, some larger size
+files being transferred by targets may be not be fully collected. There is no
+stored comms capability to go back and retrieve these files.
+
+e. How does the Skype Credential CRC work and what will l see in collection?
+
+e.i.
+
+The way Skype works. users (in the raw data) are represented by their
+Skype Credential CRC (SkypeCredCRC). Usually the data contains enough
+information such that we can figure out what SkypeUser maps to the
+SkypeCredCRC... but sometimes this isn't possible. SkypeCredCRC's are
+temporary identifiers... so they're not targetable. Normally analysts don't
+
+TOP SECRET/[COMINT/INOFORN
+

@@ -1,0 +1,67 @@
+TOP SECRET/lCOMINT/INOFORN
+
+ 
+
+UIS: DECOGEGRDAIH Permuhllun Salad-Jr
+
+ 
+
+DECODEOREIAIN r21 urned 5 perm u'I-h'IID-I'I-S- I'M lhe 'Slca-petlser‘ realm on Monjul 25 16.29.55 EDT 2011 uSI I11] norm Milled realm ShneUSEr‘
+
+Sl'lhﬂlﬂh Fault J rrrl anon Funrllon
+: 2 5 content ' sky's-H. '-. col' Scar: 1n _troff1c
+
+- I; El'ltl't 4' '] ill-I} [' Skrutdser' .I 6““ [' II’IICI'I’IEE EEI'EFBI 5hrilt
+I:l1er~|:']nanu| Ii' Skvpzascr' :I and ['1n'.l=rnll=f. Skype Hl'h HI
+
+I t
+Eﬂgcmm- wmtmmiﬂlnmﬁu teatime—
+
+IZDII'IIEI‘I'Z ELI! Selectar
+
+    
+   
+ 
+ 
+ 
+
+I Sale Ll All 5 :Iec: Home
+
+ 
+
+ 
+
+b.i.l. By selecting the "General Skype“ permutation, you will query all
+Skype PRISM traffic (regardless of whether there is any content or not
+)
+
+b.i.2. By selecting only the "Skype Chat“ permutation, you will narrow
+the query to only Skype PRISM traffic that contains Instant Messaging
+content
+
+b.i.3. By selecting only the "Skype Webcam“ permutation, you will
+narrow the query to only Skype PRISM traffic that contains at least
+one visible video stream
+
+b.ii. Please note that when MARINA says that a SkypeUser webcammed with
+another user... that event *did* actually happen - but the content may not be
+visible in PINWALE (because part of the video stream may have been lost,
+prohibiting us from being able to reconstruct the video). If you want to look
+for PINWALE documents that have webcams that are actually visible, you
+can use the DECODEORDAlN-enabled PINWALE query option, described
+above.
+
+c. My Skype PINWALE out says "PRINTAURA Skype" - what does that mean?
+c.i. The display name is “PRINTAURA Skype” for both the UIS Text Presenter
+
+and the DNI Presenter. The DNI Presenter and UIS Text Presenter both
+have the capability to display SKYPE; Chat, File Transfers, and Video. The
+DNI Presenter has a single combined display for SKYPE webcam that allows
+the user to play the video and audio together in a synchronized mode or
+individually. Within UIS, the user will need to use UIS Hotzone to play the
+corresponding audio cuts.
+
+d. How do I search for Skype data in NUCLEON?
+
+TOP SECRET/[COMINT/INOFORN
+

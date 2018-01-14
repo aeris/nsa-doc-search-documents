@@ -1,0 +1,52 @@
+TOP SECRET/lCOMINT/INOFORN
+
+H. The reason why you're seeing pieces of Skype chats in different documents is for 3
+reasons:
+
+1) the data is too big, and is being fragmented into multiple documents (this isn't
+that common, however)
+
+2) Skype sends chunks of old conversations to synchronize conversation histories
+across multiple Skype installations. These old conversations are sent piecemeal
+across multiple chat sessions.
+
+3) Every time a Skype user disconnects from Skype, and reconnects again - they
+being a new session. It's common to see Skype users disconnect & reconnect
+frequently whenever Skype stops performing well for them (i.e. if their video or
+audio messes up, it's common to see a Skype user disconnect & reconnect to get it
+working again). Every time they do this, a new PINWALE document is started.
+
+Items 2 and 3 are based entirely on target behavior (it's not a collection problem,
+and is not being introduced by NSA).
+
+m. Why does my Skype playback get out of sync?
+
+m.i. The main issue is data-loss causing the audio to skip and fall-behind. CES is
+working on a few techniques to help keep the audio in-sync between channels and
+with the video (the video should always be in-synch, since we timestamp each video
+frame).
+
+4. (TS/ISIIINF) Questions on miscellaneous issues:
+
+a. How do l ﬁnd out the e-mall address of my Skype target? The collection only
+gives me the Skypeuser, SkypeNode and SkypeMallToken.
+
+a.i. Email addresses are not included in Skype collection... skypeMailTokens
+(which are derived from email addresses) are. You can search MARINAfor
+skypeMailToken - to - SkypeUser correlations to detect a username change,
+in order to put new SkypeUser selectors up on FAA coverage. You can also
+transform any email address into a skypeMailToken using
+DECODEORDAIN. DECODEORDAIN can also transform some
+skypeMailTokens back into email addresses. For cases where
+DECODEORDAIN cannot transform a skypeMailToken into an email address
+- please send an email to—and request that they attempt
+to recover the email address from the skypeMailToken (however, please only
+do this if DECODEORDAIN fails to return the email address).
+
+b. Can we collect Skype volcemall?
+b.i. If a target connects via a peer-to-peer connection, we will not be able to
+collect any voicemail he receives or sends. If a target connects via a PSTN
+connection and uses his InlOut number to communicate with another user’s
+
+TOP SECRET/[COMINT/INOFORN
+

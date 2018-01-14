@@ -1,0 +1,60 @@
+d.i.
+
+d.ii.
+
+TOP SECRET/lCOMINT/INOFORN
+
+You can query by case notation (P7* where * : wildcard), or you can query
+by username in the TELEPHONE_NUMBERS field (note that if your target
+has a long username, you may have trouble searching by username due to
+length limitations in NUCLEON... but you won't have any trouble searching
+by case notation in NUCLEON).
+
+Another way to pull up the audio in NUCLEON is to pull on the zipcode that
+the audio was sent to. If you pull it up this way, the Skype audio displays
+along with the rest of the FAA audio that was sent to the same zipcode.
+
+e. Where’s the other side of my voice out in NUCLEON?
+
+e.i.
+
+CES has added a great new service for OPls on PRISM (and FBI FISA)
+voice collection: all voice cuts will now be autopaired and you will not have to
+hunt down the other side of phone calls. You will automatically be presented
+with both sides of the conversation in NUCLEON. Previously. analysts would
+have to search through NUCLEON to find both sides by looking at the
+targets and the timestamps to guess which ones are paired.
+
+f. Where’s the audio to go with my Skype video?
+
+f.i.
+
+Within the DNI Presenter (DNIP). the user can utilize the “View Associations”
+service to find the associated NUCLEON audio of the PINWALE document
+or find the associated PINWALE document of the NUCLEON audio. In other
+words, you can find the MAM and/or TAM associations to any associated
+Skype data. and then display them within the DNIP Skype combined display
+or the DNIP Composite display. Also from the UIS Text Presenter. you can
+launch the DNI Presenter to utilize this “View Associations” service.
+
+9. How Do 1 Tell When Stored/Search Comms Arrive From PRISM?
+
+g.i.
+
+There is no collection capability for Stored/Search Comms in Skype PRISM.
+
+h. Why do i receive multiple copies of Skype chat sessions?
+
+h.i.
+
+You might get chats in segments and then get the whole chat in a third
+collect. This is how Skype works. Depending upon what your target is doing.
+a copy of his chat history can be sent in-bulk (which can span multiple chat
+sessions). If you target, for example. has 3 separate chat sessions with
+another individual on his laptop. then logs-into his Skype account on his
+desktop. the chat-history of those 3 separate chat sessions will be
+transmitted from this laptop to his desktop so that both his computers have a
+log of the whole conversation.
+
+TOP SECRET/[COMINT/INOFORN
+
