@@ -1,0 +1,38 @@
+The Oversight and Compliance Framework
+
+NSA has an internal oversight and compliance framework to provide assurance that NSA’s
+activities — its people, its technology, and its operations — act consistently with the law and with
+NSA and US. intelligence community policies and procedures. This framework is overseen by
+multiple organizations external to NSA, including the Director of National Intelligence, the
+Attorney General, the Congress, and for activities regulated by FISA, the Foreign Intelligence
+Surveillance Court.
+
+NSA has had different minimization procedures for different types of collection for decades.
+Among other things, NSA’s minimization procedures, to include procedures implemented by
+United States Signals Intelligence Directive No. SP0018 (USSID 18), provide detailed
+instructions to NSA personnel on how to handle incidentally acquired US. person information.
+The minimization procedures reﬂect the reality that US. communications ﬂow over the same
+communications channels that foreign intelligence targets use, and that foreign intelligence
+targets often discuss information concerning U.S. persons, such as US. persons who may be the
+intended Victims of a planned terrorist attack. Minimization procedures direct NSA on the
+proper way to treat information at all stages of the foreign intelligence process in order to protect
+U.S. persons’ privacy interests.
+
+In 2009 NSA stood up a formal Director of Compliance position, affirmed by Congress in the
+FY2010 Intelligence Authorization Bill, which monitors verifiable consistency with laws and
+policies designed to protect US. person information during the conduct of NSA’s mission. The
+program managed by the Director of Compliance builds on a number of previous efforts at NSA,
+and leverages best practices from the professional compliance community in industry and
+elsewhere in the government. Compliance at NSA is overseen internally by the NSA Inspector
+General and is also overseen by a number of organizations external to NSA, including the
+Department of Justice, the Ofﬁce of the Director of National Intelligence, and the Assistant
+Secretary of Defense for Intelligence Oversight, the Congress, and the Foreign Intelligence
+Surveillance Court.
+
+In addition to NSA’s compliance safeguards, NSA personnel are obligated to report when they
+believe NSA is not, or may not be, acting consistently with law, policy, or procedure. This self-
+reporting is part of the culture and fabric of NSA. If NSA is not acting in accordance with law,
+policy, or procedure, NSA will report through its internal and external intelligence oversight
+channels, conduct reviews to understand the root cause, and make appropriate adjustments to
+constantly improve.
+

@@ -1,0 +1,50 @@
+exceptions specified in FISA, a speciﬁc court order from the Foreign Intelligence Surveillance
+Court based on a showing of probable cause is required for this type of collection.
+
+Collection of U._S. Person Data
+
+There are three additional FISA authorities that NSA relies on, after gaining court approval, that
+involve the acquisition of communications, or information about communications, of US.
+persons for foreign intelligence purposes on which additional focus is appropriate. These are the
+Business Records FISA provision in Section 501 (also known by its section numbering within
+the PATRIOT Act as Section 215) and Sections 704 and 705(b) of the FISA.
+
+Business Records FISA. Section 215
+
+Under NSA’s Business Records FISA program (or BR FISA), ﬁrst approved by the Foreign
+Intelligence Surveillance Court (FISC) in 2006 and subsequently reauthorized during two
+different Administrations, four different Congresses, and by 14 federal judges, specified U.S.
+telecommunications providers are compelled by court order to provide NSA with information
+about telephone calls to, from, or within the US. The information is known as metadata, and
+consists of information such as the called and calling telephone numbers and the date, time, and
+duration of the call — but no user identiﬁcation, content, or cell site locational data. The purpose
+of this particular collection is to identify the US. nexus of a foreign terrorist threat to the
+homeland
+
+The Government cannot conduct substantive queries of the bulk records for any purpose other
+than counterterrorism. Under the FISC orders authorizing the collection, authorized queries may
+only begin with an “identiﬁer,” such as a telephone number, that is associated with one of the
+foreign terrorist organizations that was previously identified to and approved by the Court. An
+identiﬁer used to commence a query of the data is referred to as a “seed.” Speciﬁcally, under
+Court-approved rules applicable to the program, there must be a “reasonable, articulable
+suspicion” that a seed identifier used to query the data for foreign intelligence purposes is
+associated with a particular foreign terrorist organization. When the seed identiﬁer is reasonably
+believed to be used by a US. person, the suspicion of an association with a particular foreign
+terrorist organization cannot be based solely on activities protected by the First Amendment.
+
+The “reasonable, articulable suspicion” requirement protects against the indiscriminate querying
+of the collected data. Technical controls preclude NSA analysts from seeing any metadata unless
+it is the result of a query using an approved identifier.
+
+The BR FISA program is used in cases where there is believed to be a threat to the homeland.
+
+Of the 54 terrorism events recently discussed in public, 13 of them had a homeland nexus, and in
+12 of those cases, BR FISA played a role. Every search into the BR FISA database is auditable
+and all three branches of our government exercise oversight over NSA’s use of this authority.
+
+FISA Sections 704 and 705(b)
+
+FISA Section 704 authorizes the targeting of a US. person outside the US. for foreign
+intelligence purposes if there is probable cause to believe the US. person is a foreign power or is
+an officer, employee, or agent of a foreign power. This requires a specific, individual court order
+
