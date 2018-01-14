@@ -1,0 +1,62 @@
+UNCLASSIFIED/lFOR OFFICIAL USE ONLY
+
+BOUNDLESSINFORMANT — Frequently Asked Questions
+09-06-2012
+
+8) What is the technical architecture for the tool?
+
+Click he_re for a graphical view of the tool’s architecture
+
+(U//FOUO) DNI metadata (ASDF), DNR metadata (FASCIA) delivered to Hadoop
+Distributed File System (HDFS) on GM-PLACE
+
+(U//FOUO) Use Java MapReducejob to transform/ﬁlter and enrich FASCIA/ASDF data with
+business logic to assign organization rules to data
+
+(U//FOUO) Bulk import of DNI/DNR data (serialized Google Protobuf objects) into
+Cloudbase (enabled by custom aggregators)
+
+(U//FOUO) Use Java web app (hosted via Tomcat) on MachineShop (formerly TurkeyTower)
+to query Cloudbase
+
+(U/IFOUO) GUI triggers queries to CloudBase — GXT (ExtGWT)
+
+9) What are some upcoming features/enhancements?
+
+(U//FOUO) Add technology type (e.g. JUGGERNAUT, LOPER) to provide additional
+granularity in the numbers
+
+(U//FOUO) Add additional details to the Differential view
+
+(U//FOUO) Reﬁne the Site Speciﬁc View
+
+(U//FOUO) Include CASN information
+
+(U//FOUO) Add ability to export data behind any View (pddg,sigad,sysid,casn,tech,count)
+(U//FOUO) Add in selected (vs. unselected) data indicators
+
+(U//FOUO) Include filter for sustained versus survey collection
+
+10) How are new features or views requested and prioritized?
+(U//FOUO) The team uses Flawmill to accept user requests for additional functionality or
+enhancements. Users are also allowed to vote on which ﬁmctionality or enhancements are most
+important to them (as well as add comments). The BOUNDLESSINFORMANT team will periodically
+review all requests and triage according to level of effort (Easy, Medium, Hard) and mission impact
+(High, Medium, Low). The team will review the queue with the project champion and government
+steering committee to be added onto the BOUNDLESSINF ORMAN T roadmap.
+
+11)Why are record counts different from other tools like ASDF and What’s On
+
+Cover?
+(U//FOUO) There are a number of reasons why record counts may vary. The purpose of the tool is to
+
+provide
+
+ 
+
+BOUNDLESSINFORMANT — FAQ Page 3 o:
+
+ 
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
