@@ -1,0 +1,57 @@
+TOP SECRET//COM]NT/,—
+
+Interim Competency Test for Access to BR FISA Data
+
+Who can make a RAS determination?
+
+The FISA Court
+
+Who is authorized to query a selector within the BR data
+
+HMCs
+
+Who can query the BRF data using the —database?
+
+HMCs
+
+If you suspect that the software tools or protection mechanisms in place to
+regulate access to BR FISA data are not functioning properly, what actions do
+you take and when?
+
+Cease use of the software tools against the BR FISA data immediately. Report the
+suspicious software to S214 leadership and SV4 as soon as possible.
+
+Are analysts allowed to query the BR FISA data for different _of
+a RAS-approved number? —in this context refers to additional
+
+Current
+legal guidance states that each identifier must be approved by the FISC individually.
+Current legal guidance states that each identifier must be approved by the FISC
+individually.
+
+  
+
+No. Until further notice, any must be included in the RAS approval
+justification and approved by the FISA Court before being entered into the Station
+
+Table as RAS approved The EAR vprotection feature should not allow an analyst to
+query any variations not already entered as approved
+
+If an analyst has a RAS-approved —will he or she also be able to query
+on non-approved—in the BR FISA data if they are known to
+be associated with the approved selector?
+
+No. 'Ifthe approved selector has other metadata identifiers associatedwith it, each
+distinct identifierimust be individually approved by the FISA Court for RAS approval.
+The EAR software will prevent any non-approved selectors from being queried
+
+If you have new information and are certain that a selector on the RAS-
+approved station table no longer meets the RAS standard, what action do you
+take?
+
+Derived From: NSA/CSSM 1-52
+Dated: 20070108
+
+' 1: 20340401
+TOP SECRET//COM]NT
+
