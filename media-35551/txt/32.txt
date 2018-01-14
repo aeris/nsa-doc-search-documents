@@ -1,0 +1,18 @@
+g
+..-"
+
+(U//FOUO) B LAC KP EAR L
+
+=' (S//Sl//REL) Search 'All traffic’ and include
+subchannels and tunnels if no results found
+under limited search
+
+=' (S//S|//REL) lf link is identified as MPLS then
+look at the other lPs in inner labels, if present
+
+=' (S//S|//REL) Use BLACKPEARL for finding
+access and gathering information on your
+network
+
+ 
+

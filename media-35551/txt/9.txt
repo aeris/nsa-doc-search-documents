@@ -1,0 +1,36 @@
+—
+
+(U//FOUO) DISCOROUTE
+
+=' (C) NAC project to acquire, parse, database
+and display configuration files from network
+devices
+
+=' (C) Allows analysts to mine device configs for
+SIGDEV discovery
+
+lllll
+l
+
+ 
+
+ 
+
+  
+ 
+ 
+
+Router co
+
+ 
+
+ 
+
+network a ,‘
+
+ 
+
+ 
+
+ 
+
