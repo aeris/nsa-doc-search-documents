@@ -1,0 +1,49 @@
+SECRETIINOFORNIIMR
+
+MEMORANDUM FOR THE DIRECTOR OF NATIONAL INTELLIGENCE
+
+SUBJECT: (UHFOUO) Sharing Communications Metadata Across the Intelligence
+Community —DEC IS ION MEMORANDUM
+
+PURPOSE: (UK/FOUO) To request the Director National Intelligence establish a US.
+Intelligence Community-wide communications metadata sharing structure; to recommend
+that the National Security Agency establish this structure along with appropriate query
+tools, training and oversight; and, that Director, NSA be designated the IC Executive
+Agent for IC-wide communications metadata.
+
+BACKGROUND: (SKINF) Post 91 l, the IC has increased its needs for communications
+metadata'. Currently, NSA collects, processes and stores vast amounts of
+communications metadata related to worldwide intelligence targets. This SIGINT
+information often includes the originator and recipient(s) identifiers, as well as the date,
+time and duration of the transaction and, in some cases, locations of targets.
+
+(SHNF) CIA, FBI. DIA and DEA also have access to communications transaction data
+from their unique sources. These organizations, to include NSA, have benefited from
+sharing this data through the CRISSCROSSIPROTON program since 1999. Presently,
+NSA pushes roughly 60 million records per day (limited to telephony only) to PROTON,
+resulting in over 30% of the total PROTON data set.
+
+(SKINF) While the PROTON program has had many notable successes over the years,
+today’s environment requires that the IC implement more holistic information sharing
+and collaboration. In order to ensure the efficient and effective sharing of many millions
+of new minimized communications metadata records daily, the IC must have a new
+sharingfcollaboration structure that is scaleable to the larger IC and is capable of much
+greater volume of data.
+
+(SﬂNF) NSA stands alone in conducting metadata analysis on a large scale and as a
+result, our tools and methodologies, as well as the infrastructure employed, are well
+tested and have been proven efficient and effective over time. We already extensively
+
+ 
+
+I *(C) Communications metadata refers to structured “data about data”: it includes all information
+associated with, but not including content, and includes any data used by a network, service or application
+to facilitate routing or handling of a communication or to render content in the intended format; it includes,
+but is not limited to, dialing, routing, addressing, or signaling information and data in support of various
+network management activities (e.g. billing, authentication or tracking of communicants).
+
+Derived From: NSA/CSSM 1-52
+Dated: 20041123
+Declassify On: 20290325
+SECRET/INOFORN/IMR
+
