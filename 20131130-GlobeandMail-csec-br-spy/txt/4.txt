@@ -1,0 +1,13 @@
+QUESTIONS
+
+0 How can I use the information available in
+SIGINT data sources to learn about the target?
+
+0 What can I find that would help me inform access
+development efforts?
+
+0 Can I automate the analytical process andfor re-
+use analytics designed for other purposes?
+
+ 
+
