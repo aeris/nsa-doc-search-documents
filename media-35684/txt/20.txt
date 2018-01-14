@@ -1,0 +1,247 @@
+ 
+
+El .7 SDSND32.DLL
+
+E .text
+
+ 
+
+   
+
+I
+E! O Glutlal
+
+ﬂ Imports
+I Expurts
+ﬁg Functiuns
+- Labels
+a [‘55555
+i) Namesuates
+
+ 
+
+ 
+
+Data Type;
+9 EuntInTypes
+
+gesoswoamL
+
+Q window5_V59
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+  
+  
+ 
+  
+    
+ 
+   
+ 
+
+ 
+
+100012c0
+100012c5
+10001267
+lElElEIlZEE
+100012c9
+
+lElElDlZEf
+100012d0
+
+100012d5
+
+100012d7
+lElElEllZd]:
+
+10001263
+
+lElElEllZEE
+
+100012125
+
+1000126f
+
+lElElEllZfl
+
+100012f3
+
+100012£9
+
+U//FOUO Repu
+
+*MMMHMH*HMHMMM—HHMMMM-
+* FUNETIUN
+ﬁﬁﬁffﬁrfﬂrfﬂﬁfﬁﬂﬁﬁﬁﬁﬁffﬁrfﬁﬂﬁfﬁﬁﬁﬁﬁﬁﬁffﬁrf'
+Lndefined istdcall FUILIDDUIZCUU
+
+undeﬁned -3f|: 1ncal_3fc
+undefinedzl 7400 10:317400
+FUN_1|]|]|Jl2:EI
+81 a: 00 SUB ESP,0:x400
+[l4 EIEI EIEI
+53 PUSH BX
+55 PUSH EB?
+55 PUSH E51
+313 Ed 04 M01? EBP,[;USER32.DLL::GEEKE
+31 00 1.0
+57 PUSH EDI
+139 ff 00 M01? EULUREE
+Ell] EIEI
+33 :0 X011 MJAX
+3d TC 24 1‘1 LEA EDI,[ESP + lOCaJLSfc]
+I37 44 24 MEIV dnmId pm: [ESP + 1ncal_
+10 00 00
+[ll] EIEI
+f3 ah STOSD.REP ESHﬂJI
+139 95 EIEI MEIV EEXJJXQE
+00 00
+bf 18 BE MEIV EFI,DAT71000EIEIE
+00 10
+f3 ab STDSD.REP E$:EIDI
+
+LABilDUDlZE].
+53 DB PUSH 0x3
+ff 15 00 CALL [JCERNEL3LDLLHSleepj
+El] EIEI 10
+e8 d2 EE CALI. FUN_1000].1E10
+ff EE
+
+X0
+
+TOP SECRETl/COMINT/IREL TO USA, FVEY
+
+launzcu
+
+lllIIDIZEE
+mucus?
+1nnn1:=a
+mama
+mung:
+
+manuau
+manna:
+manna?
+manual.
+lﬂﬂﬂlzal
+manna:
+luuulzn
+mung:
+
+ 
+
+mm
+mm!
+mm!
+wax
+KM]
+wax
+unu
+x03
+L! n
+KOU
+51 as):
+aw
+KW
+51 man
+
+i5F.DxIDD
+m
+IIF
+:51
+HF. Lust“: ,nu. Lenka.
+mu
+Imbﬂxli
+mum»:
+21:14:59 + lunaligizl
+d-nxd phx [25! + lanai:
+.up is mu
+mamas
+II‘I.DAT_lﬂﬂI1aﬁlﬁ
+,nm: 1: 15m-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+rposing
+
+    
+     
+
+ 
+
+ 
+
+ 
+
+luuuzzl mm! 0315
+luunzzz um. [iﬂmLﬁzJiILIn . 51“,]
+lllllnlzf! [ALL 11m luuulmn
+mans. 1m}: 1"me
+
+\f
+manna wax mun
+manna: mu. m:;_u5m::,nu aux.“
+luuﬂmun MW EEI. [DALIMEIDHE + 1“]
+Human; mm! 251
+manna). unusx rm.“
+manna: CALL [_u5:m:.m.1...htnsyncx.n
+manna “51' m.Uxﬁﬂ
+manna J2 1u_1mmuau
+
+ 
+
+ 
+
+munnau
+llama!
+manna:
+
+unu
+I]: IT
+.72
+
+annulus: + zanaxq + IE.“
+minim:
+1n_1nun1qnq
+
+ 
+
+ 
+
+ 
+
+   
+  
+ 
+  
+   
+  
+   
+  
+  
+      
+       
+     
+
+ 
+
+ 
+
