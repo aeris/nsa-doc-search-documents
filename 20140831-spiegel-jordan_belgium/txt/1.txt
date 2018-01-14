@@ -1,0 +1,54 @@
+SECRET STRAPl SPOKE
+
+SEE—AC
+J DRDAN-BEL GIUM
+
+Report No: 44 Date: 012129008
+
+Case Notation: SBBAC
+Polarityi'Freq: aBL -Mhz
+
+Summary:
+This informal report has been issued to highlighta link of potential interest for tasking.
+
+The physical gateways are J ORDAN-BELGIUM, however BELGIUM is providing a logical
+gateway to the ROW.
+
+The link is a fairly standard E1 employing Timeslots 30 and 31 to relay C7, which in turn provides
+the dialling for this link. Compression is achieved by utilising DTX-BBOB DCME equipment
+
+Trafﬁc summaries indicate that both terminals are relaying transit data.
+Results:
+
+T5 30 [HOST]
+UPC 4032—5 (Jordan, FAST Link GSM) DPC 2~014~7 (Belgium, Brussels F Belgacom)
+Link activity as follows:
+
+4-032-5 to 2~012~2 CIC 0066-0097, 0155—0191
+
+Transit calls to:
+
+Morocco, Algeria, Libya, Guinea, Ivory Coast, Nigeria, Democratic Republic of Congo,
+Mozambique, Greece, Belgium, France, Spain, Cyprus, Belarus, Ukraine, Romania, Norway,
+Poland, Germany, Malaysia,Australia, Thailand, Japan, South Korea, China, Taiwan, muggy,
+India, Pakistan, Lebanon, Iraq, Yemen, UAE, Israel, Bahrain, Qatar, Bhutan, Kyrgyzstan
+
+4-032-5 to 2-012-1 CIC 0065-0096, 0145-0192
+Transit calls in addition to above include:
+Mauritius, Finland, Bulgaria, Switzerland, Sweden, Syria, Iran
+
+TS 31 (HOST)
+DPC‘. 4-032-0 (Jordan, FAST Link) DPC 2-013-1 (Belgium, Brussels F Belgacom)
+Link activity as follows:
+
+4-032-0 to 2-012-2 CIC 0055-0095, 0145-0183
+
+Transit calls to:
+
+Morocco, Algeria, Libya, France, Spain, Cypms, Finland, Bulgaria, Ukraine, Romania, Malaysia,
+Australia, South Korea, China, Turkey, India, Lebanon, Iraq, Yemen, UAE, Israel, Bahrain, Bhutan
+
+4-032-0 to 2-012-1 CIC 0055-0097, 0145-0133
+Transit calls in addition to above include:
+South Africa, Greece, Andorra, Switzerland, Singapore
+

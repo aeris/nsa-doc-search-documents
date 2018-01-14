@@ -1,0 +1,28 @@
+Symbol rate = 280.19 Kbps
+
+Data rate = 2048bps.
+
+Fec rate I THE.
+
+Fec Type = TPC.
+
+Ovelhead = None.
+
+Reed Solomon = None
+
+Absolute encoding.
+
+This link can be tasked on the system
+
+Contact Details
+
+OPA-BUDE -
+
+1 of T
+
+This infomiation is exempt from disclosure under the Freedom of Information Act 2000 and ma}.r be
+subject to exemption under other UK information legislation. Refer disclosune requests to GCHQ on
+
+01242 221491 xii-0306 (non-sec) or email infoleg@gchq
+SECRET STRAP1 SPOKE
+
