@@ -1,0 +1,58 @@
+TOP SECRET//COMINT//20291123
+
+— Description: Begin a new circuit that can be added to at any time so long
+as the following two conditions are met:
+
+1. The client is not one of the nodes in the circuit.
+
+2. The same node is not used twice in a row. (It can, however, be used twice
+in the same circuit.)
+
+Note that the ﬁrst of these is not checked in code, but in its current state, a
+client using this library will never be a server, so this will not be an issue.
+
+— Arguments: beginfoutennickname: The nickname of the ﬁrst hop in the
+new circuit.
+
+— Return Value: A pointer to the new circuit.
+
+— Notes: This function must be called before attempting to append a new hop
+onto a circuit.
+
+Warning: This call is blocking. It will halt program execution until a circuit
+has been successfully established.
+
+0 (TS//SI) int append10uter.by_nickname_to_circuit_by_id (char *nickname,
+int circ_id)
+
+— Description: This function appends the router with the given nickname to
+the given circuit. It looks up the circuit by its global identiﬁer.
+— Arguments:
+
+1. nickname: The nickname of the next hop in the circuit.
+2. circn'd: The global identiﬁer of the circuit.
+
+— Return Value: 0 on success; negative values on failure.
+
+— Notes: Must get the circuit id from a circuit returned by
+new_arbitrary_circuit_by_nickname. If MJOLNIR tries to connect to an
+invalid router (e.g. if the router is down), the circuit will close.
+
+Warning: This call is blocking. It will halt program execution until a circuit
+has been successfully extended.
+
+0 (TS//SI) int appendlouter_by_nickname_to_circuit (char *nickname, circuit_t
+*circ)
+
+— Description: Append router with the given nickname to the given circuit.
+— Arguments:
+
+1. nickname: The nickname of the next hop in the circuit.
+2. circ: The circuit to which MJOLNIR should append a router.
+
+— Return Value: 0 on success; negative values on failure.
+
+38
+
+TOP SECRET//COMINT//20291123
+

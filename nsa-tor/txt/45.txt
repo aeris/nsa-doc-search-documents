@@ -1,0 +1,60 @@
+TOP SECRET//COMINT//20291123
+
+— Arguments:
+
+1. routemickl : The router in the middle of the ﬂower.
+
+2. num_petals: The number of times the middle router appears in the ﬂower.
+So the ﬂower will be 2 * num_petals long.
+
+3. circ: The original circuit to append the new ﬂower to.
+— Return Value: The circuit with the ﬂower added.
+
+— Notes: See the ﬂower attack documentation.
+
+0 (TS//SI) circuit_t *coil_attack_two_routers(char *routernickl,
+char *routernick2, int num_coils)
+
+— Description: Similar to the ﬂower attack, except that this function generates
+a circuit that bounces back and forth between two nodes in the Tor cloud instead
+of targeting only one router.
+
+— Arguments:
+
+1. routemicklz nickname of the ﬁrst attacked router.
+
+2. routemickQ: nickname of the second attacked router; if MJOLNIR sends a
+payload down this circuit, the second router will be the ﬁnal one.
+
+3. num_coils: the number of times each router will appear in the circuit. So
+the circuit is actually 2 * num_coils long.
+— Return Value: A pointer to the newly—formed circuit.
+— Notes: See the notes under flower_attack_one_router; the same applies
+here.
+
+Warning: This call is blocking. It will halt program execution until a circuit
+has been successfully established.
+
+0 (TS//SI) circuit_t *append_coil_to_circuit (char *routernickl,
+char *routernick2, int num_coils, circuit_t *circ)
+
+— Description: Similar to the coil attack, but puts the coil at the end of a
+given circuit. Using this, MJOLNIR is anonymized by the structure of the Tor
+cloud.
+
+— Arguments:
+
+1. routerm'cklz the ﬁrst router in the coil.
+2. routemickQ: the second router in the coil.
+
+3. num_coils: The number of times each router appears in the coil. The
+resulting circuit will be as long as circ plus 2 * num_coils.
+
+4. circ: The circuit to which MJOLNIR appends the coil.
+
+— Return Value: the newly—formed circuit.
+
+45
+
+TOP SECRET//COMINT//20291123
+

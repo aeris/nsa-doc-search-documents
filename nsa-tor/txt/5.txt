@@ -1,0 +1,52 @@
+TOP SECRET//COMINT//20291123
+
+of building a circuit and sending data. Our library is as portable as Tor itself, and we have
+successfully compiled and tested it on both Windows and Linux. We named the library
+MJOLNIR, which is the name of Thor’s hammer from Norse mythology.
+
+(TS / / SI) MJOLNIR is a modiﬁcation of Tor, and it is ideally indistinguishable from
+an original Tor client. As such, it should appear identical to Tor in traﬁic. To ease this
+process, we used original Tor functions whenever possible. However, its main purpose is
+to provide the programmer with greater control over all aspects of Tor. In the normal Tor
+client, almost all servers in all circuits chosen randomly. Using MJOLNIR, the programmer
+can build circuits one server at a time, with no limit to the number of servers in the circuit.
+Then the programmer can send an arbitrary TCP payload across the circuit that he built
+and process the response however he wishes.
+
+(TS/ / SI) All of MJOLNIR’s most important calls (in setting up a circuit as well
+as sending data) are blocking. This is because the Tor code is inextricably linked with
+libevent, an open—source library that allows the user to set up signals that can be handled
+whenever they are needed. Whereas Tor uses events and a function called once per second
+to perform all its necessary checks and corrections, MJOLNIR uses libevent internally so
+that each function does what it should do before returning control to the calling program.
+It would be unfair to any programmer to require that any program using MJOLNIR should
+also be forced to use libevent at the same level that Tor does. We felt that having blocking
+calls was the lesser of two evils in this situation, as only programs that follow Tor’s structure
+could possibly ﬁnd libevent a viable way of controlling program ﬁow. MJOLNIR’s solution
+of using libevent internally does make the program slower, but allows the programmer to
+know whether all of his requests succeed or fail immediately upon return to his program.
+
+4.1 (U//FOUO) Building circuits
+
+(TS / / SI) The most fundamental portion of MJOLNIR is its capability to build arbitrary
+circuits of any length. Using our library, a programmer can build a circuit, use it for some
+traﬁic, then extend it and continue using it. Like Tor, MJOLNIR allows multiple circuits
+to be active at one time, and the user can send traﬁic along any of them.
+
+(TS/ / SI) In order to build a circuit, the client must have information about some
+of the servers in the Tor cloud. This information is kept on the directory servers and
+their mirrors, and to get this information the client must request it speciﬁcally from the
+directory. MJOLNIR provides a function, update_router_descriptors, which automates
+this process. Once MJOLNIR has the directory, it can build circuits to any of the servers
+that it knows about. Servers that have middleman—only exit policies are still allowed to
+be at the end of the circuit as it is being built. However, should the calling program want
+data to travel across the circuit, it must be using an exit node that will allow traﬁic to
+exit to where the program wants it to go, or MJOLNIR will refuse to send the traﬁic in
+the ﬁrst place.
+
+(TS//SI) In order to build a circuit, the programmer must begin with a call to
+MJOLNIR’s function new_aIbitraIy_circuit_by_nickname, which returns a new cir-
+cuit_t structure with the given server as its ﬁrst node. MJOLNIR also provides a set
+
+TOP SECRET//COMINT//20291123
+

@@ -1,0 +1,55 @@
+TOP SECRET//COMINT//20291123
+
+(TS/ / SI) If the commonName has an illegal character, MJOLNIR will generate a
+random one. If MJOLNIR receives as input an invalid X.509 ﬁeld, it will ignore that
+ﬁeld/value pair entirely. In this way, MJOLNIR provides relatively robust X609
+certiﬁcate generation.
+
+(TS / / SI) The programmer must create two smartlists of ﬁeld_value_pair_t struc—
+tures (one each for subject and issuer) where the ﬁeld variable is the name of the
+ﬁeld in the certiﬁcate and value is set to the appropriate string. These two smartlists
+must then be passed to init_keys (subject ﬁrst, issuer second).
+
+(TS / / SI) See the documentation for smartlist _t, ﬁeld_value_pair_t, smartlist _add,
+smartlist_create, and init_keys.
+
+E.5 (TS / / SI) DOS-style attacks
+
+(TS/ / SI) The purpose of these attacks is not actual DoS per 36. These simply do not
+generate enough traﬁic. However, they may be able to generate suﬁicient traﬁic to force a
+node into hibernation, which takes the server out of the Tor cloud until the next hibernation
+period begins (could be a day, week, or month).
+
+0 (TS//SI) circuit_t *flower_attack_one_router (char *routernick, int num_petals)
+
+— Description: Set up a (D)DoS network attack on one Tor node. The program
+will create a circuit consisting of random routers alternating with the given
+router. This results in the given router doing much more work than the rest of
+the nodes on the circuit.
+
+— Arguments:
+
+1. routerm'ck: the nickname of the router to attack.
+2. num_petals: he number of times the attacked router will be in the resultant
+circuit. Therefore, the circuit will be 2 * num_petals long.
+
+— Return Value: A pointer to the circuit_t structure of the newly—formed
+circuit.
+
+— Notes: When setting up a circuit with n hops, the client must send n cells
+along the circuit. So setting up a large circuit can be very time—consuming, as
+well as expensive with regards to both traﬁic generated and CPU time used.
+Warning: This call is blocking. It will halt program execution until a circuit
+has been successfully established. For even a moderately long circuit, this can
+take a substantial amount of time.
+
+o (TS//SI) circuit_t *appendilower_to_circuit (char *routernickl,
+int num_petals, circuit_t *circ)
+
+— Description: Similar to append_coil_to_circuit, this function appends a
+ﬂower to the end of the given circuit. Using this, MJOLNIR is anonymized by
+the structure of the Tor cloud.
+
+44
+TOP SECRET//COMINT//20291123
+

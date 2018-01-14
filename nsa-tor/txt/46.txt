@@ -1,0 +1,50 @@
+TOP SECRET//COMINT//20291123
+
+— Notes: See the documentation for the coil attack.
+
+Warning: This call is blocking. It will halt program execution until a circuit
+has been successfully extended.
+
+F (U//FOUO) MJOLNIR for Windows
+
+F. 1 (U) Interface
+
+(TS/ / SI) The GUI provides the user with a list of all the circuits created by the client.
+The list displays relevant information about each circuit, including its length, state, and
+purpose. Additionally, each circuit has an light icon next to its name. The light is red if
+the circuit is closed (cannot be used). The light is green if the circuit is open and ready
+for use. Beneath the circuit list, a list of the servers in a circuit is displayed for the last
+circuit clicked. Similar to the circuits, the servers each have a light next to their names to
+indicate whether the circuit is open up to that server. The displays for the circuit list and
+the node list are set to update on a timer (currently set to three seconds.) On the right,
+the GUI provides a list of servers that are available for use in a circuit. The router list
+does not update on the timer. To update the router list, the user must click the “Load
+Routers” button.
+
+F.2 (S / / SI) Creating new circuits
+
+(TS / / SI) The GUI provides a few different ways to create new circuits. The most general
+way to create a new circuit is to click the “New Circuit” button. This will create a
+null circuit with a user—speciﬁed name and purpose (see the Tor documentation for more
+information on circuit purpose.) The user can then proceed to build a circuit by appending
+servers individually to the end of the circuit. Alternatively, the user can create a random
+circuit of arbitrary length by clicking the “New Random Circuit” button. The user then
+speciﬁes a name and length n, and MJOLNIR will choose n random servers from the
+available router list and create a new circuit. Currently, all random circuits are made with
+“General” purpose. Modifying the program so that the user can specify the purpose of a
+random circuit only requires a minor change at the library level. However, it is likely that
+creating circuits of certain purposes will cause the program to crash (see below.) Circuits
+can also be created using the coil or ﬂower attacks (see section 7.1, DOS-Style Attacks.)
+(TS / / SI) To append a server to a circuit, the user must ﬁrst select the desired circuit
+by clicking on its name in the circuit list. This causes the chosen circuit to become current,
+which means it is the circuit whose node list is currently displayed. Then the user right—
+clicks on the name of the desired server in the router list and selects “Append to Current
+Circuit.” Any “General” purpose circuit that is open can have a server appended to it.
+(TS / / SI) It should be noted that circuits created with certain purposes cannot have
+servers appended to them, and trying to do so will crash the program. Currently, only
+“General”, “Introducing”, and “Establish Rend” circuits are able to have servers appended
+
+46
+
+TOP SECRET//COMINT//20291123
+

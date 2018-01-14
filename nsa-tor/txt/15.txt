@@ -1,0 +1,54 @@
+TOP SECRET//COMINT//20291123
+
+(TS / / SI) This technique is essentially a wide—scale version of the circuit—tracing tech—
+nique, and is less precise. However, it should be easier to collect this information, as there
+are currently only around 450 publicly known exit servers, and it is easier to watch connec—
+tions from 450 machines to the outside of the Tor cloud than it is to watch all connections
+of all machines, as the circuit—tracing method requires. The hope is that the large amount
+of data we could collect for this method would compensate for its less precise nature.
+
+7.2.2 (S / / SI) Locating known hidden services
+
+(S / / SI) In the case of a hidden service, the most likely scenario is that we know about
+a hidden service and to want to know where (i.e. on what machine) it is located. We
+would use a Tor client and connect to the hidden service in order to set up a circuit. See
+appendix C for a description of hidden service circuits. For a normal hidden service circuit,
+circuit tracing would have to stretch across a circuit containing ﬁve servers, making it too
+complex, and we can not use the Tor black box approach. Things must be done somewhat
+differently.
+
+(TS/ / SI) If we know the rendezvous point (RP), the analysis becomes more man—
+ageable. We can set a preferred RP using the conﬁguration ﬁle of even a basic Tor client.
+This will work for our purposes, but if we do that, then we will be using a normal Tor
+server as a RP, meaning that it will have several connections through it at a given time.
+If we program a custom client to choose an arbitrary RP, perhaps even making the client
+box the RP (see section 8.1), then we can choose a RP outside of the Tor cloud, meaning
+that the only connections through it will be ones related to the hidden service. For this
+attack, assume that we know the RP, as well as the server that it is connected to for this
+circuit.
+
+(S/ / SI) When the client makes a request, it will go to the RP, which will send it
+down another circuit to the hidden service. This gives us a chance to to see what node
+the RP is connected to (call it the ﬁrst node). Then, we check the timing in the same
+manner as in the basic Tor circuit to see to which servers it is connected. We can ignore
+any connections that go outside of the Tor cloud. We now have a list of potential second
+nodes. In a similar fashion, we check the timing of all of these to see to which servers they
+are connected. One of these is the hidden service.
+
+(S / / SI) The hidden service will respond, so we will see data come back up the circuit
+to the RP. This gives us another chance to work with the timing to try and ﬁgure out
+the circuit. It would be easiest to ﬁgure out the second node during this step. One would
+have to see which machines are talking to the ﬁrst node just before it talks to our RP, and
+correlate that list with our possible second nodes from when the request was sent down
+the circuit. The actual second node should be in the intersection of these two lists.
+
+(S / / SI) As with the normal Tor circuit, this will likely give us many potential circuits,
+and need to be iterated several times before the hidden service is located. There are two
+main advantages over the same analysis for a normal Tor circuit. The ﬁrst is that there
+are fewer servers between the RP and the hidden service, meaning that we only need to
+keep track of two possible branches in the circuit, instead of three. The second is that we
+
+15
+
+TOP SECRET//COMINT//20291123
+

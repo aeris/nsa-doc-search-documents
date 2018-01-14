@@ -1,0 +1,51 @@
+TOP SECRET//COMINT//20291123
+
+0 Performing “coil” and “ﬂower” attacks on servers.
+0 Appending “coils” and “ﬂowers” to existing circuits.
+
+0 Sending arbitrary packets through a circuit.
+
+(U//FOUO) See appendix F for detailed information on the Windows version of
+MJOLNIR.
+
+5 (S//SI) Tor’s X.509 certiﬁcates
+
+(8/ / SI) The only part of a normal Tor interaction that does not take place under TLS
+encryption is the TLS handshake, which has to be done in the clear. We chose to focus on
+this traﬁic to see if there was any way to identify Tor traﬁic, since all traﬁic under TLS
+encryption looks the same.
+
+(U) Tor creates two X.509 certiﬁcates shortly after starting up, in the function
+tor_tls_context_new. The ﬁrst certiﬁcate contains a short—term connection key, and
+is signed by the machine’s public RSA key (its identity key). The second is a self—signed
+certiﬁcate containing the identity key.
+
+(U) A typical Tor X.509 certiﬁcate is shown in table 1.
+
+(S//SI) The string “TOR” appears in the organizationName of both the subject
+and issuer portions of the X.509 certiﬁcates. This means that we see this string in the
+clear during the TLS handshake. By also taking advantage of the ASN.1 encoding that
+surrounds the string in the certiﬁcate, we were able to ﬁnd a byte sequence that appears
+in every Tor TLS handshake. This makes collection easy, as we simply look for the byte
+sequence in trafﬁc. See table 2 for the sequences.
+
+5.1 (S//SI) MJOLNIR’S X.509 certiﬁcates
+
+(TS/ / SI) When a Tor server receives a certiﬁcate, it will verify that its peer sent it a
+certiﬁcate with all of the required ﬁelds for X.509 certiﬁcates and that its subject’s com—
+monName ﬁeld exists and is alphanumeric. Tor servers will not reject a certiﬁcate with a
+period in them, but they will generate a log message to the effect that someone who is not
+using Tor is trying to connect to the machine. It does not check that the organizationName
+for either subject or issuer is “TOR,” and it does not check to see that the “<identity>”
+string is ever present. Because of this, MJOLNIR can easily send a certiﬁcate with false
+or random information and still connect to the Tor cloud.
+
+(TS / / SI) To send a falsiﬁed certiﬁcate, MJOLNIR just needs an array of ﬁeld / value
+pairs, where the ﬁeld is the ﬁeld name of the X.509 certiﬁcate (e.g. commonName, 07"—
+gam'zatz'onName, countryCode), and the value is the corresponding value of the ﬁeld (e.g.
+“mjolnir”, “pantheon.se”, “SE”). As long as the ﬁeld/ value pair is valid, MJOLNIR will
+put it into the certiﬁcate, so that anyone watching traﬁic will not immediately realize that
+the traﬁic from a machine using MJOLNIR is Tor traﬁic.
+
+TOP SECRET//COMINT//20291123
+

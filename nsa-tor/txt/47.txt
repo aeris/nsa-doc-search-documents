@@ -1,0 +1,44 @@
+TOP SECRET//COMINT//20291123
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 3: (TS / / SI) Appending a server to a pre—existing circuit.
+
+to them. Once a server is appended to an “Establish Rend” circuit, its purpose becomes
+“Rend Ready” (a one—hop circuit to a rendezvous point) and attempting to append any
+more servers will cause a crash. This will need to be cleaned up as functionality for creating
+rendezvous circuits and accessing hidden services is added.
+
+F.3 (TS/ / SI) DOS-style attacks
+
+(TS / / SI) The GUI provides an interface for performing the coil and ﬂower DoS attacks
+from the MJOLNIR library. In the coil attack, the user chooses two servers to attack and
+the number of coils in the circuit. Each server appears once in the circuit for each coil, so
+the length of the circuit will be twice the number of coils. For the ﬂower attack, the user
+chooses a server to attack and the number of petals, where the number of petals is the
+number of times the selected server will appear in the circuit.
+
+(TS / / SI) For both attacks, the user has the option to create the coil or ﬂower as a
+new circuit or to append it to an existing circuit. However, appending coils or ﬂowers is
+more expensive than creating them as new circuits, and there is a signiﬁcant performance
+hit for appending large coils and ﬂowers to circuits.
+
+F.4 (TS / / SI) Sending arbitrary packets
+
+(TS / / SI) To send a packet through a circuit, the user ﬁrst clicks the “Send Packet” button.
+Then the user selects a circuit to send the message through, and an IP address and port
+number to send the message to. The user has the option of entering the payload of the
+packet in either hex or ASCII. Upon clicking “Send”, the packet is encrypted with the
+appropriate layers of encryption and sent through the circuit. The exit server will then
+send the decrypted packet to the selected IP address and destination port.
+
+47
+
+TOP SECRET//COMINT//20291123
+

@@ -1,0 +1,22 @@
+TOP SECRET//COMINT//20291123
+
+F.5 (U) Future features
+
+a Customizing the certiﬁcates. This feature is currently available in the MJOLNIR
+library, but needs an interface in the GUI.
+
+o Functionality for creating rendezvous circuits and accessing hidden services as it
+becomes available in the library.
+
+F.5.1 (U) Minor changes/bug ﬁxes
+
+a Add a purpose ﬁeld to the “New Random Circuit” dialog box, and deal With issues
+that arise from attempting to create circuits of certain purposes.
+
+0 Address the crashes caused by appending servers to circuits of certain purposes either
+by refusing to allow such an action or ﬁxing it at the library level.
+
+49
+
+TOP SECRET//COMINT//20291123
+

@@ -1,0 +1,49 @@
+TOP SECRET//COMINT//20291123
+
+   
+ 
+  
+
+GE T
+
+  
+
+client server
+
+   
+
+Figure 2: (U / / FOUO) Layers of encryption on a normal GET.
+
+TLS_EDH_RSA_WITH_DES_192_CBCB_SHA
+TLS_DHE_RSA_WITH_AES_128_CBC_SHA (this is preferred)
+
+(U) Once the TLS context is properly initialized, the TLS handshake continues in
+connection_tls_continue_handshake, which calls tor_tls_handsha.ke. This calls
+SSL_connect or SSL_accept, depending on which side of the handshake this is on. As—
+suming there are no errors, the program moves on to connect ion_tls_f ini sh_handsha.ke,
+which validates the handshake and extracts the identity key from the certiﬁcate. If every—
+thing checks out, then the server is considered authenticated and future communications
+will take place under TLS encryption.
+
+B.3.2 (U) Onion skins
+
+(U) After the client picks out its circuit and sets up a connection to the ﬁrst server in the
+circuit, it will send an onion skin to the ﬁrst server. This is held in the payload of either
+a CREATE or a CREATE_FAST cell. What’s the difference? When the client connects
+to the ﬁrst server, it does so using TLS. This means that it has already authenticated the
+ﬁrst server’s identity and negotiated a key. This allows it to send a CREATE_FAST cell,
+which does not require an RSA operation nor a Diﬁie—Hellman operation, since most of
+the necessary information has already been established. Note that a CREATE_FAST cell
+can only be sent between a client and the ﬁrst server in the path, because all other servers
+need to be authenticated, and the client has no TLS connection directly to them. For this
+reason, CREATE cells are sent for all other servers in a circuit.
+
+(U) CREATE_FAST cells are simple. The cell contains only a random X value,
+created using Tor’s crypto_rand function, which calls the OpenSSL function RAND_bytes.
+The client sends this to the ﬁrst server in its circuit. When a server receives a CRE—
+ATE_FAST cell, it extracts the X value and calculates a random Y value using cryptomand.
+
+27
+
+TOP SECRET//COMINT//20291123
+

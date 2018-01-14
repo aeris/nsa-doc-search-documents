@@ -1,0 +1,50 @@
+TOP SECRET//COMINT//20291123
+
+0 Byte sequence found in all Tor X609 certiﬁcates:
+30 xx 31 0C 30 0a 06 03 55 04 0a 13 03 54 4f 52 31 xx 30 xx 06 03 55
+04 03
+
+0 Byte sequence found in X609 certiﬁcates of clients with default settings:
+30 2a 31 0C 30 0a 06 03 55 04 0a 13 03 54 4f 52 31 1a 30 18 06 03 55
+04 03 14 11 63 6C 69 65 6e 74 20 3C 69 64 65 6e 74 69 74 79 3e
+This corresponds roughly to the part of the certiﬁcate that says organization—
+Name=TOR and commonName=client <identity>.
+
+Table 2: (S / / SI) Tor byte sequences
+
+(TS / / SI) If the programmer does not provide MJOLNIR with the subject’s common—
+Name, then it will randomly generate (using OpenSSL’s random byte generator) a legal
+commonName between 10 and 21 bytes long. This ensures that even if the programmer
+
+forgets to give a certiﬁcate to the program, there will be no identifying information in the
+TLS handshake.
+
+6 (U) Tor’s hidden services
+
+(U) Tor allows machines to offer a TCP service without revealing their IP address, using
+the same anonymization techniques as clients connected to the network. Such services
+can only be connected to through the Tor network, and are accessed by special .onion
+addresses resolved by Tor directory servers. This offers several beneﬁts to the operator of
+the service. Such a service can be hosted from behind a ﬁrewall or NAT, and any attackers
+attempting to perform a distributed—denial—of—service attack will be stymied because they
+do not know the machine’s IP address. For details on the hidden service protocols, see
+appendix C.
+
+(S/ / SI) Currently, there are roughly 50 publicly advertised hidden services. This
+number seems low. Given Tor’s rising popularity it seems likely that more than 50 hidden
+services exist. The ability to locate hidden services is important, as only then will we be
+able to police and / or exploit them. Unfortunately, we were not able to ﬁnd any good way to
+discover a new hidden service or to ﬁnd where a known hidden service is hosted. For more
+discussion, see sections 7.2.2, Locating known hidden services and 7.3, Discovering
+unknown hidden services.
+
+7 (U//FOUO) Possible attacks
+
+(TS / / SI) This portion of the paper will be devoted to several possible attacks related to
+Tor. Their application is mostly speculative, as we have not implemented any of them
+except for the MJOLNIR—related attacks, and we have not attempted any of them outside
+
+10
+
+TOP SECRET//COMINT//20291123
+

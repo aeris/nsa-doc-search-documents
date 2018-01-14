@@ -1,0 +1,53 @@
+TOP SECRET//COMINT//20291123
+
+EntryNodes, which is a comma—separated list of server nicknames. Any servers on that
+list will be preferred when choosing an entry node. If the option StrictEntryNodes is true,
+then only servers from that list can be chosen as entry nodes. If the conﬁguration ﬁle can
+be changed to have a client always use a friendly machine for an entry node, then we can
+discover who is using Tor, if not what they are requesting.
+
+D.2 (U) Second node
+
+(U) The second node has the least information of any node in the circuit. It does not know
+who or where the client is, nor does it know what or where the client is connecting to. It
+does know:
+
+0 The location of the machine connected to it.
+
+o Cryptovariables used for communication with the client, which allow it to perform
+one layer of encryption / decryption on cells to / from the client.
+
+0 The ID of the circuit from which the ﬁrst node is sending information. This is
+p_circ_z'd in the second node’s circuit_t structure, and should be equal to n_circ_z'd
+in the ﬁrst node’s circuit_t structure.
+
+0 The location of the third node in the circuit.
+
+a The ID of the circuit on which it sends information to the third node. This is n_circ_z'd
+in the second node’s circuit_t structure, and will be different from p_cz'rc_z'd.
+
+o gy in the Diﬁie—Hellman handshake between the client and the third node, and K H.
+
+(S / / SI) A machine cannot deﬁnitely know that it is the second node in a circuit. If
+it receives a CREATE cell followed by an EXTEND cell on the same circuit, then there
+is a good chance it is the second node. However, this same pattern is possible for the ﬁrst
+node. Because ﬁrst nodes often see CREATE_FAST cells instead of CREATE cells, it is
+more likely that if a machine sees such a pattern, it is the second node.
+
+(TS / / SI) It is not possible to induce a client to pick our machine as a second node.
+The second node is chosen using router_choose_random_node, with no list of preferred
+nodes passed to it. The only possible way is to edit the client’s conﬁguration ﬁle so
+that their list of excluded servers excludes all boxes except friendly ones, but that seems
+unrealistic, since that would probably entail listing hundreds of server nicknames in their
+conﬁguration ﬁle.
+
+D.3 (U) Third node
+
+(U) The third node is the exit node for a basic Tor circuit. This means that it sees request
+that the client makes in the clear, which is useful information. The downside is that the
+third node has no idea who or where the client is. The exit node knows:
+
+32
+
+TOP SECRET//COMINT//20291123
+

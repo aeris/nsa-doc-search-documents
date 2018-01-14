@@ -1,0 +1,51 @@
+TOP SECRET//COMINT//20291123
+
+of functions that will append another server to a given circuit. There is also a function
+that will return a random circuit of a given length, which is provided both in order to
+retain some of Tor’s original functionality and to ease the process of constructing a circuit.
+MJOLNIR is designed to provide as much ﬂexibility as possible, providing the programmer
+with a wide array of options for building and extending circuits.
+
+(TS//SI) In an effort to provide a robust suite of functions, MJOLNIR provides
+error—checking at many different levels of circuit construction. Tor servers will fail when
+asked to connect to themselves, but that error will not become apparent until data is
+sent across the circuit. To avoid this problem, MJOLNIR will watch what servers are
+added to the circuit, and it will refuse to add a server if it is currently at the end of the
+circuit. In this case, the circuit is not destroyed, but there is at least one situation in
+which attempting to add a circuit will result in the destruction of the entire circuit. If the
+program attempts to connect to a server that has gone down since being added, then the
+circuit will be destroyed. This is initiated by the end of the circuit rather than the client,
+so we have no control over it. The calling program should always check return values to
+ensure that circuit constructions and extensions were successful.
+
+4.2 (U//FOUO) Sending and receiving data
+
+(TS / / SI) MJOLNIR would not be useful if it could not communicate with other computers.
+Fortunately, Tor makes it easy for MJOLNIR to send and receive data without relying on
+an outside program. To send data, MJOLNIR must have three things: a message, a
+destination, and a circuit across which to send the message. Presumably, the ﬁrst two
+are application dependent, while the circuit is easy enough to build using MJOLNIR’s
+functions. Once a circuit is built and a message is ready to be sent, the programmer needs
+to call send_payload_down_circ with the correct arguments, and the message should get
+to the destination. Each new payload creates a new application proxy (AP) connection,
+which is only used internally. Normally, outside applications (e.g. a web browser) send
+their messages across Tor using AP connections. Instead of creating AP connections when
+it gets a request from another program, MJOLNIR creates an AP connection when it has
+something to send across a circuit.
+
+(TS / / SI) Before the message is sent, MJOLNIR sets up libevent events so that it can
+successfully read and write across that connection. It uses the write event immediately
+when it sends a payload. It must still listen for a response before returning control to the
+calling program. In order to provide a reasonable amount of time to receive a response,
+MJOLNIR uses a timeout scheme modeled on TCP timeouts. If MJOLNIR does not
+receive a response before the timeout runs down, then it will shut down the connections
+it is waiting on and return to the calling program.
+
+(TS / / SI) Theoretically, there should be a way to shut down connections more ele—
+gantly than using timeouts. For example, consider if MJOLNIR shut down a connection
+when it received a cell that was less than the maximum length. Initially, this seems like a
+good idea because Tor servers should minimize the number of packets they send by send—
+ing maximal—length payloads whenever possible. However, upon inspection of the packets,
+
+TOP SECRET//COMINT//20291123
+

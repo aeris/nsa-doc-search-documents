@@ -1,0 +1,65 @@
+TOP SECRET//COMINT//20291123
+
+— Arguments:
+
+1. payload: the custom payload, e.g. an HTTP GET request.
+
+2. payloadJen: length of the payload.
+
+3. ip_addr: the IP address of the ultimate destination in IPv4 form: 192.168.1.1
+(as a string).
+
+4. port: the destination port.
+
+9"
+
+circ: the circuit across which to send this packet.
+
+6. force: if true, the function will always try to send a payload. If false, it will
+check that the address is reachable with the current exit, and if it is not, it
+will not send a payload.
+
+— Return Value: Return 0 on success; negative values on failure. If it refuses
+to send a packet because it was not forced, it returns failure.
+
+— Notes: It is up to the calling program to check that both the payload and
+IP addresszport are valid before calling this function. The payloadfeadﬁandler
+must be set before this call is made.
+
+Warning: This call will block program execution until it times out or receives
+a response.
+
+0 (TS/ / SI) payloadfeadjiandler (function pointer):
+void * (*payload_read_handler) (const char *, int)
+
+— Description: Function pointer to a user—deﬁned function that gets called
+when the client receives a payload in response to its request.
+
+— Arguments:
+
+1. const char *2 the payload that the client receives in response to its re—
+quest (what the calling program actually wants to read).
+
+2. int: length of the payload.
+
+— Return Value: Must return a void *, so the return value can be anything
+the programmer wants.
+
+— Notes: These functions should be deﬁned by the user. To set this variable, call
+
+set_payload_read_handler (handler). Example functions (print _payload
+and domothing) are given in torm. c.
+(TS / / SI) Timeouts. MJOLNIR times out if it does not receive a response in a
+certain amount of time. On the test LAN, we have it set to .1 s, which is more
+than enough time. However, due to the slow nature of the Tor cloud, it may be
+necessary to change the value of the initial timeout estimate. Our timeout fol—
+lows the TCP—style timeout rules, so once it has started receiving cells, it should
+adjust the timeout on its own. The constants that may need adjusting are in
+timeout . c. In particular, look at INITIAL_EST_SEC and INITIAL_EST_USEC for
+the number of seconds and microseconds, respectively, before it times out. See
+the discussion in the section on sending and receiving data.
+
+40
+
+TOP SECRET//COMINT//20291123
+

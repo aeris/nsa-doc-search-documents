@@ -1,0 +1,52 @@
+TOP SECRET//COMINT//20291123
+
+traﬁic will always route through friendly servers. There may be other ways of exploiting
+the control port, including going so far as to modify the target’s list of trusted directory
+servers. This might send the target client to a directory server in which all of the servers
+are friendly.
+
+8.4 (TS / / SI) Directory server exploitation
+
+(TS / / SI) It may also be useful to study Tor directory servers in more detail. Our work
+focused solely on the client, but many attacks would be much easier with access to more
+Tor servers. The directory servers ultimately control which Tor servers are used by clients.
+We have found that a server can put itself on a directory server multiple times; all it takes
+is the server running several Tor processes, each having a different nickname, open port,
+ﬁngerprint, and log ﬁle. This only requires different conﬁguration ﬁles for the different
+processes, which are easy to set up. That machine will handle a disproportionate amount
+of traﬁic, since it is listed several times. This increases the density of friendly servers in
+the cloud without increasing the number of servers we have set up. Unfortunately, each
+listing has the same IP address, which would be very noticeable to anyone who inspecting
+the directories.
+
+(TS//SI) A more useful attack would be to fool Tor clients into believing that a
+friendly box is actually someone else. This could potentially be accomplished by getting
+the directory servers to list the friendly box as the other machine. That may allow us
+to see more information than the target wants us to see. For example, if we know that
+a certain target has a list of preferred entry guards and exit servers, and if we can list
+our machines as those servers, then the target (or second node, respectively) will be very
+likely to send traﬁic through our machines, making it easier to correlate the traﬁic and
+determine what the target is requesting and / or where the target is.
+
+(TS / / SI) There may be many other applications of this type of attack, and for this
+reason, directory server exploitation should be looked into.
+
+9 (U) Acknowledgments
+
+(U//FOUO) We would like to thank the CES Summer Program for giving us the oppor—
+tunity to work on this problem. We would also like to the our mentor, ﬁfor his
+guidance and help with this problem. Also thanks to the CES Summer Program direc—
+torsl and the other students in the program. Their
+questions and ideas provided us with several ideas for areas of study.
+
+ 
+
+10 (U) References
+
+1. Dingledine, Roger. “TO: A Tor control protocol.” <http://tor.eff.org/cvs/tor/doc/
+control—spec.txt>. Accessed 2006—03—10.
+
+19
+
+TOP SECRET//COMINT//20291123
+

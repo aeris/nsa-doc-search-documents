@@ -1,0 +1,55 @@
+TOP SECRET//COMINT//20291123
+
+onion_extend_cpath, choose_good_entry_server is called to select the ﬁrst node in the
+circuit. This takes the entire list of available servers, gets rid of those unsuitable (already
+chosen as the exit, listening on wrong port, etc.), and from the remainder, chooses a
+random node using router_choose_random_node.
+
+(U) For the middle hop, choose_good_middle_server is called. Essentially, this is
+the same routine as choose_good_entry_server except that it also excludes from the list
+of possible routers those that have already been chosen as other hops in the circuit.
+
+(U) For each hop along the circuit, once a good router is chosen, the choice is re—
+turned to the calling function. The router is then appended onto the circuit by call—
+ing onion_append_hop. This function ﬁrst calls onion_append_to_cpath which adds this
+router to the list of routers in the circuit. How does the program keep track of this list?
+One of the elements of the circuit_t structure is cpath, which is actually a pointer to a
+crypt_path_t structure. All of the information necessary to connect to each router, in—
+cluding the IP address and cryptovariables between the two machines, can be found in this
+structure, as well as a few simple bandwidth accounting ﬁelds. cpath points to the ﬁrst
+router in the circuit, but it also maintains next and prev members in the crypt_path_t
+structure, which, unsurprisingly, point to the next and previous routers in the circuit,
+respectively. It is important to note that not only is this a doubly linked list, but it is also
+circular.
+
+(U) After all three routers in the circuit have been chosen and appended to the
+circuit, the program returns all the way back to circuit_establish_circuit and moves
+on to the next important step, establishing connections to all of the routers.
+
+B.1.1 (U) Choosing a server
+
+(U) Most of the time, router_choose_random_node is called to choose which server will be
+used. Despite its name, the choice is not exactly random, and the function is passed several
+parameters to help with its decision. The most important arguments would be the list of
+preferred servers, and the lists of excluded servers. For some reason, two lists of excluded
+servers are passed: a character string containing server nicknames, and a smartlist_t
+structure see below containing server information. The lists do not necessarily overlap.
+Several ﬂags indicating user preferences regarding server capacity, uptime, and the like are
+also passed. One of the arguments, strict, is set if the user will only accept a choice from
+their list of preferred servers.
+
+(U) The function begins by creating a smartlist of the preferred servers, from which
+it removes any excluded servers. It will then call smartlist_choose to select a random
+element of that list.
+
+(TS//SI) smartlist_choose is a very simple function. In Tor, the smartlist_t
+structure is essentially a resizable array, and several functions are provided to manage
+them. (See appendix E, MJOLNIR API for more on smartlists.) smartlist_choose
+generates a random index and returns the element of the smartlist with that index. The
+random index is generated using the OpenSSL RAND_bytes function. Care is taken to
+avoid bias in the random numbers, by making sure that the maximum value returned by
+
+23
+
+TOP SECRET//COMINT//20291123
+

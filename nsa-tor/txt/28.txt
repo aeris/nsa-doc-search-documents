@@ -1,0 +1,50 @@
+TOP SECRET//COMINT//20291123
+
+It sends the Y value back in a CREATED_FAST cell, along with a SHA—l hash based on
+X |Y, where | denotes concatenation. X |Y is the shared secret and will be used to generate
+the keys between the two machines. When the client receives the CREATED_FAST cell, it
+will perform the same hash based on X |Y that the ﬁrst server should have and compare it
+to the value in the cell. If the two values agree, then the keys for communication between
+the two machines are set up. (see Keys, below.)
+
+(U) An onion skin in a CREATE cell is more complex. The ﬁrst 42 bytes are OAEP
+padding, the next 16 bytes are a symmetric key. This is done using OpenSSL calls. The
+last 128 bytes of payload are the 9”” value for a Diﬁie—Hellman handshake. The ﬁrst 128
+bytes of this cell (which goes up to about halfway through the 9”” value) are encrypted
+using the second server’s public RSA key. The rest of the cell is encrypted with AES in
+counter mode, using the symmetric key from the ﬁrst half of the cell.
+
+(U) When a server receives a CREATE cell, it extracts gm, generates a random 93’,
+computes the shared secret 9963’, and sends back a CREATED cell containing gy as well as
+a SHA—l hash based on 9963’. If a machine other than the client gets a CREATED cell (e.g.
+the ﬁrst hop receives a CREATED cell from the second hop), it puts the information in
+an EXTENDED cell, and sends it to the client. When the client gets a CREATED cell or
+an EXTENDED cell, it calculates gmy and checks that the accompanying hash is correct.
+The client uses gmy to set up the keys that will be used when it communicates with that
+node. Note that this key exchange required expensive RSA and Diﬁie—Hellman operations,
+in contrast to the simple random number generation of the CREATE_FAST exchange.
+
+(U) Keys (U) When a CREATED or CREATED_FAST cell is received, the function
+circuit_finish_handshake is called. It will extract the shared secret and use it to create
+keys for communication. Recall that for a CREATED cell the shared secret is 9963’, and for
+a CREATED_FAST cell the shared secret is X |Y. Denote the shared secret as K 0.
+
+(U) Regardless of which type of cell is received, the function
+crypto_expand_key_material is passed the shared secret. It does a series of hashes to get
+K = H (K0|[00])|H (K0|[01])|H (K0|[02])| ..., where | denotes concatenation. This should
+not include more than 5 hashes (each hash is 20 bytes long). Any extra bytes are ignored.
+
+(U) The ﬁrst 20 bytes of K form K H, the handshake digest. This is used to make
+sure the other node’s handshake checks out. The next 20 bytes become D f, the forward
+digest, and the next 20 bytes become Db, the backward digest. These digests are used for
+integrity—checking purposes. They seed a hash that is used by machines to to determine
+whether or not a cell has been decrypted all the way or not. D f is used for client to server
+streams, and Db is used for server to client streams. The next 16 bytes of K become K f,
+and the next 16 bytes of K become Kb. K f and Kb are the keys used to encrypt and
+decrypt the streams of data between the two machines. K f is used for client to server
+streams, and Kb is used for server to client streams. All other bytes are discarded.
+
+28
+
+TOP SECRET//COMINT//20291123
+

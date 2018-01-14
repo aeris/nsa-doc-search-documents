@@ -1,0 +1,53 @@
+TOP SECRET//COMINT//20291123
+
+A (U//FOUO) Tor glossary
+
+Cell: Tor’s basic building block of communication. Any message either sent to or from a
+client or server will communicate in cells, each of which is a ﬁxed length (currently
+512 bytes); any message longer than this is broken up into multiple cells.
+
+Circuit: a series of Tor servers that transfer data for a client to a destination. Each server
+in the circuit has its own level of encryption so that no server can read the message
+except the last one.
+
+Directory: the collection of information about servers that are available for use as Tor
+nodes.
+
+Directory server: a server that keeps the directory information. These can be either
+trusted (hard—coded into the client or speciﬁed in the conﬁguration ﬁle), or mirrored
+on normal Tor servers.
+
+Entry Guard: a client or server can specify servers that it wants as its ﬁrst node in its
+circuits. These are entry guards.
+
+Exit Server: the last server in a circuit. Clients can specify preferred exit servers.
+
+Hidden Service: A service hosted anonymously using Tor. The IP of said service need
+not be revealed to anyone accessing it. For more details, see appendix C.
+
+Server / Router / Hop / Node: a computer running Tor that is connected to the Tor cloud.
+Servers have nicknames and should be known from the directory.
+
+Tor Cloud: the set of servers running Tor. When a client or server builds a circuit, it is
+connecting to the Tor cloud.
+
+B (U) Programming details
+
+B.1 (U) Building circuits
+
+(U) The most important structure in Tor is the circuit, that is, the list of machines that
+a client will send its traﬁic through. Information regarding this circuit is maintained in
+the circuit_t structure. This structure stores information regarding the connections and
+encryption used by the machine when sending information along the circuit. For the client,
+it also contains a list of the servers along the path and the encryption information to use
+with each server.
+
+(U) When a user wants to build a circuit, most of the work happens in the func—
+tion circuit_establish_circuit. It is passed ﬁve parameters: purpose, need_capacity,
+need_uptime, internal, and a pointer to info. These parameters contain information used to
+determine several aspects of the circuit that is ultimately built. In particular, info contains
+
+21
+
+TOP SECRET//COMINT//20291123
+

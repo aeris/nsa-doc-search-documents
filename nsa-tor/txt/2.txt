@@ -1,0 +1,130 @@
+TOP SECRET//COMINT//20291123
+
+8 (U) Future areas of study
+
+8.1
+8.2
+8.3
+8.4
+
+(U / / FOUO) Expanding MJOLNIR’s functionality ..............
+(U) Privoxy ...................................
+(U) Tor remote control .............................
+(TS / / SI) Directory server exploitation ....................
+
+9 (U) Acknowledgments
+
+10 (U) References
+
+A (U//FOUO) Tor glossary
+
+B
+
+(U) Programming details
+
+B.1
+
+B2
+B3
+
+(U) Building circuits ..............................
+
+311 (U) Choosing a server .........................
+
+(U) Connecting the circuit ...........................
+(U) Encryption .................................
+
+B.3.1 (U)TLS encryption ...........................
+332 (U) Onion skins .............................
+
+(U) Hidden services
+
+C1
+C2
+
+(U) Offering a hidden service ..........................
+(U) Accessing a hidden service .........................
+
+(U) Information at the nodes
+
+D.1 (U) First node ..................................
+D.2 (U) Second node ................................
+D.3 (U) Third node .................................
+D.4 (U) Hidden service nodes ............................
+
+D.4.1 (U) Introduction points .........................
+D.4.2 (U) Rendezvous points .........................
+
+(U//FOUO) MJOLNIR API
+
+E1
+E2
+E3
+E4
+E5
+
+(U) Initialization ................................
+(S / / SI) Circuit building ............................
+(U / / FOUO) Sending and receiving data ...................
+(S / / SI) Smartlists and certiﬁcate masking ..................
+(TS / / SI) DoS—style attacks ...........................
+
+(U//FOUO) MJOLNIR for Windows
+
+F1
+F2
+F3
+F4
+
+(U) Interface ..................................
+(S / / SI) Creating new circuits .........................
+(TS / / SI) DoS—style attacks ...........................
+(TS / / SI) Sending arbitrary packets ......................
+
+TOP SECRET//COMINT//20291123
+
+17
+18
+18
+18
+19
+
+19
+
+19
+
+21
+
+21
+21
+23
+24
+26
+26
+27
+
+29
+29
+29
+
+30
+31
+32
+32
+33
+33
+34
+
+35
+35
+37
+39
+42
+44
+
+46
+46
+46
+47
+47
+

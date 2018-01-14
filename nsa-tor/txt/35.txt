@@ -1,0 +1,53 @@
+TOP SECRET//COMINT//20291123
+
+(S / / SI) Clients can be induced to choose a particular machine as a rendezvous point
+by changing the ﬁeld RendNodes in their conﬁguration ﬁle. If this ﬁeld is empty, the
+RP will be chosen using router_choose_random_node. Hidden services will connect to
+whatever rendezvous point the client tells them to, even if that node is normally on their
+list of excluded nodes, assuming that it decides to communicate with the client.
+
+E (U//FOUO) MJOLNIR API
+
+(U//FOUO) MJOLNIR attempts to make accessing Tor functionality simple. Below is an
+API describing the most useful functions of MJOLNIR, arranged by topic.
+
+E.1 (U) Initialization
+0 (U) int tor_init (void)
+
+— Description: This is the main entry point for the Tor client. It must be
+called before any Tor services are used.
+
+— Arguments: None.
+
+— Return Value: Return 0 on success; return a negative value on failure.
+
+— Notes: This must be called before any other Tor functions are used. It can
+be called multiple times without issue.
+
+0 (TS//SI) int init_keys (const smartlist_t *subject, const smartlistJ: *issuer)
+
+— Description: In addition to important crypto initialization, init_keys gen—
+erates X609 certiﬁcates (through internal functions), which the program will
+use to communicate with the Tor cloud.
+
+— Arguments: The subject and issuer smartlists. See the documentation in
+the section on smartlists and certiﬁcates.
+
+— Return Value: Return 0 on success and negative values on failure.
+
+— Notes: This function must be called in order for the Tor client to have speciﬁc
+certiﬁcates. If no commonName ﬁeld—value pair is passed in, it will generate
+a random commonName (10—20 characters long). See the documentation for
+subject and issuer smartlists.
+
+o (TS//SI) routerstatus_t *set_chosen_dirserver (const char *nickname, int
+fascistfirewall)
+
+— Description: Call this with the nickname of any directory server, and then
+whenever MJOLNIR needs to fetch something, it will use that directory.
+
+— Arguments:
+
+35
+TOP SECRET//COMINT//20291123
+

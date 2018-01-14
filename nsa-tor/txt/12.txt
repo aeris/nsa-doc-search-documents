@@ -1,0 +1,50 @@
+TOP SECRET//COMINT//20291123
+
+Tor’s logs do not store IP addresses, so the information would have to come from elsewhere.
+Even given the necessary IP information, the system administrator will see only the other
+target sending and receiving large quantities of information. Without further investigation
+and some creative thinking, it is highly likely that the system administrator will assume
+our other target is actually launching the DoS attack. We can leverage the anonymity
+provided by Tor to protect ourselves from easy detection by simply appending this coil
+onto the end of a circuit.
+
+7.1.2 (TS//SI) Flower attack
+
+(TS / / SI) Our second implemented technique for achieving a DoS attack is what we call the
+“ﬂower” attack, and it targets only one server. In this attack, MJOLNIR builds a circuit
+to a random server, then to the target, then another random one, then the target, and so
+on for a speciﬁed number of “petals.” When we set up a ﬂower with 71,, petals, the circuit
+will actually be composed of 2% servers. The ﬂower attack distributes most of the load
+amongst the machines of the Tor cloud, so at most the target server will suspect that it is
+being attacked. But even if the target knows about an attack, it will have to assume that
+someone is trying a distributed denial—of—service attack. While the system administrator
+will likely recognize that his attacker(s) are leveraging Tor, Tor’s strong anonymity will
+leave him with few options. He will be forced to accept it or reduce/eliminate Tor usage
+of his machine.
+
+(TS / / SI) Perhaps the most serious ﬂaw with the ﬂower attack is that administrators
+on the petals might notice that their Tor traﬂic is coming from and going to the same
+server, a violation of Tor’s protocol which clearly requires a custom client. However, the
+petals still would not have enough information to know where the request originated, and
+any attempt to discover this would necessarily break the anonymity of Tor. In order to get
+around this, we could build a petal with two servers between the instances of the target
+server. In this way, no server realizes that it is taking part in an attack.
+
+7.2 (U//FOUO) Traﬂic analysis
+
+(S / / SI) Is there a way to undo the anonymity that Tor provides? It does not appear that
+Tor leaks any signiﬁcant information about the client to anyone other than the client.
+However, it is still possible to analyze the pattern of traﬂic in and out of the Tor cloud to
+try to determine which clients are responsible for which requests. Tor does not make such
+an attack (here referred to as a correlation attack) easy.
+
+7.2.1 (U) A basic Tor circuit
+
+(U) The most common activity in Tor is carried out across circuits 3 nodes long. A client
+connects to a ﬁrst server, which connects to a second server, which connects to a third
+server, which connects to the desired web page or other service.
+
+12
+
+TOP SECRET//COMINT//20291123
+

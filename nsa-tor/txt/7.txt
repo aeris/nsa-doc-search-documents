@@ -1,0 +1,39 @@
+TOP SECRET//COMINT//20291123
+
+ 
+
+ 
+
+Figure 1: (TS / / SI) The basic GUI window showing (clockwise from top left)
+circuits, available servers, and circuit contents.
+
+servers do not always send maximal—length cells, so this method does not work. Also, as
+far as Tor is concerned, there is no difference between a cell at the beginning of a message
+and a cell at the end, so there is no easy way to know that a message is complete without
+parsing the payload.
+
+(TS / / SI) Once MJOLNIR receives a cell, it calls a user—set function,
+payload_read_handler. This is a pointer to a function that takes a string (the pay—
+load) and its length. Unfortunately, due to the problems described above, there is no way
+to handle an entire response if it comes in more than one cell; each cell is handled individ—
+ually. However, by setting this variable (see the API in the appendix), the calling program
+can do any operation on the incoming cells, thereby parsing out any necessary data. The
+ﬂexibility afforded by this arrangement is largely what makes MJOLNIR’S communication
+capabilities so useful.
+
+4.3 (U//FOUO) MJOLNIR GUI for Windows
+
+(TS//SI) In addition to porting the MJOLNIR library to Windows in a dynamic link
+library (DLL), we created a graphical user interface (GUI) to implement a custom Tor
+client for Windows.
+
+(TS/ / SI) In its current state, the Windows version of MJOLNIR has the following
+capabilities:
+
+0 Creating new circuits.
+0 Appending a node to an already existing circuit.
+
+0 Creating random circuits of arbitrary length.
+
+TOP SECRET//COMINT//20291123
+

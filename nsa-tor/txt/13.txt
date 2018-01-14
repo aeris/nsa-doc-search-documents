@@ -1,0 +1,54 @@
+TOP SECRET//COMINT//20291123
+
+(TS//SI) For this scenario, we are most interested in tracing a request back to the
+client, assuming that we see an exit node connect to something we deem interesting. The
+worst (and most likely) case is that we will not own any of the servers along the way.
+There are two types of potential correlation attacks, although both are complex.
+
+(S / / SI) First method: circuit tracing This method requires data on all of the
+connections for each server in the attacked circuit. While currently unrealistic in general,
+this is a potentially powerful attack. A small, private Tor network, for example, could
+possibly be completely compromised by this technique.
+
+(U//FOUO) We also need to have a good idea of how long it takes to send data
+across the network to another machine. This comes with the usual caveats that network
+congestion, distance between links, and packet size affect transmission time. Although in
+theory Tor packets are all the same size owing to the ﬁxed cell size, in practice we see
+different packet sizes, as two or more cells sometimes get sent in the same packet. Despite
+this, we should have a good idea of the network latency. Actual processing time devoted
+to the cells is minimal, and can be ignored.
+
+(S//SI) We begin by focusing on an exit node making a connection to material of
+interest. At this point, we must keep track of all of the connections that node has up.
+When the exit node receives data, it will send it back down the circuit that requested
+it. Thus data comes in to the exit node, and then the node will send out data over the
+appropriate connection.
+
+(S / / SI) Unfortunately, the exit node will almost certainly be sending data out over
+several connections. We must keep track of all of them. Let the network latency be 1:
+seconds. When we see data get sent to the exit node, we only need to pay attention to
+the outgoing connections that send out data roughly 1: seconds later. We must take into
+account some error in our timing, to allow for differences in latency owing to differences
+in network conditions. We then make a list of all of the nodes in the Tor cloud that the
+exit server sends data to. These are all potential second nodes.
+
+(S//SI) The above process must be recursively performed on the list of potential
+second nodes. Hopefully this number of nodes will not be prohibitive, but we have no
+hard data about how many nodes a given machine in the Tor cloud is simultaneously
+connected and actively sending data to. Again, we will use the timing to determine which
+connections are of interest. This is made slightly easier by the fact that no node will appear
+twice in a circuit, meaning that we can ignore any outgoing connections from our possible
+second nodes to our exit server. We can also ignore any connections made to machines
+outside of the Tor cloud (i.e. clients) because the second server should only be talking to
+other Tor servers. Now we have an even larger list of nodes to look at, and these are our
+possible entry servers.
+
+(S / / SI) Finally, we look at the outgoing connections from the entry servers that are
+sending out information roughly 1: seconds after the possible second nodes. This is made
+easier by the fact that we are really only interested in connections into the Tor cloud from
+outside of the Tor cloud, so we can ignore any connections made to other Tor servers. So
+
+13
+
+TOP SECRET//COMINT//20291123
+

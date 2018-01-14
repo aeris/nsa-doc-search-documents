@@ -1,0 +1,54 @@
+TOP SECRET//COMINT//20291123
+
+RAND_bytes is a multiple of the size of the smartlist. For example, suppose the size of
+the array is 10 and RAND_bytes could return any value up to 25. Then when computing a
+random index for the smartlist, the function would generate a value less than 25 and take
+it mod 10. Because 25 is not a multiple of 10, the numbers 0, 1, 2, 3, and 4 would occur
+more often than 5, 6, 7, 8, and 9.
+
+(U) If for some reason no preferred server is chosen (for instance, no preferred servers
+were speciﬁed), two things can happen. If strict is set, the function returns NULL, indicat—
+ing failure. Otherwise, the program continues by attempting to ﬁnd servers that meet the
+preferences indicated by the ﬂags. This is done by creating a smartlist containing all run—
+ning routers that meet the preferences, which is passed to smartlist _choose. The only ex—
+ception is if the parameter need_capacity is set, in which case
+routerlist_sl_choose_by_bandwidth is called, which makes its random choice slightly
+differently.
+
+(U) routerlist_sl_choose_by_bandwidth works differently than smartlist _choose.
+For the given list of servers, it adds up all of the bandwidths. At the same time, it creates
+a separate smartlist of each server’s bandwidth. For example if the ﬁrst three servers can
+handle 200 bytes / s, 450 bytes / s, and 1000 bytes / s respectively, then the smartlist will have
+entries 200, 450, and 1000. Then, a random number between 0 and the total bandwidth
+is selected (using the same OpenSSL function as in smartlist_choose). It steps through
+the smartlist of bandwidths, summing the bandwidths, and chooses the ﬁrst server where
+the bandwidth sum is greater than the random number. Again returning to the example,
+if the random number was 412, the second server would be chosen, because 200 + 450 =
+650, and 650 > 412. If the number was 70, the ﬁrst server would be chosen. We see that
+higher bandwidth servers are more likely to be chosen than lower bandwidth servers, as
+one would expect.
+
+(U) If the function is still unsuccessful in ﬁnding an acceptable server, the program
+tries one more time to ﬁnd a next hop, this time without setting any preferences. This is
+the last resort; if no server can be found, then the function returns NULL and the circuit
+fails.
+
+B.2 (U) Connecting the circuit
+
+(U) Recall that a client records all of the servers in its circuit using the crypt_path_t
+structure. Once it has decided upon a complete circuit, the client must now connect the
+servers in the circuit so they can send information back and forth. In Tor, the connec-
+tion_t structure holds the information needed to set up such a connection, such as the
+IP address of the node it connects to, the port it should connect on, and a lot of other
+information. A connection is speciﬁed by an id number. Connections and circuits are
+related in complex ways. A single connection may be part of several different circuits, and
+each circuit_t structure holds information on a previous and next connection (p_conn and
+n_conn, respectively).
+
+(U) After all the servers that will make up the circuit have been determined,
+circuit_establish_circuit calls circuit_handle_first_hop. First, this function re—
+
+24
+
+TOP SECRET//COMINT//20291123
+

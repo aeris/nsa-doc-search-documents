@@ -1,0 +1,54 @@
+TOP SECRET//COMINT//20291123
+
+can ask the hidden service to connect to the RP as many times as we want, whenever we
+want. This allows us to perform the correlation over and over again, albeit with different
+circuits each time. The more data we have, the more likely we are to locate the hidden
+service.
+
+(S / / SI) We know that the hidden service will never build a circuit to the RP that
+contains the hidden service machine, although it can be its own RP. Thus, whatever
+machine the hidden service is on will never be the machine that connects to the RP. Every
+time we ask the hidden service to build a circuit to the RP, we keep track of which machines
+are connecting to the RP. Eventually there will be a sizable list of machines that cannot be
+the hidden service. It is doubtful that we will narrow it all the way down to the machine
+on which the hidden service is located, but it will help us prune the possible branches from
+possible second nodes.
+
+(S / / SI) The hidden service may have a list of nodes that it will never use in a circuit
+(under ExcludeNodes in the conﬁguration ﬁle); these will never show up as the machine
+that connects to the RP. It will, however, use a server listed under ExcludeNodes as an RP.
+Also, the hidden service may have set up one or more entry guards for its circuits, meaning
+that the ﬁrst node from the hidden service (the second node in the above example) will
+always be one of those routers. If it has only set up one entry guard, that machine will
+also never be the one that connects to the rendezvous point. This is unlikely, because most
+of the time one sets up multiple entry guards. A ﬁxed ﬁrst node effectively shortens your
+circuit by one hop. So this analysis may turn up the hidden service’s excluded nodes and
+entry guards even if it does not locate the hidden service.
+
+7.3 (S / / SI) Discovering unknown hidden services
+
+(S / / SI) We did not discover any method to detect previously unknown hidden services.
+If a hidden service is being offered on a machine that is also a Tor server, there may be
+some noticeable difference between its traﬁic and that of a typical Tor server. However, a
+hidden service may be offered on a machine outside of the Tor cloud.
+
+(8/ / SI) In our time in the lab, we found that running an nmap on a node that is
+offering a hidden service will turn up the port that the hidden service is using to deal with
+incoming connections. It can then be directly connected to, outside of Tor.
+
+(TS / / SI) There are several issues with this. We must already suspect the machine
+of housing a hidden service to decide to do the nmap, or alternately, nmap several servers
+in the hopes of turning up a hidden service. Then, the machine running the hidden service
+will likely have several ports open, and there is no way to tell which port is offering a
+hidden service just by looking at the list of open ports. A hidden service may even be
+offered on a well—known port such as port 80. We would have to try to connect to each of
+the ports we see open on a machine to determine if there is a hidden service being run. We
+would not even know which protocol the hidden service is running. It may be an HTTP
+server, an FTP server, an SMTP server, etc. The only thing we know is that the protocol
+must run over TCP. It is not enough to attempt to connect once to each port, using an
+HTTP GET request. Several protocols must be tried.
+
+16
+
+TOP SECRET//COMINT//20291123
+

@@ -1,0 +1,52 @@
+TOP SECRET//COMINT//20291123
+
+ing to the second server. If there is already an existing connection between the two
+servers, that connection will be used for communication along this circuit. If not, then
+connection_or_connect is called to open a connection between the two; see above. Once a
+connection is open, the ﬁrst server packages the cryptovariable information for the second
+hop in a CREATE cell and sends it to the second server. Upon receiving a CREATED
+cell from the second hop, the ﬁrst server packages the necessary information into an EX—
+TENDED cell, which it sends back to the client.
+
+(U) This whole process is repeated one more time, as the client sends an encrypted
+EXTEND cell through the ﬁrst server to the second server, which will send a corresponding
+CREATE cell to the third server. Again, an EXTENDED cell gets sent back to the client
+after the third server sends back a CREATED cell. Once the client has ﬁnished setting up
+the cryptovariables between itself and the third server, all of the connections in the circuit
+have been made, and it is considered open. Any applications waiting to send packets
+through Tor are notiﬁed that there is a new circuit available to use.
+
+B.3 (U) Encryption
+
+(U) Tor packets are sent under several layers of encryption. Each connection between two
+machines is under TLS encryption. Additionally, each Tor payload is encrypted by the
+client once for each hop in the circuit, using a symmetric cipher.
+
+(U) In Tor, all information to set up the symmetric cipher between the client and
+the servers in the circuit is sent in what is known as an “onion skin”. In a basic Tor
+circuit, three onion skins are sent from the client, one for each server in the circuit. Each
+server reads its onion skin, sets up its cryptovariables, and sends back information to the
+client to allow the two machines to share cryptovariables. In this way, the client gets the
+necessary information to put its data under one layer of encryption for each server in the
+circuit. All cells across a typical Tor circuit will be under three layers of encryption when
+it is sent, and each server will strip off one layer. See ﬁgure B.3 for a visual representation
+of this process. It is these layers of encryption that give Tor its designation as an “Onion
+Routing Network”. The last server in the circuit will have the cell in the clear and be able
+to pass along the request found inside.
+
+B.3.1 (U)TLS encryption
+
+(U) Tor’s TLS handshake is carried out in 3 main phases. The function
+connection_or_finished_connecting (see above, Connecting the circuit) calls
+connection_tls_start_handshake, which allocates memory for a new Tor TLS context
+and initializes several of its ﬁelds, including the socket that will be written to and the
+SSL_CTX that will be used for communication. The SSL_CTX is initialized at Tor startup,
+and is changed every 2 hours. It is this structure that contains the certiﬁcates that are
+used during the TLS handshake, as well as the list of cipher suites to be used. Tor’s cer—
+tiﬁcates are discussed in more detail in section 5, Tor’s X.509 certiﬁcates. By default,
+Tor supports 2 cipher suites:
+
+26
+
+TOP SECRET//COMINT//20291123
+

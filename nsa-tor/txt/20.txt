@@ -1,0 +1,31 @@
+TOP SECRET//COMINT//20291123
+
+. Dingledine, Roger. “Tor directory protocol for 0.1.1.x series.” <http://tor.efI.org/
+cvs/tor/doc/dir—spec.txt>. Accessed 2006—03—10.
+
+. Dingledine, Roger. “Tor Rendezvous Speciﬁcation.” <http://tor.efI.org/cvs/tor/
+doc/rend—spec.txt>. Accessed 2006—03—10.
+
+. R. Dingledine and N. Mathewson. “Tor: manpage.” <http://tor.efI.org/tor—n1anual—
+cvs.html.en>. Accessed 2006—03—10.
+
+. R. Dingledine, N. Mathewson, and P. Syverson. “Tor: The Second—Generation Onion
+Router.” <http: / / tor.efI.org / cvs / tor / doc / design—paper / tor—design.html> . Accessed
+2006—03—10.
+
+. “TheOnionRouter/TorFAQ .” <http: / /wiki .noreply.org/noreply/TheOnionRouter/
+TorFAQ>. Last edited 2006—03—10.
+
+. “Tor Linux/BSD/Unix Install Instructions.” <http://tor.efI.org/doc/
+tor—doc—unix.html>. Accessed 2006—03—10.
+
+. “Tor Protocol Speciﬁcation.” <http://tor.efI.org/cvs/tor/doc/tor—spec.txt>. Ac—
+cessed 2006—03—10.
+
+.“Tor Server Conﬁguration Instructions.” <http://tor.efI.org/doc/
+tor—doc—server.html>. Accessed 2006—03—10.
+
+20
+
+TOP SECRET//COMINT//20291123
+

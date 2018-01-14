@@ -1,0 +1,61 @@
+TOP SECRET//COMINT//20291123
+
+Description: MJOLNIR checks the exit policy of the circuit’s exit hop and
+returns non—zero if the address is reachable or zero if the address is unreachable.
+
+Arguments:
+1. ip_addr: the address to reach, as a string in mmmmm form.
+2. port: the port to use at ip_addr.
+3. circ: the circuit to check.
+Return Value: If ip_addr:p0rt is reachable, returns 1. If not, returns 0.
+
+Notes: This function just converts the string address to an integer and calls
+circuit_should_reach_addr.
+
+EA (S / / SI) Smartlists and certiﬁcate masking
+a (U) smartlist_t
+
+(TS//SI) The smartlist_t structure contains an array of void *s, the number
+of elements used, and its total capacity. However, the programmer should never
+have to deal with the internals directly. Instead, he should use smartlist_create,
+smartlist_add, and SMARTLIST_FOREACH. We use this to deﬁne custom X.509 cer—
+tiﬁcates; it is nearly ubiquitous in the rest of the Tor code.
+
+0 (U)
+
+0 (U)
+
+0 (U)
+
+smartlist_t *smartlist _create (void)
+
+Description: Allocate and return an empty smartlist.
+
+Arguments: None.
+
+Return Value: A pointer to the new smartlist.
+
+Notes: Any smartlist the programmer wants to use must ﬁrst be returned by
+this function.
+
+void smartlist_add (smartlist_t *sl, void *element)
+
+Description: Appends an element to the end of the list.
+
+Arguments: sl is the smartlist that is receiving the element. It must have
+been returned by smartlist_create.
+
+Return Value: None.
+
+Notes: Technically, a smartlist may contain pointers to different kinds of ob—
+jects, though this is highly unrecommended. Individual elements of the smartlist
+may be accessed through its list, e.g. sl—>list [i] .
+
+void smartlistmemove (smartlist_t *sl, void *element)
+
+Description: Removes the element from the list.
+
+42
+
+TOP SECRET//COMINT//20291123
+

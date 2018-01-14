@@ -1,0 +1,53 @@
+TOP SECRET//COMINT//20291123
+
+and there are some instances where Tor gives the machines slightly more information than
+is needed. The following section attempts to provide a list of information known by each
+server (here referred to as a node) along the circuit.
+
+D.1 (U) First node
+
+(U) The ﬁrst node in the circuit is the only node that knows the location of the machine
+originating the request. It sets up a circuit_t variable with a particular p_circ_z'd and
+arranges a shared secret with the originating node. (See section B.3.2). When the client
+extends the circuit to the second node, the ﬁrst node receives an EXTEND cell with the
+address, port, and identity ﬁngerprint of the second node. It sets up a connection to the
+second node and sets n_circ_z'd in its circuit_t variable with a new circuit ID. The second
+node will send back a cell containing its half of a Diﬁie—Hellman handshake (that is, 91’),
+and K H (see Keys in section B.3.2 for an explanation of K H). After this, the ﬁrst node
+should not receive any cells that it will be able to recognize, because the cells will be
+encrypted. In short, the ﬁrst node knows:
+
+o The location of the client that connected to it.
+
+o Cryptovariables used for communication with the client, which allow it to perform
+one layer of encryption / decryption on cells to / from the client.
+
+0 The ID of the circuit from which the client is sending information. This is p_circ_id
+in the ﬁrst node’s circuit_t structure.
+
+0 The location of the second node in the circuit.
+
+a The ID of the circuit on which it sends information to the second node. This is
+n_circ_z'd in the ﬁrst node’s circuit_t structure, and will be different from p_circ_z'd.
+
+o gy in the Diﬁie—Hellman handshake between the client and the second node, and K H.
+
+(S / / SI) However, a machine may not know that it is the entry node. If the common—
+Name on the X609 certiﬁcate passed during the TLS handshake is “client <identity>”,
+then it is deﬁnitely an entry node, because it is talking directly to the client. This is
+suﬁicient, but not necessary. If the machine receives a CREATE_FAST cell, then it is
+the entry node, as clients will never send a CREATE_FAST cell farther down the circuit.
+There is an option in the conﬁguration ﬁle that can be set so that a Tor client will never
+use a CREATE_FAST cell, and Tor servers will never use them, but this still appears to
+be the most common way that the entry node is set up. Otherwise, a CREATE cell is
+used. If the node receives a CREATE cell, followed by an EXTEND cell, it may be the
+entry node. The only guarantee for such a pattern is that it is not the exit server, which
+will never see an EXTEND cell.
+
+(TS / / SI) This knowledge would be useless unless we can induce the client to pick
+one of our machines as its entry node. In the conﬁguration ﬁle, there is an option called
+
+31
+
+TOP SECRET//COMINT//20291123
+
