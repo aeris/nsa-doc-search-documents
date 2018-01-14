@@ -1,0 +1,286 @@
+ 
+
+ 
+
+TOP SECRET STRAP 2
+Pentaho - NOC Auto Detection
+
+ 
+
+ 
+
+ 
+
+ 
+
+L
+\1
+
+l
+
+- E»
+
+ 
+
+n-I'i
+
+ 
+
+ 
+
+m_
+
+Input country digri
+
+ 
+
+ 
+
+ 
+
+ 
+
+_..m
+\
+
+ 
+
+ 
+
+Remove priya e IP addresses
+
+ 
+
+ 
+
+ 
+
+Dedupe exact range, method
+
+ 
+
+ 
+
+ 
+
+ 
+
+w
+
+ 
+
+Dummy( onothing)
+
+"—ea-J—
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘%
+
+ 
+
+ 
+
+ 
+
+Trim whitespace from descriptions
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ease: J
+
+Jummy (do nothing) 3 Filteron inut country
+
+ 
+
+ 
+
+ 
+
+Output raw results
+
+ 
+
+ 
+
+ 
+
+Count by groﬁid
+
+U
+
+RENEW “L555 Ewﬁi
+
+ 
+
+ 
+
+>2l]—-"e—I§
+
+Merge Join group idswith count
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+El * : H r)
+‘ ct» -— 3.53 - 1'
+X ' :l .
+Selectvalues Calculate number of IP addresses in range Filterf 3'15 3d lIZI W llnES
+|=l “ i:I
+=1“ ‘ 3933—“? ”—1? —+e J’ eJ—E»
+Select values 4 Merge Join WI geo data Sort on lst ip Convert decimal IPto String Dedupe anirstip
+.7'
+a...) ‘l
+4.. Air]; 4.. 3n J;
+Country digraphto lowercase 2 Enrich with Geo
+P + Subnet Mask
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+U
+
+ 
+
+ 
+
+ 
+
+ 
+
+QED—"HE
+
+Sort byfirst ip
+
+ 
+
+ 
+
+|:l
+:I
+|:I
+
+ 
+
+ 
+
+ 
+
+Output NOC ranges for input country, sorted by confidence
+
+This information is exempt from disclosure under the Freedom of Information Ant 9000 and mm: he snhient tn exemption under other UK information
+
+n Ac legislation Refer disclosure requests to GCHQ or
+

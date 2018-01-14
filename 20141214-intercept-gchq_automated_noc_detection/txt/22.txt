@@ -1,0 +1,52 @@
+ 
+
+ 
+
+TOP SECRET STRAP 2
+N00 IP range search in MUTANT BROTH
+
+ 
+
+MUTANT BROTH
+Identiﬁer Search 113 Address Semh Damord Search I IF Pmﬁ; Sexth
+
+Legal Context
+
+This is a powerful technaque that ailows you to pull back presence events for an IP network.
+. You must make sure that your HRH jUSttflCétiOﬁ (Reason) clearly explains Why you are Querying on an ]F network, as you are more like-1y to retrieve the commurntatiohs of innocent individuals as well as tar:
+. Your queries will be logged for audst.
+. You should use Traceroute or DNS ioolr up first so that only I? preﬁxes registered or associated with the target notworks are queried.
+. If You suspect thatthe iF' prefix is dynamicJ you must either eomtstne this search with another filter eg an HHFP or limit the query tength to 61} minutes.
+If after running the query. it is clear that the IF‘ prefix is dynamic. you should not look at the results as they are unlikely to relate to your target.
+
+Search fol IP address pllhxts
+
+Enter the set IP address preﬁxes.
+. The IP address range must be specified as: c dotted depimal lP >r’< prefix length >
+Example: 1?2.16.1?.Ur’23
+192.15.34.51
+192.163.1233.!1?
+. Prefix lengths of less than 16 bits will be Ignored.
+. Absent lengths are assumed to he 32 bits.
+Optionally enter the HHFF‘ or the time period start and search length in minutes.
+
+80.34. 19.0f2'!
+
+1P Ranges
+HHFP _ MIRnNm 20135
+Time period start 1?;‘051'2011 JIC 2
+Search length frninutesi 2000i] ' Puroose l‘lS :l
+
+Reason Eielgaeom reseach
+
+ 
+
+ 
+
+This information is exempt from disclosure un ' ' xemption under other UK information
+n A: legislation. Refer disclosure requests to GCH
+
+W “‘55: Ewﬁi
+
+ 
+

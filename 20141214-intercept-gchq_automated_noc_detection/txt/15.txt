@@ -1,0 +1,33 @@
+ 
+
+TOP SECRET STRAP 2
+Phase 3: Intelligent use of TELNET traffic
+
+ 
+
+- Again we do not always get full configuration files. Phase 1 is
+based on full (or as near to full) configuration files
+
+- GCHQ NAC collect TELNET Sessions into TERMINAL SURGE
+— Collection based on TCP Port 23 (TELNET)
+— Other protocols use TCP Port 23 (YMSG)
+
+- Interaction with Routers over TCP Port 23 maybe nefarious:
+— Scanning
+— Password guessing
+
+- Need to separate legitimate use from nefarious activity
+- Look for signs of legitimate use.
+
+— Successful Iogin
+— Follow on commands
+
+ 
+
+ 
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and ma be sub'ect to exemption under other UK information
+legislation Refer disclosure requests to GCHQ o
+
+   
+

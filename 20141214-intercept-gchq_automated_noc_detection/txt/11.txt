@@ -1,0 +1,24 @@
+ 
+
+ 
+
+TOP SECRET STRAP 2
+
+Phase 2: Intelligent use of Metadata
+
+ 
+
+- We do not always get full configuration files to parse.
+- Services between routers and NOCs run on lP/TCP/UDP
+
+- We do create 5-TUPLE metadata from our collection
+— GCHQ have prototype database — 5-Alive
+— CSEC have database - HYPERION
+
+ 
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and ma be sub'ect to exemption under other UK information
+legislation Refer disclosure requests to GCHQ o
+
+   
+

@@ -1,0 +1,38 @@
+ 
+
+TOP SECRET STRAP 2
+
+Phase 1: Intelligent Router Configuration File Parsing
+
+ 
+
+Routers have numerous services running on them that help
+identify the NOC lP ranges:
+
+SSH
+TELNET/VTY
+SNMP
+SYSLOG
+DNS
+TACACS
+RADIUS
+
+Access to these services tends to be locked down by the use of
+Access Control Lists (ACLs)
+
+Configuration files provide details of how services are
+configured.
+
+ 
+
+ 
+
+ 
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and ma be sub'ect to exemption under other UK information
+legislation Refer disclosure requests to GCHQ or
+
+ 
+
+ 
+

@@ -1,0 +1,29 @@
+ 
+
+ 
+
+TOP SECRET STRAP 2
+Intelligent analysis of TELNET traffic
+
+ 
+
+- The fact that login was successful for both examples means the
+following:
+
+— From TCP Port 23 $5 a
+
+- To IP address is Network Management Terminal (in the
+N00?)
+
+— To TCP Port 23 [13% @
+
+- From IP address is Network Management Terminal (in
+meNOC?)
+
+ 
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other UK information
+legislation Refer disclosure requests to GCHQ
+
+ 
+

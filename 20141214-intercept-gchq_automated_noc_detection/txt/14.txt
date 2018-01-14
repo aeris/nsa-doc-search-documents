@@ -1,0 +1,37 @@
+ 
+
+ 
+
+ 
+
+TOP SECRET STRAP 2
+
+Further drill down on activity for identified IP
+
+ 
+
+   
+
+20 1? udp DNS (Domain Name System) 63226 53 2011-05-12 0 2011-05-12 08 00 00
+21 r
+
+22 1? udp Trivial File Transfer Protocol TFI'P 58912 69 2011-05-13 10:00:00 2011-05-13 10:30:00
+23 1? udp Trivial File Transfer Protocol TFI'P 53438 69 2011-05-13 10:00:00 2011-05-13 10:30:00
+24 1? udp Network Time Protocol NTP 52096 123 2011-05-13 10:00:00 2011-05-13 10:30:00
+25 1? udp Network Time Protocol NTP 58912 123 2011-05-13 10:00:00 2011-05-13 10:30:00
+26 1? udp Network Time Protocol NTP 53438 123 2011-05-13 10:00:00 2011-05-13 10:30:00
+2? 1? udp NetBIOS NetBIOS Datagram Service 53438 138 2011-05-13 10:00:00 2011-05-13 10:30:00
+28 1? udp NetBIOS NetBIOS Datagram Service 58912 138 2011-05-13 10:15:00 2011-05-13 10:45:00
+29 1? udp NetBIOS NetBIOS Datagram Service 52096 138 2011-05-13 10:00:00 2011-05-13 10:30:00
+30 1? udp Simple Network Management Protocol SNMP 52096 161 2011-05-13 10:00:00 2011-05-13 10:30:00
+
+ 
+
+This information is exempt from disclosure under the Freedom of Information Ant 9000 and mm: he snhient tn exemption under other UK information
+
+m A c legislation: Refer disclosure requests to GCHQ o
+
+NEWEHK “A.“ Ewﬁi
+
+ 
+

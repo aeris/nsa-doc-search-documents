@@ -1,0 +1,30 @@
+ 
+
+ 
+
+TOP SECRET STRAP 2
+GCHQ / CSEC NAC Joint tradecraft development
+
+ 
+
+- During March 2011 GCHQ Analysts visited CSEC to look at the
+using PENTAHO for tradecraft modelling working with CSEC
+NAC and CSEC/H3 software developers to see it could model
+NOCTURNAL SURGE in PENTAHO and then implement in
+OLYMPIA.
+
+- Only possible to attempt because:
+— GCHQ NAC use PENTAHO
+— CSEC NAC/H3 use PENTAHO
+— CSEC NAC have implemented GCHQ NAC TIDAL SURGE Database
+Schema (DSD also have this..)
+- GCHQ approach based on AS
+
+- CSEC approach based on Country
+
+ 
+
+BEWEHK AMA-HEB EWHE
+
+ 
+
