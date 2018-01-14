@@ -1,0 +1,39 @@
+TOP SECRET/lCOMINT/YNOFORN
+
+have to worry about SkypeCredCRC's, because CES Protocol Exploitation is
+able to map them to SkypeUser's... but there are a handful of edge cases
+where they don't have enough information to do so. Also, a SkypeUser can
+have more than 1 SkypeCredCRC associated with them. So - the possibility
+that a SkypeCredCRC shows-up in your collection and is associated with
+one of the already-existing communicants in the collection is a very possible
+(although it's not universally true). CES only “holds-up" collection for a
+certain period of time before they give-up trying to figure-out how to map an
+unknown SkypeCredCRC to a SkypeUser (12 hours would be too long... that
+would build-in a 12-hour delay into all Skype collection before you got to see
+it). If you run intﬂSkvpeCredCRE anﬁannot figure out who it is, just send
+an email to — and someone (either in PE, or
+SSO) can try and figure-out if we (or the FBI) has learned the correlation
+after-the-fact. It is not possible for you to see the correlation in the raw data.
+Encryption is used to mask the correlation.
+
+f. How does Skype work?
+
+f.i. Skype is a true "peer to peer" service... communications are not routed
+between central servers - they are only routed between Skype users (i.e.
+"peers"). NSA receives Skype collection via PRISM when one of the peers is
+a FAA/702 tasked target.
+
+There are 3 collection scenarios:
+A) target --> other_person
+B) other_person ——> target
+
+C) target ——> same_target
+
+Scenario A and B occur when a target is communicating with another
+individual. This communication may not be very interesting (i.e. it might not
+be an IM, Voice, or Video... it mayjust be a request to retrieve that
+individual's Avatar to display)... but there was *some* type communication
+between these two users, and the target is a party to that communication.
+
+TOP SECRET/lCOMINT/YNOFORN
+

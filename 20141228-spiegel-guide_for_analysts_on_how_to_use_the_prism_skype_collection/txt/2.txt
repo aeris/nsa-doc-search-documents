@@ -1,0 +1,44 @@
+TOP SECRET/lCOMINT/INOFORN
+
+c. Can a Skype user have more than one skypeMailToken?
+
+c.i. Yes - they can link 2 or more email addresses to their account... each has a
+corresponding skypeMailToken. You can query DECODEORDAIN to find out
+what e-mail address they correlate to.
+
+d. Is there any benefit (or harm) to tasking both the SkyUser and SkypeHash for
+the same user to PRISM?
+
+d.i. Tasking a SkypeUser automatically tasks the SkypeHash to UTT. The only
+time you need to explicitly task a SkypeHash is when you don't know what
+the correlated SkypeUser is (i.e. querying DECODEORDAIN with the
+SkypeHash fails to return a correlated SkypeUser, and after you've contacted
+
+and they fail to find a correlated SkypeUser).
+
+3. (TS/ISIIINF) Questions on locating Skype PRISM data:
+
+a. How do I find Skype data in PINWALE?
+
+a.i. Best way to query in PINWALE is by DecodeOrdain enriching your target's
+Skype username, as follows:
+
+a.i.1. Enter the Skype username in the PINWALE query form, right
+click on the username that you've typed-in and click "DecodeOrdain"
+then "Apply"
+
+a.i.2. Pick "SkypeUser" from the "choose realm" pull-down list and
+click OK
+
+a.i.3. You'll now see a screen like the one attached. Pick which ever
+permutations you want (or just leave them all checked to get
+everything), and click "OK"
+
+a.i.4. submit your search
+
+b. How do I Iocate Skype collection using DE CODEORDAIN?
+b.i. Attached is a screen-shot of how you can use DECODEORDAIN to find
+Skype video & chat content.
+
+TOP SECRET/lCOMINT/INOFORN
+
