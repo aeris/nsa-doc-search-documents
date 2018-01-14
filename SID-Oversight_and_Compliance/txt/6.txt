@@ -1,0 +1,63 @@
+TOP SECRET/lCOMINT/INOFORN
+
+(U/lFOUO) Figure 4b: NSAW SID-reported Collection Incidents Under
+All FISA Authorities
+
+ 
+
+Ul/FOUO l2QCY11 I3QCY11 I4QCY11 l1QCY12
+
+   
+
+ 
+
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10 1 o 0 o 2 o o o
+0 | |
+Roamers No FISC/AG Computer Database Queries Task/Detask USP Other Inadvertent
+Auth Network Delays/Errors
+Exploitation
+(CNE) U//FOUO
+
+(U/lFOUO) Figure 4b: During 1QCY12, NSAW SID reported an increase of 9% of roamer incidents under
+all FISA Authorities. There was also a 260% increase in database query FISA Authority incidents during
+1QCY12. Human Error accounted for the majority of all FISA Authorities database query incidents (74%).
+
+(U/lFOUO) Roamers: Roaming incidents occur when valid foreign target selector(s) are active in the U.S.
+Roamer incidents continue to constitute the largest category of collection incidents across E.O. 12333 and FAA
+authorities. Roamer incidents are largely unpreventable, even with good target awareness and traffic review,
+since target travel activities are often unannounced and not easily predicted.
+
+(SI/SI/INF) Other Inadvertent Collection: Other inadvertent collection incidents account for situations
+where targets were believed to be foreign but who later turn out to be U.S. persons and other incidents that do
+not fit into the previously identified categories.
+
+(TS/lSI/IREL TO USA, FVEY) Database Queries: During 1QCY12, NSAW SID reported a total of 115
+database query incidents across all Authorities, representing a 53% increase from 4QCY11. E.O. 12333
+Authority database query incidents accounted for 84% (97) of the total, and all FISA Authorities database query
+incidents accounted for 16% (18).
+
+(U/lFOUO) Figure 5 illustrates the most common root causes for incidents involving database queries as
+determined by SV.
+
+0 99% (114) of the 1QCY12 database query incidents are attributed to Operator Error as the root
+cause, and involved:
+0 Human error (85) which encompassed:
+I Broad syntax (i.e., no or insufficient limiters / defeats / parameters) (55);
+Typographical error (17);
+Boolean operator error (6);
+Query technique understood but not applied (4);
+Not familiar enough with the tool used for query (2); and
+
+Page 6 of 13
+
+TOP SECRET/lCOMINT/INOFORN
+

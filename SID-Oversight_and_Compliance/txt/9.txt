@@ -1,0 +1,48 @@
+TOP SECRET/ICOMINT/INOFORN
+
+(U/IFOUO) For 1QCY12, of the 865 reported incidents, 553 (64%) were discovered by automated alert.
+444, (80%) of the 553 incidents that were discovered by automated alert occurred via the VLR and other
+analytic tools, such as SPYDER, CHALKFUN, and TransX.
+
+c. (U/IFOUO) N SAW SID-reported Incidents by Organization
+
+(U/IFOUO) Figure 8 illustrates the total 1QCY12 NSAW SID-reported incidents by primary SID Deputy
+Directorate (DD) level organization. S2, having the largest NSAW SID contingent of reported incidents,
+accounted for 89% of the total incidents for the quarter, a proportion consistent with the overall size of the S2
+organization. As compared to 4QCY11, S2 experienced an overall 8% reduction in incidents occurrences.
+
+(U/lFOUO) Figure 8: 1QCY12 Incidents by NSAW SID Organization
+U/lFOUO
+
+2% 2%
+
+ISI 1
+
+.82 772
+
+383 56
+
+IF74 MOC 4
+
+ISSG 14
+
+IST 1
+
+32nd Party /Vari0us 17
+
+ 
+
+Total: 865 U/lFOUO
+
+(U/IFOUO) Figure 9 provides a look into S2 (by Product Line) as the NSAW SID organization with the
+largest number of reported incidents. For 1QCY12, three Product Lines accounted for 72% of S2’s reported
+incidents. These Product Lines were: the and Korea Division (S2B) with 28% of the reported incidents, the
+International Security Issues Division (S2C) with 23% of the reported incidents, and the China, and the Office
+of Middle East & Africa (S2E) with 21% of the incidents. As compared to 4QCY11, this resulted in an increase
+of 16% for S2B, a reduction of 35% for S2C, and an increase of 9% for S2E. The number of incidents reported
+by the remaining seven Product Lines held relatively steady from 4QCY11 to 1QCY12.
+
+Page 9 of 13
+
+TOP SECRET/ICOMINT/INOFORN
+

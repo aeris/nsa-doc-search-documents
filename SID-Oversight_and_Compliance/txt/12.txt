@@ -1,0 +1,61 @@
+Tﬂl’ SECHE'I‘HCL‘IMINIWNUFURN
+
+werlt. this server alse centains infermatien related te the STELLARWIND pregram and ﬁles which de net
+appear te be related te either ef these pregrams. NSA bases its determinatien that these files may be in
+vielatien ef decket number BR il—IS‘I becattse efthe type ef infermatien centained in the ﬁles ti.e.. call
+detail recerdsl. the access te the server by technical persennel whe werked with the BR metadata, and the
+listed “creatien date” fer the ﬁles. It is pessible that these files centain STELLARWIND data. despite the
+creatien date. The STELLARWIND data ceuld have been cepied te this server. and that precess ceuld have
+changed the creatien date te a timeframe that appears te indicate that they may centain BR metadata.
+Additienal details regarding this incident can be feund in the “Bulk l'v'Ietadata FISA" Annes. ANNEX B
+[Item Rt} in SID‘s IQCY IE If) Quarterly Repert.
+
+[Sfr'Slfr'REL TO USA. F'v'EY} Detasking Delay. Feur selecter-emained active after multiple
+indicatiens were received that the target held a US. green card. Dn fi‘} March EDIE. a Seuth Asia Language
+Analysis Branch {SEASI } senier linguist was preparing—Divisien) sclecters fer UCT‘AVE
+migratien when it was discevered that the tasking recerd t‘ei-shewed that there were feur selecters
+that were in active status even theugh his tasking file indicated he held a US. green card as em}
+ﬂeteber Ell] I. 0n fl";I learch EfIIE. the SEAS] senier linguist detasked the fear selecters. and en 13 March
+EIHE. the SEAS] senier linguist requested the 38] cuts in NUCLEUN based en ceIIectien frem these Ibur
+selecters be purged. On 13 March EUIE. a senier reperter in th Reperting Branch
+[SEASEJ researched SEASE's Iecally held file ef—whe held U.S. crsen status and learned
+that an SEASE analyst had indicatiens in intercept en [)9 September Eli] litight have a US.
+green card. It was alse recerded in the same SEASE file that SEASE had submitted a request te the
+Department ef Hemeland Security {DHS_N.B.. the date ef the SEASE request te Eli-IS was
+net rccerded] and learned frem DHS en ES September EU] I that Qureshi had ebtained a LLS. green card as
+till-201C]. The szass senier rep-Utter then checked ascHeav and discevered that seasz Iit‘tt'l
+issued 3E reperts between EU If} and Elli I. De [4 March Ell] E. SEAS submitted a
+re uest fer Retreactive Disseminatien Autherit * fer the SE re erts which centained the name ef
+he Custemer Relatienships.
+Infermatien Sharing Services Branch (312} apprevcd ISSIBDA-USS- IE en 16 March Et’] IE. Serialized
+disseminatien ef US. persen infermatien did eccur. On [3 March EtiIE. the SEAS] senier linguist whe
+feund that these number-had net been detasked reminded the ether twe members ef the
+Gevernniental Unified Targeting Trail (UTT: Greup fer SEAS te check all SEAS databases fer
+efficials whe have US. [and Secend Fady persen} status befere submitting selecteis fer tasking. Additienal
+details regarding this incident can be feund in the Unintentienal Ceilectien under ED. [2333 Autherity
+Annes. ”Cellectien as a Result efTasking Errers er Detasking Delays". ANNEX B [Item El] and in the
+“Unintentienal Disseminatien af US. Persen lnfermatien Cellected Under E13]. [2333. FISA. and FAA
+Autherities". Annes lv‘l {Item leIS} in SID‘s IQCYIE ID Quarterly Repert.
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+{CHREL TU USA. FVEY} Unautherieed Access. 01] E9 December EU] I. a Cryptanalysis and Espleitatien
+ICESIIUffice efTarget Pursuit [SS] IE4] Branch Chiefdiscevered that CBS persennel had likely been
+inapprepriately granted access te NSA Establishment FISA data. lvlultiple esternal facters centributed te this
+situatien. First, in Ell-DE. RAGTIl'vIE was changed te encempass beth NSA Establishment FISA and FBI PISA.
+but due te insufficient neticc regarding this mediftcatien. CES centinucd te apply the earlier rule that
+RAGTIIvIE applied enly te NSA Establishment FISA data. Secend. CES relied en the RAGTIME label in
+CASPORT fer granting access te NSA Establishment FISA data but discevcrcd that CASPORT dees net
+accurately reflect NSA Establishment FISA briefing status. Third. CASPORT eften lists NSA-FISA in the
+
+Page IE ef Iii
+
+TUP SEURE'I'ffCﬂMIN'I‘ffNﬂFﬂRN
+

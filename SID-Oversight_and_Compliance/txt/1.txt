@@ -1,0 +1,49 @@
+TOP SECRET/lCOMINT/INOFORN
+
+UNITED STATES GOVERNMENT
+
+Memorandu m
+OC-034-12
+DATE: 3 May 2012
+REPLY TO
+A'I'I'N OF: SID Oversight & Compliance
+SUBJECT: (U/lFOUO) NSAW SID Intelligence Oversight (IO) Quarterly Report — First Quarter Calendar
+
+Year 2012 (1 January — 31 March 2012) — EXECUTIVE SUMMARY
+TO: SIGINT Director
+
+ 
+
+I. (U) Overview
+
+(U/lFOUO) The attached NSAW SID Intelligence Oversight (IO) Quarterly Report for the First Quarter
+Calendar Year 2012 (1 January — 31 March 2012) identifies NSAW SID compliance with ED. 12333, DoD
+Regulation 5240.1-R, NSA/CSS Policy 1-23, USSID SP0018, and all related policies and regulations.
+
+(U/lFOUO) Detailed incident narratives are provided in the attached annexes. The number of incidents in
+each category and a reference to the annex related to each incident category are contained in the body of the
+report.
+
+(U/lFOUO) As part of SID Oversight and Compliance’s (SV) charge to provide comprehensive trends and
+analysis information as it pertains to incidents of non-compliance, this Executive Summary provides analysis
+and evaluation of incidents reported throughout the current quarter to better address the “whys” and “hows”
+behind NSAW SID’s compliance posture.
+
+(U/lFOUO) Section II, Metrics, has been broken down into several sub-sections: metrics and analysis of
+NSAW SID-reported incidents by authority, type, root cause, and organization. Also included is an assessment
+of how incidents were discovered (i.e., methods of discovery) for SID-reported incidents (see Figure 7).
+
+(U/lFOUO) Signiﬁcant Incidents of Non-compliance and Report Content follow in Sections III and IV,
+respectively.
+
+(SI/REL) Overall, the number of incidents reported during 1QCY12 increased by 11% as compared to the
+number of incidents reported during 4QCY11. This included a rise in the number of ED. 12333 incidents, as
+well as for incidents across all FISA authorities. The majority of incidents in all authorities were database
+query incidents due to human error. Of note, S2 continued to be the NSAW SID organization with the largest
+number of reported incidents (89%), although S2 experienced an overall decrease in reported incidents. SV
+noted an overall improvement in timeliness regarding 1QCY12 IO Quarterly Report submissions from the SID
+elements.
+
+Page 1 of 13
+TOP SECRET/lCOMINT/INOFORN
+

@@ -1,0 +1,47 @@
+TOP SECRET/lCOMINT/INOFORN
+
+I Incorrect option selected in tool (1)
+0 Lack of due diligence (i.e., failure to follow standard operating procedure) (13)
+0 Training and guidance (i.e., training issues) (9); and
+0 Resources (i.e., inaccurate or insufficient research information and/or workload issues) (7).
+
+(U/lFOUO) The remaining 1 database query incident can be attributed to System Error as the root cause
+and occurred due to a mechanical error with the tool.
+
+(U/lFOUO) Analysis identified that the number of database query incidents could be reduced if analysts
+more consistently applied rules/standard operating procedures (SOPs) for conducting queries.
+
+(S//SI//NF) Auditors continue to play an important role in the discovery of database query incidents,
+identifying 70 (61%) of the 115 reported database query incidents.
+
+(U/lFOUO) Figure 5: 1QCY12 Database Query Incidents — Root Causes
+IWFOUO
+
+1%
+
+l Operator | Human Error (85)
+H Operator | Due Diligence (13)
+l Operator | Resources (7)
+l Operator | Training (9)
+
+l System| Disruptions (1)
+
+ 
+
+Total: 1 15 UHFOUO
+
+ 
+
+(TS//SI//REL TO USA, FVEY) Of the 115 database query incidents reported for 1QCY12, Figure 6 identifies
+the database involved and the associated percentage of the total. Databases considered to be Source Systems of
+Record (SSR) have been labeled as such.
+
+(TS//SI//REL TO USA, FVEY) Note that the total number of databases involved in the database query
+
+incidents in Figure 6 does not equal the number of database query incidents reﬂected in Figure 5 or in the
+1QCY12 SID IO Quarterly Report because a database query incident may occur in more than one database.
+
+Page 7 of 13
+
+TOP SECRET/lCOMINT/INOFORN
+

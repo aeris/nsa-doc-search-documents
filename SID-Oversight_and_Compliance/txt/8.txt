@@ -1,0 +1,82 @@
+TOP SECRET/lCOMINT/INOFORN
+
+(U/lFOUO) Figure 6: lQCYll Database Query Incidents — Database(s) Involved
+
+ 
+
+U//FOUO
+
+ 
+
+1% l CLOUD/AER (8)
+l DISHFIRE (15)
+
+l FASTSCOPE (1)
+l MARINA (SSR) (24)
+
+I OCTAVE (1)
+
+l PINWALE (SSR) (34)
+
+2% l SIGIN T NAVIGATOR (1)
+2% l TRACFIN (2)
+l TRANSX (2)
+
+l TUNINGFORK (4)
+
+l UTT (1)
+
+I XKEYSCORE (24)
+
+’4 Unknown (1)
+
+Total: 119 U//FOU0
+
+(U/IFOUO) N SAW SID-reported Incidents — Method of Discovery
+
+(U/lFOUO) Figure 7 depicts the most prominent method(s) of discovery for incidents reported by NSAW
+SID elements for 1QCY12. As SV’s assessment of root causes matures, and as corrective measures are
+implemented, identiﬁcation of how incidents are discovered will provide additional insight into the
+effectiveness of those methods.
+
+(U/lFOUO) Figure 7: 1QCY12 Incidents — How Discovered
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+U//FOUO
+600 553
+500
+400
+300
+200
+83 77 67
+100 36 -
+7 1 6 12 10 5 3 2 3
+0 I 0 l-l I I I I |-' I I I |
+a) b e ~o
+5&9 92¢ 3&8? $0 0&8? 69 4‘6: 2906 4‘04: 4250 $04: 1&0“ 0°63 96’ 99680
+0 b \\ 0‘ e5“ v53, Q9 Q" 9:9 0° ‘59 0° ‘1‘ " 5"
+v$@§% ¢©‘*'~9%%\‘\\©%
+cx§xsoco°09a§5°<$k~°
+0 0° 0 2} \° 09 0% \0 \“ g9 & 9 K
+5 s :5 s e e o 0 '° 0° “2’
+v <9 o\\ ‘7’ GJ & d &
+0% c 0‘” 5“
+0°
+.09
+«a
+e00
+‘b'
+Total: 865 5‘ U//FOUO
+PageSof 13
+
+TOP SECRET/lCOMINT/INOFORN
+

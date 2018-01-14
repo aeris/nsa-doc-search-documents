@@ -1,0 +1,53 @@
+TOP SECRET/lCOMINT/INOFORN
+
+(TS/lSI/IREL TO USA, FVEY) As depicted in Figures 3a and 3b, of the 19 delayed detasking FISA
+incidents, 15 (79%) resulted from a failure to detask all selectors, 2 (11%) resulted from analyst not detasking
+when required, 1 (5%) resulted from partner agency error, and 1 (5%) resulted from all tasking not terminated
+(e.g., dual route).
+
+b. N SAW SID-reported Collection Incidents by Sub-Type and Authority
+
+(U//FOUO) Figures 4a-b depicts NSAW SID-reported collection incidents by Authority (E.O. 12333 and
+all FISA Authorities), and identiﬁes the primary sub-types for those incidents. An explanation of the more
+prominent collection incident sub-types follows the graphs.
+
+(U/lFOUO) Figure 4a: NSAW SID-reported Collection Incidents Under E.O. 12333 Authority
+
+636NQUO 582 l2QCY11 I3QCY11 l4QCY11 l1QCY12
+
+  
+  
+
+ 
+
+91
+500 '
+400 '
+300 '
+200 '
+97
+74 70
+100 , 53
+4 15 1 21 30H962 21825232214167272405
+0 , ____— __—___- _
+Roamers No FISC/AG Computer Database Task/Detask USP Transit Other
+Auth Network Queries Delays/Errors Program* Inadvertent
+Exploitation
+(CNE) U/IFOUO
+
+(U/lFOUO) Figure 4a: During 1QCY12, NSAW SID reported a 39% increase of database query incidents
+under E.O. 12333 Authority. Human Error accounted for 74% of E.O.12333 database query incidents.
+
+(TS/lSI/IREL TO USA, FVEY) International Transit Switch Collection*: International Transit switches,
+FAIRVIEW (US-990), ST ORMBREW (US-983), ORANGEBLOSSOM (US-3251), and SILVERZEPHYR
+(US-3273), are Special Source Operations (SSO) programs authorized to collect cable transit traffic passing
+through U.S. gateways with both ends of the communication being foreign. When collection occurs with one or
+both communicants inside the US, this constitutes inadvertent collection. From 4QCY11 to 1QCY12, there was an
+increase of transit program incidents submitted from 7 to 27, due to the change in our methodology for reporting and
+counting of these types of incidents. (*See Annex G in SID’s 1QCY12 IO Quarterly Report for additional details
+regarding these incidents.)
+
+Page 5 of 13
+
+TOP SECRET/lCOMINT/INOFORN
+

@@ -1,0 +1,44 @@
+TOP SECRET/ICOMINT/INOFORN
+
+SIGINT FISA data. Figure 2 illustrates the most common root causes for incidents involving FISA authorities
+as determined by SV.
+
+0 63% (123) of 1QCY12 FISA incidents can be attributed to Operator Error as the root cause, and
+involved:
+0 Resources ( i.e., inaccurate or insufﬁcient research information and/or workload issues (60);
+0 Lack of due diligence (i.e., failure to follow standard operating procedures) (39);
+0 Human error (21) which encompassed:
+I Broad syntax (i.e., no or insufficient limiters / defeats / parameters) (12);
+I T ypographical error (6);
+I Query technique understood but not applied (2); and
+I Incorrect option selected in tool (1); and
+0 Training and guidance (i.e., training issues) (3).
+
+(U/lFOUO) The Resources root cause category accounted for the largest percentage of Operator Error
+incidents under FISA authorities for 1QCY12. Analysis identiﬁed that these incidents could be reduced if
+analysts had more complete and consistent information available about selectors and/or targets at the time of
+tasking and if analysts consistently applied rules for conducting queries.
+
+0 37% (72) of 1QCY12 FISA incidents can be attributed to System Error as the root cause, and
+involved:
+0 System limitations (i.e., system lacks the capability to ‘push’ real-time travel data out to
+analysts, system/device unable to detect changes in user) (67);
+0 System engineering (i.e., system/database developed without the appropriate oversight
+measures, data ﬂow issues, etc.) (4); and,
+0 System disruptions (i.e., glitches, bugs, etc.) (1).
+
+(U/lFOUO) The System Limitations root cause category accounted for the largest percentage of System
+Error incidents under FISA authorities for 1QCY12. The largest number of incidents in the System Limitations
+category account for roamers where there was no previous indications of the planned travel. These incidents are
+largely unpreventable. Consistent discovery through the Visitor Location Register (VLR) occurs every quarter
+and provides analysts with timely information to place selectors into candidate status or detask. Analysis
+identified that these incidents could be reduced if analysts removed/detasked selectors more quickly upon
+learning that the status of the selector had changed and more regularly monitored target activity. This analysis
+indicates that continued research on ways to exploit new technologies and researching the various aspects of
+personal communications systems to include GSM, are an important step for NSA analysts to track the travel of
+valid foreign targets.
+
+Page 3 of 13
+
+TOP SECRET/ICOMINT/INOFORN
+

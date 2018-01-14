@@ -1,0 +1,66 @@
+TOP SECRET/ICOMINT/INOFORN
+
+(U/lFOUO) Figure 9: 1QCY12 S2 Incidents by Product Line
+
+ 
+ 
+  
+
+(U/IFOUO)
+4 %
+4% . ls2A 32
+3 % I 82B 213
+2% .820 174
+DSZD 61
+.521: 159
+ISZF 17
+l SZG 25
+um 29
+.521 60
+Total: 772 IiSZJ 2
+(U/IFOUO)
+
+ 
+
+ 
+
+(U/lFOUO) Figures IOa-b illustrates the operator related (Figure 103) and system related (Figure 10b)
+root causes associated with the 772 incidents reported by S2. 30% of the incidents were due to operator related
+errors that resulted in an incident. 70% of the incidents were due to system related issues that resulted in an
+incident.
+
+(U/lFOUO) Figure 103: 1QCY12 S2 Incidents — Operator Related Root Causes
+
+(U/lFOUO)
+
+4%
+
+I Human Error 71
+
+I Information Resources 80
+
+I Lack of Due Diligence 68
+
+i Personnel Resources 2
+
+ 
+
+I Training&Guidance 9
+
+Total: 230
+(U/IFOUO)
+
+ 
+
+ 
+
+(U/lFOUO) 30% of the S2-reported incidents during 1QCY12 are attributed to Operator Error as the root
+cause, and involved:
+
+0 Resources (i.e., inaccurate or insufficient research information and/or workload issues, and
+personnel resource issues) (82);
+
+Page 10 of 13
+
+TOP SECRET/ICOMINT/INOFORN
+
