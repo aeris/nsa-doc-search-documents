@@ -1,0 +1,56 @@
+lHTl
+
+How to install the release
+
+This release can be installed only over a previous 9.0.x release. You cannot upgrade
+directly from 8.x.x
+It is still possible to install it from scratch (no previous RCS installation on the system).
+
+9.1.0 speciﬁc instruction for upgrading form 9.0.x:
+
+0 Run the installer rcs—setup—“'='.exe on the backend server and answer 'yes' when asked
+to upgrade.
+
+If you have multiple shards, install the update on all the shards ﬁrst and then on the
+master node.
+0 Run the installer rcs—setup—“'='.exe on the frontend server and answer 'yes' when asked
+to upgrade
+0 lfyou are using the OCR module, please reinstall it on all the shards after the
+upgrade.
+
+What’s new in Remote Control System 9.1
+
+Agent (Windows)
+0 This update adds invisibility ﬁxes for the following products: ESET
+
+Agent (05X)
+0 Support for OSX 10.9 Mavericks
+
+Agent (Linux)
+0 New module: Mic recordings
+
+Agent (Android)
+
+0 Added dynamic control over ﬁle transfers. Download of big ﬁles won’t affect phone
+responsiveness.
+
+o Filesystem gathering has been restructured in order to be much faster.
+
+0 New events management has now even less battery impact.
+
+0 Minor Fixes.
+
+Agent (iOS)
+0 Support for local installation
+
+Network Injector
+
+0 Improved and reworked Flash Injection for all supported platforms
+0 Better WPA and WPAZ attacks
+
+0 Better support for 3G modems
+
+o Fixes to the Fake Access Point feature
+
+Console
+

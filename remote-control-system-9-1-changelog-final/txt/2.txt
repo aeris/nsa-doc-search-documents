@@ -1,0 +1,11 @@
+0 Minor ﬁxes
+
+Database
+
+0 Fix gps position resolving
+
+0 Fix for NI rule building without linux license
+
+0 Ability to export previous evidence from connectors
+o Mongodb updated to 2.4.8
+
