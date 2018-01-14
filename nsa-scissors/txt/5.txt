@@ -1,0 +1,79 @@
+Print Notes
+
+1of1
+
+http://www.documentcloud.org/notes/print?docs[]=804766
+
+Excerpts from NSA's lntellipedia
+
+4 Pages - Contributed by Matt DeLong, Washington Post - Oct 14, 2013
+
+These are excerpts from an article in the NSA's lntellipedia, a classified system built with the same open—source software used by
+
+Wikipedia.
+
+ 
+
+Horn! scissoﬁs tale-elite eolhdttm [p. at
+i U]: Criteria. [SCISSUHSI
+
+['I‘S:"S]-'_'.R_El LISA. Hit-It") To alleviate the large number of nwnerless
+address lanolrs currently being collected. address books will be blocked at
+SL‘ISSDRS. SC'ISSUHS will process each l'lo w and Ida-e] sessions with the
+category of 3223 Where they:I meet the felIoWing criteria:
+
+I [TshoolGn'millﬂntmniltwiewAddressBook {which represents west; of all
+addresshoolt collection}
+
+- AHEGTTFF. IS PRESENT
+
+* ND APAFTWEL'ISER
+
+' SIGAD 2 Given HEADS {currently four]
+
+DEF-'Sliﬂfl. USA. Flr'E't'] The sessions that do not meet the abuse criteria
+“ill send n'tctadata to FALLDUT. but the sessions Will he dropped hefore
+reaching PINWALE. ”clinics for eateselj' 3113 will out he asuﬂshle in
+YELOWSTONE. and these Vﬂlm will not count against PIN'i'I'ﬁtLE site
+caps set by the CSRC.
+
+ 
+
+ 
+
+iii-reverent: rp. 2}
+iv} Criteria txHE‘t'scmtEi
+
+{'I'S:'-'5I.-'-'REI_. USA. FEET] Because of how inefﬁcient the SCISSDRS
+implementation of ownerlcss address book throttles is {essentially requiring
+that SEES-DRE pmcess all of the selected content from the affected
+dataflows twice). work is untied-tea].I to implement Ilse same throttle in
+KKEYSCORE at site. This requires a software modiﬁcation to allow certain
+types of ownerless hurltl'j.r list metadsts to he created at site {vs at
+SCIEEDRS. under the current architecture}. Then a deployed XKE'SC‘DRE
+ﬁngerpt'inl will hlock the content while allowing. the metatlstn to he
+memorializrd.
+
+ 
+
+ 
+
+"Lime or no usetul Fl worm nation" in. 33
+{1"} [lesson for Optimizing
+
+{5-"-'5[.’-'REL USA. F‘t'fn‘r'] Yahoo’s “eh-hosed Messenger client sends
+frequent sequests. and. receites frequent :espnn-ses. for inlmtt and had d}:
+slam which are highly repetitive and contain little or no useful Fl
+infomtaticn in. the actual message content beyond the simple fact that the
+User “'35 ealiue. Dating the ﬁrst [We “ttks of December. at leer-l eight
+selectors were detsslted by CSRC‘ due to eseessit'e collection [exceeding
+session Iirnits}.
+
+ 
+
+ 
+
+ 
+
+12/11/201312:07 PM
+

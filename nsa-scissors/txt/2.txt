@@ -1,0 +1,42 @@
+[edit] (U) Address Books
+(U) Reason for Optimizing
+
+(TS//SI//REL USA, FVEY) Ownerless address books can account for 22%
+2012) , are highly repetitive, and can be both numerous and large.
+Additionally, the data is highly structured, so they are better parsed and
+analyzed in structured repositories like MARINA.
+
+(U) Criteria (SCISSORS)
+
+(TS//SI//REL USA, FVEY) To alleviate the large number of ownerless
+address books currently being collected, address books will be blocked at
+SCISSORS. SCISSORS will process each ﬂow and label sessions with the
+category of 8223 where they meet the following criteria:
+
+0 (YahooleaillHotmail)-viewAddressBook (which represents ~90% of all
+addressbook collection)
+
+0 APMSGTYPE IS PRESENT
+
+0 NO APACTIVEUSER
+
+0 SIGAD = Given SIGADS (currently, four)
+
+(TS//SI//REL USA, FVEY) The sessions that do not meet the above criteria
+will send metadata to FALLOUT, but the sessions will be dropped before
+reaching PINWALE. Metrics for category 8223 will not be available in
+YELLOWSTONE, and these volumes will not count against PINWALE site
+caps set by the CSRC.
+
+(U) Criteria (XKEYSCORE)
+
+(TS//SI//REL USA, FVEY) Because of how inefficient the SCISSORS
+implementation of ownerless address book throttles is (essentially requiring
+that SCISSORS process all of the selected content from the affected
+dataﬂows twice), work is underway to implement the same throttle in
+XKEYSCORE at site. This requires a software modification to allow certain
+types of ownerless buddy list metadata to be created at site (vs at
+SCISSORS , under the current architecture). Then a deployed XKEYSCORE
+fingerprint will block the content while allowing the metadata to be
+memorialized.
+
