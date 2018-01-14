@@ -1,0 +1,132 @@
+TURMOIL GALLANTWAVE - Wikilnfo
+
+"t— ..-..t .4 want» but": us. .n ...‘.x- mp sit l<I-""\I-l.'\hll\lh‘ll\ll‘(1 ll‘l-lillixlll'hvl'IltM'lMIIlllIn/ill-lII:I\\,I-'1|l .
+VOP SECRCTTSWIEL '0 .‘Gls F‘lCV
+
+(Ul/FOUO) TURMOIL GALLANTWAVE
+
+From Wtkilnfo
+
+(UIIFOUO) VALIANTSURF: TURMOIL GALLAN'IWAVE
+
+E .... . on... “WWW...” my... 1..., m 5...“,
+
+(UJJFDUD) The TURMOIL CIET (Common Internet Encryption Technologies) 'lhrust's mission is to ensure that Ihe GALLANTWAVE team‘s TURMOIerelaled reguiremenls are fulﬁlled. Two subrprojecls under CIET are
+.VALIANTSURF and GALLANTWAVE.
+
+“WISH/REL) GALLANTWAVE (GW) is a CES Mission Application hosted on TURMOIL that enables exploitation of target communications that employ Data Network Session Cipher (DNSC) lechnologies The GALLANTWAVE
+mission application integrales with TURBULENCE-based solutions at the front end. After interacting with 15‘s LONGHAUL key recovery service ma ISLANDTRANSPORT. il exploits the cipher at the frontend, exposing the
+plain texl to follow-on seleclzon and collection
+
+BULLRUN
+
+lSt‘lSl/IREL) Informahon revealing any capability NSA has to exploit a speciﬁc target‘s or company's implementation of encryplion for GALLANTWAVE technologies is BULLRUN.
+
+C 0 me nts
+
+I 1 (UI'I'FOUO) NALIANTSURF: TURMOILGALLANTWAVE
+- 1.1 GALLANTWAVE Detailed Description
+. 1.2 Data Flow Diagrams
+I 2 (U) Open GALLANTWAVE DRE
+I 2.1 (U) Old GALLANTWAVE DRs
+- 2.2 Spin 12.2
+. 2.: Spin 12.1
+- 3 Spin 22
+. 3.1 Slories
+I 3.2 (U) RFCs
+- 4 Spin 21
+. 4.1 Slories
+
+GALLANTWAVE Detailed Description
+
+(TSJJSIHREL) GALLANTWAVE (GW) implementsTML Stage 1 PPF graphs (1 per host) with dedicated instances of lhe TechPrcmcte (GWAeg) and the PSPSeg (GWSeg). GW PPF graphsidentily and promote DNSC packets that
+meet criteria speciﬁed in a Rules.cfg ﬁle. ATE GALLANTWAVE graph subsequenlly sessionizes the selected trafﬁc. injects controlrllow metadata, and forwards largeted DNSC Sessions lo a GW missionrapplication hosted on a
+CA Server. The GWCAServer interacts wilh SCARLET FBIER (a CES LDNGHAULcomponent) to transform lhose sessions for IPraddresses within an approved set of target IPraddresses.The GWVCAServer transformed sessions
+are sent to XKEYSCDRE via a modiﬁed TURMOIL XKSVSESSIDNS graph for session processing. strongrseleclion, and forwarding to folloonn processing systems and Corporate Repositories.
+
+Data Flow Diagram
+
+‘ mun ‘
+‘ Shut A
+
+ 
+
+-.‘. . ; 11mm
+—Y— H1. w
+LDVMLIL " .
+5: t
+was
+1 was:
+
+GALLANTWAVE Spin 22
+10" SECRETHCOMINNREL l0 USA. FVEV
+
+ 
+
+GJlUN'ﬂAVE 3.. r 2:-
+
+ml- 552::1' ZOM'HVREL 'c LEA run
+
+ 
+
+(U) Open GALLANTWAVE DRE
+
+{UJNDE'TMS table wn' ' “'"ﬂ‘wll's edited. .1" ' - m‘mr‘ﬂﬁ' FI M45.
+
+ 
+
+ 
+
+DR Number Date D ,- t' V . R 0' t' n/St t Responsible TM].
+('I'Uur TML) Submitted “”1" “m emu" ‘3 “ '" " “9 componentmmject mnlun
+
+Headline
+
+Tes ti ngt‘ Deployment no [es
+
+    
+
+ 
+
+The GwModule as delivered starl lhe
+DnscPromolionFilterEngine as part of the Fspt'Pmcess.
+According lo the TURMOILCore team, no processes
+
+DnscPromolionFilterEngine should be added lo Ihe Fspf‘Process. as this 'striclly . . .
+ts part of FsptProcess and Apr 2013 forbidden' 212:?zxed ‘x-unml -f\g073 0 :ﬁﬁgﬂllﬂhlléaeclgzslsz GW
+ould not be Due to this conﬁguration, we have observed a number of ' ' ' ' ' ' '
+occurrences where lhe message queues for
+DnscPtomo lionFilter are not created. and lhis results in
+‘100% loss of Dnsc misson for the affected Fspf
+7 Submitted Ev—
+"mh kr‘ "' Adddate: 2013703728 15:05:06
+Fo ral month GWt n fo med ' n 'rl Correction '0 the previous
+r seve s, re s r sessto s requt ng XKS statement:
+
+Dec 2012 htlp decompression and detunneling have been rendered
+useless by an XKS 1.5.7 deﬁciency tjse t3 does in fact have XKS
+‘ 1.5.10 installed, and guerying in
+
+XKS HttpDemux Problem
+DGD
+
+at 15.7
+
+)LKEYSCORE has
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10f2
+
