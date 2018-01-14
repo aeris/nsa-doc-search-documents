@@ -1,0 +1,20 @@
+UNCLASSIFIED
+
+Resumed Sessions
+
+> Client sends session ID
+
+> If stored in server cache, may use previous session
+information (Master key). Sends the same session
+ID back to client.
+
+> Client does not send a Key Exchange, Server does
+not send a certificate
+
+> Both use stored Master Key and skip first part of
+key generation
+
+UNCLASSIFIED
+
+ 
+

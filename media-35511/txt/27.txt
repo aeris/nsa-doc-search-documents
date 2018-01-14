@@ -1,0 +1,20 @@
+SECRET//COMINT//20320108
+
+l Master Secret
+
+| > Master secret is same across a session/resumed session.
+I > Used for generating encryption keys, MAC secrets and IVs.
+
+> Formed differently for SSL and TLS, but both use a
+combination of:
+SHAl
+MDS
+Client Random
+Server Random
+Pre—Master Secret
+Fixed Constant (eg, “A” “client write key”)
+
+SECRET//C OMINT//20320108
+
+ 
+

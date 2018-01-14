@@ -1,0 +1,25 @@
+SECRET//COMINT//REL TO USA, FVEY//20320108
+
+From the Key Block, pull out the keys as follows:
+
+Client Write MAC Secret (Hash size bytes)
+Server Write MAC Secret (Hash size bytes)
+
+I Session Keys
+|
+i
+
+Client Write Key (Key Material Length)
+Server Write Key (Key Material Length)
+Client Write IV (IV Size)
+Server Write IV (IV Size)
+
+Example: 3DES_EDE_CBC_SHA
+
+2 X 24 byte keys, 2 X 20 byte MAC secrets,2 X 8 byte IVs
+= 104 bytes of key
+
+SECRET//COMINT//REL TO USA, FVEY//20320108
+
+ 
+

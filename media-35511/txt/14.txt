@@ -1,0 +1,22 @@
+UNCLASSIFIED
+
+: The SSL Handshake
+: > Handshake determines:
+° SSL version (2 or 3.x)
+
+° Cipher suite
+> public key scheme (Diffie—Hellman, RSA)
+> symmetric key scheme (DES, RC4)
+> key length
+> hashing routine (SHAl, MDS)
+
+° Compression Scheme
+
+ 
+
+  
+
+UNCLASSIFIED
+
+ 
+

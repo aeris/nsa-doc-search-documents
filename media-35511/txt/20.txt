@@ -1,0 +1,26 @@
+SECRET//COMINT//20320108
+
+Sample Parsed Certificate
+
+Certificate:
+
+Data:
+Version: 1 (0x0)
+Serial Number:
+f4:bf:15:eb:73:ef:e2:16
+Signature Algorithm: shalWithRSAEncryption
+
+Issuer: C=CA, ST=server—ca—state, L=server—ca—city, O=server—ca—c0mpany, OU=server—ca—secti0r1,
+CN:server—ca—name/emailAddress=server—ca@server.ca.c0m
+
+Validity
+Not Before: Apr 24 21:07:13 2008 GMT
+Not After : May 24 21:07:13 2008 GMT
+
+Subject: C=SE, ST=server-state, L=server-city, O=server-c0mpany, OU=server-secti0n, CN=server-
+r1ame/emailAddress=server@server.c0111
+
+SECRET//C OMINT//20320108
+
+ 
+

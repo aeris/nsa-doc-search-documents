@@ -1,0 +1,28 @@
+SECRET//COMINT//20320108
+
+Server Hello - Version
+
+3/TLS
+
+SSL 3/TLS message <1 byte - 0x16>
+Version <2 bytes>
+
+Length <2 bytes>
+
+Server hello message <1 byte — oxoz>
+Length <3 bytes>
+
+Version <2 bytes>
+
+Server hello random <32 bytes>
+
+Session lD length <1 byte — usually 9x20>
+Session ID
+
+Cipher selected <2 byte cipher suite>
+Compression <1 byte>
+
+SECRETHC OMINT//20320108
+
+ 
+

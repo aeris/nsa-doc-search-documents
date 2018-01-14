@@ -1,0 +1,21 @@
+UNCLASSIFIED
+
+SSL Versions
+
+ 
+
+> 1.0: July 1994 — not released publicly
+
+> 2.0: Dec 1994
+
+> 3.0: NOV 1995
+
+> 3.1: Jan 1999: RFC 2246 (TLS 1.0)
+
+> 3.2: Apr 2006: RFC 4346 (TLS 1.1)
+> 3.3: Aug 2008: RFC 5246 (TLS 1.2)
+
+UNCLASSIFIED
+
+ 
+

@@ -1,0 +1,22 @@
+UNCLASSIFIED
+
+Message Digests
+
+!
+I
+i > Hash functions
+
+° All output is influenced by all input
+
+° If an input bit is changed, every output bit has
+50% chance of changing
+
+° Improbable for different inputs to have the
+same hash
+
+. MD5(128 bit), SHA-1(160 bit)
+
+UNCLASSIFIED
+
+ 
+

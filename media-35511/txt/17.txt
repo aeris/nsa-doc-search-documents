@@ -1,0 +1,33 @@
+SECRET//COMINT//20320108
+
+Client Hello - Version
+
+3/TLS
+
+SSL 3/TLS handshake <1 byte>
+
+Version <2 bytes>
+
+Message length <2 bytes>
+
+Client hello message <1 byte = 91>
+
+Length <3 bytes>
+
+Version <2 bytes
+
+Client Hello Random <32 bytes>
+
+Session ID length <1 byte — usually @x29 or @>
+Session ID If present, resumed session
+Cipher suite length <2 bytes>
+
+Cipher suites <Set of 2 byte cipher suites>
+Compression length <1 byte>
+
+Compression methods
+
+SECRETHC OMINT//20320108
+
+ 
+

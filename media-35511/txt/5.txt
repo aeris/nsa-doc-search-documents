@@ -1,0 +1,17 @@
+TOP SECRET/lCOMINT/IREL TO USA, FVEY
+
+SSL Version Usage
+
+SSL 3.0: 49%
+SSL 3.1: (TLS 1.0) 48%
+SSL 2.0: 3%
+other: < 0.0001 %
+
+> Even though SSL 3.2 (TLS 1.1) and SSL
+3.3 (TLS 1.2) have been out for a while,
+they are not seen!
+
+TOP SECRET/lCOMINT/lREL TO USA, FVEY
+
+ 
+

@@ -1,0 +1,32 @@
+SECRET//COMINT//20320108
+
+I Certificate (con’t)
+
+Subjkct Public Key Info:
+
+PubLiC Key Algorithm: rsaEncryption
+RsiA Public Key: (1024 bit)
+
+Modulus (1024 bit):
+00tadte3:64:3f:45:75:44:be:b8:5f:ab:74:35ze0:12:ef:2f:41:23:ca:10:96:2e2e3:13:48:da:c4:ef:
+8d:ca:67:d9:11:83:9f:45:6c:f2:7c:e9:cb:fd:51:9b:5d:0b:02:1b:9d:fa:9c:28:ae:8c:ef:43:eb:cc:
+7e:50:27:52:2d:af:28:7C:89:c5:37:43:01:f8:e5:98:03:9d:fe:dc:d2:baz74:84:86:be:6f:f6:93:c6:
+5a:15:36:85:11:9e:24:f1:c0:c7:e8:05:d1:91:86:7f:0d:58:be:f8:80:8b:1a:f0:0b:f5:0d:28:10:1e:
+b1:fe:9f:61:9b:27:15:06:b7
+
+Exponent: 65537 (0X10001)
+
+ 
+
+Signature Algorithm: shalWithRSAEncryption
+
+05:5eza6:5a:eb:9c:ab:f6:2e:67:b2:7e:91:45:40:47:56:3d:76:5b:9a:d2:82:63:16:9a:d1:5a:4d:a0:
+87:ed:2e:98:Zalat4e:d9:04:bb:b0:b6:28:f6:a3:0b:f9:74:6f:c2:e1:dd:98:08:63:ff:2d:53:c5:b7:7c:
+38:c7:66:ea:63:la:cc:f9:4b:52:b1:bd:60:5e:d7:8c:aa:82:01:09:ef:15:d9:33:98:45:0d:f1:93:2czbe:
+07zdb:72:4c:b9:a2:90:c1:d1:06:fd:81:76:19:c5:4d:bf:30:df181:c5:22:6b:5e:09:3f:9e:bc:b8:67:d5:
+12:bb:24:da:7d
+
+SECRET//C OMINT//20320108
+
+ 
+

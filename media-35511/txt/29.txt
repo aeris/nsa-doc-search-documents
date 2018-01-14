@@ -1,0 +1,21 @@
+SECRET//COMINT//20320108
+
+I Key Block
+|
+
+> Generated per session. Generated differently for
+' SSL/TLs, but both use:
+° SHAl
+MD5
+Client Random
+Server Random
+Master Secret
+Fixed Constant (eg, “A” “client write key”)
+
+> The length of the key block generated depends upon the
+cipher suite used.
+
+SECRETHC OMINT//2032O 108
+
+ 
+
