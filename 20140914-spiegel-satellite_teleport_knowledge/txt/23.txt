@@ -1,0 +1,106 @@
+TOP SECRET STRAPl
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Interface
+Router _ _
+
+84.11. FastEthernetOlO 255.255.255.248 No Description Router. net
+Interface
+Router . _ _ _ ‘
+
+84.11.39- Seria|1l0 255.255.255.248 No Description Router. net
+Interface —
+Router - .. _ - -
+
+84.11.39- Virtual—Templatel 255.255.255.248 No Descnption Routen net
+Interface _
+Rom“ 8411 39- L b k1 255255 255 252 N o ' t' R t . t
+Interface . . oop ac . . . 0 common on er. ne
+“Wt“ 34114 Eth t0 255255255192 N o ri ti n R t r' r ter
+Interface . . eme . . . o esc p 0 one. ou
+RW‘“ 34 11 41- SerialO 255 255 255 192 No Description Router router
+Interface ‘ ' ‘ ‘ ‘ —
+Router - - .
+
+84.11.30- FastEthernetO/O 255.255.255.248 No Description Router. saeed
+Interface ——
+Router - - .
+
+84.11.113- FastEthernetO/O 255.255.255.240 No Description Router. sbngE
+Interface
+Router . . . ‘
+
+84.11.113- Serial0/0l0 255.255.255.240 No Description Router. 5 b28
+Interface
+Router . . Router:
+Interface 84.11.141- EthemetO/O 255.255.255.240 No Description 3! b h 55 [£16
+Router . . . Router.
+Interface 84.11141! SenaIO/O 255.255.255.240 No Description 3! ba hoe-1:115
+Router ‘ - - .
+
+212.6.4? FastEthemetO/l 255.255.255.248 No Description Router. 3552
+Interface
+Route' 212 5.47- Ser'alllO 255 255 255 248 No Descri t'on Router 3552
+Interface ' ' ' ' ' W W
+Router Connected to ‘ .
+Interface 212.6.46- EthernetO/O 255.255.2550 Mirdamad Router. Mir Int
+Router . Connected to ‘ _
+Interface 2125.46! SenaIOIO 255.255.2550 Satellite Router. Mir Int
+
+23 of 25
+|i‘::. - [Tiff-12 "'I‘:.I I: rr -; -:- ii -: i—=-,.:: rr 'r H ="I o. 1-1 1: .ir-.- rig-,i- -'.‘[ i.: ="-:"'i‘§'[",=‘
+"“".1'..l|'~, tl:!‘1-".i:"" -' 3.11- H'Ii' ;:.i.;::- t- i: :JI.II:,j- 3:—
+
+TOP SECRET STRAPl
+
+ 
+

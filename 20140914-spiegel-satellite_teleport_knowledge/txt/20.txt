@@ -1,0 +1,117 @@
+TOP SECRET STRAPl
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“Wt“ 34.11.113‘ Seriaiororo 255.255.255.240 No Description Router: .JTooe
+Interface
+Router _ _ 1
+
+8411.113. FastEthernetO 255.255.255.240 No Description Router. JT005
+Interface _
+mm“ 54 11 113- FastEthemetoro 255 255 255 240 No Description Router .JT009
+Interface ‘ ‘ ' ‘ ‘ ‘—
+RW‘“ 3411 113 - FastEth t0 255255 255 240 N o ' t' R t JT013
+Interface . . . erne . . . o escnp ion ou er
+mm“ 3411 113- Seri l0 255255255240 No D scri ti n R t r' JT013
+Interface . . a . . . e po oue.
+Router . .
+
+84.11.85- EthernetOlO 255.255.255.240 No Description Router MAHMOD
+Interface
+Router _ _
+
+34.11.44 EthemetO 255.255.255.192 No Description Router. DRANUS
+Interface
+Router . . .
+
+84.11.41- SenalO 255.255.255.192 No Description Router ORANUS
+Interface
+
+SETH-
+Router . . LAN$$ETH-SW- Router PRESS-
+Interface 84.11.93- GigabItEthernetOIO 255.255.2550 LAUNCH$$INTF- Router
+INFO-GE OIO$
+
+mute" a4 11 14- Eth emetOlO 255 255 255 248 No Descri tion Router Router
+Interface ' ' ‘ ' ‘ p ---‘—-—-
+Router . . . .
+
+84.11.14- SerralO/O 255.255.255.248 No Description Router. Router
+Interface
+Router . .
+
+84.11.19- FastEthernetO 255.255.255.240 No Description Router Router
+Interface
+Router - - .
+
+84.11. EthemetO 255.255.255.192 No Description Router. Router
+Interface
+Router . . .
+
+84.11.29- Serialo 255.255.255.192 No Description Router Router
+Interface
+Router . . 1
+
+84.11.30- EthernetOlO 255.255.255.224 No Description Router. Router
+Interface
+Rum“ 841132- em t0 255255 2550 N o ri t‘ Ro te Ro ter
+Interface . . erne . . . o esc p ion u r u
+Router . . . ‘
+Interface 84.11.32! SenalO 255.255.2550 No Description Router. Router
+Router 84.1136- FastEthernetO 255.255.255.192 No Description Router: Router
+
+20 of 26
+i -Ii:= i1. '-r:.i i: :r -; -1- ii -: i---,.:: -i‘ 'r H :-i sir-i :1' 1:: "vii-,- :- -';i i.‘ Iil
+
+TOP SECRET STRAPl
+
+ 
+

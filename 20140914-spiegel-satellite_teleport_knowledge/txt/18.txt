@@ -1,0 +1,119 @@
+TOP SECRET STRAPl
+
+Routers Found on Tidal Surge:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Router _ _ ‘
+Interface 84.11.54.- FastEthernetOlO 255.255.2550 No DESCIIptIDn Router. 2510
+Router _ _ ‘
+84.11.48- FastEthernetO 255.255.255.224 No Descnptlon Router. A55300
+Interface
+Router _ _
+84.11.48- Group—Asyncl 255.255.255.224 No Descnptlon Router A55300
+Interface
+Router . . . ‘
+84.11.48- SerIaIO 255.255.255.224 No Descnptron Router. ASSSDD
+Interface —
+“Wt“ 34.11.33- FastEthernetO 255.255.2550 No Description W
+Interface Heraat
+Router . . Router: A85300-
+Interface 84.11.33- Group-Asynco 255.255.2550 No Descnptlon ———Heraat
+Router Router: A85300-
+Interface 84.11.107- EthemetO 255.255.255.252 Multan DVB Multan
+Router . . Router:
+Interface 84.11.28.- FastEthernetO 255.255.255.224 No Description ASSSOO hilas
+Router . . . Router:
+Interface 84.11.28- SenalO 255.255.255.224 No Descnptlon A85300 hilas
+Router . . ‘
+Interface 84.11.42.- FastEthernetO/O 255.255.255.224 No Descnptlon Router. AS54004
+Router . . . .
+84.11.140- SerIaIOIOIO 255.255.2550 IntemetLInk Router. ArbIISIte
+Interface
+Router . . . .
+84.11.140- FastEthernetO/O 255.255.2550 WanLInk Router. ArbIISIte
+Interface
+Router . .
+84.11.2_ Eth emetO 255.255. 255.0 No Descnptron Router. Atrak
+Interface
+Router . . Router: DIG-
+Interface 84.11.43- FastEthernetO 255.255.255.240 No Descnptron SCPCE
+Router . ‘
+Interface 84.11.140- SerralO/OIO 255.255.2550 DVB Router. DVB
+“Wt” 3411140- FastEth taro 255255 2550 N D ‘t' R te ova
+Interface . . erne . . . o escnpron ou n
+Router . . 1
+84.11.1 FastEthernetOlU 255.255.255.240 No Description Router. FTP
+Interface
+Router 84.11.140- SeriaIOIO 255.255.255.240 No Description Router: FTP
+18 of 26
+
+i‘::’. ' I'TMIII
+“*1: Lila, :‘I: 5:1
+
+-':i:""
+
+'-r;.: I: rr '; '1' ii 'f :-
+
+""'.."..-‘Ll :', |-!-‘I-;: (Li-Q: -. l-. 1'1':.-'
+
+"I‘ ’f |"T ="I":I.'-‘ -=1»."I -112 1:
+
+I'.: "I‘Jr-g I", ’...l' -'
+
+TOP SECRET STRAPl
+
+.‘l 1.? =,' '- :"
+
+IN: I" =‘ L.:"".'I’
+
+ 
+

@@ -1,0 +1,109 @@
+TOP SECRET STRAPl
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Interface
+Router _ _
+84.11.77- EIhemetOlO 255.255.255.192 No Descnptlon Router. GW2510
+Interface
+Router . _ _ _ ‘
+84.11.717- SerIaIOIO 255.255.255.192 No Descnptlon Router. GW2510
+Interface _
+Router .. _ - -
+84.11.72- FastEthernet4l1 255.255.255.192 No Descnptlon Router GW3345
+Interface —
+Rom“ a4 11 52- FastEth mm 255 255 255 o G t R t . Gate 3:
+Interface . . erne . . . 51 away ou er. wa
+Router . .
+Interface 34.11.62- SenalOlO/O 255.255.2550 Sat Router. Gateway
+RW‘“ 84 11 62- FastEthernetO 255 255 255 o No Description Router Gateway 3
+Interface ‘ ‘ ‘ ‘ ‘ ‘
+Router . - .
+84.11.62- FastEthernetO 255.255.2550 No Descnptlon Router. Gateway: 4
+Interface
+Router .
+84.11.62- FastEthernetO 255.255.2550 IPCALLER Router. Gateway 5
+Interface
+Router outside-$ETH- . -
+Interface 84.11.7- FastEthernetO/O 255.255.255.240 LAN$ Router. HIIIah
+”Wt“ 34.11.114- GigabitEthernetOlZ 255.255.255.192 No Description Router. ISP-l
+Interface
+Router . . . . '
+84.11.115- GigabrtEthernew/l 255.255.255.224 No Descnptlon Router. ISP-l
+Interface #—
+RW‘“ 84 11 113- FastEthernetO 255 255 255 240 No Descri t'on Router .JT001
+Interface ' ' ' ' ' p ' '
+Home" 84 11 113- FastEthernetO 255 255 255 240 No Descr' t'on Router JT002
+Interface . . . . . ip I .
+Router . . ‘
+84.11.113- FastEthernetO 255.255.255.240 No Description Router. JT004
+Interface
+Router . .
+84.11.113- FastEthernetOlO 255.255.255.240 No Description Routen JT004
+Interface
+Router . .
+84.11.113- FastEthernetO 255.255.255.240 No Descnptlon Router JT005
+Interface
+Router . . ‘
+84.11.113- FastEthernetO 255.255.255.240 No Descnptlon Router. JTUOB
+Interface
+Route' 54 11 1131- FastEthernetOlO 255 255 255 240 No Description Router .JT005
+Interface ' ‘ ' ' ' '—
+19 of 26
+|i‘::. . lint-r: "re: I: if -; -:- ii -: i—=-,.:: rr 'r H ="I o. :1 1: .rr-.- rig-,r- -';l i.: ="-:"'I‘j'l",=‘
+"*2: Lila, :I: r-i -".i:"" -' .1'._t1- H'Ii' ;:.i.;::- t- i: :JI.II:,j- 3:—
+
+TOP SECRET STRAPl
+
+ 
+

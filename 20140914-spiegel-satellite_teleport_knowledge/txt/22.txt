@@ -1,0 +1,112 @@
+TOP SECRET STRAPl
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“Wt“ 34.115 FastEthernetOlO 255.255.255.240 No Description Router: Router-243
+Interface
+Router _ _ 1
+84.11.26- FastEthernetOlO 255.255.255.224 No Description Router. Router'ﬂ
+Interface _-
+Router . . Router.
+Interface 84.11.133- FastEthernetO 255.255.255.224 No Description SKYBAGHDAD012
+Router . . . Router:
+Interface 84.11.138- SerIaID 255.255.255.224 No Description SKYBAGHDADDlZ
+Router . . Router
+Interface 84.11.138- FastEthernetO 255.255.255.224 No Description SKYB AGHD AD013
+Router . . . Router:
+Interface 84.11.138 SeriaIO 255.255.255.224 No Description SKYB AGHD AD013
+Router . . . Router
+Interface 34.11.138- Seriall 255.255.255.224 No Description SKYBAGHDAD013
+Router . . Router:
+Interface 84.11.138- FastEthernetOlO 255.255.255.240 No Description Sk B h03
+“Wt“ 34.11.32.- EthernetO 255.255.255.224 No Description Router: mom-1
+Interface
+”“1“ 34.11.32- Virtual-Templatel 255.255.255.224 No Description Router UROM-l
+Interface ——
+mute" s4 11 25- FastEthernetO/O 255 255 255 224 No Descri tion Router V151
+Interface ' ' ‘ ' ‘ p —--‘—-—
+Router . . RECEIVE _ Router.
+Interface 84.11.60- GigabrtEtherneIOIO 255.255.255.252 DISH facto 3845
+Router . Router:
+Interface 84.11.60- SerualO/OIO 255.255.255.252 SEND_DISH facto 3845
+Router . . Router.
+Interface 84.11.60- Loopbacko 255.255.255.252 No Description factor 3845
+Router _4- TKC.TRANS Router:
+Interface 84.11. FastEthernetOlO.6 255.255.2550 Segment atetkckishrom
+Router 84.11.141- FastEthernetOlO 255.255.255.224 No Description Router: iConnect
+Interface
+Router . . . .
+84.11.141- SenalOlO 255.255.255.224 No Description Router IConnect
+Interface
+Router . . ‘ .
+Interface 8411.141! EthernetO 255.255.255.240 No Description Router. Iragl
+Router 84.11.141. SerialO 255.255.255.240 No Description Router: iragl
+22 of 26
+
+""'.€ Uh fl: :‘i -'-.i:"" "
+
+-.i i: ii‘ ': -:-ii
+
+i I—=-,.::
+.1'..ti- H'ii' :3.:-;.:- t-
+
+i: :;:_ii:,;-
+
+TOP SECRET STRAPl
+
+I'l‘ 'I‘ |"i' ="I Hf“ 55.11 -.' I. :1 "':'I" l". 'V=r.!'.".‘ ‘I V'Ii'pii 1.1""?!
+
+ 
+
+ 
+

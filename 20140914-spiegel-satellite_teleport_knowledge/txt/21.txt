@@ -1,0 +1,111 @@
+TOP SECRET STRAPl
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Interface
+R””“" 34.11. SerialO 255.255.255.192 No Description Router: Router
+Interface
+Router _ _ _ ‘
+84.11.61- FastEthernetOlO 255.255.255.224 No Description Router. Router
+Interface —
+Router . _ - -
+84.11.30- FastEthernetO 255.255.255.192 No Description Routen Router
+Interface —
+Rom“ 8411 33- FastEth to 255 255 255 240 N D ' t' R t . R t
+Interface . . erne . . . o escnp ion ou er. ou er
+Router . . .
+34.11.83- FastEthernetOlO 255.255.255.240 No Descnptlon Router. Router
+Interface
+RW‘“ 34 11 FastEthernetO/O 255 255 255 243 No Description Router Router
+Interface ‘ ' ‘ ‘ ‘ ‘—
+Router . - .
+84.11.113- FastEthernetO 255.255.255.240 No Descnptlon Router. Router
+Interface
+Router - - .
+84.11.113- FastEthernetO 255.255.255.240 No Descnptlon Router. Router
+Interface
+Router - - .
+84.11.113- FastEthernetO 255.255.255.240 No Descnptlon Router. Router
+Interface
+Router . .
+84.11.113- FastEthernetO/O 255.255.255.240 No Description Router. Router
+Interface —
+Router 84 11 113- FastEthernetO 255 255 255 240 No Description Router Router
+Interface ' ' . . - _.__..__‘_______._.
+Router . .
+84.11.137- FastEthernetOlO 255.255.255.240 No Description Router: Router
+Interface
+Home" 84 11 137- Ser'alO/O 255 255 255 240 N0 Descr' t'on Router Router
+Interface . . I . . . ipi .
+Router . . ‘
+84.11.139- FastEthernetOlO 255.255.255.240 No Description Router. Router
+Interface
+Router . . .
+844.11.139- SerIaIOIO 255.255.255.240 No Description Routen Router
+Interface
+Router . .
+84.11.140- EthemetO/O 255.255.255.240 No Description Router Router
+Interface
+Router . . . ‘
+84.11.1110,- Seria|0l0 255.255.255.240 No Description Router. Router
+Interface
+Route' 54 11 245.- FastEthernetO 255 255 255 240 No Description Router Router
+Interface ' ' ' ' ' '—
+21 of 26
+Ho. ' [CUT-.12 .- "'I‘:.l I: it ': ," 'i- ii 5 =25! '1‘ 'r |-'I ="I 'iI.’ -' 5351 -.-' '.I :H'.‘ -r'-'-,'r I'; “Ll i: :"'r‘i'l",=‘
+"*2: Lila, :I: :-i -'-.i:"" -' 5111- H'Ii' ;:.i.;::- I- i: :JI.II:,j- 3r—
+
+TOP SECRET STRAPl
+
+ 
+
