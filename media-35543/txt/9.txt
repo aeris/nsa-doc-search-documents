@@ -1,0 +1,114 @@
+UK TOP SECRET STRAPl COMINT
+
+OPC—M/TECHB/Gl
+
+Cumulative packet count
+
+ 
+
+ 
+
+CtoS 1 StoC 1
+
+ 
+
+010002500
+I I I | | I I
+010002500
+I I I I | | |
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+15:46 15:48 15:50 15:52 15:54 15:56 15:46 15:48 15:50 15:52 15:54 15:56
+CtoS 2a StoC 2a
+5’, _ o
+.—1 7 ﬂ —
+C) 7 O
+1J1 In _
+O 7 C) 7
+
+ 
+
+I I I I I I
+16 02 16:04 16:06 16:02 16:04 16:06
+
+CtOS 2b StOC 2b
+
+ 
+
+ 
+
+ 
+
+1 | 1 | | | 1 |
+16:02 16:04 16:06 16:08 16:02 16:04 16:06 16:08
+
+CtoS 3 StoC 3
+
+ 
+
+Cumulative packet count
+0 2000 5000 0 100 300
+1 | 1 | I I I | 1 1
+0 4000 0 200400
+1 | | | | | 1 | | |
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+16:12 16:14 16:16 16:18 16:12 16:14 16:16 16:18
+CtoS 4 StoC 4
+D % O /
+o- 0_
+LD 1.0
+D— D—
+| | | 1 | | | |
+16:22 16:24 16:26 16:28 16:22 16:24 16:26 16:28
+
+Time (hh:mm)
+
+Figure 2: Cumulative packet count for the four truthed sessions. On the left—hand side
+the client—to—server trafﬁc is shown. On the right-hand side the server—to—client trafﬁc is
+shown. The second truthed session is split into the two signiﬁcant circuits used.
+
+9
+
+This 01101111011011 i5 6:<6111pl 011061 1116 F166c10111 01' 11110111130011 AH 2000 1:01:11 and 111m 116 6:<6111Jl 011(161 011161' UK
+11110111130011 |6gis1a11011 R6161 any 130111 (11161165 10 GCIIQ 011
+
+UK TOP SECRET STRAPl COMINT
+
+ 
+ 
+

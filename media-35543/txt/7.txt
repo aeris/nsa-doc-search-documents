@@ -1,0 +1,55 @@
+UK TOP SECRET STRAPl COMINT
+
+OPC—M/TECHB/61
+
+There were 1958 TOR routers in the relevant consensus ﬁles of which 1893 had
+signature hits. we consider links between TOR routers as undirected and an all pairs
+calculations allows us to estimate that there are 1.79 to 1.92 million possible links in the
+TOR network (we do not know whether we do not see a router due to it being off or
+invisible to us).
+
+However we only see 6185 links between TOR routers in the SIGINT logs. Therefore
+we are seeing about 0.3% of possible TOR links in SIGINT. Note this percentage is likely
+to be an small underestimate of the visibility of TOR links as most TOR circuits will
+consist of two links within the TOR network: one link involving a guard node and one
+link involving an exit node. Based on the consensus logs there are 1.65 million links that
+satisfy this constraint: this link count raises visibility to 0.4%.
+
+The JTRIG logs use 8294 links between TOR nodes of which we see 13. Therefore
+we could only sec 0.16% of JTRIG used TOR links in SIGINT.
+
+The JTRIG link visibility percentage and the population link visibility percentage
+suggest a significantly different underlying distribution (p—value between 0.005 and 0.01).
+TOR is claimed to use a server’s geolocation to choose circuits, perhaps this circuit
+choosing algorithm hinders our visibility.
+
+If we assume the visibility of each link in a 2—path within the TOR network is inde—
+pendent then the chance of seeing any particular 2—path is between 1 in 100,000 and 1
+in 400,000. In the JTRIG logs of 2935 paths we would expect to observe both links of
+one or more paths with probability 0.7% to 3%. we saw one so either we were lucky or
+link visibility is correlated in a path.
+
+To complete a circuit trace you would also need to see the client—to—guard—node trafﬁc
+and the exit—node—to—server trafﬁc which would lower the probability of visibility yet
+further. We believe such probabilities are too low for a useful attack and thus we do not
+consider circuit tracing attacks further.
+
+4 Correlating guard and exit node trafﬁc
+
+we will use the correlation in the timing of data packets between guard and exit nodes
+to deanonymise TOR. There are two features that we need to remember about TOR:
+
+o TOR repacketises the data which means that packets and packet sizes can not be
+exactly followed through the network
+
+0 Each TOR node has a rate—limiting store—and—forward methodology which will af—
+fect packet timings
+
+These two factors means that a burst of packets entering the TOR network will be
+smeared out over time into cells that do not directly map to the input packets and
+comparing histograms of guard and exit trafﬁc is hard [3].
+
+7
+This information is exempt under the Freedom of Information Act 2000 FOI/\ and mav be exem it under other UK
+information legislation. Refer any FOIA queries to GCI IQ on
+

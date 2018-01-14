@@ -1,0 +1,52 @@
+UK TOP SECRET STRAPl COMINT
+
+OPC—M/TECHB/61
+
+Our main insight is to consider cumulative distributions rather than histograms. In
+particular we will consider cumulative packet count and cumulative TCP payload bytes.
+we hope that over a long time window that there will be approximate conservation of
+these quantities and the impact of rate limiting will be less signiﬁcant (rate limiting will
+just impose a maximum gradient).
+
+In ﬁgure 2 and ﬁgure 3 we show cumulative packet counts and cumulative TCP
+payload sizes for our truth data. It can be seen that a lot of features are preserved , it
+seems sensible to consider that comparison of these cumulative plots between guard and
+exit node trafﬁc could lead to a deanonymisation technique.
+
+Considering ﬁgure 2 in more detail one can see steps in these plots replicated between
+guard node and exit node trafﬁc for all the plots apart from perhaps “CtoS 4” — perhaps
+client—to—server trafﬁc is harder to deanonymise. You can also see that there are changes
+in scale (for example in experiment 3 there are more guard node packets than exit node
+packets).
+
+Figure 3 of cumulative TCP payloads shows some similar features. All the server—
+to—client graphs show preserved steps. However the client—to—server graphs do not show
+very clear relationships. In particular looking at “CtoS 3”, you can see a big difference
+during the download of the large PDF ﬁle. The exit node is sending TCP ACKs with no
+payload back to the server but the client is sending larger TOR acknowledgement cells
+back which leads to a large difference in graph shape.
+
+Therefore we will consider deanonymisation based on cumulative packet counts. As
+well as looking like a generally cleaner picture than using TCP payload, such an approach
+requires less data to be collected by the SIGINT system. This easier data collection is
+exempliﬁed by our bulk data logs , these logs do not contain packet sizes, let alone TCP
+payload sizes.
+
+5 Why we want to own the exit node
+
+SIGINT gives us two added complications that the above truth data analysis above has
+ignored:
+
+1. Each exit node is serving many clients which will add unwanted data into the traf—
+ﬁc for a single user. TOR users are encouraged to run privacy—preserving proxies
+(e. g. privoxy or polipo) and these proxies try to normalise the trafﬁc so that ev—
+eryone shares the same HTTP header format. The impact of this is that SIGINT
+proxy demultiplexing techniques can not reliably be used. It is potentially possible
+to try and demultiplex trafﬁc via content analysis (e.g. looking at what links are
+included in webpages) but such a technique would be complex and fragile to HTML
+formatting errors and require all web browsing to be non—encrypted.
+
+8
+This information is exempt under the Freedom of Information Act 2000 FOI/\ and rnav be exem it under other UK
+information legislation. Refer any FOIA queries to GCI IQ on
+

@@ -1,0 +1,112 @@
+UK TOP SECRET STRAPl COMINT
+
+OPC—M/TECHB/ﬁl
+
+Cumulative packet count per host
+
+Guard Exit.media3.washingtonpost.com
+Guard (secondary) Exit.media.washingtonpost.com
+Exit.a.fsdn.com Exit.news.bbcimg.c0.uk
+Exit.analyze.privacy.net Exit.www.bing.com
+Exit.a.tsgstatic.com Exit.www.governmentattic.org
+Exit.attach.tsgstatic.com Exit.www.onion-router.net
+Exit.c.tsgstatic.com Exit.www.torpr0ject.org
+Exit.forums.techguy.org Exit.www.washingtonpost.c0m
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CtoS { 1 } g StoC { 1 }
+m ,
+N 7
+O ,
+O O
+I" 7 ﬂ 3:
+O — I I I I I I O — I {If—I (g
+15:46 15:48 15:50 15:52 15:54 15:56 15:46 15:48 15:50 15:52 15:54 15:56
+CtoS { 2 } StoC { 2 }
+
+ 
+
+0100250
+
+IIIIIII
+
+0200400
+III
+
+ﬂ / : Fri—:JJ' _.——s
+
+I I I I I I I I
+16:02 16:04 16:06 16:08 16:02 16:04 16:06 16:08
+
+CtoS { 3 } StoC { 3 }
+
+ 
+
+ 
+
+ 
+
+Cumulative packet count
+
+0 2000 5000
+I I I I I
+
+0 40008000
+
+I I I I I
+
+ 
+
+| I | I
+16:12 16:14 16:16 16:18 16:12 16:14 16:16 16:18
+
+CtoS { 4 } StoC { 4 }
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+O 200 600
+|
+
+O 400 800
+
+| | | | | |
+
+”ﬂ
+
+I I I I I
+16:22 16:24 16:26 16:28 16:22 16:24 16:26 16:28
+
+ 
+
+Time (hh:mm)
+
+Figure 4: Cumulative packet count for the four truthed sessions but with exit trafﬁc:
+split across the main hosts contacted. On the left—hand side the client—to—server trafﬁc: is
+shown. On the right—hand side the server—to—chent trafﬁc is shown.
+
+12
+
+This iIIILIIIIIIIiLIII Is 6: enIpI IIIILIEI IIIE FIeeclonI OI Information :’\LI 2000 (POI: '\J and may be e: enIpI LIIICIEI L>I I'IIEI l} K
+in IL'IIIIIJI iL'III Ie isIaI IiL'III ReIeI an POI '\ LIIIeIIes IO ( ( | IQ OH
+
+UK TOP SECRET STRAPl COMINT
+

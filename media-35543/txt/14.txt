@@ -1,0 +1,81 @@
+UK TOP SECRET STRAPl COMINT
+
+OPC—M/TECHB/Gl
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+beta 7 r"2 7
+7500 0 500
+| | | |
+CtoS l StoC 1
+2.0 — —
+1.5 7 7
+1.0 — —
+0.5 — %Q /X _
+0.0 - _
+CtoS 2a StoC 2a
+_ — 2.0
+— — 1.5
+— — 1.0
+‘ iU iU
+1 7 0.0
+CtoS 2b StoC 2b
+2.0 7 7
+1.5 7 7
+1'0 _ ltd _
+0'5 _ p\ ﬂ\ _
+0.0 — _
+CtoS 3 StoC 3
+_ — 2.0
+— //\ — 1.5
+_ . 4A — 1.0
+7 ﬂ \ ﬂ \ 7 0'5
+1 7 0.0
+CtoS 4 StoC 4
+2.0 7 7
+1.5 — —
+1.0 — —
+0.5 _ ;A /R _
+0.0 — _
+
+ 
+
+I I I I I I
+—500 0 500
+
+Time offset / s
+
+Figure 5: The correlation r2 and the linear regression coefficient 1'3 as the time offset
+between the guard node and exit node traffic is varied.
+
+14
+
+This iniormafion is exempt under Lhe Freedom of' information AH 2000 (FOIAJ and may be exempt under oflier UK
+iniormafion legisiafion. Refer any POM queries Lo GCIIQ on
+
+UK TOP SECRET STRAPl COMINT
+

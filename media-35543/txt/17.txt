@@ -1,0 +1,56 @@
+UK TOP SECRET STRAPl COMINT
+
+OPC—M/TECHB/Gl
+
+scoreﬂowpair Scores a pair of ﬂows at all time offsets or at a limited range of time
+offsets.
+
+ﬁndbestmatchingﬂow Find the guard ﬂow that best matches an exit How.
+
+We also include our truth data as a data frame called tortruth. This package is available
+
+9 Conclusion
+
+we have a shown a technique that can deanonymise TOR web—browsing given packet
+times between the client and guard node and packet times from the exit node ﬁltered to
+a single circuit. The false positive rate looks low enough to suggest this technique should
+be carried forward.
+
+The required data is not collected at present. For this technique to work the following
+additional data feeds will be required:
+
+a Second—accurate packet logging at TOR exit nodes we control with packets labelled
+by a unique circuit identiﬁer.
+
+o Second—accurate packet logging of sessions between TOR clients and TOR guard
+nodes. This data could be obtained by SIGIN T or by running guard nodes. The
+SIGIN T solution would require an up—to—date feed of TOR “consensus” documents;
+TOR IP addresses could then be extracted from the “consensus” documents for
+ﬁltering by the SIGIN T system.
+
+At the time of writing J TRIG are investigating the collection of the exit node data and
+ICTR—FSP are trialling a feed of guard node data from research bearers.
+W'ider testing is recommended to better characterise the false positive rate. A ﬁrst
+
+test case (both because we have truth data and for InfoSec purposes) may be to try and
+dcanonymisc JTRIG TOR usage.
+
+References
+
+[1] Various TOR resources linked off—
+[2] N SA TOR capability reported by _
+
+[3] _ Options for further research into the Tor network. B / 7694BA / 5001 / 3 / 104.
+2 February 2010. DISCOVER 6722909.
+
+i4] —
+
+17
+
+This iniormalion is exempt under lhe Freedom of information Acl 2000 (FOIAJ and may be exempt under ollier UK
+iniormalion legisialion. Refer any POM queries lo GCIIQ on
+
+UK TOP SECRET STRAPl COMINT
+
+ 
+
