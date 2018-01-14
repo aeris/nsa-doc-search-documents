@@ -1,0 +1,58 @@
+RC5 9 - Addressbook module
+
+ 
+
+Module Conﬁguration De vice Recording...
+Mouse advanced desktop mouse 5|le-
+Password advanced desktop password SBVEd-
+PDSitiD" base, desktop, target's geographic position.
+advanced mobile
+Screenshots base, dESk‘fOP: windows opened on the target's screen.
+advanced mobile
+URL advanced desktop, visited U RL.
+mobile
+Visited websites base desktop, visited URL.
+mobile
+
+Other types of modules are described below:
+
+ 
+
+Module Configuration De vice Action
+
+Conference advanced mobile Creates a 3‘W3Y call.
+
+Crisis advanced desktop, Recognizes crisis situations (i.e.:
+
+mobh‘e sniffer running). Synchronization and
+
+all commands can be temporarily dis-
+abl ed.
+
+Infection advanced desktop Propagates the agent on other
+devices.
+
+Livemic advanced mobﬂe Listens to conversations in real time.
+
+Dnline 5y"- base desktop, Synchronizes the agent with RC5 to
+
+chronization mobile allow evidence to be received and the
+
+.Add ressbook mod ule
+
+Purpose
+
+agent to be reset.
+
+The Addressbook module records all the information found in the device's addressbook. The
+desktop version imports contacts from Outlook, Skype and other sources.
+
+Operating systems
+Desktop: Windows, OS X
+
+ 
+
+Technician's Guide I ver.1.5 SE P—
+
+2013 | RCSQ | 2013© HTS.r.|. -pag. 123
+

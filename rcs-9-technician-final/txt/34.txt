@@ -1,0 +1,57 @@
+RC5 9 - Investigation Wizard
+
+Button Fanr: tion
+
+.9
+
+“mm" 0 NOTE: the button is only enabled for users with Administrator and Technician
+' privileges.
+
+Wlnni
+
+ 
+
+Open the wizard to quickly create an agent.
+
+Open the wizard to quickly save operation and target data.
+
+0 NOTE: the button is only enabled for users with Administrator and System
+Administrator privileges.
+
+Rubi-II. Wind
+
+ 
+
+Investigation Wizard
+
+This wizard quickly creates an agent. The wizard asks you to enter the name (i.e.: "SmartSpy") and
+type of agent to be created (desktop or mobile) and creates, in the following order:
+
+1. a "Sm artSpy" operation
+
+2. a "Sm artSpy" target
+
+3 a "Sm artSpy" factory
+
+4. a "Sm artSpy" user group in which the current user is the sole member
+
+and directly opens the factory conﬁguration page. See "Basic factory or agent configuration" on
+page 50
+
+Other elements can be added to this operation, target or user group by simply using the detail
+page.
+
+Shared interface elements and actions
+
+Each program page uses shared elements and allows similar actions to be run.
+
+For easier manual comprehension, elements and actions shared by some functions are described
+in this chapter.
+
+What the RC5 Console looks like
+This is what a typical RC5 Console page looks like. A target page is displayed in this example:
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.l. - pag. 14
+

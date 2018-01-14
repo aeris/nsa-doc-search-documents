@@ -1,0 +1,43 @@
+RCS 9 - Basic conﬁguration data
+
+ 
+
+ 
+
+Recording Description
+Contacts 8: Record contacts and calendar.
+Calendar
+
+Visited websites
+Keylog
+
+Keylog, Mouse
+8: Password
+
+Camera
+
+Online
+Synchronization
+
+Record visited website URL addresses.
+(mobile only) Log key strokes.
+
+(desktop only) Log key strokes, passwords saved on the system and mouse
+clicks.
+
+Record webcam images.
+Grab a shot every: image acquisition interval.
+for...times: acquisition repetitions.
+
+Enabled by default. If enabled, the agent contacts the server to send data and
+receives new conﬁgurations, updates, and so on.
+
+Every: synchronization interval
+
+minute on: Anonymizer or Collector name or IP address. The name or IP
+address can be manually entered.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.I. - pag. 54
+

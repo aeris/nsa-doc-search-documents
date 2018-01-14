@@ -1,0 +1,93 @@
+RCS 9 - Viewing infection details
+
+Steps Result
+
+1. In the Network Injector tab, select the
+network interface for injection in the
+Network Interface list box.
+
+2. In the Sniffing interface listbox, select a
+different network interface to be used for
+
+snifﬁng or select the same interface used "tmrk'm‘w
+for injection. ”"Lm'kimm'":
+SIIiFI'IIHJ lIILL't Face:
+. Tip: use two different interfaces to mum:
+guarantee better device
+identiﬁcation.
+6 NOTE: Endace interfacesIDAGI,
+' meaning snifﬁng interfaces, appear in
+Snifﬁng Interface.
+
+3. Click on Automatic Startup to autom aticallijur
+restart the infection without am.r human
+intervention even after Appliance Network
+Injector reboot or shutdown.
+
+4. Click Start. .
+thworklruocmr
+IMPORTANT: Appliance Control ”Elm-Ei-IlmI-«e:
+Center lets you set up, start an auirnmaiumrm:
+infection and close Appliance Control P-hliw:
+
+Center leaving the infection running.
+The next time itis opened with the
+infection running, the Stop button
+will appear instead of the Start
+button. This lets you re—conﬁgu re and
+starta new infection.
+
+5. To stop infection, click Stop. or close the
+window to leave the infection running.
+
+Viewing infection details
+To view recorded data, select the Log System tab.
+
+Appliance Control Center data
+
+Network Injector data tab
+Data is described below:
+
+Appll ant. e -:: .:.nll'.:.l. Cell tor
+
+I mg .9me-
+
+Iltlln [CAIIleuImIH Incl}
+
+mil-1 [Menu-III ledemim}
+
+ 
+
+I lbellmh
+
+ 
+
+ruin
+
+_IA|l|uI11.IIi[ Llallllp
+
+Appll am. e -::-:-nl
+
+I 11g 9pm“
+'mun Iowan...“ Incl}
+
+ELI-1 [ll‘lelllnl I Ll‘eel neLcleuir a}
+
+mum Ittllu- m I I.
+
+ 
+
+' Ibellmh
+
+ 
+
+ruin
+
+w" Aulunuli: sl..III.IIp
+
+mum Hutu. sum
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.l. - pag. 79
+

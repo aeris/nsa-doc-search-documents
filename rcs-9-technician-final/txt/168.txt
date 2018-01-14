@@ -1,0 +1,56 @@
+RC3 9 - Notes for Symbian operating systems
+
+ 
+
+Notes for Symbian operating systems
+
+0 IMPORTANTrloIIow the procedure to receive a certificate for Symbian. See
+"instaiiation Package preparation Jfor Symbian” on page 152 .
+
+Operating systems
+Android, BlackBerry, iOS, Symbian, WinMobile, Windows Phone
+
+Android, iOS, Win Mobile, Windows Phone parameters
+
+Name Description
+
+ 
+
+Application name Application name (visible to target)
+
+Require (Android only) If automatic acquisition fails, this option enables the user
+Administrative request to manually obtain root privileges from the device.
+Privilege
+
+‘ WARNING: the request is displayed on the target device.
+
+BlackBerry settings
+
+Name Description
+
+ 
+
+Application name Installer name (visible to target)
+
+Name (BlackBerry only) Application data used to "hide" the agent.
+Description
+
+Vendor
+
+Version
+
+Symbian settings
+
+Name Description
+
+ 
+
+Application name Application name (visible to target)
+Certificate bound to phone IMEI Device certiﬁcate.
+
+560 Edition Operating system version.
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013© HTS.r.|. - pag. 148
+

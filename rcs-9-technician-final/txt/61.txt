@@ -1,0 +1,42 @@
+RC5 9 - Agent conﬁguration
+
+ 
+
+0 NOTE: in case evidence is not received from an agent in demo mode, this may be due to a
+server settings error or impossibility of reaching the address of the set Collector (i.e.: due
+to network settings problems).
+
+Agent configuration
+
+Agent conﬁguration (basic or advanced) can be repeatedly edited. When saved, a copy of the
+configuration is created and saved in the conﬁguration log.
+
+At the next synchronization, the agent will receive the new configuration (.5th time) and
+communicate successful installation (Activated). From that point on, any changes can only be
+made by saving a new configuration.
+
+6 NOTE: If .5th time and Activated are null, the current settings can still be edited.
+
+For a description of agent configuration log data see "ﬁlgent conﬁguration log data" on page 43 .
+
+Agent page
+
+To manage 0 Operations section, double-clickan operation, double-clicka target, double-click an agent
+agents:
+
+Purpose
+This function lets you:
+1- check the agent configuration log and view details for each configuration.
+1- transfer ﬁles to/from the target device
+a import/export agent evidence
+. replace the scout agent with an agent and update the agent's software
+. display commands run by the agent
+. display the IP addresses used by the agent to contact the Collector
+
+What the function looks like
+This is what the page looks like:
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.I. - pag. 41
+

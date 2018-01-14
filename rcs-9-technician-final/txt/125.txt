@@ -1,0 +1,51 @@
+RC5 9 - List ofsub-acﬁons
+
+List of sub-actions
+
+Sub-action data description
+Sub-actions are described below:
+
+Data Description
+
+ 
+
+Name Arbitrary name assigned to an action
+
+Sub-action List of sub-action types
+
+Sub-action type description
+
+Available types of sub-actions are described below:
+
+ 
+
+Action Device Description
+
+Destroy desktop, mobile Renders the target device unusahie.
+
+Execute desktop, mobile Runs an arbitrary command on the target machine.
+Log desktop, mobile Creates a custom message.
+
+SMS (text message} mobile
+
+Synchronize desktop, mobile
+Uninstall desktop, mobile
+ﬁiDestroy action
+
+Purpose
+
+Sends an hidden SMS from the target device.
+Runs synchronization with the Coiiector.
+
+Removes the agentfrom the device.
+
+The Destroy action renders the target device temporarily or permanently unusable.
+
+Operating systems
+Desktop:Windows, OS X
+Mobile: BlackBerry, WinMobile
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RCS 9 I 2013© HTS.r.|. - pag. 105
+

@@ -1,0 +1,68 @@
+RCS 9 - Silent Installer vector
+
+ 
+
+Silent Installer vector
+
+Purpose
+
+Compiling creates an executable that installs the agent in silent mode. No output is visible on the
+
+device.
+
+Operating systems
+
+05 X, Windows
+
+ 
+
+Parameters
+Nome Description
+Require Administrator privileges are required during agent installation.
+administrative Behavior differs according to operating system:
+prlvlleges o 05 X: if selected, the agent will request the root password, corrupting
+the authentication dialogue. If not selected, some modules will not
+work.
+
+0 Windows: if selected, administrator privileges will be required to pro-
+ceed with agent installation. The option must be selected to target Win-
+dows Vista devices, when the user is a member of the Administrator
+group. In all other cases, leave the option blank.
+
+Include 64bit (Windows only) The executable supports 64bit machines (size will increase by
+
+support (100
+KiB}
+
+Include audio
+codec (200
+KiB}
+
+Use the cer-
+tiﬁcate to sign
+the dropper
+
+100 Ki B).
+
+(Windows only) The executable includes the audio codec (size will increase by
+200 KiB).
+
+6 NOTE: even if this option is not selected, the agent will download the
+' audio codec required for the type of evidence to be acquired at first
+synchronization.
+
+Sign the executable using the digital certificate. The digital signature can
+significantly increase the level of invisibility to anti-viruses.
+
+o Ilvl PORTANT: follow the procedure to receive a certificate to use this
+function. See ”Obtaining a Code Signing certificate" on page 139 .
+
+L35. Service call: for further information on how to obtain a digital
+certificate, contact HackingTeam support service.
+
+0 NOTE: 1 KiB is 1024 byte.
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013. HTS.r.|. - pag. 143
+

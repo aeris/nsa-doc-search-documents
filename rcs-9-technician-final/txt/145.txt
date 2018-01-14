@@ -1,0 +1,51 @@
+RC5 9 - Call module
+
+ 
+
+kaCall module
+
+Purpose
+
+The Call module captures audio and information (start time, length, caller and called numbers) for
+all calls made and received by the target.
+
+On a desktop device, the Call module taps all voice conversations on supported applications.
+On a mobile device, the Call module taps all calls.
+
+Operating systems
+
+Desktop: Windows, OS)(
+
+Mobile: Android, BlackBerry (information only), Sym bian (without suppressing the audio signal),
+WinMobile
+
+Significant data
+Data is described below:
+
+ 
+
+Field Description
+
+Enable call record- (mobile only) Enables call recording. If disabled, call audio is not
+ing recorded.
+
+Buffer size Acquisition buffer size used for audio sectors.
+
+Quality Audio quality (1=maxim urn compression, 10=best quality).
+
+@Camera module
+
+Purpose
+The Camera module captures an image from the built-in cam era.
+
+‘ WARNING: capturing an image on a desktop causes the camera led to blink.
+
+Operating systems
+
+Desktop: Windows, 05X
+Mobile: iOS, Symbian (front camera only, when available), WinMobile
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013. HTS.r.|. - pag. 125
+

@@ -1,0 +1,60 @@
+RCS 9 - Installation Package preparation for Symbian
+
+Name Description
+
+ 
+
+Service Type Type of service requested:
+
+0 Loading: the target phone is automatically redirected to the resource
+indicated in the URL. Depending on the phone security settings, the
+application can be automatically installed or a message can be dis-
+played to the user, asking how to proceed.
+
+o Indication: a message will be displayed asking the user how to pro-
+ceed.
+
+0 SMS: sends the link preceded by the specified text
+
+Require (Android only) If automatic acquisition fails, this option enables the user
+administrative request to manually obtain root privileges from the device.
+
+prlwleges ‘ WARNING: the request is displayed on the target device.
+
+Text (for Indication and SMS only) Test for the target user.
+
+Name (BlackBerry only) Application data used to "hide" the agent.
+
+Description
+Vendor
+Version
+
+Certificate (Symbian only) Device certificate.
+bound to
+phone IMEI
+
+560 Edition (Symbian only) Operating system version.
+
+Installation Package preparation for Symbian
+
+Introduction
+
+Starting from Symbian OS version 9.1, a Symbian Development Certificate is required to install
+and run an agent on a Sym bian device. Currently, each issued certiﬁcate supports up to 1000 IMEI
+and up to 17 capabilities.
+
+Recommended sequence
+Complete the following steps to request a certificate:
+
+Step Action
+
+ 
+
+1 Obtain the editor ID
+
+2 Creating Certificate Public and Private keys
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013© HTS.r.l. - pag. 152
+

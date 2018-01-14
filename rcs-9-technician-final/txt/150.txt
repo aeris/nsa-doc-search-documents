@@ -1,0 +1,77 @@
+RC5 9 - Infection module
+
+ 
+
+Fieid
+
+Description
+
+ 
+
+Include Filters
+
+Exclude filters
+
+Mask
+
+Log path and
+access mode
+
+Ca ptu re ﬁle
+content
+
+MinlMax size
+
+Newer than
+
+List of ﬁle extensions to be recorded. Optionally specify the process to log the
+ﬁle when it is run or opened by that process.
+
+List of file extensions that will not be recorded. Optionally specify the process
+to ignore the ﬁle when it is run or opened by that process.
+
+String used to filter the process and file to log or ignore.
+
+Syntax
+
+Process | Filter
+
+Example of features used to log
+
+"skype.exe|*.*"
+
+"word.exe | *John*.doc"
+
+Example of features used to ignore
+
+"skype.exe | *.dat"
+
+Records the file path and access type (i.e.: read, write)
+If enabled, the ﬁle is copied and downloaded at the first access.
+
+Minimum and maximum size admitted for the ﬁle to be downloaded.
+
+Minimum ﬁle creation date to be downloaded.
+
+ﬁlnfection module
+
+0 IMPORTANT: the module was deprecated as of RC5 version 8.4.
+
+ 
+
+Purpose
+
+Keylog module
+
+The Keylog module records all keystrokes on the target device.
+6 NOTE: it supports all Unicode characters via IM E.
+
+Operating systems
+Desktop: Windows, OS)(
+
+Mobile: iOS
+
+ 
+
+Technician's Guide I yer.1.5 SE P—2013 I RC8 9 I 2013. HTS.r.|. - pag. 130
+

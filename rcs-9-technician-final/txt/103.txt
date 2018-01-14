@@ -1,0 +1,60 @@
+RC5 9 - Protected WiFi network password acquisiﬁon
+
+ 
+
+Protected WiFi network password acquisition
+If the target device is connected to a protected WiFi network, the access password must be
+obtained to login.
+
+The Wireless intruder function lets you connect to a WiFi network and crack the password. For
+WPA and WPA 2 protected networks, an additional dictionary can be loaded in addition to the
+standard dictionary. The password is displayed and the operator can copy it to use it with the
+sniffing and injection function (Network Injector function).
+
+Infection via automatic identification
+This work mode is suited for situations when some target device information is known (i.e-: IP
+address).
+
+In this case, RC5 injection rules include all the data required to automatically identify target
+devices.
+
+Starting automatic identiﬁcation using the Network Injector function gradually displays target
+devices that are immediately infected by the injection rules.
+
+Forcing unknown device authentication
+
+You may not be able to connect to some devices in a password protected WiFi network. These
+types of devices appear in the list as unknown.
+
+In this case, their authentication can be forced: the device will disconnect from the network,
+reconnect and be identiﬁed.
+
+Infection via manual identification
+
+Manual identiﬁcation can be indicated in RC5 identification rules. This procedure is frequently run
+when there is no information on the device to be infected and it must be identified on the ﬁeld.
+
+In this case, a series of functions to select devices connected to the network is available to the
+operator:
+
+. filters can be set on tapped traffic: only devices that meet this criteria are infected.
+
+0 each device chronology can be checked to decide which device should be infected.
+
+Once target devices are identified, simply select them to start infection; the identiﬁcation rules
+are "customized" with the device data to allow injection rules to be applied.
+
+0 NOTE: devices that were already infected via automatic identification can be
+manually infected.
+
+Setting filters on tapped traffic
+
+When manually identifying targets, some targets may not be identified among those connected to
+the network. In this case, use the Network Injector function to set filters on tapped traffic.
+
+Tactical Control Center provides to types of ﬁlters:
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.l. - pag. 33
+

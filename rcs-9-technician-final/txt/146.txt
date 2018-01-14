@@ -1,0 +1,47 @@
+RC5 9 - Signiﬁcant data
+
+ 
+
+Significant data
+Data is described below:
+
+Fieid Description
+
+ 
+
+Qualitvr Image quality (1=maximum compression, 10=best quality).
+
+ﬁChat module
+
+Purpose
+
+The Chat module records all the target’s chat sessions. Each message is captured as a single piece
+of evidence.
+
+0 IMPORTANT: for Android, root privileges are required to capture chat. See "What you
+shouid know about Androi " on page 139 .
+
+6 IMPORTANT: in order for this module to be started when the device is restarted on
+BlackBerrv, the telephone must be in standbvr for several minutes [backlight off}.
+
+Operating systems
+Desktop: Windows, OSX
+Mobile: Android, BlackBerrv
+
+Significant data
+None
+
+FIClipboard module
+
+Purpose
+The Clipboard module saves the content of the clipboard in text format.
+
+Operating systems
+
+Desktop:Windows, OS X
+Mobile: Android, BlackBerrv, iOS, WinMobile
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013. HTS.r.|. - pag. 126
+

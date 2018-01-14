@@ -1,0 +1,64 @@
+RCS 9 - Whatyou should know about advanced conﬁguration
+
+What you should know about advanced configuration
+
+Advanced configuration
+
+Advanced factory/agent configuration lets you create complex activation sequences using a
+simple graphic interface.
+
+The purpose of the sequence is to start/stop evidence collection, and/or run an action when an
+event occurs.
+
+Advanced configuration always includes two basic sequences:
+
+0 At each synchronization (Loop event), acquire device information (Start module action +
+
+Device module)
+At the end of the synchronization interval (Tim er-Loop event), run synchronization
+between the agent and RCS (Synchronize action)
+
+Following is an image that illustrates the two basic sequences recommended for remote data
+acquisition:
+
+{J
+r
+I
+
+ 
+
+I
+H-
+o.. . .3......9... .x- .
+
+be 'E'éhiﬁl r5. 0.
+
+. .__n n I.'.|; «4-. 2w rum-v.-
+
+:13!
+ﬂ 3::
+
+Luau». num-
+
+ 
+
+ 
+
+ 
+
+nun-.1:
+
+ﬁkwhoﬁmfsgsﬂﬁuﬁvﬁﬁvﬁim
+
+3 .--.....-w
+
+6 NOTE: these two basic sequences are set by default and recommended for minimum
+' agent operations.
+
+Advanced configuration components
+Advanced configuration components are:
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.I. - pag. 56
+

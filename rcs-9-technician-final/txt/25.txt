@@ -1,0 +1,83 @@
+Exampie Styie
+
+RCS 9 - Product and guide addressees
+
+Description
+
+ 
+
+See "User data" itaiic
+
+<ddm myyyy> <aaa>
+
+Select one of [x]
+the listed
+servers [2].
+
+Click Add. bold
+
+Select the File
+menu,5ave
+
+data.
+
+Press ENTER UPPER
+CASE
+
+See: Network -
+
+Injector
+
+Appliance.
+
+this indicates a chapter, section, sub-section, paragraph, table or
+illustration heading in this manual or other publication of reference.
+
+indicates text that must be speciﬁed by the user according to a
+certain syntax. In the example <ddmmyyyy> is a date and could be
+"14072011”.
+
+indicates the object specified in the text that appears in the adjacent
+image.
+
+indicates text on the operator interface, a graphic element (i.e.:
+table, tab) or screen button (i.e.: display).
+
+indicates the name of keyboard keys.
+
+suggests you compare the deﬁnition of a word in the glossary or
+content with another word or content.
+
+Product and guide addressees
+
+Following is the list of professionals that interact with RC5.
+
+Addressee Activity
+
+Skiiis
+
+ 
+
+System Follows the HackingTeam's instructions provided during the Expert
+
+administrator contract phase. Installs and updates RC5 servers, Network network
+Injectors and RC5 Consoles. Schedules and manages backups. technician
+Restores backups if servers are replaced.
+
+WARNING: the system administrator must have the
+required necessary skills. The HackingTeam is not liable
+for equipment malfunctions or damages due to
+unprofessional installation.
+
+Administrator Creates authorized accounts and groups. Creates operations and investigation
+
+target. Monitors system and license status. manager
+Technician Creates and sets up agents. Sets Network Injector rules Tapping
+speciaiist
+technician
+Analyst Analyzes and exports evidence. Operative
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013© HTS.r.I. - pag. 5
+

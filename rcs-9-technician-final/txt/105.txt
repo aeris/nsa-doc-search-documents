@@ -1,0 +1,52 @@
+RC5 9 - Whatyou can do
+
+0 manually, through a series of attempts to identify the target device and infect it.
+
+The identification method should be agreed with the operating center.
+
+What you can do
+With Tactical Control Center you can:
+0 Enable synchronization with RCS to receive updated identiﬁcation and injection rules and
+send logs.
+0 Updating Tactical Control Center
+0 Connect to a protected WiFi network to obtain its password.
+0 Apply device identification rules and infect them
+0 Force new authentication on devices not identified upon the first attempt
+0 Select devices based on filters or chronological information
+o Emulate an Access Point to attract target devices
+
+Password request
+
+When Tactical Control Center opens, a password must be entered, the same as the notebook on
+which it's running.
+
+What the function looks like
+This is what the page looks like:
+
+"' 'uctinl Cnntml EerLer
+
+ 
+
+ 
+
+Nemalklljecmr wilclcsa IIILI lll-L'I lemmas: I'lJiI1L Loaf-55m" n
+Ncmulklrtcrfacc'. whm [Combed mwlﬁ'l'tsﬂ 1 549ml: ‘IDCI'H: Ricflcsh
+SIIiIJinginlell'an-v. wlan‘l [Dttﬂnalsﬂl‘llwll'ld-E‘Uloe] Y Slgnal: 3296 LlnktESl:
+
+ 
+
+E Cunlig Rules. Elm L
+
+r Nl‘lmlal k Flu-Ir. a
+Elalm I IN mltllrn dun-n Urndul I IIJ‘IIIRIIHI' OS Ilium-ml Idsl wrll | MI Ei: Inul wrlmllark
+
+El
+
+Rt‘dlll Ildll
+
+Inhect all.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.I. - pag. 85
+

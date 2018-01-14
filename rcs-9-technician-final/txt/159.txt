@@ -1,0 +1,58 @@
+RC3 9 - Whatyou should know aboutAndroid
+
+Installation De vice Description
+
+ 
+
+Vector
+
+Silent Desktop Creates an empty executable file that. when run on the target device,
+Installer installs the agent.
+
+U3 lnstal- Desktop Creates a package to be installed via a U3 key. The U3 lrey that auto-
+lation matically installs the agent on the target device when inserted.
+
+Wap Push Mobile Sends a WAP message that will install the agent if accepted by the tar-
+Message get.
+
+What you should know about Android
+
+Root privileges
+The Android operating system requires root privileges to run some operations on its devices.
+An Android device agent requires root privileges to:
+
+0 capture chat, see "Chat module" on page 126
+
+0 capture e-m ail, see "Messages module" on page 131
+
+0 capture screenshots, see "Screenshot module" on page 135
+
+0 keep updated, see ’LAgent page" on page 41 , "Target page” on page 28
+
+Obtaining root privileges
+Root privileges can be automatically obtained without any interaction on the device.
+
+However, automatic acquisition is not always guaranteed. If automatic acquisition fails and
+Required Administrative Privilege was selected during agent compilation, the agent requests the
+user manually obtains privileges from the device if permitted by the operating system.$ee
+”Melted Application vector" on page 141
+
+Checking for root privileges
+To check for root privileges on the target device, enable the Device module.
+
+Root status is indicated in Device type evidence; if root privileges were obtained, rootryes
+appears.
+
+Obtaining a Code Signing certificate
+
+Introduction
+
+In order to use code signing functions available during vector compiling, a Code Signing certificate
+issued by a recognized Certification Authority must be obtained.
+
+Most Certification Authorities offer Code Signing certificates, including:
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013© HTS.r.|. - pag. 139
+

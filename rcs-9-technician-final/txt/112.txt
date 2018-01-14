@@ -1,0 +1,45 @@
+RC5 9 - Setting ﬁlters on tapped trafﬁc
+
+Steps Result
+
+ 
+
+1. In Network Injector, select one or more
+devicesto be infected from the device list
+and identify them using the displayed data.
+
+. TIp: ifthere are a lot ofdevices in the
+list, ﬁlter the selection..5‘ee “Setting
+
+ﬁlters on tapped trafﬁc"nel seguito .
+
+2. Click Infect selected: all injection rules are
+"customized" with the device data and
+applied. Device attacks will be displayed in
+the logs.
+
+0 IMPORTANT: this operation requires
+
+a special rule in RC5.
+
+‘ TIp: in certain cases all connected _
+
+devices must be infected, even non
+target devices or those notyet
+connected. To do this, click Infect All.
+
+Result: if the infection was successﬁJlly
+
+started, device statusis i .
+
+Setting filters on tapped trafﬁc
+To select target devices using data trafﬁc filters:
+
+Steps Result
+
+ 
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.l. - pag. 92
+

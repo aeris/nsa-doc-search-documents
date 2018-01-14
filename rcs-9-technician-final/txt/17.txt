@@ -1,0 +1,51 @@
+RC8 9 - Glossary
+
+Audit
+Console section that reports all users' and system actions. Used to monitor abuse of
+ROS.
+
+ 
+
+ 
+
+ 
+
+B
+
+back end
+Environment designed to decrypt and save collected information. In distributed archi-
+tecture, it includes Master Node and Shard databases.
+
+BRAS
+(Broadband Remote Access Server) routes trafﬁc tolfrom DSLAM to the ISP network
+and provides authentication to the ISP subscribers.
+
+BSSID
+(Basic Service Set lDentiﬁer) Access Point and its client identiﬁer.
+
+C
+
+Collector
+Receives data sent by agents directly orthrough the Anonymizer chain.
+
+console
+Computer on which the RC8 Console is installed. It directly accesses the RC8
+Server or Master Node.
+
+D
+
+Dashboard
+Console section used by the Analyst. Used to have a quick overview ofthe status of
+the most important operations, targets and agents.
+
+DSLAM
+
+(Digital Subscriber Line Access Multiplexer) network device, often located in the tel-
+ephone exchanges ofthe telecommunications operators. It connects multiple cus-
+tomer digital subscriber line (DSL) interfaces to a high-speed digital
+communications channel using multiplexing techniques.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCSQ I 2013. HTS.r.l. -pag. XV
+

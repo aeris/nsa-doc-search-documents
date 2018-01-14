@@ -1,0 +1,129 @@
+RC5 9 - Infecting targetsusing automatic identiﬁcation
+
+Steps
+
+Result
+
+ 
+
+1. In the Network Injector tab, select the
+network interface for injection in the
+Network lnte rface list box.
+
+2. In the Snifﬁng interface listbox, select a
+different network interface to be used for
+
+snifﬁng or select the same interface used
+for injection.
+
+NOTE: manage network interface
+
+connectionsfdisconnections from the
+
+operating system and click Refresh.
+
+‘ Tip: use two different interfaces to
+guarantee better device
+
+identiﬁcation.
+
+3. Check signal power and, if necessary, run
+the network test [Link test key].
+
+NOTE: signal power must be at least
+
+?O%. A single value will be returned
+
+ifthe same network interface isused
+for injection and snifﬁng.
+
+4. Click Start.
+
+5. The network snifﬁng process starts and all
+devices identiﬁed as targets appear. The
+Status column displays identiﬁcation status.
+
+WARNING: verify identiﬁcation
+statu s.$ee “Tc-otter."r Control Center
+data“ a paginaQﬁ .
+
+6. Targetdevices begin to be infected.
+Infection start is recorded in the log.
+
+NOTE: non targetdevices don't
+appear in the list and are thus
+excluded from automatic infection.
+
+ 
+
+Helmulluﬁccluu wlmlcsslnmndu mknmmln: lousy-sham
+
+ 
+
+ 
+
+Nehuarl: interfere: Mann [tmnmncd mwiﬁtesll v signal: we» I Ilnfrcsh
+Snifﬁngintrrfnrn; IMIIII'I [He Hmulaﬂm twiI-idcviuﬂ - Sigul: WEI. I I iIII. Hal.
+Dal-ﬁg I New. I Sldl L
+
+5 Network titer;
+
+sum Invaddleu wad-Jun vmudu: Ilusunme Db mum-m LdsLIEIJIJdI'ﬁL LmeL-baltacl
+
+nanrhnll
+
+Irrrrrnll
+
+ 
+
+NnMI’lﬁlnIﬂtW Wildﬂslnuudel lukeMcessPuinL Louﬂnuenl
+
+Wlkillwfaee: MINICIIIIIMLcdluWiﬁrele ' Signal: 1005 lullab-
+
+ 
+
+SuirnumiuLntam: Mun:1l].xienuleo2.11wilidnir.g] - shaken. u'utiui
+
+ 
+
+ﬂurl'iu ' Mu ' sulL
+I-er'wmltlll’r‘l".
+
+Stalls H'I'J “(HIP-1'. IPndﬂer Wndnt Hn'il'rnmt‘ ('56 Rto‘mr‘r lilﬂ'wh tnllilr Imi’wrhnllﬂrk
+
+RmLlel
+
+Inrr:| .1II
+
+ 
+
+ 
+
+ 
+
+Nnmullnjncun wlrtlus Intruder chsnccss r‘nlnl: LouSM‘SDtm
+
+thworlc Intxrracc: Mani! lcvnnccnco tn WILTcsu ' Stool: m licrrcsr.
+Snlrrlnn-lnlrfrnzc: Mam [Fxrr'rrnIEDPJ'n-JlFlnrulrrj . ”nk n.“
+ton-lg I mics I smp
+
+ 
+
+I NequII. liLeu.
+
+sum Immlnm uracil-«n venom lummmr. on Illumn InaLwlIlInlﬁL lmLuuehnllnLl
+x .‘Ir:77:mb:rr:n5:77 Inrdcor Mb
+6' 74:m:|5d:h?:nr:nd ”71531.143 Mum-lbw m:
+8 samuhmsrrxda Inrdcar M;
+J mmmossctrr m.1r.a1.154 I-hmH-‘Ilr‘r Mb
+3 3c:T-t:37E-Il:l:dd:tb I'IIrn rate
+x wzimbdmsh Unknown rate
+neaLIhall
+- Ilfmull
+
+ 
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.l. - pag. BU
+

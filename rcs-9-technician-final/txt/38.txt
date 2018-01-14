@@ -1,0 +1,59 @@
+RCS 9 -Technician procedures
+
+ 
+
+Action Description
+Filter based on an Select an option: the elements that match the selected option appear.
+option
+
+E Acuuiretl
+
+0 Last 2:! Hours
+' Last Week
+
+Q FromiTo
+
+ 
+
+El Action :| User
+
+IIHHI Ile-hld.
+
+ 
+
+Filter based on several Select one or more options: the elements that match all selected
+
+options options appear.
+El tune
+
+I Umagged
+
+I Law
+
+I Medllln'l
+II Hiuli
+a Critical
+
+ 
+
+Change the column Select the edge of the column and drag it.
+size
+
+Technician procedures
+
+Introduction
+
+The Technician is in charge of infection rules to retrieve important information. Some typical
+procedures are described below with references to significant chapters. These are only simple
+indications. Skill and ability are essential to exploit RCS flexibility and adapt it to investigation
+needs.
+
+Procedures
+
+Injection on HTTP connections
+Network Injector must be used for injections on HTTP connections:
+
+ 
+
+Technician's Guide I yer.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.I. - pag. 18
+

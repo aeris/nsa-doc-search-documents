@@ -1,0 +1,62 @@
+RC5 9 - What the function looks like
+
+ 
+
+ 
+
+.1 Fn'--'.'\-'1v' :,-m emu
+ﬂ DIcrIIIo-n: Sim .'.-'.~'.‘x 9 E
+g -'.l=-_n.lur - "9.41:“ - o.'Ilf'-ﬂl - I 4mg} E in?
+E: 9 at | s. a. ..—.
+I ~ =1~"‘M~'.' rrJ- ---.. I .| -. I .
+‘ . ' ..«Is
+a” z 0 so a
+
+«a: m .mn. s -wu m-uv- E
+
+ 
+
+ 
+
+Iamnvkn -|....‘.——. m.n.-.--.:.m
+
+Area Description
+
+ 
+
+1 RC5 menu.
+2 Scroll bar.
+
+3 Window toolbar.
+Descriptions are provided below:
+
+icon Description
+
+ 
+
+ﬁ. Send the agent to the scout agent or update the agent
+E software with the last version received from the
+HackingTeam.
+
+_ CAUTiON: the update does not update the
+configuration that is transmitted to the agent
+at the next synchronization.
+
+IMPORTANT: for Android, root privileges
+must be obtained to update the agent.5ee
+" What you shouid know about Android" on
+page 139 .
+
+W Delete evidence on the device not yet transmitted to
+
+RC5.
+Parameters:
+0 Date before: delete evidence saved before the
+set date.
+0 Size bigger than: delete evidence larger than
+the set size.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.l. - pag. 42
+

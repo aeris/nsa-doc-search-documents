@@ -1,0 +1,31 @@
+7
+
+ 
+
+Factory and agent: advanced configuration
+
+Presentation
+
+Introduction
+
+Advanced configuration lets you set advanced configuration options. Other than enabling
+collectable evidence, events can be linked to actions, to trigger specific agent reactions to
+changing conditions in the Device (i.e. screensaver is started]. Actions can start or stop modules
+and enable or disable other events. Furthermore, all the event, action and module options can be
+
+individually set.
+
+Content
+
+This section includes the following topics:
+
+ 
+
+What you should know about advanced configuration .............................................. 56
+Advanced factory or agent conﬁguration ________________________________________________________________ 59
+Global agent data ................................................................................................ 63
+
+ 
+
+Technician's Guide ver.1.5 SEP—2013 - RC8 9 - 2013. HTS.r.l. - pag. 55
+

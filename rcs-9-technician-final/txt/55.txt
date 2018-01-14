@@ -1,0 +1,32 @@
+RC5 9 - Compiling a factory
+
+For the complete listsee "Module list” on page 122 .
+
+Com piling a factory
+To compiie ofoctory.’ 0 Operations section, double-click an operation, double-clicka target, double-click a factory,
+click Build
+
+0 Operations section, double-click an operation, double-clicka target, double-click a factory,
+click Advanced Config, Build
+
+Purpose
+
+This function lets you create one or more agents (for production use or to be tested in demo)
+depending on the chosen installation vectors and target platforms.
+
+6 NOTE: for a detailed description of each installation yector see "List ofinstaiiation
+vectors" on page 138
+
+0 NOTE: the function is only enabled if the user has Installation vector creation
+authorization.
+
+Next steps
+Creating an agent implies the subsequent installation on a target device.
+
+What the function looks like
+This is how the page is displayed for a desktop agent:
+
+ 
+
+Technician's Guide I yer.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.I. - pag. 35
+

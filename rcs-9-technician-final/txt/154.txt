@@ -1,0 +1,47 @@
+RC5 9 - Operating systems
+
+ 
+
+Operating systems
+Desktop: Windows, OS X
+
+Significant data
+Data is described below:
+
+Field Description
+
+ 
+
+Width captured image dimensions
+
+Height
+@Password module
+
+Purpose
+
+The Password module logs all passwords saved in the user’s accounts. Passwords saved in
+browser, Instant Messenger and web-mail clients are collected.
+
+Operating systems
+
+Desktop: Windows
+Mobile: Android
+
+Significant data
+None
+
+9 Position module
+
+Purpose
+
+The Position module records the device position using the GPS system, GSM cell or WiFi
+information.
+
+Operating systems
+Desktop: (WiFi only) Windows, OS X
+Mobile: Android, BlackBerry, Symbian, WinMobile, Windows Phone
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RCS 9 I 2013© HTS.r.|. - pag. 134
+

@@ -1,0 +1,62 @@
+RCS 9 - Wizards in the homepage
+
+ 
+
+Area Description
+
+ 
+
+4 Links to the last five elements opened (operation in the Operations section, operation
+in the Intelligence section, target, agent and entity).
+
+Wizard buttons.
+Logged in user with possibility of changing the language and password.
+
+Download area with ability to View progress during export or compiling.
+
+MHU‘IU‘I
+
+Current date and time with possibility of changing the time zone.
+
+Wizards in the homepage
+
+- ntlintk'nI
+
+To View the homepage:
+
+ 
+
+Introduction
+For users with certain privileges, RC5 Console displays buttons that run wizards.
+
+What it looks like
+This is how the homepage is displayed with enabled wizards:
+
+-'I F.¢"r>'.: -'.+ m: I S'rncr 3 El
+
+ﬁ .-..-.1- .Irri I; Oanl'srs w “gr-Ira jam—m: .-'-l.-rrin._\. swam 3.. Idir syn-im-
+
+Go to {Q ‘3
+
+Recent Items
+.I"r'-F :g: -o.1.':‘1l:l:ntil:lc:l
+
+e
+a:
+e
+i
+
+  
+
+. .o:"::ll‘| .o:-.'r.vo:|c '\
+
+ 
+
+3 aww- earn-rm "3..er um:
+
+ 
+
+ 
+
+Technician's Guide I yer.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.I. - pag. 13
+

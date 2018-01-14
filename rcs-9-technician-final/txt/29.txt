@@ -1,0 +1,16 @@
+RCS 9 - Infection vector glossary for mobile
+
+365 v. 7.6 RC3 8.0 and higher
+
+ 
+
+SIS Installation Package, Symbian
+COD
+APK Installation Package
+
+WAP Push Message
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013© HTS.r.l. - pag. 9
+

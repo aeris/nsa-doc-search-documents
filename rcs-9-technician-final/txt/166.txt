@@ -1,0 +1,60 @@
+RC5 9 - Notes for Windows Phone operating systems [vector preparation]
+
+ 
+
+Step Action
+
+ 
+
+1 Enable the Unknown origins option in the device settings (typically under Settings,
+Applications). The option can be disabled after installation.
+
+6 NOTE: if this option is not enabled, a request to authorize an application not in
+the Android Market appears during installation.
+
+2 Device root privileges must be obtained if the vector includes Screenshot, Chat and
+Messages modules. See "What you should know about Androi " on page 139
+
+3 Run the appropriate APK vector on the selected device.
+4 During APK vector installation, accept the permissions requested by the agent.
+
+For Android 3.): and 4.x, click Open to start the vector, otherwise the vector will not
+be installed.
+
+0 IMPORTANT: the default APK vector for Android 3.: and 4.: appears as a
+normal application called Devicelnfo, that displays device information.
+
+5 A request to obtain root privileges could appear when the vector is running if the
+Require Administrative Privilege option was enabled.
+
+Notes for Windows Phone operating systems {vector preparation]
+
+Compiling a factory with the Installation Package vector for Windows Phone operating system
+creates .zip Fae toryName_winphone_silent. zip in folder RC5 Download that contains two
+files:
+
+. Applica ti onName . xap: packet with applications to be installed on the target device
+
+. Applied ti onName . aetx: company certiﬁcate to install the application
+
+0 IMPORTANT: in order for compiling to be successfully completed, follow the
+' procedure to load the necessary files in RC5. See "instaiiation Package preparation for
+Windows Phone" on page 154
+
+Notes for Windows Phone operating systems [installation]
+
+The MyPhoneInfo application, used to install the agent, is included in the packet with .xap
+applications. Installation does not require phone unlock.
+
+.xap and .aetx files can be sent to the target device:
+
+. as attachments in an email;
+1- as a link in a web page.
+
+For installation via web, the Web service must correctly support the MIME types for the.xap and
+.aetx files; the following instructions must be found in the mime . types files:
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RCS 9 I 2013© HTS.r.|. - pag. 146
+

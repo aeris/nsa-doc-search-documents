@@ -1,0 +1,53 @@
+RCS 9 - U3 Installation vector
+
+ 
+
+U3 Installation vector
+
+Purpose
+
+Compiling creates an ISO auto-installer to be written on a U3 key (SanDisk) using the U3
+customizer program (the software can be downloaded from Internet).
+
+When the key is inserted in the device, a menu opens for agent installation (no USB disk is
+automatically detected).
+
+Operating systems
+Windows
+
+Parameters
+None.
+
+Exploit vector (mobile)
+
+Purpose
+
+Compiling creates an installer that, executed on the target device, results in the device being
+infected.
+
+Different behaviors may be experienced, depending on the speciﬁc Exploit (i.e. the running
+program is aborted).
+
+Installation
+The installer must be copied to the device and install.sh run from the copied folder.
+
+0 IMPORTANT: the device must be unlocked.
+
+The packet of utility files is automatically copied to the folder C:\RCS\Collector\public. These ﬁles
+may be used in many types of attacks (i.e.: via link from a website).
+
+Deleting no longer used files
+
+Packets saved in the folder C:\RCS\Collector\public can be deleted using the File Manager
+function, see "Frontend management".
+
+Example of installer copy command on the iOS device
+mymac>scp —r .XRCS_IPHONE root@myiphone.local.net:/tmp
+
+mymac>ssh root@myiphone.local.net
+myiphone>cd ftmp/RCS_IPHONE
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013(3) HTS.r.l. - pag. 144
+

@@ -1,0 +1,61 @@
+RC5 9 - Notes for Windows Mobile operating systems
+
+c application/x—silverlight—app xap
+c applicationXX—aetx aetx
+
+Run the following procedure for both modes:
+
+Step Action
+
+ 
+
+1 OpenfﬂeApplicationName.aetx
+0 IMPORTANT: this is the certificate that must always be opened first.
+
+2 Answer the displayed questions by clicking Add.
+3 OpenfﬂeApplicationName.xap
+
+4 Answer the displayed questions by clicking Install: the MyPhonelnfo application will be
+installed on the phone.
+
+From the application list, open the MyPhonelnfo application at least once.
+
+U'l
+
+Close MyPhonelnfo: the agent is ready.
+
+0 IMPORTANT: if you exit the application without closing it, the application,
+and thus the agent, are suspended. The agent only starts when the
+application is closed or the phone is turned back on.
+
+0'0
+
+The agent communications with the RC5 server if and as long as the MyPhonelnfo application is
+installed on the device and the device is on. If a mobile data connection is not available, the agent
+can only communicate with the RC5 server when the user uses the phone or the phone is
+connected to a computer or battery charger.
+
+0 NOTE: when the device is turned on, it takes 30 minutes for the agent to restore
+communications with the RC5 server. The 30 minutes are guaranteed if mobile data and
+Wi-Fi connections are running on the device. Otherwise, it could take longer.
+
+Notes for Windows Mobile operating systems
+
+An existing CAB installer can be specified to which the agent will be added.
+If a CAB is not specified, the system will use a default, dummy CAB.
+
+Notes for BlackBerry operating systems
+
+To allow the agent to be downloaded on a BlackBerry, extract the created zip file on a web server
+the device can access.
+
+6 NOTE: the web server must correctly support the M IM E types for .jad and .cod files,
+' .textfvnd.sun.j3me.app—descriptorandapplication/vnd.rim.cod.
+respectively. The Collector public folder automatically runs this function.
+
+Once the installer is run on the device, accept the permissions requested by the agent.
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC5 9 I 2013© HTS.r.l. - pag. 147
+

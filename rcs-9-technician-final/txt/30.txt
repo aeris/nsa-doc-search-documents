@@ -1,0 +1,37 @@
+ 
+
+RCS Console for the Technician
+
+Presentation
+
+The Technician's role
+
+The Technician's role is to:
+
+. create injection rules for each installed Network Injector
+. create infection agents for the various target devices
+. keep agent software updated
+
+Technician enabled functions
+
+To complete hi s/her activities, the Technician has access to the following functions:
+
+. Operation
+. System
+
+Content
+
+This section includes the following topics:
+
+ 
+
+Starting the RC5 Console ______________________________________________________________________________________ 11
+Homepage description ......................................................................................... 12
+Wizards in the homepage ..................................................................................... 13
+Shared interface elements and actions .................................................................... 14
+Technician procedures ......................................................................................... 18
+
+ 
+
+Technician's Guide ver.1.5 SEP—2013 - RC8 9 - 2013. HTS.r.|. - pag. 10
+

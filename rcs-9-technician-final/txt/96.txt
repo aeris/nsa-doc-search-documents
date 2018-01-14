@@ -1,0 +1,52 @@
+RCS 9 -Appliance Control Center
+
+Appliance Control Center
+
+Purpose
+Appliance Control Center lets devices be infected:
+. automatically, by applying the identiﬁcation rules based on known device information
+(i.e.: IP address)
+
+What you can do
+With Appliance Control Center you can:
+1- Enable synchronization with RCS server to receive updated identiﬁcation and injection
+
+rules and send logs.
+1- Update Appliance Control Center, essentially to update agents on devices.
+. Automatically identify connected devices and infect them through identification and
+
+injection rules.
+
+Password request
+
+When Appliance Control Center opens, a password must be entered, the same as the notebook on
+which it's running.
+
+What the function looks like
+This is what the page looks like:
+
+" Appllarce EC-l'll'bl. center
+
+Network Injector LugssﬁLcm
+
+HchuIILinLcIlch: IcLlDICublctulmLed) 'l I llcllcall
+
+ 
+
+srlfﬂng "mufﬂe; lEtl'l‘I [lute-maul l—tl'iernetdevice) . l
+
+PIIJIicIl-l: Ia uLu
+IAutumatlcstartLp 2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.l. - pag. 76
+

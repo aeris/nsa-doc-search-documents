@@ -1,0 +1,74 @@
+RCSQ - Nextsteps
+
+ 
+
+1- set the factory/agent conﬁguration indicating whether online synchronization is required
+and the data to be acquired
+
+. open the factory compiling function (see "Compiling afactory" on page 35 .
+
+1- open the advanced configuration function (see ’ﬂavanced factory or agent conﬁguration"
+on page 59 )
+
+0 NOTE: the function is only enabled if the user has Agent configuration authorization.
+
+Next steps
+After setting a factory configuration, it must be compiled to obtain an agent.
+
+After editing the agent configuration, simply save it. If the agent is online, the new configuration
+will be applied at the next synchronization. Otherwise, physical installation is required.
+
+What the function looks like
+This is what the page looks like:
+
+ 
+
+'-:| II-.-I:.\w.|'_lm a L: _'
+n Woman's 5-1.:1 L-c-ma' E
+
+{yam-w. :- u..-.n|.1 n- G.-\--r.. :- 9 ..... :l. I- f\'.Ih\.II.I\I1 l- rm: E no
+
+   
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+x, n E. r. u ° El
+m: -..-.. man has. In...» .-.-.. . . .
+ulslrlwne. Herve. “sni- — :wmuaunknar . ;;--
+“Hung-1 Mnil.ﬂ\.lﬂ.£hnﬂ ' ' n'r ' mamuwan ' :1" '
+l—I
+-‘1
+
+kwmdFllnl u ' Koyleg,mu:n 3. human! ' '-
+HI:-.....-..-n Ill-urn
+smcnsnms “ ' can-m " '
+-:...... .-..-..-J...u.-.-_. |:.~. u .u -:-..1.. 1.: -_..;.- |:n J..." - -.. ' i..-.
+Pmltlull n Dr.llne syndnwnhauun ”-
+EII'.':'..'N:“.::JPIT :‘.'C‘\' ; TIN—1:5 r“? i II'I'I'JCICﬂ .‘.".<I‘. ' 'l\'
+
+6 «:1an 13-31: Isczi:_
+
+Area Descriptim
+
+ 
+
+1 RC5 menu.
+2 Scroll bar.
+
+ 
+
+Technician's Guide I yer.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.I. - pag. 51
+

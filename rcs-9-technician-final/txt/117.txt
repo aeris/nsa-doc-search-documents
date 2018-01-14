@@ -1,0 +1,62 @@
+RC5 9 - Wireless Intruder data tab
+
+Data Description
+
+ 
+
+Hostname Device name.
+
+05 Device operating system.
+
+Browser Web browser used by the device.
+
+Last web Last sites visited by the device detected and analyzed in the last five minutes.
+
+Traffic 0 NOTE: if the device no longer generates web traffic at the end of the five
+minutes, the message Idle will appear. This usually occurs when no one is
+using the device.
+
+Last web Last attack type and results. To check additional details, see the L03 SVStE'“ tab.
+attack
+
+Wireless Intruder data tab
+Data is described below:
+
+ 
+
+Data Description
+
+Wireless List of non connected network interfaces. Select the interface to connect to the
+interface protected WiFi network to be opened.
+
+ESSID Name of the local network to be opened.
+
+network
+
+Attack type Types of available password identification.
+
+ 
+
+TYPE Description
+
+WPA/WPAZ Collects handshakes between the client and access point and
+dictionary tries to discover the password using a dictionary of common
+attack words.
+
+WEP injects simulating a connected client to collect data and force
+brutefgrce the encrypted password.
+
+attack
+
+WPS pm Tries all the possible combinations to recover the access point
+brutefgrce settings using WiFi Protected Setup protocol.
+
+attack
+
+Fake Access Point data tab
+Data is described below:
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.I. - pag. 97
+

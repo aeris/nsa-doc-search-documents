@@ -1,0 +1,29 @@
+ 
+
+Appendix: actions
+
+Presentation
+
+Introduction
+
+An agent is a complex group of events, actions, modules and installation vectors. Single actions
+are listed below with a detailed description of advanced conﬁguration settings.
+
+Content
+
+This section includes the following topics:
+
+ 
+
+List of sub-actions ______________________________________________________________________________________________ 105
+Destroy action .................................................................................................. 105
+Execute action .................................................................................................. 106
+Log action ........................................................................................................ 107
+5M5 action ....................................................................................................... 107
+Synchronize action ............................................................................................ 108
+Uninstall action _________________________________________________________________________________________________ 110
+
+ 
+
+Technician's Guide ver.1.5 SEP—2013 - RC8 9 - 2013© HTS.r.l. - pag. 104
+

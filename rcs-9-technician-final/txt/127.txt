@@ -1,0 +1,44 @@
+RC5 9 - Signiﬁcant data
+
+Significant data
+
+Fieid Description
+
+ 
+
+Command Command to be run.
+
+‘ Tip: use an
+absolute path.
+
+Log action
+
+Purpose
+The Log action creates a custom message.
+
+6 NOTE: custom messages and logs coming from an agent are displayed in the Info
+section.$ee "Agent page" on page 41
+
+Operating systems
+
+Desktop:Windows, OS X
+Mobile: Android, BlackBerry, iOS, Symbian, WinMobile, Windows Phone
+
+Parameters
+Nome Description
+
+Text Message text that appears in the Info section.
+
+E'SMS action
+
+Purpose
+The 5M5 action sends a hidden SMS (text message) from the target device with the device
+position and SIM data.
+
+Operating systems
+Mobile: Android, BlackBerry, Symbian, WinMobile
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013. HTS.r.|. - pag. 107
+

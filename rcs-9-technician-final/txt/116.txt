@@ -1,0 +1,46 @@
+RCS 9 - Tactical Control Center data
+
+ 
+
+Tactical Control Center data
+
+Network Injector data tab
+Data is described below:
+
+ 
+
+Data Description
+Network List of connected network interfaces. Select the injection interface connected to the
+interface network on which the device to be attacked is connected.
+When simulating an Access Point, the interface used in the Fake Access Point
+section also appears.
+snifﬁng Like Network Interface or another network interface to only be used for sniffing.
+interface
+Regular Expression used to filter devices connected to the network. It is applied to all data
+expression transmitted and received by the device via network, of any kind.
+See "What you shouid know about Tacticai Controlr Center" a paginasﬂ .
+Bpl: This is used to more accurately ﬁlter devices using BPF syntax (Berkeley Packet
+network Filter). This syntax includes key words accompanied by qualifiers:
+filter See "What you shouid know about Tacticai Controlr Center" a paginasﬂ .
+
+Found device data
+Data is described below:
+
+ 
+
+Data Description
+Status Connected network device status:
+x : unknown device. It cannot be infected due to problems tied to authentication.
+Forcing authentication.
+E : device being identiﬁed.
+J : device identified and can be infected.
+i'ai: infected device.
+HW Device network card hardware address.
+address
+IP address Device's network IP address.
+Vendor Network card brand (rather rel iabl e).
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.l. - pag. 96
+

@@ -1,0 +1,54 @@
+RC5 9 - Actions
+
+0 NOTE: an event can manage up to three distinct actions simultaneously. The Start action is
+
+started when an event occurs on the device (i.e.: Standbyr event triggers Start when the
+device enters standby mode). The Repeat action is triggered at the set interval for the
+entire duration of the event. The Stop action is started when the event is over (i.e.: the
+StanclByr event triggers End when the device exits standby mode).
+
+Actions
+Actions are triggered when an event occurs. They can:
+
+0 start or stop a module
+0 enable or disable an event
+0 run a sub-action
+
+For example, an action (empty) can disable the Process event (start a system process) that
+triggered it and enable the Position module (log the GPS position). If necessary, the action can
+also run an SMS sub-action (send a message to a speciﬁed phone number).
+
+lv’arious sub-actions are available and can be combined without restrictions (i.e.: run a command +
+create an Alert message). For the full listsee "List ofsab-actions” on page 105
+
+Relations between actions and modules
+
+An action can influence a module in different ways. The relation between an action and one or
+more modules is represented by a connector:
+
+ 
+
+Reiation between Description Connector
+actions and modaies
+
+Start modules Start a module. '
+Stop modules Stop a module. I
+
+An action can start/stop several modules simultaneously.
+
+Relations between actions and events
+The relation between an action and one or more events is represented by a connector:
+
+Reiation between Description Connector
+action and events
+
+ 
+
+Enable events Enable an event. I
+
+Disable events Disable an event. '
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.I. - pag. 58
+

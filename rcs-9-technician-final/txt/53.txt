@@ -1,0 +1,53 @@
+RC5 9 - What you should know about factoriesand agents
+
+ 
+
+Data Description
+ldent (agent only) Univocal agent identiﬁcation.
+Instance (agent only) Univocal identification of the device where the agent is installed.
+
+What you should know about factories and agents
+
+Infection methods
+A device can be infected via:
+0 physical infection: the device is infected by the execution of a ﬁle transmitted using USB
+memories, CD5 or documents. Evidence can be collected physically or via Internet as soon
+
+as the device connects.
+0 remote infection: the device is infected by the execution of a file transferred via Internet
+
+connection or made available in a Web resource. Evidence can be collected physically or
+via Internet as soon as the device connects. Remote infection can be enhanced using Net-
+work Injector.
+
+Infection strategy components
+
+Components needed for correct infection include:
+0 Factory: agent model.
+0 Installation vectors: infection channels.
+
+0 Agent: the software to be installed on the target device.
+0 Target and operation: deﬁned when investigations are opened by the System Admin-
+
+istrator. Refer to the System Administrator Manual.
+0 Evidence: the types of recordings to be collected
+
+Factories
+
+The factory is a model to be used to create agents to be installed. The icon varies according to the
+type of device intended for the agent:
+
+0 El: factory for desktop agent
+
+0 D :factory for mobile agent
+
+The following must be set in the factory:
+0 data to be acquired (basic configuration) or modules to be dynamically activated
+
+(advanced configuration)
+0 instoiiation vectors (i.e.: CD, exploit, Network Injector)
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.l. - pag. 33
+

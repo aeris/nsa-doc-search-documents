@@ -1,0 +1,86 @@
+RC5 9 -To learn more
+
+Build an Agent from a Factory X
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+to ) 1
+thiIc-ntlnglallcr You can provide an already ex sting application and it will be
+_ . . I'T'IElleCl Wlm Ire agent waer I'lE 'ESJlHI'lt] EE-I'JIICEIIIJI'I S EXECUEU
+rﬂMeltac-Appllcatlon he agent is installed as well.
+ﬁLhux
+
+|:| Require Administrative Privilege
+
+‘03): wnentne acentlslrstalleuInesrstern'nnll
+reqLeettne higherpossihle privileges
+.‘gWIntlcws
+
+”it U3 Installatlon ﬁpplication to be used as dropper: Emu-5e...
+blitﬂl'rlne Instal allnn E
+PmEKplUl.
+
+bﬁ Network. Inje :t on
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+U Demo HIM-e m
+
+ 
+
+ 
+
+Area Description
+
+ 
+
+1 Installation vector and platform search box.
+2 Vector and platform tree view.
+
+3 Compiling settings area for the chosen vector.
+
+To learn more
+
+For interface elem ent descriptions See "Shared interface eiements and actions" on page 14 .
+
+For more information on factories see "What you shoaid know about factories and agents" on
+page 33 .
+
+For a detailed description of each installation vector see "List ofinstaiiation vectors" on page 138
+
+Creating an agent
+To create an agent:
+
+Step Action
+
+ 
+
+1 Select one or more installation vectors and set the options.
+
+2 Click Create: a ZIP or ISO file is created and downloaded in the RC5 Download folder,
+ready to be installed on the device.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.l. - pag. 36
+

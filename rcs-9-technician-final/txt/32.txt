@@ -1,0 +1,66 @@
+RCS 9 - Homepage description
+
+Step Action
+
+ 
+
+3 6
+Click : the homepage appears with the menus enabled according to your account
+
+privileges. See "Homepage description "beiow .
+
+Homepage description
+
+To View the homepage: . click ﬁ
+
+Introduction
+
+The homepage is displayed when the RC5 Console is started, and is the same for all users. Enabled
+menus depend on the privileges assigned to the account.
+
+What it looks like
+
+This is what the homepage looks like, with recently opened items saved. For details on shared
+elements and actions:
+
+  
+
+ 
+
+-| Ill TT-TTT -_TTT . s-TTTT a El
+ﬁ ."\.T.'..ll‘ii\£ ormrm wiigwa "latl'l'ntu .-'-l.-vrin._\. ﬂ 5.,TTTT. imir .vn-irn-a El
+I .-1=.| 31 leaml
+E Gum {Q \J
+Retentltems
+e .l"r'-F'g' -¢.I“"1l'l:rl\cil:lc:l
+a m... . '
+‘3 m- .ir - ‘
+Ii .o-:"::I r| .o:'.':—i-'o:lc E '\
+\“
+T\T\
+._ /.
+|
+J.
+v
+I _ .I
+I". .. .
+\ I . "
+,5 «WW' Emmi rt'rr.w 'nm
+
+ 
+
+ 
+
+Area Description
+
+ 
+
+1 Title bar with command buttons.
+2 RC5 menu with functions enabled for the user.
+
+3 Search box to search operations, targets, agents and entities, by name or description.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.I. - pag. 12
+

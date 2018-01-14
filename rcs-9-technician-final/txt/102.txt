@@ -1,0 +1,64 @@
+RCS 9 - Infection via manual identiﬁcation
+
+Phase Description Where
+
+ 
+
+4 The system sniffs, traffic, identifies target devices thanks to Tat-ﬁfty; Network
+identiﬁcation rules and infects them thanks to injection rules. jnjecmn Network
+
+, , . . . . injector
+5 If necessary, force re-authentlcatl on on devices not Identified
+
+by the rules.
+
+Infection via manual identification
+
+Following are the steps required to infect manually identified devices. The operator's goal is to
+identify target devices.
+
+The attack can be run on wired or WiFi networks:
+
+Phase Description Where
+
+ 
+
+1 Prepare identification rules that include manual identification and RC5 Consoie,
+injection rules for all the target devices to be attacked. Send the System,
+
+rules to Tactical Network Injector. Network injector
+2 Enable synchronization with RC5 to receive updated rules. Tacticai
+Network
+injector,
+Network injector
+3 If target devices are connected to a protected WiFi network, Tacticai
+acquire the password. Network
+injector,
+III/ireiess
+intruder
+4 If target devices can connect to an open WiFi network, try Tacticai
+emulating an Access Point known by the target. Network
+injector, Fake
+
+Access Point
+
+5 The system proposes all devices connected to the selected Tat-ﬂag;
+network interface. Use filters to search for target devices or Network
+check the web chronology for each device. injector
+
+, , Network injector
+6 Select dewces and Infect them.
+
+Enable synchronization with RC5
+
+Tactical Control Center receives the updated software and identification and injection rules from
+RC5 and sends logs.
+
+In this communication, RCS will attempt to communicate with Tactical Network Injector at set
+intervals (about 30 sec.). In Tactical Control Center, decide when to enable synchronization using
+the Network Injector function.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.l. - pag. 32
+

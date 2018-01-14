@@ -1,0 +1,48 @@
+RCSQ - Nextsteps
+
+I CAUTiON: when returning Jfrom advanced configuration to basic configuration, the
+advanced configuration wiii be iost and the defauit basic configuration wiii be restored.
+
+Next steps
+
+For a factory, after completing its configuration, compile it to obtain the agent to be installed.$ee
+"Compiling a factory" on page 35
+
+For an agent, after completing its configuration, simply save the new configuration. At the next
+synchronization, the new configuration will be sent to the agent.
+
+What the function looks like
+This is what the page looks like:
+
+-'I u':.n’.'.<u'.€v.'.an CL”-
+
+ﬁ UnchIm-s Ewart-E
+
+ 
+
+a J \\I'JI)'|A b "Turf" I D—="l’.cl D H.:"J\ unpﬂrlal'ﬂr E il 0
+' . =: w .
+2: E E: E. EL .55... Ft. 2.3 23‘. £2. 5... c;
+El (9
+l
+l
+El p. .u
+11* .-
+/ -‘ "'--..
+r’f iv
+E I E] L 9 f3. .
+3, am..- .m
+
+ 
+
+Area Description
+
+ 
+
+1 RC5 menu.
+2 Scroll bar.
+
+ 
+
+Technician's Guide | yer.1.5 SEP—2013 | RCS 9 | 2013. HTS.r.I. - pag. 60
+

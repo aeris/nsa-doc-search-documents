@@ -1,0 +1,72 @@
+RCS 9 - What the function looks like
+
+ 
+
+.1 z-m n "mt ew—
+
+Ell
+
+ 
+
+ 
+
+ﬂ focal-'1»: Wanton: ﬁrmer: -'-c1N Erna" .‘nﬂ'. |-'<'r.:r '1'
+ﬂ um. - Hum - 91."...- n- p uumnlam - ecu-um El El 9 _d
+at; 8 IE! ID El
+t u .J'A. "u .xal r-Qn'an'luul
+I Inset-d um lam-n: Gaul
+Mnhd‘unmnml
+
+mama”. mm: 5.: .mmm-MWW
+
+E Pm- N" “in nu.
+J. .I. 01 n
+
+ 
+
+Area Description
+
+ 
+
+1 RC5 menu.
+2 Scroll bar.
+
+3 Window toolbar.
+Descriptions are provided below:
+
+icon Description
+
+ 
+
+Export the selected
+command to a .txt ﬁle.
+
+Show selected command
+details.
+
+Open a window to enter
+one or more command
+strings. All commands
+are sent to the agent at
+the next synchronization
+and the results are
+displayed at the next
+receipt.
+
+6 NOTE: the
+
+function is only
+enabled if the
+user had
+Command
+execution on
+
+agents
+authorization.
+
+ORG-
+
+ 
+
+Technician's Guide I yer.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.l. - pag. 45
+

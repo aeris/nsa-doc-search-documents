@@ -1,0 +1,72 @@
+RC5 9 - What the function looks like
+
+'.1
+
+gnu-h.- 11(- :,-m C L'.‘
+
+H -"3DC|I"l'1 DIV-:31": I"JC‘:J'.'C¢ : é“ -'JC:"I ”mm -'-.o: ."'J':X a
+m-w. 'er m ~ I mm ::r| .-.-...-v_-:
+
+ 
+
+ 
+
+magi:- El aﬁ- JER l" 'J
+
+m "- turn-I - M L'I'.'.'—'
+
+m
+I
+2 " Ill --"'-- r—z-u
+E IN '-—'- H cII.
+4
+
+I A! '-—'- I-A' c-
+
+ 
+
+ 
+
+ 
+
+Areo Description
+
+ 
+
+U'l-L'IUJNH
+
+RC5 menu.
+
+System menu.
+
+Network Injector toolbar.
+Network Injector list.
+
+Injection rule toolbar.
+
+NOTE: the functions are only enabled if the user has Injector rules
+management authorization.
+
+Descriptions are provided below:
+
+Action Description
+
+ 
+
+Add a new rule.
+
+Open the window with rule data.
+
+Delete the selected rule.
+
+(X5531!
+
+Send rules to the selected Network Injector. Appliance automatically
+updates at the next synchronization provided an infection process is
+running. While the operator must select whether the rules should be
+updated with Tactical.
+
+ 
+
+Technician's Guide I yer.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.l. - pag. 68
+

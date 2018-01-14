@@ -1,0 +1,52 @@
+RC5 9 - Deleting a factory or agent
+
+Deleting a factory or agent
+To delete a factory or agent:
+
+Step Action
+
+ 
+
+1 Select a factory or agent and click Delete.
+Confirm the action: logs, settings and evidence are deleted.
+
+‘ GQUTION: this operation is irreversibie.
+
+Importing target evidence
+To import evidence:
+
+Step Action
+
+1 Click Import Evidence: the import window opens.
+Click Select Directoryr and select the folder where the offline.ini ﬁle is saved.
+
+2 Click Import: evidence is saved in the database and is available to be viewed by
+Analysts.
+
+Target page data
+
+To viewpoge data: . Operations section, double—click an operation, double—click a target,
+click Icon view or Table view
+
+Page elements can be viewed as icons or a table.
+
+Icon view
+Icons are described below:
+
+Data Description
+
+ 
+
+E] Desktop and mobile type factory in Open status.
+
+D
+
+Desktop agent types, in Open status, for operating systems:
+0 OS X
+
+IE] 0 Windows
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.l. - pag. 31
+

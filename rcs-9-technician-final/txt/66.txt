@@ -1,0 +1,58 @@
+RC5 9 -To learn more
+
+Area Description
+
+ 
+
+5 Command list based on set ﬁlters.
+
+5 RC5 status bar.
+
+To learn more
+For interface elem ent descriptions See "Shared interface elements and actions" on page 14 .
+
+Transferring files to/from a target
+
+To tronsferﬁies 0 Operations section, double-click an operation, double-click a target, double-click an agent,
+to/from the agent: double-click File Transfer
+Purpose
+
+Uploading and downloading files on the device where the agent is installed.
+
+What the function looks like
+This is what the file transfer tolfrom target function looks like:
+
+'-1 z... ...-.... c,
+ﬁ I'm» 1' c CwnIium Ill-«Juli. J .’._||.i ”a Spun ’LIJL ELI.”
+ﬂan-nu !- ﬂmvhi :- EI'L-nn- I- }.ﬁumltm I- .onum-w ﬁle i
+
+n. A $8.
+
+t.Al.|iu-I .|.. . 1.. r. .. r
+
+U
+r
+
+ 
+
+5-1 Immu-
+hr may
+
+'ll.‘ wwLbl E
+
+ 
+
+ 
+
+Area Description
+
+ 
+
+1 RC5 menu.
+
+2 Operation scroll bar.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.l. - pag. 46
+

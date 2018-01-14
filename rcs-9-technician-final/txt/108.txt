@@ -1,0 +1,111 @@
+RC5 9 - Acquiring a protected WiFi network password
+
+Steps
+
+1. In the Network Injector or Wireless
+Intruder tab, select the network interface.
+
+2. Click Link test: a window appears where test
+results are displayed.
+
+3. Ifthe test failed, move to a better position
+where the signal is stronger and repeat the
+test.
+
+- IMPORTANT: attack will notbe
+successﬁJI if the test fails
+
+Result
+
+Link test to wireless network
+
+ 
+
+Interface: wlan'l
+
+Channel: “I
+ESSID: WIFITEST
+BSSID: 30:35:A9:562AA:33
+
+Link testsuccessful!
+Link test
+Injection test to wireless network
+
+Co nnectivity test to wireless network
+
+Repeat link test
+
+ 
+
+Res ult
+
+Q‘s
+
+ 
+
+Acquiring a protected WiFi network password
+How to acquire a protected WiFi network password is described below:
+
+Steps
+
+1. In the Wireless Intruder tab, select the WiFi
+network interface in Wirelessinterfaoe
+
+2. In ESSIDnetwork, select the network whose
+password is to be identiﬁed.
+
+I NOTE: manage network interface
+' connectionsi'disconnections from the
+
+operating system and click Refresh.
+
+3. In Attack type select the type ofattack.
+
+4. Ifnecessary, click Wordlist to load an
+additional dictionary to attack WPA or WPA
+2 protected networks
+
+IMPORTANT: the additional
+' dictionary must be loaded at each
+
+attack.
+
+Result
+
+_ "' 'ntiul Cnrlrnl Center
+
+NELWHIIIIMIII Wmlﬁﬁlﬂmﬁlﬂ' lakenmssiloinl LDthl-Em
+
+ 
+
+Wireless Irtcriact:
+wii elm llltLWDI l:
+
+Allmllype:
+
+Flirlail'i.
+
+ 
+
+Wordllst
+
+ 
+
+Refresh
+
+ 
+
+Hel’iesh
+
+I iIIk lF‘ll
+
+Start
+
+ 
+
+ 
+
+Technician's Guide I uer.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.l. - pag. 88
+
+ 
+

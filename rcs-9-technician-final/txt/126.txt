@@ -1,0 +1,46 @@
+RC5 9 - Parameters
+
+Parameters
+
+Name Description
+
+ 
+
+permanent The device is rendered permanently unusable-
+
+WARNING: the device may need
+servicing.
+
+-Execute action
+
+Purpose
+
+The Execute action runs an arbitrary command on the target machine. Command settings can be
+specified, if required, and environment variables. The program will be run with the user
+permissions of the user currently logged into the system.
+
+Any command output can be viewed in the Commands page. See ”Command page" on page 44 .
+
+A WARNING: although all commands are run using the agent's concealment system and
+are thus invisible, any change in the file system (i.e.: a ﬁle created on the desktop} will
+be visible to the user. Be careful.
+
+‘ WARNING: avoid programs that require user interaction or that open graphical
+interfaces.
+
+‘ Tip: use applications launched by command line or batch file since their processes (and
+corresponding command line window) are hidden by the agent.
+
+Reference to the agent‘s folder
+
+The SdirS virtual environment variable that refers to the agent's installation folder (hidden) can
+be added to the command string.
+
+Operating systems
+Desktop: Windows, OS)(
+Mobile: Android, BlackBerry, iOS, WinMobile
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013. HTS.r.|. - pag. 106
+

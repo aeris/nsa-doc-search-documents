@@ -1,0 +1,47 @@
+RC5 9 -To learn more
+
+Area Description
+
+ 
+
+7 RC5 status bar.
+
+To learn more
+
+For interface elem ent descriptions See ’iShared interface elements and actions” on page 14 .
+
+For more information on the advanced configurationsee "What you shouid know about advanced
+configuration" on page 56 .
+
+Creating a simple activation sequence
+To create a simple sequence, to collect evidence when an event occurs:
+
+Step Action
+
+ 
+
+1 Creating an event:
+a Click Add Event: the event selection and settings window opens.
+a In Type, select the type of event and set options. See "Event list" on page 112
+1- Click Save: the new event is added to the work area
+
+2 Creating an action:
+a Click Add Action: the empty action is added to the work area
+
+3 Link the event to the action, then the action to the desired module:
+a Click on the Start event connection point, then drag the arrow to the action
+a Click on the Start Modules action connection point, then drag the arrow to
+the type of data to be acquired.5ee "M'oduie iist" on page 122 .
+
+4 Click Save: the configuration is ready to be compiled (if factory) or transmitted to the
+device at the next synchronization (if agent).
+
+Creating a complex activation sequence
+
+To create a complex sequence, to start collecting evidence, run a sub-action and enablefdisable
+an event, when an event occurs:
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.l. - pag. 62
+

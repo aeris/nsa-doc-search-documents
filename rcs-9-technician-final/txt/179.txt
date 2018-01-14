@@ -1,0 +1,26 @@
+RC3 9 - Load the .pfx and .aetx ﬁles on the RC5 database server
+
+Load the .pfx and .aetx ﬁles on the RC5 database server
+Follow the procedure below:
+
+Step Action
+
+ 
+
+1 Copy the files to the RC5 database server
+2 From the Windows command prompt, run the following command to use the .pfx
+ﬁle to sign Windows Phone applications:
+
+rcs—db—config ——Sign—pfx—winphone EilePathREileName.pfx
+where FiiePoth is the .pfx ﬁle path on the RC5 server
+
+3 From the Windows command prompt, run the following command to use the .aetx
+ﬁle as a Windows Phone application certificate:
+
+rcs—db—config ——Sign—aetx—winphone EilePathlEﬁleName.aetx
+where FiiePoth is the .aetx file path on the RC5 server
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RCS 9 I 2013© HTS.r.|. - pag. 159
+

@@ -1,0 +1,31 @@
+ 
+
+Guide introduction
+
+Presentation
+
+Manual goals
+
+This manual is a guide for the Technician on how to use the RC5 Console to:
+
+. create agents and install them on a target defined by the Administrator
+. create HiTP connection injection rules for Network Injectors
+
+Information on how to consult the manual is provided below.
+Content
+
+This section includes the following topics:
+
+ 
+
+New guide features ______________________________________________________________________________________________ 2
+Supplied documentation ....................................................................................... 3
+Print concepts for notes ........................................................................................ 4
+Print concepts for format ...................................................................................... 4
+Product and guide addressees ................................................................................ 5
+Software author identification data ........................................................................ 6
+
+ 
+
+Technician's Guide ver.1.5 SEP—2013 - RC8 9 - 2013© HTS.r.I. - pag. 1
+

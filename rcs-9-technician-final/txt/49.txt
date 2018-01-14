@@ -1,0 +1,58 @@
+RCS 9 - What the function looks like
+
+Area Description
+
+ 
+
+2 Scroll bar.
+
+3 Window toolbar. Descriptions are provided below:
+
+6 NOTE: the = key displays elements in a list with
+their data.
+
+icon Function
+
+k. Create a factory.
+III
+
+6 NOTE: the function is only enabled if the user
+has Factory creation authorization.
+A factory can also be created on the
+operation level, see "Operation page" on
+page 24 .
+
+ 
+
+Editing a factory or agent
+
+Deleting a factory or agent
+
+Closing the agent or factory.
+
+Moving the factory or agent to a new target.
+
+Update all agents' software to the last version
+received from HackingTeam support service.
+
+CAUTION: the update does not update the
+configuration that is transmitted to the
+agent at the next synchronization.
+
+ii$$I3Xﬂ
+
+IMPORTANT: for Android, root privileges
+must be obtained to update the agent.5ee
+" What you should know about Android" on
+page 139.
+
+E“. Import target evidence physically collected on the
+* device.
+
+' NOTE: the function is only enabled if the user
+' has Import evidence authorization.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.l. - pag. 29
+

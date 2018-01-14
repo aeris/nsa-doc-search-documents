@@ -1,0 +1,47 @@
+RC5 9 - Operating systems
+
+ 
+
+Operating systems
+Desktop: Windows
+
+ 
+
+Mobile:
+Operating systems e-moii MMS SMS {text message)
+Android x If“) - X5
+BlackBerrigir x: - X5
+iDS - x: X3
+WinMobile x: x: X5
+
+0 IMPORTANT {*l: for Android, only g.mail e-mail is captured and root privileges are
+required. See "What you shouid know about Androi " on page 139 .
+
+Significant data
+Data is described below:
+
+Fieid Description
+
+ 
+
+Enabled Enables recording.
+From Records messages starting from the indicated date.
+To Records messages until the indicated date.
+
+Max size Maximum size of the message to be recorded.
+
+k!) Mic module
+
+Purpose
+The Mic module records the surroundings audio using the device’s microphone.
+
+Platforms
+Desktop: Windows, OS)(
+
+Mobile: Android (disabled during calls), BlackBerry (disabled during calls), iOS, Symbian (disabled
+during calls), WinM obile, Windows Phone (disabled during calls)
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013. HTS.r.|. - pag. 132
+

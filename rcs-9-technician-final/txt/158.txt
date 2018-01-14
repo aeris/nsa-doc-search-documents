@@ -1,0 +1,46 @@
+RCS 9 - List of installation vectors
+
+List of installation vectors
+
+Operating systems supported by agents
+Operating systems supported by the various desktop and mobile devices are listed below:
+
+Device Operating System
+
+ 
+
+ 
+
+Desktop 0 Windows
+0 OS X
+Mobile 0 Android
+0 BlackBerrv
+0 Windows
+Mobile
+0 Svm bian
+o IOS
+Vector list:
+Installation Device Description
+Vector
+Applet Desktop Deprecated as of RC3 version 8.4.
+Web
+Exploit Desktop, Adds the agent to any document (documentformat may depend on the
+Mobile available exploits}.
+Installation Mobile Creates an auto-installerfiie with the agent.
+Package
+Local lnstal- Mobile installs the agent on the target device either through USB or SD/MMC
+lation memory card.
+Melted Desktop Adds the agent to any application file.
+Application
+Network Desktop Link to the injection rule creation page. See "Managing the Network
+Injection injector" on page 67.
+Ofﬂine Desktop Creates an lSO file to generate a boot CD/DVD/USB to be used on com-
+lnstallation puter that is off or hibernating
+QR Mobile Generates a QR code for sites or printouts that, if photographed by the
+Codel‘lllleb target, will install the agent.
+Link
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013© HTS.r.|. - pag. 138
+

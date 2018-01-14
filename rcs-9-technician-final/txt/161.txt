@@ -1,0 +1,49 @@
+RC5 9 - Melted Application vector
+
+Melted Application vector
+
+Purpose
+Compiling modiﬁes an existent executable by inserting the agent into it.
+Agent components are encrypted to prevent reverse engineering.
+
+Operating systems
+Android, OS X, Windows
+
+Parameters
+
+Nome Description
+
+ 
+
+Application to be Executable ﬁle to which the agent is added.
+used as dropper The file type differs based on the operating system:
+a Android: third party APK application.
+
+0 IM PORTANT: test the final application. In fact, some
+' applications run additional runtime security controls.
+
+. OS X: compressed MacOs ﬁle .app. The application (a folder) must
+be compressed using the zip command from the Term inal.app con-
+
+sole.
+
+0 IM PORTANT: do not use the Compress menu item from the
+Finder application.
+
+0 Windows: any EXE file.
+
+Require (Android only) If automatic acquisition fails, this option enables the user
+administrative request to manually obtain root privileges from the device.
+
+rivile es . . .
+p g ‘ WARNING: the request Is displayed on the target device.
+
+Network Injection vector
+
+Purpose
+The page opens the Network Injector function in the System section.
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RCS 9 I 2013© HTS.r.|. - pag. 141
+

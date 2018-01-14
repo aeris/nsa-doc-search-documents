@@ -1,0 +1,47 @@
+RC5 9 - Checking Network Injector status
+
+ 
+
+ 
+
+Doro Description
+Action Infection method that will be applied to the resource indicated in Resource
+pattern:
+Method Function
+INJECT- Infects the downloaded EXE file in real time. The agent is installed
+EXE when the target runs the EXE file.
+INJECT- Lets you add the HTML code provided in the file in the visited web
+HTML- page.
+FILE k4: Please contact HackingTeam technicians for further details.
+INJECT- Blocks videos on youtube and requires the user to install a fake Flash
+HTML- update to view them. The agent is installed when the target installs
+FLASH the update.
+INJECT- Notiﬁes the Java Runtime Environment on the device that an update
+UPGRADE is available. The agent is installed when the target installs the
+update- Does not refer to Resource pattern.
+REPLACE Replaces the resource set in the Resource pattern with the supplied
+ﬁle.
+‘ Tip: this type of action is very effective when used in
+combination with Exploit generated documents.
+Agent For all actions except REPLACE. Agent to be injected into the selected Web
+resource-
+File For REPLACE Action only. File to be replaced with the one indicated in Resource
+
+pattern.
+
+Checking Network Injector status
+
+Introduction
+
+Network Injector synchronizes with the RC5 server to download updated control software versions,
+identiﬁcation and injection rules and send their logs.
+
+Network Injector status can be monitored from RCS Console.
+Speciﬁcally:
+o in the Monitor section: to identify when Network Injector is synchronized and thus
+available for data exchanges.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.I. - pag. 74
+

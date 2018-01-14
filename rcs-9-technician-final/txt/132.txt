@@ -1,0 +1,55 @@
+RCS 9 - Event list
+
+ 
+
+Event list
+
+Event data description
+Events are described below:
+
+Data
+
+Description
+
+ 
+
+Enabled Enables or disables the event.
+
+Name
+
+Type
+
+Event type description
+
+Event type are described below:
+
+Name assigned to the event.
+Event type list. See the table below.
+
+ 
+
+Event Device Triggers an action when"
+AC mobile the mobiie phone is being charged.
+Battery mobile the battery charge ievei is within the specified range.
+Call mobile a caii is made or received.
+Connection desktop, the agentfinds an active network connection.
+mobile
+Idle desktop the user does not interact with the computerfor a set period
+of time.
+Position mobile the device reaches or ieaves a specific position.
+Process desktop, an appiication is iaunched or a window is open on the device.
+mobile
+Quota desktop the disk space occupied by evidence on the device exceeds
+the set iimit.
+Screensaver desktop the screensaver is opened on the target device.
+SimChange mobile the SiM card is repiaced.
+SMS (text mes- mobile a text message is receivedfrom the indicated number.
+sage}
+Standby mobile the device is in stand-by mode.
+Timer desktop, the specified i ntervais eiapse.
+mobile
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013© HTS.r.|. - pag. 112
+

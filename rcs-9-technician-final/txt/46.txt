@@ -1,0 +1,44 @@
+RC5 9 - Creating a factory
+
+For more information on operations see ”What you shouia‘ know about operations" on page 22 .
+For more information on factories see "What you shouhzlr know about factories and agents" on
+page 33 .
+
+For a description of the data in this window see "Operation page data" beiow.
+
+To quickly manage operation datasee ”Wizards in the homepage" on page 13 .
+
+Creating a factory
+To create a factory:
+
+Step Action
+
+ 
+
+1 0 Click New Factory: data entry fields appear.
+0 Enter the name and description and in Type select the device type.
+
+2 Click Save: the new factory with the selected name appears in the main work area.
+
+Operation page data
+
+Selected target data is described below:
+
+Data Description
+
+ 
+
+Name Target name.
+Description User's description
+
+Status Defines the target's status:
+
+9 Open. If the Technician correctly installs agents, RCS receives the collected
+evidence.
+
+© Closed, it can no longer be opened.
+
+ 
+
+Technician's Guide I yer.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.I. - pag. 26
+

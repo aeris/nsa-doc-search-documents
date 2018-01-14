@@ -1,0 +1,74 @@
+RC5 9 -To learn more
+
+ 
+
+Area Description
+
+ 
+
+4 Possible actions on the agent. Descriptions are provided below:
+
+icon
+
+Description
+
+ 
+
+#ﬁ
+
+1'
+0
+ca
+
+.3
+
+Show the agent settings log, allowing the existent
+settings to be edited and saved as new. See "Agent
+conﬁguration iog data" beiow .
+
+Show the agent event log (info). See "Agent event iog
+data" on the facing page
+
+Show the results of commands run on the device using
+Execute actions. See ”Command page" on the facing
+page .
+
+Show the agent synchronization log. See ”Agent
+synchronization iog data" on the facing page .
+
+Open the function to upload or download files from
+the target device. See "Transferring fiies to/from a
+target" on page 46
+
+5 Agent details.
+
+5 RC5 status bar.
+
+To learn more
+For interface elem ent descriptions See "Shared interface eiements and actions" on page 14 .
+For more information on agents see "What you shouia‘ know about agents” on page 39 .
+
+Agent configuration log data
+
+Descriptions are provided below:
+
+ 
+
+Fieid Description
+
+Description User's description of the settings.
+
+User Name of the user who created the configuration.
+
+Saved Date settings were saved.
+
+Sent time Date settings were sent via synchronization.
+WARNING: if this value is null, the agent has not yet received the
+configuration.
+
+Activated New agent configuration installation date.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.l. - pag. 43
+

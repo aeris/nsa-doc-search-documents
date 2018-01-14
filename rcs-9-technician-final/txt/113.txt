@@ -1,0 +1,72 @@
+RC5 9 - Idenﬁfy the target by analyzing web chronology
+
+Steps
+
+Result
+
+ 
+
+1. In the Network Injector tab, click Network
+ﬁlters.
+
+2. For awider search, enter a regular
+expression in the Regular expression text
+box.
+
+3. Or, to reﬁne lhe search, enter a BPF
+expression in the EFF Network Filter text
+box.
+
+Result: the system only displays ﬁltered
+devices in the list.
+
+4. Manually infect devices as described in lhe
+proceduresee “Tofeding targets using
+manual identification ” a paginagl‘ .
+
+"' _-§F.F.I-!!l. IIE-I'IEr-E-l. IZHIIé-l'
+
+ 
+
+Nulunllnjucl-m IWIrtlaslntrudel rakenocess Pnlnl: Lumber"
+
+ 
+
+   
+ 
+
+ 
+
+ 
+
+Networklnberrace: utanchonnecDeomwwn‘est} - Signabim Rermsn
+SIIiIIiIIuiIILmlaLe: “lamWtermlmllwrldwlnll - Unktm
+lion-1:; rue soap l
+l _ _.
+IYNnnmrklltnr-i
+Hegddluplmiult Irmxbouk |
+I
+DPI'neLonLlllel: I I
+Ddd‘r Apply I
+sum: Hwadrlm“ Inaddnm Iwmlnr Humanmn as. Iammsnrllmmchtml’ﬁc Ilnstwnhnrmu
+% n::7:|:w.r::n5:7? Inrclcor Me
+I. braomd ”EARL”: Animm ImgL Mndm? drum rocchnokcom
+x . bSZClIdﬂ lntelCor ME
+I recur HEAD-5.1.154 IHllllllel mt:-
+x ' : Jlbxldﬂb Him rm.-
+“ ooznwmdnnwb Unkmwn mt:-
+IIImiﬂInIII
+Inl‘nrtnll
+
+ 
+
+ 
+
+Identify the target by analyzing web chronology
+
+To identify a target:
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.l. - pag. 93
+

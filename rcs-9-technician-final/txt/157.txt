@@ -1,0 +1,40 @@
+12
+
+ 
+
+Appendix: installation vectors
+
+Presentation
+
+Introduction
+
+An agent is a complex group of events, actions, modules and installation vectors. Single
+installation vectors are listed below with a detailed description of advanced configuration settings.
+
+Content
+
+This section includes the following topics:
+
+ 
+
+List of installation vectors ___________________________________________________________________________________ 138
+What you should know about Android .................................................................. 139
+Obtaining a Code Signing certificate ..................................................................... 139
+Exploit vector {desktop} ...................................................................................... 14D
+Melted Application vector .................................................................................. 141
+Network Injection vector .................................................................................... 141
+Offline Installation vector ___________________________________________________________________________________ 142
+Silent Installer vector ......................................................................................... 143
+U3 Installation vector ......................................................................................... 144
+Exploit vector (mobilel ....................................................................................... 144
+Installation Package vector ................................................................................. 145
+Local Installation vector ...................................................................................... 149
+(IR CodeIWeb Link vector ___________________________________________________________________________________ 149
+WAP Push Message vector .................................................................................. 150
+Installation Package preparation for Svmbian ........................................................ 152
+Installation Package preparation for Windows Phone .............................................. 154
+
+ 
+
+Technician's Guide ver.1.5 SEP—2013 - RC8 9 - 2013© HTS.r.I. - pag. 137
+

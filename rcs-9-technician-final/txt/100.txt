@@ -1,0 +1,60 @@
+RCS 9 - Whatyou should know aboutTacchal Control Center
+
+Data Description
+
+ 
+
+Network List of connected network interfaces. Select the injection interface connected to the
+interface network on which the device to be attacked is connected.
+
+Snifﬁng Like Network Interface or another network interface to only be used for sniffing.
+
+interface 6 NOTE: If the system includes an Endace DAG card for Gigabit connections,
+' the card will be detected and displayed in this list.
+
+Public IP Lets you specify a public IP address to be mapped on the injection interface private
+IP address. If "auto" is entered, the system uses default IP address on the injection
+interface and send a message indicating that it is a private IP address.
+
+Automatic It automatically restarts the infection without any human intervention even
+Startup following Appliance Network Injector reboot or shutdown.
+
+6 IM PORTANT: If this option is not selected, infection will not be
+automatically started.
+
+What you should know about Tactical Control Center
+
+Introduction
+
+Tactical Control Center is an application installed on a notebook, called Tactical Network Injector.
+
+It can connect to a protected WiFi network, infect devices thanks to RC5 identification and
+injection rules or infect manually identified devices.
+
+The identification and infection rules are the same as those used for Network Injector Appliance,
+with the sole difference that Tactical Network Injector provides an additional "manual"
+identiﬁcation rule. Thus the operator identifies the device to be infected and applies the injection
+rules to that device.
+
+Tactical Control Center operations
+With Tactical Control Center you can:
+
+. Enable synchronization with RC5 to receive updated identiﬁcation and injection rules and
+send logs.
+
+0 Update Tactical Control Center, essentially to update agents on devices.
+
+1- Automatically identify devices in a wired or WiFi network and infect them according to the
+RC5 identification and injection rules.
+
+1- Manually identify devices in a wired or WiFi network and infect them according to the RC5
+injection rules. The operator is in charge of identification.
+
+. Connect to a protected WiFi network to obtain its password.
+
+0 Emulate a WiFi network Access Point normally used by the target.
+
+ 
+
+Technician's Guide | ver.1.5 SEP—2013 | RCS 9 | 2013. HTS.r.l. - pag. 80
+

@@ -1,0 +1,59 @@
+RC5 9 - Injecﬁon rule data
+
+Data Description
+
+ 
+
+ldent Target's HTTP connection identiﬁcation method.
+6 NOTE: Network Injector cannot monitor FTP or HTTPS connections.
+
+Each method is described below:
+
+ 
+
+Data Description
+
+STATIC— Static IP assigned to the target.
+
+IP
+
+STATIC— Range of IP addresses assigned to the target.
+
+RANGE
+
+STATIC— Target's static MAC address, both Ethernet and WiFi.
+
+MAC
+
+DHCP Target's network interface MAC address.
+
+RADIUS- RADIUS user name. User-Name (RADIUS 802.1x).
+
+LOGIN
+
+RADIUS- RADIUS caller ID. Calling-Station-Id (RADIUS 802.1x).
+
+CALLID
+
+RADIUS- RADIUS session ID. Acct-Session-Id (RADIUS 802.1x).
+
+SESSID
+
+RADIUS- RADIUS key. NAS-IP-Address: Acct-Session-Id (RADIUS 802.1x).
+TECHKEY
+
+STRING- Text string to be identiﬁed in the data traffic from the target.
+CLIENT
+
+STRING- Text string to be identiﬁed in the data traffic to the target.
+SERVER
+
+TACTICAL The target is not automatically identiﬁed but can be identified by the
+operator on Tactical Network Injector. Only after the device is
+identified by the operator is the ldent field customized with the data
+received from the device.
+
+ 
+
+Technician's Guide I yer.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.l. - pag. 71
+

@@ -1,0 +1,59 @@
+RCS 9 - Setting a factory or agent conﬁguraﬁon
+
+For the list of modules available in the two conﬁgurations see "Moduie iist" on page 122
+
+Setting a factory or agent conﬁguration
+To activate or deactivate collectable evidence:
+
+Step Action
+
+ 
+
+1 a Click OFF for the evidence to be acquired: the button turns to ON and con-
+ﬁguration options, where available, may be set.
+
+2 a In Dnline Synchronization leave ON if the target device can access the Inter-
+net. This lets you gradually set options. Leave OFF if the target device cannot
+access the Internet or if you want to manually acquire evidence from the tar-
+get.
+
+a Click Save to save the current configuration.
+
+3 Continue differently:
+
+if you are Then...
+setting...
+
+ 
+
+afactory click Build to compile it and obtain the agents for the different
+platforms. See ”Compiiing ofoctory” on page 35 .
+
+an agent agent settings are automatically updated at the next synchronization.
+
+Basic configuration data
+
+The types of collectable evidence that can be enabled in basic factory or agent configuration are
+listed below.
+
+ 
+
+Recording Description
+Calls Record calls.
+Messages Record messages.
+
+Accessed files (desktop only)
+Record documents or images opened by the target.
+Document, Images: file types.
+
+Screenshots Record windows opened on the target display.
+
+Grab a screenshot every: image acquisition interval.
+Position Log the target's geographic position.
+
+Save target position every: position acquisition interval.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.l. - pag. 53
+

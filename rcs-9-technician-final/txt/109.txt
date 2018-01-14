@@ -1,0 +1,92 @@
+RC5 9 - Infecting targetsusing automatic identiﬁcation
+
+Steps
+
+5. Click Start: the system launchesvarious
+attacks to ﬁnd the access password.
+
+6. Click Stop to stop the attack.
+
+71‘. lfattacks are successﬁJI, the password
+appears over the status indicator.
+
+8. Using the operating system Network
+Manager use the password to connect to
+the WiFi network. The password is saved by
+
+the system and no longer needsto be
+entered.
+
+9. Open the Network Injector section to start
+identiﬁcation and infection.
+
+Result
+
+dlILIIIEI. I: Ellltl'llll. I: IHI ter
+
+ 
+
+Ncmrlclrumm Wilﬂmhlllllmln Falccnnccssr‘olnt Lonmmm
+
+mrchsslntcrraoe:
+
+- nerrtsh
+WlIEiﬂa Ileuwlk: v Hellcbh
+Attack rypc: .— I Ink r.»-.r
+
+wnrtllkr srnrr
+
+mewuldftluul:wiﬁlml|unn
+
+smrunnwmmmzdimnnarvnnack
+Inrrﬂ‘nmlshlnm
+
+'I‘rlrgltl'PSﬁlDMl‘Ml‘tlﬁwll'l'nHE
+
+'I‘rlrgltl'ﬂlr) rimmrlc l1 HD:R5::ID:ﬁ'H'JD:%1
+
+mmmmlmw kﬁumcfquimrdllst
+Stun karrimlﬂndslnlm nnritch
+
+ 
+
+ 
+
+Mcmurklrucclnr WillllnhlllLlﬂllt chﬁnccssr‘nlnt Lousysbcm
+
+wtrtlcsslrurmoc:
+
+. Mrrcsh
+wileiuslmnc - Reliesh
+Almcklypr‘: 1 llnlt mi
+
+‘fJnrl‘lllﬁl' ﬁlilrt'
+
+YHnwqu1iFuu1-1I:wiﬁlmlllmn
+
+Startinq WMMMZdIctIu nnnl attack
+
+lam-hm Ismin n1
+
+Ttlrgnt Pﬂnmmrklswlmmt
+
+Thrgni PASIr) nrhunrk k .‘lD:B§;n'):ﬁ9:O|‘l:§;I
+
+mmmmkma k pumquiwmransr
+strap 1}? : gnning handshn ton [um-Icon
+
+- step if) : mu ling I Imlininmly
+
+ﬁlldtl mlnplrilrd
+
+Namldia: wilila-llhas
+
+ 
+
+lnfecting targets using automatic identification
+To start automatic identification and infection:
+
+ 
+
+Technician's Guide I uer.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.l. - pag. 89
+

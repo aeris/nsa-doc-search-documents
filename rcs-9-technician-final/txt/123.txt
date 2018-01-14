@@ -1,0 +1,15 @@
+RC3 9 - License monitoring data
+
+ 
+
+Data Description
+
+ 
+
+Anonymizers Amount of Anonymizers currently used by the system and maximum admitted
+quantity.
+
+ 
+
+Technician's Guide Iver.1.5 SE P—2013 | RCSQ | 2013© HTS.r.|. -pag. 103
+

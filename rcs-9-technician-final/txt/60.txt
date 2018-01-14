@@ -1,0 +1,59 @@
+RC5 9 - Agent synchronization
+
+ 
+
+Agent synchronization
+An agent will perform synchronization only if:
+
+. synchronization is enabled in the basic configuration
+. a Synchronize type action was added to the advanced configuration.
+
+Offline and online agents
+An agent behaves differently according to the Internet connection availability:
+
+If the Inter- Then...
+net con-
+
+nection
+
+is...
+
+ 
+
+not avail- if the agent has modules enabled, it starts to record data in the device.
+able
+
+available if ﬁrst synchronization has been run on the agent, you can:
+
+a change settings, for example, as recording requests become more specific
+for that device. Resetting an agent does not change factory settings
+
+. update its software,
+
+0 transfer ﬁles to and from the device,
+
+a analyze sent evidence
+
+. Tip: start creating an agent and only enable synchronization and the device
+
+module. Then, once installed, and upon receiving the first synchronization,
+gradually enable the other modules, according to the device capabilities
+and the type of evidence you want to collect.
+
+Temporarily disabling an agent
+
+Agent activities can be temporarily suspended without uninstalling the agent by simply disabling
+all the modules and leaving only synchronization active.
+
+Agent testing
+To test a configuration before production use, create an agent in Demo mode (see "Compiling a
+factory" on page 35 ).
+
+The agent is created in demo mode, behaving according to the given configuration, with the sole
+difference that it clearly signals its presence on the device (with audio, led and screen messages).
+Signaling permits easy identiﬁcation of an infected device used for testing.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.I. - pag. 4U
+

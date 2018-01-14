@@ -1,0 +1,40 @@
+RC5 9 - Keeping agentsoftware updated
+
+ 
+
+Step Action
+
+ 
+
+1 Create a factory: the system automatically enables synchronization.
+See "Operation page" on page 24
+2 Compile the factory selecting the installation vector suited to the device platform and
+installation method, then create the agent.
+See "Compiiing a factory" on page 35 .
+3 Install the agent on the target device with the selected methods.
+See "List of installation vectors" on page 138 .
+4 The agent appears in the target page at ﬁrst synchronization.
+See "Target page" on page 28
+
+5 Reset the agent using the basic or advanced configuration. The agent applies the new
+conﬁguration at the next synchronization.
+
+See "Basic Jfattory or agent configuration" on page 50
+See ’iﬂdvancea‘ factory or agent cmfigaration" on page 59 .
+
+Keeping agent software updated
+HackingTeam cyclically updates its software. To update installed agents:
+
+Step Action
+
+ 
+
+1 a In Operations section, Target update agents. See "Target page" on page 28
+or
+a In Operations section, Target open an agent and update it. See "Agent page"
+on page 41 .
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.I. - pag. 2U
+

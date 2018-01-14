@@ -1,0 +1,30 @@
+ 
+
+Agents
+
+Presentation
+
+Introduction
+Agents acquire data from the device on which they are installed and send it to the RC5 Collectors.
+
+Their conﬁguration and software can be updated and they can transfer files unnoticed to the
+target.
+
+Content
+
+This section includes the following topics:
+
+ 
+
+What you should know about agents ..................................................................... 39
+Agent page ........................................................................................................ 41
+Agent configuration log data ________________________________________________________________________________ 43
+Agent event log data ........................................................................................... 44
+Agent synchronization log data ............................................................................. 44
+Command page ___________________________________________________________________________________________________ 44
+Transferring files tolfrom a target .......................................................................... 46
+
+ 
+
+Technician's Guide ver.1.5 SEP—2013 - RCS 9 - 2013. HTS.r.l. - pag. 38
+

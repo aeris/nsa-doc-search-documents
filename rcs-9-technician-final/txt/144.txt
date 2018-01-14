@@ -1,0 +1,45 @@
+RC5 9 - Signiﬁcant data
+
+ 
+
+Mobile: Android, BlackBerrv, iOS, WinMobile
+
+Significant data
+None
+
+IApplication module
+
+Purpose
+
+The Application module records the name and information on processes opened and closed on
+the target device.
+
+Evidence lists all the applications used by the target in chronological order.
+
+Operating systems
+
+Desktop: Windows, OS X
+Mobile: Android, BlackBerrv, iOS, Symbian, WinMobile
+
+Significant data
+None
+
+ECalendar module
+
+Purpose
+
+The Calendar module records all the information found in the calendar on the target device. The
+desktop version imports the calendar from Outlook and other sources.
+
+Operating systems
+
+Desktop: Windows, OS X
+Mobile: Android, BlackBerrv, iOS, WinMobile
+
+Significant data
+None
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RCS 9 I 2013© HTS.r.|. - pag. 124
+

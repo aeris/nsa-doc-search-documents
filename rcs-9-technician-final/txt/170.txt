@@ -1,0 +1,66 @@
+RCS 9 - Deleting no longer used ﬁles
+
+ 
+
+Deleting no longer used files
+
+Packets saved in the folder C:\RCS\Co|Iector\public can be deleted using the File Manager
+function, see "Frontend management".
+
+Operating systems
+
+Android, BlackBerry, Symbian, WinMobile
+
+0 NOTE: if the target's operating system is unknown, use the multiplatform version.
+
+Parameters
+
+Name
+
+Description
+
+ 
+
+Application name
+
+URL
+
+Requhe
+administrative
+privileges
+
+Name
+Description
+Vendor
+Version
+
+Certificate bound
+to phone IMEI
+
+560 Edition
+
+Installer name (visible to target)
+
+Connection to an Anonymizer where the installer was saved.
+
+(Android only) If automatic acquisition fails, this option enables the user
+request to manually obtain root privileges from the device.
+
+‘ WARNING: the request is displayed on the target device.
+
+(BlackBerry only) Application data used to "hide" the agent.
+
+(Symbian only) Device certiﬁcate.
+
+(Symbian only) Operating system version.
+
+WAP Push Message vector
+
+Purpose
+
+Creates a WAP-Push message that invites the target to visit a link.
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013(3) HTS.r.l. - pag. 150
+

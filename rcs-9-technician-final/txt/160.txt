@@ -1,0 +1,59 @@
+RCS 9 - Installing the Code Signing certiﬁcate
+
+0 Verisign(http:f[www.verisign.com)
+
+o Thawte(http://www.thawte.com)
+o GoDaddy(http:f/www.godaddy.com)
+
+ 
+
+ 
+
+Installing the Code Signing certificate
+
+On the Backend system, from the folder C:\RCS\DB\bin enter the following command:
+> ros-db-oonfig —-sign-oert CertificateFile --sign-pass CertificatePassmrd
+Result: the certificate is installed in the system and the code signing function can now be used.
+
+Exploit vector (desktop)
+
+Purpose
+
+Compiling creates an installer which, when opened on the target device, exploits the vulnerability
+of a specific program. Different behaviors may be experienced, depending on the specific Exploit
+(i.e. the running program is aborted).
+
+Installation
+
+The installer is created and the packet of utility files is automatically savedC:\RCS\Collector\public
+in the folder. These ﬁles may be used in many types of attacks (i.e.: via link from a website).
+
+Deleting no longer used files
+
+Packets saved in the folder C:\RCS\Collector\public can be deleted using the File Manager
+function, see "Frontend management".
+
+Operating systems
+05 X, Windows
+
+ 
+
+Parameters
+
+Name Description
+
+File type Type of file to be infected (i.e.: .PDF).
+
+Choose an Full application name used by the target to open the file (i.e.: Adobe Acrobat
+Exploit Reader 10).
+
+URL URL pointing to the desired agent installation package.
+
+Document URL: connection to an Anonymizer where the installer was saved.
+
+Document: to select the file to be infected.
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013© HTS.r.|. - pag. 140
+

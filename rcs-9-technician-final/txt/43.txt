@@ -1,0 +1,65 @@
+RC5 9 -To learn more
+
+.‘I
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I
+H .’-DDC|I'|l"l male“: I'Mx'cc :::'>::-l\< E.- ' -'-.o: tin-:3: a l—'
+a WEI H .
+in D it i an El . “3—.
+'M mu. m ”in am “1—an —
+l .rlb
+H H a
+Ilm :v.'.|ln
+Inn-1 .wru n.. .n... ...........-.... -
+.,_._‘
+um I.
+.l
+5mm... ..... I u..n.-.-..u
+
+ 
+
+Area Description
+
+ 
+
+1 RC5 menu.
+
+2 Scroll bar.
+
+3 Window toolbar.
+
+4 List of created operations:
+
+F
+‘ Open operation. If targets were set and agents correctly installed, collected
+evidence is received.
+
+F'"
+ﬁl Closed operation. All targets are closed and agents uninstalled. All its targets
+and evidence can still be viewed.
+
+5 Selected operation data.
+
+5 RC5 status bar.
+
+To learn more
+For interface elem ent descriptions See ”Shared interface elements and actions” on page 14 .
+For a description of the data in this window see "Operation data" on the facing page .
+
+For more information on operations see "What you should know about operations" on previous
+page .
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.l. - pag. 23
+

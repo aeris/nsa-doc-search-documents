@@ -1,0 +1,54 @@
+RCS 9 - Supplied documentation
+
+ 
+
+ 
+
+Release Code Software Description
+date version.
+15 March Technician's 33 Changed Tactical Control Center use. See " Tactical
+2013 Guide Control Center " on page 84 .
+1.3 MAR- Changed Appliance Control Center use. See "Appliance
+2013 Control Center " on page 76 .
+Added possibility of creating a factory on the operation
+level. See "Operation page" on page 24 .
+Changed Installation Package and Melted application
+vectors see "List of installation vectors” on page 138 .
+Added possibility of disabling screenshot evidence in the
+scout agent. See "What you should know about agents"
+on page 39 .
+Added license management to exclude file upload and
+command execution on the target device. See
+"Transferring files to/from a target" on page 46 .
+15 Technician's 32 Added basic or advanced configuration save as template.
+October Guide See "What you should know about basic conﬁguration" on
+2012 12 OCT page 50 and See "What you should know about advanced
+2012 conﬁguration" on page 56 .
+Added quick investigation creation wizard. See "Wizards in
+the homepage" on page 13
+Added scout agent management. See "What you should
+know about agents" on page 39 .
+30 June 1.1 JUN 3_1 Added agent functions see "Agent page" on page 41 .
+2012 2012 Added Idle event see "ldle event" on page 115 .
+TechnICIan's Changed installation for Exploit, WAP push and QR Code
+GU'de vectors. Changed vectors Offline Installation, Installation
+1.1 JUN Package see ”List of installation vectors” on page 138 .
+2012 Changed Symbian certification process see "installation
+Package preparation Jfor Symbian" on page 152 .
+Code Signing certificate for Melted Application and
+Silent Installer vectors see "Obtaining a Code Signing
+certificate" on page 139 .
+16 April Technician's 30 First publication
+2012 Guide
+
+Supplied documentation
+
+1.0 APR-
+2012
+
+The following manuals are supplied with RCS software:
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RC8 9 I 2013© HTS.r.l. - pag. 3
+

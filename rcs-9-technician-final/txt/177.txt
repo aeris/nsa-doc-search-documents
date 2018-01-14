@@ -1,0 +1,68 @@
+RC5 9 - Installing the Symantec cerﬁﬁcate
+
+Step Action
+
+ 
+
+2
+
+3
+
+0 Enter the Publisher ID you received and the email indicated in the Account
+Info section during Windows Phone Dev Center registration.
+1- Complete the purchase following the on-screen instructions.
+
+When finished, you will receive a couple of emails from Symantec indicating:
+
+1- order confirmation
+1- the list of enabled functions according to the order
+a the certificate and instructions on how to import it on your computer
+
+NOTE: to learn more, visit https:lfknowledge.verisign.com/support/code-signing-
+support/index?page=content&id=50207?0&actp=search&viewlocale=en US
+
+ 
+
+Installing the Symantec certificate
+To complete Enterprise Mobile Code Signing Certificate installation, first install:
+
+Enterprise Mobile Root;
+Enterprise Mobile CA certificate.
+
+IMPORTANT: always use the same browser to download certificates. The Firefox
+browser is referred to in the described procedure.
+
+Follow the procedure below:
+
+Step Action
+
+ 
+
+1
+2
+
+Open Firefox.
+
+Copy and paste the URL received in the email in the address bar to install Microsoft
+Enterprise Mobile Root Certificate.
+
+In the Download certiﬁcate dialog window, select all three check boxes and click OK.
+
+Copy and paste the URL received in the email in the address bar to install Microsoft
+Enterprise CA Root Certificate.
+
+In the Download certiﬁcate dialog window, select all three check boxes and click OK.
+
+6 NOTE: to check whether certificates were installed, select the certiﬁcate in
+
+the Firefox menu, Options, and select Advanced. Next select the Certificates
+tab and click on Show Certiﬁcates: the names of the installed certiﬁcates
+appear in the certificate list in the Authorities.
+
+Install Enterprise Mobile Code Signing Certificate from the link in the email you
+received and click Continue.
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RCS 9 I 2013© HTS.r.l. - pag. 157
+

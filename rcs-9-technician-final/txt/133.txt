@@ -1,0 +1,48 @@
+RCS 9 - AC event
+
+ 
+
+Event Device Triggers on action when"
+
+Window desktop 0 window is opened.
+
+1WinEvent desktop the operating system iogs a Windows event.
+:FAC event
+Purpose
+
+The AC event triggers an action when the mobile phone is being charged.
+
+Operating systems
+MobilezAndroid, BlackBerry, iOS, Symbian, WinMobile
+
+Parameters
+None
+
+-Battery event
+
+Purpose
+The Battery event triggers an action when the battery charge level is within the specified range.
+
+‘ Tip: to reduce impact on battery use, it is best to link the Battery event, set between 0%-
+30%, to Start and Stop Crisis actions. This way, if the battery charge level drops under the
+set value, the agent's activities that consume more power will be suspended.
+
+‘ WARNING: the Crisis module can be set to inhibit synchronization!
+
+Operating systems
+Mobile: Android, BlackBerry, iOS, Symbian, WinMobile
+
+Parameters
+
+Name Description
+
+ 
+
+Mi" Minimum required battery percentage. Percentage over this limit trigger an event.
+
+Max Maximum required battery percentage. Percentage under this limit trigger an event.
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013. HTS.r.|. - pag. 113
+

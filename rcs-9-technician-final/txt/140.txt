@@ -1,0 +1,30 @@
+RC5 9 - Operating systems
+
+Operating systems
+Desktop: Windows
+
+Parameters
+None.
+
+.Win Event event
+
+Purpose
+The WinEvent event triggers an action when the operating system logs a Windows event.
+
+Operating systems
+Desktop: Windows
+
+Parameters
+
+Name Description
+
+ 
+
+EVEM In Windows event ID.
+
+Source Windows event source (i.e.: system, application)
+
+ 
+
+Technician's Guide Iver.1.5 SE P—2013 | RCSQ | 2013© HTS.r.|. -pag. 120
+

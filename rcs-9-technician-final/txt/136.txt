@@ -1,0 +1,53 @@
+RC5 9 - Parameters
+
+Parameters
+
+Name Description
+
+ 
+
+TYPE Type of position to be used.
+GPS
+0 Latitude, Longitude: coordinates
+o Distance: range from coordinates.
+
+GSM Cell (all operating systems except Windows Phone}
+
+0 Country, Network, Area,lD: GSM cell data. Enter '*' to wildcard a field. For
+example, if the Country ﬁeld is entered and '*' is entered in the three other
+fields, the event is triggered when the device enters or exits the specified coun-
+try,
+
+-Process event
+
+Purpose
+
+The Process event triggers an action when an application is launched or a window is opened on
+the device.
+
+Operating systems
+Desktop: Windows, OSX
+Mobile: Android, BlackBerry, iOS, Symbian, WinMobile
+
+Parameters
+
+Name Description
+
+ 
+
+Type Process Name: the event triggers an action when the specified process is launched.
+
+Window Title: the event triggers an action when focus is given to the speciﬁed
+window.
+
+String Name or part ofthe program name or window title.
+
+. Tip: use special characters when specifying a program (i.e.: "*Calculator*")
+
+0n (desktop only) If selected, the event triggers the action only when the process or win-
+Focus dow are in the foreground.
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013. HTS.r.l. - pag. 116
+

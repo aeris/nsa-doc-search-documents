@@ -1,0 +1,41 @@
+RC5 9 -To learn more
+
+Area Description
+
+ 
+
+1 Single application access tabs. Descriptions are provided below:
+Function Description
+
+Network It manages target device sniffing and infection, synchronizes RCS rules
+Injector and updates Appliance devices.
+
+Log Lists logs in real time.
+System
+
+2 Area with the buttons to reload the device list, start network connections, enable
+
+synchronization, enable automatic reboot after boot and enable Network Appliance
+update.
+
+To learn more
+
+To learn more about Appliance Control Center see "What you shouid know about Appliance
+Control Center” a pogino75 .
+
+For a description of Appliance Control Center data see ”Appliance Controi Center data" o
+pogino?9
+
+Enabling synchronization with RC5 server to receive new rules
+
+Following is the procedure on how to enable synchronization with RCS server to receive updated
+rules:
+
+NOTE: if an infection is in progress, Network Injector is already synchronized with RC5
+server and thus rules are automatically uploaded,- skip to step 4.$ee "Checking Network
+injector stotus " o pogi no 74
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.l. - pag. 77
+

@@ -1,0 +1,21 @@
+RC5 9 - Url module
+
+-Ur| module
+
+Purpose
+The Url module records the name of the websites visited by the target's browser.
+
+Operating systems
+Desktop: Windows, OS)(
+Mobile: BlackBerry, iOS, Symbian, WinMobile.
+
+0 IMPORTANT: when a BlaskBerrigir is restarted, in order for this module to be started,
+the telephone must be in standby for several minutes {backlight off}.
+
+Significant data
+None
+
+ 
+
+Technician's Guide I uer.1.5 SE P—2013 I RC8 9 I 2013. HTS.r.l. - pag. 136
+

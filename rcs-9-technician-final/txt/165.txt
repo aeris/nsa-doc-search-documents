@@ -1,0 +1,54 @@
+RC8 9 - Operating systems
+
+myiphone>sh install.sh
+
+Operating systems
+
+ 
+
+iOS
+
+Parameters
+
+Name Description
+
+File type Type of file to be infected {i .e.: .PDF).
+
+Choose an Full application name used by the target to open the file (i .e.: Adobe Acrobat
+Exploit Reader 10).
+
+URL Settings that identify the file to be infected.
+
+Document URL: connection to an Anonymizer where the installer was saved. .
+
+Document: select the file to be infected.
+
+Installation Package vector
+
+Purpose
+
+Compiling creates an executable that installs the agent in silent mode. The executable can be
+loaded on the device with any of these methods:
+
+. download from URL,
+
+. linkviaSMSorMMS,
+
+. directly from computer via USB cable,
+
+. (Windows Mobile only) direct copy to SD card,
+. (Windows Phone only) attachment via email.
+
+Notes for Android operating systems [vector preparation)
+Compiling generates two APK vectors (Android Application Package File):
+
+. AppiicotionNome.v2.apk: vector for Android 2.x
+. AppiicotionNome.default.apk: vector for Android 3.): and 4.):
+
+Notes for Android operating systems (installation)
+The installation procedure is provided below:
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013© HTS.r.|. - pag. 145
+

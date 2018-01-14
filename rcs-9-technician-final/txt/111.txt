@@ -1,0 +1,78 @@
+Steps
+
+RC5 9 - Forcing unknown device authentication
+
+Result
+
+ 
+
+7. To stop infection, click Stop.
+
+Forcing unknown device authentication
+To force an unknown device authentication:
+
+Steps
+
+ 
+
+1. In the Network Injector ml), selectunknown
+
+devices from the list [status
+
+ 
+
+Result
+_' '-I.I:ti-::L Ec-ntrc-l. renter
+Nnh-mrtlntrww win-e115: lnuudel' IdkeMceuPuinL LuuﬂvsLem
+x] NeLwDIkiIILHI'aLE: ulnllU(CuIIIIecLedluWifilesL'l . sigul:9wi Reliesh
+Mlillilluillwlﬁe: “Ulllﬂ-KlEIIMIWZ-HW“ idHif-EJ - u'uklul
+(ol‘liq | Mn | 5Lup l
+
+I-Nnmnrl: liter-i
+
+Hilsunmn 05 Fire-met lastwlliuamr. lmtwnhnnack
+
+ 
+
+ 
+
+Eds-m: Hwadrlrm< Il'adllrms Iwndnr
+x counccmiﬁ lntchor
+'3 ?—1:m:6d:b?mc:od lﬂJﬂMJ'IJ Mum-m
+at seem: an lnLelCoI
+'3 09mm: sc‘l:r.|' lamb-5.1.154 Imuuaie:
+X Junocibxtdih Him
+K 00:211ﬁbdﬂ’1nlh Unkmwn
+
+I Nudquull I
+
+$§¥§§¥
+
+ 
+
+“mull |
+
+ 
+
+ 
+
+2. Click Reauth selected: devicesare forced to
+re—authenticate.
+
+. Tip: in certain cases all devices must _
+be authenticated. To do this, click
+
+Reauth All.
+
+3. lfre—authentjcation is successﬁJl, automatic
+identiﬁcation is started: device statJszill be
+
+J and can be infected from novur on.
+
+lnfecting targets using manual identification
+To manually infect network devices:
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.l. - pag. 91
+

@@ -1,0 +1,49 @@
+RC5 9 - Signiﬁcant mobile data
+
+ 
+
+Significant mobile data
+Data is described below:
+
+Fieid Description
+
+ 
+
+GPS Finds the position from GPS information.
+Cell Finds the position from GSM cell or CDMA information.
+Wifi Finds the position from WiFi station BSSID.
+
+6 NOTE: for Windows Phone, the system internally sets the most efﬁcient way to find the
+' device position at a given time, regardless of set parameters.
+
+@Screenshot module
+
+Purpose
+The Screenshot module captures the target device's screen image.
+
+0 IMPORTANT: for Android, root privileges are required to capture screenshots. See
+"What you shouid know about Android” on page 139 .
+
+Operating systems
+Desktop: Windows, 05X
+Mobile: Android, BlackBerry, iOS, Symbian, WinMobile
+
+Significant data
+Data is described below:
+
+Fieid Description
+
+ 
+
+Quality Captured image final quality.
+Low: worst image quality, maximum compression
+High: best image quality, less compression
+
+‘ Tip: leave the default value.
+
+Onlyr foreground window (Desktop only) Captures a snapshot of the foreground window.
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013. HTS.r.l. - pag. 135
+

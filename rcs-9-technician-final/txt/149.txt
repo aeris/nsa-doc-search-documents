@@ -1,0 +1,45 @@
+RC5 9 - Device module
+
+ 
+
+:HEDevice module
+
+Purpose
+
+The Device module records system information (i.e.: processor type, memory in use, installed
+operating system, root privileges). It can be useful to monitor disk usage on the device and to
+retrieve the list of applications installed.
+
+0 NOTE: for Android, if the device has root privileges, Device type evidence indicates
+root:yes.
+
+Operating systems
+Desktop: Windows, OSX
+Mobile: Android, BlackBerrv, iOS, Symbian, WinMobile, Windows Phone
+
+Significant mobile data
+Data is described below:
+
+ 
+
+Fieid Description
+Retrieve application In addition to system information, record the list of installed appli-
+list cations.
+
+4%File module
+
+Purpose
+
+The File module records all ﬁles that are opened on the target computer. It can also be capture
+the ﬁle when opened.
+
+Operating systems
+Desktop: Windows, OSX
+
+Significant data
+Data is described below:
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013. HTS.r.l. - pag. 129
+

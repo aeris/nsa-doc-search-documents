@@ -1,0 +1,60 @@
+RC5 9 - Actions always available on the interface
+
+Areo Description
+
+ 
+
+4 Buttons to display all elements regardless of their group membership. Descriptions
+are provided below:
+
+Icon Description
+
+ 
+
+H Show all operations.
+£3} Show all targets.
+5‘ Show all agents.
+* Show all entities.
+
+5 Window toolbar.
+
+5 Search buttons and box:
+
+ 
+
+Object Description
+Search box. Enter part of the name to display a list of
+
+elements that contain the entered letters.
+
+Display elements in a table.
+
+Display elements as icons.
+
+7 Logged in user with possibility of changing the language and password.
+
+3 Download area with ability to view progress during export or compiling. Files are
+downloaded to the desktop in RCS Download folder.
+
+0 top bar: percent generation on server
+0 bottom bar: percent download from server to RCS Console.
+
+9 Current date and time with possibility of changing the time zone.
+
+Actions always available on the interface
+
+Change interface language or password
+To change the interface language or password:
+
+Step Action
+
+ 
+
+1 Click [7] to display a dialog window with the user's data.
+
+2 Change the language or password and click Save to confirm and exit.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.l. - pag. 16
+

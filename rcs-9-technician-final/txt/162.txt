@@ -1,0 +1,48 @@
+RCS 9 - Operating systems
+
+Operating systems
+
+Parameters
+
+Offline Installation vector
+
+Purpose
+
+Compiling creates an auto-installer ISO ﬁle to be written on a CD or USB thumbdrive (Windows
+only).
+
+Insert the CD or USB key, then turn on the target computer. Boot from the inserted media and
+wait for a menu to appear. Infection can be done selectively by choosing from a list of all the
+available users on the system.
+
+Operating systems
+M ultiplatform.
+
+Parameters
+
+Name Description
+
+ 
+
+Bootable Creates a ISO auto-installer for CD or DVD.
+
+CDIDVD
+
+Bootable (Windows only) Creates an ISO auto-installer for USB key.
+
+USB drive
+
+Dump Automatically extracts documents belonging to a certain user. Documents can be
+Mask saved on a USB peripheral to later be imported in the RC5 database.
+
+Three document capture options are available:
+0 Documents: MS Office, PDF and text file documents
+0 Images: photos and images
+
+0 Custom: select the file extensions to be capture, separated by the pipe char-
+acter l" |").
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013© HTS.r.l. - pag. 142
+

@@ -1,0 +1,65 @@
+RC5 9 -To learn more
+
+Area Description
+
+ 
+
+3 Window toolbar. Descriptions are provided below:
+
+icon Description
+
+ 
+
+0‘ Compile the configuration into one or more
+agents to be installed, based on selected
+installation vectors. See "Compiiing a factory " on
+page 35
+
+a Save the configuration: the agent configuration is
+logged and sent to the agent at the next
+synchronization.
+
+See "Agent conﬁguration iog data" on page 43
+
+5-. Export the configuration to a .json ﬁle.
+
+iv
+
+E. Import the configuration from a .json file.
+a
+
+{3 Load the basic configuration tern plate or save the
+- current conﬁguration as a template.
+
+See "What you shouici know about basic
+conﬁguration” on page 50 .
+
+{1 Open the advanced configuration window. See
+{1' "Advanced factory or agent configuration ” on
+page 59 .
+
+CAUTiON: when returning from advanced
+configuration to basic configuration, the
+advanced configuration will be lost and
+the basic configuration will be restored.
+
+4 List of collectable evidence and relevant activation status.
+
+NOTE: the module list varies according to device
+
+type.
+
+5 RC5 status bar.
+
+To learn more
+For interface elem ent descriptions See ’leared interface eiements and actions” on page 14 .
+
+For more information on the basic configurationsee "What you shouici know about basic
+configuration" on page 50 .
+
+For a description of the data in this window see "Basic configuration data" on the facing page .
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.l. - pag. 52
+

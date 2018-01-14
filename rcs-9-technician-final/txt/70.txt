@@ -1,0 +1,61 @@
+RCS 9 - What you should know about basic conﬁguration
+
+ 
+
+What you should know about basic configuration
+
+Basic configuration
+
+The basic factory/agent conﬁguration let you enable and quickly set evidence acquisition.
+
+Basic conﬁguration does not include the acquisition of some types of evidence nor detailed
+acquisition method options.
+
+Default basic conﬁguration:
+
+0 System information acquisition when the device is turned on (cannot be disabled)
+0 A module to run synchronization between the agent and RCS at a certain interval.
+
+For the list of module types available in the basic configuration see "Basic conﬁguration data" on
+page 53 .
+
+CAUTlON: when returning from advanced configuration to basic configuration, the
+advanced configuration will be lost and the default basic configuration will be restored.
+
+Exporting and importing configuration settings
+
+Base or advanced conﬁguration settings are exported/imported to reuse the settings on other RC5
+systems.
+
+The base or advanced configuration settings are exported in a .json ﬁle that can be transferred to
+another system and imported when creating an agent.
+
+Saving the configuration settings as a template
+
+Base or advanced conﬁgurations settings are saved as a template to have other users on the same
+RC5 system reuse the conﬁguration.
+
+The base or advanced configuration settings are saved as a template in the database,
+accompanied by a description and the name of the user. When creating another target, another
+user can load it and thus it becomes the conﬁguration for that agent.
+
+0 IMPORTANT: base and advanced configuration templates are saved separately in the
+
+database. Base configuration templates thus appear when creating an agent with a
+base configuration, advanced configuration templates appear when creating an agent
+with an advanced configuration.
+
+Basic factory or agent configuration
+
+- Operationssection, double-click an operation, double-click a target, double-click an agent
+
+To setfuctories and | o Dperationssection, double-click an operation, double-click a target, double-click a factory
+agents:
+
+Purpose
+This function lets you:
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.I. - pag. 50
+

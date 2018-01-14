@@ -1,0 +1,51 @@
+RC5 9 - Global agent data
+
+ 
+
+Step Action
+1 Creating an event:
+1- Click Add Event: the event selection and settings window opens.
+c In Type, select the type of event and set options. See "Event list" on page 112
+a Click Save: the new event is added to the work area
+2 Creating an action and setting sub-actions:
+1- Click Add Action: the empty action is added to the work area
+0 Double-click on the action and add the sub-action in Subaction and set
+options. See "List of sub-actions" on page 105 .
+3 Connecting the event to the action:
+a Click on one of the Start, Repeat, End event connection points, then drag the
+arrow to the action
+4 Connecting the action to the module:
+1- Click on the Start Modules, Stop Modules action connection points, then
+drag the arrow to the module to be started or stopped. See "Module iist" on
+page 122 .
+-‘ Tip: Drag multiple arrows if multiple modules have to be enabled.
+For an action that requires an event to be enabled/disabled:
+1- Click on the Enable events or Disable events action connection points, then
+drag the arrow to the events to be enabledfdisabled.
+5 Click Save: the configuration is ready to be compiled (if factory) or transmitted to the
+
+device at the next synchronization (if agent).
+
+Global agent data
+
+Global agent data is described below:
+
+ 
+
+Fieid Description
+
+Minimum Minimum free disk space on the device.
+
+disk free
+
+Maximum Maximum space occupied by evidence on the target device, up to next
+evidence synchronization. 1 GB by default.
+
+size When this limit is reached, the agent stops recording and waits for the next
+
+synchronization. If synchronization does not occur, no further evidence is acquired.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.l. - pag. 63
+

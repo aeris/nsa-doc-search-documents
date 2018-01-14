@@ -1,0 +1,26 @@
+ 
+
+Targets
+
+Presentation
+
+Introduction
+
+A target is a physical person to be monitored. Several agents can be used, one for each device
+owned by the target.
+
+Content
+
+This section includes the following topics:
+
+ 
+
+Target page ........................................................................................................ 28
+Target page data _________________________________________________________________________________________________ 31
+What you should know about factories and agents ................................................... 33
+Compiling a factoryr ............................................................................................. 35
+
+ 
+
+Technician's Guide uer.1.5 SEP—2013 - RC8 9 - 2013. HTS.r.l. - pag. 27
+

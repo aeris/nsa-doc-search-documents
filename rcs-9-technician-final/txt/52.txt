@@ -1,0 +1,64 @@
+RC5 9 -Table View
+
+Doro Description
+
+ 
+
+Mobile agent types, in Open status, for operating systems:
+
+0 Q EEﬂIEIIEEEﬂa:
+
+O
+
+O
+
+Android,
+BlackBerry,
+
+iOS,
+
+Sym bian
+Windows Mobile
+
+NOTE: icons are light grey for CLOSED factories and agents. This is the icon for a mobile
+
+agent for Android in Closed status:D.
+
+NOTE: icons are light grey for CLOSED agents. This is the icon for a mobile agent for
+
+Android in Closed status: .
+
+NOTE: the scout agent displays a compass next to the device icon. This icon is a Windows
+
+desktop scout agent -'.
+
+Table View
+
+Data is described below:
+
+ 
+
+Doro Description
+
+Name Factory or agent name.
+
+Description Factory or agent description
+
+Status Open: an open factory can be compiled to create agents. An open agent can be
+installed, is running and records evidence.
+Closed: a closed factory or agent cannot be reopened. Data in RCS can still be
+viewed.
+
+Type Desktop or mobile type.
+
+Platform (agent only) Operating system on which the agent is installed.
+
+Version (agent only) Agent version. A new version is created when a new configuration is
+created.
+
+Last sync (agent only) Date and time of the last agent synchronization.
+
+ 
+
+Technician's Guide I yer.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.I. - pag. 32
+

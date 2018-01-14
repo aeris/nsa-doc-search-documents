@@ -1,0 +1,64 @@
+RC5 9 -To learn more
+
+ 
+
+ 
+
+.‘I Fn-.--.-.'1-r- €,-m CHI—I
+
+ﬂ mourn": mam: I'xlx'cc :::-=:m -'Jc:('ln Erm- -'-.o: tin-:3: a
+
+g u==n|m - "9.4.1:“ ﬁle 9
+<3: Ir: a x a. 4* a a. El . _.n—.
+
+'.-h'|'\l(r awn-rs r' a» 4-» -.-.-.s ..-1-r n+wr arrmru
+
+i? E 5?. m
+
+ 
+
+ 
+
+ 
+
+ 
+
+Area Description
+
+ 
+
+1 RC5 menu.
+2 Scroll bar.
+
+3 Window toolbar. Descriptions are provided below:
+
+Icon Function
+k, Create a factory.
+III
+
+6 NOTE: the function is only
+
+' enabled if the user has Factory
+creation authorization.A factory
+can also be created on the target
+level, see "Operation page" on
+
+previous page .
+
+ 
+
+4 Target list:
+
+9 Open target
+6 Closed target
+
+5 Selected target data.
+5 RC5 status bar.
+
+To learn more
+For interface elem ent descriptions See ’Sharea interface elements and actions" on page 14 .
+
+ 
+
+Technician's Guide I yer.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.l. - pag. 25
+

@@ -1,0 +1,58 @@
+RC5 9 - Reading sequences
+
+0 events that trigger an action (i.e.: a call is received on the device)
+
+0 actions run when an event occurs (i.e.: start recording the call)
+
+0 sub-actions run when an event occurs (i.e.: hidden SMS sent with device position)
+
+0 moduies which, enabled by an action, start collecting the desired evidence or trigger other
+
+actions on the device (i.e.: record call audio)
+0 sequences, used to indicate a group of events, actions, sub-actions and modules.
+
+' NOTE: some events, action and module options are only available in advanced
+conﬁguration.
+
+Reading sequences
+Complex sequences can be read as follows:
+
+0 When the device is connected to the power source (event)...
+
+0 ...send an SMS (sub-action) and...
+
+0 ...start logging the position (action that triggers a module) and...
+
+o ...disable the event occurring when the SIM is changed (action that disables an event)
+0 ...and so on
+
+Possible event, action, sub-action and module combinations are inﬁnite. Following is a detailed
+explanation of correct design rules.
+
+Events
+Events are monitored by the agent and can start, repeat or end an action.
+
+6 NOTE: a module cannot be directly started by an event.
+
+For example, a Window event (window opened on the device) can trigger an action. The action
+will then startfstop a module.
+
+lv’arious types of events are available. For the full list see "Event iist" on page 112 .
+The relation between an event and one or more actions is represented by a connector:
+
+ 
+
+Reiotion between events Description Connector
+and actions
+
+Start Start an action when the event occurs. I
+Repeat Repeat an action. The Interval and number of -
+
+repetitions can be specified.
+
+End Start an action when the event is over.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.l. - pag. 57
+

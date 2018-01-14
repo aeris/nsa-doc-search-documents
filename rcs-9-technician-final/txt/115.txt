@@ -1,0 +1,65 @@
+RC3 9 - Turn offTactical Network Injector
+
+Steps
+
+Result
+
+ 
+
+1. In the Fake Access Point tab, selectthe
+network interface to listen to in the
+Wireless Interface list box.
+
+-.:r.rJ.:uI_ :.:rln..| cente-
+
+ 
+
+ueummjuzmr wlmesslnlnller rakenumF'Jlll Ingsymm
+With” VENT-Ci MnuanulnmlIm.nwi|i:lwi:r| ' H:r|:-\.I|
+
+- -r...”..|:-..II|I.-....:-...-i..i.—.\ II.1MIIh'.u[Il" ...g:1~-..m-:Ii. |l|:-|Iri| ”mm ”mm.
+
+:9. Creche! 'ﬂ'wl’titss remark althd 15mm Bill:-
+
+ 
+
+N:'|.v:-I| rhhllk Irmhuhlm
+
+Imuddus HMS-Dull“
+MIMnnmmr‘H lnxllhhpal
+
+ 
+
+2. Select the type ofAccess Pointemulation
+
+3. Click Start: Tactical Network Injector
+recovers the names ofthe WiFi networks
+devices usually connect to and displays
+them in the Network Injector tab.
+
+4. At the same time, it establishes
+communications with the single devices,
+emulating the accesspoint for each
+network.
+
+5. In Network Injector, select the same
+network interface displayed as the access
+pointin the Network interface list box
+
+6. Click Start: connected devices are displayed
+
+7. Manually infect devices as described in the
+proceduresee “ilnfecting' targets using —
+manual identification “ o poginogl .
+
+Turn off Tactical Network Injector
+
+No special procedure is foreseen. Normal computer shutdown.
+Viewing infection details
+
+To view recorded data, select the Log System tab.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.l. - pag. 95
+

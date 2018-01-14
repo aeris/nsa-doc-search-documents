@@ -1,0 +1,56 @@
+RC5 9 -To learn more
+
+Area Description
+
+ 
+
+4 Iconsflist of created factories and installed agents.
+
+lElmgent in demo mode.
+
+: scout agent awaiting verification.
+5 Selected factory or agent data.
+
+5 RC5 status bar.
+
+To learn more
+For interface elem ent descriptions See "Shared interface elements and actions" on page 14 .
+For a description of the data in this window see "Target page data" on the facing page .
+
+For more information on targets see "What you shouid know about factories and agents” on page
+33
+
+To quickly manage target data: see "Wizards in the homepage" on page 13 .
+
+Creating a factory
+To create a factory:
+
+Step Action
+
+ 
+
+1 0 Click New Factory: data entry fields appear.
+0 Enter the name and description and in Type select the device type.
+
+2 Click Save: the new factory with the selected name appears in the main work area.
+
+Closing a factory or agent
+To close a factory or agent:
+
+Step Action
+
+ 
+
+1 Select a factory or agent and click Close.
+
+2 Confirm close.
+
+CAUTION: ciosing an agent is irreversibie and the agent is uninstaiied at the
+next synchronization. dosing a factory makes it inaccessibie. Active agents
+remain accessibie whiie ailr agents that have not been synchronized at ieast
+once before the factory is ciosed wiii be uninstaiiea‘.
+
+ 
+
+Technician's Guide I yer.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.l. - pag. 3O
+

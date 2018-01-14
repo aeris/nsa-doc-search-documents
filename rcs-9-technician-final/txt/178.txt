@@ -1,0 +1,55 @@
+RC5 9 - Generate ﬂ1e.pfx and .aetx ﬁles
+
+Generate the .pfx and .aetx ﬁles
+
+The .pfx and .aetx files required to sign and distribute Windows Phone applications can be
+generated with Enterprise Mobile Code Signing Certificate.
+
+IMPORTANT: the procedure requires Windows Phone Software Developer Kit 8.0,
+available at http:/fwwwmicrosoft.com/it-itfdown|oad/windows.aspx to be installed on
+the computer. The AET Generator tool included in this kit lets you create the .aetx
+file.
+
+IMPORTANT: use the same browser used to install the certificates to run the
+procedure. The Firefox browser is referred to in the described procedure.
+
+Follow the procedure below:
+
+ 
+
+Step Action
+1 Open Firefox.
+2 In the Firefox menu, select Options . Next, select Advanced , and then the
+Certificates tab.
+3 Click Show. certificates.
+4 a In the Personal certificates tab, select the Publisher name certiﬁcate
+and click Export
+a Save the file with the .p12 extension
+0 Enter the certiﬁcate export password: "password"
+0 IMPORTANT: enter this and not other passwords.
+5 Rename the file with the .pfx extension
+5 From the Windows command prompt, open the folder where the .pfx ﬁle is saved
+
+and run the following command:
+
+"%ProgramFiles (x86)%\Microsoft SDKs\Windows
+Phone\v8.0\Tools\AETGenerator\AETGenerator.exe" Eileﬂame.pfx
+password
+
+where FiieNome is the name of the .pfx ﬁle.
+
+Result: three ﬁles are generated in the folder where the .pfx ﬁle is saved:
+
+a AET.aetx
+a AET.aet
+a AET.xm|
+
+NOTE: to learn more, visit http://msdn.microsoft.comfen-
+usflibrarv/windowsphonefdevelop]jj206943%28v=vs.105%29.aspx
+
+ 
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RCS 9 I 2013© HTS.r.|. - pag. 158
+

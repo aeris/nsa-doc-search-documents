@@ -1,0 +1,19 @@
+RC5 9 - Creating an agent to be tested in demo mode
+
+Creating an agent to be tested in demo mode
+
+0 IM PORTANTnnIv use this option for tests on internal devices. Agents in demo mode are
+not invisible and RC5 installation is not hidden.
+
+To create an agent for test purposes:
+Step Action
+1 Select one or more installation vectors and set the options.
+2 Select the Demo combo box.
+
+3 Click Create; the agent installed on the device will show its presence with audio
+signals and on screen messages.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.I. - pag. 37
+

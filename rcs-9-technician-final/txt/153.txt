@@ -1,0 +1,63 @@
+RC5 9 - Signiﬁcant data
+
+ 
+
+0 IMPORTANT: do not turn on the microphone to record data calls li.e.: Skype, Viber}
+without having fullyr tested the phone model with the same operating system version.
+You mayr disable the client's audio, making the relevant application unusable..
+
+0 NOTE: for Windows Phone, recording start and and may be accompanied by an audio
+- signal on some device models.
+
+Significant data
+Data is described below:
+
+ 
+
+Fieid Description
+
+Silence Maximum number of seconds of silence admitted in the recording.
+
+between After the set period, the agent stops recording and restarts when sound is received
+voices again.
+
+‘ WARNING: if the value is too low, recording will exclude all silences and
+the conversation will flow without pauses. If the value is too high, the
+recording will include all silences and the conversation will be very long.
+
+Voice
+
+recognition
+
+Autosen se
+
+6 NOTE: not supported by iOS, BlackBerry, Android and Symbian, Windows
+' Phone.
+
+Value to identify human voice and exclude any background noise from the
+recording.
+
+‘ WARNING: 0.2-0.28 is the suggested interval to identify human voice.
+Higher values better adapt to female voices but may result in the
+recording of background noise.
+
+If enabled, the agent attempts to change audio mixer settings (microphone onfoff,
+line selection and volume) to optimize audio recording quality, avoiding low vol-
+um es or interruptions in the recording.
+
+t'é
+* Mouse module
+
+Purpose
+
+The Mouse module captures the image of a small area of the screen around the mouse pointer,
+upon each click.
+
+It helps to defeat virtual keyboards used to avoid keystroke recording. See "Keyiog module" on
+
+page 130.
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013. HTS.r.l. - pag. 133
+

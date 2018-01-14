@@ -1,0 +1,63 @@
+RC5 9 - Obtain 111a Editor ID (you)
+
+Step Action
+
+ 
+
+3 Creating the Development Certiﬁcate
+
+Obtain the Editor ID {you}
+Follow the procedure below:
+
+Step Action
+
+ 
+
+1 Purchase the certificate in TrustCenter (https:lfwwwlrustcenter.defenfproducts/tc
+publisher id for symbian.htm).
+
+NOTE: the certificate must be a "Developer Certificate" and not a "Test House
+Certificate".
+
+2 After purchasing the certificate (valid for one year), the following documentation
+must be provided by the applicant:
+
+a A copy of the applicant company's official registration (from the authorities)
+or equivalent.
+
+1- Awritten application signed by an authorized company official.
+1- A signed copy of the applicant's ID or passport (with photo and signature).
+
+Creating Certificate Public and Private keys
+Follow the procedure below:
+
+Step Action
+
+ 
+
+1 Within several days of application (usually four), you will receive a confirmation e-
+mail from TrustCenter with a link to the certiﬁcate and editor's ID.
+
+2 Save the certificate on the computer.
+
+3 Download and install the TC- Converter tool from:
+http://wiki.forum.nokia.comfindex.php/File:TC-ConvertP12.zip
+4 Copy YourDeveloperCert.p12 to the TC-Converter folder.
+
+5 Run tcplEpB YourDeveloperCert. p12 YourPasswordtc. keytc. oer: the
+Tc.key and Tc certificate are created.
+
+Creating the Development Certificate
+
+After creating the various keys, the certificate must be created with the appropriate IMEI
+numbers. This procedure can be run several times as new IM El numbers need to be added.
+
+6 NOTE: for further information see
+http:lfwww.developer.nokia.comeommunity/Wikister guide: Symbian Signed.
+
+Follow the procedure below:
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RCS 9 I 2013© HTS.r.|. - pag. 153
+

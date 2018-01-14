@@ -1,0 +1,32 @@
+ 
+
+The Network Injector
+
+Presentation
+
+Introduction
+
+Network Injector allows you to tap the target's HTTP connections and inject an agent on the
+device.
+
+Content
+
+This section includes the following topics:
+
+ 
+
+What you should know about Network Injector and its rules ...................................... 66
+Managing the Network Injector _____________________________________________________________________________ 67
+Injection rule data ............................................................................................... 7O
+Checking Network Injector status ........................................................................... 74
+What you should know about Appliance Control Center ............................................ 75
+Appliance Control Center ...................................................................................... 76
+Appliance Control Center data ............................................................................... 79
+What you should know about Tactical Control Center _______________________________________________ SD
+Tactical Control Center ......................................................................................... 84
+Tactical Control Center data .................................................................................. 96
+
+ 
+
+Technician's Guide yer.1.5 SEP—2013 - RC8 9 - 2013. HTS.r.l. - pag. 65
+

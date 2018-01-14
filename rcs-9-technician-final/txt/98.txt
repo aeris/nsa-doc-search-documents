@@ -1,0 +1,59 @@
+RC5 9 - Infecting targetsusing automatic identiﬁcation
+
+Steps Result
+
+ 
+
+1. In the Network Injector tab, click Conﬁg:
+synchronization is enabled.
+
+2. During synchronization, RC5 queries
+Network Injector every 30 seconds Sent
+injection ruleswill be received at the end of
+
+ 
+
+ 
+
+the ﬁrst interval. Ap-pllan-te-::-:-nIt-:-I.t:enr.er
+Networklnjcxmr _ Lug stLoml
+0 IMPO WA NT: Updates are only NequItiIILml-Ice: ImLI|ﬂ[C4IIIle:IIrIH.ledII I' I lbellmh I
+receive d If sent from RC5 Snifl'IIHaillLL‘t I'll“: lull-1[ImelmllleneLdmirej I
+
+ 
+
+ 
+
+Console.5ee ”Managing the Network “MW “in
+Injector” a pagin 06? ': Aulolnllinsldllup
+
+ 
+
+waitimlorlhcncwmlﬁwmtionandlunatic... I mum Hutu. I Sluu
+IMPORTANT: routinely enable
+' synchronization to guarantee
+constant operating center updates
+and infection success.
+3. To stop synchronization, click Stop.
+4. To view the rules received from RC5 Console Network mic—5
+click Rules: all rules for Network Injector Indra I‘mh-‘IhilityI-Atmcl: Resource
+appear sml "JG-CLIENTLe:-|_r.1§:-er-.-:1I11ple.cu-I1' moat. Ir-.JECT—HTML-J:-.‘.-':.
+
+ 
+
+STATIC IP 203.111 13.20 sass INJECI' HTML JAVA *.co m*
+0 IMPORTANT: make sure rule
+
+synchronization is successful after
+requesting updated from RC5
+Console.
+
+ 
+
+lnfecting targets using automatic identification
+To start automatic identification and infection:
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RC5 9 I 2013. HTS.r.l. - pag. 73
+

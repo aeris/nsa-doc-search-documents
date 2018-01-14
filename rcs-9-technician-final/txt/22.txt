@@ -1,0 +1,62 @@
+RC5 9 - New guide features
+
+New guide features
+
+List of release notes and updates to this online help.
+
+ 
+
+Release Code Software Description
+date version.
+30 Sep- Technician's 9 Added Windows Phone platform, see " installation
+tember Guide Package vector" on page 145
+2013 1.5 SE P- Updated documentation to manage root privileges for
+2013 Android devices, see "What you should know about
+Android" on page 139 .
+Updated Network Injector management documentation,
+see "The Network injector" on page 65 .
+Updated documentation due to improvements to the user
+interface.
+Improved the contents.
+8 July Technician's 3_4 The chance to test network connections, select an
+2013 Guide additional dictionary to attack a WPA or WPA 2 protected
+
+1.4 J UL-
+2013
+
+network and display installed rules were added on Tactical
+Control Center. Network signal power is now always
+visible.
+
+See " What you should know about Tactical Control
+Center" on page 80 .
+
+A public IP address can be mapped on a private IP address
+set on the network interface and installed rules viewed on
+Appliance Control Center.
+
+See "What you should know about Appliance Control
+Center" on page 2'5 .
+
+Removed the INJECT-HTM L-JAVA rule and added INJECT-
+HTML-FILE and lNJECT-HTML-FLASH rules.
+
+See "lnjection rule data" on page 70 .
+
+Deleted the Applet Web vector and deprecated the
+Infection module.
+
+Added note to Uninstall action on Android.
+See "Uninstall action" on page 110 .
+
+For Android, the limit of root privileges necessary for
+Chat, Messages and Screenshot modules has been
+extended to all operating system versions.
+
+See "Chat module" on page 126 , "Messages module" on
+page 131
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013© HTS.r.I. - pag. 2
+

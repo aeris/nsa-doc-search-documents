@@ -1,0 +1,43 @@
+RCS 9 - How to read these instructions
+
+Ste- Action
+
+ 
+
+1 Obtain a Svmantec ID code to be used to purchase the certiﬁcate required to distribute a
+Windows Phone application.
+
+Obtain the Svmantec certiﬁcate required to distribute Windows Phone applications.
+
+Install the Svm antec certificate required to distribute Windows Phone applications.
+
+Generate the .pfx and .aetx ﬁles
+
+U'l-L‘IWN
+
+Load the .pfx and .aetx ﬁles on the RC5 server
+
+How to read these instructions
+
+6 NOTE: links to web pages in the procedures were working when the manual was written. If
+the link does not work, find the right web page..
+
+In the event of discrepancies between that indicated in the manual and the instructions received
+directly from the concerned organizations, follow the organizations' instructions.
+
+Obtaining a Svmantec ID code
+Proceed as follows to obtain it:
+
+Step Action
+
+ 
+
+1 Register a Microsoft account in https:f/signup.live.com/signup.aspx?lic=1.
+
+2 Register an account in Windows Phone Dev Center logging in with your Microsoft
+account in https:lfdev.windowsphone.com/en-us/join/
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RCS 9 I 2013© HTS.r.|. - pag. 155
+

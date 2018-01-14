@@ -1,0 +1,61 @@
+RCS 9 - What the RC5 Console looks like
+
+‘I El l:ln..\.":'.4u|l§f_nu
+
+ﬂ .‘oocun’. ll: onenllo'u l'xloo'J: Lasl'hnc ”:11: 5.2%?! n'.:l( Myrtle
+
+l! -\|::I'~'ru I arm-.1“ I- 13 -r"l‘-rili E
+
+E“- C.’ 8. 77-. ii: “I .. .5: El “E. ..E:.. .E
+.0 '5 L.J L-a-J El
+
+ 
+
+Area Description
+
+GIEI
+
+En a p
+E" III -.j.'\ 'u
+lf‘1‘1-‘l-I I E
+El ”Tm-
+
+ 
+
+1
+
+Title bar with command buttons:
+*1 Logout from RC5.
+
+G Page refresh button.
+
+El Expand window button.
+
+l;l Shrink window button.
+
+0 ﬂ Return to homepage button
+
+0 RC5 menu with functions enabled for the user.
+
+Operation scroll bar. Descriptions are provided below:
+
+icon Description
+
+ 
+
+a Back to higher level.
+
+H Show the operation page (Operations section).
+a Show the target page.
+
+E Show the factory page.
+
+5' Show the agent page.
+
+H Show the operation page (Intelligence section).
+* Show the entity page.
+
+ 
+
+Technician'sGuide I uer.1.5 SEP—2013 I RCSQ I 2013. HTS.r.l. - pag. 15
+

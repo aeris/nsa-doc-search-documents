@@ -1,0 +1,56 @@
+RCS 9 - What you should know about Network Injector and its rules
+
+ 
+
+What you should know about Network Injector and its rules
+
+Introduction
+
+Network Injector monitors all the HTTP connections and, following the injection rules, identifies
+the target's connections and injects the agent into the connections, linking it to the resources the
+target is downloading from Internet.
+
+Network Injector types
+There are two Network Injector types:
+
+0 Appliance: network server for installation in an intra-switch segment at an Internet service
+
+provider.
+0 Tactical: laptop for tactical installation on LAN or WiFi networks
+
+Both Network Injectors let you automatically identify the target devices and infect them according
+to the set rules via their control software (Appliance Control Center or Tactical Control Center).
+Tactical Network Injectors also allow for manual identification.
+
+See "What you should know about Network Injector Appliance ", "What you should know about
+Tactical Control Center" a pagl r1080 .
+
+Types of resources that can be infected
+Resources that can be infected by RCS are any type of files.
+
+6 NOTE: Network Injector is not able to monitor FTP or HTTPS connections.
+
+How to create a rule
+To create a rule:
+
+1. define the way to identify the target's connections. For example, by matching the target's
+IP or MAC address. Or let the Tactical Network Injector operator select the device.
+
+2. define the way to infect the target. For example, by replacing a ﬁle the target is
+downloading from the web or by infecting a website the target usually visits.
+
+Automatic or manual identification rules
+
+If information is already known on target devices, numerous rules can be created, adapting them
+to the target's different habits, then enabling the most efficient rule or rules according to the
+situations that arise during a certain time in the investigation.
+
+If no information is known on target devices, use Tactical Network Injector which allows operators
+to observe the target, identify the device used and infect it since on the field.
+
+For this type of manual control specify TACTICAL in the User patterns field in the injection rule.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.l. - pag. 66
+

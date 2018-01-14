@@ -1,0 +1,51 @@
+RC5 9 -To learn more
+
+Area Description
+
+ 
+
+3 List of RCS components and their status:
+
+0 Alarm (generates an e-m ail sent to the alerting group)
+
+A Warning
+
+U Component running
+4 License status.
+
+5 RC5 status bar.
+
+To learn more
+
+For interface elem ent descriptions See ”Shared interface eiernents and actions” a paginal4 .
+For a description of the data in this window see "System monitoring data fMonitor)" nei seguito .
+
+System monitoring data (Monitor)
+
+System component monitoring data
+System monitoring data is described below:
+
+ 
+
+Data Description
+Type Monitored component type and name:
+Name 9 9
+Network Controller
+1"
+Anonymizer
+-
+-
+— Database
+4—!-
+:-
+' Collector
+
+Address Component's IP address.
+
+Last Last synchronization date-tim e.
+contact
+
+ 
+
+Technician's Guide I yer.1.5 SE P—2013 I RC8 9 I 2013. HTS.r.l. - pag. 101
+

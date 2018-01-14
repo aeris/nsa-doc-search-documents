@@ -1,0 +1,58 @@
+RC5 9 - Modules
+0 NOTE: an action can enablefdisable several events simultaneously.
+
+Modules
+
+Each module enables the collection of a specific evidence from the target device. They can be
+started/stopped by an action and produce evidence.
+
+For example, a Position module (log the GPS position) can be started by an action triggered by a
+Call event (a call was made/received).
+
+Various modules are available that can be started/stopped (i.e.: start position module + stop
+screenshot module). For the complete listsee ’Modufe list" on page 122 .
+
+Exporting and importing configuration settings
+
+Base or advanced conﬁguration settings are exportedfimported to reuse the settings on other RC5
+systems.
+
+The base or advanced configuration settings are exported in a .json ﬁle that can be transferred to
+another system and imported when creating an agent.
+
+Saving the configuration settings as a template
+
+Base or advanced conﬁgurations settings are saved as a template to have other users on the same
+RC5 system reuse the conﬁguration.
+
+The base or advanced configuration settings are saved as a template in the database,
+accompanied by a description and the name of the user. When creating another target, another
+user can load it and thus it becomes the conﬁguration for that agent.
+
+0 IMPORTANT: base and advanced configuration templates are saved separately in the
+
+' database. Base configuration templates thus appear when creating an agent with a
+base configuration, advanced configuration templates appear when creating an agent
+with an advanced configuration.
+
+Advanced factory or agent configuration
+
+To open advancedcon- 0 Operations section, double-click an operation, double-click a target, double-click a factory,
+figuration: click Advanced Config
+0 Operations section, double-click an operation, double-click a target, double-click an agent,
+click Advanced Config
+
+Purpose
+This function lets you:
+
+. create module activation sequences triggered by events occurring on the target device.
+
+Each sequence can be made up of one or more sub-actions.
+a Set general factory/agent conﬁguration options.
+
+6 NOTE: the function is only enabled if the user has Agent configuration authorization.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.l. - pag. 59
+

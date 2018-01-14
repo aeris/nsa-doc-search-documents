@@ -1,0 +1,62 @@
+RC5 9 - What the function looks like
+
+ 
+
+Area Description
+
+ 
+
+3 Window toolbar. Descriptions are provided below:
+
+icon Description
+
+ 
+
+0‘ Com pile the configuration into one or more agents,
+based on selected installation vectors. See ”Compiiing a
+factory " on page 35
+
+a Save the current configuration-
+
+E“. Export the configuration to a .json ﬁle.
+
+a
+
+E“. Import the configuration from a .json ﬁle.
+i
+
+3:} Load the advanced conﬁguration template or save the
+current conﬁguration as a template.
+
+See "What you shouid know about advanced
+conﬁguration" on page 56 .
+F Add an event.
+0 Add an action.
+-I-
+Edit the selected event or action.
+
+x Delete the selected event, action or logical connection.
+
+ii Edit global agent data see "Giobai agent data" on page
+
+63 .
+- I c
+— :- CAUTiON: aii settings are iost when you return
+- I . .-
+
+to the basrc configuration.
+
+it Shrink or expand event or action widgets to provide a
+I‘ better view of current settings.
+I!
+It
+
+4 Event area. STARTUP and SYNC events are by default.
+5 Action area. STARTUP and SYNC actions are enabled by default.
+
+5 Modules area. Modules vary by desktop or mobile device.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.l. - pag. 61
+

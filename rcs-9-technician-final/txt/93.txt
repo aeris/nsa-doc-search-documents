@@ -1,0 +1,76 @@
+RC5 9 - lnjecﬁon rule data
+
+ 
+
+Data Description
+
+ 
+
+Resource Identification method of the resource to be injected, applied to the Web re source
+pattern URL. The format depends on the type of Action selected.
+
+6 NOTE: leave empty if the selected action is lNJECT—UPGRADE.
+
+Action
+type
+
+INJECT-
+EXE
+
+INJE CT-
+HTML-
+FILE
+
+INJE CT-
+HTML-
+FLASH
+
+INJECT-
+
+UPGRADE
+REPLACE
+
+Resource Pattern Content
+
+URL of the executable file to be infected. Use wildcards to increase
+the num ber of matching URLs.
+
+Examples of possible formats:
+
+*[nameExe]*.exe
+www.mozilla.org/firefox/download/firefoxsetup.exe
+0 NOTE: when a full path is specified, be careful of any mirrors
+
+used by websites to download files (i.e.:
+"firefox.exe?mirror=it").
+
+. Tip: enter *.exe* to infect all executable files, regardless of
+the URL.
+
+IMPORTANT: for exam pl e, if *exe“ is entered without the
+file extension separator, all the pages that accidentally
+contain the letters "exe" will be injected.
+
+URL of the website to be infected.
+Examples of possible formats:
+www.0racle.com/
+
+www.oracle.comfindex.html
+
+' NOTE: the site address must include the final 'I' character if
+an HTM L or dynamic page is not specified (i.e.:
+”www.0racle.com/W.
+
+' NOTE: a redirect page cannot be infected. Check the browser
+for the correct site path before using it in a rule.
+
+Preset for Youtube and read-only by the user.
+
+Not used.
+
+URL of a resource to be replaced.
+
+ 
+
+Technician'sGuide I yer.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.I. - pag. 73
+

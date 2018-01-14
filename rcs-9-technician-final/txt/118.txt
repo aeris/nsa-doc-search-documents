@@ -1,0 +1,19 @@
+RC3 9 - Fake Access Point data tab
+
+ 
+
+Data Description
+
+Wireless List of non connected network interfaces. Select the interface to be displayed as
+interface the WiFi network.
+
+HW address Device network card hardware address.
+
+Access point
+
+Name of the Access Point expected by the device.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.I. - pag. 98
+

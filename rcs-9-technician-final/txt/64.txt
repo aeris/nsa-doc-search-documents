@@ -1,0 +1,52 @@
+RC8 9 - Agent event log data
+
+Agent event log data
+
+Descriptions are provided below:
+
+Fieiiclr Description
+
+ 
+
+Acquired Date-time of the event acquired on the device.
+It can be filtered. Last 24 hours is set by default.
+
+Received Date-time of the event logged in RCS.
+It can be filtered. Last 24 hours is set by default.
+
+Content Status information sent by the agent.
+
+Agent synchronization log data
+
+Descriptions are provided below:
+
+Fieiiclr Description
+
+ 
+
+Acquired Synchronization date-time.
+It can be filtered. Last 24 hours is set by default.
+
+lp IP address used for synchronization.
+
+Address Site where connection was established.
+
+Command page
+
+To manage 0 Operations section. double-click an operation. double-clicka target. double-click an agent.
+command resuits: double-click Commands
+Purpose
+
+This function lets you:
+
+. check the results of commands run with the Execute action set on the agent
+. check executable ﬁle results run during ﬁle transfer to/from the agent
+. run one or more command on an agent
+
+What the function looks like
+This is what the page looks like:
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.I. - pag. 44
+

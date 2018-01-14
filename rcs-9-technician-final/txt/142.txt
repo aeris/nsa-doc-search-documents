@@ -1,0 +1,166 @@
+RC8 9 - Module list
+
+ 
+
+Module list
+
+Registration modules are described below:
+
+Module
+
+Configuration De vice
+
+Recording.. .
+
+ 
+
+Accessed files
+
+Addressbook
+Application
+Calendar
+
+Call
+
+Calls
+
+Camera
+
+Chat
+
+Clipboard
+Contacts and Cal-
+endar
+
+Device
+
+File
+
+Keylog
+
+Kevlog, Mouse and
+Password
+Messages
+
+M essages
+
+Mic
+
+base
+
+advanced
+
+advanced
+
+advanced
+
+advanced
+
+base
+
+base,
+
+advanced
+
+advanced
+
+advanced
+
+base
+
+advanced
+
+advanced
+
+advanced
+
+base
+
+advanced
+
+base
+
+advanced
+
+desktop
+
+desktop,
+mobiie
+
+desktop,
+mobiie
+
+desktop,
+mobiie
+
+desktop,
+mobiie
+
+desktop,
+mobiie
+
+desktop,
+mobiie
+
+desktop,
+mobiie
+
+desktop,
+mobiie
+
+desktop,
+mobiie
+
+desktop,
+mobiie
+
+desktop,
+
+desktop,
+mobiie
+
+desktop
+
+desktop,
+mobiie
+
+desktop,
+mobiie
+
+desktop,
+mobiie
+
+documents or images opened by the target.
+
+contacts.
+
+applications used.
+
+calendar.
+
+calls (phone, Skype, MSN].
+
+calls (phone, Skype, MSN].
+
+Webcam images.
+
+chat (Skype, BlackBerry Messenger).
+information copied to the clipboard.
+contacts and calendar.
+
+system information.
+files opened by target.
+keys pressed on the keyboard.
+
+keys pressed on the keyboard, mouse click,
+passwords saved.
+
+e-mail, SMS, MMS.
+e-m ail, SMS and chat.
+
+audio from a microphone.
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013© HTS.r.l. - pag. 122
+

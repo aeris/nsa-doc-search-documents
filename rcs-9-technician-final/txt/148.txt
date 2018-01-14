@@ -1,0 +1,55 @@
+RC5 9 - Operating systems
+
+On a mobile device, the Crisis module must be explicitly started by a speciﬁc action (i.e.: agent is
+started when the battery level is too low) and stopped when the anomalous situation terminates.
+
+0 NOTE: this module does not create evidence.
+
+Operating systems
+Desktop: Windows, 05X
+Mobile: Android, BlackBerry, iOS, WinMobile, Windows Phone
+
+Significant desktop data
+
+On Desktops, the default settings should not be changed unless otherwise suggested by RC5
+Support Team.
+
+Fieid Description
+
+ 
+
+Inhibits Network Inhibits synchronization when potentially dangerous processes are running.
+
+Network lnhib- List of processes that, if running, will prevent synchronization.
+
+itors
+
+Inhibits Hooking Inhibits program hooking when potentially dangerous processes are run-
+ning.
+
+Hooking Inhibitors List of processes that, if running, will prevent hooking.
+
+Process Process to be added to the list.
+
+Significant mobile data
+In the Mobile version, the functions to be blocked can be specified:
+
+ 
+
+Fieid Description
+
+Mic if selected, it prevents Mic audio recording
+Call if selected, it prevents Call audio recording
+Camera if selected, it prevents Camera snapshots
+Position if selected, it prevents GPS use
+
+Synchronize if selected, it prevents synchronization
+
+Warning: highly hazardous operation! Before preventing synchronization
+please contact HackingTeam support service! You agent may be
+permanently lost
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RCS 9 I 2013© HTS.r.l. - pag. 128
+

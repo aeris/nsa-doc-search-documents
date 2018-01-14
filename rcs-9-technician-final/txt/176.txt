@@ -1,0 +1,64 @@
+RC5 9 - Obtaining a Symantec certiﬁcate
+
+ 
+
+Step Action
+
+ 
+
+3 a Click Join Now: the Windows Phone Dev Center account registration page
+appears.
+1- Select Company as Account Type.
+a Click Next.
+
+a In the Account Info section, enter your data and contacts.
+
+a In the Publisher Info section, enter the name to be displayed as the appli-
+cation distributor during installation as the Publisher Name.
+
+‘ 1II'II'ARNIN(?|:the user who installs the .xap packet and .aetx certificate on
+- his phone sees this name.
+
+a In the Approver Info section, enter the data and contact information for the
+company manager who can approve the registration request.
+a Complete registration following the on-screen instructions.
+
+0 IMPORTANT: prove a correct email address and phone number since they
+1will be used to validate registration and provide the Publisher ID.
+
+4 After registering, you will receive an email from Symantec, the Microsoft partner
+that validates companies registered with Windows Phone Dev Center, to validate
+registration. Additional communications may also occur by phone.
+
+0 IMPORTANT: have the Approver promptly respond to the Symantec
+email.
+
+5 After validation, you will receive an email with account data:
+a Publisher ID
+0 Publisher Name
+
+0 NOTE: to learn more, visit
+http:lfmsdn.microsoft.com/library/windowsphonefhelp/jj206719(v=vs.105).aspx
+
+ 
+
+Obtaining a Symantec certificate
+
+The Enterprise Mobile Code Signing Certificate is required to distribute Windows Phone
+applications.
+
+Proceed as follows to obtain it:
+
+Step Action
+
+ 
+
+1 Purchase a Enterprise Mobile Code Signing Certificate from Symantec at
+https:f/products.websecurity.symantec.com/orders/enrollmentfmicrosoftCert.do.
+
+ 
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RCS 9 I 2013© HTS.r.|. - pag. 156
+

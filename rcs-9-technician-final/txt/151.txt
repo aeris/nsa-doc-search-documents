@@ -1,0 +1,47 @@
+RC5 9 - Signiﬁcant data
+
+Significant data
+None
+
+(-3 . .
+"J'leemlc module
+
+Purpose
+The Livemic module lets you listen to a conversation in progress in real time.
+
+GAUTION: this module comes "as is" and its use can be dangerous. Eoch device works
+differentiy. We recommend you run thorough tests before using it in the Jfieid.
+
+Operating systems
+Mobile: WinMobile
+
+Significant data
+Data is described below:
+
+Fieid Description
+
+ 
+
+Number Number of the phone used for listening. It must include the international country
+code, i.e.: "+341234567890".
+
+WARNING: do not hide the caller ID and disable the microphone when
+. listening to the conversation.
+
+‘7
+“Messages module
+
+Purpose
+The Messages module records all messages received and sent by the target. This module
+captures:
+
+o e-m ail
+
+0 SMS (Mobile only)
+
+0 M MS (Mobile only)
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013. HTS.r.|. - pag. 131
+

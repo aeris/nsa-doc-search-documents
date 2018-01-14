@@ -1,0 +1,30 @@
+RC5 9 - Injection rule data
+
+ 
+
+Injection rule data
+
+Data that define the available infection rules are described below:
+
+ 
+
+Data Description
+Enabled If selected, the rule will be sent to the Network Injector.
+If not selected, the rule is saved but not sent.
+Disable on If selected, the rule is disabled after the first synchronization of the agent defined
+sync in the rule.
+If not selected, the Network Injector continues to apply the rule, even after the first
+synchronization.
+Probability Probability (in percent) of applying the rule after the first infected resource.
+0%: after infecting the ﬁrst resource, Network Injector will no longer apply this
+rule.
+100%: after infecting the first resource, Network Injector will always apply this
+rule.
+‘ Tip: if a value over 50% is selected, we recommend you use the Disable on
+sync option.
+Target Name of the target to be infected.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.I. - pag. 7U
+

@@ -1,0 +1,74 @@
+RC5 9 - Cleaning erroneously infected devices
+
+ 
+
+ 
+
+ 
+
+ 
+
+Steps Result
+
+1. In the Network Injector tab, double—click the 0551391912“:- web history
+device to be checked: awindow openswith Resource
+the chronology of the websites visited by mounds-it
+the browser. WNW-oucqhmm
+
+safebrmvsimcachegooglemm
+www.9uugl-e.iL
+
+5a I‘ch rmvslngxllcnm .goodctom
+mgnogleit
+
+t1 .95 I3 ticcorn
+
+wwwgaogle-Jt
+
+lJL'iIJNEI isigltw In
+
+M. ﬁatcbookco m
+wwwgnogleit
+
+5 .yo utube.co m
+
+“nu—H .www.y0utube.com
+
+5.1m ulube.w m
+
+myouubcxo m
+
+w r't .mmymltuhemm
+myouubeco m
+m?1.mvw.youtube.oom
+www.yud.ube.cu m
+
+m .mm.youtubc.com
+
+.._.-..I.- n".
+
+ 
+
+ 
+
+ 
+
+2. Ifthe device is the targetdevice, close the
+chronology and run procedure ”Injecting
+targets using manual Identification “ u
+paginogl .
+
+Cleaning erroneously infected devices
+To remove an infection from a device, the agent must be closed on the RC5 Console.
+
+Emulating an Access Point known by the target
+
+0 IMPORTANT: before emulating an Access Point, stop any current attacks in the
+Network Injector tab.
+
+To transform Tactical Network Injector into an Access Point known by targets:
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.l. - pag. 94
+

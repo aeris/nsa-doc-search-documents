@@ -1,0 +1,60 @@
+RC5 9 - How to create factories
+
+ 
+
+‘ Tip: a configuration can be saved as a template to load it the next time you create a
+similar agent.
+
+Tip: a factory can be used to create several agents: for example, to be installed via
+different installation vectors (i.e.: two computers with different operating systems).
+
+How to create factories
+Factories are templates that can be created on two different operation-target-agent hierarchical
+levels:
+a on the operation level: the factory, after installation and first synchronization, auto-
+matically creates an agent and target for each device
+1- on the target level: the factory, after installation and first synchronization, automatically
+creates an agent for that target
+
+The operation level mode ensure that collected evidence is assigned separately. In fact, it creates
+as many agents as there are devices. Later, if two or more devices belong to the same target, the
+agent can be moved to the right target.
+
+The target level mode, if incorrectly used, may create a factory which is used to create several
+agents.
+
+Installation vectors
+
+Installation vectors are selected when compiling and deﬁne the installation method, physical or
+remote, for an agent. When compiling, available installation vectors may vary according to the
+device's operating system.
+
+Several installation vectors can be used for the same agent.
+
+6 NOTE: injection rules are used for injection on HTTP connections.$ee "Managing the
+Network injector” on page 6?
+
+Agents
+
+An agent is the result of compiling a factory with one or more installation vectors. An agent is
+ready to be installed on a device.
+
+Basic conﬁguration defines the type of data to be acquired while advanced configuration lets you
+dynamically and independently activate or deactivate modules.
+
+For the types of modules available in basic and advanced conﬁgurations see "Module list" on
+page 122
+
+For more information on agents see "What you should know about agents" on page 39 .
+
+Data acquisition modules
+
+Modules trigger some activities on the target device, mainly data acquisition. They are enabled
+and set in the basic configuration (only som e) or in advanced configuration.
+
+Available module types also depend on the device type.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.l. - pag. 34
+

@@ -1,0 +1,55 @@
+RCS 9 - Identifying when Network Injector is synchronized
+
+ 
+
+Identifying when Network Injector is synchronized
+The procedure is described below:
+
+Step Action
+
+ 
+
+1 In the Monitor section, select the Network Injector object row to be analyzed. Check
+the Status column: if flagged green, the Network Injector is synchronized.
+
+This situation occurs when on Control Center software (Appliance or Tactical):
+o Config was clicked, the operator manually queued for new rules or updates,-
+0 Start was clicked or an infection is in progress.
+
+IMPORTANT: applied rules and updates can only be received from RC5
+when Network Injector is synchronized.
+
+What you should know about Appliance Control Center
+
+Introduction
+Appliance Control Center is an application installed on Network Injector Appliance.
+
+Synchronization with RC5 server
+
+Appliance Control Center synchronizes with RCS to receive the updated infection rules and to
+check whether a new version of Appliance Control Center is available and send logs.
+
+Synchronization can occur in two ways:
+
+0 manually, at least the first time, to receive injection rules, using the Appliance Control
+Center Network Injector function.
+It automatically with an infection in progress.
+
+During synchronization, RCS communicates with Network Injector Appliance at set intervals of
+time (about 30 sec.).
+
+Injection interface IP address
+
+For infection to be successful, the infection interface must have a public address, otherwise the
+target will never be able to see it.
+
+In an initial phase you can use the preset address on the interface with Appliance Control Center
+(with Public IP= "auto"), wait for a message that indicates that the address is private and, in that
+case, set a public address to re-route the private address (Public IP = "xxx.xxx.xxx.xxx"j.
+
+Sniffing, on the other hand, can be run via the network interface with a private IP address.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.I. - pag. 75
+

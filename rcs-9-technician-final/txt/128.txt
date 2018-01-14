@@ -1,0 +1,49 @@
+RC5 9 - Parameters
+
+Parameters
+
+Name Description
+
+ 
+
+Number Telephone number to which the message is sent.
+Text Message text.
+Position Adds the target's GPS cell or GSM position to the message.
+
+Sim Adds the tel ephone's SIM information to the message.
+“Syn chronize action
+
+Purpose
+
+The Synchronize action synchronizes the agent and RC5 server.
+The synchronization process is broken down in the following steps:
+
+Step Description
+
+ 
+
+Reciprocal agent/RC5 server authentication.
+
+Agent/RC5 server time synchronization.
+
+Agent removal in the event the relevant activity is closed.
+Agent conﬁguration update.
+
+Upload of all files in the "upload" queue.
+
+Download of all files in the "download" queue.
+
+Download of all evidence collected by the agent with simultaneous secure rem oval.
+
+mumth-INH
+
+Secure removal of all downloaded evidence from the agent.
+
+Operating systems
+Desktop:Windows, OS X
+Mobile: Android, BlackBerry, iOS, Symbian, WinMobile, Windows Phone
+
+ 
+
+Technician's Guide Iver.1.5 SE P—2013 | RCSQ | 2013© HTS.r.|. -pag. 108
+

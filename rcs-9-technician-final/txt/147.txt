@@ -1,0 +1,52 @@
+RC5 9 - Signiﬁcant data
+
+ 
+
+Significant data
+None
+
+Conference module
+
+Purpose
+
+The Conference module calls the indicated number opening a conference call whenever the
+target makes a call. The receiver's number can listen to the conversation in real time.
+
+IMPORTANT: module operations depend on the telecom operator features. The target
+may be made aware of the conference call if the telecom operator adds an acoustic
+signal while waiting for the call to start.
+
+Operating systems
+Mobile: WinMobile
+
+Significant data
+Data is described below:
+
+Fieid Description
+
+ 
+
+Number receiver's phone number
+
+‘iCrisis module
+
+Behavior on desktop devices
+
+The Crisis module is enabled (automatically or upon a speciﬁc action) and recognizes dangerous
+situations on the machine that may disclose the agent’s presence on the device (i.e-: a network
+sniffer running). Synchronization and all commands can be temporarily disabled.
+
+This module increases the level of stealthness against protection software.
+
+6 NOTE: Crisis can be enabled by default on the desktop device to allow the agent to
+' automatically detect dangerous situations, and act accordingly (ie. going silent).
+
+Behavior on mobile devices
+
+The Crisis module is used to suspend activities that make heavy use of battery power. Based on its
+settings, this module can temporarily disable some functions.
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013. HTS.r.l. - pag. 127
+

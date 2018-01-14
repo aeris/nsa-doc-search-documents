@@ -1,0 +1,54 @@
+RCS 9 - Running a network test
+
+Steps Result
+
+1. In the Network Injector tab, click Conﬁg:
+synchronization is enabled.
+
+"" '-I-:PJ-:I|. :-:rlr-:-| I:-:r.P.-:'
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. During synchronization, RCS queries ”W't'wm' 'Ni'ﬁm'wmr WWW“ WW"-
+. - I. , .
+Network Injector every 30 seconds. Sent "m“ "M" Rim"
+. . . . _ air. .: th xii:
+Injection ruleswlll be received at the end of
+- hailimru dune-mlrwaiiumu 5919;...st Hue: sun
+the ﬁrst lntewal' 'liH'IiIlklMll}
+IMPO R_|_A NT' updates are only 91"”: H'D'J1rl1lr‘ﬁ: IFtll’Il‘IT‘ﬁﬁ 1".“er IIDQNJMO 06 Emu-err |1<'I!"Jl‘r.11‘l' lmtwm INTI":
+' received ifsentfrom RCS
+Console.$ee ”Managing the Network
+Injector" a pump :16?
+- IMPORTANT: routinely enable
+synchronization to guarantee mm"
+constant operating center updates
+. . mint-II
+and Infection success.
+3. To stop synchronization, click Stop.
+4. To view the rules received from RCS Console " 3‘4-=t-W-'rk"-'E-=
+click Rules: all rules for Network Injector lm“ l"r‘"5'a"'”‘3'I “a“ WWW“
+IA: | III."'.l 'll]E'.-§- 'I'IJI'II l-H | M: ‘n".'."n l.I'I!'|l|'I.l '.'F'.I'.'JTII
+appear IAtZIlt'JII 1m RI-I-ll nct- wnglnrfmhnrsnt
+TACTICAL 1m INJECF-IITML-I'LASII tyoutubexumfwatdw
+IMPORTANT: make sure rule TACTICAL 1m unmet: 2qu
+' synchronization is successful after
+
+requesting updated from RCS
+Console.
+
+ 
+
+Running a network test
+The network test procedure for sniffing and/or injection is provided below:
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.l. - pag. 37
+

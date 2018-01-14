@@ -1,0 +1,47 @@
+RC3 9 - Local Installation vector
+
+ 
+
+Nome Description
+Symbian conﬁguration Parameters:
+o UID 1-6: list of UID associated with the
+certificate
+0 Key: key file
+
+Local Installation vector
+
+Purpose
+Compiling installs the agent on the target's BlackBerry device or creates a folder on the SD card
+to be inserted in the device.
+
+0 IMPORTANT: to successfully complete installation on a BlackBerry device, the
+
+Blackberry Desktop Software application must be installed on a Windows computer.
+The Console will create a .zip ﬁle with all the files required to intact a connected
+BlackBerry. Copy the zip file to the Windows computer {if necessary} then unzip the
+.zip file. Connect the BlackBerry to the PC using an USB cable, then run the install.bat
+file. If the BlackBerry is PIN protected, provide the PIN when asked.
+
+Operating systems
+BlackBerry, WinM obile
+
+Parameters
+None.
+
+QR Code/Web Link vector
+
+Purpose
+
+Compiling creates a QR Code to be added to any website or printout. As soon as the target
+captures the QR code, the agent is installed in the device.
+
+Operations
+
+As soon as the target connects to the Anonymizer and requests the installer, the Collector
+downloads the correct installer for the target device's operating system in the
+folderC:\RCS\Co|lector\public .
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013© HTS.r.|. - pag. 149
+

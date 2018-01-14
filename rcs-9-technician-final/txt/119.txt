@@ -1,0 +1,21 @@
+RC8 9 - System monitoring
+
+System monitoring
+
+Presentation
+Introduction
+System monitoring guarantees constant control of component status and license usage.
+
+Content
+
+This section includes the following topics:
+
+ 
+
+System monitoring (Monitor} .............................................................................. 100
+System monitoring data {Monitor} ....................................................................... 101
+
+ 
+
+Technician's Guide I wer.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.l. - pag. 99
+

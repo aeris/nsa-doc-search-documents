@@ -1,0 +1,42 @@
+RCS 9 - Quota event
+
+gQuota event
+
+Purpose
+
+The Quota event triggers an action when the device’s disk space used to store the collected
+evidence exceeds the set limit.
+
+When disk space falls under the limit, the action will be terminated at the next synchronization.
+
+Operating systems
+Desktop: Windows
+
+Parameters
+
+Name Description
+
+ 
+
+0-"0153 Disk space to be used to store the collected evidence.
+
+-Screensaver event
+
+Purpose
+The Screensaver event triggers an action when the target device runs the screensaver.
+
+Operating systems
+Desktop: Windows, 05X
+
+Parameters
+None
+
+N SimChange event
+
+Purpose
+The SimChange event triggers an action when the SIM card is changed.
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013. HTS.r.|. - pag. 117
+

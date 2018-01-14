@@ -1,0 +1,55 @@
+RC5 9 - Filter wilh regular expression
+
+1- regular expressions
+1- Network BPF (Berkeley Packet Filter)
+
+Filter with regular expression
+
+Regular expressions are broad filters. For example, if our target is visiting a Facebook page and
+talking about windsurf, simply enter "facebook" or "windsurf".
+
+Tactical Network Injector taps all traffic data and searches for the entered words.
+
+For further information on all admitted regular expressions, see
+https:f/en.wikipedia.orgfwiki/Regular expression .
+
+BPF (Berkeley Packet Filter] network filter
+
+This is used to more accurately filter devices using BPF syntax (Berkeley Packet Filter). This syntax
+includes key words accompanied by qualifiers:
+
+. type quoiifiers (i.e.: host, net, port), indicate the type of object searched for
+
+1- direction quoiiﬂers (i.e.: src, dst) indicate the direction of the data searched for
+
+. protocoi quoiifiers (i.e.: ether, wlan, ip) indicate the protocol used by the object searched
+for
+
+For example, if our target is visiting a Facebook page, enter "host facebook.com"
+For further details on syntax qualifiers, see http:I/wiki.wireshark.orngaptureFilters.
+
+Identifying a target by analyzing the chronology
+
+Another way to filter and shorten the list of possible targets is to analyze device web traffic to
+identify it as the target.
+
+Emulating an Access Point known by the target
+
+In certain scenarios target devices must be attracted to tap their data, indentify and infect them.
+To do this, Tactical Network Injector emulates an Access Point already known to the target device.
+
+This way, if the device is enabled to automatically connect to available WiFi networks, it
+automatically connects to the Access Point emulated by Tactical Network Injector as soon as it
+enters the WiFi area. .
+
+Tactical Control Center
+
+Purpose
+Tactical Control Center lets you identify and infest devices:
+a automatically, by applying the identiﬁcation rules based on known device information
+(i.e.: IP address)
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.l. - pag. 34
+

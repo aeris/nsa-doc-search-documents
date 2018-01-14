@@ -1,0 +1,52 @@
+RC5 9 - What you should know about agents
+
+ 
+
+What you should know about agents
+
+Agent installation
+
+The agent can be exposed and identified if installed in environments with antivirus or in
+environments managed by expert technicians.
+
+To prevent this from happening, a substitute, the scout agent, is sent at installation to infect the
+target device and check the environment.
+
+Once installed, the scout agent appears in the target page after the first synchronization. Its icon,
+similar to the agent one, indicates the platform where it is installed. For example:
+
+0 g : scout agent installed on a Windows device
+
+0 : scout agent installed on a BlackBerry device
+
+Evidence acquisition for installation environment analysis
+After installation is completed, the scout agent acquires evidence:
+0 Screenshot type to help identify the target device
+0 Device type to help understand whether the environment to be infected is ok or whether
+there are applications that could compromise agent integrity.
+
+- IMPORTANT: Screenshot type evidence is only collected if the module is enabled in
+the configuration. If necessary, remember to enable it before sending the agent.
+
+Installation environment analysis
+
+After the scout agent acquires evidence, it must be checked to decide whether the installation
+environment is safe for the agent.
+
+If the environment is safe, the agent can be updated; the scout agent is replaced by the agent.
+If the environment is not safe, the scout agent must be closed.
+
+Updating the scout agent
+
+Updating the scout agent installs the agent and the scout agent icon is replaced by the agent icon
+in the target page.
+
+0 El: agent installed on a Windows device
+
+E3
+0 : agent installed on a BlackBerry device
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.l. - pag. 39
+

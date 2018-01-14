@@ -1,0 +1,57 @@
+RCS 9 - Installation Package preparation for Windows Phone
+
+Step Action
+
+ 
+
+1 Creating an account at https://www.svm biansigned.com
+
+ 
+
+2 0 Click My Dashboard and select the My Profile tab.
+0 Make sure the Country matches the data in the editor ID.
+0 Click \i'erifvr Account
+
+3 0 Download ﬁle .svs
+
+0 Sign the .svs file with the .cer and .kev ﬁles for the same editor ID using this
+command:signsis symbian_signed_account_ve rification_
+sis.sis signed.sis tC.cer tC.key
+
+0 Upload the signed file .sis
+
+4 Login to the created account
+5 0 Click My Dashboard and select the Manage Ule tab.
+0 Request six UID (within the protected range): and leave the other ﬁelds
+blank.
+
+0 Once obtained the UID, select the Development Certiﬁcate tab
+
+0 Enter the device IMEI numbers (to obtain the number, enter *#06#* or read
+the code in the battery compartment)
+0 Click Download Certiﬁcate.
+
+0 IMPORTANT: do not upload the RC5 .sis agent on the signed svmbian site.
+For each new target, enter the new IMEI number and download the new
+Development Certificate. Do not download the .sisfile again.
+
+0 Use the Development Certificate to sign RCS agents for Svm bian.
+
+Installation Package preparation for Windows Phone
+
+Introduction
+
+For Windows Phone devices, the agent is installed on the target device through a Windows Phone
+application. The following ﬁles must be on the RC5 server to successfullv complete agent
+installation:
+
+0 a .pfx file to sign the Windows Phone .xap installation packet
+0 an .aetx ﬁle as a Windows Phone application certificate
+
+Recommended sequence
+Complete the following steps to generate the .pfx and .aetx files and load them on the RC5 server:
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013© HTS.r.|. - pag. 154
+

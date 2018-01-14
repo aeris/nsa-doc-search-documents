@@ -1,0 +1,45 @@
+RC5 9 - What happenswhen a rule is enabledldisabled
+
+ 
+
+What happens when a rule is enabled/disabled
+
+Enabling a rule means making it available to the Network Injector injection process. RC5 routinely
+communicates with Network Injector to send rules and acquire logs. The operator is in charge of
+enabling this synchronization for Tactical Network Injector.
+
+A rule that is not enabled is not applicable meaning it cannot be sent to the Network Injector.
+
+Starting the infection
+
+After Network Injector receives the infection rules, it is ready to start an attack.
+
+During the sniffing phase, it checks whether any of the devices in the network meets the
+identiﬁcation rules. If so, it sends the agent to the identified device and infects it.
+
+Managing the Network Injector
+
+To manage Network a System section, Network Injector
+injectors:
+
+Purpose
+
+When the RC5 is running, this function lets you create injection rules and send them to the
+Network Injector.
+
+6 NOTE: the function is only enabled if the user has Injector rules management
+authorization.
+
+What you can do
+With this function you can:
+
+. create an agent injection rule on a target
+. send the rules to Network Injector
+
+What the function looks like
+This is what the page looks like:
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.I. - pag. 67
+

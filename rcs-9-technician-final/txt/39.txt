@@ -1,0 +1,56 @@
+RC5 9 - Infecling a computer not connected to Internet
+
+Step Action
+
+ 
+
+1 In the System, Network Injector section, create identification and injection rules for
+Network Injector Appliance and Tactical Network Injector.
+
+See ’Managing the Network injector" on page 6?
+6 NOTE: no agent installation is required.
+
+2 When using Network Injector Appliance, the system applies the identiﬁcation rules to
+traffic data. Once target devices are found, they are infected with the injection rules.
+
+Or they can be automatically or manually identiﬁed and infected using Tactical
+Network Injector.
+
+See ”Tocticai Controi Center " on page 84 .
+
+lnfecting a computer not connected to Internet
+To infect a computer not connected to Internet
+
+Step Action
+
+ 
+
+1 Create a factory by disabling synchronization on the operation level, see "Operation
+page" on page 24 .
+
+Or create a factor on the target level always without synchronization, see "Target
+pog " on page 28
+
+2 Compile the factory selecting the installation vector suited to the device platform and
+installation method, then create the agent.
+
+See "Compiiing ofoctory" on page 35 .
+
+3 Install the agent on the target device with the selected methods.
+See "List of installation vectors" on page 138 .
+
+4 After the required amount of time, retrieve evidence produced on the target device.
+
+5 Import agent evidence and analyze it.
+See "Agent page" on page 41 .
+
+lnfecting a computer connected to Internet
+To infect a computer connected to Internet
+
+. Tip: these steps are essential when you do not initially know which target activities to
+record or to avoid recording an excessive amount of data.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.l. - pag. 19
+

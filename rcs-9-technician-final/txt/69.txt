@@ -1,0 +1,25 @@
+ 
+
+Factory and agent: basic configuration
+
+Presentation
+
+Introduction
+
+The basic conﬁguration lets you add data acquisition and simple command execution modules that
+do not require complex settings.
+
+Content
+
+This section includes the following topics:
+
+ 
+
+What you should know about basic configuration .................................................... 50
+Basic factory or agent configuration _______________________________________________________________________ 50
+Basic configuration data ....................................................................................... 53
+
+ 
+
+Technician's Guide uer.1.5 SEP—2013 - RC8 9 - 2013. HTS.r.l. - pag. 49
+

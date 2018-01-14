@@ -1,0 +1,46 @@
+RC5 9 - Operating systems
+
+ 
+
+Operating systems
+Mobile: Android, BlackBerry, iOS, Symbian, WinMobile
+
+Parameters
+None
+
+E'SMS event
+
+Purpose
+
+The SMS event triggers an action when a speciﬁc text message is received from the specified
+number. The message will not be shown among the received messages on the phone.
+
+‘ WARNING: incoming messages are only deleted on BlackBerry 05 5.x.
+
+0 NOTE: the received message is not displayed on the target device.
+
+Operating systems
+Mobile: Android, BlackBerry, Symbian, WinMobile
+
+Parameters
+
+Name Description
+
+ 
+
+Number SMS sender's phone number. Any SMS from this number will be hidden.
+
+Text Part of the message text that must match.
+0 IM PO RTANT: the string is not case sensitive.
+
+Standby event
+
+The Standby event triggers an action when the device enters stand-by mode (backlight off).
+
+Operating systems
+Mobile: Android, BlackBerry, iOS, Symbian, WinMobile
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013. HTS.r.|. - pag. 118
+

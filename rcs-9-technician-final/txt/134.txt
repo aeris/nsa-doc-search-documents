@@ -1,0 +1,44 @@
+RC5 9 - Call event
+
+ 
+
+“Call event
+
+Purpose
+The Call event triggers and action when a call is made or received.
+
+Operating systems
+Mobile: WinMobile, BlackBerrv, Svmbian, Android
+
+Parameters
+
+Nome Description
+
+ 
+
+Number callee or caller's telephone number (or part of it).
+‘ Tip: leave blank to trigger on any number.
+
+I5DConnection event
+
+Purpose
+
+The Connection even triggers an action when the agent finds an active network connection.
+For the desktop device, enter the connection destination address.
+
+For the mobile device, it triggers an action as soon as the device acquires a valid IP address on any
+network interface (i.e.: WiFi, Activesync, GPRS/36+), and terminates the action when all the
+connections are terminated.
+
+Operating systems
+
+Desktop: Windows, OS)(
+Mobile: Android, BlackBerry, iOS, Symbian, WinMobile
+
+Mobile settings
+None
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013. HTS.r.l. - pag. 114
+

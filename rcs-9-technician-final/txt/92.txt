@@ -1,0 +1,39 @@
+RC8 9 - Injection rule data
+
+ 
+
+ 
+
+Data Description
+User Target's trafﬁc identiﬁcation method. The format depends on the type ofldent
+pattern selected.
+Method Format
+DHCP Corresponding address (i.e.: "195.162.21.2"l.
+STATIC-IF
+STATIC-MAC
+STATIC-RANGE Address range separated by '-' (i.e.: "195.162.21.2-
+195162.215".
+STRING— Text string (i.e.: "John@gmail.com"].
+CLIENT
+STRING-
+SERVER
+RADIUS- ID or part of the ID.
+CALLID
+
+RADIUS-LOGIN Name or part of the user name.
+
+RADIUS- ID or part of the ID.
+
+SESSID
+
+RADIUS- Key or part of the key (i.e.: "*.10.*"l.
+
+TECHKEY
+
+TACTICAL A value cannot be set. The correct value will be set by the field
+operator.
+
+ 
+
+Technician's Guide I yer.1.5 SEP—2013 I RC8 9 I 2013. HTS.r.l. - pag. 72
+

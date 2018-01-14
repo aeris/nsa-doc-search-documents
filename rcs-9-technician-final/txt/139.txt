@@ -1,0 +1,48 @@
+RC5 9 - Parameters
+
+Parameters
+None
+
+@Timer event
+
+Purpose
+The Timer event triggers an action at the indicated intervals.
+When the event occurs the action linked to the Start action is run.
+
+During the time between event start and stop, the Repeat action is repeated at the interval
+specified by the relevant connector.
+
+When the event terminates, the Stop action is run.
+
+Operating systems
+Desktop: Windows, 05X
+Mobile: Android, BlackBerry, iOS, Symbian, WinMobile, Windows Phone
+
+Parameters
+
+Name Description
+
+ 
+
+TYPE Interval type:
+0 Loop: triggers an action, indefinitely repeating it at every interval, as speciﬁed
+
+by the Repeat action.
+0 Daily: triggers a daily action at the times indicated in From and To.
+
+o Date: triggers an action in the period indicated in From and To.
+
+6 NOTE: select Forever for continuous action.
+
+0 Afterlnst: triggers an action after a certain number of days (Days) from agent
+installation.
+
+@Window event
+
+Purpose
+The Window event triggers an action when any window is opened.
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013. HTS.r.l. - pag. 119
+

@@ -1,0 +1,49 @@
+RC5 9 - Desktop settings
+
+Desktop settings
+
+Nome Description
+
+ 
+
+lp Connection destination IP address
+address 6 NOTE: Enter 0.0.0.0 to indicate any address.
+
+6 NOTE: connections to local addresses in the target‘s same subnet are not
+taken into account.
+
+Netmask Netmask applied to the IP address.
+
+Port Port used to identify the connection.
+
+ZZIdle event
+
+Purpose
+
+The Idle event triggers an action when the user does not interact with the computer for a set
+period of time.
+
+Operating systems
+Desktop: Windows, 05X
+
+Parameters
+
+Name Description
+
+ 
+
+Time Seconds of inactivity. The event is triggered at the end of this time.
+
+9 Position event
+
+Purpose
+The Position event triggers an action when the target reaches or leaves a specific position.
+The position can be defined by GPS coordinates and a range or by a GSM cell ID.
+
+Operating systems
+Mobile: Android, BlackBerry, iOS, Symbian, WinMobile, Windows Phone
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RC8 9 I 2013. HTS.r.l. - pag. 115
+

@@ -1,0 +1,68 @@
+RC5 9 - Target page
+
+ 
+
+Target page
+
+To open a target 0 Operations section, double-click an operation, double-click a target
+
+Purpose
+This function lets you:
+1- manage factories which, when compiled, become agents to be installed on the target
+device.
+1- open a factory for basic configuration (see "Basic factory or agent configuration" on page
+50 I or advanced configuration (see "Advanced factory or agent conﬁguration” on page
+59
+. import target evidence
+. open an installed agent
+. update agent software
+
+What the function looks like
+This is what the page looks like:
+
+‘I l1"...\.".vl.\' '.,.m GEE
+
+ﬂ Dun-I'm“ :r.-I.m .'.'<--. .:- ﬂ m
+‘.
+
+22mm I- a.-.-.--
+
+ 
+
+*F‘L‘xiii'. .3
+
+ 
+
+Dxrlb
+
+3. £3. E
+
+min on
+n-r-rm Irrr wn
+
+ 
+
+ 
+
+ 
+
+ 
+
+El '1” M“
+.
+.
+
+ 
+
+ 
+
+Area Description
+
+ 
+
+1 RC5 menu.
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.l. - pag. 23
+

@@ -1,0 +1,50 @@
+RC5 9 -To learn more
+
+Area Description
+
+ 
+
+1 Single application access tabs. Descriptions are provided below:
+Function Description
+
+Network It manages target device sniffing and infection, synchronizes RC5 rules,
+
+Injector updates Tactical devices and displays current Tactical Network Injector
+rules.
+
+Wireless Enters a protected WiFi network by identifying the password.
+Intruder
+
+Fake Emulates an Access Point.
+Access
+Point
+
+Log Lists logs in real time.
+System
+
+2 Area with buttons to reload the device list, start network connections and enable
+synchronization
+
+3 Filters to filter internet traffic on devices.
+
+4 Device list area.
+
+To learn more
+
+For a description of Tactical Control Center data see "Tactical Control Center data” a paginagﬁ .
+
+To learn more about Tactical Control Center see "What you should know about Tactical Control
+Center" a paginaSO .
+
+Enabling synchronization with RC5 server to receive new rules
+Following is the procedure on how to enable synchronization with RCS to receive updated rules:
+
+0 NOTE: if an infection is in progress, Network Injector is already synchronized with RCS
+
+server and thus rules are automatically uploaded,- skip to step 4.599 "Checking Network
+injector status " a pool no ?4
+
+ 
+
+Technician's Guide | ver.1.5 SEP—2013 | RCS 9 | 2013. HTS.r.l. - pag. 86
+

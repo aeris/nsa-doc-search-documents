@@ -1,0 +1,55 @@
+RC5 9 -To learn more
+
+Area Description
+
+ 
+
+5 List of selected Network Injector rules
+En: select to enable the rules to be applied.
+
+7 RC5 status bar. .
+
+To learn more
+
+For interface elem ent descriptions See "Shared interface elements and actions" a pagina14 .
+For a description of injection rule data see "injection ruie data" aiia pagina successiva .
+
+For further information on injection rules see "What you silouidr know about Network injector
+and its rules" a paginaﬁﬁ .
+
+Adding a new injection rule
+To add a new rule:
+
+Step Action
+
+ 
+
+1 Select the Network Injector for the new rule: rule commands and table appear.
+
+2 a Click Add New Rule: data entry fields appear.
+
+0 Enter the required data. If the rule is enabled, it can already be sent to the
+Network Injector. See "injection ruie data" aIIo pagino successive .
+a Click Save: the new rule appears in the main work area.
+
+Send the rules to Network Injector
+To send the rules to Network Injector:
+
+Step Action
+
+ 
+
+1 Enable the rule to be sent to Network Injector by selecting the En control box in the
+table.
+
+2 Click Apply rules: RC5 receives the request to send the rules to the selected Network
+Injector . The progress bar in the download area shows operation progress.
+
+0 NOTE: Network Injector only receives the updated rules when is
+synchronizes with the RC5 server. [See "Checking Network injector status "
+a paginaF4 ]
+
+ 
+
+Technician's Guide I ver.1.5 SEP—2013 I RCS 9 I 2013. HTS.r.l. - pag. 69
+

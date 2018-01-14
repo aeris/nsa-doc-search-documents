@@ -1,0 +1,51 @@
+RC5 9 - Operations
+
+Operations
+
+Sends a WAP-Push message containing either text or a link to the agent installer. If the message is
+accepted on the target device, the agent will be installed.
+
+0 IMPORTANTzfollow the procedure to receive a certificate for Symbian. See
+"instaiiation Package preparation Jfor Symbian” on next page .
+
+Installation
+
+Compiling creates an installer and automatically saves the utility ﬁle packet in the
+folderC:\RCS\Co|lector\public .
+
+Deleting no longer used files
+
+Packets saved in the folder C:\RCS\Collector\public can be deleted using the File Manager
+function, see ”l-‘rontlia'nclr management".
+
+Operating systems
+Android, BlackBerry, Symbian, WinMobile
+
+6 NOTE: if the target's operating system is unknown, use the multiplatform version. This
+
+' creates installers for all the supported platforms and saves them in the Collector's Public
+folder. As soon as the target connects to the Anonymizer and requests the installer, the
+Collector downloads the correct installer for the target device's operating system.
+
+ 
+
+Parameters
+
+Name Description
+
+Application Installer name (visible to target)
+
+name
+
+Phone Target's phone number, including international area code.
+
+Number
+
+URL Connection to an Anonymizer where the installer was saved. If the package was
+
+saved on another website, specify the URL.
+
+ 
+
+Technician's Guide I ver.1.5 SE P—2013 I RCS 9 I 2013© HTS.r.|. - pag. 151
+
