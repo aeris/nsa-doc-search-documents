@@ -1,0 +1,41 @@
+Overall Classification: TOP SECRET H COMINT H REL TO CAN, AUS, GBR, NZL, USA
+
+I* Communications Security Centre de la sécurité
+Establishment Canada des telecommunications Canada
+
+ 
+ 
+ 
+
+———_—ii 7'
+
+Passive Collection
+
+° EONBLUE
+
+— Global Access capability deployed across collection programs,
+including SPECIALSOURCE and CANDLEGLOW (FORNSAT).
+
+I — Provides passive cyber-threat detection.
+
+— Allowed us to find additional infrastructure by using signatures
+for known SNOWGLOBE beacons
+
+° Traditional
+— As always, a huge asset
+
+— With passive access, we were able to see an operator log in to
+an LP
+
+- Single-token authentication + weak hash = breakthrough.
+
+- Seeing the operator log iin provided enough to get into the LPs for
+ourselves.
+
+Safeguarding Canada’s security through information superiority F: __ __ r
+Préserver la sécurité du Canada aria supériorité de i’information U I (1 d.
+
+— TO!” I' "1 (QM-IINDIL/fmﬁﬁﬁi‘ii”? '39 51,39 i
+
+ 
+

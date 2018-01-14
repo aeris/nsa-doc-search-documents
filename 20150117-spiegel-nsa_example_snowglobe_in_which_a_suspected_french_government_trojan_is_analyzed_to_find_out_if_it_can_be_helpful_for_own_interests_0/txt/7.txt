@@ -1,0 +1,33 @@
+Overall Classification: TOP SECRET H COMINT H REL TO CAN, AUS, GBR, NZL, USA
+
+I * Communications Security Centre de la sécurité
+
+ 
+
+Establishment Canada des telecommunications Canada '- "
+
+° SNOWBALLS
+— Found and identified wmimgmt.exe and wmimgmtdll (later
+called the SNOWBALL implant).
+— Creates a service -> loads wmimgmt.exe 9 injects
+
+wmimgmtdll into IE.
+— Later upgraded SNOWBALL to SNOWBALL 2
+
+- Very similar beaconing.
+' SNOWMAN
+— More sophisticated implant, discovered mid-2010
+— Less is known about SNOWMAN, but efforts against it
+
+C 0 ml n U e.
+Safeguarding Canada’s security through information superiority {‘__ __ __ JIﬂ
+Préserver ia sécurit du Canada'ar ia supériorité de i‘informa_[ion Udl ldUd _ _
+_ _ l l
+
+  
+ 
+
+ 
+
+    
+

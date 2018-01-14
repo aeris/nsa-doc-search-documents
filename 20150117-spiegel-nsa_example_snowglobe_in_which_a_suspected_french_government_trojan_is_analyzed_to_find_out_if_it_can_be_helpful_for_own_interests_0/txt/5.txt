@@ -1,0 +1,35 @@
+Overall Classification: TOP SECRET H COMINT H REL TO CAN, AUS, GBR, NZL, USA
+
+I * I Communications Security Centre de la sécurité _. ' '-
+Establishment Canada des telecommunications Canada - "
+
+Discovery .
+
+- Discovered in November 2009
+- Existing CNE Access
+
+- WARRIORPRIDE as a sensor
+
+I — REPLICANTFARMl for anomaly detection
+- XML info from implant
+- Signature-based detection of anomalous activity and known techniques
+- Noticed: Command-line to create password protected RAR
+— Always the same password
+- Retrieved files associated with activity
+
+— Identified unknown malware through reverse engineering
+- Collecting email from specific, targeted accounts
+- “Felt like” a Fl—collecting tool
+- Pointed to first discovered LP
+- Provided intial comms analysis to allow signature deployment in passive
+
+ 
+
+coHecﬁon
+Safeguarding Canada’s security through information superiority {‘__ __ __ _Il;|
+Préserver la sécurité du Canada aria supériorité de i’informafion Udl ldUd
+
+ 
+
+- TO" I '« ©MII-1’V3ﬁﬁ—REiL—TQGAENEAJD sag—.-
+

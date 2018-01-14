@@ -1,0 +1,31 @@
+Overall Classification: TOP SECRET H COMINT H REL TO CAN, AUS, GBR, NZL, USA
+
+I * Communications Security Centre de la sécurité
+Establishment Canada des telecommunications Canada
+
+ 
+
+— TO” ' ' QMINTﬁ’f‘
+
+Attribution: Language .
+
+- ko used instead of k8 — a quirk of the French technical
+community
+
+° English used throughout C2 interface, BUT phrasing
+and word choice are not typical of a native English
+speaker
+
+— An attempt at obfuscation?
+
+° Locale option of artifact within spear-phishing attack set
+to ”fr_FR"
+
+Safeguarding Canada’s security through information superiority l __ _ _Il;|
+Préserver la sécurité du Canada aria supériorité de f‘informa_[ion Val ldua. _
+
+       
+ 
+
+ 
+
