@@ -1,0 +1,24 @@
+ 
+
+ 
+
+   
+
+DNI Exploitation System/Analytic Framework
+
+Performs strong (e.g. email) and soft (content) selection
+Provides real-time target activity (tipping)
+
+“Rolling Buffer” of ~3 days of ALL unfiltered data seen by
+XKEYSCORE: -
+
+Stores full-take data at the collection site — indexed by meta—data
+Provides a series of viewers for common data types
+
+Federated Query system — one query scans all sites
+
+. Performing full-take allows analysts to find targets that were
+previously unknown by mining the meta-data
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+

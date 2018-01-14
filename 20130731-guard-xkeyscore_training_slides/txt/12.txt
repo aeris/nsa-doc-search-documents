@@ -1,0 +1,71 @@
+ 
+     
+
+    
+  
+
+OIG' .1 t alm‘i‘wm
+
+ 
+
+Plug-in
+rFuil Log ’
+
+mp parser
+
+phone Number *
+
+ 
+
+  
+  
+ 
+ 
+ 
+
+i- oa1' ‘ ‘31:” ' 5“,]
+um I am mo W‘mug
+
+”7/7ch oLIVILILLLIILI/A i L o LL%;L,LL«., L L
+mm mm mm ”mmmxm am My, “a“ { // “ E1 '
+
+. 1.68“}! 3
+' Erma it“ .«
+
+ 
+
+ 
+
+ 
+
+fiE-mail Addresses"
+
+LExtracted Files I V 7
+
+User Activity 5 if if *
+
+ 
+
+DESCRIPTION
+
+Indexes every E- mail address seen in a session by
+”Luboth username and domain
+
+Indexes every file seen in a session by both fiiename
+Land extension
+
+Indexes every DNI session colieCted. Data is
+L indexed by the standard N— —tupple (IP, Port,
+L Casenotation etc.)
+
+Indexes the client-side H'I'I'P traffic(exan71p|estow
+follow)
+
+Indexes every phone number seen in a session (e. g
+address book entries or signature block)
+
+Indexes the Webmail and Chat activity to inciude 7
+username, buddylist,imachine specific cookies etc.
+
+' TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+

@@ -1,0 +1,17 @@
+ 
+
+. My target uses GoogleMaps to scope target
+locations — can I use this information to
+determine his email address? What about the
+web-searches — do any stand out and look
+suspicious?
+
+. XKEYSCORE extracts and databases these events
+including all web-based searches which can be
+retrospectively queried
+
+- No strong-selector
+. Data volume too high to forward
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL
+
