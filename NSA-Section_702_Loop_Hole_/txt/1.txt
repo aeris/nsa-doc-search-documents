@@ -1,0 +1,25 @@
+FAATDE
+
+ 
+
+Fan Section H12 {certain non-USPs reasonably believed to be located oyerseas}
+
+Fan Hi2 CollectiontTargeting:
+
+Li. a. persons may NOT be targeted under PM Section ‘r'DE.
+
+Persons in the US may NOT be targeted under PM Section T02.
+
+Accounts used. shared or in any way accessed by USPs or persons in the US may NOT be targeted or remain on target under
+FAA Section T432. This applies eyen if the intended targeted user of the selector remains otherwise a non—USP reasonably
+belieyed located outside the US.
+
+Fan THE collectioni'Querying:
+
+irtLi pdate‘” While the Fan. “to: minimization procedures appmyed on 3 Delete Edit now allow for use of certain United States
+person names and identifiers as query terms when reviewing collected Flea m2 data, analysts may NUTrNDT implement any
+UEP queries until an effective oversight process has been developed by NBA and agreed to by DDJJDDNl. Until further notice.
+analysts must ensure that database queries, including federated queries, of any LISP selection terms are NOT run against
+milected PM "ME data {1’02 data is contained in MARlNA1 MAINWAY, NUCLEON, PINWALE Sweet” and Scrum partitions} and
+enter databases}.
+
