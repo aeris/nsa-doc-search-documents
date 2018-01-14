@@ -1,0 +1,122 @@
+ 
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+(U) 3G Wireless Standards
+-Evolution— Overview
+
+1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UMB
+
+3GPP2 I I _ Rev. 0 {FDD}
+
+Rev. A ”00} 5-856 Rev C
+
+{MIMOISDMA
+
+DO Enhar‘wement
+
+hi-adu {IS-200
+\
+
+IS-856 Rev
+{Optimized --
+8. VolP)
+
+|S-'1006 IS-1006-A
+5:3: van-2:} . ;=.;-; 1 (BCMCS; {EBCMCS}
+
+T[‘
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+    
+
+ 
+
+_-—_— ————————— —_-_--_— _*_-l__-__
+
+ 
+
+_ —-——I‘
+
+Rel-6 Rel-‘7 Rel-8 Rel-9
+(E-DCH, (Enhanced (LTE (more LT
+MBMS) HSDPA) DC HSPA features)
+
+Rel-10
+(LTE-ad
+
+ 
+
+    
+     
+
+802.159 _ 160 Rev. 2 802.16%
+' Wave‘lﬁi? I Rel 1.5 Rel 3‘ 0
+
+,‘oh '
+
+' “LP
+'V‘I ‘
+
+--1.L
+
+ 
+
+   
+
+Note:
+- Dates shown are standards completion dates (or expected completion dates.)
+
+- “Initial VolP” not as spectrally efficient as “Optimized VoIP”.
+
+- “Mobility” indicates when each particular standard supports mobility inter-operability between the terminal and BTS.
+

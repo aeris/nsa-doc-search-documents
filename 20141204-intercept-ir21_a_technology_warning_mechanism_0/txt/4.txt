@@ -1,0 +1,84 @@
+ 
+
+ 
+
+(UHFOUO) Effective Forecasting:
+Geopolitical Regions and Targets
+
+   
+
+     
+ 
+
+b What geographies are of national interest to our
+customers?
+
+b What organizations and individuals must we
+target to answer our customers’ questions?
+
+Discovery
+also
+critical
+
+ 
+ 
+
+ 
+
+O 0 Regions & b How does those targets communicate?
+o
+
+b How should discovery inform TargET-S
+
+what targets/geographies we > How is technology evolving?
+
+focus on next? > How are technology and
+b How do we discover target telecoms evolving in regions of
+
+adoption of a technology? interest?
+
+_ Technology > How do we expect targets to
+DISCOVer)’ <____________________> use emerging technologies?
+
+Trends \ > What isthe SlGlNTthreatof
+\ these emerging technologies?
+
+ 
+
+ 
+
+ 
+
+SIGINT
+PLANNING
+CYCLE
+
+> What vulnerabilities are critical to
+
+b What products/services do w .
+current success (Le. where are our
+
+produce for which customers
+
+in
+
+b What is workforce makeup Delivery Vulnerabilities risk areas)?
+and how are the distributed, b How do we discover vulnerabilities?
+> What role do all‘tners la 7 l b How do we introduce vulnerabilities
+P P )’- where they do not yet exist?
+
+Capabilities
+
+ 
+
+ 
+
+> What capabilities do we need to develop to take advantage of technology
+vulnerabilities?
+
+b What techniques to do we deploy to take advantage of those vulnerabilities (e.g.
+CNE, supply chain, mid-point, etc.)
+
+b What role does enabling, cooperative access, HUMINT, 2nd parties, etc. play in
+building those capabilities?
+

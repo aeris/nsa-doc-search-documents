@@ -1,0 +1,33 @@
+ 
+
+ 
+
+   
+
+(U) Framework for Analysis...
+
+> (U) 3GPP: Defines technology migration paths.
+
+“Releases” —A Clear Technology Roadmap
+D 3G begins with Release 99
+D Other releases: 04, 05, 06, 07, 08, 09, ....I0, II (future)
+
+See:
+U Releases cover:
+
+Access: GSM, EDGE, HSPA, LTE, LTE-Advanced, etc.
+Core: GSM Core, Enhanced Packet Core...
+
+Services: MS, etc. GE m H .
+
+ 
+
+> MGSMA: Defines carrier information exchange required
+to enable roaming
+
+Changes to lR.2| format warn of imminent technology roll-out
+
+An lR.2| is a GSMA-mandated document. lR.2| are exchanged between Wireless
+operators with roaming agreements, to the GSMA, and to certain clearing house
+operations.
+

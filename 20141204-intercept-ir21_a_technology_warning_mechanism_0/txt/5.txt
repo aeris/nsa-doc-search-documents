@@ -1,0 +1,27 @@
+ 
+
+ 
+
+   
+
+(U) Two Types of Investigations
+
+> (S//RELTO USA,FVEY) Horizon scanning
+Objective: Initial identification and assessment
+All source research
+
+Answer the question: Does this technology appear to be a large risk
+to the SIGINT system? Why or why not?
+
+> (S//RELTO USA, FVEY) Deep Dive
+Objective: Cause a funding decision(s)
+
+All source research; emphasis on geographic uptake trends;target
+uptake plans or vignettes.
+
+Answer the question:Are SIGINT targets taking up this technology?
+How fast?
+
+lmplicitly contrast the above with the cost and time needed to
+remediate any SIGINT system shortfalls.
+

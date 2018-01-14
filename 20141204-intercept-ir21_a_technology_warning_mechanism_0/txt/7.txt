@@ -1,0 +1,37 @@
+ 
+
+ 
+
+ 
+
+b
+
+b
+
+ 
+
+(U) Roaming Agreements
+
+(U) Allow a mobile subscriber to use resources on a visited
+network
+
+Each carrier’s IR.2| is a technical document that:
+
+Describes the operator itself in various ways
+
+Location, business codes, etc.
+
+Describes access to the IP network of the operator
+DNS, lP addresses,ASN, etc.
+
+Describes:
+Radio Access Network: technology(ies) type(s)
+Frequency(ies)
+Telephony routing information (MSISDN ranges; E.2|2)
+SCCP gateways (Point codes)
+Mobile Application Part protocol in use
+Hardware, software versions of certain network elements...
+
+(memo USA, FVEY) Hypothesis:We can identify and track a carrier’s
+technical evolution with IR.2| and other data.
+

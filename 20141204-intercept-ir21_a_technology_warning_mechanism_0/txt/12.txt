@@ -1,0 +1,227 @@
+ 
+
+ 
+
+ 
+
+(—
+WCIS
+
+(Unclassiﬁed
+Data Source)
+
+—/
+(—
+ITU Ops
+Bulletin
+(Unclassiﬁed
+Data Source)
+
+ 
+
+ 
+
+Other
+(Unclassiﬁed
+Data Source)
+
+________\
+\__—-____J
+
+l
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+\
+
+IR.2 I
+(Classified
+Data
+Source)
+
+(Classified
+Data
+Source)
+
+  
+
+Numbers in red are for reference only
+
+2| May20|0
+
+(TS//SI//REL TO USA, FVEY) Data FIOW
+and Process Owrview
+
+ 
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+AURORAGOLD Repository
+
+ENTITY
+NORMALIZATION
+
+ 
+  
+
+    
+
+  
+ 
+
+Analyzed
+Data Sets —
+Unclassiﬁed
+
+   
+
+   
+
+    
+ 
+
+  
+
+Anaiysis By
+Exception:
+Some Analytic
+Decisions
+
+ 
+  
+  
+
+ 
+ 
+
+    
+ 
+    
+ 
+
+Exception Decision
+Information
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+    
+  
+  
+
+| I
+
+“I
+
+I“ ’(—\\
+\\\ Exception Decision
+\\\ Information
+
+\\
+\“2‘
+\“‘
+\‘ x
+0 ~‘-
+‘ Analysis By
+
+ 
+   
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exception; . Analyzed
+Raw Data Some Analytic Data Sets _
+_ D . .
+Sets: tlﬁ». ecmons Classiﬁed
+CIassnfied \‘u‘w-
+“$23 ENTHTY
+NORMALIZATION
+K:
+
+ 
+
+ 
+
+Z
+
+Supplementary Outputs:
+
+Strong Selector and Tasking Management
+
+I.
+
+2. Some selectors back to AGR inputs for tasking
+3. Information outputs to other systems (i.e. RONIN)
+4.
+
+Other??
+
+ 
+
+N
+
+SlGlNT
+Production
+
+Chain Appropriately
+
+Cleared Users
+
+ 
+
+ 
+
+ 
+
+SCORPIOFORE;
+SlGlNT Reporting
+
+ 
+
+ 
+
+A
+".
+
+GD
+
+ 
+
+“AUTO”-
+MINIMIZATION
+
+ 
+
+ 
+
+ 
+

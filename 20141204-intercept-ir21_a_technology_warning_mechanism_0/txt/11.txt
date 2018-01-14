@@ -1,0 +1,31 @@
+ 
+
+TOP SECRET//COMINT//REL TO USA, FVEY
+
+   
+
+(U) Analytic Process
+
+> (SI/RELTO USA, FVEY) Data analysis process is to match information in
+IR.2 l , or elsewhere, against Releases in the Technology
+Roadmap
+
+D Example: CAMEL Phase 4 (aka CAMEL4) as proxy for Release 5 deployment
+
+b (SI/RELTO USA, FVEY) Analytic goals:
+Establish a date-time for a release deployment
+Track releases at the per network level
+Display status at the national, regional, hemispheric or global scale
+Measure speed of adoption at each scale
+
+Identify early and late adopter tendencies by network
+
+> (SI/RELTO USA, FVEY) Deliverables:
+Adoption trends over time
+
+Forecasts derived from trends and framework changes
+
+ 
+
+Formal reporting of data and conclusions — as a dataset
+
