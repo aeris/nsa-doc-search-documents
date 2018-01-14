@@ -1,0 +1,59 @@
+ 
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+RT-RG Sidekicks
+—
+
+Background
+
+(TS//S|/REL TO USA, FVEY) The RT-RG Sidekick Cloud-Based Co-traveler analytic compares average travel
+velocity between pairs of selectors to infer whether or not could co-travel would practically be possible.
+The velocity factor is intended to reduce the number of false positives when considering travel among
+urban areas by filtering out pairs of selectors that were seen at the same series of CELL IDs or VLRs over
+time, but could not have been traveling together because the location data timestamps presuppose an
+unreasonable velocity. This may happen because one or both of the selectors in the pair may have been
+located at the edges of the network coverage during one or more of their travel midpoints.
+
+(TS//S|/REL TO USA, FVEY) The analytic first computes ”movement summaries” of all available tasked
+selectors. The movement summaries contain a list of locations that a target visited during the timeframe
+of interest, given by the analyst. Locations are defined by CELL IDs (for GSM) or GEO-Hashes (for-
+any other selectors with Lat/Long). Then, the system discovers pairs of targets that could be traveling
+together by comparing their sequences of physical locations and factoring out pairs that could not have
+reasonably arrived at the meeting waypoints within 10 minutes of each other.
+
+(TS//S|/REL TO USA, FVEY) One of the main benefits of the RT-RG Sidekicks analytic is that it is not
+constrained by provider network. Because it considers physical (LAT/LONG) locations and travel
+velocities, it can provide co-traveler results that include selectors on different provider networks.
+
+Status and Summary
+
+Status Source Data Caveats
+
+- QFD available at RT-RG analyst - Sortinglead Event Summaries - Requires accurate tower geo
+desktop. _ﬂ data (location and date)
+RT-RG Tools: Goldminer, CHET, of Fascia PCS) - Requires pre-computing all
+GEOT - Currently running on RT—RG selectors against all selectors,
+
+_ which can be expensive
+
+- Could possibly scale to FASCIA - Current output includes only
+event summaries tasked selectors
+- Analytic is not designed for
+stationary targets.
+
+ 
+
+Future Work
+(TS//S|/REL TO USA, FVEY) Currently, the system is integrated with RT-RG, operating on—
+GSM data. It may scale to a larger data source; however, it is designed to precompute sidekicks for each
+
+possible pair or tasked selectors.
+
+(TS//S|/REL TO USA, FVEY) This analytic could also be applied to DNl location data.
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+12
+
+ 
+

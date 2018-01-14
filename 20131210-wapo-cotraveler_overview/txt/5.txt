@@ -1,0 +1,54 @@
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+o In this study, examples of meeting analytics that detect instances of co-location include the
+GATC Opportunity Volume Analytic and the- Meet&Greet Spatial Chaining Analytic.
+
+Analytics
+
+CHALKFUN
+—
+
+Background
+
+(TS//S|/REL TO USA, FVEY) Chalkfun’s Co-Travel analytic computes the date, time, and network location
+of a mobile phone over a given time period, and then looks for other mobile phones that were seen in
+the same network locations around a one hour time window. When a selector was seen at the same
+location (e.g., VLR) during the time window, the algorithm will reduce processing time by choosing a few
+
+events to match over the time period. Chalkfun is SPCMA enabledl.
+
+(S//S|/REL TO USA, FVEY) Note: As of 6 September 2012, the events that are chosen depend on the
+”sampling method” chosen by the analyst (most active, most per day, first/last/most, or
+first/last/spread). The ”sampling rate” specifies how many events are chosen to match. As Chalkfun
+
+moves to the cloud, this option will be discontinued.
+
+(TS//S|/REL TO USA, FVEY) The cloud-based version of Chalkfun (see R6 SORTINGLEAD Co-traveler
+Analytic section), which may be released as early as September 2012, will have a number of additional
+
+features and options:
+
+0 The system will run one query (rather than separate queries) for all of the lMSIs, MSISDNs, VLRs,
+and GCIDs that an analyst enters (as if the selectors and areas of interest were joined with an
+”OR”). The system currently runs separate queries for each, returning separate sets of results for
+each combination of selector and areas of interest. The cloud-based version will also enable the
+user to set the size of the time window that the analytic considers, rather than defaulting to one
+hour (as described above).
+
+0 The user will be able to choose the countries or locations of interest. Blacklist and whitelist
+features will enable the user to instruct the system to ignore activity within a region, or restrict
+analysis to specified regions of interest (e.g., ignore activity in: or use only activity from
+-)
+
+o In considering potential co-travelers, the analyst will have the option to ignore activity in which
+
+the target is in his home country
+
+ 
+
+1(S//S|//REL)SPCMA enables the analytic to chain "from," "through," or "to" communications metadata fields
+without regard to the nationality or location of the communicants, and users may view those same
+communications metadata fields in an unmasked form.
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+

@@ -1,0 +1,68 @@
+ 
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+and enriching key elements of selector behavior. The Sortinglead Event Summaries benefit this analytic
+because they can provide enriched location information about selectors that is not present in the raw
+metadata. The GEO Index contains a mapping between the locations (GCIDs or VLRs) visited by a
+selector and the time (day/minute) that the visit(s) occurred. Information from command and control
+networks that track IED attacks is also used to enrich the GEO Index.
+
+(TS//SI/REL TO USA, FVEY) The results that can be returned from this type of analytic can potentially be
+enormous. Each candidate will have some level of time and space overlap with the seed. Prioritization
+occurs by assessing the quality of the overlap in terms of time and space closeness. The analyst may
+choose to triage any number of potential candidates (e.g. top 10 or top 100 candidates, or candidates
+that surpass a given threshold).
+
+Status and Summary
+
+Status Source Data Caveats
+
+- In testing phase to be - FASCIA PCS Sortinglead - Analytic cannot recover cross-
+
+replacement back-end for the Summaries network co-travelers
+
+current production CHALKFUN - CHALKFUN enrichment (VLR - Analytic will not be effective
+
+co-traveler tool country mapping) against stationary (non-traveling)
+
+- Cloud-based (MapReduce) targets
+
+implementation under - Processing is memory intensive
+
+development to handle larger - Analytic is sensitive to large
+
+numbers of queries cells, VLRs, and dense areas
+
+simultaneously - Not directly applicable to sat
+phones with LAT/LONG
+information
+
+- Results can be very sensitive to
+timeframe chosen as input. For
+instance, analytic will not be
+effective for large queries across
+multiple countries and large time
+
+frames (e.g., anywhere in-
+over the past year and then
+
+anywhere in-).
+
+ 
+
+Future Work
+
+(TS//SI/REL TO USA, FVEY) Because the R6 co-traveler analytic depends on GCID and VLR locations as
+meeting points or waypoints, it will not return selectors that co—travel on different provider networks.
+(For instance, it could not return a Verizon selector co-traveling with a T-Mobile selector.) The R6 team
+is working on experiments that might "alias" seed selectors to nearby selectors on other networks to get
+around this problem, but this poses challenges. The RT-RG analytic (discussed later in this paper) uses
+relative velocities to deal with the cross-network challenge, but this approach requires pre-computing
+travel behavior for all pairs of selectors, which can be computationally expensive.
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+11
+
+ 
+

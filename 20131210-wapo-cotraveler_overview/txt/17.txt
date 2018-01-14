@@ -1,0 +1,49 @@
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+1. Start with a target selector (e.g. IMSI)
+2. Query the target selector for PCS events to identify cell towers this target his hitting off of and
+at what date/time.
+3. Note the cell towers, location of the cell towers, and the date/times
+4. Query those cell towers (and other cell towers in the area) for those dates and times to
+identify other users who are hitting off of those towers
+5. Compare the results of the users hitting off of the cell towers.
+6. Rank the selectors as being possible candidates for co-travelers based on what cell towers
+they hit on at the right times.
+7. Selectors that are reliably seen to be hitting off of the same towers at the same times more
+than others should get a higher rank.
+
+Summary
+
+(S//S|/REL TO USA, FVEY) At the beginning of this paper, we presented a number of key issues and
+questions. Many of the analytics define themselves by (1) the key issues they address in novel ways and
+
+(2) the types of source data on which they operate.
+
+(S//S|/REL TO USA, FVEY) The key issues section highlights capabilities that might improve the accuracy
+of the analytic results. For example, analytics that have knowledge about the locations of GCIDs and
+VLRs and can augment their procedures with non-SIGINT data such as geographic and terrestrial data.
+This information contains knowledge about the locations of highways and roads. Analytics that can
+geographically validate routes between meeting points can then use this information to constrain the
+
+possible co-travel routes and candidate co-travel selectors along those routes.
+
+(S//S|/REL TO USA, FVEY) Analytics that can operate on a variety of different source data formats,
+including both DNI and DNR, benefit from the ability to exploit divergent data sources to develop more
+
+complete pictures of target travel behavior.
+
+(S//S|/REL TO USA, FVEY) The co-travel analytics in this study are at various stages of development,
+testing, and deployment. One possible way forward could be to have an independent organization2
+perform a formal evaluation of these analytics using a common test dataset. This would enable a fair
+comparison and assessment of the analytics’ processing time, efficiency, and accuracy. Understanding
+the advantages and challenges of each analytic against a common test dataset with ground truth may
+facilitate planning for future work.
+
+ 
+
+2 An independent organization is one that is not involved in the development of any of these analytics and that
+does not have a stake in the outcome.
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+17
+

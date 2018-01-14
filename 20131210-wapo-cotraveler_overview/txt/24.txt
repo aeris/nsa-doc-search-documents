@@ -1,0 +1,51 @@
+ 
+
+Name of Analytic
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+Source Data
+
+Architecture Status Caveats
+
+ 
+
+ 
+
+Summary
+
+defined as individuals that
+were seen in the same area
+(defined by Country, VLR, or
+Cell ID) around the same time
+as the targets. The output
+includes both tasked and
+untasked selectors as possible
+co-travelers with the tasked
+seeds.
+
+ 
+
+Country
+mapping)
+
+- CLOUDBASE
+Events
+(IMSI,|MEI)
+rounded to
+nearest hour
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+24
+

@@ -1,0 +1,107 @@
+Name of Analytic
+(GATE)
+Opportunity
+Volume Analytic
+
+TOP SEC RET/fCOMINT/IREL T0 USA, FVEY
+
+Summary
+
+considering the possibility of
+their travel paths intersecting.
+Computes possible travel
+routes for each entity
+between specified events,
+considering terrain, land
+cover, and road network data.
+
+Source Data
+
+Architecture
+
+Status
+ported to NSANet.
+
+Caveats
+
+locations and 15 minute time
+intervals.
+
+- Co-travel capability would
+require analyst to define a
+series of meetings at specified
+locations.
+
+ 
+
+ 
+
+ 
+
+ 
+
+The analytic computes event - Sortinglead Cloud-based Initial development - This cloud analytic is
+sequences of LAT, LONG, and summaries of completed. oriented to work on 7‘ to 30
+time for each tasked selector. FASCIA data on In testing phase, days worth of regional
+These are called “tracks". Each GM-PLACE and not yet operational collection.
+selector’s tracks are pairwise- GM-
+- compared to the others and a - RT-RG regional - Analytic only considers
+(Io-'l‘mvclcr measure of similarity in time GSM collection tasked selectors as seeds.
+Anal tic and space :5 computed. - - Analytic does not con5ider
+y .
+The analytic works cross- targets that do not travel
+network by computing target outside a 20 to 50 km radius.
+“closeness" based on the GCID - Track dataset must be
+Lathong GEO information and repopulated for each data
+time. update
+- The Fast Follower (FF! - Smartphone Cloud-based The MGSC analytics - Analytic designed for precise
+analytic considers non-SIGINT data from Implemented has been tested on geolocation data leg, from
+reference paths for station ELKPRINTS in. Java and real ELKPRINTS smartphones)
+personnel based on detailed - Reference- ported to data, but results - MGSC analytic would require
+knowledge of the entity‘s path data (FF) MapReduce have not been the analyst to define a series
+
+-Co-
+
+Traveler Analytics
+
+ 
+
+location. Candidate followers
+are determined by identifying
+other individuals whose path
+matches the reference path in
+space and time.
+
+- The Meet&Greet Spatial
+Chaining (MGSC) analytic
+
+ 
+
+- List of
+selectors
+(MGSC)
+
+ 
+
+ 
+
+validated by
+operational
+analysts.
+
+The FF analytic has
+been tested on
+made-up data.
+
+ 
+
+of meetings
+
+ 
+
+TOP SEC RET/fCOMINT/IREL T0 USA, FVEY
+
+20
+
+ 
+

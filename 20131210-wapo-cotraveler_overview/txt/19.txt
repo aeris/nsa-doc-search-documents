@@ -1,0 +1,69 @@
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+Summary Table of Co-Travel Analytics
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name of Analytic Source Data Architecture Status Caveats
+Analytic computes the date, - All FASCIA data - Cloud- - Operational; - Current version is not cloud-
+time, and network location of containing VLR based Available at based and can have long
+any (tasked or untasked) and GCID version could analysts desktops processing times, however
+mobile phone over some time information be available cloud-based solution is
+period, and then looks for as early as imminent.
+other mobile phones that September - Analytic will only return co-
+were seen in the same 2012. travelers on the same provider
+CHALKFUN network locations around a network
+one hour time wmdow. When
+a selector was seen at the
+same location (e.g., VLR)
+during the time window, the
+algorithm will reduce
+processing time by choosing a
+few events to match over the
+time period. Chalkfun is
+SPCMA enabled.
+Predicts target locations and -Mobile CDRs - Netezza - Implemented and - Requires Netezza (current
+co-travelers by calculating - Could be tested at DSD implementation)
+time-based travel trajectories implemented - Requires Renoir
+and identifying likely path in Cloud-
+DSD Co-Travel intersections between based
+Analytic observed locations. The architecture
+analytic calculates travel times (Hadoop/
+at waypoints similar to that MapReduce
+used in turn-by-tu rn or Accumulo)
+navigation systems.
+Geospatial Determines whether two - Geohashes of Cloud-based Prototype service - Requires event locations and
+Analysis entities (e.g. devices) could GPS point event implemented on times for every selector.
+
+Tradecraft Center
+
+ 
+
+have been co-located by
+
+ 
+
+data.
+
+ 
+
+ 
+
+NGANet. Not yet
+
+ 
+
+- Designed for 1 km grid-based
+
+ 
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+ 
+

@@ -1,0 +1,96 @@
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+Source Data
+
+Architecture
+
+Status
+
+Caveats
+
+ 
+
+Name of Analytic
+
+endpoints, and the following
+measurements: net distance,
+time oftransition (mins),
+speed (kph), Azimuth, and
+number of travel segments.
+
+longer under
+development.
+
+Geohashes
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+travelers. Co-travelers are
+
+ 
+
+Enrichment (VLR
+
+ 
+
+ 
+
+ 
+
+This SEDB JEMA model finds OCTAVE and Tower QFD Operational, - Cell tower locations in
+
+SIM card activity seen on cell FASCIA data available in JEMA. OCTSKYWARD can be
+
+tower panels in multiple imprecise.
+
+areas. - The SEDB Tower QFD
+SSG Common The analyst inputs areas of summarizes IMSIS by LAIC by
+IMSIS Analytic Interest and time range. The day. _
+
+analytic returns an excel fIle - Summaries by MSISDN or
+
+with a list of IMSIS seen in IMEI are not available.
+
+those areas at that time,
+
+enriched with OCTAVE tasking
+
+information.
+
+Discovers candidate co- - Tasked DNI Cloud-based Available to - Tasked targets provided as
+Target Analysis travelers based on how many selectors (U'IT) GM-PLACE developers with input; results include tasked
+Center times selectors were seen in - Geotagged access to and untasked targets
+(TAC)/Café/ the same countries and cities ASDF data Ghostmachine - Analytic operates at the
+Travel and during the same months as - User-provided (GM-PLACE) country level, and designed to
+Mobility Analysis tasked targets. Locations are travel patterns provide monthly QFD roll-up
+Center (TMAC) given by DNI selector lP - Proxies can make lP
+DNI Co-Travel geolocation, provided by ASDF resolution challenging
+Analytic enriched with GEO reference
+
+data.
+
+(TS//Sl/REL TO USA, FVEY) The - FASCIA data on Cloud-based Under - Analytic only considers
+
+DNR cloud-based analytic Ghostmachine GM-PLACE development tasked selectors as seeds.
+TAC/Café/ TMAC considers all known targets - 40.7B rows in
+DNR Co-Traveler (tasked in OCTAVE) that have the CLOUDBASE
+Analytic traveled within a given month, table
+
+and attempts to find their co- - CHALKFUN
+
+ 
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+23
+
+ 
+

@@ -1,0 +1,59 @@
+TOP SECRET//COM|NT//REL TO USA, FVEY
+
+behaviors ofthe targeted Thuraya handsets and identifying other handsets with similar patterns. The
+targeted handsets were observed traveling between known- government and military
+installations; therefore, handsets with similar travel behaviors were inferred to be- government
+forces.
+
+(TS//S|/REL TO USA, FVEY) The first step of PACT is to identify a set of waypoints for each target handset.
+Waypoints are generated from sequences of events that cluster together in space and time. The second
+step is to identify which pairs of handsets contain similar waypoint clusters. Pairs are scored based on
+the number of waypoint clusters that match. This analytic also considers the total possible number of
+waypoint clusters for each selector, so that the total number of communication events per selector is
+taken into consideration. This process is intended to reduce the possibility of producing results that
+include incidental co-travel. The third step in this analytic identifies persistent patterns by examining the
+time periods over which co-location occurs for each co-travel candidate pair.
+
+Status and Summary
+
+ 
+
+Status Source Data Caveats
+
+Tested on VOICESAIL data from - Thuraya data from CULTWEAVE - Analytic designed for Thuraya
+CULTWEAVE. Patterns stored in (”500 M waypoints in or other point data
+
+QFD. CULTWEAVE)
+
+In process of transitioning PACT
+
+to NSA/SZ.
+
+ 
+
+Future Work
+
+Future work could involve applying this analytic to other types of QFD datasets such as lnmarsat and
+GSM data. The team is also interested in building on this analytic to enable discovery of asynchronous
+co-traveling relationships.
+
+R6 SORTINGLEAD Co-Traveler Analytic
+—
+
+Background
+(S//RELTO USA, FVEY) R6 has been partnering with Chalkfun to upgrade the Chalkfun co-traveler
+analytic to a cloud-based analytic that will run on Cloud 14 (to eventually be migrated to MDR-2).
+
+(TS//S|/REL TO USA, FVEY) The R6 co-traveler analytic accepts a selector and timeframe as input, and
+then derives an itinerary for the selector that includes the CELL IDs and/or VLRs (depending on what is
+available). The itinerary is based on a series of waypoints generated from the location information that
+is available in FASCIA-PCS. Then, the analytic searches for other selectors that were ”near” these
+waypoints in space and time. Time windows are configurable and can be adjusted by the user. Each
+candidate is scored and then prioritized based on the scores.
+
+(TS//S|/REL TO USA, FVEY) The R6 co-traveler analytic operates on Sortinglead Event Summaries and a
+GEO Index. The Sortinglead Event Summaries provide rapid access to FASCIA PCS events by summarizing
+
+TOP SECRET//COM|NT//REL TO USA, FVEY
+10
+
