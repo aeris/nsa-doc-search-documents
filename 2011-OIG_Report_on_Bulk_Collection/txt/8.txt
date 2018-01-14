@@ -1,0 +1,37 @@
+The
+RAS requirement is designed to protect against the indiscriminate querying of the collected data
+so that only information pertaining to one of the foreign powers listed in the relevant Court order
+
+is provided to NSA personnel for further intelligence analysis. The bulk data
+collected under each program can be retained for 5 years.
+
+Congressional Oversight
+
+(U) These programs have been briefed to the Intelligence and Judiciary Committees,
+through hearings, brieﬁngs, and visits to NSA. In addition, the Intelligence and Judiciary
+Committees have been fully briefed on the compliance issues discussed below.
+
+Compliance Issues
+
+-(-"FS#SI#NF—)—In 2009, a number of technical compliance problems and human
+implementation errors in these two bulk collection programs were discovered as a result of
+Department of Justice (DOJ) reviews and internal NSA oversight. However, neither DOJ, NSA,
+nor the FISA Court has found any intentional or bad—faith violations. _
+
+E||
+
+accordance with the Court’s rules, upon discovery, these inconsistencies were reported as
+compliance incidents to the FISA Court, which ordered appropriate remedial action. The FISA
+Court placed several restrictions on aspects of the business records collection program until the
+
+compliance processes were improved to its satisfaction. —
+
+(U) The incidents, and the Court’s responses, were also reported to the Intelligence and
+Judiciary Committees in great detail. The Committees, the Court and the Executive Branch have
+responded actively to the incidents. The Court has imposed safeguards that, together with
+greater efforts by the Executive Branch, have resulted in signiﬁcant and effective changes in the
+compliance program.
+
+(U) All parties will continue to report to the FISA Court and to Congress on compliance
+issues as they arise, and to address them effectively.
+

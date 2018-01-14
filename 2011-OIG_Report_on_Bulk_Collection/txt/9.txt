@@ -1,0 +1,42 @@
+TOP-SEW
+
+Intelligence Value of the Collection
+
+W As noted, these two collection programs signiﬁcantly strengthen the
+Intelligence Community’s early warning system for the detection of terrorists and discovery of
+plots against the homeland. They allow the Intelligence Community to detect phone numbers
+and e—mail addresses within the United States that may be contacting targeted phone numbers
+and e—mail addresses associated with suspected foreign terrorists abroad and vice—versa; and
+entirely domestic connections between entities within the United States tied to a suspected
+foreign terrorist abroad. NSA needs access to telephony and e-mail transactional information in
+bulk so that it can quickly identify and assess the network of contacts that a targeted number or
+
+address is connected to. whenever there is RAS that the tar eted number or address is associated
+with—
+
+—Importantly, there are no intelligence collection tools that, independently or in
+combination. provide an equivalent capability.
+
+WTO maximize the operational utility of the data, the data cannot be collected
+prospectively once a lead is developed because important connections could be lost in data that
+was sent prior to the identiﬁcation of the RAS phone number or e-mail address. NSA identiﬁes
+the network of contacts by applying sophisticated analysis to the massive volume of metadata —
+but always based on links to a number or e-mail address which itself is associated with a
+counterterrorism target. (Again, communications metadata is the dialing, routing, addressing or
+signaling information associated with an electronic communication, but n_ot content ) The more
+metadata NSA has access to, the more likely it is that NSA can identify, discover and understand
+the network of contacts linked to targeted numbers or addresses Information discovered through
+NSA’s analysis of the metadata is then provided to the appropriate federal national security
+agencies, including the FBI, which are responsible for further investigation or analysis of any
+potential terrorist threat to the United States.
+
+************************
+
+W In conclusion, the Section 215 and pen/trap bulk collection programs
+provide an important capability to the Intelligence Community. The attacks of 9/11 taught us
+that applying lead information from foreign intelligence in a comprehensive and systemic
+fashion is required to protect the homeland, and the programs discussed in this paper cover a
+critical scam in our defense against terrorism. Recognizing that the programs have implications
+for the privacy interests of US. person data, extensive policies, safeguards, and reviews have
+been enacted by the FISA Court, DOJ, ODNI and NSA.
+
