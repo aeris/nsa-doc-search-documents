@@ -1,0 +1,50 @@
+TOP SECRET/fCOMINT/IREL TO USA, AUS, CAN, GBR, NZL/l20320108
+
+IQ
+
+(Uf/FOUO) P0("Ir—R22 ~—
+
+(UIIFOUO) Sandia Trip Highlights R225's Anti-Tamper Research Progress
+
+(Sf/REL) Use of commercial components in a high assurance solution for national security
+applications will require physical protection mechanisms. In the past, with government built
+solutions, anti—tamper was part of the design and manufacture process. Today, use of COTS
+will require the government to apply these protections after production. R225’s Intelligent
+Reaction Anti—Tamper (AT) research program showcased the ability to provide these physical
+protection mechanisms at a recent program review at Sandia National Laboratories.
+
+(Sf/REL) Several key technologies were demonstrated:
+0 Multi—layer conformal AT on printed circuit boards with integrated control logic;
+0 iPhones with hard aftermarket device encapsulation; and
+0 Chip packages retrofitted with active anti—tamper capability, including internal power.
+
+(Sf/REL) Remaining FY08 research into conformal AT technology will support R223’s
+secure token effort. Starting in FY09, I823 will assume full responsibility for further
+deve10pment of this AT technology as a part of R225’s partnerships forged to realize a full
+life cycle: from research through implementation. R225 and I823 are working together to
+advance the aftermarket device encapsulation technology to the same level of technical
+readiness, with SID’s NUCLEARWINTER team as a potential initial customer. R225 will
+continue research on the modified chip packaging technology in FY09, and will work with
+IAD to identify potential end-users.
+
+(Ia/pom) Poe: —and_R225,—
+
+(UIIFOUO) R225lDepartment of Energy Engagement Yields Idaho
+National Labs Research
+
+(Sf/REL) Researchers from Idaho National Labs (INL) visited NSA on 26 August 2008 to
+demonstrate INL progress on research into secure erasure for commercial memory modules.
+INL is moving towards a method of retrofit zeroization capability for synchronous dynamic
+random access memory (SDRAM) in commercial desktOps, with an initial prototype expected
+by the end of FY08. This work is similar to R225’s Adaptive Zeroization research, but trades
+greatly reduced applicability and sc0pe for lower risk. Personnel from R225, IAD’s
+Microelectronics Anti—Tamper Solutions Branch (18231), and IAD’s Cryptographic Engines,
+Modules, and Tokens Division (I853) participated in the discussion. This research was
+sponsored by R225, and funded by the Department of Energy’s 2008 Applied Technologies
+Program. R225 is beginning discussions with its IAD partners to determine the best way to
+move forward with integrating INL’s work into NSA’s future anti—tamper mission.
+
+(rm/pom) POO—R225,—
+
+TOP SECRET/lCOMINT/lREL TO USA, AUS, CAN, GBR, NZL/l20320108
+

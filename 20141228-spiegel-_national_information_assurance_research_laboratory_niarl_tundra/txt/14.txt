@@ -1,0 +1,55 @@
+TOP SECRET/lCOMINT/IREL TO USA, AUS, CAN, GBR, NZL/l20320108
+
+minimal wait time for the analyst. GraphViz is a Java application and uses Renoir as its
+graphing engine. As an added component of the POPEYESEAR interface, GraphViz is
+accessible to all NTOC operational analysts via the GROUPDIVE/BLUESASH network.
+
+(Ul/FOUO) Poc:_R23_
+
+'1'?V????VV?VV?VV‘FVV‘FVV‘FVV‘FVV???Tf‘VT'VT'VT'VT'VT'VT'VT'
+
+(Ul/FOUO) Personnel News
+
+(U/IFOUO) Visiting Researchers in R21:
+
+0 (U/fFOUO) Recent arrivals in R21 include—of the Cryptologic
+Mathematician Program, who will be conducting research in Elliptic Curves, anc-
+ol the Applied Mathematics Program, who will be conducting research in
+Quantum Computing. In addition, _Topielec of the Cryptanalysis
+Development Program will be arriving soon to begin conducting research in
+Cryptographic Hash Functions.
+
+0 (U/fFOUO) At any given time, R21 typically hosts between 5 and 10 visiting
+researchers, mostly participants in the various math development programs at the
+Agency. These 6 to 9 month tours are a staple of the development program experience,
+and are coordinated through the R21 “intern czar"— Persons interested in
+learning more about tour opportunities in R21 should contact irectly to get an
+overview of the office and to learn about currently available projects. (POC: --
+
+—R213,
+(U/IFOUO) Hail to R22 Newcomers:
+
+. (U/IFOUO)— SNIP (System and Network Interdisciplinary Pro gram]-
+of 2011, will join R224: Secure Wireless Multimedia Focus Area, for a tour, starting
+Sept 15. Justin will be working on CLARIFYMIND-TS, specifically looking at
+available entropy sources, plus how to gather and provide them to the Random
+Number Generator within the CM—TS architecture. R21’s draft paper entitled A
+Preliminary Architecture for a Software Randomizer for CM—TS will provide the
+
+basis fOI-work- (POC:—
+
+. (UHFUU Ui= recently joined R222 as a Lead Researcher after completing
+a PCS at GCHQ. A mathematician from the CMP class of 2000,-brings a wide
+variety of relevant hardware and software experience across a range of projects,
+encompassing Field Programmable Gate Array (FPGA) design, error correcting codes,
+high spﬂ synchronization techniques and protocols to name a few. Throughout his
+career, ! has won high regard as a leader and a mentor. E15 a member of the
+High Speed Electronics team, where his initial focus will be on emerging
+
+technologies. (POC:—
+
+(U/IFOUO) Visiting Researchers in R23:
+14
+
+TOP SECRET/lCOMINT/lREL TO USA, AUS, CAN, GBR, NEH/20320108
+

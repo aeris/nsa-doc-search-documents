@@ -1,0 +1,47 @@
+TOP SECRET/fCOMINT/IREL TO USA, AUS, CAN, GBR, NZL/l20320108
+
+(UIIFOUO) Key Management lModeling Research
+
+(U/fFOUO) R21 is approaching two significant milestones in Key Management Modeling
+(KMM) research. First, the researchers appear to have found a proof and analysis technology
+that is robust enough to do meaningful formal analysis of real key management systems.
+KMM is now making use of the Cryptographic Protocol Shapes Analyzer (CPSA) developed
+under contract to R213. CPSA was designed to analyze cryptographic protocols so KMM is
+now expressing key management systems as hi gh—level protocols in order to apply CPSA.
+The KMM researchers have been working with Mitre, and changes to CPSA have already
+been made to enable it to be applied to KMM more directly.
+
+(Cl/REL) Additionally, KMM is being used for the first time to model a real—world key
+management system. The United Kingdom (UK) is designing a new key management
+architecture as part of its Secure Management Infrastructure (S MI) effort. The initial UK
+architecture is simple enough to make it a good candidate for modeling while still allowing
+analysis to be accomplished on a real system. Furthermore, the UK has its own project to
+produce a formal Specification of the key management architecture in Z, which will provide
+invaluable input to KMM. A draft model is currently under development, and if sufficient
+progress is achieved, R21 will be presenting the results at the 5-Eyes Key Management
+Strategy Group [KMSG) in Ottawa in October 2008.
+
+(U/IFOUO) P00 —R212«—
+
+lull-iii“.dbl-iCHI-iii!iii-iiii-i«IMO-i«ti-1in}!ﬁfiﬁfﬁﬁf‘ﬁfﬂﬁfﬁﬁfiﬁfiﬁfﬁﬁf
+(U) IA Engineering Exchange:
+
+(U/fFOUO) For general information on R22 IA Engineering Research’s capabilities and
+current efforts, please visit the R2 web sit— or use the R22
+wiki link: —
+
+(U) The Research Journey from Passion to Prototype
+
+(U/fFOUO) As noted in the NIARL Director’s introduction, Research Integration [R223) is
+the NIARL Focus Area responsible for taking IA discoveries into the research prototype and
+demonstration stage. Along the way, the team explores and addresses critical assurance
+challenges facing our current information infrastructure, as well as those emerging against our
+future systems.
+
+(U/fFOUO) To explore the goals of Research Integration, let’s follow some distinct research
+
+efforts from their origins toward the integrated prototype and demonstration stage. For this
+example, we’ll use a well—understood assurance problem given our current operational
+
+TOP SECRETf/COMINTI/REL TO USA, AUS, CAN, GBR, NEH/20320108
+

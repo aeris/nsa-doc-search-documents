@@ -1,0 +1,49 @@
+TOP SECRET/fCOMINT/IREL TO USA, AUS, CAN, GBR, NZL/l20320108
+
+(UI/FOUO) So while “passion” for IA discovery is not unique to Research Integration, our
+objective is to put these advanced technologies into a form that highlights their potential to
+address significant assurance questions. No matter the origin, the potential technology
+solutions that emerge from IA research are designed for significant breakthrough. However, a
+particular innovation, in and of itself, provides limited benefit unless it can advance the
+science, solve a problem, and ultimately reach customers. The aim of the R223 Research
+Integration team is to reach those customers and showcase the potential for NIARL research
+to become a decisive advantage against network adversaries. Please contact us if you would
+like to learn more about our research efforts and see our latest creations.
+
+(U/IFOUO) POC: l—Chief R2294—
+
+(U) R222. iPhotonic Logic Program Review at Sandia National
+Laboratories
+
+(UI/FOUO] From 19-21 August 2008,I_and -——)f R22, and-
+
+all of R222. attended an annual
+review at Sandia National Laboratories to assess progress and provide direction to Sandia on
+two multi—year photonic logic R&D projects aimed at performing all—Optical Boolean logic at
+IOOGbps clock cycles or faster.
+
+(UI/FOUO) The first photonic logic technology is based on a Photodiode ElectrO—Absorption
+Modulator ‘(PD-EAM). Recent accomplishments include the design and fabrication of an
+optical AND gate, prediction via detailed models of >100GHZ switching speeds,
+demonstration of a proof of concept multi—element AND gate at MHZ frequencies, and
+demonstration of low contrast, >20GHZ optical modulation of a PD—EAM pair. A near-term
+challenge is the demonstration of an Optical logic gate Operating at 10+GHZ switching.
+
+(U/fFOUO) The second effort is the Extremely Shallow Quantum Well Symmetric Self
+Electro-Optic Effect Device (ESQW-S-SEED, or SEED). Sandia has successfully fabricated
+and tested a SEED interconnect, fabricated by diamond turning a moldable plastic. This
+interconnect, with anti—reflection coatings, is predicted to attain close to 95% throughput. A
+4OGb/s SEED toggle was also reported, but not yet cascaded. A physical model for SEED
+switching was devised and initial results suggest that the Optical power for reliable cascade
+may be 2—5); higher than anticipated.
+
+(UI/FOUO) The critical milestone (2Q FY10) for these technologies is the successful
+demonstration of a 3—bit 4OGb/s Linear Feedback Shift Register (LFSR) research prototype.
+This demonstration of Small-Scale Integration (SSI) should provide sufficient data to enable
+an assessment of the scalability and ultimate clock rate of the technologies. The majority of
+this work is performed in Sandia's Microsystems and Engineering Science Applications
+(MESA) facility, expected to gain certification soon by the Trusted Access Program Office
+(TAPO).
+
+TOP SECRET/’lCOMINT/IREL TO USA, AUS, CAN, GBR, NEH/20320108
+

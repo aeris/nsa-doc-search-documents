@@ -1,0 +1,60 @@
+TOP SECRET/lCOMINT/IREL TO USA, AUS, CAN, GBR, NEH/20320108
+
+ 
+
+INFO-RHATIDWI “TheEDGE”
+
+A 5 5 u R A. N c E _ _
+National Information Assurance Research Laboratory (NIARL)
+
+R E 5 E A R c :I Science, Technology, and Personnel Highlights
+
+ 
+
+ 
+
+ 
+
+LABORATORY
+
+ 
+
+(U) Message from the NIARL Director:
+
+(U/I’FOUO) Welcome to the September 2008 edition of the National
+Information Assurance Research Laboratory (NIARL) newsletter. The
+NIARL is designated as the R2 organization within the NSA Research
+Directorate. NIARL/R2 is responsible for conducting and sponsoring
+research in technologies and techniques needed to secure America‘s
+future information systems. While breaking new ground is certainly
+rewarding, the overall goal for this research and exploration is to
+identify concepts and solutions to reduce the Information Assurance
+(IA) risks facing our nation’s critical information systems.
+
+ 
+
+(Ul/FOUO) Within R2’s general IA research thrusts of Crypto—Math, IA Engineering, and
+Defensive Computing, there are specific “Focus Areas” dedicated to existing andfor
+anticipated critical challenges and technical IA risks. Focus Areas encompass topics such as
+Research Integration, High Confidence Software and Systems, Secure Wireless Multimedia,
+and Security Enhanced Operatin Environments. For a complete listing of R2 Focus Areas
+please refer to the R2 website at?
+
+(Ul/FOUO) In this issue of The EDGE we examine the Research Integration Focus Area and
+the associated IA research challenges of bringing research concepts together, providing
+relevant mission context, and presenting IA approaches to customers and stakeholders. R223
+leads the Research Integration Focus Area and is charged with shepherding IA concepts and
+innovations into the research prototype and demonstration stage. Please see the article “T_he
+Research Journey from Passion to Prototype” for a detailed discussion of this tapic.
+
+ 
+
+(Ul/FOUO) I am sincere—1v interested in your feedback and suggestions, and I ask that you
+email your comments to= R2 Office Manager, a_ We look
+forward to hearing from y—I—ou!
+
+Derived From: NSA/CSSM 1—52
+Dated: 20070108
+Declassify On: 20320108
+TOP SECRET/lCOMINT/IREL TO USA, AUS, CAN, GBR, NEH/20320108
+
