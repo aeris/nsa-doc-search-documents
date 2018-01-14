@@ -1,0 +1,81 @@
+TOP SECRET//SI//REL TO USA, F VEY
+
+ 
+
+Description of Information Classiﬁcation/Markings Reason Declass Remarks
+protected by one or more ECIs.
+
+(U//FOUO) See paragraph #2 at
+the beginning ofthis guide for
+details on how to mark
+BULLRUN information.
+
+(U//FOUO) Appendix A lists
+speciﬁc BULLRUN capabilities.
+
+(U) Contact CES CAO for
+further information.
+
+ 
+
+D.2. (U//FOUO) Cryptographic TOP SECRET//SI// 1.4 (c) 25 years* (U) Examples include algorithm
+information obtained from REL TO USA, FVEY/ parameters and passwords.
+BULLRUN capabilities BULLRUN
+at a minimum (U//FOUO) Details may be
+protected by one or more ECIs
+See Remarks. and/or the secure BULLRUN
+
+COI. In addition, details may
+need to be marked with the
+BULLRUN data label.
+
+(U//FOUO) See paragraph #2 at
+the beginning ofthis guide for
+details on how to mark
+BULLRUN information.
+
+(U//FOUO) Appendix A lists
+speciﬁc BULLRUN capabilities.
+
+(U) Contact CES CAO for
+further information.
+
+(U) 25 years*: Declassiﬁcation in 25 years indicates that the information is classiﬁed for 25 years from the
+
+date a document is created or 25 years from the date oﬁthis original classiﬁcation decision, whichever is
+
+later.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(U) ACRONYMS/DEFINITIONS:
+
+(U) Capabilities — For the purposes ofthis classiﬁcation guide, the NSA/CSS ability to exploit a speciﬁc
+technology. This may encompass acquiring and processing plaintext data and/or acquiring, decrypting and
+processing encrypted data.
+
+(U) HTTPS — HTTP trafﬁc secured inside an SSL/TLS session, indicated by the https:// URL, commonly
+using TCP port 443
+
+(U) IPSEC -- IPSec, or IP Security, is the Internet Engineering Task Force (IETF) standard for layer 3
+real—time communication security. IPSeC allows two hosts (or two gateways) to establish a secure
+connection, sometimes called a tunnel. All trafﬁc is protected at the network layer. (IETF is the Internet
+Engineering Task Force, a loosely self-organized group of people who contribute to the engineering and
+evolution of Internet technologies. It is the principal body engaged in the development of new Internet
+standard speciﬁcations.)
+
+5
+TOP SECRET//SI//REL TO USA, F VEY
+
