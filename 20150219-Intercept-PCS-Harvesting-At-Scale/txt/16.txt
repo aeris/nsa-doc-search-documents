@@ -1,0 +1,18 @@
+TOPSECRETSTRAPI
+
+networks now use more secure methods to transfer Kis, or targeting for those networks might
+be ineffective.
+
+In summary, the automated technique is unlikely to bring in very large batches of Ki data of
+the size produced with Ki generation schemes or received from partner repositories. However
+it can bring in a steady stream of data over a period of time. These smaller volumes can fill
+gaps where no other data is available, and also provide essential seed points from which Ki
+generation can be applied.
+
+16 of 24
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other UK
+information legislation. Refer disclosure requests to GCHQ on — (non-sec) or email I—
+
+TOPSECRETSTRAPI
+

@@ -1,0 +1,76 @@
+TOPSECRETSTRAPI
+
+2.1 Automated Technique
+
+Figure 2 describes 3 stages of the automated method developed.
+
+ 
+
+Automated pulling of
+data from bulk
+repositories
+
+ 
+
+Y
+
+Analytics identify
+interesting content
+
+ 
+
+ 
+
+‘7
+
+Data made available
+to other systems
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 2 - Automated Ki Harvesting
+Process
+
+Details of each stage is provided below:
+
+2.1.1 Bulk Data Retrieval
+
+ICTR provide a bulk data download capability using the research server
+LLANDARCYPARK. This was used to automate the queryng of C2C content in UDAQ.
+Given a standard SQL query wrapped in an XML form this will return a package containing
+all matching C2C intercept.
+
+A base query, a proximity search for the strings ‘IMSI’ and ‘Ki’, was used for this experiment.
+This can be seen in Appendix 1. Date fields are marked with placeholders so these can be
+automatically filled out using regular expressions at run time.
+
+Results are returned as a compressed file containing a CCDF2 mesh. A routine was then
+written to unpack this mesh, allowing results to be treated from then on as a set of plain text
+
+files.
+
+Scripts were developed to perform all steps of the operation automatically, retrieving
+packaged data to be interpreted by the user (reference 6). This operates as follows:
+
+The script JrunRemoteQuery.sh is used to launch the process. This:
+
+0 Requests a date range to query
+0 Rewrites the query XML file with required dates
+
+ 
+
+1 Cryptologic Common Data Format. Details are described in reference 4.
+
+70f 24
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other UK
+information legislation. Refer disclosure requests to GCHQ on — (non-sec) or email
+
+TOPSECRETSTRAPI
+

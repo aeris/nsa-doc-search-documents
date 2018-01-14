@@ -1,0 +1,81 @@
+TOPSECRETSTRAPI
+
+3.1 Activity of Networks
+
+Unique country codes identified in each of the time periods were correlated to produce the
+chart shown in Figure 3. Only networks with significant results are shown — raw data can be
+seen in Appendix 4.
+
+IMSIs Identified with Ki data for Network Providers
+
+100000 .
+
+10000
+
+ 
+
+ 
+
+—o— MOBTEL. SERBIA
+—O- —NOVA. ICELAND
+
+A IDEACL. INDIA
+—~— chc. AFGHANISTAN
+
+1000I
+
+—.— 'DCA,Al-GHANIS1AN
+—.—5A8AFN.VLMLN
+
+— —' ﬁMTN.YEMB\|
+
+_ _ -— - IRNCELJRAN
+
+— --4 'BABLN.TAJIKSTAN
+—O—TE.ES.SWALIA
+
+100
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+14-Jan-10 28-Jan-10 11-Feb-10 25-Feb- 10 11-Mar- 10 25-Mar-10
+Date range
+
+Figure 3 - IMSIs identified with Ki data for Network Providers
+
+This shows the number of IMSIs found with Ki data in each period for the providers shown,
+portraying a steady rate of activity from several networks of interest. New Ki and IMSI pairs
+are regularly seen for AWCC, TDCA and MTN.
+
+A large batch of Somali Kis was recovered in mid—March using this automated process.
+Somali providers are not on GCHQ’s list of interest, hence it is likely this item would have
+been missed by manual collection, however this was usefully shared with NSA. A number of
+other unexpected providers were brought to light including Babilon-Mobile in Tajikistan and
+Icelandic provider Nova 3G.
+
+This has demonstrated that an automated Ki recovery method can effectively identify IMSI
+and Ki pairs from bulk C2C sources for key targets, with the added benefit of identifying
+content that would not normally come to analyst attention. The chart presented provides an
+overview of networks accessible in C2C repositories.
+
+3.2 Target Discovery
+
+11 of 24
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other UK
+information legislation. Refer disclosure requests to GCHQ on — (non-sec) or email |—
+
+TOPSECRETSTRAPI
+

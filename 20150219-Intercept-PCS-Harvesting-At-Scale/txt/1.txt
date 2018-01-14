@@ -1,0 +1,53 @@
+TOP SECRET STRAPl
+
+Reference: OPC-TDSD/T ECH/21
+Date: 27Lh April 2010
+
+PCS Harvesting at Scale
+
+—(opc-TDSD)
+—(0Pc-TDSD)
+— (UPC-CAP)
+—(0Pc-Tnsm
+
+Summary
+
+This report explores the introduction of an automated approach to Ki harvesting in OPC-
+TDSD with the aim of increasing the volume of keys that can be collected. Methods are also
+explored to use data from the automated system to assess the effectiveness of current
+techniques and improve TDSD’s knowledge of mobile network operations. Work was carried
+out between January and April 2010 in OPC-TDSD and OPC-CAP.
+
+Distribution (all softcopies, via email)
+
+OPC-TDSD (—
+—)
+
+OPC-HQ (l_)
+
+OPC-CDP 0—)
+
+OPC-MCR (l—)
+
+ICTR _)
+
+UPC-CAP (—
+CPD-GTAC (—
+
+NSA l—
+
+TDB (l—)
+
+OPD-SDH (l—)
+
+TEA '—
+
+lof 24
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other UK
+information legislation. Refer disclosure requests to GCHQ on (non-sect or email -
+
+TOP SECRET STRAPl
+
+ 
+

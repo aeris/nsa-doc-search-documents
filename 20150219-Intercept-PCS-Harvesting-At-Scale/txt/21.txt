@@ -1,0 +1,70 @@
+TOP SECRET STRAPl
+
+ 
+
+ 
+
+12 -bluefish .com
+
+ 
+
+18 ‘grameenphone. com
+UDAQ Item Identifiers used:
+8 items
+
+1
+
+1
+
+2
+
+3
+
+6
+
+7
+
+7
+
+7
+
+Country Codes:
+16 items
+
+4 421020
+8 340041
+8 612060
+9 404040
+10 410011
+12 220018
+16 412012
+18 404120
+26 648032
+40 452048
+40 510890
+42 470010
+56 220020
+99 404041
+
+108 220012
+809 412200
+
+IMSIS:
+473 items
+1
+
+ 
+
+NNNNH
+
+ 
+
+21 of 24
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on I—I (non-sec)
+
+or email_
+TOP SECRET STRAPI
+
+ 
+
