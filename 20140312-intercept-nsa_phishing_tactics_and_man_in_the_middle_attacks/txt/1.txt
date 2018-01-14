@@ -1,0 +1,18 @@
+—
+FOXACID these days...
+
+XSS is becoming less and less viable with each passing day. It’s just
+too hard to develop and too easy to circumvent. Because of this (and
+other technical/OPSEC issues), the bulk spam mission is becoming
+less and less viable as well.
+
+The new exploit hotness is Quantum. Certain Quantum missions have
+a success rate as high as 80%, where spam is less than 1%.
+
+So, as spam and in-line XSS slowly fade away, the new eXploit
+development push is for those utilizing MitM or MotS capabilities, as
+well as many other very unique techniques.
+
+Bottom line — if we can get the target to visit us in some sort of web
+browser, we can probably own them. The only limitation is the “how”.
+

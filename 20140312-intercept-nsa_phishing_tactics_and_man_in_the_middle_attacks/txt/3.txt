@@ -1,0 +1,16 @@
+—
+SECONDDATE
+
+° SECONDDATE is an exploitation technique that takes advantage of
+web-based protocols and man-in-the-rniddle (MitM) positioning.
+
+0 SECONDDATE inﬂuences real-time communications between client
+and server and can quietly redirect web-browsers to FA servers for
+individual client exploitation.
+
+- This allows mass exploitation potential for clients passing through
+network choke points, but is configurable to provide surgical target
+selection as well.
+
+ 
+
