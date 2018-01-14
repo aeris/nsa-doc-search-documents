@@ -1,0 +1,15 @@
+ 
+
+ 
+
+Filtered pairing
+event[B->A]
+event[E->F]
+.9
+event[A->B]
+event[C->|2]
+
+ 
+
+ 
+
