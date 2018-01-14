@@ -1,0 +1,46 @@
+TOP SECRET H COMINT
+
+I * Communications Security Centre de la sécurité
+Establishment Canada des telecommunications Canada
+
+ 
+
+ 
+
+ 
+
+WP SLIPSTREAM output... drivers
+(parsed)
+
+Implantld: <51.8.1.13>
+Timestamp (UTC): ZOIOIOZIOQ 06:42:43
+
+ 
+
+ 
+
+PAGE : 1 of 1
+i i i i i i i
+SCM|Driver Name |Status |Startup Type |Driver Type |Disp|ay Name |Binary Path
+i I i i i i i i
+|ntoskrnl.exe |RUNNING | | | |C:\WINDOWS\system32\ntoskrnl.exe |
+|hal.dll |RUNNING | | | |C:\WINDOWS\system32\hal.dll |
+|KDCOM.DLL |RUNNING | | | |C:\WINDOWS\system32\KDCOM.DLL
+|
+|BOOTVID.dII |RUNNING | | | |C:\WIN DOWS\system32\BOOTVI D.d||
+|
+|ACPI.sys |RUNNING | | | |ACPI.sys |
+|WMILIB.SYS |RUNNING | | | |C:\WINDOWS\system32\DRIVERS\WMILIB.SYS
+|
+|pci.sys |RUNNING | | | |pci.sys |
+|isapnp.sys |RUNNING | | | |isapnp.sys |
+|pciide.sys |RUNNING | | | |pciide.sys |
+|PCIIDEX.S\|’S |RUNNING | | | |C:\WINDOWS\system32\DRIVERS\PCIIDEX.SYS
+|MountMgr.sys |RUNNING | | | |MountMgr.sys |
+|ftdisk.sys |RUNNING | | | |ftdisk.sys |
+|dmload.sys |RUNNING | | | |dm|oad.sys |
+|dmio.sys |RUNNING | | | |dmio.sys |
+|Vo|snap.sys |RUNNING | | | |volsnap.sys |
+Safeguarding Canada’s security through information superiority C dlt'l
+Préserver ia sécurité du Canada par ia supériorité de i’information 31181 a
+

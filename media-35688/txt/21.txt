@@ -1,0 +1,27 @@
+TOP SECRET II COMINT
+
+I * Communications Security Centre de la sécurité
+Establishment Canada des telecommunications Canada
+
+ 
+
+ 
+
+ 
+
+CCNE operations — Covert Infrastructure
+
+- Some fusion of the WP and CCNE infrastructures
+— Dedicated ORB for CCNE
+— Unattributed dialups to the ORB
+
+° Philosophy: use low hanging fruits against the actors
+(public exploits and tools if available)
+
+- Discussions regarding repurpose of foreign toolkits
+
+- De-confliction
+
+Safeguarding Canada’s security through information superiority C dl‘“
+Préserver la sécurité du Canada par la supériorité de l’information 311a a
+

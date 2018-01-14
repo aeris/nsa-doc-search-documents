@@ -1,0 +1,27 @@
+TOP SECRET II COMINT
+
+I * I Communications Security Centre de la sécurité
+Establishment Canada des telecommunications Canada
+
+ 
+
+ 
+
+ 
+
+WP xml output (raw)
+
+<?xml version="1.0” encoding="UTF-8"?>
+
+<response xmlns:xsi="http://www.w3.org/ZOOl/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="U_FiIeCollectoer/U_FileCol|ectoer_2.15.xsd"><implantl
+d>51.1.2.160<limplantld><transaction><transactionSource>50.0.0.101<ltransactionSource><tr
+ansactionld>320453<ltransactionld><ltransaction><timestamp><TLT>2010-02-
+23T15:53:06.366</TLT><UTC>2010-02—
+23T15:47:43.448</UTC></timestamp><errors><errorPlugin>O<lerrorPlugin><errorOs>O<lerror
+Os><lerrors><command|nfo>fcstart<lcom mand|nfo><responseDetaiIs><fcstart><status>8ucce
+ss<lstatus><stand byMode>FALSE<lstandbyMode><lfcstart><lresponseDetai|s><lresponse>
+
+Safeguarding Canada’s security through information superiority C dl‘“
+Préserver ia sécurité du Canada par ia supériorité de i’information 31131 a
+

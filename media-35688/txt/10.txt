@@ -1,0 +1,65 @@
+TOP SECRET II COMINT
+
+ 
+  
+
+I * I Communications Security Centre de la sécurité
+Establishment Canada des telecommunications Canada
+
+WP SLIPSTREAM output (parsed)
+
+[2010/05/18 - 16:28:05 (UTC)] Transaction Id: 582966
+U_SLIPSTREAM - <ssservices>
+
+Implantld: <51.8.1.13>
+
+Timestamp (UTC): 2010/02/09 06:42:42
+
+ 
+
+ 
+
+PAGE : 1 of 1
+
+------- Immmmmmmmmmem+mmmm4mmmmmvmmmmmmPmmmmmmmmmmmmmmmmmmmnmmmmmmmmmmmmmmmmmmmmmmm
+
+PID |Service Name | |Status |Startup Type |Service Process TypelDispIay Name |Binary Path
+
+------- |||||||
+
+924 |AeLookupSvc |RUNNING |AUTOMATIC |SHARED Application Experience Lookup Service |
+C:\WINDOWS\system32\svchost.exe -k netsvcs
+
+0 |A|erter |STOPPED |DISABLED |SHARED |A|erter |C:\WINDOWS\system32\svchost.exe -k
+LocaIService |
+
+3184 |ALG |RUNNING |MANUAL |OWN PROCESS |App|ication Layer Gateway Service |
+C:\WINDOWS\System32\alg.exe |
+
+0 |Apngmt |STOPPED |MANUAL |SHARED |App|ication Management |C:\WINDOWS\system32\svchost.exe
+-k netsvcs |
+
+924 |AudioSrv |RUNNING |AUTOMATIC |SHARED |Windows Audio |C:\WINDOWS\System32\svchost.exe
+-k netsvcs |
+
+0 |BITS |STOPPED |MANUAL |SHARED |Background Intelligent Transfer Service |
+C:\WINDOWS\system32\svchost.exe -k netsvcs |
+
+0 |Browser |STOPPED |AUTOMATIC |SHARED |Computer Browser |C:\WINDOWS\system32\svchost.exe
+-k netsvcs |
+
+1028 |ccEvtMgr |RUNNING |AUTOMATIC |SHARED |Symantec Event Manager |"C:\Program Files\Common
+Files\Symantec Shared\ccSvcHst.exe" lh ccCommon |
+
+1028 |ccSetMgr |RUNNING |AUTOMATIC |SHARED |Symantec Settings Manager |"C:\Program Files\Common
+Files\Symantec Shared\ccSvcHst.exe" lh ccCommon |
+
+1708 Cissesrv |RUNNING |AUTOMATIC |OWN PROCESS |HP Smart Array SAS/SATA Event Notification Service |"C:\Program
+
+iles\HP\Cissesrv\cissesrv.exe" |
+0 |CiSvc |STOPPED |DISABLED |SHARED |Indexing Service |C:\WINDOWSisystemSZlcisvcexe
+|
+0 |C|ipSrv |STOPPED |DISABLED |OWN PROCESS |C|ipBook
+Safeguarding Canada’s security through information superiority C dl‘“
+Préserver la sécurité du Canada par la supériorité de l’information 31131 a
+

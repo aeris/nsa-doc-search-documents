@@ -1,0 +1,35 @@
+TOP SECRET H COMINT
+
+ 
+  
+
+Establishment Canada des telecommunications Canada
+
+SNOWGLOBE implant
+
+I * I Communications Security Centre de la sécurité
+
+ 
+
+ 
+
+ 
+
+- Injects itself in svchost.exe
+- No cloaking / no hooking
+
+° Bootstraps in service called MSDTC64 (distributed
+transaction coordinator 64b
+
+° Service entry is permanent
+
+- Executable kept on disk in system32
+- Crypto: 16 byte string XOR
+
+° http beacons and tasking
+
+° Actor observed upgrading on target
+
+Safeguarding Canada’s security through information superiority C dI“
+Préserver ia sécurité du Canada par ia supériorité de l ’information Elna a
+

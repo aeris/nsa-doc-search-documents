@@ -1,0 +1,32 @@
+TOP SECRET II COMINT
+
+I * Communications Security Centre de la sécurité
+Establishment Canada des telecommunications Canada
+
+CNE Toolkit: WARRIORPRIDE ‘
+
+ 
+  
+
+ 
+
+ 
+
+° WARRIORPRIDE (WP):
+— Scalable, Flexible, Portable CNE platform
+— Unified framework within CSEC and across the 5 eyes
+
+— Do more with less effort
+' Common framework for sharing code/plugins across the 5 eyes
+- WARRIORPRIDE is an implementation of the “WZOWSKI” 5-eyes API
+
+— WARRIORPRIDE@CSE/etc. == DAREDEV|L@GCHQ
+
+° WARRIORPRIDE
+
+— xml command output to operators
+— Several plugins used for machine recon / OPSEC assessment
+
+Safeguarding Canada’s security through information superiority C dl‘i'l
+Préserver ia sécurité du Canada par ia supériorité de l’information 311a a
+
