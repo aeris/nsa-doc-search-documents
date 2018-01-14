@@ -1,0 +1,31 @@
+“‘ TOP SECRET // COMINT // REL TO USA, AUS, CAN, GBR, NZL
+
+CES/SSC/AAD VPN “Surge”
+
+Speciol Collection Service
+
+ 
+
+- Main Goal:
+
+— To evaluate SCS VPN access and analysis to determine better methods
+of identifying and exploiting networks of interest.
+
+- Two Focuses:
+— What can we do with VPN data that is already ingested into the system?
+
+- Find better methods of reporting VPN stats and exploitation
+determinations from CES back to SSC and site.
+
+— ’Are there methods to better identify and survey VPN’s to provide CES
+the data they need?
+
+- Can we leverage MIRROR, D'ARKQUEST, PANOPLY survey
+information to quickly identify and report the presence of VPN’s in
+surveyed signals?
+
+- Can we use BIRDWATCHER or other means to automatically
+resurvey for key exchanges and obtain paired collect?
+
+TOP SECRET Ii COMINT '1 REL TO USA, AUS, CAN, GBR, NZL
+
