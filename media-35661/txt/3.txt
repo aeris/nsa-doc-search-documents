@@ -1,0 +1,49 @@
+SBZBS/InternProjects - WikiInfo
+
+8: SMEs but would own the project and be responsible for it.
+
+[edit] (U) ARGYLEALIEN
+
+(TS/lSI/lREL FVEY)There is a security feature built into many modern
+hard—drives that allows for zeroization. We want to use this feature to cause
+the loss of data. Intern would be working closely with a POLITERAIN
+engineer to develop a solution that would work on multiple vendors
+leveraging Persistence divisions SMES, investigating via experimentation.
+Intern would learn about hard—drive recovery, reverse engineering,
+hard—drive architecture and much more.
+
+[edit] (U) BARNFIRE
+
+(TS/lSI/lREL FVEY)This attack effort will erase the BIOS on a brand of
+servers that act as a backbone to many rival governments. An intern working
+on this project would need to be a *nix expert with experience with low—level
+development experience of multiple types and reverse engineering
+experience. Intern would be working and learning from SMEs during this
+development. First tour interns would not be considered for this project.
+
+[edit] (U) Hard Drive Recovery
+
+(TS/lSI/lREL FVEY) When someone really needs the information off of a
+damaged hard drive, they call Persistence. This would be a unique tour
+learning from a world—class expert how to ﬁx hardware and ﬁrmware
+problems. You would be working on targets, extracting data, troubleshooting
+hardware, rebuilding SCSI arrays, and using analytical engineering skill to
+produce real collection. Position requires good hearing for some of the
+troubleshooting. Intern should know how to solder.
+
+[edit] (U) IRATEMONK
+[m] (TS/lSI/IREL) SSD Support
+
+(TS/lSI/lREL) Integrate SSD research into IRATEMONK products. This will
+involve 4 different parts:
+
+0 (TSI/SI/IREL) Leveraging research to create ARM—based SSD implant.
+This works involves reverse engineering SSD ﬁrmware and creating C
+and ARM assembly code to place inside of a ﬁrmware image to
+implement the IRATE MONK algorithm.
+
+- (TSI/SI/IREL) Create version of the IMBIOS code that supports the SSD
+implant. This code runs on the x86 host and involves writing both C and
+
+30f13
+
