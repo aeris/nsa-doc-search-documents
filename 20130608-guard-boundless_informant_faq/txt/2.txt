@@ -1,0 +1,64 @@
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+BOUNDLESSINFORMANT — Frequently Asked Questions
+09-06-2012
+
+ 
+
+ 
+
+' (U//FOUO) Analysts looking for additional sites to task for coverage of a particular
+technology within a speciﬁc country.
+
+3) What are the different views?
+(U//FOUO) Map View — The Map View is designed to allow users to view overall DNI, DNR, or
+aggregated collection posture of the agency or a site. Clicking on a country will show the collection
+posture (record counts, type of collection, and contributing SIGADs or sites) against that particular
+country in addition to providing a graphical display of record count trends. In order to bin the records
+into a country, a normalized phone number (DNR) or an administrative region atom (DNI) must be
+populated within the record. Clicking on a site (within the Site Speciﬁc view) will show the viewshed
+for that site — what countries the site collects against.
+
+(U//FOUO) Org View — The Organization View is designed to allow users to view the metadata record
+counts by organizational structure (i.e. GAO — SSO — RAM-A — SPINNERET) all the way down to the
+cover term. Since it’s not necessary to have a normalized number or administrative region populated,
+the numbers in the Org View will be higher than the numbers in the Map View.
+
+(U//FOUO) Similarity View — The Similarity View is currently a placeholder view for an upcoming
+feature that will graphically display sites that are similar in nature. This can be used to identify areas
+for a de-duplication effort or to inform analysts of additional SIGADs to task for queries (similar to
+
+Amazon’s “ifyou like this item, you’ll also like these” feature).
+
+4) (U) Where do you get your data?
+(U//FOUO) BOUNDLESSINFORMANT extracts metadata records from GM-PLACE post-
+FALLOUT (DNI ingest processor) and post-TUSKATTIRE (DNR ingest processor). The records are
+enriched with organization information (e.g. SSO, FORNSAT) and cover term. Every valid DNI and
+DNR metadata record is aggregated to provide a count at the appropriate level. See the different views
+question above for additional information.
+
+5) (U) Do you have all the data? What data is missing?
+' (U//FOUO) The tool resides on GM-PLACE which is only accredited up to TS//SI//NOFORN.
+Therefore, the tool does not contain ECI or FISA data.
+' (U//FOUO) The Map View only shows counts for records with a valid normalized number
+(DNR) or administrative region atom (DNI).
+
+' (U//FOUO) Only metadata records that are sent back to NSA-W through FASCIA or
+FALLOUT are counted. Therefore, programs with a distributed data distribution system (e.g.
+MUSCULAR and Terrestrial RF) are not currently counted.
+
+' (U//FOUO) Only SIGINT records are currently counted. There are no ELINT or other “INT”
+records included.
+
+6) (U) Why are you showing metadata record counts versus content?
+(U//FOUO)
+
+7) (U) Do you distinguish between sustained collect and survey collect?
+(U//FOUO) The tool currently makes no distinction between sustained collect and survey collect. This
+feature is on the roadmap.
+
+BOUNDLESSINFORMANT — FAQ Page 2 0
+
+ 
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+
