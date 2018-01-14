@@ -1,0 +1,11 @@
+Page 156
+
+XKS HTTP Activity Search
+
+Another common query is analysts who
+want to see all traffic from a given IP
+address (or IP addresses) to a specific
+website.
+
+ 
+

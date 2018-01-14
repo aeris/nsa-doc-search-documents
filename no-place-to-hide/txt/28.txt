@@ -1,0 +1,27 @@
+Pagell4
+
+{TSf/SII/NF} New Skype Stored Comms Capability For PRISM
+
+ 
+
+By [ NAME REvoTED ] on 2013—94—93 @631
+
+ 
+
+{TS//SI//NF) PRISM has a new collection capability: Skype stored
+communications. Skype stored communications will contain unique data which
+is not collected via normal real—time surveillance collection. SSO expects
+to receive buddy lists, credit card info, call data records, user account
+info. and other material. On 29 March 2813, SSO forwarded approximately 2008
+Skype selectors for stored communications to be adjudicated in SV41 and the
+Electronic Communications Surveillance Unit (ECSU) at FBI. sv41 had been
+working on adjudication for the highest priority selectors ahead of time and
+had about 103 ready for ECSU to evaluate. It could take several weeks for
+SU41 to work through all 2660 selectors to get them approved. and ECSU will
+likely take longer to grant the approvals. As of 2 April, ESCU had approved
+over 30 selectors to be sent to Skype for collection. PRISM Skype collection
+has carved out a vital niche in NSA reporting in less than two years with
+terrorism, Syrian opposition and regime, and exec/special series reports
+being the top topics. Over 2880 reports have been issued since April 2811
+based on PRISM Skype collection, with 76% of them being single source.
+

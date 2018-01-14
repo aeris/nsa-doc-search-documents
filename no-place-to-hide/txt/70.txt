@@ -1,0 +1,19 @@
+Page 155
+
+ 
+
+ 
+
+i Plug-in DESCRIPTION
+
+User Activity Indexes the Webmail and Chat activity to include
+username, buddylist, machine speciﬁc cookies etc.
+(AppProc does the exploitation)
+
+Document meta- Extracts embedded properties of Microsoft Ofﬁce
+
+data and Adobe PDF files, such as Authﬂl'} Organization,
+date created etc.
+
+ 
+

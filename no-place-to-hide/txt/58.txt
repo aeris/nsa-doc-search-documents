@@ -1,0 +1,53 @@
+Page 145
+
+1059p 2010
+
+CLOSE ACCESS SIGADS
+
+CLOSE ACCESS SIGADS
+
+All Close Access domestic collection uses the US—3136 SIGAD with a unique
+two-letter suffix for each target location and mission. Close Access overseas
+GENIE collection has been assigned the US—3137r SIGAD with a two-letter suf—
+
+fix.
+
+(Note: Targets marked with an * have either been dropped or are slated to be dropped
+in the near future. Please check with TAO/RTDIROS (961-15785) regarding authorities
+
+status.)
+
+SIGAD U573136
+
+ 
+
+ 
+
+SUFFIX TARGETICOUNTRY LOCATION COVERTERM MISSION
+
+BE Brazil/Emb Wash,DC KATEEL LIFESAVER
+SI BrazillEmb Wash,DC KATEEL HIGH LANDS
+V0 Brazil/UN New York POCOMOKE HIGHLANDS
+HN BraziliUN New York POCOMOKE VAGRANT
+LJ Brazil/UN New York POCOMOKE LIFESAVER
+YL * BulgarialEmb Wash, DC MERCED HIGHLANDS
+QX * Colombia/Trade Bureau New York BANISTER LIFESAVER
+DJ EUIUN New York PERDIDO HIGH LANDS
+SS EUIUN New York PERDIDO LIFESAVER
+KD EUIEmb Wash, DC MAGOTHY HIGH LANDS
+IO EU/Emb Wash, DC MAGOTHY MENERALIZ
+XJ EUiEmb Wash,DC MAGOTHY DROPMIRE
+OF France/UN New York BLACKPOOT HIGHLANDS
+VC France/UN New York BLACKPOOT VAGRANT
+UC FrancelEmb Wash, DC WABASH HIGHLANDS
+LO France/Emb Wash, DC WABASH PBX
+
+NK * GeorgialEmb Wash, DC NAVARRO HIGHLANDS
+BY " GeorgialEmb Wash, DC NAVARRO VAGRANT
+RX GreecelUN New York POWELL HIGHLANDS
+HB GreeceJUN New York POWELL LIFESAVER
+CD GreecelEmb Wash, DC KLONDIKE HIGHLANDS
+PJ GreecelEmb Wash,DC KLONDIKE LIFESAVER
+
+ 
+

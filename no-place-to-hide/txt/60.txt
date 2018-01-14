@@ -1,0 +1,27 @@
+Page 147
+
+LIFESAVER: Imaging of the Hard Drive
+
+GENIE: Multi-stage operation; jumping the airgap etc.
+
+BLACKHEART: Collection from an FBI Implant
+
+PBX: Public Branch Exchange Switch
+
+CRYPTO ENABLED: Collection derived from AO’s efforts to enable crypto
+
+DROPMIRE: passive collection of emanations using an antenna
+
+CUSTOMS: Customs opportunities (not LIFESAVER)
+
+DROPMIRE: Laser printer collection, purely proximal access (**NOT** implanted)
+
+DEWSWEEPER: USB (Universal Serial Bus) hardware host tap that provides COVERT
+link over USE link into a target network. Operates wlRF relay subsystem to pro,
+vide wireless Bridge into target network.
+
+RADON: Bidirectional host tap that can inject Ethernet packets onto the same ta r7
+get. Allows biadirectional exploitation of Denied networks using standard onenet
+
+tools.
+

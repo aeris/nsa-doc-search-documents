@@ -1,0 +1,40 @@
+Page 154
+
+ 
+
+     
+
+TOP SECRETIIEZGMINTIEZN a i *
+
+r.
+
+ 
+
+ZIP-IU .7- ins
+
+Plug-in DESCRIPTION
+
+E-mail Addresses ‘ Indexes every E-mail address seen in a session by
+_ both username and domain
+
+Extracted Files Indexes every file seen in a session by both filename
+_ and extension
+
+Full Log Indexes every DNI session collected. Data is
+indexed by the standard N-tupple (IPJr Port,
+_ Casenotation etc.)
+
+HTTP Parser Indexes the client-side HTTP traffic (examples to
+follow)
+
+Phone Number Indexes every phone number seen in a session (e.g.
+7 address book entries or signature block)
+
+User Activity Indexes the Webmail and Chat activity to include
+
+username, buddylist, machine speciﬁc cookies etc.
+
+Top SecaeweomMU/REL mnl-JSA Aus, CAN, Gen NZL
+
+ 
+

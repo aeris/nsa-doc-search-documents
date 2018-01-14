@@ -1,0 +1,37 @@
+Page 149
+
+TOP SECRETl/COMINT/lNOFORN
+
+June 2010
+
+(U) Stealthy Techniques Can Crack Some of SIGINT’s
+Hardest Targets
+
+ 
+
+ 
+
+ 
+
+By: (Uf/FOUO) NMEREDACTED , Chief, Access and Target Development (S3261) ' ; '
+
+IMAGE
+REDACTED
+
+ 
+
+ 
+
+(TS/lSl/JNF) Not all SIGINT tradecraft involves accessing signals and
+networks from thousands of miles away... In fact, sometimes it is very - ‘
+hands—on (literallyl). Here’s how it works: shipments of computer network "
+devices (servers, routers, etc.) being delivered to our targets throughout the world are
+intercepted. Next, they are redirected to a secret location where Tailored Access
+Operations/Access Operations (A0 — 8326) employees, with the support of the Remote
+Operations Center (S321 ), enable the installation ofbencon implants directly into our
+targets” electronic devices. These devices are then re-packaged and placed back into
+transit to the original destination. All of this happens with the support of Intelligence
+Community partners and the technical wizards in TAO.
+
+ 
+

@@ -1,0 +1,9 @@
+Page 94
+
+Telephony metadata includes comprehensive communications routing information,
+including but not limited to session identifying information (eg, originating and
+terminating telephone number, International Mobile Subscriber Identity (IMSI) number,
+International Mobile station Equipment Identity (IMEI) number, etc), trunk identifier,
+
+telephone calling card numbers, and time and duration of call.
+

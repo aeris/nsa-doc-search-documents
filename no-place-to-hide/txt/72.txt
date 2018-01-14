@@ -1,0 +1,13 @@
+Page 156
+
+Why are we interested in HTTP?
+
+. Almost all web-browsing uses HTTP:
+I Internet surfing
+I Webmail (Yahoo/Hotmail/Gmail/etc.)
+I OSN (Facebook/MySpace/etc.)
+I Internet Searching (Google/Bing/etc.)
+I Online Mapping (Google Maps/Mapquest/etc.)
+
+ 
+

@@ -1,0 +1,83 @@
+ 
+
+Page 146
+
+IN Greece/Emb Wash, DC KLONDIKE
+MO“ IndialUN New York NASHUA
+QL * IndialUN New York NASHUA
+ON * IndialUN New York NASHUA
+IS * India/UN New York NASHUA
+0X * IndialEmb Wash,DC OSAGE
+
+CQ * IndialEmb Wash, DC OSAGE
+
+TQ * India/Emb Wash, DC OSAGE
+
+CU * India/EmbAnx Wash, DC OSWAYO
+DS * lndialEmbAnx Wash, DC OSWAYO
+SU * ltalylEmb Wash, DC BRUNEAU
+MV * Italy/Emb Wash, DC HEMLOCK
+IP * Japan/UN New York MULBERRY
+HF * Japanr'UN New York MULBERRY
+BT * JapanI'UN New York MULBERRY
+RU * Japam'UN New York MULBERRY
+LM * MexicoIUN New York ALAMITO
+UX * SlovakiafEmb Wash, DC FLEMING
+SA * Slovakia/Emb Wash, DC FLEMING
+XR * South Africa.I UN 8: Consulate New York DOBIE
+
+RJ * South Africa! UN & Consulate New York DOBIE
+
+YR * South KorealUN New York SULPHUR
+TZ * TaiwaanECO New York REQUE'I'I'E
+VN * VenezuelalEmb Wash, DC YUKON
+UR * VenezueIaJUN New York WESTPORT
+NO * VietnameN New York NAVAJO
+0U * Vietnam/UN New York NAVAJO
+GV * Vietnamemb Wash, DC PANTHER
+
+SIGAD US-3137
+
+GENERAL TERM DESCRIPTIONS
+
+HIGHLANDS: Collection from Implants
+
+VAGRANT: Collection of Computer Screens
+
+MAGNETIC: Sensor Collection of Magnetic Emanations
+
+MINERALIZE: Collection from LAN Implant
+
+OCEAN: Optical Colleaion System for Raster-Based Computer Screens
+
+PBX
+HIGHLANDS
+MAGNETIC
+VAGRANT
+LIFESAVER
+LIFESAVER
+HIGHLANDS
+VAGRANT
+VAGRANT
+HIGHLANDS
+LIFESAVER
+HIGHLANDS
+MINERALIZ
+HIGHLANDS
+MAGNETIC
+VAGRANT
+LIFESAVER
+HIGHLANDS
+VAGRANT
+HIGHLANDS
+VAGRANT
+VAGRANT
+VAGRANT
+LIFESAVER
+LIFESAVER
+HIGHLANDS
+VAGRANT
+HIGHLANDS
+
+ 
+

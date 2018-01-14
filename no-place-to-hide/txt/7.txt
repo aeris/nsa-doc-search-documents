@@ -1,0 +1,15 @@
+Page 98
+
+Future Plans (U)
+
+(TS/ISIf/REL) In the future MSOC hopes to expand the number of WORDGOPHER platforms to
+enable demodulation of thousands of additional low- rate carriers.
+
+These
+targets are ideally suited for software demodulation. Additionally, MSOC has developed a
+capability to automatically scan and demodulate si nals as ”the - actwate on the satelhtes There are
+amultitude ofpossibilities, =1 ' ' r = 1 - - .. 1': ‘ -
+
+ 
+ 
+
