@@ -1,0 +1,52 @@
+TOP SEC RETI/ C OMINT/IREL TO USA, AUS, CAN, GBR, NZL/l20320108
+
+(UIIFOUO) R23 Contributes Behavioral Anomaly Detection to IDAICCS
+DISTILLERY SCAMP
+
+(TS/1r SI/lREL) The 2008 Summer Conference on Applied Mathematical Problems (SCAMP)
+was hosted this summer in Bowie, MD at the IDAICCS. This SCAMP focused on a specific
+category of attacks and intrusions targeted against US. critical national infrastructure.
+Commonly known in the DoD community as the BYZANTINE HADES (BH) attacks, these
+intrusions are believed to originate from the People’s Republic of China. The main goals of
+the SCAMP were to define and implement novel behavioral-based techniques that could
+better detect and respond to the wide array of BH attacks. R23’s POPQUIZ framework
+provided the analytical applications to identify behavioral anomalies while DISTILLERY
+provided the stream-based platform from which to execute these applications.
+
+(Uf/FOUO) A key factor to the success of the SCAMP was the availability of the SPADE
+programming language. Developed by IBM, SPADE enables the rapid development and
+prototyping of distributed stream-processing applications. Utilizing this language requires
+little programming expertise, as applications are described using high-level stream-centric
+constructs. A compiler handles the conversion of this description into native DISTILLERY
+application. The SCAMP participants, the majority having had little experience developing
+DISTILLERY applications, were able to quickly compose unique and complex applications.
+By not having to expend time learning a new low-level API, participants were able to focus
+their efforts on defining and implementing new detection techniques and methodologies.
+
+(vi/Pom) 1300— R23, —
+
+(UIIFOUO) HAIRBALL Deploys GraphViz for POPEYESEAR: Visualization
+Techniques for Computer Network Defense
+
+(Uf/FOUO) On 12 August 2008 the R23 HAIRBALL project deployed its GraphViz v1.0
+visualization tool to the NTOC floor as an addition to the POPEYESEAR interface.
+Following the deployment of TreeViz in Nov 2007, GraphViz is the second visualization tool
+deployed for operational use. The achievement reflects the ongoing research investment in
+new visualization techniques uniquely designed to support exploration and analysis of
+Computer Network Defense (CND) data.
+
+(Uf/FOUO) GraphViz displays relationships from POPEYESEAR data as an interactive graph
+with dynamic, analyst-directed navigation. The dynamic navigation empowers analysts to
+locate subsets of the large POPEYESEAR database that are most relevant to their analysis.
+The graph-based display enables analysts to more easily perceive the connections existing in
+the data.
+
+(Uf/FOUO) GraphViz has been built with an eye towards usability and rapid response. The
+interface provides Coogle-like search syntax and intuitive point-and-click control. Under the
+
+hood, the use of data preprocessing and indexing enables GraphViz to return results with
+
+13
+
+TOP SECRET/fCOMINT/I’REL TO USA, AUS, CAN, GBR, NZLI/20320108
+

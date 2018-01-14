@@ -1,0 +1,53 @@
+TOP SEC RET/l C OMINT/IREL TO USA, AUS, CAN, GBR, NZL/l20320108
+
+(TS/fSI/fREL) TUNDRA —— Electronic codebooks, such as the Advanced Encryption
+Standard, are both widely used and difficult to attack cryptanalytically. NSA has only a
+handful of in—house techniques. The TUNDRA project investigated a potentially new
+technique —— the Tau statistic —— to determine its usefulness in codebook analysis. This project
+was supported by—of R21.
+
+(S/fSI/fREL) CLOUD —— Cloud computing is a paradigm to perform massive computations in
+parallel on a cluster of computers via a "map—reduce" model. The DSP students researched
+how amenable cloud computing is to various graph algorithms. The team successfully
+implemented the graph algorithms k—cores and k—trusses as well as two Agency contact
+chaining algorithms, STARFIRE (developed by DSP 1999) and CARPAT, in the map——reduce
+framework. Their research suggests most graph algorithms fit naturally in the framework.
+
+Further, this framework su orts the ability to process larger data sets. This project was
+supported bydof R1.
+
+(Uf/FOUO) This summer the students made good progress on these and five other projects. A
+report detailing all of the work done will be published by R1 in the fall of 2008.
+
+(or/Four» POC: Dr. _ R211, —
+
+(UIIFOUO) Support for l54 Code Review
+
+(Uf/FOUO) Earlier this yea_ Chief of 154, solicited volunteers to support a
+DIRNSA and Director of IAD chartered review of approximately 100,000 lines of Ada 83
+code. _forward deployed from R21 and serving as 1542 Technical Director,
+enlisted R213 to provide support with automated software analysis tools.
+
+(TSI/REL_ R213, led the automated analysis effort using the tool PolySpace
+for Ada to analyze the code. PolySpace for Ada employs “abstract interpretation” to analyze
+code for a variety of errors such as uninitialized variables, integer overflow, et cetera. The
+initial automated analysis identified some non—standard software features requiring more
+extensive examination. — then teamed with_ R213, to assist
+with the analysis and provide results to — 1543. As noted by Mr. - the
+automated code analysis discoveries provided “valuable” results, and complemented a parallel
+154 manual code analysis effort by highlighting several items undiscovered by the manual
+analysis team.
+
+(TS/IREL) Analyzing and debugging software code on fielded systems is a time—consuming,
+expensive operation. Using automated techniques to identify coding abnormalities and bugs
+in system software prior to fielding reduces the overall cost of fixing software errors by an
+order of magnitude and significantly increased the quality of the deployed software. To this
+end, R213 continues to research the development of software environments and software
+languages focused on integrating automated analysis within the design and development
+stages of the software development lifecycle.
+
+(Uf/FOUO POCs: R213, (301—
+R213,
+
+TOP SECRET/fCOMINT/I’REL TO USA, AUS, CAN, GBR, NZLI/20320108
+

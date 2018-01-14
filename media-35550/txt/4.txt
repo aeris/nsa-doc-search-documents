@@ -1,0 +1,51 @@
+TOP SEC RETI/ C OMINT/IREL TO USA, AUS, CAN, GBR, NZL/l20320108
+
+(U) Summer Mathematics, R21, and the Director’s Summer Program
+
+(U) The Director‘s Summer Program (DSP) is the agency‘s premier summer program for
+mathematics undergraduates. Since its inception in 1990, the mission of the DSP has not been
+simply recruitment, (though a small but steady percentage of DSP participants do come back
+to work at NSA, often after obtaining an advanced degree), but rather an outreach effort
+aimed at attracting the best mathematics students from around the country, educating them
+about mathematics at NSA, and thus establishing ties with the future leaders of the outside
+mathematics community.
+
+(Uf/FOUO) While the DSP is hosted by the Mathematics Research Group, the technical
+directors come from across the Agency. In 2008 the technical directors were —
+_, _(R21), and _(831223). This year’s 22 participants were
+culled from 260 applicants. Over 12 weeks, students worked in small teams with NSA
+mathematicians to develop real—world solutions to classified, operational problems.
+
+(Uf/FOUO) Over the years, R21 personnel have supported the DSP both as project mentors,
+who propose a project and guide a small group of students (usually a 12—week, half—time
+commitment), and as technical directors of the program, who select and interview the
+students, find projects and mentors, and serve as general technical and administrative support
+full—time during the summer (usually a 2—year, half—time commitment).
+
+(U/lFOUO) This year, in addition to presenting their results to both the Director and De ut
+Director of NSA, the DSP was invited to give classified presentations to ﬂ,
+
+a professional staffer on the Senate Select Committee on Intelligence (SSCI) as well as two
+members of the SSCI Technical Advisory Group.
+
+(S/fSI/REL) Projects from DSP 2008 of possible interest to R2 include: RANDOMIZERS, a
+study of open source randomizers, TUNDRA, research of a new statistic for codebook
+analysis, and CLOUD, implementing graph algorithms in a cloud computing environment.
+Short summaries follow.
+
+(S/fSI/fREL) RANDOMIZERS —— Because of their use in the generation of keying material,
+randomizers play a critical role in modern cryptographic systems. The RANDOMIZERS
+project focused on two popular commercial software randomizers: Open SSL‘s randomizer
+and /dev/random. The DSP students researched the quality of these randomizers by
+measuring entropy and by considering cryptanalytic attacks (e.g., Forward Security). The
+students confirmed an outside attack on fdev/random, but they also showed that this attack is
+not as strong as the outside paper claimed. They found no obvious weaknesses in Open SSL's
+randomizer. Finally, the students examined a mixing component consisting of a shift register
+with a contribution from an entropy source (modeled as Bernoulli——p bits). They determined a
+theoretical bound on the number of register steps needed to reach full entropy given p and the
+
+ol nomial driving the shift register. This project was supported by—and
+h of 1735.
+
+TOP SECRET/fCOMINT/I’REL TO USA, AUS, CAN, GBR, DELI/20320108
+

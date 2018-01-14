@@ -1,0 +1,49 @@
+TOP SEC RETI/ C OMINT/IREL TO USA, AUS, CAN, GBR, NZL/l20320108
+
+environment of multiple networks at various security levels — namely, the need for users to
+access multiple systems (also known as domains) in a secure way.
+
+(Uf/FOUO) The central purpose of most research is to explore what’s “next.” Instead of a
+known desired end-state, this process often begins with a question, such as “are there better
+approaches to secure software?” - many ideas are then tested to try to find the answer. That
+particular question remains central to R213 High Confidence Software and Systems (HCSS)
+Focus Area research into how Formal Methods and mathematical proofs could ensure the
+“correctness” of software design. In this example, the HCSS team explored possible solutions
+and eventually developed a small-scale, Java-based proof-of-concept.
+
+(Uf/FOUO) Meanwhile, in other areas of NIARL, another question was being asked within
+the Authentication team, “how can commercial smart card technologies be leveraged to
+provide assured identity for access to sensitive systems?” Over the years, smart cards (and
+smart card chipsets) rapidly progressed from their origins storing monetary value for
+European pay phones, to then becoming unique identifiers for mobile phones, and ultimately
+finding use as personal identification (and even DoD user authentication for unclassified
+systems). As the technology evolved, IA research explored approaches to leverage these
+technologies toward our goals. But that sparked other questions, such as “what do we do
+about software from unknown or risky sources?”
+
+(Uf/FOUO) The “a-ha!” moment came from a convergence of these two problem sets
+courtesy of the Java Card standard for smart cards. Could Formal Methods lead to a proven
+Java-based operating system and provide assurance for commercially-based smart cards? In
+partnership with HCSS, Research Integration took the Formal Methods proof-of-concept
+approach and applied it to the real-world smart card problem. The lofty goal? Assured (and
+unclassified) multi-domain tokens for community identity and authentication.
+
+(Uf/FOUO) The resulting Tokens Assurance Software research within Research Integration
+just completed the prototype of a functional and mathematically proven Java Card operating
+system. In addition, these software assurance techniques were expanded to develop tools to
+create assured applets to run on the cards. We will also soon complete some advanced
+hardware prototypes featuring physical protection concepts which will further demonstrate the
+“integrated” potential for how to provide strong authentication for access to critical systems.
+
+(Uf/FOUO) To extend the concept, Research Integration will leverage additional NIARL
+exploration into yet another pressing IA research question, “how can virtualization
+technologies provide the foundation for future trusted computing platforms?” In partnership
+with fellow Focus Areas, Research Integration is prototyping early versions of these
+approaches to investigate how they could enable assured information sharing, authentication
+and access control, as well as mobility for users. In this way, the initial breakthroughs of
+software assurance, secure tokens, and platform trust could start to create answers to real
+operational questions, such as “How can we transform the way user identity is protected to
+enable cross-community collaboration?”
+
+TOP SECRET/fCOMINT/I’REL TO USA, AUS, CAN, GBR, NZLI/20320108
+

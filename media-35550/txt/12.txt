@@ -1,0 +1,50 @@
+TOP SEC RET/l C OMINT/IREL TO USA, AUS, CAN, GBR, NZL/l20320108
+
+I An improved random forest classifier to detect malicious hosts, which found
+confirmed new malicious hosts
+
+0 An implementation of BadRank for the Cray XMT
+
+I A Hadoop MapReduce implementation of PageRank
+
+0 New insights into the strengths, weaknesses, and scalability of the KronFit graph
+generation algorithm, including new proofs of several properties
+
+(U) OpenSolarisUM’ FMAC: Bringing the Flask Mandatory Access
+Controls Architecture to OpenSolaris
+
+(U) Flexible Mandatory Access Control (FMAC) for OpenSolarisCTM) is a joint NSA and Sun
+Microsystems Inc. project to add the Flask architecture to the OpenSolaris operating system.
+The Flask architecture provides flexible support for a wide range of security policies, enabling
+integration of different policy engines and the configuration of the security policy to meet the
+specific security goals for a variety of computing environments. The flexible mandatory
+access controls supported by the Flask architecture enable the confinement of flawed and
+malicious applications and the enforcement of confidentiality, integrity, least privilege, and
+assured invocation goals. The Flask architecture has been successfully applied to several
+other operating systems via the SELinux, SEBSD, and SEDarwin projects as well as to other
+software components such as hypervisors (Xen), windowing systems (X), and database
+systems (PostgreSQL).
+
+(U) The initial FMAC code base was contributed by the NSA to OpenSolaris based on a
+version of the Flask code that predated any involvement by the Linux community. This code
+was then integrated into the OpenSolaris code and adapted by— a Sun engineer
+who is the co—lead of the FMAC project. This code was first released publicly on the FMAC
+project web site in May 2008. When built, it produced a policy compiler and a kernel capable
+of loading the resulting policy into the security server.
+
+(U) Since that first release, joint development by the NSA and by Sun Microsystems has
+proceeded rapidly. Support for new system calls was introduced in June 2008, and support
+for labeling processes was introduced in July 2008. Several utilities have been created for
+controlling and interacting with the system. Current design and implementation discussions
+are focusing on how to best support file security labeling in OpenSolaris, particularly for the
+ZFS filesystem. Once file labeling is supported, the next steps will include support for
+domain transitions and permission checks on process and file operations. This will provide a
+base capability that can be used both to demonstrate the benefits of Flask and to further
+develop the remaining support for object labeling and mandatory controls.
+
+(IN/Pom) POC:—
+
+12
+
+TOP SECRET/fCOMINT/I’REL TO USA, AUS, CAN, GBR, DELI/20320108
+
