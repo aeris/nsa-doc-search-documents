@@ -1,0 +1,48 @@
+View History Bookmarks Tools Help
+0 ' C' ’u‘ _ 9'
+
+Mi Most ViSIte-d * Getting Started lg] Latest Headlines
+
+ 
+
+ 
+
+I] Entlnstantes: edit hi i I—“‘ Eatlnstantes: show I:I I -_- i '
+ll—lnrdc'i [Bots'i i't‘rmnnﬂrnri Rnt’ﬂ [Bat mas] I'Mnrthinnﬂ [1P Usages} i't‘mmrri::'| [Command Dorurrnnnnc'i [Command Types} LDggEd in 65:73552
+
+CommandRecurrence was successfully created.
+
+Editing Command Recurrence 'D' walks FTW'
+
+ 
+
+Recurrence Name Command Type Name Herd Name
+Dimralks FFW iGelDir’Walk My New Herd V
+Earliest Execution Time Latest Execution Time
+
+IYes V Cycle Commands?
+
+Yes I“ Broadcast Commands?
+Maximum Total Executions For Herd
+Maximum Total Executions Per Bot
+
+Maximum Concurrent Executions Fﬂl‘ HEl‘d
+
+1 Maximum Concurrent Executions Per Bot
+0 Delay Interval For Herd (seconds)
+0 Delay Interval For Bot (seconds)
+
+ 
+
+Upda1e H UpdateAndAcnvate I Deactivate [ AddACommandSpec i
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

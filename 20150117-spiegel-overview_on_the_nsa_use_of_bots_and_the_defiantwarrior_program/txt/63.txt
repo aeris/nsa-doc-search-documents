@@ -1,0 +1,51 @@
+View History Bookmarks Tools Heip
+
+:0 «ame—
+
+Mi Most ViSIte-d * Getting Started lg] Latest Headlines
+
+ 
+
+ 
+
+. ‘ Entlnstantes: edit E] i I11 Eatlnstantes: show i '
+il—lnrdc'i [Bots'i Frnnneﬂred Rnre'l [Bat mas] I'Mnrthinne'l [1P Usages} i't‘nlmrriee'l [Command Dorllrrnnnnc'i [Command Types} LDggEd in 65:73552
+
+CommandSpec was successfully updated.
+
+Editing Command Recurrence 'D' walks FTW'
+
+ 
+
+Recurrence Name Command Type Name Herd Name
+Dimralks FFW iGelDir’Walk My New Herd V
+Earliesl Execution Time Lalest Execution Time
+
+IYes V Cycle Commands?
+
+Yes I“ Broadcast Commands?
+Maximum Total Executions For Herd
+Maximum Tolal Executions Per Bot
+
+Maximum Concurrenl EKEDUtiﬂnS Fﬂl‘ HEI‘d
+
+1 Maximum Concurrenl Executions Per Bot
+0 Delay Interval For Herd (seconds)
+0 Delay Interval For Bot (seconds)
+
+ 
+
+ 
+
+Update ii UpdateAndAcnvate I Deactivate [ AddACemmandSpec H ViewCommand Specs I
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

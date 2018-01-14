@@ -1,0 +1,19 @@
+- A botnet upon which the sun never sets
+
+. QUANTUMBOT tipping diversification
+— STELLABLUE
+— SMOKYSINK
+— TURMOlLs at Menwith, MSOC, YRS
+
+. Technique diversification
+
+— Man In The Middle (vs Man On-The Side)
+
+. More locations
+- easier to exploit HTTP bots (no race condition)
+
+-— Throw exploits from our bots
+. Exploit toe-holds on networks to get better penetration
+
+ 
+
