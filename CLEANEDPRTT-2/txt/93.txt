@@ -1,0 +1,27 @@
+ 
+
+event, however, that NSA encounters circumstances that it believes necessitate alteration of the
+dissemination procedures that have been approved by the Court, the government may obtain
+prospectively-applicable modiﬁcations to those requirements upon a determination by the Court
+that such modiﬁcations are appropriate under the circumstances and in light of the sweeping and
+non-targeted nature of the PR/TT collection. Q Stande Minimization Procedures for FBI
+Electronic Surveillance and Physical Search § ID (on ﬁle with the Court in Docket No. 08-
+1 83 3).
+
+F. Retention
+
+Under the _Drder, the PR/TT metadata was available for querying for
+four and one—half years, after which it had to be destroyed. _Order at 13. The four-
+and-one—half-year retention period was originally set based upon NSA’S assessment of how long
+collected metadata is likely to have operational value. §e§_0pinion at 70—71.
+Pursuant to the government’s proposal, the retention period would be extended to ﬁve years.
+_Application at 13. The government asserts that the purpose of the change is to
+“develop and maintain consistency” with the retention period for NSA’s bulk telephony metadata
+collection, which is authorized by this Court under the FISA business records provision, 50
+U.S.C. § 1861._Response at 24. The Court is satisﬁed that the relatively small
+extension of the retention period that is sought by the government is justiﬁed by the
+
+administrative beneﬁts that would result.
+
+93
+

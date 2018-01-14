@@ -1,0 +1,35 @@
+ 
+
+communication, particularly relate to the transmission of the communication to its intended
+party. By placing “signaling” Within the same list of types of communication-related
+information, Congress presumably intended “signaling information” likewise to relate to the
+transmission of a communication.
+
+The wording of a related provision lends further support to this interpretation:
+
+A government agency authorized to install and use a pen register or trap and trace
+
+device . . . shall use technology reasonably available to it that restricts the
+
+recording or decoding of electronic or other impulses to the dialing, routing,
+
+addressing, and signaling information utilized in the processing and transmitting
+
+of Wire or electronic communications so as not to include the contents of any Wire
+
+or electronic communications.
+18 U.S.C. § 3121(c) (emphasis added). Questions of available technology aside, there is no
+reason to think Congress intended to compel an agency deploying a PR/TT device to try to avoid
+acquiring data that would constitute DRAS information under the deﬁnitions of “pen register”
+and “trap and trace device.” For this reason, Section 3121(c) strongly suggests that the intended
+
+scope of acquisition under a PR/TT device is DRAS information utilized in the processing and
+
+transmitting of a communication.48
+
+ 
+
+ 
+
+53
+

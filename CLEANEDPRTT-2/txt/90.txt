@@ -1,0 +1,34 @@
+ 
+
+that such internal sharing remains appropriate, subject to the training requirement that is
+discussed below.
+E. Dissemination Outside NSA
+The government’s proposed rules for disseminating PIVTT—derived information outside
+of NSA are slightly different from the procedures that were previously in place. Under the
+_ Order, NSA was required to “treat information from queries of the PR/TT
+metadata in accordance with United States Signals Intelligence Directive 18 (USSID 18)” —-
+NSA’S standard procedures for handling Signals Intelligence collection — and to “apply USSID
+18 to minimize information concerning U.S. persons obtained from the pen registers and trap and
+trace devices authorized herein.” _Order at 12. In addition,
+before NSA disseminate[d] any US. person identifying information outside of NSA, the
+Chief of Information Sharing Services in the Signals Intelligence Directorate, the Senior
+Operations Ofﬁcer at NSA’s National Security Operations Center, the Signals
+Intelligence Directorate Director, the Deputy Director of NSA, or the Director of NSA
+[was required to] determine that the information identifying the US. person [was] in fact
+
+related to counterterrorism information and that it [was] necessary to understand the
+counterterrorism information or assess its importance.
+
+The government’s proposal has the same two basic elements, although they are worded
+slightly differently. First, NSA “will apply the minimization and dissemination procedures of
+Section 7 of [US SID 18] to any results from queries of the metadata disseminated outside of
+
+NSA in any form.” _Alexander Decl. at 28. Second,
+
+prior to disseminating any US. person information outside NSA, one of the ofﬁcials
+listed in Section 7.3(c) of USSID 18 (ii, the Director of NSA, the Deputy Director of
+
+W
+
+90
+

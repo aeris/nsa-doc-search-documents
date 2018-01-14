@@ -1,0 +1,28 @@
+ 
+
+obtained in violation of prior orders authorizing the installation of PIUTT devices. Indeed, the
+Court ﬁnds nothing in the text of Section 1842 or the other provisions of PISA that can be read to
+confer such authority, particularly in the face of the clear prohibition set forth in Section
+
+1 809(a)(2).
+
+The government next contends that because the Court has, in its prior orders, regulated
+access to and use of previously accumulated metadata, it follows that the Court may now
+authorize NSA to access and use all previously collected information, including information that
+was acquired outside the scope of prior authorizations, so long as the information “is within the
+scope of the [PIUTT] statute and the Constitution.” Memorandum of Law at 73. But the
+government overstates the precedential signiﬁcance of the Court’s past practice. The fact that the
+Court has, at the government’s invitation, exercised authority to m the use of properly-
+acquired bulk PIUTT data does not support the conclusion that it also has authority to m the
+use of improperly—acquired PIUTT information, especially when such use is criminally prohibited
+by Section 1809(a)(2).
+
+The Court has limited the access to and use of information collected in accordance with
+prior authorizations, in view of the sweeping and non-targeted nature of that collection. The
+Court has done so within a statutory framework that generally permits the government to make
+comparatively liberal use, for foreign intelligence purposes, of information acquired pursuant to
+
+PIUTT orders, and in which the Court generally has a relatively small role beyond the acquisition
+
+110
+

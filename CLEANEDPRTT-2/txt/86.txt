@@ -1,0 +1,36 @@
+ 
+
+protected by the First Amendment. I_d. at 27. Second, an identiﬁer that is the subject of
+electronic surveillance or physical search pursuant to 50 U.S.C. § 1805 or § 1824 based on this
+Court’s ﬁnding of probable cause that such identiﬁer is used by an agent of a Foreign Power may
+be deemed RAS-approved without review by an NSA designated approving ofﬁcial. Li,
+
+As was the case under the Court’s —Order and prior orders in this matter,
+RAS—approved queries of the'collected data will take the form of “contact chaining.” Li at 18.
+Such queries yield data for all communications within two “hops” of the RAS-approved seed. l_d_.
+The ﬁrst hop acquires data regarding all identiﬁers that have been in contact with the seed, and
+the second hop yields data for all identiﬁers in contact with identiﬁers that were revealed by the
+ﬁrst hop. L; at 18 n.12. The government asserts, and the Court has previously accepted, that
+“[g]oing out to the second ‘hop’ enhances NSA’s ability to ﬁnd, detect and identify the Foreign
+Powers and those afﬁliated with them by greatly increasing the chances that previously unknown
+
+Foreign Power—associated identiﬁers may be uncovered.” 1d; at 18-19 n. 12; —
+
+Opinion and Order at 48.73
+
+ 
+
+73 NSA also intends to erform
+
+The overnment has clariﬁed in connection with this
+app ication, owever, t at is not used as a means for querying the metadata, but
+
+instead is applied only to S-approved contact—chaining queries. §_e_§
+Response at 16.
+
+ 
+
+49W
+
+86
+

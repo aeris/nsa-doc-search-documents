@@ -1,0 +1,32 @@
+ 
+
+resulting from-about communications is a form of “record[ing]” or “decod[ing]”
+
+permissible under the deﬁnition of “pen register.”
+
+C. The Requested Information
+
+The application seeks to expand considerably the types of information authorized for
+acquisition. Although the government provides new descriptions for the categories of
+information sought, s_e_e_ -lexander Decl., Tab 2, they encompass all the types of
+information that were actually collected (to include unauthorized collection) under color of the
+prior orders. Memorandum of Law and Fact in Support of Application for Pen Registers and
+Trap and Trace Devices for Foreign Intelligence Purposes (“Memorandum of Law”) at 3,
+
+submitted as Exhibit B to the _Application.
+
+1. The Proper Understanding of DRAS lnforrnation and Contents
+
+The government contends that all of the data requested in this application may properly
+be collected by a PR/TT device because all of it is dialing, routing, addressing or signaling
+(“DRAS”) information, and none constitutes contents. 1d, at 22. In support of that contention,
+the government advances several propositions concerning the meaning of “dialing, routing,
+addressing, or signaling information” and “contents,” as those terms are used in the deﬁnitions of
+“pen register” and “trap and trace device.” While it is not necessary to address all of the
+government’s assertions, a brief discussion of the government’s proposed statutory construction
+will be useful in explaining the Court’s decision to approve most, but not all, of the proposed
+
+collection.
+
+30
+

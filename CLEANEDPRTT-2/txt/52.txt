@@ -1,0 +1,27 @@
+ 
+
+Within the deﬁnitions of “pen register” and “trap and trace device,” “signaling
+information” appears as the fourth and ﬁnal item in a list of undeﬁned terms that all modify
+“information”: “dialing, routing, addressing, [and/or] signaling information.” 18 U.S.C.
+§ 3127(3), (4). It is well-established in statutory interpretation that one term appearing Within a
+list may take its meaning from the character of the other listed terms.47 Here, the other three
+terms modifying “information” are not merely “associated With” a communication. Rather,
+
+dialing, routing, and addressing information are all types of information that, in the context of a
+
+ 
+
+ 
+
+47 E, gg” Dolan V. United States Postal Serv., 546 U.S. 481, 486-87 (2006) (“‘[A]
+word is known by the company it keeps’ —— a rule that ‘is often wisely applied Where a word is
+capable of many meanings in order to avoid the giving of unintended breadth to the Acts of
+Congress.”’) (quoting Jarecki V. G.D. Searle & Co., 367 U.S. 303, 307 (1961)); Schreiber V.
+Burlington Northern, Inc., 472 U.S. 1, 8 (1985) (recognizing the “‘familiar principle of statutory
+construction that words grouped in a list should be given related meaning’”) (quoting Securities
+Indus. Ass’n v. Board of Governors, 468 U.S. 207, 218 (1984)).
+
+W
+
+52
+

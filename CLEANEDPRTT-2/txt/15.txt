@@ -1,0 +1,52 @@
+  
+
+A]. :zqe‘
+' 9
+
+Preliminary Notice of Compliance Incident Dated _ issued on - at 2-3.
+
+The Honorable Reggie B. Walton of this Court ordered the government to verify that access to
+
+ 
+   
+
+the bulk PIUTT metadata complied with comparable restrictions, noting “the similarity between
+the querying practices and requirements employed” in both contexts. SE Docket No. PIUTT-
+-Order issued on_ at 1.
+In response, the government reported that it had identiﬁed, and discontinued, a non-
+automated querying practice for PIUTT metadata that it had concluded was non—compliant with
+the required RAS approval process. ﬁe; Docket No. PIUTT -Government’s Response to
+
+the Court’s Order Dated _ ﬁled on _at 2—6 (—
+
+Response”).17 The government’-Response also described additional oversight and
+
+ 
+
+17 This practice involved an analyst running a query using as a seed “a U.S.-based e-mail
+
+account” that had been in direct contact with a properly va ' ccount, but had not itself
+been properly validated under the RAS approval process. se at 2-3. When
+he granted renewed authorization for bulk PIUTT surveillance on , Judge Walton
+
+ordered the government not to resume this ractice without prior Court approval. SQ Docket
+No. PIUTT - Primary Order issued _at 10.
+
+In its response, the government also described an automated means of querying, which it '
+regarded as consistent with the applicable PIUTT orders. This form of querying involved the
+determination that an e-mail address satisﬁed the RAS standard, but for the lack of a connection
+to one of the Foreign Powers (gg, there were sufﬁcient indicia that the user of the e-mail address
+was involved in terrorist activities, but the user’s afﬁliation with a particular group was
+unknown . See Declaration of Lt. Gen. Keith B. Alexander, Director of NSA, at 8 (attached at
+Tab 1 to_esponse) ( lexander Decl.”). In the event that such an
+e-mail address was in contact with a RAS-approved seed account on an NSA “Alert List,” that e-
+mail address would itself be used as a seed for automatic querying, on the theory that the
+requisite nexus to one of the Foreign Powers had been established. _I<_i, at 8-9. The government
+later reported that it had discontinued this practice, s_ee_ Docket No. PIUTT -NSA 90-Day
+
+(continued...)
+
+W
+
+15
+

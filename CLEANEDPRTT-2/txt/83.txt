@@ -1,0 +1,37 @@
+ 
+
+under FISA to protect the privacy interests of United States persons with respect to the
+acquisition, use, and dissemination of the contents of communications, restrictions meeting the
+same standard are also at least adequate in the context of the collection and use of non-content
+metadata. Guided by the Section 1801(h) standard, the Court concludes, for the reasons stated
+below, that the procedures proposed by the government, subject to the modiﬁcations described
+below, are reasonably designed in light of the nature and purpose of the bulk PR/TT collection to
+protect United States person information, and to ensure that the information acquired is used and
+disseminated in furtherance of the counterterrorism purpose of the collection.
+
+A. Storage and Traceabiligg
+
+NSA will continue to store the PIUTT data that it retains in repositories within secure
+networks under NSA’s control. -lexander Decl. at 24. As was the case under the
+—Order, the data collected pursuant to the authority now sought by the
+government will carry unique markings that render it distinguishable from information collected
+by NSA pursuant to other authorities. .esponse at 15; see also Declaration of
+
+_NSA, ﬁled on _in Docket No. mun-(—
+
+.Decl.”) at 14 n8. The markings, which are applied to the data before it is made available
+
+ 
+
+for analytic querying and remain attached to the information as it is stored in metadata
+
+repositories, see -esponse at 15, are designed to ensure that software and other
+
+controls (such as user authentication tools) can restrict access to the PR/TT data solely to
+
+authorized personnel who have received appropriate training regarding the special rules for using
+
+WSW
+
+83
+

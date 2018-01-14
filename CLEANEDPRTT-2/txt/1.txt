@@ -1,0 +1,32 @@
+ 
+
+UNITED STATES
+FOREIGN INTELLIGENCE SURVEILLANCE COURT
+
+WASHINGTON, DC.
+
+ 
+
+ 
+
+ 
+
+MEMORANDUM OPINION
+This matter is before the Court upon the government’s application to re-initiate in
+expanded form a pen register/trap and trace (PR/TT) authorization for the National Security
+Agency (N SA) to engage in bulk acquisition of metadata1 about Internet communications. The
+government’s application also seeks Court authorization to query and use information previously
+
+obtained by NSA, regardless of whether the information was authorized to be acquired under
+
+ 
+
+I When used in reference to a communication, “metadata” is information “about the
+communication, not the actual communication itself,” including “numbers dialed, the length of a
+call, intemet protocol addresses, e-mail addresses, and similar information concerning the
+delivery of the communication rather than the message between two parties.” 2 Wayne R.
+LaFave, Jerold H. Israel, Nancy J. King & Orin S. Kerr, Criminal Procedure § 4.6(b) at 476 (3d
+ed. 2007).
+
+W
+

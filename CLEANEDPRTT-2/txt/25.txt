@@ -1,0 +1,40 @@
+ 
+
+In the remainder of this Opinion, the Court will ﬁrst consider whether the proposed
+collection involves the use of a PIUTT device within the meaning of the applicable statutory
+deﬁnitions, and whether the data that the government seeks to collect consists of information that
+may properly be acquired by such a device. Next, the Court will consider whether the
+application satisﬁes the statutory relevance standard and contains all the necessary elements. The
+Court will then address the procedures and restrictions proposed by the government for the
+retention, use, and dissemination of the information that is collected. Finally, the Court will
+consider the government’s request for permission to use all previously-collected data, including
+information falling outside the scope of the Court’s prior authorizations.
+
+II. The Proposed Collection, as Modiﬁed Herein, Involves the Installation and Use of PIUTT
+Devices
+
+A. The Applicable Statutory Deﬁnitions
+
+For purposes of 50 U.S.C. §§ 1841-1846, FISA adopts the deﬁnitions of “pen register”
+and “trap and trace device” set out in 18 U.S.C. § 3127. E 50 U.S.C. § 1841(2). Section 3127
+provides the following deﬁnitions:
+
+(3) the term “pen register” means a device or process which records or decodes
+
+dialing, routing, addressing, or signaling information transmitted by an instrument
+
+or facility from which a wire or electronic communication is transmitted,
+
+provided, however, that such information shall not include the contents of any
+communication . . . ;[24]
+
+ 
+
+24 The deﬁnition excludes any device or process used by communications providers or
+customers for certain billing-related purposes or “for cost accounting or other like purposes in the
+ordinary course of business.” § 3127(3). These exclusions are not pertinent to this case.
+
+ 
+
+25
+

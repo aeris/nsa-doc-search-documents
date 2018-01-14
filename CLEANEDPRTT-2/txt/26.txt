@@ -1,0 +1,41 @@
+ 
+
+(4) the term “trap and trace device” means a device or process which captures the
+incoming electronic or other impulses which identify the originating number or
+other dialing, routing, addressing, and signaling information reasonably likely to
+identify the source of a wire or electronic communication, provided, however, that
+such information shall not include the contents of any communication.
+
+These deﬁnitions employ three other terms — “electronic communication,” “wire
+communication,” and “contents” — that are themselves governed by statutory deﬁnitions “set
+forth for such terms in section 2510” of title 18. 18 U.S.C. § 3127(1). Section 2510 defines
+
+these terms as follows:
+(1) “Electronic communication” is defined as:
+
+any transfer of signs, signals, writing, images, sounds, data, or intelligence of any
+nature transmitted in whole or in part by a wire, radio, electromagnetic,
+photoelectronic or photooptical system that affects interstate or foreign commerce,
+but does not include — (A) any wire or oral communication. [25]
+
+18 U.S.C. §2510(12).
+(2) “Wire communication” is defined as:
+
+any aural transfer made in whole or in part through the use of facilities for the
+transmission of communications by the aid of wire, cable, or other like connection
+between the point of origin and the point of reception . . . furnished or operated by
+any person engaged in providing or operating such facilities for the transmission
+of interstate or foreign communications or communications affecting interstate or
+foreign commerce.
+
+18 U.S.C. §2510(1).
+
+ 
+
+25 The other exclusions to this definition at Section 2510(12)(B)—(D) are not relevant to
+this case.
+
+W
+
+26
+

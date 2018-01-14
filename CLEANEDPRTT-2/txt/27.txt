@@ -1,0 +1,31 @@
+ 
+
+(3) “Contents” is deﬁned to “include[] any information concerning the substance, purport,
+or meaning” of a “wire, oral, or electronic communication.” 18 U.S.C. § 2510(8).26
+Together, these deﬁnitions set bounds on the Court’s authority to issue the requested
+
+order because the devices or processes to be employed must meet the definition of “pen register”
+
+or “trap and trace device.”
+
+As explained by the government, the proposed collection—
+
+— Declaration of Gen. Keith B. Alexander,
+Director of NSA, at 23-24 (attached as Exhibit A to -pplication) (—
+
+Alexander Decl.”).
+
+ 
+
+ 
+
+26 Different deﬁnitions of “wire communication” and “contents” are set forth at 50
+U.S.C. § 1801(1) & (n). The deﬁnitions in Section 1801, however, apply to terms “[a]s used in
+this subchapter” — ii, in 50 U.S.C. §§ 1801—1 812 (F ISA subchapter on electronic surveillance) —
+and thus are not applicable to the terms “wire communication” and “contents” as used in the
+
+deﬁnition of “pen register” and “trap and trace device” applicable to Sections 1841-1846 (FISA
+subchapter on pen registers and trap and trace devices).
+
+ 
+

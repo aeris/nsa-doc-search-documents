@@ -1,0 +1,30 @@
+ 
+
+G. Oversight
+
+The government proposes to employ an internal oversight regime that closely tracks the
+oversight provisions adopted by the Court in the—Order, requiring, among other
+things, that NSA OGC and NSD take various steps to ensure that the data is collected and
+handled in accordance with the scope of the authorization. Compare _ Order at 13-
+16, with-Alexander Decl. at 29-30. There is, however, one signiﬁcant difference.
+The _Order required NSA OGC to ensure that all NSA personnel permitted to
+access the metadata or receive query results were ﬁrst “provided the appropriate and adequate
+training and guidance regarding the procedures and restrictions for storage, access, and
+dissemination of the PR/TT metadata and/or PR/TT metadata—derived information, i._e__., query
+results.” _Order at 13-14. The analogous oversight provision in the government’s
+current proposal, by contrast, directs NSA OGC and the Ofﬁce of the Director of Oversight and
+Compliance (ODOC) to ensure that adequate training and guidance is provided to NSA personnel
+having access to the metadata, but not to those receiving query results. &-
+Alexander Decl. at 29. As discussed above, the government has proposed special rules and
+restrictions on the handling and dissemination of query results. Most notably, PR/TT query
+results must remain identiﬁable as bulk PR/TT—derived information, ﬂi_ Response
+at 15, and may not be disseminated outside NSA Without the prior determination by a designated
+
+ofﬁcial that any United States person information relates to counterterrorism information and that
+
+it is necessary to understand the counterterrorism information or to assess its importance. -
+
+TOP-SEW
+
+94
+

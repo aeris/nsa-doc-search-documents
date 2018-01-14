@@ -1,0 +1,35 @@
+ 
+
+b. Contents
+
+3’ CC
+
+As noted above, “contents, when used with respect to any . . . electronic
+communication, includes ﬂy information concerning the substance, purport, or meaning of that
+communication.” 18 U.S.C. § 2510(8) (emphasis added). “Electronic communication” is also
+deﬁned broadly, so that it encompasses the exchanges of information between account user and
+provider that are described by communications actions. And of course, the deﬁnitions of “pen
+register” and “trap and trace device” provide that the information acquired “shall not include the
+contents of ﬂy communication,” Section 3127(3) & (4) (emphasis added) — unqualiﬁed language
+that certainly seems to include electronic communications between account users and providers.
+The combined literal effect of these provisions appears to be that PIUTT devices may not obtain
+ﬂy information concerning the substance, purport, or meaning of ﬂy communication, including
+those between account users and providers, and that communications actions that divulge ﬂy
+such information would be impermissible “contents” for purposes of a PIVTT authorization.
+The government does not directly confront the statutory text on this point. It does argue,
+however, that an expansive, literal understanding of the prohibition on acquiring “contents”
+
+would lead to an absurd and unintended restriction on what PIVTT devices can do. Speciﬁcally,
+
+the government notes that the electronic impulses transmitted by dialing digits on a telephone
+
+ 
+
+49 The Court’s understanding of “processing” and “transmitting” e-mail -
+
+_is set forth below. _S_ge pages 63—64, infra.
+
+49W
+
+56
+

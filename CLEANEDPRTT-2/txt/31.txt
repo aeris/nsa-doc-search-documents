@@ -1,0 +1,29 @@
+ 
+
+The government argues that DRAS information and contents are “mutually exclusive
+categories,” and that Congress intended for DRAS information “to be synonymous with ‘non—
+content.” _I_d_. at 23, 51. The Court is not persuaded that the government’s proposed construction
+can be squared with the statutory text. The deﬁnition of pen register covers “a device or process
+which records or decodes dialing, routing, addressing, or signaling information transmitted by an
+instrument or facility . . ., provided, however, that such information shall not include the contents
+of any communication.” § 3127(3). The structure of the sentence — an afﬁrmative description of
+the information to be recorded or decoded, followed by a proviso that “such information shall not
+include the contents of any communication” —— does not suggest an intention by Congress to
+create two mutually exclusive categories of information. Instead, the sentence is more naturally
+read as conveying two independent requirements — the information to be recorded or decoded
+must be DRAS information and, whether or not it is DRAS, it must not be contents. The same
+observations apply to the similarly-structured deﬁnition of “trap and trace device.” See 18
+U.S.C. § 3127(4) (“a device or process which captures the incoming electronic or other impulses
+which identify the originating number or other dialing, routing, addressing, and signaling _
+information reasonably likely to identify the source of a wire or electronic communication,
+provided, however, that such information shall not include the contents of any communication”).
+
+The breadth of the terms used by Congress to identify the categories of information
+subject to collection and to deﬁne “contents” reinforces the conclusion that DRAS and contents
+
+are not mutually exclusive categories. As the government observes, _s_e_e Memorandum of Law at
+
+49W
+
+31
+

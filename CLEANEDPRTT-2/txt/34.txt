@@ -1,0 +1,41 @@
+ 
+
+the information that the government seeks to acquire and use in this case: (1) is the information
+DRAS information?; and (2) is it contents‘.733
+
+In determining whether or not the types of information sought by the government
+constitute DRAS information, the Court is guided by the ordinary meanings of the terms
+
+5, 5‘
+
+“addressing, routing,” and “signaling,” and by the context in which the terms are used.34 As
+the government asserts, “addressing information” may generally be understood to be
+“information that identiﬁes recipients of communications or participants in a communication”
+and “may refer to people [or] devices.” Memorandum of Law at 37.35 The Court also agrees
+with the government that “routing information” can generally be understood to include
+information regarding “the path or means by which information travels.” Memorandum of Law
+at 37. As will be explained more fully in the discussion of “communications actions” below, the
+
+Court adopts a somewhat narrower deﬁnition of “signaling information” than the government. In
+
+summary, the Court concludes that signaling information includes information that is utilized in
+
+ 
+
+33 To decide the issues presented by the application, the Court need not reach the
+government’s contention that Congress intended DRAS information to include all information
+that is not contents, or its alternative argument that, if there is a third category consisting of non-
+DRAS, non-content information, a PR/TT device may properly collect such information. See
+Memorandum of Law at 49—5 1.
+
+34 The government does not contend that any of the information sought constitutes only
+“dialing information,” which it asserts “presumptively relates to telephones.” Memorandum of
+Law at 37 n.19.
+
+35 ﬁg; Newton’s Telecom Dictionary at 89 (“An address comprises the characters
+identifying the recipient or originator of transmitted data”).
+
+MW
+
+34
+

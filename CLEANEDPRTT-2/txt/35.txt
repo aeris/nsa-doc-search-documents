@@ -1,0 +1,35 @@
+ 
+
+or pertains to (1) logging into or out of an account or (2) processing or transmitting an e-mail or
+IM communication. _S_ﬁ pages 50—56, infra.“
+
+With regard to “contents,” the Court is, of course, bound by the deﬁnition set forth in
+Section 2510(8), which, as noted, covers “any information concerning the substance, purport, or
+meaning” of the wire or electronic communication to which the information relates. When the
+coMunication at issue is between or among end users, application of the deﬁnition of
+“contents” can be relatively straightforward. For an e-mail communication, for example, the
+contents would most obviously include the text of the message, the attachments, and the subj ect-
+line information. In the context of person—to—computer communications like the interactions
+between a user and a web—mail service provider, however, determining what constitutes contents
+can become “hazy.” _S_e_e 2 LaFave, gtaL. Criminal Procedure § 4.6(b) at 476 (“[W]hen a person
+sends a message to a machine, the meaning of ‘contents’ is unclear”). Particularly in the user-
+to-provider context, the broad statutory definition of contents includes some information beyond
+
+what might, in ordinary parlance, be considered the contents of a communication.
+
+2. The Categories of Metadata Sought for Acquisition
+
+The government requests authority to _ategories of
+
+ 
+
+ 
+
+36 For purposes of this Opinion, the term “e—mail communications” refers to e-mail
+
+W
+
+  
+
+35
+

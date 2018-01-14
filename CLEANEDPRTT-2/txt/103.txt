@@ -1,0 +1,44 @@
+ 
+
+pertinent part, as “the acquisition by an electronic, mechanical, or other surveillance device of the
+contents of any wire communication to or from a person in the United States, without the consent
+of any party thereto, if such acquisition occurs in the United States.” 50 U.S.C. § 1801(f)(2).83
+For purposes of this deﬁnition of “electronic surveillance,” “contents” is deﬁned in Section
+
+1801 (n) to include, among other things, “any information concerning the identity of the parties”
+to a communication “or the existence . . . of that communication.”84 “Wire communication” is
+
+deﬁned as “any communication while it is being carried by a wire, cable, or other like connection
+
+ 
+
+82(...continued)
+[and] includes any form of ‘pen register’ or ‘touch-tone decoder’ device which is used to acquire,
+
+from the contents of a voice communication, the identities or locations of the parties to the
+communication”).
+
+83 Section 1801(f) includes three additional deﬁnitions of “electronic surveillance,” only
+one of which appears to have any possible application with regard to the prior bulk PR/TT
+collection. Subsections (f)(1) (“the acquisition . . . of any wire or radio communication sent by
+or intended to be received by a particular, known United States person who is in the United
+States, if the contents are acquired by intentionally targeting that United States person”) and
+(f)(3) (“the intentional acquisition . . . of any radio communication”) are ﬂatly inapplicable.
+Subsection (f)(4) could apply to the extent the prior collection included non-wire
+communications acquired under “circumstances in which a person has a reasonable expectation
+of privacy and a warrant would be required for law enforcement purposes.” The Court’s analysis
+of Section 1809(a)(2) would, of course, apply identically to prior unauthorized collection
+constituting “electronic surveillance” under any of the deﬁnitions set forth in Section 1801(f).
+
+84 As noted above, the deﬁnition of “contents” in Section 1801(n) is different than the
+deﬁnition of “contents” in 18 U.S.C. § 2510(8) — the latter deﬁnition does not include
+information concernin the identity of the parties to or the existence of the communication. See
+page 27, supra; Opinion at 6 n6. Accordingly, information constituting “contents”
+as used in Section 1801(f) can be acquired through the use of a PR/TT device, provided that it
+does not also constitute “contents” under Section 2510(8) and that it otherwise satisﬁes the
+statutory requirements for acquisition by PR/TT collection.
+
+MW
+
+103
+

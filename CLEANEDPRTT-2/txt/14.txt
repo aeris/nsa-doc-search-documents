@@ -1,0 +1,45 @@
+ 
+
+“accurately segregate” information that fell within the scope of the prior orders from those that
+
+did not. Id.
+
+The FISC approved prospective collection _on the terms requested by the
+
+government when it granted a renewal application— §e_e Docket No. PR/TT
+_Primary Order issued on-at 5-6. However, the FISC withheld nunc pr_o
+
+m relief for the previously collected information, and NSA removed from its systems all data
+
+collected _under the prior order. _S_e_e Docket —
+
+D. Non-Compliance Disclosed -
+
+ 
+
+ 
+
+The next relevant compliance problems surfaced in. and involved three general
+subjects: (1) accessing of metadata; (2) disclosure of query results and information derived
+therefrom; and (3) overcollection. These compliance disclosures generally coincided with
+revelations about similar problems under a separate line of FISC orders providing for NSA’s
+bulk acquisition of metadata for telephone communications pursuant to 50 U.S.C. § 1861.16
+
+l. Accessing Metadata
+
+On J anuary-the government disclosed that NSA had regularly accessed the bulk
+
+telephone metadata using a form of automated querying based on telephone numbers that had not
+
+been approved under the RAS standard. _S_e_e Docket No. BR 08-13, Order Regarding
+
+ 
+
+‘6 The Section 1861 orders, like the bulk PR/TT orders, permit NSA analysts to access
+
+the bulk telephone metadata onl throu h ueries based on RAS-a roved telephone numbers.
+L L, Docket No. H, at mo.
+MW
+
+14
+

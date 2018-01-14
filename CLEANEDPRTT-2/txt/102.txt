@@ -1,0 +1,34 @@
+ 
+
+the language of Section 1809(a)(2) demonstrates that Congress intended at least some
+unauthorized PR/TT acquisitions to be covered by the criminal prohibition. The statute expressly
+reaches, among other things, information obtained through “electronic surveillance not
+authorized by this chapter, [or] chapter 119, 121, or 206 of Title 18.” Section 1809 is part of
+Chapter 36 of Title 50 of the US. Code. Chapter 36, in turn, encompasses all of FISA, as
+codiﬁed in Title 50, including FISA’s PR/TT provisions found at 50 U.S.C. §§ 1841-1846.
+Accordingly, “this chapter” in Section 1809(a)(2) refers in part to the FISA PR/TT provisions.
+Moreover, Chapter 206 of Title 18, which is also referenced in Section 1809(a)(2), consists
+exclusively of the PR/TT provisions of the criminal code, 18 U.S.C. §§ 3121-3127, key portions
+of which are incorporated by reference into FISA. _S_ee 50 U.S.C. § 1841(2) (incorporating the
+deﬁnitions of “pen register” and “trap and trace device” found at 18 U.S.C. § 3127). Because
+Chapter 206 of Title 18 authorizes no means of acquiring information other than through the use
+of PR/TT devices, Section 1809(a)(2)’s reference to “electronic surveillance” must be understood
+to include at least some information acquired through the use of PR/TT authority.
+
+That conclusion is reinforced by examination of FISA’s deﬁnition of “electronic
+surveillance,” which applies to Section 1809, see 50 U.S.C. § 1801 (“As used in this
+subchapter: . . .”), and which is broad enough to include some (but not necessarily all)
+
+information acquired through the use of PR/TT devices.82 “Electronic surveillance” is deﬁned, in
+
+ 
+
+82 See also H.R. Rep. 95-1283, pt. 1, at 51 (1978) (“The surveillance covered by [Section
+1801(f)(2)] is not limited to the acquisition of the oral or verbal contents of a communication . . .
+
+(continued...)
+
+MW
+
+102
+

@@ -1,0 +1,20 @@
+ 
+
+The legislative history relied on by the government, see Memorandum of Law at 52,
+actually points to a similar conclusion about the intended scope of signaling information to be
+acquired by a PR/TT device. It states that “orders for the installation of [PR/TT] devices may
+obtain any non-content information — ‘dialing, routing, addressing, and signaling information’ —
+utilized in the processing or transmitting of wire and electronic communications.” H.R. Rep. No.
+107-236(1), at 53 (emphasis added; footnote omitted). Moreover, the particular types of
+information mentioned in the legislative history as DRAS information that may be collected by a
+PR/TT device all pertain to the processing or transmitting of a communication. s99, gg,, i_d_.
+(referencing “attempted connections,” including “busy signals” and “packets that merely request
+a telnet connection in the Internet context”). The House report states that “non—content
+information contained in the ‘options ﬁeld’ of a network packet header constitutes ‘signaling’
+
+information and is properly obtained by an authorized pen register or trap and trace device.” Li.
+
+ 
+
+54
+

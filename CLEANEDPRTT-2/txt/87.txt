@@ -1,0 +1,37 @@
+ 
+
+The government’s proposed RAS—approval and querying process differs in two
+noteworthy respects from the approach previously approved by the Court. First, unlike RAS
+approvals made pursuant to the _ Order and prior orders in this matter,74 RAS
+approvals made under the approach now proposed by the government will expire after a speciﬁed
+time. A determination by a designated approving ofﬁcial for an identiﬁer reasonably believed to
+be used by a United States person would be effective for 180 days, while such a determination
+for any other identiﬁer would last for one year. _Alexander Decl. at 27. An
+identiﬁer deemed approved based on FISC—authorized electronic surveillance or physical search
+will be subject to use as a seed for the duration of the FISC authorization. kl; The adoption of
+ﬁxed durations for RAS approvals will require the government at regular intervals to renew its
+RAS assessments for identiﬁers that it wishes to continue to use as querying “seeds.” The re-
+evaluations that will be required under the proposed approach can be expected to increase the
+likelihood that query results are relevant to the counterterrorism purpose of the bulk metadata
+
+collection and to reduce the amount of irrelevant query results (including information regarding
+
+ 
+
+74 Previously, approved identiﬁers remained eligible for querying until they were
+afﬁrmatively removed from the list of approved “seed” accounts. The government’s practice was
+to remove identiﬁers from the list only “[w]hen NSA receive [d] information that suggest[ed] that
+a RAS-approved e-mail address [was] no longer associated with one of the Foreign Powers”;
+implicitly, the mere passage of time without new information did not obligate the government to
+
+revoke a RAS approval. E Docket No. PR/TT NSA 90—Day Report to the Foreign
+Intelligence Surveillance Court ﬁled 0 at 6. The government had informed the
+Court on that it was “developing a framework within which to revalidate, and
+
+when appropriate, reverse . . . RAS approvals,” i_d_. at 6, but it does not a ear that the new
+framework had been implemented before the expiration of the Court’s h Order on
+
+49W
+
+87
+

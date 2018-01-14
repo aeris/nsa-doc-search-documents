@@ -1,0 +1,32 @@
+ 
+
+United States persons) that is yielded.
+
+The second proposed change to the process involves the number of NSA personnel
+permitted to perform RAS-approved queries. Unlike the _ Order and prior orders
+in this matter, which limited the number of analysts permitted to run such queries, the re-
+initiation proposed by the government has no such limitation. S_ee 1; at 26 n.18; _
+Order at 7. The government instead proposes the use of “technical controls” to “block any
+analytic query of the metadata with a non-RAS-approved seed.” _ Alexander Decl. at
+26 n.18. The government further notes that all analytic queries will continue to be logged, and
+that the creation and maintenance of auditable records will “continue to serve as a compliance
+measure.” l_d.; §_ee_als_o _Order at 7. In light of the safeguards noted by the
+government, and the additional fact that no identiﬁer will be eligible for use as a querying seed
+Without having ﬁrst been approved for querying by a designated approving ofﬁcial (or deemed
+approved by virtue of a FISC order), the Court is satisﬁed that it is unnecessary to limit the
+number of NSA analysts eligible to conduct RAS-approved queries.
+
+D. Sharing of Ouerv Results Within NSA
+
+The government’s proposal for sharing query results Within NSA is similar to the
+approach approved by the Court last year. The—Order provided, subject to a
+proviso that is discussed below, that the unminimized results of RAS—approved queries could be
+
+“shared with other NSA personnel, including those who are not authorized to access the PR/TT
+
+metadata.”_)rder at 11. The basis for such Widespread sharing of query results
+
+411W
+
+88
+

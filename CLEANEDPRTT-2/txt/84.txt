@@ -1,0 +1,40 @@
+ 
+
+and disseminating such information. _S__e_e_ - Alexander Decl. at 24—25; _
+
+-Dec1. at 14 n8. After PR/TT metadata is queried in accordance with the procedures
+described below, the query results (including analytic output based on query results)70 will remain
+identiﬁable as bulk PR/TT-derived information. §_e_e_ Response at 15. Such
+traceability enables NSA personnel to adhere to the special rules for disseminating PR/TT—
+derived information that are described below.
+
+B. Access to the Metadata by Technical Personnel for Non—Analytic Purposes
+
+Under the approach proposed by the government, “[t]rained and authorized technical
+personnel” will be permitted to access the metadata to ensure that it is “usable for intelligence
+analysis.” 1d, at 25. For example, such personnel may access the metadata to perform processes
+designed to prevent the collection, processing, or analysis of metadata associated with-
+maintain records necessary to demonstrate compliance with the terms of authority granted; or to
+
+develop and test technologies for possible use with the metadata. Id.“ Similar non-analytic
+
+ 
+
+7° The government has explained that “[q]uery results could include information
+provided orally or in writing, and could include a tip or a lead (gg, ‘A query on RAS-approved
+identiﬁer A revealed a direct contact with identiﬁer Z’), a written or electronic depiction of a
+chain or pattern, a compilation or summary of direct or indirect contacts of a RAS-approved
+seed, a draft or ﬁnished report, or any other information that would be returned following a
+
+properly predicated PR/TT query.” _ Response at 15 n6.
+
+7‘ An authorized NSA technician may query the metadata with a non-RAS-approved
+identiﬁer for the limited iﬁose of determining whether such identiﬁer is an unwanted
+
+— lexander Decl. at 25. After recognizing a
+(continued...)
+
+W
+
+84
+

@@ -1,0 +1,39 @@
+ 
+
+government’s request to access, use, and disseminate the fruits of the prior unauthorized
+collection implicates all three elements of Section 1809(a)(2)’s criminal prohibition.
+
+Application of the ﬁrst two elements is straightforward. Plainly, conducting contact
+chaining inquiries of stored data and sharing the query results both within and outside NSA
+would constitute the intentional use and disclosure of information.80 It is also clear that the data
+previously collected by the government — which was acquired through the use of orders issued by
+this Court pursuant to FISA — was obtained “under color of law.” ﬁe West V. Atkins, 487 US.
+42, 49-50 (1988) (explaining that the misuse of authority possessed by virtue of law is action
+“under color of law”).’31
+
+The third element requires lengthier discussion, but, in summary, the Court concludes
+that some of the prior bulk PPJTT collection is information that the responsible government
+ofﬁcials know or have reason to know was obtained through electronic surveillance not
+
+authorized by one of the statutory provisions referred to in Section l809(a)(2). To begin with,
+
+ 
+
+8° Insofar as the government contends that Section 1809(a)(2) reaches only “intentional
+violations of the Court’s orders,” or “willful” as opposed to intentional conduct, see
+Memorandum of Law at 74 n. 37, the Court disagrees. The plain language of the statute requires
+proof that the person in question “intentionally” disclosed or used information “knowing or with
+reason to know” the information was obtained in the manner described.
+
+81 The phrase “a person” in Section 1809 is certainly intended to cover government
+ofﬁcials. In addition to requiring conduct “under color of law,” the statute provides an
+afﬁrmative defense to prosecution for a “law enforcement or investigative ofﬁcer engaged in the
+course of his ofﬁcial duties” in connection with electronic surveillance “authorized by and
+
+conducted pursuant to a search warrant or court order of a court of competent jurisdiction.” $99
+50 U.S.C. § 1809(b).
+
+412W
+
+101
+

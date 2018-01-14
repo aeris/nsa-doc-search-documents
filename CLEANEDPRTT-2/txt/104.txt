@@ -1,0 +1,30 @@
+ 
+
+furnished or operated by any person engaged as a common carrier in providing or operating such
+facilities for the transmission of interstate or foreign commerce.” 50 U.S.C. § 1801(l). Reading
+those deﬁnitions together, then, “electronic surveillance” includes, among other things, the
+acquisition (1) by an electronic, mechanical, or other surveillance device (2) of information
+concerning the identity of the parties to or the existence of any communication to or from a
+person in the United States, (3) when such information is acquired in the United States (4) while
+the communication is being carried on a wire, cable, or other like connection furnished or
+operated by a common carrier.
+
+The unauthorized portion of the prior PR/TT collection includes some information that
+meets all four of these criteria. First, there is no question that the prior collection was acquired
+through the use of “electronic, mechanical, or other surveillance devices.” E, ggn-
+_Decl. at 9 (describing the use of “NSA-controlled equipment or devices” to “extract
+metadata for subsequent forwarding to NSA’s repositories”).
+
+Second, the overcollection included information concerning the identity of the parties to
+and the-existence of communications to or from persons in the United States. Persons in the
+United States were parties to some of the communications for which data was acquired. See,
+gg,,_Application at 5-6 (stating that the collection will include metadata pertaining
+to persons within the United States); Q at 9 (stating that the “collection activity . . . will collect
+metadata from electronic communications that are: (1) between the United States and abroad; (2)
+
+between overseas locations; and (3) wholly within the United States”). And, as discussed above,
+
+W
+
+104
+

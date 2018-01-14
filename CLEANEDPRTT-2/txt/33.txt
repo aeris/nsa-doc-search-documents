@@ -1,0 +1,31 @@
+ 
+
+also In re Pharmatrak. Inc., 329 F.3d 9, 16, 18 (1st Cir. 2003) (URLs including search terms are
+“contents” under Section 2510(8)).32 In the context of telephone communications, the term
+“dialing information” can naturally be understood to encompass all digits dialed by a caller.
+However, some digits dialed after a call has been connected, or “cut through,” can constitute
+“contents” — for example, if the caller is inputting digits in response to prompts from an
+automated prescription reﬁll system, the digits may convey substantive instructions such as the
+prescription number and desired pickup time for a reﬁll. Courts accordingly have described post—
+cut-through digits as dialing information, some of which also constitutes contents. See Inge
+Application of the United States for an Order (1) Authorizing the Installation and Use of a PR/TT
+Device and (2) Authorizing Release of Subscriber and Other Information, 622 F. Supp.2d 411,
+412 n.1, 413 (SD. Tex. 2007) (Rosenthal, District Judge); In re Application, 396 F. Supp.2d at
+48.
+
+In light of the foregoing, the Court rejects the government’s contention that DRAS
+
+information and contents are mutually exclusive categories. Instead, the Court will, in
+
+accordance with the language and structure of Section 3127(3) and (4), apply a two-part test to
+
+ 
+
+32 But see H.R. Rep. No. 107-236(1), at 53 (2001) (stating that the portion of a URL
+“specifying Web search terms or the name of a requested ﬁle or article” is not DRAS information
+and therefore could not be collected by a PR/TT device).
+
+W
+
+33
+

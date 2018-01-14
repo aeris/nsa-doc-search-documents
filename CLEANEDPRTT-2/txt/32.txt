@@ -1,0 +1,35 @@
+ 
+
+37, the ordinary meanings of the terms “dialing,” “routing,” addressing,” and “signaling” — which
+are not deﬁned by the statute — are relatively broad. Moreover, as noted above, the term
+“contents” is broadly deﬁned to include “ﬂy information concerning the substance, purport, or
+meaning of [an electronic] communication.” 18 U.S.C. § 2510(8) (emphasis added). And
+“electronic communication,” too, is deﬁned broadly to mean “ﬂy transfer of signs, signals,
+writing, images, sounds, data or intelligence of any nature transmitted in whole or in part by a
+wire, radio, electromagnetic, photoelectronic, or photooptical system . . . .” 18 U.S.C. §
+2510(12) (emphasis added).
+
+Given the breadth of the terms used in the statute, it is not surprising that courts have
+identiﬁed forms of information that constitute both DRAS and contents. In the context of
+Internet communications, a Uniform Resource Locator (URL) ~ “an address that can lead you to
+
+a ﬁle on any computer connected to the Internet”31 —
+
+constitutes a form of “addressing
+information” under the ordinary meaning of that term. Yet, in some circumstances a URL can
+also include “contents” as deﬁned in Section 2510(8). In particular, if a user runs a search using
+an Internet search engine, the “search phrase would appear in the URL after the ﬁrst forward
+slash” as part of the addressing information, but would also reveal contents, _1._C_=, the “substance”
+and ‘meaning’ of the communication . . . that the user is conducting a search for information on a
+
+particular topic.” 11 re Application of the United States for an Order Authorizing the Use of a
+
+Pen Register and Trap, 396 F. Supp.2d 45, 49 (D. Mass. 2005) (Collins, Magistrate Judge); ﬂ
+
+ 
+
+31 _S_e_:_e Newton’s Telecom Dictionary 971 (24th ed. 2008).
+49m
+
+32
+

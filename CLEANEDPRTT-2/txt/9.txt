@@ -1,0 +1,33 @@
+ 
+
+analysts could access the bulk metadata only on the basis of RAS-approved queries, id, at 42-43,
+56-58, and the rule governing dissemination of US. person information outside of NSA, i_c_l_. at
+85.
+
+However, the ﬁnding of relevance most crucially depended on the conclusion that “the
+proposed bulk collection . . . is necessary for NSA to employ . . . analytic tools [that] are likely to
+generate useful investigative leads for ongoing efforts by the [Federal Bureau of Investigation
+
+(FBI)] (and other agencies) to identify and trac_ LCL at 48.
+
+Consequently, “the collection of both a huge volume and high percentage of unrelated
+
+communications . . . is necessary to identify the much smaller number 0-
+—such that the entire mass of collected metadata is relevant to investigating-
+
+afﬁliated persons. I_d at 48-49; see also id at 53—54 (relying on government’s
+
+explanation why bulk collection is “necessary to identify and monitor _operatives
+
+whose Internet communications would otherwise go undetected in the huge streams of-
+
+communications”).
+
+B. First Disclosure of Overcollection
+
+During the initial period of authorization, the government disclosed that NSA’S
+acquisitions had exceeded the scope of what the government had requested and the FISC had
+approved. Insofar as it is instructive regarding the separate form of overcollection that has led
+
+directly to the current application, this prior episode is summarized here.
+

@@ -1,0 +1,35 @@
+ 
+
+Section 1809(a)(2), the Court concludes that it has authority to grant the government’s request
+and that it is appropriate under the circumstances to do so.
+1. Information Authorized for Acquisition Under the Court’s Prior Orders
+
+The government argues that the FISA PR/TT statute, 50 U.S.C. § 1842, empowers the
+Court to authorize NSA to resume querying the prior collection in its entirety. S_ee Memorandum
+of Law at 72-73. As discussed above, the Court continues to be satisﬁed that it may, pursuant to
+Section 1842 and subject to appropriate restrictions, authorize NSA to acquire, in bulk, the
+metadata associated with Internet communications transiting the United States. Further, although
+Section 1842 does not explicitly require the application of minimization procedures to PR/TT-
+acquired information, the Court also agrees that in light of the sweeping and non-targeted nature
+of this bulk collection, it has authority to impose limitations on access to and use of the metadata
+that NSA has accumulated.
+
+The Court is satisﬁed that it may invoke the same authority to permit NSA to resume
+querying the PR/TT information that was collected in accordance with the Court’s prior orders.
+The Court is further persuaded that, in light of the government’s assertion of national security
+need,79 it is appropriate to exercise that authority. Accordingly, the Court hereby orders that the
+
+government may access, use, and disseminate bulk PR/TT information that was collected in
+
+ 
+
+79 ﬂ-Alexander Decl. at 10 “ he ability of NSA to access the
+information collected under docket number PR/TT and previous dockets is vital to NSA’s
+ability to carry out its counterterrorism intelligence m1ss1on. If NSA is not able to combine the
+information it collects prospectively with the information it collected [previously], there will be a
+substantial gap in the information available to NSA”).
+
+W
+
+99
+

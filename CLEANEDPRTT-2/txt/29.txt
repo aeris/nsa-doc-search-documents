@@ -1,0 +1,45 @@
+ 
+
+communication under the deﬁnitions set forth above.28 The end—result of the collection process29
+
+is that only metadata authorized by the Court for collection is forwarded to NSA for retention and
+
+use. —
+
+    
+
+Finally, and again subject to the
+discussion below regarding what types of information may properly be acquired, the Court
+
+concludes that the automated processes resulting in the transmission to NSA of information
+
+ 
+
+28 Many of the communications for which information will be acquired will fall within
+the broad deﬁnition of “electronic communication” at 18 U.S.C. § 2510(12). If, however, a
+covered communication consists of an“aural transfer,” ii, “a transfer containing the human
+voice at any point between and including the point of origin and the point of reception,” i_d_. §
+2510(18), then it could constitute a “wire communication” under the meaning of Section
+2510(1). In either case, the communications subject to collection are “wire or electronic
+communication[s],” as required in Sections 3127(3) & (4).
+
+29 The term “process,” as used in the deﬁnitions of “pen register” and “trap and trace
+device”, has its “generally understood” meaning of “a series of actions or operations conducing
+to an end” and “covers software and hardware operations used to collect information.” Inge
+Application of the United States for an Order Authorizing the Installation and Use of a PR/TT
+Device on E-Mail Account, 416 F. Supp.2d 13, 16 n5 (D.D.C. 2006) (Hogan, District Judge)
+(internal quotations and citations omitted).
+
+30 Accord-Opinion at 12-13; In re Application of the United States for an
+Order Authorizing the Use of Two PR/TT Devices, 2008 WL 5082506 at *1 (E.D.N.Y. Nov. 26,
+2008) (Garauﬁs, District Judge) (recording and transmitting contents permissible under PR/TT
+order where government computers were conﬁgured to immediately delete all contents). But see
+In re Application of the United States for an Order Authorizing the Use of a PR/TT Device On
+Wireless Telephone, 2008 WL 5255815 at *3 (E.D.N.Y. Dec. 16, 2008) (Orenstein, Magistrate
+Judge) (any recording of contents impermissible under PR/TT order, even if deleted before
+information is provided to investigators).
+
+49W
+
+29
+

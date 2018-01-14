@@ -1,0 +1,33 @@
+ 
+
+assessing relevance, the primary difference between the current application and prior bulk PR/TT
+authorizations is that the current application encompasses a much larger volume of
+communications, without limiting the requested authorization to streams of data with a relatively
+high concentration of Foreign Power communications.60
+
+There is precedent, however, for concluding that a wholly non-targeted bulk production
+of metadata under Section 1861 can be relevant to international terrorism investigations. In those
+cases, the FISC has found that the ongoing production by major telephone service providers of
+call detail records for all domestic, United States-to-foreign, and foreign-to—United States calls, in
+order to facilitate comparable forms of NSA analysis and with similar restrictions on handling
+
+and dissemination, is relevant to investigations of the Foreign Powers. §_e_e, gg, Docket No. I
+
+ 
+
+59 As part of the relevance analysis, the-Opinion also relied on the presence
+of “safeguards” governing the handling and dissemination of the bulk metadata and information
+derived from it. The safeguards proposed in the current application are discussed below, and, as
+modiﬁed, the Court ﬁnds them to be adequate. §§§ Part IV, _i_nf_r_2_1.
+
+6° The current application also seeks to expand the categories of metadata to be acquired
+for each communication. The Court is satisfied that the categories of metadata described in the
+current application constitute directly relevant information insofar as they relate to
+communications of a Foreign Power. _S_e_e, gg,—Alexander Decl. at 19-22. The
+metadata for other communications is relevant to the investigations of the Foreign Powers for the
+reasons discussed herein.
+
+W
+
+74
+
