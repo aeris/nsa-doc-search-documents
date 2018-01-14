@@ -1,0 +1,50 @@
+TOP SECRETHCOMENT/INOFORNHZ0320108
+
+Oversight and Compliance will conduct ongoing oversight activities and will make any
+necessary reports, including those relating to incidents of noncompliance, to the NSA Inspector
+General and OGC, in accordance With its NSA charter. SID Oversight and Compliance will also
+ensure that necessary corrective actions are taken to address any identified deﬁciencies. To that
+end, SID Oversight and Compliance will conduct periodic spot checks of targeting decisions and
+intelligence disseminations to ensure compliance with established procedures, and conduct
+periodic spot checks of queries in data repositories.
+
+(S) The Department of Justice (DOD and the Ofﬁce of the Director of National Intelligence
+(ODNI) will conduct oversight of NSA's exercise of the authority under section 702 of the Act,
+which will include periodic reviews by DO] and ODNI personnel to evaluate the implementation
+of the procedures. Such reviews will occur at least once every sixty days.
+
+(S) NSA will report to DOJ, to the ODNI Ofﬁce of General Counsel, and to the ODNl Civil
+Liberties Protection Ofﬁcer any incidents of noncompliance with these procedures by NSA
+personnel that result in the intentional targeting of a person reasonably believed to be located in
+the United States, the intentional targeting of a United States person, or the intentional
+acquisition of any communication in which the sender and all intended recipients are known at
+the time of acquisition to be located within the United States. NSA will provide such reports
+within ﬁve business days of learning of the incident. Any information acquired by intentionally
+targeting a United States person or a person not reasonably believed to be outside the United
+States at the time of such targeting will be purged from NSA databases.
+
+(S) NSA will report to DOJ through the Deputy Assistant Attorney General in the National
+Security Division with responsibility for intelligence operations and oversight, to the ODNI
+Ofﬁce of General Counsel, and to the ODNl Civil Liberties Protection Ofﬁcer, any incidents of
+noncompliance (including overcollection) by any electronic communication service provider to
+whom the Attorney General and Director of National Intelligence issued a directive under
+section 702. Such report will be made within ﬁve business days after determining that the
+electronic connnunication service provider has not complied or does not intend to comply with a
+directive.
+
+(S) in the event that NSA concludes that a person is reasonably believed to be located outside the
+United States and after targeting this person learns that the person is inside the United States, or
+if NSA concludes that a person who at the time of targeting was believed to be a non-United
+States person was in fact a United States person, it will take the following steps:
+
+I) Terminate the acquisition without delay and determine whether to seek a Court order
+under another section of the Act. If NSA inadvertently acquires a communication
+sent to or from the target While the target is or was located inside the United States,
+including any communication where the sender and all intended recipients are
+reasonably believed to be located inside the United States at the time of acquisition,
+such communication will be treated in accordance with the applicable minimization
+procedures.
+
+TOP SECRET/K30hﬂNT/INOFORNI/ZWZG108
+8
+

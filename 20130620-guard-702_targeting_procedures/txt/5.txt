@@ -1,0 +1,55 @@
+TOP SECRET/lCOMINTNNOFORN/llﬂl’s20108
+
+Information made available to NSA analysts as a result of processing telephony
+metadata records acquired by any lawful means, such as electronic surveillance,
+physical search, or the use of a pen register or trap and trace device, or other
+information, reveals that the telephone number is used by an individual associated
+with a foreign power or foreign territory.
+
+With respect to Internet communications:
+
+0
+
+Information indicates that the electronic communications account/address/identifier
+has been used to communicate directly with an electronic communications
+account/address/identifier reasonably believed by the US. Intelligence Community to
+be used by an individual associated with a foreign power or foreign territory;
+
+information indicates that a user of the electronic communications account/address/
+identiﬁer has communicated directly with an individual reasonably believed to be
+associated with a foreign power or foreign territory;
+
+Information indicates that the electronic communications account/address/identifrer is
+included in the "buddy list” or address book of an electronic communications
+account/address/identifrer reasonably believed by the US. Intelligence Community to
+be used by an individual associated with a foreign power or foreign territory;
+
+Information indicates that the electronic communications account/address/identiﬁer
+has been transmitted during a telephone call or other communication with an
+individual reasonably believed by the US. Intelligence Community to be associated
+with a foreign power or foreign territory;
+
+Public Internet postings match the electronic communications account/address/
+identiﬁer to an individual reasonably believed by the US. Intelligence Community to
+be associated with a foreign power or foreign territory;
+
+Information contained in various NSA~maintained knowledge databases of foreign
+intelligence information acquired by any lawful means, such as electronic
+surveillance, physical search, the use of a pen register or trap and trace device, or
+other information, reveals that electronic communications account/address/identifier
+has been previously used by an individual associated with a foreign power or foreign
+territory;
+
+Information made available to NSA analysts as a result of processing metadata
+records acquired by any lawful means, such as electronic surveillance, physical
+search, or the use of a pen register or trap and trace device, or other information,
+reveals that the electronic communications account/addresss/identifier is used by an
+individual associated with a foreign power or foreign territory; or
+
+Information indicates that Internet Protocol ranges and/or specific electronic
+identifiers or signatures (cg, specific types of cryptology or steganography) are used
+almost exclusively by individuals associated with a foreign power or foreign territory,
+
+TOP SECRET/lCOMINT/lNOFORN/lz0320108
+5
+
