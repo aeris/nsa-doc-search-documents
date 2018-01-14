@@ -1,0 +1,49 @@
+SBZBE/InternProjects - WikiInfo
+
+(TS/lSI/lREL) Update the MOPNGO application to remove the buffer overﬂow
+issue it has when more than 512 characters are configured. Also, port this
+application to JUMPDOLLAR. Create a ROGUESAMURAI test suite to test the
+application. Look into creating unit tests as well.
+
+[edit] (TS/lSI/IREL) NTFSD DOS Driver
+
+(TS/lSI/lREL) The MX team has requested an upgrade of their NTFSD DOS
+driver for their DOS—based thumb drives used in interdiction deployments.
+The newest FSM should be compiled into a DOS driver for their use. This
+problem will be solved with the creation of a MKUSB utility for
+JUMPDOLLAR.
+
+[edit] (U) Full Featured Shell
+
+(TS/lSI/lREL) A full featured shell should be written (particularly for
+JUMPDOLLAR). The ability to run scripts and have some sort of ﬂow control
+logic would be desirable. This could eventually be used by the MX team as a
+means to deploy implants. They have expressed a desire to have one
+environment that can work on a Mac, Linux, or a Windows machine. Provided
+we have the file system support, this could eventually provide them what
+they want.
+
+[edit] (TS/ISI/IREL) Windows Registry
+Read/Write Capability
+
+(TS/lSI/lREL) Create the ability from SIERRAMIST/JUMPDOLLAR to be able
+to read and write the Windows registry. This will provide new capability to
+apps to do a whole host of new things. It may be possible to install
+VALIDATOR manually instead of relying on its installers. This work may also
+allow some IT Geo applications as well if we can tweak some keys.
+
+[edit] (TS/lSI/IREL) EFI Module
+
+(TS//SI//REL) Build an EFI module out of SIERRAMIST/JUMPDOLLAR apps
+that can be loaded via normal EFI mechanisms including an EFI shell. This is
+similar to what Sandia can do with their MOUSETRAP implant. This work
+could provide a new mechanism to achieve persistence and might prove to be
+easier than current patching techniques.
+
+[edit] (TS/lSI/IREL) Linux App
+
+(TS/lSI/lREL) Rewrite the Linux App to be configurable and add logging into
+it for use with IRATEMONK. Integrate build into BORGERKING. Investigate
+
+80f13
+

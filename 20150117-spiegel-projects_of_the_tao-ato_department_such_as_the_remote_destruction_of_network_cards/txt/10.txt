@@ -1,0 +1,53 @@
+SBZBE/InternProjects - Wikilnfo
+
+- (TS/lSI/IREL) BENTWHISTLE — A collection tool that runs from
+BERSERKR.
+
+(TS/[Sll/REL) BERSERKR is often looking to expand its target support. A big
+way this is done is via adding network card support. Currently, BERSERKR
+does not support any wireless network cards.
+
+[edit] (U/IFOUO) GOPHERRAGE
+
+(TS/[Sll/REL) GOPHERRAGE is a project that seeks to develop a hypervisor
+implant that would leverage both AMD and Intel's virtualization technology
+in order to provide both DNT implant persistence capabilities and a
+persistent back door.
+
+(TS/[SI/[REL) Deve10p a hypervisor implant that would leverage both Intel's
+and AMDs virtualization technology in order to provide both DNT implant
+persistence capabilities and a persistent back door access. The idea would be
+similar to what BERSERKR can do from SMM in that it should be able to use
+"the machine's network interface card (NIC) to communicate independently
+of the host operating system (08)". Also, this hypervisor implant should have
+full read/write access of host memory so it will be possible to change Host
+OS behavior in ways that could allow code execution, OS injection, system
+survye, VM break—in, etc.
+
+(TS/[Sll/REL) GOPHERRAGE is the Persistence Division's pilot program to
+apply industry best practices and agile deve10pment processes to internal
+projects. To this end, the project is managed via the Scrum process. Test
+Driven Development (TDD) practices are used as well in an effort to reduce
+code defects. The project also is looking to incorporate ideas from DNT such
+as their SCube build environment.
+
+[edit] (U/IFOUO) ‘Windows Tools
+[edit] (U/IFOUO) WISTFULTOLL
+
+ 
+
+(TS/ISIl/REL) WISTFULTOLL is the premiere target survey tool for Windows
+that runs on almost all targets automatically. It brings back information
+about the target system's machine and Operating system that is invaluable
+
+for both the Persistence Division and analysts enterprise wide. New features
+need to be added to WISTFULTOLL as well as it being refactored.
+
+[edit] (U/IFOUO) CENTRICDUD
+
+ 
+
+(TS/ISIl/REL) CENTRICDUD is a tool to read and writes bytes in the CMOS.
+
+10 of 13
+

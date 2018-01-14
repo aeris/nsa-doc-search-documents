@@ -1,0 +1,51 @@
+SBZBE/InternProjects - WikiInfo
+
+(python).
+
+[edit] (U/IFOUO) FAKEDOUBT Support
+
+(TSI/SII/REL) Create an IRATEMONK implementation for ARM—based Hitachi
+drives. This includes a firmware implant, IMBIOS code, and WICKEDVICAR
+and SPITEFULANGEL support.
+
+[edit] (Ul/FOUO) PLUCKHAGEN Support
+
+(TSI/SII/REL) Create an IRATEMONK implementation for ARM—based Fujitsu
+drives. This includes a ﬁrmware implant, IMBIOS code, and WICKEDVICAR
+and SPITEFULANGEL support.
+
+[edit] (U/IFOUO) EASYKRAKEN Support
+
+(TS//SI//REL) Add more drive support for ARM—based Samsung drives.
+
+[edit] (TS/lSI/IREL) USB Hard Drive
+Persistence
+
+(TSI/SII/REL) Develop a capability to install a hard drive implant on a USB
+hard drive. Since external hard drives are not normally boot from, the new
+implant will need to be an improved version of MADBISHOP so the hard
+drive implant will have the ability to manipulate the ﬁle system of the drive
+inside of the ﬁrmware itself. Development would consist of 3 main
+development areas:
+
+- (TS/lSI//REL) Reliable, robust, and portable NTFS C code. Other ﬁle
+systems could also be looked into such as FAT, EXTZ, etc.
+
+0 (TS/[Sll/REL) Hard drive implant
+
+0 (TS/lSI/lREL) Remote installation over USB
+
+[egﬂt] (TS/lSI/IREL) IRATEMONK on
+Server/RAID Systems
+
+(TS/[SII/REL) Investigate the feasibility of developing a hard drive
+persistence implant for Server/RAID systems. This will primarily involve
+investigating what ATA commands are allowed through various RAID
+controllers. Also, coming up with a scheme to handle different RAID
+configurations will be needed since the data on the drives will differ
+depending on the the RAID setup. It will be important to examine how RAID
+controllers interact the drives and where data (especially the MBR) is stored.
+If feasible, this investigation could lead to the extension of IRATEMONK—type
+
+50f13
+

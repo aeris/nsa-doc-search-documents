@@ -1,0 +1,57 @@
+83285/InternPr0jects - WikiInfo
+
+o 5.7 (TSZZSIZZREL) Linux App
+0 5.8 (TS ISI/ REL) File Svstem Su ort
+
+l 5.8.1 (TS/lSl/IREL) BTRFS
+l 5.8.2 (TS/lSl/IREL) LVM
+l 5.8.3 (TSZZSIZZREL) EXT4
+l 5.8.4 (TS/lSll/REL) UFS/ZFS
+6 {U/IFOUO) BERSERKR
+0 7 {U/IFOUO) GOPHERRAGE
+o 8 (U/IFOUO) Windows Tools
+0 8.1 (U/IFOUO) WISTFULTOLL
+o 8.2 (U/lFOUO) CENTRICDUD
+o 8.3 (U FOUO) STYLISHCHAMP
+
+9 (UZZFOUO) Network Infrastructure
+
+[edit] (TS/lSI/lREL) CNA Team
+POLITERAIN
+
+(TSI/SII/REL FVEY) TAO/ATO Persistence POLITERAIN(CNA) team is looking
+for interns who want to break things. We are tasked to remotely degrade or
+destroy opponent computers, routers, servers and network enabled devices
+by attacking the hardware using low-level programming. It would be
+expected that our interns would learn to:
+
+o (Ul/FOUO) Write drivers for LINUX, Windows, Solaris, or Apple OS.
+
+0 (U/lFOUO) Use SVN in a group environment.
+
+0 (TS/[SI//REL) Reverse engineer embedded systems
+
+0 (TS/ISI//REL) Deliver code that conforms to Op—sec and deniability
+requirements.
+
+0 (TS/[SI//REL) Recover equipment that has been attacked.
+
+o (Ul/FOUO) Work with multiple SME's to build something unique.
+
+0 (TS/[SI//REL) Developing an attacker's mind set.
+
+(TSl/SII/REL FVEY) POLITERAIN always has a backlog of smaller attacks
+than those listed below that need to be productized. We are also always open
+for ideas but our focus is on ﬁrmware, BIOS, BUS or driver level attacks. The
+projects below an intern could be expected to produce results in 4-6 months.
+Most of the projects are unique enough to allow for results to be briefed or
+published in a classiﬁed venue.
+
+[edit] (U) PASSIONATEPOLKA
+
+(TSI/SI/lREL FVEY)We have discovered a way that may be able to remotely
+brick network cards. We need someone to perform research and develop a
+deployable tool. Intern would have access to driver level developers, mentors
+
+20f13
+

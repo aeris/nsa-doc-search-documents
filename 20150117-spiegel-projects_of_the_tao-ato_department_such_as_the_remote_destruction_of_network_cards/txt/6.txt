@@ -1,0 +1,51 @@
+SBZBE/InternProjects - Wikilnfo
+
+hard drive implants into server spaces which provide increased covert
+storage and the capability to keep persistence logs which currently aren't
+available on BIOS only techniques.
+
+[edit] (Ul/FOUO) Enhancment of testing
+capabilities
+
+(TS/lSI/lREL) IRATEMONK makes use of ROGUE SAMURAI and actual
+hardware to perform its testing. The downside of testing with actual
+hardware is that testing takes many hours/days to complete. Someone with
+the right level of test development experience can help to improve the
+current IRATEIVIONK testing strategy.
+
+[edit] (TS/lSI/IREL) Self-Encrypting-Drive
+(SED) Persistence
+
+(TSl/SII/REL) SED drives provide additional security measures which often
+thwart IRATE MONK developer efforts to modify the firmware on these
+drives. I highly skilled intern with reverse engineering skills and
+understanding of security in computing systems would be invaluable in
+tackling one of the persistence divisions more difficult problems.
+
+[edit] (TS/lSI/IREL) OS Execution
+
+(TS/[SII/REL) While a lot of work in the Persistence Division involves
+modifying firmware, there is still a large need for OS kernel and user—mode
+expertise. The firmware modification done at the lowest levels of hardware
+needs a way to obtain execution inside of a running OS so that a DNT
+payload can be either given execution or installed.
+
+[edit] (Ul/FOUO) CASTLECRASHER
+
+ 
+
+(TS//SI//REL) CASTLECRASHER is the primary technique used in executing
+DNT Windows payloads from all payload persistence techniques (i.e.
+IRATEIVIONK and SIERRAMISTFREE). It is all Windows native mode code
+built using Visual Studio. CASTLECRASHER has many advanced techniques
+in it including thread injection and anti—stack backtracing. In many cases,
+CASTLECRASHER is closer to the DNT style kernel work than it is to
+traditional Persistence work. While the current version is quite robust, there
+are several features that need to be added:
+
+- (TS/lSI//REL) Currently CASTLECRASHER doesn't work against
+systems with .360 Safe installed. We need to find a way around this even
+if it involves using the older Windows service method of execution. This
+
+60f13
+

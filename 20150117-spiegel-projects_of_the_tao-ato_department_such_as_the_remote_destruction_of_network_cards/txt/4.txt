@@ -1,0 +1,53 @@
+SBZBE/InternProjects - Wikilnfo
+
+x86 assembly. This work will involve interacting with the ﬁrmware
+implant as well as the code that IMBIOS bootstraps (SIERRAMIST).
+
+o (TS/ISI/IREL) Add support for the SSD to WICKEDVICAR.
+WICKEDVICAR is the remote tool used to perform remote survey and
+installation. This code is C++ and will involve interacting with the
+firmware implant from a Windows OS.
+
+0 (TS/ISI/IREL) Add the SSD vendor support to the IRATEMONK ﬁrmware
+and implant database tool. This code is mostly python code that
+interacts with a drive via a Linux driver.
+
+(TS/[Sll/REL) The SSD support for IRATEMONK project currently offers the
+greatest variety of new work that an intern might be able to do.
+
+[edit] (.TS/lSI/IREL) Covert Storage Product
+
+(TS/[Sll/REL) Create a covert storage product that is enabled from a hard
+drive ﬁrmware modification. The idea would be to modify the ﬁrmware of a
+particular hard drive so that it normally only recognizes say half of its
+available space. It would report this size back to the operating system and
+not provide any way to access the additional space. The ﬁrmware would have
+a special hook inside of it that on receipt of some custom ATA command, it
+would "unlock" the rest of the drive on the next boot of the drive. When
+covert storage is locked, only 1 partition would be present on the drive.
+When unlocked, the firmware would ﬁx up the partition table to account for
+the second hidden partition whose space is now available on the drive. When
+ﬁnished with covert storage, a special command can be sent back to the
+drive that will lock the drive again. On the next boot, the ﬁrmware will hide
+the extra space and ﬁx up the partition table so only 1 partition exists.
+
+[edit] (Ul/FOUO) SADDLEBACK
+
+(TS/[Sll/REL) Utilizing a hard drive's serial port, create a ﬁrmware implant
+that has the ability to pass to and from an implant running in the operating
+system. In practice, the serial port will be connected to a short hop radio that
+can communicate with another radio in a system. Doing a ﬁrmware
+modification eliminates the need to tap the SATA bus as was done on other
+versions of SADDLE BACK. Performing firmware modification will allow for a
+smaller SADDLEBACK in the form of a laptop drive as opposed to the current
+version which only comes in a a 3.5 inch version.
+
+[edit] (U/IFOUO) ALTEREDCARBON Support
+
+(TS/ISIl/REL) Develop IRATEMONK implants for the newest Seagate drives
+including their hybrid drive products. This work will primarily be a reverse
+engineering effort, but if successful will require updates to both IMBIOS (x86
+code, C and assembly), WICKEDVICAR (x86, C++), and SPITEFULANGEL
+
+40f13
+

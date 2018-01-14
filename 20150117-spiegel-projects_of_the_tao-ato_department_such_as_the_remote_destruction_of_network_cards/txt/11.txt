@@ -1,0 +1,35 @@
+SBZBE/InternProjects - WikiInfo
+
+It needs to be rewritten and productized so that it can be incorporated into a
+proper UR plug—in. The driver associated with this tool also needs to be
+redone as it is being ﬂagged by PSPs for unknown reasons. This tool is used
+both by the BIOS team as well as the IT Geo team.
+
+[edit] (Ul/FOUO) STYLISHCHAMP
+
+(TS//SI//REL) STYLISHCHAMP is a tool that can create a HPA on a hard drive
+and then provide raw reads and writes to this area. This tool should
+incorporate latest TWISTEDKILT code so that it can support SATA drives.
+This will allow SWAP to be used on newer systems. Currently, only IDE drives
+are used.
+
+[edit] (U/lFOUO) Network
+Infrastructure
+
+(TS//SI//REL) TORNSTEAK is a persistence solution for two ﬁrewall devices
+from a particular vendor. We need to port TORNSTEAK from the existing two
+ﬁrewalls to several more from the same vendor. This persistence effort would
+use one's reverse engineering, computer architecture, "C" programming and
+assembly language coding skills.
+
+Retrieved from
+
+TOP SECRETl/SI/lREL TO USA, FVEY
+
+Derived From: SI Classification Guide, 02-01, Dated: 20060711
+and NSA/CSSM 1—52, Dated: 20070108
+
+Declassify On: 20320108
+
+11 of 13
+

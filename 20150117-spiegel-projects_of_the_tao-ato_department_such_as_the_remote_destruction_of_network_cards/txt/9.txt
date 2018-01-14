@@ -1,0 +1,49 @@
+SBZBE/InternProjects - WikiInfo
+
+whether or not ROGUE SAMURAI can be used to test.
+
+[edit] (TS/lSI/IREL) File System Support
+
+(TS/ISIl/REL) The following ﬁle systems need support by
+SIERRAMIST/JUMPDOLLAR:
+
+[edit] (TS/lSI/IREL) BTRFS
+
+(TS/[Sll/REL) This file system is slated to become the default in Fedora Core
+17 or 18. Work can begin on supporting this now, however. This is applicable
+primarily for JUMPDOLLAR, but maybe SIERRAMIST as well.
+
+[edit] (TS/lSI/IREL) LVM
+
+(TS/ISll/REL) Back port changes of the LVM code in JUMPDOLLAR'S EXT4
+FSM to SIERRAMIST'S EXT3.
+
+[edit] (TS/lSI/IREL) EXT4
+(TS/ISI/IREL) Back port JUMPDOLLAR'S EXT4 FSM to SIERRAMIST.
+[edit] (TS/lSI/IREL) UFS/ZFS
+
+(TS/ISll/REL) Create UPS and ZFS FSMS forJUMPDOLLAR.
+
+[edit] (U/IFOUO) BERSERKR
+
+(TS/ISIl/REL) BERSERKR is a persistent backdoor that is implanted into the
+BIOS and runs from SMM. Although the core of the code is stable, there are
+always new requirements against which to develop. This includes new
+network interface card parasitic drivers as well as applications.
+
+(TS/ISIl/REL) Some notable applications that need development:
+
+0 (TS/ISIl/REL) KIRKBOMB _ Windows kernel examination to detect
+loaded drivers, running processes as well. There is a prototype which
+works on Windows 7, this needs to work on XP and 2008 including
+64-bit systems.
+
+0 (TS/lSI/IREL) SODAPRESSED — Linux application persistence. Given a
+running installation of Linux, install some application or inject
+something into memory which will. This currently works on certain
+versions of Linux without SELinux enabled.
+
+(TS/ISIl/REL) There may also be requirements in the near future for:
+
+90f13
+

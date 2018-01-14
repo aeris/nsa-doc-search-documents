@@ -1,0 +1,48 @@
+SBZBE/InternProjects - Wikilnfo
+
+will more than likely require a refactoring of how the conﬁguration data
+of CASTLECRASHER is stored.
+
+o (TS/ISI/IREL) Develop an automated test suite using the Persistence
+Division's ROGUESAMURAI test framework to provide more robust
+testing for this important project.
+
+[edit] (TS/ISI/IREL) Alternate Windows
+Execution Technique
+
+(TS/ISIl/REL) Currently, CASTLECRASHER is the only production quality
+Windows execution technigue that Payload Persistence technigues have.
+Another mechanism to execute DNT payloads is needed. Most pre—boot
+Persistence techniques only have the ability to inﬂuence an OS through
+modiﬁcations to the target file system. Work needs to be done to investigate
+other ways to get execution inside of Windows. This work will start looking at
+other techniques that have been provided to the Persistence Division from
+other partners. The feasibility of these techniques should be assessed. If
+feasible, the technique should be productized into a deployable solution.
+
+[edit] (TS/ISI/IREL) Mac OSX Execution
+Technique
+
+(TS/ISIl/REL) Research needs to be done to investigate different ways that a
+pre—boot Persistence technique that can modify the target ﬁle system can get
+execution inside of OSX. Maybe start—up scripts can be modiﬁed or special
+ﬁles can be added that will get executed. In order for Payload Persistence to
+work against OSX, a execution technique is needed.
+
+[edit] (U)
+SIERRAMIST/JUMPDOLLAR
+
+[edit] (U) Extensibility Application
+
+(TS/ISIl/REL) Create a new extensibility application that checks for a ﬁle on
+the ﬁle system that it will run to update the SIERRAMIST partition. This
+application would replace the current one and would have list of conﬁgurable
+file paths to check. This could be written for both SIERRAMIST and
+JUMPDOLLAR. Create a ROGUE SAMURAI test suite to test all aspects of this
+
+app.
+
+[edit] (U) MOPNGO Application
+
+7of13
+
