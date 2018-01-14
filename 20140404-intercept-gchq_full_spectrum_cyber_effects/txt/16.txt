@@ -1,0 +1,175 @@
+This information is exen'pt under the Freedom ofInformation Act 2000 (FOIA) and may be exempt under other UK information legislation. Refer any FOIA queries to GCHQ
+
+on
+
+CNA
+
+UK TOP SECRET STRAP1
+
+Vulnerability Assessment Process Development
+
+Enabling CNO For intelligence production teams, based on Target Templating methodology
+
+ 
+
+Target Templahng :5 a hypothesis-based
+oollabowatrue methodology tor demo network
+analysts. Ely constructing a logical hypothesis trom
+your knowledge gaps. a target thread is produced.
+The thread is based on the wider-standing at 6
+'Layers" understanding the target domain and how it
+connects to the global network, and then
+understandng what opportunities can be exploited to
+
+Inlormalion Need.
+Knowledge Gap
+Hypothesis
+
+gain access. Layer 7 captmes the work now. and what needs
+to be done to achieve the outcome. Target Templating
+protrudes that lrarnework in order to break down a problem
+rite the essenttel pans necessary to develop access and
+I'IOIWOI'R krmdedae. Visualisation 0| this kne-Medae at all
+layers Is essential to spotting linkages both honzmtalty
+across the layers and wort-eels: through them. so the use 01 a
+\tiSUﬂllSﬂllﬂl‘l package during the NADP will be encouraged.
+
+ 
+
+/"‘
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+large Space
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+\
+
+ 
+
+k
+I
+I
+
+/,
+
+ 
+
+the GUM. TY SPARK portal on GCWIkr‘
+
+ 
+
+\
+
+|\
+
+7 I
+\\\\\\\\\\.\
+
+Layer 1: Target — an Entity such as a
+person or organisation.
+
+Layer 2: lnlrastructure - How the target
+connects to the global network
+
+Layer 3: Technology - Understanding the
+technology the target uses to eemmumte
+
+Layer 4: Vulnerahllltlea — Looking ‘lar
+UIJII'IEI'EDIIIIIES In the technologies
+
+Layer 5: Capabilities - Can we explort the
+vulnerabilities?
+
+Layer 3: Access - What assets do we have
+to collect the Hattie?
+
+Layer 7: Expectation. Planning. Delivery -
+Haw are we gomg to achieve the
+
+deﬁll'od outcome?
+
+For fudherinfonnatr'on on Target Templating visit 9%“
+
+or—
+
+ 
+
+[fl-"r.— till- 1- 1-0- :0
+O 0 ﬁ- .35 :I H
+.e .. , I
+
+Vulnerability Assessment Template
+
+latrletnﬂrunullu-hr-llh-hm and: .alh-wﬂllnlutglm
+
+gm:
+
+-- e...“ . .1 *1 mmmmmmrm_phumhmnlm;
+
+o I
+a
+
+'tnl mu rm complete mu soluble! in neural-Inert I m)
+
+'op- I.—
+
+llt M in. I-
+
+Ntll~tl ..-..
+
+"a I'm-e
+
+I1HIIIII “IIII-I-H
+
+v0 Ute->4 ‘0'.— ! ~¢-- m
+tw—o .. - —v-- I In..-II.'I1'I'II1
+iwutmh’.‘ ‘Nm‘S'I-ﬂl
+"I l-I‘---
+
+in he... v..-
+
+I".~‘1¢'~4 to...
+
+n- IIJ“ Oat who ‘3‘
+
+gm" Ila-II b
+
+ 
+
+ 
+
+ 
+
+ 
+
+-.~.
+
+wince-uIOb o last-1...!" - mm m _.__tn- 1245.4" .2.” 1—1“- m Nisan-103:6“ u"
+
+VA process delivered through
+NADP trained network analysts
+
+within each production team
+
+ 
+
