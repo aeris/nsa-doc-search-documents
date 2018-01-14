@@ -1,0 +1,109 @@
+TOP SECRET/lCOMINT/lREL TO USA, AUS, CAN, GBR, NZL/l20320108
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DRAFT
+Fix issues CBS and Turmoil April 9—10
+Rerun test CBS and Turmoil April 9—10
+Document Benchmarks CBS and Turmoil April 13—15
+
+ 
+
+April 16 will be a review date of the performance benchmarks gathered on a 2.56 T—16
+Heavy system. This information will guide decisions to pursue architectural and design
+planning and implementation to meet the Sep 30, 2009 KPPs.
+
+ 
+
+Benchmark functionality and performance testing on 2.5G LPT (T—16)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Task Owner Date
+Configure LPT with SPIN Turmoil April 30
+14. Configure Keycard
+
+Configure Dell with PIQ CES April 30
+services
+
+Configure ITX/IH for PIQ AMF April 30
+blade and VAO messaging
+
+traffic
+
+Run PIQ to VAO interface CES April 30
+test
+
+Provide data set that can be CBS and Turmoil April 31
+looped to meet performance
+
+requirements. Data set is
+
+characterized for outcome.
+
+Data needs to be loaded in
+
+streamer (?)
+
+Load Keycard with IPs and CBS April 31
+Strong Selectors
+
+Run test CBS and Turmoil May 1
+Identify issues CBS and Turmoil May 1
+Fix issues CBS and Turmoil May 4—5
+Rerun test CBS and Turmoil May 6
+Document Benchmarks CBS and Turmoil May 7
+
+ 
+
+May 8 is the second review date of the performance benchmarks. This will include the
+benchmarks from the 2.5G LPT system. This information will guide decisions to pursue
+architectural/design planning and implementation to meet the Sep 30, 2009 KPPs.
+
+Turmoil technical discussion can be hosted in parallel to the benchmark testing. The
+purpose of the discussions is to ??????.
+
+TOP SECRET/lCOMINT/lREL TO USA, AUS, CAN, GBR, NZL/l20320108
+
+ 
+
+ 
+
