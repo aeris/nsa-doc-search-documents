@@ -1,0 +1,52 @@
+DDCID: 4086223
+
+ 
+
+'S'E'CR'E, l 31/ m ruruarx. 7 Iva
+
+(U//FOHO) This is the initial issue of this USSID SP0018. Annex I (formerly USSID 18.
+Annex I).
+
+(U//FOHO) This USSID contains sensitive information that is legally protected from release to
+any member of the public and is to be used only for official purposes of the National Security
+Agency and its customers. Users must strictly adhere to all classiﬁcation and handling
+restrictions (see (see NSA/C SS Classiﬁcation Manual 123-2)) when storing hard or soﬁ copies
+of this USSID or when hyperlinking to this USSID. The SIGINT Policy System Manager will
+maintain and update this USSID on-line where users may access the most current version from
+the NSANet. Appropriate USSIDs will also be available on INTELINK. as warranted. Users are
+responsible for the update and management of this USSID when it is stored locally.
+
+(UH-FOHO') United States SIGINT System (USSS) contractors or consultants assigned to
+NSA/CSS Headquarters or to other elements of the SIGINT Extended Enterprise are pre-
+authorized for access to USSIDs via NSANet. INTELINK. or in hard-copy formats as needed to
+perform their jobs. However. for those sensitive USSIDs for which access is password -
+controlled. all users. to include contractors. must undergo additional security and mission vetting.
+Non-USSS contractors or consultants working at external facilities are pre-authorized for soft-
+copy access to USSIDs via NSANet or INTELINK. if connectivity to those systems is allowed
+by the contractor's NSA/CSS sponsor. Where such connectivity is not established. any hard-copy
+provision of USSIDs must be authorized by the SIGINT Policy System Manager (NSTS: 963-
+3593. STU-III: (443) 479-1442. DSN: 644-7492).
+
+(U/EOHQ This USSID is not releasable to any Third Party partner. If a shareable version of
+this USSID is needed (see USSID SPOOOZ. Annex B (formerly USSID 2. Annex B)). please
+contact the appropriate Country Desk Officer in the Foreign Affairs Directorate.
+
+THE EXECUTIVE AGENT:
+
+/s/
+WILLIAM E. ODOM
+Lieutenant General. USA
+Director. NSA/Chief. CSS
+
+ 
+
+ 
+
+TABLE OF CONTENTS
+
+SECTION 1 - (U) PURPOSE AND SCOPE
+
+ 
+
+SECTION 2 - (U) DEFINITIONS
+
