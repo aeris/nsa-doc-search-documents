@@ -1,0 +1,88 @@
+TOP SECRET/lSI/TK/INOFORN
+
+ 
+
+target’s decrypts, it has
+already seen substantive
+changes in that target’s use of
+
+cryptography.
+
+GI) Various levels of harm to
+national security can be
+
+expected if this material were
+to be declassiﬁed, depending
+on the particular information
+
+ 
+
+ 
+
+being revealed.
+29. CI) Alphabet Generators: CONFIDENTIAL//SI//REL TO 50Xl *75 years GI) A document that
+Documents that demonstrate or USA, FVEY at a minimum 50X3 from date demonstrates or includes the
+include the application of any 50X6 of material
+
+cryptanalytic technique relating
+to Alphabet Generator systems
+that became operational after
+15 August 1945
+
+ 
+
+ 
+
+ 
+
+ 
+
+application of any
+cryptanalytic technique to an
+electromechanical cipher
+system that is an alphabet
+generator is
+UNCLASSIFIED only if the
+system is UNCLASSIFIED in
+accordance with the WWII
+Guidance.
+
+GI) This guidance pertains to
+
+documents relating to:
+
+0 Wired wheels (such as
+ENIGMA),
+
+0 Telephone selectors
+(such as PURPLE, RED,
+JADE, and CORAL),
+and
+
+Hagelin alphabet generators.
+
+(C//REL TO USA, FVEY) In
+this time frame, commercial
+companies and nation states
+developed and deployed
+cryptographies which have
+many features still in use in
+cryptosystems NSA/CSS
+exploits today. Documents
+that detail the application of
+cryptanalytic techniques to
+these earlier systems will
+reveal capabilities still in use
+today against operational
+target cipher systems.
+
+GI) Various levels of harm to
+national security can be
+expected if this material were
+
+ 
+
+TOP SECRET/lSI/TK/INOFORN
+
+ 
+

@@ -1,0 +1,88 @@
+TOP SECRET/lSI/TK/INOFORN
+
+ 
+
+GI) Information Security
+Devices provided to other
+countries by the US.
+Government are considered
+Commercial Information
+Security Devices.
+
+GI) Various levels of harm to
+national security can be
+expected if this material were
+to be declassiﬁed, depending
+on the particular information
+being revealed.
+
+ 
+
+ 
+
+ 
+
+33. CI) Indigenous Information CONFIDENTIAL//SI//REL TO 50X1 *75 years (C//REL TO USA, FVEY)
+Security Devices: Documents USA, FVEY at a minimum 50X3 from date For indigenous security
+containing details of indigenous 50X6 of material devices or systems, any
+cryptographic algorithms, documents revealing
+information security devices or NSA/CSS’s knowledge of the
+systems cryptography of those devices
+
+will risk its ability to
+diagnose and exploit these
+devices, and in some cases,
+knowledge it received from
+sensitive HUMINT sources.
+GI) Various levels of harm to
+national security can be
+expected if this material were
+to be declassiﬁed, depending
+on the particular information
+being revealed.
+
+34. aJ/lFOUO) Signal designators CONFIDENTIAL//SI//REL TO 50Xl *75 years aJ/lFOUO) Examples of
+when combined with ﬂy details USA, FVEY at a minimum 50X3 from date signal designators include
+that would reveal a target _ 50X6 of material RAS IN Manual designators
+user/country or when associated and TEXSIGs.
+
+with cryptanalytically relevant
+information, such as UKUSA
+nicknames, coverterms, or any
+targeting, collection, or
+exploitation details
+
+ 
+
+ 
+
+ 
+
+ 
+
+aJ/lFOUO) Signal
+designators with no
+indication of target user or
+country are
+UNCLASSIFIED.
+
+GI) This information is
+directly linked to NSA/CSS
+sources and methods for
+collection and processing.
+The Second Party standards
+and notation developed under
+UKUSA are still in use today.
+
+GI) Various levels of harm to
+national security can be
+
+expected if this material were
+to be declassiﬁed, depending
+
+ 
+
+TOP SECRET/lSI/TK/INOFORN
+
+ 
+

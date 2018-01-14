@@ -1,0 +1,100 @@
+TOP SECRET/lSI/TK/INOFORN
+
+ 
+
+still in use in cryptosystems
+NSA/CSS exploits today.
+Documents that detail the
+application of cryptanalytic
+techniques to these earlier
+systems will reveal
+capabilities still in use today
+against operational target
+cipher systems.
+
+GI) Various levels of harm to
+national security can be
+
+expected if this material were
+to be declassiﬁed, depending
+on the particular information
+
+ 
+
+ 
+
+ 
+
+being revealed.
+
+31. (TS//SI//REL TO USA, FVEY) TOP SECRET//SI//REL TO 75Xl *75 years GI) Such documents may also
+Commercial Cryptanalytic USA, FVEY 7 5X3 from either be compartmented.
+Relationships: Documents that 75X6 the date of
+contain information that implies 7 5X9 material or (TS//SI//REL TO USA,
+that commercial companies end of the FVEY) Exposure of any
+cooperate with NSA/CSS or relation- company’s commercial
+Second Party partners to render ship, cryptanalytic relationship
+their products exploitable from whichever with NSA/CSS, even for a
+a cryptanalytic standpoint is longer company no longer in
+
+existence, will damage
+NSA/CSS’s credibility with
+current companies who are
+approached for assistance.
+Exposure of even decades-
+old commercial cryptanalytic
+relationships may cause
+signiﬁcant harm to the
+company’s reputation and
+ﬁnancial status.
+
+GI) Exceptionally grave
+damage to national security
+can be expected if this
+material were to be
+declassiﬁed.
+
+32. (C//REL TO USA, FVEY) CONFIDENTIAL//Sl//REL TO 50X1 *75 years (C / /REL TO USA, FVEY)
+Commercial Information USA, FVEY at a mlnlmum 50X3 ﬁ'OIIl date Disclosing details Of
+
+50X6 of material
+
+Security Devices: Documents
+containing details of
+commercially available
+cryptographic algorithms,
+information security devices, or
+systems that identify an actual
+vulnerability not currently
+publicly known, or details
+relating to NSA/CSS
+exploitation of a publicly
+known vulnerability
+
+ 
+
+ 
+
+ 
+
+ 
+
+vulnerabilities or NSA/CSS’s
+methods of choice for
+exploitation will allow
+commercial companies to ﬁx
+those weaknesses in existing
+systems and avoid
+implementing them in future
+systems. Frequently,
+commercial companies make
+the same or similar mistakes
+through several generations
+of their products.
+
+ 
+
+TOP SECRET/lSI/TK/INOFORN
+
+ 
+
