@@ -1,0 +1,52 @@
+SECRETHCOMINTHNOFORNHZOS10I08
+
+privileged communications must be reviewed by the NSA Ofﬁce of General Counsel prior to
+dissemination. (S//SI)
+
+Section 5 - Domestic Connnunications (U)
+
+A communication identiﬁed as a domestic communication will be promptly destroyed upon
+recognition unless the Director (or Acting Director) of NSA speciﬁcally determines, in
+writing, that: (S)
+
+(1) the communication is reasonably believed to contain signiﬁcant foreign intelligence
+information. Such communication may be provided to the Federal Bureau of
+Investigation (FBI) (including United States person identities) for possible
+dissemination by the FBI in accordance with its minimization procedures; (8)
+
+(2) the communication does not contain foreign intelligence information but is
+reasonably believed to contain evidence of a crime that has been, is being, or is about
+to be committed. Such communication may be disseminated (including United States
+person identities) to appropriate Federal law enforcement authorities, in accordance
+with 50 U.S.C. §§ l806(b) and 1825(c), Executive Order No. 12333, and, where
+applicable, the crimes reporting procedures set out in the August 1995 ”Memorandum
+of Understanding: Reporting of Information Concerning Federal Crimes," or any
+successor document. Such communications may be retained by NSA for a reasonable
+period of time, not to exceed six months unless extended in writing by the Attorney
+General, to permit law enforcement agencies to determine whether access to original
+recordings of such communications is required for law enforcement purposes; (S)
+
+(3) the communication is reasonably believed to contain technical data base information,
+as deﬁned in Section 2(i), or information necessary to understand or assess a
+communications security vulnerability. Such communication may be provided to the
+FBI and/or disseminated to other elements of the United States Govennnent. Such
+communications may be retained for a period sufﬁcient to allow a thorough
+exploitation and to permit access to data that are, or are reasonably believed likely to
+become, relevant to a current or future foreign intelligence requirement. Sufficient
+duration may vary with the nature of the exploitation. (S// SI)
+
+a. In the context of a cryptanalytic effort, maintenance of technical data bases
+requires retention of all communications that are enciphered or reasonably
+believed to contain secret meaning, and sufﬁcient duration may consist of any
+period of time during which encrypted material is subject to, or of use in,
+cryptanalysis. (S// SI)
+
+b. In the case of communications that are not enciphered or otherwise thought to
+contain secret meaning, sufﬁcient duration is ﬁve years unless the Signal
+Intelligence Director, NSA, determines in writing that retention for a longer
+period is required to respond to authorized foreign intelligence or
+counterintelligence requirements; or (S//SI)
+
+SECRETUCOMINTl/NOFORN/IZOS20108
+5
+

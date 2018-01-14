@@ -1,0 +1,51 @@
+SECRET/lCOMINT/lNOFORN/IZDS10108
+
+procedures set out in the August I. 995 "Memorandum of Understanding: Reporting of
+Information Concerning Federal Crimes," or any successor document. (U)
+
+((2) Provision of Unminimized Communications to CIA and FBI (S//NF)
+
+(1) NSA may provide to the Central Intelligence Agency (CIA) unminirnized
+communications acquired pursuant to section 702 of the Act. CIA will
+identify to NSA targets for which NSA may provide unminimized
+communications to CIA. CIA will process any such umninimized
+communications received from NBA in accordance with CIA minimization
+procedures adopted by the Attorney General, in consultation with the Director
+of National Intelligence, pursuant to subsection 7 02(6) of the Act. (S//SI//NF)
+
+(2) NSA may provide to the FBI unminimized communications acquired pursuant to
+section 702 of the Act. The FBI Will identify to NSA targets for which NSA may
+provide unminimized communications to the FBI. The FBI will process any such
+unminimized communications received from NSA in accordance with FBI
+minimization procedures adopted by the Attorney General, in consultation with the
+Director of National Intelligence, pursuant to subsection 7 02(e) of the Act. (S// SI)
+
+Section 7 - Other Foreign Communications (U)
+
+Foreign communications of or concerning a non—United States person may be retained, used,
+and disseminated in any form in accordance with other applicable law, regulation, and policy.
+
+(U)
+Section 8 — Collaboration with Foreign Governments (S//SI)
+
+(a) Procedures for the dissemination of evaluated and minimized information. Pursuant to
+Section l.7(c)(8) of Executive Order No. 12333, as amended, NSA conducts foreign
+cryptologic liaison relationships with certain foreign governments. Information acquired
+pursuant to section 7 02 of the Act may be disseminated to a foreign government. Except
+as provided in subsection 8(b) of these procedures, any dissemination to a foreign
+government of information of or concerning a United States person that is acquired
+pursuant to section 702 may only be done in a manner consistent with subsections 6(b)
+and 7 of these NSA minimization procedures. (S)
+
+(b) Procedures for technical or linguistic assistance. It is anticipated that NSA may obtain
+information or communications that, because of their technical or linguistic content, may
+require further analysis by foreign governments to assist NBA in determining their
+meaning or signiﬁcance. Notwithstanding other provisions of these minimization
+procedures, NSA may disseminate computer disks, tape recordings, transcripts, or other
+information or items containing unminimized information or communications acquired
+pursuant to section 702 to foreign governments for further processing and analysis, under
+the following restrictions with respect to any materials so disseminated: (S)
+
+SECRETl/COMINTHNOFORNHZOS20108
+8
+
