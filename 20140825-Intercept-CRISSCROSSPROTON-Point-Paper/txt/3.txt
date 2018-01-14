@@ -1,0 +1,55 @@
+TOP SECRETHCOMINTHORCONINOFORNHMR
+
+(SHOC, NF) PROTON performs entity analysisfcontact chaining across data
+types. Users may search on a target entity’s phone number and PROTON will
+return the associated email, cell phone, call records, street address, and CIA
+intelligence report excerpts.
+
+(SHOC, NF) PROTON tools find other entities that behave in a similar manner
+to a specific target, it also identiﬁes correspondents in common with two or more
+targets, identifies potential new phone numbers when a target switches phones,
+and identifies networks of organizations based on communications within the
+group.
+
+(SNOC, NF) PROTON provides search capabilities for exploiting commercial
+phone books and data that do not conform to a particular type, such as excerpts
+from CIA intelligence reports.
+
+(U) Current NSA contribution to CRISSCROSSXPROTON (data elements (number of
+records to datefrecords per weekfmonth, etc.)
+
+(SNOC, NF) CIA, DIA, FBI, and DEA contributions over a three-month period
+totaled 1 1.7 billion records (which includes many records that are not
+
+“c ommunic ati ons -metadata c ontact rec ords " .)
+
+(S KISIHNF) NSA contributions over the same three-month period totaled 4.2
+billion records (again, only limited to telephony contact data). (Note: under the
+NSA proposal to create an IC-wide communications metadata repository, NSA’s
+contribution would be in the 100’s of billions of contact records- telephony and
+DNI contact records.)
+
+(U) How NSA currently uses CRISSCROSSKPROTON in conjunction with other
+NSA metadata repositories and tools.
+
+(SHOC, NF) NSA analysts use Proton to perform analysis against data from
+CIA, NSA, DEA, FBI and DIA in a single common interface. Results provide
+additional targets of interest for all product lines. Merging the data produces a
+more complete picture of the target’s communications and activity.
+
+(TSNSIHNF) NSA Users reported the following regarding the importance of
+
+PROTON:
+
+«- (S) SIGINT analysts in Iraq attributed PROTON for successes at locating and
+apprehending High Value Individuals (HVIs). PROTON had the information
+they needed to get U .S. troops in the right location.
+
+0 (S) PROTON was critical in capturing a HVI who was wanted by the FBI and
+AFOSI for terrorist related activity in Denver.
+
+0 (S KISI) PROTON provided the location information of a money exchange
+house that was connected to a Pakistani militant group.
+
+TOP SECRETIICOMlNTIfORCON/NOFORNIIMR
+

@@ -1,0 +1,54 @@
+TOP SECRETHCOMINTHORCONINOFORNHMR
+
+POINT PAPER
+22 Feb 06
+
+SUBJECT: CRISSCROSSKPROTON
+
+PURPOS E: Provide DIRNSA information on subject.
+
+BACKGROUND:
+
+(U) History of CRISSCROSSXPROTON (how did it come about, when, and by
+whom.)
+
+(SNOC, NF) Project CRISSCROSS began in the early 1990’s when CIA and DEA
+collaborated on a database and analytical tool suite to perform link analysis and
+cross-reference lookups against DEA and CIA collected telephone billing records
+and phone directories.
+
+(SHOC, NF) NSA Office of Crime and Narcotics requested the software and
+database capabilities of CRISSCROSS to enhance SIGINT data. CRISSCROSS
+proved extremely successful at identifying new phone numbers associated with
+‘lost' drug targets and locating additional targets of interest. Expanding the
+coverage from Latin America to worldwide then enhanced target development
+efforts across all NSA product lines.
+
+(U) Current CRISSCROSSXPROTON Agreements.
+
+(SHOC, NF) All CRISSCROSSXPROTON Agreements are via bilateral
+Memoranda of Understanding (MOU) and exist between CIA, DEA, NSA, DIA,
+and FBI. DEA and FBI do not currently share data with each other.
+
+(SHOC, NF) DIA provides support to various DoD elements (e.g 'JICs/JACs and
+other Service Intelligence structures) as specified in MOU Addendums.
+
+(U) How current data in CRISSCROSSXPROTON is "minimized" and by what
+standards.
+
+(SNOC, NF) From its inception, NSA has only provided telephony data to
+CROSSCROSSXPROTON , which constitutes: date, time, duration, called
+number and calling number. NSA ‘minimizes” this metadata prior to its
+transmission of data to CIA.
+
+(Sf/NF) NSA data is pulled from the FASCIA and HOMEBASE systems and
+transmitted to a NSA terminal in CIA’s PROTON Project Office.
+
+(SKISI) For US. and 2nd party numbers, minimization is achieved by replacing
+the rightmost 4 digits with four x’s.
+
+Derived From: NSAICSSM 1-52
+Dated: 2004] 123
+Declassify On: 20290325
+TOP SECRETHCOMlNTinRCON/NOFORNIIMR
+

@@ -1,0 +1,41 @@
+TOP SECRETHCOMlNTffORCONfNOFORNﬂMR
+
+o (Sf/SI) The classification of the NSA call-event records is CONFIDENTIAL
+NOFORN.
+
+o (S NOC, NF) NSA Office of General Counsel ruled that the data contributed by
+CIA, DIA, DEA, and FBI does not need to be minimized by NSA before being
+incorporated into the NSA PROTON system as each MOA signatory must
+“minimize” according to their own authorities.
+
+(U) How CRISSCROSSKPROTON operates today (data ﬂowsftape courier, tools, etc.)
+
+ 
+
+«- (SKIN F) PROTON is a proprietary system architecturally inconsistent with DoD
+and NSA development guidelines and environment. It requires specific licensing
+and maintenance expenses and currently cannot be integrated with other tools.
+
+ 
+
+o (SNOC, NF) Data is transferred from NSA, DIA, and FBI to CIA electronically or
+by courier delivery of magnetic tapes.
+
+(U) Current proposals to modify (pending) CRISSCROSSKPROTON with the
+addition of other data elementsfcontentfprocedures
+
+o (SHOC, NF) New communications technologies necessitated evolution of: the
+CRISSCROSS software. The CRISSCROSS system only handled five call-record
+fields: date, time, duration, called number and calling number. PROTON goes
+further and analyzes additional data fields that are specific to cell and satellite
+phones, such as IMEIs and IMSIs, latﬂong coordinates. PROTON also analyzes
+email headers (not content), SMS text messages, SIM cards, travel records
+(passport #, ﬂight #, description), VISA application data and excerpts from CIA
+intelligence reports.
+
+0 (SNOC, NF) CIA, DIA, and FBI have added these additional data types to
+PROTON and share this data with NSA. However, NSA has never agreed to
+expand its contributions to PROTON.
+
+TOP SECRETIICOMlNTIfORCON/NOFORNIIMR
+

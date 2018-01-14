@@ -1,0 +1,44 @@
+TOP SECRETHCOMINTHORCONINOFORNHMR
+
+ 
+
+o (S) PROTON allows a single stop to find registration information for phones
+that are not being us ed by the person to whom they are registered. This is
+particularly important for front companies, where tying multiple phones to
+the same registration can provide critical information.”
+
+(S) SID is recommending that a DNI IC-wide central communications metadata
+repository be established and reside at NSA and that DIRNSA/CHCSS be made
+Executive Agent for this IC repository. NSA and its foreign SIGINT partners stand
+alone in conducting metadata analysis on such a large scale and as a result, our
+tools and methodologies, as well as the infrastructure employed, are well tested and
+have been proven efficient and effective. We already extensively share metadata
+internally within the NSA/CSS enterprise and, having recently reached agreement
+with our Second Party partners, are ready to begin implementing that agreement to
+share Second Party metadata writ large.
+
+(S/IN F) Rather than continuing to push communications metadata out to the
+PROTON repository, we propose using the existing 10 shared information space
+ICSIS (Intelligence Community System for Information Sharing) on INTE LINK and
+have IC users come in through an existing tool to pull data from metadata
+repositories resident at NSA. We would implement IC access to our
+GLOBALREACH federated query service via accounts and access verified by PKI
+certificates. This service will provide the access requested and permit the auditing
+of such repository users. We believe we can have GLOB ALREACH capability ready
+for the IC within approximately one to two months of a decision to proceed with this
+proposal.
+
+  
+
+and
+
+ 
+ 
+
+(U/IFOUO) ORIGINATORs:l
+
+—for the IC-metadata proposal, and
+—for CRISSCROSS/PROTON, 22 Feb 06
+
+TOP SECRETIICOMlNTffORCON/NOFORNIIMR
+
