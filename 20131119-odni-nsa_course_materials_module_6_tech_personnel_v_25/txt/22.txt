@@ -1,0 +1,59 @@
+ 
+
+ 
+
+DATE/PREPARER: SL8 Topic Page Classification Screen Number
+
+(U) The Compliance 4QP£EGRE$HGQMN$HNQF9RN— 13 of 20
+Certiﬁcation Process
+
+ 
+
+ 
+
+FRAME ID: 7140
+(U) Following the Compliance Certification Process
+
+(U) The goal of the compliance certiﬁcation process is to integrate compliance into the
+
+development phase
+NEXT FRAME ID: 7150
+
+ 
+
+BACK FRAME ID: 7130
+ALT TAG:
+
+ 
+
+ 
+
+GRAPHIC/AV:
+
+ 
+
+ 
+
+W"; (Technical Character): The goal of the compliance certification process is to integrate compliance into the development phase. The gates
+shown in the compliance process represent distinct requirements that must be satisﬁed in order to provide reasonable assurance of compliance. The
+
+architects of the new technology develop engineering documents to support these requirements. The TD certiﬁcation group reviews the artifacts to verify
+the compliance process requirements are being met.
+
+'(‘FSﬁSI-h‘NF) The compliance certification process begins by registering inll "Access the site by typing Into your web
+
+browser. Once registration is complete, you will receive a requirements pa
+
+ 
+
+(U//FOUO) Compliance is an ongoing process. [Ev change or update to previously certified software requires recertifu' ' compliant. In other
+words, if you develop a modiﬁcation or upgrade to the software, then you need to register the software modiﬁcation in to begin the
+recertification process.
+
+ 
+
+ 
+
+49m
+Page 2] of 30
+

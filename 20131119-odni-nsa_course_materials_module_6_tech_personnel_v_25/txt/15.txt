@@ -1,0 +1,108 @@
+ 
+
+DATE/PREPARER: SLS
+
+ 
+
+FRAME ID: 7090
+
+ 
+
+Topic Page Classiﬁcation Screen Number
+(U) Storage, Presentation, and TOP 9 of 20
+Maintenance of the Metadata b TD —S-EeRE=F/7‘ee-IVI-I-N:I'+fN-6-F6RN—
+
+ 
+
+(U) Storage, Presentation, and Maintenance of the Metadata
+
+ 
+
+ 
+
+NEXT FRAME ID: 7100
+
+ 
+
+BACK FRAME ID: 7080
+
+ 
+
+ALT TAG: (U) Mission Capabilities Logo
+
+ 
+
+ 
+
+GRAPHIC/AV:
+TDJ;I
+I
+
+td-Iogo-small.gif (or td-Iogo-med.gif)
+
+(U) Mission Capabilities °
+
+ 
+
+ 
+
+(U) Storage, Presentation, and Maintenance oﬁ the Metadata
+
+ 
+
+(‘TS7‘7‘SI7‘7‘N'F3 Mission Capabilities is
+responsible for:
+
+Developing, maintaining, and operating
+
+repositories that store and present BR and
+
+PR/TT metadata
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+fT-Sﬁ‘Slﬁ‘l‘tlFﬁ-Some 0f the rules that apply to Mission Capabilities:
+
+Metadata must be maintained in secure NSA repositories
+
+Data must be identifiable as BR or PWTT
+
+Implement technical controls to prevent unauthorized access
+
+Restrict intelligence analysis queries to RAS—approved identifiers (e. g. the EAR)
+Ensure intelligence analysis queries remain within authorized number of hops
+Create auditable records of all intelligence analysis queries
+
+Destroy all metadata before the end of the five year authorized retention period (no
+exceptions!)
+
+Changes to systems must be certified by the TD Compliance Office before
+implementation
+
+Automated queries are prohibited without approval
+
+ 
+
+ 
+
+ 
+
+W
+Page H of 30
+
+ 
+
+ 
+

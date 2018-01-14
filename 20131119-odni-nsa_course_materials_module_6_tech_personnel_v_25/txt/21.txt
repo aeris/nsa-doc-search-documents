@@ -1,0 +1,53 @@
+ 
+
+ 
+
+DATE/PREPARER: SLS Topic Page Classification Screen Number
+(U) The Compliance 4mm 12 of 20
+Certification Process
+
+ 
+
+ 
+
+FRAME ID: 7130
+(U) The Compliance Certification Process
+
+(U//FOUO) Compliance certification is a mandatory check for all systems handling US.
+person or FISA data
+
+ 
+
+NEXT FRAME ID: 7140
+(U) Guidelines governing the certiﬁcation process are maintained by the TD Compliance
+
+ 
+
+ 
+
+ 
+
+Office
+BACK FRAME ID: 7110 (U) Compliance should be integrated into the development process
+ALT TAG:
+GRAPHIC/AV:
+
+ 
+
+ 
+
+—(=FS#S+H-NF} (Technical Character): Next we will discuss the compliance certiﬁcation process used by technical personnel who develop mission
+technologies to include those supporting the BR and PR/TT Programs. Compliance certification is a mandatory check for all systems handling US. person
+or FISA data. Guidelines governing the certification process are maintained by the TD Compliance Office. This process supports compliance with the
+applicable laws and authorities and supports the NSA Way. The NSA Way is a uniﬁed framework for building large (or small), complex, primarily software
+systems that meet the diverse needs of NSA missions. An important point is that compliance should be integrated into the development process.
+
+ 
+
+ 
+
+ 
+
+49W
+Page 2i of 30
+

@@ -1,0 +1,82 @@
+WH
+
+ 
+
+ 
+
+DATE/PREPARER: SLS Topic Page Classification Screen Number
+(U) Knowledge —'FeP+}EeRE5FHeel\/I-i-N5F#N-9F9RN 15 of 20
+Check 3
+
+ 
+
+ 
+
+FRAME ID: 7170 (U) Knowledge Check 3
+
+7. HSﬁSl-HNF)ThEe compliance certiﬁcation process for new systems is triggered by
+
+a) (U) Entering a ticket intol-
+
+b) (U//FOUO) Contacting NSA Way Team _
+
+c) (UIIFOUO) Entering the new software or system intoi—
+d) (U) AII ofthe above —
+
+NEXT FRAME ID: 7180
+
+8. (TS/ISIIIIsIBJMhicbnﬂbeioﬂminan—aﬁon for entering the dataflow governance process?
+
+ 
+
+ 
+
+BACK FRAME ID: 7150 a)
+_ b) (U) Replacing an existing repository
+ALT TAG' c) (U) Inserting a process or system into the row
+
+ 
+
+d) (U) Modifying a bulk metadata query
+
+GRAPHIC/AV: e) (U) Moving an existing unmanaged row to a managed ﬂow
+
+9. ‘(TSﬂSIﬂNH Before an analytic software upgrade is released on a system that handles BR or PR/TT data,
+the developers would need to in order to remain compliant.
+a) (U) contact the CSRC and undergo comnlianceiecertiﬂcation
+b) (U) register the software release in _ nd undergo compliance recertification
+c) (U) obtain OGC approval
+d) (U) register your system with ODOC
+
+ 
+
+ 
+
+(U) (Technical Character): Let’s make a few notes in our travel journal and check to see what you remember from this topic!
+
+ 
+
+ 
+
+ 
+
+— UO) Correct! The compliance certification process for new systems is triggered by entering the new software or system in
+ct. The correct answer is c). The compliance certification process for new systems is triggered by entering the new software or system in
+Question 8. (U/I‘FQUQ) Correct! Modifying a bulk metadata query is n_ot a reason for entering the dataflow governance process.
+(U//FOUO) Incorrect. The correct answer is d). Modifying a bulk metadata query is not a reason for entering the dataflow governance process.
+
+Question 9. (U/ILF-GU-Q) Correct! Before an analvtic software upgrade is released on a system that handles BR or PR/TT data, the developers would need to
+
+ 
+
+register the software release in nd undergo compliance recertification in order to remain compliant.
+(U#F9U9) Incorrect. The correc efore an anal tic software upgrade is released on a system that handles BR or PR/TT data, the developers
+would need to register the software release in dam! undergo compliance recertification in order to remain compliant.
+
+ 
+
+ 
+
+W
+Page 2-! of 30
+

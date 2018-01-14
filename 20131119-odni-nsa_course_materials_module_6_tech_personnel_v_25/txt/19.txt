@@ -1,0 +1,96 @@
+ 
+
+DATE/PREPARER: SLS
+
+ 
+
+ 
+
+FRAME ID: 7110
+
+(U) Knowledge Check 2
+
+4. '(‘FSﬁSIﬁ‘NFj'Which one ofthese is n_ot one of the roles and responsibilities of the technical personnel?
+
+ 
+
+NEXT FRAME ID: 7130
+
+ 
+
+BACK FRAME ID: 7100
+
+ 
+
+ALT TAG:
+
+ 
+
+GRAPHIC/AV:
+
+5. (TS/ISIIINF)|-_arovides support to the BR program by doing the following (check all
+that apply): —
+
+6 fFS#S+#Pd-F—)- Database management and user interface professionals in develop,
+maintain, and operate the _that store and present BR and PR/TT metadata, and develop
+algorithms/processes that prepare, optimize, and characterize the metadata for analytic utilization.
+
+ 
+
+ 
+
+Topic Page Classification Screen Number
+Knowledge 4GP—SEGRE5FHGBMW6-F6R-N- 11 of 20
+Check 2
+
+a) (U//FOUO) Manipulating and validating the metadata to make it usable for intelligence analysis
+purposes
+
+b) (‘FSﬁSIﬂNFj—Developing new tools to support querying of BR and PR/TT metadata
+
+c) .(SAlSl-A‘RElj- Running an intelligence analysis query using a RAS-approved identifier for an analyst
+who is experiencing problems recreating their query results
+
+cl) -(S#Sl#REl:)—Running an intelligence analysis query using a non-RAS-approved identiﬁer for
+an analyst who is experiencing problems recreating their query results
+
+e) (U) Both C and D
+
+a) (U) Normalizing all of the disparate data formats —
+
+b) (U) Reviewing the data to validate that the records include data _
+
+c) (U) Ensuring metadata is maintained in secure NSA repositories.
+
+cl) (U) Assist in ensuring that the data to be presented to the analysts will be in a usable format
+
+e) (U) Destroy a” metadata before the end of the five year authorized retention period (no exceptions
+for backup data
+
+f) -(S#Sl#REl:)-Providing operational support as necessary to intelligence analysts on RAS-
+approved identifiers within the authorized number of hops
+
+ 
+
+a)
+b)
+C)
+d) (U) Homeland Mission Coordinators
+
+ 
+
+(U) (Technical Character): Let’s check what you remember from this topic!
+
+ 
+
+ 
+
+Question 4. ($S#Si#NF-)-Correct! Running an intelligence analysis query using a non-RAS-approved identifier for an analyst who is experiencing problems
+
+ 
+
+ 
+
+W
+Page ll! of 30
+

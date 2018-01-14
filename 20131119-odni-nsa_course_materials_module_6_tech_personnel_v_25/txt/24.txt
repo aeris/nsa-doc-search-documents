@@ -1,0 +1,85 @@
+ 
+
+DATE/PREPARER: SLS
+
+ 
+
+FRAME ID: 7150
+
+ 
+
+NEXT FRAME ID: 7170
+
+ 
+
+BACK FRAME ID: 7140
+
+ 
+
+ALT TAG:
+
+ 
+
+ 
+
+GRAPHIC/AV:
+
+ 
+
+ 
+
+(U) The Dataflow Process
+
+(U//FOUO) The goal of dataflow governance is to provide reasonable assurance of
+accountability and compliance for NSA mission data as it moves throughout NSA systems
+
+(U//FOUO) Triggers for entering the dataﬂow governance process include (but are not
+limited to):
+
+ 
+
+Topic Page Classification Screen Number
+(U) The Dataﬂow Process W 14 of 20
+
+Adding all
+
+Replacing an existing repository
+
+Inserting a process or system into the ﬂow
+Adding a new mission element
+
+Legacy migration
+
+ 
+
+GFSH-SWNF) (Technical Character): The Collection Strategies and Requirements Center (CSRC) is responsible for dataflow governance, which provides
+reasonable assurance of accountability and compliance for NSA mission data as it moves throughout NSA systems. This is critical to protect the data, and
+when we are talking about volumes of US. person data you can understand why this is so important.
+
+'EFSH-Slﬂ-NF)The process begins by submitting a dataflow request (usually done by the system builder or access owner) for a new dataflow solution. Then
+some level of research is needed to determine the type of request and associated needs. Once the requirements are determined, a new processing
+capability may be developed, or an existing ﬂow may be reconfigured to meet the new requirement. The solution must then be tested and obtain official
+sign-off at which time CSRC authorization to operate would be issued.
+
+(Ul/FOUOI Irmeneral. triqugs for entering the dataflow governance process include (but are not limited to):
+O
+
+(IFSHSWNF) Formal approval is required for all new and/or different BR and PR/TT data ﬂows. Under no circumstances can a change be made to a data
+ﬂow (even for testing purposes) without going through the dataflow governance process.
+
+(U/IFQUO) To ﬁnd out more about the dataﬂow process, please refer to the Dataﬂow webpage by typing ‘go dataﬂow’ in your web browser.
+
+Replacing an existing repository
+
+Inserting a process or system into the flow
+Adding a new mission element
+
+Legacy migration (moving an existing unmanaged flow to a managed flow)
+
+ 
+
+ 
+
+40m
+Page 25 of 30
+

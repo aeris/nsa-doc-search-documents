@@ -1,0 +1,85 @@
+“TOW
+
+ 
+
+ 
+
+ 
+
+ 
+
+DATE/PREPARER: SLS Topic Page Classification Screen Number
+(U) Practice Scenario 1 IQP—SEGRETEGG-IVH-N‘FI‘ENGFB-RN 16 of 20
+FRAME ID: 7180 (U) Practice Scenario 1 —
+(-‘FSﬂSl-h‘NF) You are one of the —cleared technic ponsible for metadata management
+within NSA’s metadata repositories. You are working with otherl _ cleared developers on new query
+NEXT FRAME ID: 7190 processes and tools. You —a set of properly marked recor y your team for development
+
+purposes from the PR/TT metadata. This set of PR/TT metadata records is stored on a physically isolated system
+within NSA’s secure network and is accessible only to the members of your team. Are your actions in
+compliance with the terms ofthe PR/TT Orders?
+
+ 
+
+BACK FRAME ID: 7160 (U) Please select the BEST answer:
+
+ 
+
+ALT TAG:
+
+a) -(IS#SI+I‘NF) Yes, because the PR/TT Orders explicitly authorize properly trained technical
+
+ 
+
+GRAPHIC/AV: personnel to develop and test new technologies to be used with the PR/TT metadata.
+
+b) (TSﬂSIﬂNF) No, because the PR/TT Orders prohibit the use of new query processes against any of
+the PR/TT metadata.
+
+c} 1TSﬁ‘Slﬂ-NF) Yes, because me l-‘Kll I metadata records still carrythe unique
+markings and software controls on the physically isolated system to restrict access to
+
+those records to IIIIIII-cleared personnel.
+
+cl) (U) None ofthe above are correct.
+
+ 
+
+ 
+
+ 
+
+(U) (Technical Character): Now let’s practice what we have learned using real-life scenarios. Carefully read the scenario and then select the best answer.
+
+ 
+
+ 
+
+ANSWER:
+
+a)
+
+(TS/ISIIINF) Incorrect. This statement is accurate, but this is not what makes your actions compliant. The correct answer is c). Yes, because the
+R/TT metadata records still carry the unique markings and software controls on the physically isolated system to restrict access to
+those records to leared personnel.
+
+ 
+
+ 
+
+ 
+
+b) TS/ SI/ NF) ﬁgurrect. The current Court Orders authorize NSA to develop new query processes. The correct answer is c). Yes, because the
+HDR/TT metadata records still carry the unique markings and software controls on the physically isolated system to restrict access to
+those records to =cieared personnel. _
+
+c) '(TSffSlHNF)—Correct! The best answer is c). Yes, because the-WET metadata_record till carrythe unique markings and
+software controls on the physically isolated system to restri J'e records to. iicleared personnel.
+
+d) (ISA‘SIA‘NF) Incorrect. The correct answer is c). Yes, because the —F'F</I_Il metadata-Hams still carry the unique markings and
+software controls on the physically isolated system to restrict access to those records to —-cleared personnel.
+
+JOB—SEW
+
+Page 25 of 3|)
+
