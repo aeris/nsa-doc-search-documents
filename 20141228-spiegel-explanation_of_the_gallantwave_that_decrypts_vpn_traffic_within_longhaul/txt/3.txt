@@ -1,0 +1,19 @@
+@Scale
+
+Need
+
+§ Peer to forward “ ‘missing’ attack-events to LONGHAUL", to LONGHAUL, so
+LONGHAUL can use them to complete single-sided processing.
+
+§ LONGHAUL to reciprocate.
+Approach
+
+LONGHAUL to become aware of which ‘Events’ are not pairing local to agency
+and to request peer to send (copy) of such events to LONGHAUL
+
+Minimise bandwidth required to communicate requests
+Peering is a back-end (KPS <-> LONGHAUL)
+Peers process independently
+
+ 
+

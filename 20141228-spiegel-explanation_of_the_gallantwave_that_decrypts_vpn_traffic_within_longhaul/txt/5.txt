@@ -1,0 +1,15 @@
+Filtered pairing
+
+ 
+
+event[B->A]
+event[E-> F]
+
+event[A->B]
+event[C->|21
+
+/’ n
+.
+
+ 
+
