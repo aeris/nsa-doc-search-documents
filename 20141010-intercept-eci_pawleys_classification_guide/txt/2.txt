@@ -1,0 +1,74 @@
+TOP SECRET/lCOMINT/IREL TO USA, AUS, CAN, GBR, NZIJ/20291123
+
+(Ul/FOUO) NSAICSS CLASSIFICATION GUIDE TITLEINUMBER:
+ECI PAWLEYS (PAW) Classification Guide 02-19
+
+(U) PUBLICATION DATE: 14 November 2006
+(U) OFFICE OF ORIGIN: Cryptanalysis & Exploitation Services (S31)
+(UIIFOUO) POC:
+
+(U) PHONE:
+
+(U/IFOUO) ORIGINAL CLASSIFICATION AUTHORITY:
+
+(TSIISI/IREL) ECI PAWLEYS (PAW) protects clandestine HUMINT and computer network access intended to obtain
+cryptographic information and material. It protects operational details, as well as any equipment, materials, technical
+information and some SIGINT capabilities gained as a result of such access.
+
+Description of Information Classiﬁcation! Reason Declass Remarks
+Marking
+1. {UJ/FOUO) The term PAWLEYS or UNCLASSIFIED N/A NIA
+trigraph PAW or any oﬁ'icially
+registered PAWLEYS project
+
+coverterms standing alone without
+reference to a speciﬁc operation or
+
+ 
+
+target.
+2. (UFIFOUO) The term PAWLEYS or UNCLASSIFIEDH N/A NIA
+the trigraph PAW in association with FOR OFFICIAL USE
+ECI, NSA, SIGINT, or intelligence. ONLY
+
+ 
+
+   
+
+'. 2-. ._-‘ '_.. .\.- . .-_. -"-. -_‘..' iﬂﬂmbﬁ .-
+3. US/ISU/REL) The fact at SA has TOP SECRET” 1.4(c) 20291123
+requirements for: COMM/[REL
+c HUMINT acquisition of foreign
+cryptographic information and
+material.
+
+I acquisition of foreign
+cryptographic information and
+material via a Computer
+Network Exploitation (CNE)
+operation.
+
+ 
+
+4. (U/IFOUO) The details of TOP SECRET]! 1.4 (c) 20291123 (U/fFOUO) Some requirements are
+PAW'LEYS requirements without COMINTIIREL NOFORN or restricted to a subset of
+reference to locations or operational 2“ Party partners.
+aspects.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+_ 2 _
+TOP SECRETI/COMINT/IREL TO USA, AUS, CAN, GBR, NZU/20291123
+
