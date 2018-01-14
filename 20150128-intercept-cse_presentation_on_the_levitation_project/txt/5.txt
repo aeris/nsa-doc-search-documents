@@ -1,0 +1,17 @@
+TOP SECRET//Sl//REL CAN, AUS, GBR, NZL, USA
+
+*5
+a.
+
+ 
+
+What do we need?
+
+A list of suspect documents
+A list of FFU URLs referring to those documents
+A list of lPs downloading those URLs
+
+New documents are found by CWOC (CSEC Web
+Operations Centre) retrieval from URLs, so
+that’s the easy part.
+
