@@ -1,0 +1,238 @@
+ 
+
+AURORAGOLD DATA FLOW & PROCESS OVERVIEW:
+PHASES 0 AND 1
+
+     
+
+  
+
+(D
+
+W
+WCIS
+
+[Unclassified
+
+: Data Source) 2
+ITU Ops
+
+Bulletin
+
+[Unclassified
+
+Data Source)
+
+  
+
+ 
+
+ 
+
+|R.21
+(Classified
+Data
+Scurcei
+
+ 
+
+ 
+
+ 
+
+(U//FOUO)
+
+ 
+
+G)
+
+ 
+
+  
+    
+ 
+
+Raw Data
+Sets —
+
+Unclassified
+
+f—ﬁ
+Exception Decision
+Information
+‘\‘\\\
+\\\
+0‘ 5|; I
+0“
+‘2‘“:
+“*3 Analysis By
+Exception; 32,“
+i M...
+Raw Data Some Analvtlc ‘23:::: ‘ Analyzed
+— Decisions ""'-- ‘ -_
+Sets. 35... . . Data Sets
+Cla551fled ‘2~.'~~—§ >—< CIaSSIerd
+~..:: ENTITY
+NORMALl-ZATIO'N
+K“:’/
+
+  
+
+ 
+ 
+ 
+    
+  
+  
+ 
+
+ 
+ 
+ 
+
+AURORAGOLD Repository
+
+  
+
+ 
+
+ 
+  
+ 
+
+ENTITY 2 4C
+NORMALIZATION
+
+> < .-
+’i
+
+1
+
+  
+
+Analyzed
+Data Sets —
+
+ 
+   
+ 
+
+" - 0”"
+> Analys'? By 553'" Unclassified
+Exception; 5/
+Some Analytic
+Decisions
+
+I
+
+Exception Decision
+Information
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+K—J
+
+  
+  
+
+SIGINT
+Production
+
+ 
+ 
+  
+ 
+ 
+
+ 
+
+  
+   
+
+ 
+
+  
+     
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Some selectors back to AGR Inputs for tasking
+3. Information outputs to other systems (i.e. RONIN)
+4. Other??
+
+ 
+
+ 
+ 
+  
+
+“AUTO”-
+MINIMIZATION
+
+‘
+File
+Outputs
+v
+
+    
+    
+ 
+ 
+  
+    
+
+A||
+Appropriately
+Cleared Users
+
+     
+
+ 
+
+SCORPIOFORE;
+SIGINT
+Reporting
+
+/0
+
+ 
+
+ 
+
+ 
+
+ 
+   
+  
+ 
+
+ 
+
+S//Sl//REL T0 USA, FVEY
+

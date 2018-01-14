@@ -1,0 +1,145 @@
+ 
+
+ 
+
+AURORAGOLD DATA FLOW & PROCESS OVERVIEW _
+
+ 
+
+     
+    
+
+ 
+
+(U//FOUO)
+CD
+WGCIS AURORAGOLD Repository
+
+ 
+       
+         
+  
+  
+  
+   
+   
+   
+
+(Unclassified
+
+     
+   
+
+ENTITY ‘
+NORMALIZATION
+
+  
+
+Data Source) Raw Data Analyzed
+(— Sets — _ Data Sets —
+ITU Ops unclassified Ana'Vs'S 3" Unclassified
+
+Exception; I
+Some Analytic
+Decisions
+
+Exception Decision
+Information
+
+Bulletin
+(Unclassified
+
+Data Source)
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+     
+  
+
+(@
+
+u
+/ SIGINT
+I“ PrcEdhuctIon All
+|“ 'f N‘ aIn Appropriately
+
+  
+   
+
+ 
+
+\\\ Exception Decision
+\\\ Information
+
+Cleared Users
+
+’
+I I
+,x"
+’I I
+I
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘ Analysis By
+|R.21 Exception; :‘
+(Classified Raw Data Some Analytic Analyzed _
+Data ' Sets — Decisions Data Sets _ SCORPIO FORE,
+Source) Classified tE:',I-_--....___ classiﬁed SIG INT
+“Hang ENTITY .
+NORMALIZATION Re portlng
+K‘:¢
+
+ 
+
+ 
+
+Z
+
+“AUTOH' /
+MINIMIZATION @
+
+S//Sl//REL T0 USA, FVEY
+
+Supplementary Outputs:
+Strong Selector and Tasking Management
+
+1.
+2. Some selectors back to AGR inputs for tasking
+
+3. Information outputs to other systems (i.e. RONIN)
+4
+
+Other??
+
+ 
+
+ 
+
+ 
+
