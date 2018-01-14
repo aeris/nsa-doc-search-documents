@@ -1,0 +1,65 @@
+Games: A Look at Emerging Trends, Uses, Threats and Opportunities in Inﬂuence Activities
+
+Second Life Case Study: Content Generation as a Driving Force “H“
+
+ 
+
+ 
+
+° Second Life’s content creation engine and LSL feature allows residents to create virtually
+anything, protected by very real intellectual property rights. These tools and subsequent
+intellectual property protections have spurred the growth of a goods and services industry
+including entrepreneurs (e.g. real estate moguls), artisans (e.g. architects and fashion
+designers) and professional services (e.g. notary public), stimulating an economy
+generating nearly $5 million in trade between residents every month. The Second Life’s
+content creation engine and LSL features also enable residents to be creative and have fun
+with other residents. One of the more notable examples of unique content is the
+abductions of residents by aliens whereby abductees receive a T-shirt proclaiming “I was
+abducted by Aliens.”
+
+° Second Life enjoys 90,000 hours of use per day, with approximately 25% of that time
+spent creating. That equates to 11 user/years per day, which would require a 4,100-
+member content development team costing $40 million per year. In a given week, 5,000
+distinct residents wrote original scripts (15%), representing 2.5 million lines of source
+code.
+
+° Second Life allows residents to promulgate any Uniform Resource Locator (URL) audio
+or video stream to local communities in Second Life. Second Life also permits users to
+export XML data from the game to external web sites. Together, this functionality lets
+users stream “real” events into the virtual world and “virtual” events into the real word.
+
+ 
+
+Advances in Digital Rendering
+
+Advances in digital rendering are forthcoming with improvements in Graphics
+Processing Units (GPUs) and rendering algorithms that will enable game designers to
+create more life like images and experiences, further increasing the immersion of
+users.
+
+° Existing GPUs are extremely powerful in terms of computing power enabling
+game designers to render life like images in games. Currently, low end GPUs
+surpass high end CPUs by at least two to five times in a wide variety of
+computing tasks. GPUs peak throughput power also is growing by a factor of two
+
+ 
+
+******
+
+Second Life (abbreviated to SL) is an Internet-based virtual world which came to international
+attention via mainstream news media in late 2006 and early 2007. Developed by Linden Lab, a
+downloadable client program enables users to interact with each other through motional avatars, providing
+an advanced level of a social network service combined with general aspects of a metaverse. While SL is
+sometimes referred to as a game, in general it does not have points, scores, winners or losers, levels, an
+end-strategy, or most of the other characteristics of games. Users, often called "residents", can visit this
+virtual world almost as if it were a real place. They explore, meet other residents, socialize, participate in
+individual and group activities, and buy items (virtual property) and services from one another. As they
+spend more time in the world, they learn new skills and mature socially, learning the culture and manners
+of a virtual environment. The excerpt on Second Life was extracted from the Insights from Silicon Valley:
+Enabling Technologies Conference Proceedings.
+
+FOUO - Not for Public Distribution
+Page 56
+
+ 
+

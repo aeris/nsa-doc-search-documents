@@ -1,0 +1,53 @@
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+Microsoft’s Flight Simulator. When the mission is expensive, risky, or dangerous, it is often a
+wiser idea to exercise virtually, rather than really blow an operative up assembling a bomb or
+exposing a sleeper agent to law enforcement scrutiny. Militaries around the world use virtual
+simulators with great success and the Hizballah has even hooked up a Playstation controller to a
+laptop in order to guide some of its real missiles. Kuma Wars is a U.S. owned company that
+offers realistic battle simulation of real battles in Iraq usually one month after they actually
+happened. The player can re-do maneuvers in a lessons learned way for training, or you can
+switch sides and see how it works from the opposite side. It also provides real terrain features,
+such as real road signs from real roads in Iraq, and a simulated night-vision goggles
+environment.
+
+(TS//SI) Al Qaida terrorist target selectors and GVE executables have been found associated
+with XboxLive, Second Life, World of Warcraft, and other GVEs in PINWALE network trafﬁc,
+TAO databases, and in forensic data. Other targets include Chinese hackers, an Iranian nuclear
+scientist, Hizballah, and Hamas members. GCHQ has a vigorous effort to exploit GVEs and has
+produced exploitation modules in XboxLive! and World of Warcraft. After beta testing, they
+expect reporting to begin in April 2008. The FBI, CIA and the Defense Humint Service all have
+HUMINT operations in Second Life and other GVEs and are very interested in forming a
+deconﬂiction and tipping group that would be able to collaborate on operations.
+
+(TS//SI) GVEs are an opportunity! We can use games for: CNE exploits, social network
+analysis, HUMINT targeting, ID tracking (photos, doc IDs), shaping activities, geo-location of
+target, and collection of comms. It has been well documented that terrorists are OPSEC and tech
+saavy and are only getting more so over time. These applications and their servers however, are
+trusted by their users and makes an connection to another computer on the Internet, which can
+then be exploited. Through target buddylists and interaction found in the gaming and on gaming
+web sites, social networks can be diagramed and previously unknown SIGINT leads and
+connections and terrorists cells discovered. GVEs can contain on-line presence indicators,
+geolocation, and ID tracking can be gleaned and used in apprehension operations.
+
+(TS//SI) Recommendation: The amount of GVEs in the world is growing but the speciﬁc ones
+that CT needs to be methodically discovered and validated. Only then can we ﬁnd evidence that
+GVEs are being used for operational uses. Protocol Exploitation, SFL, and TAO should begin
+proﬁling their databases and the GVEs for collection and exploitation possibilities. Open source
+(APSTARS) produced GVE lists and selectors should be used to run against UTT and other
+databases to check for cross matches to develop target selectors. CT SIGDEV along with CT
+TOPIs will study the collected trafﬁc to ﬁnd and track targets of interest. There should be a
+concentrated effort to conduct research into target use of GVEs, and signatures for survey
+collection should be developed. Targets and speciﬁc apps should be chosen to exploit to ensure
+that terrorists’ GVE/social site usage is covered by SIGINT and the system is not left behind the
+times. All avenues should be taken to develop PBS and CNE exploits as GVEs are found on
+target computers. We need to develop a viewer/db that allows linguist/analysts to
+view/experience voice/text/video trafﬁc together and archivee the GVE data associated with
+reporting. which will also be essential for Yahoo, Skype, webcam, VTCs and Biometrics.
+
+(S//SI) CT SIGDEV/SSG should establish a process to deconﬂict IC-wide ops in GVEs and to
+develop strategy for collaboration. Members from at least CIA, FBI, DIA, NSA and GCHQ
+should participate to make the coordination signiﬁcant. Members should have ability to check
+tasking, trafﬁc, and status of current operations.
+
+TOP SECRET//COMINT//REL TO USA, AUS, CAN, GBR, NZL//20320108
+

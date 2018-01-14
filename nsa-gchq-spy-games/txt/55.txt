@@ -1,0 +1,52 @@
+Games: A Look at Emerging Trends, Uses, Threats and Opportunities in Inﬂuence Activities
+
+The availability and range of mobile gaming content will increase in the coming
+years.
+
+0 The industry is now moving away from preloaded games to models where games
+are required to be downloaded over the Internet from carriers and third party
+providers. Such a move should enable more third party mobile game providers
+and distributors to enter the market space, increasing both the availability and
+range of mobile gaming content. Moreover, it will allow organizations to directly
+market mobile games to end users.
+
+0 An examination of more mature markets suggests that gaming will move beyond
+casual gaming leading to further growth in the industry. Japan represents the
+current benchmark where many users are playing more than just casual games on
+their mobile devices.xcm An exceptionally large number of games are aimed at
+what would be considered console and hard core gamers, making the mobile
+phone in Japan as much a games platform as any console.XCIV
+
+° Some gaming experts suggest that multiplayer games are the next big thing in
+mobile gaming as they attempt to recreate Virtual worlds for mobile devices,
+while other analysts suggest that the next big breakout game would be a mobile
+game that leverages the power of mobile networks and devices integrating
+features like voice and GPS into the game.xcv While industry leaders have
+different views, all are searching for the mobile game that will drive the mobile
+platform similar to how the Halo, Madden Football and Zelda franchises drove .
+sales of the Xbox, Play Station 2 and Nintendo gaming consoles respectively.XCVI
+Such a game would prove invaluable to expanding the mobile gaming market.
+
+0 The skills required for a successful mobile game programmer are not
+insurmountable and include knowledge of Java and J 2ME, BREW, Symbian OS,
+OpenGL ES, and/or Mophun. While a skilled programmer would currently be
+required to develop a mobile game using one of the aforementioned programs, the
+introduction of middleware or game modification software in the coming years
+should enable a broader group to create compelling content for mobile games.
+
+The Rise of Virtual Worlds
+
+Virtual worlds will provide the greatest opportunities to support terrorist operations,
+particularl§y in the areas of communication, coordination, recruitment and fundraising
+activities.§ §§ As virtual worlds expand, terrorist opportunities to exploit them will also
+increase.
+
+ 
+
+§§§§ For a more in depth look at the various ways terrorist organizations can exploit the game space see an
+earlier paper produced in this series "Exploitation and Function of Games: An Interactive Inﬂuence
+Medium." SAIC. September, 2006.
+
+FOUO - Not for Public Distribution
+Page 51
+

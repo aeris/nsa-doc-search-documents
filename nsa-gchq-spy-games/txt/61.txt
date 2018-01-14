@@ -1,0 +1,68 @@
+Games: A Look at Emerging Trends, Uses, Threats and Opportunities in Inﬂuence Activities
+
+or more every year because of the demands of the Video game industry meaning
+that hardware will not be a limitation in creating life like images in games.cvu
+
+ 
+
+300 ——
+liPll
+250 _s
+
+200 ._
+
+150 «H
+
+l00 ‘*
+
+Performance [ENNIS]
+
+50
+
+x L I l l 1
+0 I l l I l l l I
+
+1998 1999 2000 2001 2002 2003 2004 2005 2006
+
+ 
+
+ 
+
+ 
+
+ 
+
+Exhibit 4-7: GPU versus CPU PerformanceCViji
+
+Advanced rendering algorithms and techniques enable game designers to create
+realistic 3D images within the game environment without sacrificing GPU
+performance and allow gamers to experience the details of the environment. One
+such method, parallax occlusion mapping, enables graphic game designers to
+simulate the illusion of depth on uneven surfaces without increasing the geometric
+complexity of rendered objects.TTTTTT Such innovation will allow games to create
+3D virtual environments mimicking real world environmentsim 1:
+
+Advances in the Science ofHaptics
+
+Advances in haptics (the study of touch and the cutaneous senses) are expected to
+grow in the coming years providing sensory feedback and furthering the level of
+immersion in games.
+
+Haptic devices allow users to experience a sensation of touch and physical
+properties when they interact with virtual materials. They exert force in response
+to a user's action, at the point of action. They enable active 'two-way' interaction
+with virtual objects, where action and perception are brought together.Clx Haptic
+devices have been making inroads in gaming for sometime, but recent and future
+
+ 
+
+”H” For more information on digital rendering techniques, see Practical Parallax Occlusion Mapping with
+Approximate Soft Shadows for Detailed Surface Rendering Natalya Tatarchuk ATI Research. Available for
+download at http://ati.amd.com/developer/techreports/2006/I3D2006/Tatarchuk-POM—SI3D06.pdf
+
+mm Some suggest that the sophistication of current computer graphics is already sufficient to enable
+unconscious immersion in virtual worlds. For more information, see Synthetic Worlds, p87.
+
+FOUO - Not for Public Distribution
+Page 57
+
