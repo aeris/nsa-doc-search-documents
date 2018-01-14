@@ -1,0 +1,121 @@
+ 
+
+ 
+
+ 
+
+ 
+
+POSTSCRIPT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SURVEILLANCE
+
+ 
+
+What We Need to Learn from Snowden
+
+Only by organising politically for human rights, including privacy rights, can we raise awareness ofthe
+
+dangers of Big Brother state surveillance.
+
+BY RICHARD STALLMAN
+
+the extent to which the United States (Us) and some
+
+other countries have converted the internet into a sys-
+tem for general surveillance of everyone. They do this largely
+on the basis of corporations’ surveillance: even if a company
+only wants to know what sort of ads to show you, the data it
+collected will be available to Big Brother.
+
+We knew already that tyrannical states such as China,
+Tunisia, Libya and Iran did their utmost to monitor internet
+users. We had no proof that “free” countries did it too. For
+years, I have said in my speeches that I suspected the US
+government used the Patriot Act periodically to collect all
+the personal data from certain companies, simply because I
+saw that that law would permit it and the US government
+tends to stretch its legal powers; however, such suspicions
+
+Edward Snowden heroically demonstrated to the world
+
+torture and massacres. When we cannot have secrets from
+the state, the state can keep the most horrible things secret
+from us. Sad to say, the US is not alone in this; India also
+commits plenty of torture and massacres.
+
+Proposals to increase the level of surveillance cite certain
+standard reasons: typically, terrorism, pornography, or ﬁle-
+sharing. Terrorism is a real danger, but it is a small danger
+when compared to a state that the people can no longer
+control. As for pornography and file-sharing, they should be
+legal — if you don’t like them, don’t use them.
+
+You can resist some of these forms of surveillance by limit-
+ing the data that you let anyone collect about your daily ac-
+tivities. Buying with a credit card informs the bank (and state
+surveillance) what you bought and, if you’re in a store, where
+you are; I pay cash. Carrying a mobile phone tells the phone
+
+are easy to dismiss as “paranoia”. Thanks to we can do better company (and state surveillance) everywhere you
+Snowden, we know the US really does this with by organising go; Irefuse. listening to music from a server account
+telephone companies. Meanwhile, India plans to collectively against tells the company (and state surveillance) what
+practise phone and internet surveillance Without surveillance you listen to, and may also restrict what you can
+even the ﬂimsy “limits” that govern the National This means do with it; I keep copies on my own computers or
+Security Agency (NSA). . . media. I don’t give personal data to websites, aside
+. . . campaigning to .
+This amounts to surveillance such as Stalin could from when I post a comment on one, and I aVOid
+. change laws so as . . .
+only dream of. Even he could not make a list of to reduce eneral connecting my computer directly to those s1tes.
+every conversation, every purchase, every move- surveillance However, it is impossible to fully avoid surveil-
+
+ment of every person. The US has nearly reached
+this level. India, with its national identity cards, is headed
+the same way. But it can get even worse.
+
+Manufacturers of mobile devices now try to direct users to
+store their data in companies’ servers instead of their own
+computers. If you’re foolish enough to do this, the NSA can fish
+through your private data. In addition, many proprietary pro-
+grams and devices spy on their users. On the Amazon Kindle,
+Amazon has access to all the “marginal notes” that the user
+makes about a book. If you use Windows, the NSA can break the
+security Via bugs that Microsoft has reported to the NSA but has
+not ﬁxed. (See http://www.bloomberg.com/news/2013-06-14/
+u-s-agencies-said-to-swap-data-with-thousands-of-firms.html.)
+
+The US uses its massive surveillance to imprison the whistle-
+blowers that inform us about government crimes such as
+
+82
+
+lance while using certain sorts of digital technology.
+For instance, there is no way to do email without surveillance.
+You can keep the contents of the message private by encrypt-
+ing it — for instance, with the GNU Privacy Guard — but there is
+no way to stop Big Brother from seeking out who you
+exchange mail with.
+
+We can do better by organising collectively against sur-
+veillance. This means campaigning to change laws so as to
+reduce general surveillance.
+
+When people organise such campaigns, typically, the first
+proposal is to legally limit “access” to the accumulated data.
+This is inadequate to solve the problem. When the state wants to
+find an excuse to imprison a whistle-blower, it will find ways
+to satisfy whatever requirements there are. To avoid the total
+surveillance state, we need to limit the collection of data.
+
+SEPTEMBER 7, 2013 VOL XLVIII NO 36 Economic 81 PoliticaIWEEKLY
+
