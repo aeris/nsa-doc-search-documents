@@ -1,0 +1,39 @@
+Print Notes
+
+1of1
+
+How the NSA verifies a target's location
+1 Page - Contributed by Matt DeLong, Washington Post - Dec 05, 2013
+
+http://www.documentcloud.org/notes/print?docs[]=886090
+
+This is an excerpt from a transcript of National Security Agency training videos that describe how to verify the location of a targeted
+device. It explains how the NSA monitors different types of mobile signaling information known as HLR and VLR registrations in
+order to locate individuals. It also makes clear that the agency is able to use location tracking to ascertain whether a target is in the
+
+United States.
+
+ 
+
+Verifying a [ﬁguration-allow (D 11
+
+ 
+
+111111”: around. They mm. c inlet and out ofthe United Etntes. The
+rezsuu we have this cuntintiing uhligntiun — this i:- tihy we haw-t:
+pnst- targeting analysis dune by a let af'hih‘d. people who leek at
+thing: like HLR and. VLR registrations ul'lihenes. IF. all of the
+sudden, a. phene that we're targeting registers in Hell Inside the
+United States. you im longer hate a reasonable belief yeur large: is
+outside ofthe United States. in there are a Int ul'lliings like the!
+dam ~ IF' [Internet Fromm-Ii Inch-ups dnne fur cullectlon tuft-mail
+riddle-sees. . that sun ut'thing. I'hese tools are all thereto help [mu
+- these organiratinns are there to help- 5-011 : hilt in the end. the
+mmllsihility rented“. With the analyst Things get through ﬁllErs:
+
+ 
+
+ 
+
+12/5/2013 1:36 PM
+
