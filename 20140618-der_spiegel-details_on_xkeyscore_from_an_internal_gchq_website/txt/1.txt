@@ -1,0 +1,106 @@
+XKeyscoreTabs XKS Development
+
+Jump m: naueahen snatch
+
+ 
+
+ 
+
+ 
+
+ 
+
+N __ We, Usin ,. . XKS )[KS . _ News
+ens an _ Training ' _ Renoirements —.
+W XKE ““3 DEVEIUPmBnl M m
+
+ 
+
+ 
+
+Quick Links
+
+KKEYSCDRE Main Pane
+XKS [at scale on SSE
+
+Getting Strong-Selected Content into KKS
+Getting an KKS Account
+
+Using KKEYS CID-RE
+XKEYSCDRE Traininn
+XICEYSEDRE Development
+KKEYSCDRE Contacts
+
+IKE News Archive
+
+IXKS Ren ulre ments
+
+KKS Searches user guide
+
+KKS Rosuits user guide
+
+IXKS Aonrovai 'n rotess
+NFVinXKS
+
+Pro motion from KKS
+
+Au tomatic Promotion. trom KKS
+IXKS for C NE
+
+NBA KKovscore Usinn‘ KKS tor-ENE
+KKS Toch Dictionaries
+
+Contents
+
+- '1 XKS Uoorades
+1' 2'. Guidance on microme'gE
+Ir ﬂypes of XKEYSCDRE
+a 3.1 Traditional
+e 3.2 Stage 2
+c- 3.3 Deep Dive
+I: 4- Skinny XKS
+
+[edit] XKS Upgrades
+
+ 
+
+IKE is upgraded fortnightly-on Thursday
+mornings .between 0900-1100. Ifyou -can't log
+on or use the tool during this period, its
+because of this.
+
+[Edit] Guidance on Useful Lint-ts
+
+mlcrﬂpluglﬂs I: Mastering The Internet
+I: Transforming Analysis
+
+as you know, you can create microplugins to do - m
+
+different things: some perform advanced detection ' m
+
+techniques to .find types -of trafﬁc which can't he ' M
+
+detected by keywords -or regular expressions alone.
+Others identify and extract data fields .into XKS's
+metadata table.
+
+ 
+
+In the latmr case. the extracted content fragments are stored in the metadata table for 30 days.
+It will depend on the precision and nature of the search criteria you have used as to how strongly
+-- -or weaidy --- selected that content will be.
+
+Ifyou are going to use search criteria that will extract data about people and store that .in the
+metadata table, please consult OPPLEG before doing so. They will wish to understand the nature
+and scope of any data being stored .in case .it includes at least the names of individuals and the
+majority of the data is not believed to relate to probable intelligence targets. This would make
+this data particularly sensitive.
+
+ 
+
+ 
+
+In addition, a quarterly check .is now being made on .all new microplugins which add data to the
+
+Intel
+

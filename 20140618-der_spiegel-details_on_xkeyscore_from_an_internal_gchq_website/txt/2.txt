@@ -1,0 +1,77 @@
+ 
+
+metadata table te ensure they meet UK legal and peliey requirements.
+
+Please alse be aware that usually miereplugins are autematieally shared with atleast NBA. and
+may alse get depleyed le ether 2P XKS. By mid-2011 a new versien efXKS sheuld have been
+depleyed where individual miereplugins will still be depleyed le every XKS. but they can be
+tagged net te run en eertain XKS. The enly exeeptien .is where yeu depley a miereplugin enly te
+GTE's XKS ﬂeet: these will net be visible te 2P partners.
+
+[edit] Types efXKEYSCDRE
+
+There .are eurrently three different types ef XKS:
+
+l Traditiunal
+l Stage 2
+1 Deep Dive
+
+They differ prineipally en wherein the preeessing ehain they sit whether the data they receive
+has already been sessienised er net and whether they ingest .all ef the data they receive er
+whether they apply rules te enly .ingest seme data.
+
+[edit] Traditional
+
+When XKS was first develeped .it was used te receive data .frem Slew data rate signals being
+preeessed threugh WEALTHYCLUSTER {WC}. WC sessienised .all the data en the link and
+presented .it a" te XKS. All data was ingested .inte XKS.
+
+GCHQ has traditienal XKS at many efeur sites. including .all efeur Cemsat. Terrestrial and SMD
+sites. The EEEEQ XKS is alse a traditienal XKS. theugh .in that ease data has been seftly selemed
+at the implant and sessienisatien takes place .in TERRAIN. rather than WC.
+
+[$1 Stage 2
+
+Fer higher data rates. a “Stage 2" XKS was develeped te ingest data frem TURMDIL. TURMDIL
+passes 5% ef the paelrets te XKS whieh XKS then sessienizes. TURMDIL decides which 5% ef
+paelrets te pass based en the .fellewing eriteria:
+
+streng seleetien
+
+subnet premetien
+
+teehnelegy premetien
+
+e-mail demains
+
+persena sessien premetien (where .if a streng seleeter is seen. '10 minutes“ er '10 MB efdata
+is eelleeted}
+
+- persena sessien eelleetien (where the data .is eelleeted and ferwarded te NSAs PINWALE
+but is alse passed te the XKS}
+
+This data is then sent le the Stage 2 XKS. All ether data is lest.
+DnlyjPC (MUSCULAR) at GCHQ uses a Stage 2 XKS.
+[edit] Deep Dive
+
+Deep Dive XKS was develeped te preve that sessienisatien at '1 [If] data rates was pessible. First .it
+sessienises .all data en a link. Then .it premems data using the GENESIS seleetien language te
+identify data types where we assess there is petential .intelligenee value and .ingests these. The
+premetien preeess can make ene ef three deeisiens:
+
+l Bleel: data that is legally net allewed te be .in the system -—- ie UK—UK trafﬁe
+- Allew data that is lrnewn te be wanted threugh use ef premetien rules
+a And then te drep any data that deesn't meet either ef these
+
+One ef the experiments .in TINT is seeking te identify where the best balanee lies between what
+is kept and what is net. A. faeterin deeiding hew much data te lreep is the seale ef sterage
+eapaeity that can be previded.
+
+ 
+
+GCHQ already eperates a number ef Deep Dive XKS:
+
+ 
+
+Befe
+
