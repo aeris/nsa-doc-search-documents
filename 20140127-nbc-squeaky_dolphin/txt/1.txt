@@ -1,0 +1,23 @@
+EBNBC NEWS INVESTIGATIONS investigations.nbcnews.com
+
+GCHQ, the British signals intelligence agency, prepared the following PowerPoint
+slideshow presentation for a top-secret intelligence conference in 2012, revealing a pilot
+program called Squeaky Dolphin.
+
+Documents taken from the National Security Agency by Edward Snowden and
+obtained by NBC News detail how British cyber spies demonstrated to their US. partners
+in 2012 the ability to monitor YouTube and Blogger in real time and collect addresses
+from the billions of videos watched daily, as well as some user information, for analysis.
+At the time the documents were printed, GCHQ was also able to spy on Facebook and
+Twitter. Called “Psychology A New Kind of SIGDEV," (Signals Development), the
+presentation includes a section that spells out “Broad real-time monitoring of online
+activity” of YouTube videos, URLs “liked” on Facebook, and Blogspot/Blogger visits.
+The monitoring program is called “Squeaky Dolphin.”
+
+NBC News is publishing the documents with minimal redactions to protect
+individuals. NBC News has also withheld two slides for further review. The last five
+pages shown here are from an earlier GCHQ document in 2010. NBC News has added
+annotations on two slides in yellow boxes.
+
+Read the article online at investigations.nbcnews.com.
+
