@@ -1,0 +1,79 @@
+[edit] Analysis Tools
+
+Tool Description Contacts
+BABYLON is a tool that bulk queries web mail addresses and verifies whether they can be signed up for. A green tick JTRIG Software
+indicates that the address is currently in use. Verification can currently be done for Hotmail and Yahoo. Developers =_'l
+CRYOSTAT is a JTRIG tool that runs against data held in NEWPIN. It then displays this data in a chart to show links JTPIG Software
+between targets. Developers =_'l
+ELATE is a suite of tools for monitoring target use of the UK auction site eBay (mrwebaycouk). These tools are JTPIG Software
+hosted on an Internet sewer, and results are retreived by encrypted email. Developers =_'l
+PRIMATE is a JTRIG tool that aims to provides the capability to identify trends in seized computer media data and JTPIG Software
+metadata. Developers 21
+JTRIG will shortly be rolling out a JEDI pod to every desk of every member of an Intelligence Production [Tech Lead:-
+JEDI Team. The challenge is to scale up to over 1,200 users whilst remaining agile, efficent and responsive to -Expert User:
+customer needs.
+h :
+JILES is a JTRIG bespoke web browser. [Tec Lead -
+-Expert Userz]
+MIDDLEMAN is a distributed real-time event aggregation, tip-off and tasking platform utilised by JTRIG as a middleware JTRIG Software
+
+ayer. Developers 21
+
+JTRIG Software
+
+OUTWARD is a collection of DNS lookup, WHOIS Lookup and other network tools.
+Developers =_'l
+
+is a bulk search tool which queries a set of online resources. This allows analysts to quickly check the JTRIG Software
+online presence of a target. Developers :1
+
+is a data index and repository that provides analysts with the ability to query data collected from the JTR'G Software
+SLAMMER Internet from various JTRIG sources, such as EARTHLING, HACIENDA, web pages saved by analysts Developers 3‘
+etc.
+
+TANGLEFOOT
+
+[edit] Databases
+
+Tool Description Contacts
+BYSTANDER is a categorisation database accessed via web service, JTRIG Software Developers 2.1
+
+is a database of C2C identifiers for Intelligence Community assets acting online,
+
+CONDUIT _ _ _ JTRIG Software Developers :1
+either under alias or in real name.
+is a database of CZC identifiers obtained from avarie of uni ue sources, and a
+NEWPIN _ _ _ ty q JTRIG Software Developers =_1
+swte of tools for exploring this data.
+fl'ech Lead :_Expert Users: -
+QUINCY is an enterprise level suite of tools forthe exploitation of seized media. —
+
+[edit] Forensic Exploitation
+
+Tool Description Contacts
+BEARSCRAPE can extract WiFi connection history (MAC and timing) when supplied With a copy of the [Tech Lead 1—Expert
+registry structure or run on the box. Userz]
+
+   
+
+   
+
+ech Lead
+The Sigint Forensics Laboratory was developed within NSA. It has been adapted by JTRIG U
+
+SFL
+as its email extraction and first-pass analysis of seized media solution.
+
+Expert User:
+
+'5 atool to e tract mob'le hone data from a cc of the hone's memo s all 5 red
+as an image file extracted through FTK.
+
+is a tool to extract data from field forensics' reports created by Celldek, Cellebrite, XRY, [Tech Lead'
+
+MobileHoover Snoopy and USIM detective. These reports are transposed into a Newpin XML format to _
+upload to Newpin,
+
+Nevis is a tool developed by NTAC to search disk images for signs of possible Encryption fl'ech Lead:
+products. CMA have further developed this tool to lookfor signs of Steganography.
+

@@ -1,0 +1,206 @@
+[edit]
+
+Tool
+AIRWOLF
+
+ANCESTRY
+
+BEARTRAP
+
+BIRDSONG
+
+BIRDSTRIKE
+
+BUGSY
+
+DANCING
+BEAR
+
+DEVILS
+HANDSHAKE
+
+DRAGON'S
+SNOUT
+
+EXCALIBUR
+
+FATYAK
+
+FUSEWIRE
+
+GLASSBACK
+
+GODFATHER
+
+GOODFELLA
+
+HACIENDA
+
+ICE
+
+INSPECTOR
+
+LANDING
+PARTY
+
+Collection
+
+Description
+YouTube profile, comment and video collection.
+
+Tool for discovering the creation date of yahoo selectors.
+
+Bulk retrieval of public BEBO profiles from member or group ID.
+
+Automated posting of Twitter updates.
+
+Twitter monitoring and profile collection. Click here for the User Guide.
+
+Google+ collection (circles, profiles etc.)
+
+obtains the locations of WiFi access points.
+
+ECI Data Technique.
+
+Paltalk group chat collection.
+
+acquires a Paltalk UID and/or email address from a Screen Name.
+
+Public data collection from Linkedln.
+
+Provides 24/7 monitoring of Vbulliten forums fortarget postings/online activity. Also allows
+staggered postings to be made.
+
+Technique of getting a targets IP address by pretending to be a spammer and ringing them.
+Target does not need to answer.
+
+Public data collection from Facebook.
+
+Generic framework for public data collection from Online Social Networks.
+
+is a port scanning tool designed to scan an entire country or city. It uses GEOFUSION to
+identify IP locations. Banners and content are pulled back on certain ports. Content is put into
+the EARTHLING database, and all other scanned data is sent to GNE and is available through
+GLOBAL SURGE and Fleximart.
+
+is an advanced IP harvesting technique.
+
+Tool for monitoring domain information and site availability.
+
+Tool for auditing dissemination of VIKING PILLAGE data.
+
+c ontacts
+
+JTRIG Software
+Developers 21
+JTRIG Software
+Developers iii
+
+JTRIG Software
+Developers 2.1
+
+JTRIG Software
+Developers :1
+
+Status
+Beta release.
+
+Fully
+Operational.
+Fully
+Operational.
+Decomissioned.
+Replaced by
+SYLVESTER.
+Fully
+Operational.
+
+Tech Leads:-In early
+
+[Tech Lead:-
+
+Expert
+User:
+
+Expert
+User:
+
+Tech Leads:
+
+JTRIG Software
+Developers =_'1
+
+[Tech Lead:
+
+JTRIG Software
+Developers =_'i
+
+JTRIG Software
+Developers 21
+
+[Tech Lead:
+
+[Tech Lead:
+
+MAC HACIENDA
+
+Taskers =_‘I
+
+JTRIG Software
+Developers =_'i
+
+JTRIG Software
+Developers =_'1
+
+JTRIG Software
+Developers 21
+
+  
+  
+
+I'
+
+[Tech Lead:-
+
+ 
+ 
+   
+ 
+ 
+
+development.
+
+Fully
+Operational.
+
+Fully
+Operational.
+
+Beta release.
+
+Fully
+operational
+(against current
+Paltalk version)
+
+In development
+
+Fully
+operational.
+
+Fully
+operational.
+
+In Development
+(Supports
+RenRen and
+Xing).
+
+Fully
+operational.
+
+Fully
+Operational.
+Fully
+Operational.
+

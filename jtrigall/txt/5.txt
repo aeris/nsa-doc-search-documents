@@ -1,0 +1,74 @@
+[edit] Effects Capability
+
+JTRIG develop the majority of effects capability in GCHQ. A lot of this capability is developed on demand for specific operations and then further
+
+developed to provide weaponised capability.
+
+Don‘t treat this like a catalogue. If you don‘t see it here, it doesn‘t mean we can‘t build it. If you involve the JTRIG operational teams at the start of your
+
+operation, you have more of a chance that we will build something for you,
+
+For each of our tools we have indicated the state of the tool, We only advertise tools here that are either ready to fire orvery close to being ready
+
+(operational requirements would re-prioritise our development), Once again, involve the JTRIG operational teams early.
+
+Tool Description Status Contacts
+ech Lead:
+ANGRY Ready to fire (but U
+is a tool that will permanently disable a target's account on their computer. see target
+PIRATE . . Expert
+restrictions).
+User:
+Read to f're Not
+. . .y , ' ( [Tech Lead:
+ARSON SAM is a tool to test the effect of certain types of PDU SMS messages on phones / network. It against live —
+also includes PDU SMS Dumb Fuzz testing g1. targets, this is a
+Expert User:]
+R&D Tool).
+is an automated system developed by JTRIG CITD to support JTRIG BUMPERCAR
+BUMPERCAR+ operations. BUMPERCAR operations are used to disrupt and deny Internet-based terror Ready to fire. JTRIG software
+Videos or other material. The technique employs the servrces provrded by upload provrders Developers 31
+to report offensive materials.
+h :
+BOMB BAY is the capability to increase website hits/rankings. In Development. 9
+BADGER mass delivery of email messaging to support an Information Operations campaign Ready to fire. JTRIG 080 :1
+BURLESQUE is the capability to send spoofed SMS text messages. Ready to fire. JTRIG OSO =_'l
+CANNONBALL is the capability to send repeated text messages to a single target. Ready to fire. JTRIG 080 :1
+[Tech Lead:
+SWEEP Masquerade Facebook Wall Posts for individuals or entire countries (SIGINT sources Expert User:
+required)
+T h :
+CLUMSY s k. t , t. t IRC ﬂ t NOT READY TO 9c LeadE-n
+BEEKEEPER ome wor in progress 0 rnves iga e e ec 5. FIRE. %
+User :
+CHINESE
+Overt brute login attempts against online forums Ready to fire. FIRECRACKER =_'l
+FIRECRACKER
+CONCRETE is the capability to scatter an audio message to a large number of telephones, or In develo ment —
+DONKEY repeatedly bomb a target number with the same message. p '
+[Tech Lead:
+Ability to ard-geolocation of Sat Phones / GSM Phones Via a silent calling to the phone, Ready to fire.
+STALKER Expert User:
+GATEWAY Ability to artificially increase traffic to a website Ready to fire. JTRIG 080 5.1
+GAMBIT Deployable pocket-sized proxy server In-development JTRIG 050 El
+ech Lead: 7'
+amplification of a given message, normally video, on popular multimedia websites [T ‘
+GESTATOR (Youtube) Expert User: -
+
+GLITTERBALL Online Gaming Capabilities for Sensitive Operations, Currently Second Life, In development.
+
+IMPERIAL
+
+BARGE For connecting two target phone together In a call. Tested.
+PITBULL Capability, under development, enabling large scale delivery of a tailored message to In development
+users of Instant Messaging servrces.
+POISONED
+Effects against Gigatribe, Built by ICTR, deployed by JTRIG.
+DAGGER
+
+   
+
+[Tech Lead:
+
+Tech Lead 1-
+

@@ -1,0 +1,104 @@
+ 
+
+navigation
+
+Main Page
+
+Help Pages
+Wikipedia Mirror
+Ask Me About...
+Random page
+Recem changes
+
+Report a Problem
+I Contacts
+l GCWeb
+
+search
+
+toolbox
+
+I What links here
+I Related changes
+I Upload file
+
+I Special pages
+
+I Printable version
+I Permanent link
+
+l‘l maﬁa
+This page was last
+modified on 5 July 2012, at
+13:05. This page has
+been accessed 19,579
+times.
+All material is UK
+
+:— mytalk my preferences my watchlist my contributions
+page ' discussion ' ’ edit ' ' history ' ' delete H move ' ' watch ' ' additional statistics '
+
+TOP SECRET STRAPl COMINT
+The maximum classification allowed on GCWiki is TOP SECRET STRAPl COMINT. Click to report inappropriate content.
+
+For GCWiki help contattz—Suppon page
+JTRIG tools and techniques
+
+[Petill'ecled from JTRIG CITD - Covert Internet Technical Development i
+
+ 
+
+OVEWieW JTRIG Capabilities COMIC“
+
+ 
+
+ 
+
+ 
+
+[edit] JTRIG tools
+
+E2
+
+Contents
+1 JTRIGtooIs
+
+1.1 Understanding this page
+
+1.2 Current Priorities
+1.2.1 Engineering
+1.2.2 Collection
+1.2.3 Effects Capability
+1.2.4 Work Flow Management
+1.2.5 Analysis Tools
+1.2.6 Databases
+1.2.7 Forensic Exploitation
+1.2.8 Techniques
+1.2.9 Shaping and Honeypots
+
+We don‘t update this page anymore, it became somewhat of a Chinese menu for effects operations. Information is now available for JTRIG staff at [[119]
+
+[edit] Understanding this page
+
+Tools and techniques are developed by various teams within JTRIG. We like to let people know when we have something that we can think we can use,
+but we also don‘t want to oversell our capability.
+
+For this reason, each tool indicates its current status. We may put up experimental tools or ones that are still in development so you know what we are
+working on, and can approach JTRIG with any new ideas. But experimental tools by their nature will be unreliable, if you raise expectations or make
+external commitments before speaking to us you will probably end up looking stupid.
+
+Most of ourtools are fully operational, tested and reliable. We will indicate when this is the case; however there can be reasons why our tools won‘t work
+for some operational requirements (eg if it exploits a provider specific vulnerability). There may also be legal restrictions.
+
+So please come and speak to JTRIG operational staff early in your operational planning process.
+
+[edit] Current Priorities
+
+Capability Development Priorities can be fond by following the link below
+
+ 
+
+- CapDev Priorities (Discover)§
+
+ 
+

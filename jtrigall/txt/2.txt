@@ -1,0 +1,242 @@
+ 
+
+ 
+
+[edit] Engineering
+
+ToollSystem
+
+Cerberus
+Statisties
+Collection
+
+JTRIG
+RADIANT
+SPLENDOUR
+
+ALLIUM ARCH
+
+ASTRAL
+PROJECTION
+
+TWILIGHT
+ARROW
+
+SPICE ISLAND
+
+POISON
+ARROW
+
+FRUIT BOWL
+
+NUT ALLERGY
+
+BERRY
+TWISTER
+
+BERRY
+TWISTER+
+
+BRANDY SNAP
+WIND FARM
+
+CERBERUS
+BOMBAYROLL
+
+JAZZ FUSION
+
+Description
+
+Collects on-going usage information about how many users utilise
+JTRIG's UIA capability, what sites are the most frequently visited etc.
+This is in order to provide JTRIG infrastucture and ITServices
+management information statistics.
+
+is a 'Data Diode' connecting the CERBERUS network with GCNET
+
+JTRIG UIA via the Tor network.
+
+Remote GSM secure covert internet proxy using TOR hidden services.
+
+Remote GSM secure covert Internet pl’OXy using VPN services.
+
+JTRIG's new Infrastructure. FOREST WARRIOR, FRUIT BOWL, JAZZ
+FUSION and other JTRIG systems will form part of the SPICE ISLAND
+infrastructure
+
+Safe Malware download capability.
+
+CERBERUS UIA Replacement and new tools infrastructure — Primary
+Domain for Generic User/Tools Access and TOR split into a sub-
+systems.
+
+JTRIG Tor web browser - Sandbox IE replacement and FRUIT BOWL
+sub-system
+
+A sub-system of FRUIT BOWL
+
+A sub-system of FRUIT BOWL
+
+JTRIG UIA contingency at Scarborough.
+R&D offsite facility.
+
+JTRIG's legacy UIA desktop, soon to be replaced with FOREST
+WARRIOR.
+
+JTRIG's legacy UIA standalone capability.
+
+BOMBAY ROLL Replacement which will also incorporate new collectors
+— Primary Domain for Dedicated Connections split into 3 sub-systems.
+
+COUNTRY FILE A sub-system of JAZZ FUSION
+
+TECHNO
+VIKING
+
+JAZZ FUSION+
+
+BUMBLEBEE
+DANCE
+
+AIR BAG
+EXPOW
+
+AXLE GREASE
+POD RACE
+
+A sub-system of JAZZ FUSION
+A sub-system of JAZZ FUSION
+JTRIG Operational VM/T OR architecture
+
+JTRIG Laptop capability forfield operations.
+GCHQ's UIA capability provided by JTRIG.
+The covert banking link for CPG
+
+JTRIG'S MS update farm
+
+WATCHTOWER GCNET -> CERBERUS Export Gateway Interface System
+
+REAPER
+DIALd
+
+FOREST
+WARRIOR
+
+CERBERUS -> GCNET Import Gateway Interface System
+External Internet Redial and Monitor Daemon
+
+Desktop replacement for CERBERUS
+
+DOG HANDLER JTRIG's development network
+
+DIRTY DEVIL
+
+JTRIG‘S research network
+
+Status
+
+OPERATIONAL
+
+OPERATIONAL
+
+OPERATIONAL
+
+OPERATIONAL
+
+OPERATIONAL
+
+DEV
+
+DESIGN
+
+DESIGN
+
+PILOT
+
+PILOT
+
+PILOT
+
+Contacts
+
+JTRIG Software Developers E
+
+JTRIG Software Developers B
+
+JTRIG Infrastructure Team B
+
+JTRIG Infrastructure Team B
+
+JTRIG Infrastructure Team B
+
+JTRIG Infrastructure Team B
+
+JTRIG Infrastructure Team IE
+
+JTRIG Infrastructure Team B
+
+JTRIG Infrastructure Team B
+
+JTRIG Infrastructure Team B
+
+JTRIG Infrastructure Team Em]
+
+IMPLEMENTATION JTRIG Infrastructure Team B
+
+DESIGN
+
+OPERATIONAL
+
+OPERATIONAL
+
+JTRIG Infrastructure Team B
+
+JTRIG Infrastructure Team B
+
+JTRIG Infrastructure Team B
+
+IMPLEMENTATION JTRIG Infrastructure Team B
+
+OPERATIONAL
+
+DESIGN
+
+DESIGN
+
+OPERATIONAL
+
+OPERATIONAL
+OPERATIONAL
+OPERATIONAL
+DESIGN
+
+OPERATIONAL
+OPERATIONAL
+OPERATIONAL
+
+DESIGN
+
+DESIGN
+
+DESIGN
+
+JTRIG Infrastructure Team B
+JTRIG Infrastructure Team B
+JTRIG Infrastructure Team B
+JTRIG Infrastructure Team B
+
+JTRIG Infrastructure Team B
+JTRIG Infrastructure Team E3
+JTRIG Infrastructure Team B
+JTRIG Infrastructure Team B
+JTRIG Software DevelopersE
+JTRIG Software DevelopersE
+JTRIG Software DevelopersEEl
+
+JTRIG Infrastructure Team B
+
+JTRIG Infrastructure Team B
+JTRIG Infrastructure Team B
+
+ 
+
