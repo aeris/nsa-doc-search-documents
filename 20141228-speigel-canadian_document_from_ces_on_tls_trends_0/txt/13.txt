@@ -1,0 +1,33 @@
+TOP SECRETHSIHREL TO CAN, AUS, GBR, NZL, USA
+
+I* I Communications Security Centre de la sécurité
+Establishment Canada des telecommunications Canada
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sample Report (cont’d)
+
+Table 2. Sites visited from the Canuckistan Social Media group
+
+WHO | SITES | 0UT_HOURS | IN_HOURS | TOTAL
+----------- +----------------------+-----------+----------+------
+hockeytalk | login.hockeytalk.com | 3 | 10 | 13
+hockeytalk | chat.hockeytalk.com | 31 | 44 | 75
+hockeytalk | mail.hockeytalk.com | 25 | 36 | 61
+
+Comments:
+
+We have noticed a large increase in chat activity on the hockeytalk sites. This is
+likely due to the beginning of playoff season.
+
+Safeguarding Canada’s security through information superiority C d'“
+Préserver la sécurité du Canada par la supériorité de i’information ana a
+
