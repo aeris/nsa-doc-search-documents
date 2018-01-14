@@ -1,0 +1,65 @@
+TOPSECRETSTRAPI
+An experiment was carried out to make use of results from this technique for target discovery.
+
+Statistics produced alongside IMSUKi results include email addresses appearing in
+communications alongside this content. These email addresses are scored by the number of
+times they are seen. It was proposed that analysis of these addresses should bring to light
+common communication patterns between operators, as well as help identify actors most
+involved in the sharing of Ki data.
+
+UDAQ C26 collection is targeted; hence any traffic found will originate from an identifier in
+GCHQ’s corporate systems. However it was surmised that additional useful contact addresses
+could be found associated with trafﬁc.
+
+All email addresses associated with traffic in each of the 6 periods were compiled together.
+This resulted in a list of 154 unique email addresses, each associated with a score. From this it
+was possible to identify a number of candidate targets for further research that scored highly:
+
+I m ~ target’s email handle suggests an Ericsson employee
+
+using a webmail account
+
+I -@huawei.com ~ this was the highest scoring overall address, a previously
+unknown target on the Huawei network.
+
+I M ~ highest scoring webmail address, indicating lots of activity
+associated with IMSIs and Kis, was a previously unknown target.
+
+I mtn ics.mc ~ a number of users associated with this previously unknown domain.
+JEDI research shows international gateway for South African provider MTN
+
+I m ~ an MSN address found to be associated with [M515 and Kis
+
+This has demonstrated a number of opportunities to apply this harvesting technique to target
+discovery efforts.
+
+3.3 Measuring Targeting Effectiveness
+
+An experiment was carried out to discover the effectiveness of TDSD’s current targeting
+methods.
+
+Email addresses identified in the previous section were converted into a list of domains, again
+scored by the number of associations with IMSUKi data. The complete list can be seen in
+Appendix 5.
+
+It was then possible to group domains into 5 categories:
+
+I Hardware Companies ~ Organisations such as Huawei, Ericsson, who manufacture
+PCS hardware.
+
+I Network Operators ~ Operators of mobile networks such as MTN Irancell,
+Belgacom.
+
+I SIM Suppliers ~ SLM Suppliers or SIM Personalisation centres, for example Bluefish.
+
+I Mail Providers ~ Users of general email providers (Gmail, Yahoo etc). These may be
+in use by employees of any of the above.
+
+12 of 24
+
+This iiilﬂrirmLiOn is exeuipL from disclosure under llie 1"1'L'L't10111 of lulerrrmLion Act 2000 and may be subject to exeuipLiou under oLher UK
+
+inlerrriutiori legislation. Refer disclosure requesLs to (SCI-[Q 011 — (lion—sec] or email —
+
+TOPSECRETSTRAPI
+

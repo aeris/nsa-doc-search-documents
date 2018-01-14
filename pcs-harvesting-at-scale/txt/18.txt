@@ -1,0 +1,35 @@
+TOPSECRETSTRAPI
+
+prioritise items found. Additionally, the accuracy of results could be improved by
+detecting only LMSIs with valid country and network codes.
+
+I Bulk access limitations
+The maximum classification that can be returned from LLANDARCYPARK is TOP
+SECRET STRAPZ UK Eyes Only. This limits access to some data likely to contain
+IMSI and Ki values, such as password-recovered items. An improved system would
+allow bulk access to the full range of data.
+
+I Adapting technique to be used for other key types
+This technique currently identifies only M51 and Ki values. In time it should be
+extended to also support efforts against OTA keys, UMTS and more.
+
+I Data mining opportunities
+Opportunities exist to mine bulk data produced during this process, potentially
+detecting further items of interest and developing knowledge of targets involved.
+Proposed ideas include detecting requests for batches of data by identifying
+messages containing maximum and minimum SLM values.
+
+I Corporate support for bulk CZC processing
+Access to ICTR’s bulk access capability is restricted to a small number of users,
+however a number of business units have expressed an interest. This work should
+continue to be used to develop requirements for a corporate solution allowing more
+business units to benefit from these types of techniques.
+
+18 of 24
+
+'l'his irrfomraLion is exempL from disclosure under llre Freedom of luformaLion Act 2000 and may be subjeCL to exempLion under OIJler UK
+
+information legisluLion. ltefer disclosure requesLs to GCHQ on — (non—sec) or email —
+
+TOPSECRETSTRAPI
+

@@ -1,0 +1,85 @@
+TOPSECRETSTRAPI
+
+Appendix
+
+1 Example IMSIIKi proximity query used by LLANDARCY PARK
+
+ 
+
+<?xml version="1.0" encoding="UTF-3"?>
+<cib:query xmlns:cib="urn:gchq:cib" count0n1y="false" exportQuery="true" maXResUltSCOunt="1@@El@">
+<cib:query—text>
+SELECT IterILID FROM CIE.CIE WHERE
+(
+
+ 
+
+Date_0f_Intercept &1t;= {d &apos; END_DATE_&apos;} AND
+Date_0f_Intercept &gt;= {d &apos;_START_DATE_&apos;} AND
+Content = &apos;( irnsi AND Ki WITHIN 60 Herpes;
+) AND
+Item_Type IN (&apos;IIB_Intercept&apos; ,&apos;strong_Net&apos;,&apos;__CZC&apos;,&apos;—&ap05;)
+<lcib:query—text>
+<cib:queryHetadata>
+
+<cib:property
+<cib:property
+<cib:property
+<cib:property
+<cib:property
+<cib:property
+
+name="interceptType">All intercept<lcib:property>
+
+name="username">someusr</cib: property>
+
+name="c1assification">TOP SECRET STRAP1<lcib : proper ty>
+
+name="mirandaNumber">-<lcib:property>
+
+name="j icPurpose">NS</cib: property>
+
+name="hraJustification">Hobile Theme CRYPT RESEARCH INTO SIM CARD SUPPLY GSH OPERATORS UPI-HENA AND 0P1-AP</cib:property>
+
+ 
+
+</cib:querynetadata>
+<lcib:query>
+
+ 
+
+2 Example stats.txt produced by script
+
+ 
+
+ 
+
+IHSI results:
+
+Emails:
+
+9 items
+
+—@id ea . ad it yabir la . corn
+—@bluefish . corn
+”idea . aditya birla .Com
+”grameenphone. com
+—@grameenphone. corn
+—@bluefish .corn
+-@bluefish . com
+
+Nﬁ‘ﬁ'ﬁrﬁ‘wﬁ
+
+ 
+
+20 of 24
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under other UK information legislation. Refer disclosure requests to GCHQ on— (non—sec}
+
+or email—
+TOPSECRETSTRAPI
+
+ 
+
+ 
+

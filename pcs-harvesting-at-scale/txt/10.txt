@@ -1,0 +1,57 @@
+TOPSECRETSTRAPI
+
+3 Running Trials
+
+The automated harvesting technique was used to extract IMSI and Ki values from bulk data
+over a 3-month period. This was performed over six 2-week intervals. The resulting number
+of IMSIs, Kis and associated statistics produced are shown in Table 1.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ueﬁqgf UDAQ # unique # |MSIs
+Query Start Query End addresses items country paired
+. . . codes wrth Kr
+Identified
+30—Dec—09 14.]an—10 ; 130 10 7.802
+13—Jan—10 _ ZEHan—lo _ 4 11 _ 8.960
+27—Jan—10 11—Feb—10 18 12 1.809
+10—Feb—10 25—Feb—10 _ 4 18 2.348
+24—Feb—10 11—Mar—10 I 5 3 I 84.937
+10—Mar—10 25—Mar—10 9 15 473
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table 1 - Details of Trial Queries
+
+The technique can be seen to identify a steady stream of M51 and Ki data over a period of
+time. UDAQ item identiﬁers which contain the IMSI and Ki data can additionally be provided
+to analysts allowing sources to be further investigated.
+
+These results are further analysed in the following section:
+
+10 of 24
+
+This informuLion is exerupL from disclosure under Llre Freedom of luformuLion Act 2000 and may be subjeCL lo exerupLiou under olJrer UK
+
+information legisluLion. ltefer disclosure requesLs to GCHQ on — (non—sec) or email —
+
+TOPSECRETSTRAPI
+

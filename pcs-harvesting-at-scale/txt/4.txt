@@ -1,0 +1,57 @@
+TOPSECRETSTRAPI
+
+1 Introduction
+
+TDSD’s key harvesting methodology centres around collecting Ki values in transit between
+mobile network operators and SIM card personalisation centres. Provisioning information is
+often sent between these organisations by email or FTP with simple encrylption methods that
+can be broken out by UPC-CAP, or occasionally with no encryption at all . With targeting in
+place, a large volume of IMSI and associated Ki values can be harvested from UDAQ ~
+GCHQ’s corporate C2C data repository.
+
+With known individuals and operators targeted, items of interest can often be returned from
+bulk (32C data using a simple search for the terms ‘Ki’ and ‘IMSI’ in close proximity. Results
+will often contain a large number of unrelated items, however an analyst with good
+knowledge of the operators involved can perform this trawl regularly and spot the transfer of
+large batches of Kis.
+
+Work has already been carried out to automate this sifting of bulk data; reference 1 describes
+techniques successfully trialled so far. This work builds upon these techniques introducing a
+system to bulk query UDAQ itself, perform the sifting operation on data to identify items of
+interest, packaging these up in a form that can usefully be interpreted by researchers in OPC-
+CAP. Summary information is also produced for the use of analysts in TDSD.
+
+The main desired outcomes from this work are to:
+
+I Improve TDSD’s effectiveness at finding Kis in C2C content repositories. By
+automating the approach it should be possible to perform a more thorough search than
+TDSD has had the manpower to do at present. This is likely to bring higher volumes
+of Kis and IMSIs to light in addition to spotting interesting items that would not have
+come to the attention of analysts previously.
+
+I Improve TDSD’s target knowledge. A more complete picture of lMSLr’Ki data in (32C
+repositories will allow TDSD to view the effectiveness of current targeting, spot
+trends as target behaviour changes and also spot any obvious gaps in coverage ~ for
+example providers for whom this type of harvesting is ineffective.
+
+I Develop and enhance TDSD’s harvesting methodology. This methodology is based
+around knowledge of how network operators, SLM suppliers and hardware providers
+co-operate to share cryptographic data. By looking at the types of organisations
+associated with traffic seen in the wild we can test assumptions about communication
+patterns we expect to take place, improving our knowledge of relationships between
+these companies.
+
+ 
+
+1 It should also be noted that TDSD have observed the use of strong encryption products being used
+(eg. PGP products). These have become increasingly common and used as standard for large SIM
+suppliersfpersonalisation centres to exchange SIM output and input data with mobile network
+operators.
+
+4of24
+
+This infommLiOn is exempl from disclosure under Lhe Freedom of luformaLion Act 2000 and may be subjeCL to exempLiou under OIJler UK
+information legislulion. ltefer disclosure requesLs to GCHQ on — (non—sec) or email —
+
+TOPSECRETSTRAPI
+

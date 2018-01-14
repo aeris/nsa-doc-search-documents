@@ -1,0 +1,63 @@
+TOPSECRETSTRAPI
+
+2 Approach
+
+Figure 1 shows a high level overview of TDSD’s current manual harvesting methodology.
+
+ 
+
+Perform bulk
+Intercept queries
+
+1’
+Harvest results
+manually
+
+ 
+
+ 
+
+ 
+
+Y
+Perform further
+data manipulation
+
+ 
+
+ 
+
+1'
+
+Forward on to
+system owners
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 1 - Manual Ki
+Harvesting Process
+
+Analysts in the team regularly perform queries on targeted C2C intercept using UDAQ. A
+number of queries exist designed to return results likely to contain IMSI and Ki values.
+Queries often return results with a high noise threshold ~ of several thousand results perhaps a
+few hundred will contain items of value. The next stage is to trawl these results for items of
+value. If a list of IMSI and Ki values is found this can be copied from the tool and sent on to
+UPC-CAP for further processing. In the best case lists of several hundred thousand Kis
+associated with IMSI values can be found. However, a large number of messages each contain
+only a few associated Ki values. The responsibility of converting IMSUKi lists into a storable
+form lies with UPC-CAP; TDSD analysts can only spend limited time manipulating the
+layout of data before forwarding.
+
+60f24
+
+'l'his informaLioII is exempl from disclosure under Llre Freedom of lufomtaLion AC! 2000 and may be subjecl lo exempliou under olJler UK
+information legislation. Refer disclosure requesLs lo GCHQ on — (non—sec) or (3111111 —
+
+TOPSECRETSTRAPI
+

@@ -1,0 +1,26 @@
+TOPSECRETSTRAPI
+
+References
+
+1. TDSD Technical Note 11: What Makes a Good PCS Key Harvester?
+_ TDSD, .12th January 2010, available on request from TDSD
+2. DRAFT METHODOLOGY for investigating SIM card supplier relationships with
+Target Mobile phone operators
+TDSD, 2010, available from -
+3. ICTR Bulk IIB Download Capability
+
+4. Cryptologic Common Data Model FAQ
+
+5. TDSD Non EPR Statistics
+
+6. PCS Harvesting Scripts are stored under ClearCase and can be accessed and
+run from the following location:
+
+19 of 24
+
+This lillUi’iliilLlUl] i5 exempl li'Uili disclosure Liiider llie l-'reedoiii ol lillUi’iliilLlUl] Act 2000 and iliily be SLlleEL'l. Lo exempLioii under oLlier UK
+
+inloriiiutioii legislation. [{eler disclosure reqLiesLs Lo UCHQ UIl — (lion-see] or email —
+
+TOPSECRETSTRAPI
+

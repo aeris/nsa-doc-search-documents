@@ -1,0 +1,40 @@
+TOPSECRETSTRAPI
+I Other I Unknown
+Most of TDSD’s targeting effort is focussed on SIM suppliers and network operators, hence it
+
+was expected that most associated addresses would fall into these categories.
+
+Corn
+ail Providers
+
+ 
+
+I Unknown
+
+Table 2 - Types of organisations associated with lMSIlKi traffic
+
+Table 2 shows how often each type of organisation was associated with Ki traffic. Contrary to
+expectation the vast majority of addresses seen belonged either to network operators or
+hardware companies.
+
+This could indicate increased use of strong encryption products arnongst SLM suppliers,
+leaving only the other groups open to this method of exploitation. TDSD may wish to ensure
+that targeting for SIM suppliers is up to date, as well as investigating the possibility of
+targeting hardware companies and network operators to improve results.
+
+3.4 Comparison with present efforts
+
+3.4.1 Manually collected Kis
+
+A manual trawl of UDAQ data was performed against AWCC for the period between 28111
+March and 10Ill April 2010. This was compared directly against results from an automated run
+over the same period, not targeted against any particular provider.
+
+13 of 24
+
+This inforrnaLion is exenlpL from disclosure under Llre Freedom of luforrrmLion Act 2000 and may be subjeCL lo exerupLiou under OIJler UK
+
+information legislulion. ltefer disclosure requesLs to GCHQ on — (non—sec) or email —
+
+TOPSECRETSTRAPI
+

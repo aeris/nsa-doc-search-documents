@@ -1,0 +1,34 @@
+TOPSECRETSTRAPI
+
+UPC-TDSDKTECI-UZI
+
+PCS Harvesting at Scale
+
+Introducing Automation to Ki Harvesting Efforts in TDSD
+
+— UPC-TDSD
+April 2010
+
+Cﬂnlribulions from —. _ and —
+
+Summary
+
+Individual Subscriber Authentication Keys, or Ki values, are required to decrypt GSM
+communications. They are stored both on the mobile user’s SIM card and at a Home Location
+Register operated by the provider. TDSD has developed a methodology for intercepting these
+keys as they are transferred between various network operators and SIM card providers. This
+
+is now a core part of TDSD’s business carried out by analysts in the team. This report
+explores the introduction of an automated technique with the aim of increasing the volume of
+keys that can be harvested. Methods are also explored to use data from the automated system
+
+to assess the effectiveness of current techniques and improve TDSD ’s knowledge of mobile
+network operations.
+
+2of24
+
+'l'liis inlormuLion is exempL from disclosure under Llie Freedom of luloriimLion Act 2000 arid may be subjecL lo exeiupLiou under oLlier UK
+information legislation. lleler disclosure reqLiesLs lo GCHQ on —(1ion—see] or email
+
+TOPSECRETSTRAPI
+

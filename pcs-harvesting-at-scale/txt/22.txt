@@ -1,0 +1,40 @@
+ 
+
+TOPSECRETSTRAPI
+
+3 Example PCS Ki output file
+
+*‘k‘k‘k‘k NW FILE *‘k‘k‘k‘k
+
+*‘k‘k‘k‘k SOURCE *‘k‘k‘k‘k
+—
+
+*‘k‘k‘k‘k HEADER *‘k‘k‘k‘k
+
+Ac tion; Order Id; ServiceId; ObjectId; Priority; IMSI :MSISDN :0pc0de(sh0rt ) ; ICCID;Ki;PIN; PIN2; PUK; PUK2; reserved (Boolean)
+
+wwwww CONTENT wwwww
+
+ 
+
+ 
+
+22 0f 24
+
+II'L' I'L'q'.IL':-.'.'- '_r.| (.i(..HQ r.|n —
+
+ 
+
+'\L'_ 2000 and may ht: Et'.|hjL'L'_ ' . RL'IL'I' dial :L'L}
+
+r.ll'
+
+TOPSECRETSTRAPI
+
+i: own Git-l.
+
+  
+  
+
+ 
+

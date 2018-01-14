@@ -1,0 +1,64 @@
+TOPSECRETSTRAPI
+
+Table of Contents
+1 INTRODUCTION
+
+2 APPROACH
+2.1 Automated Technique
+2.1.1 Bulk Data Retrieval
+
+2.1.2 Identifying Content
+2.1.3 Processing! storing
+
+2.2 Possible improvements
+
+3 RUNNING TRIALS
+
+3.1 Activity of Networks
+
+3.2 Target Discovery
+
+3.3 Measuring Targeting Effectiveness
+3.4 Comparison with present efforts
+
+3.4.1 Manually collected Kis
+3.4.2 Overall harvesting efforts
+
+4 CONCLUSIONS
+
+4.1 Future Work
+REFERENCES
+
+APPENDIX
+
+30f24
+
+m
+
+mm‘dﬂ
+
+10
+11
+11
+12
+13
+
+13
+15
+
+17
+
+17
+
+19
+
+20
+
+'l'hls infommLion is exempL from disclosure under Llre Freedom of lufornmLion Act 2000 and may be subjecL lo exmllleou under olJler UK
+
+information legisluLion. Refer disclosure requesLs lo GCHQ on
+
+TOPSECRETSTRAPI
+
+(non—sec) or email
+

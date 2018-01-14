@@ -54,5 +54,5 @@ Parallel.each(pdf, in_threads: 16,
 		end
 	end
 
-	FileUtils.mv pdf, 'pdf'
+	FileUtils.mv pdf, doc
 end

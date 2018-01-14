@@ -1,0 +1,88 @@
+TOPSECRETSTRAPI
+
+3.4.2 Overall harvesting efforts
+
+TDSD and OPC-CAP collect overall stats for Kis harvested from networks of interest
+(reference 5). Overall rates of Kis received over a 3-month period, January ~ March 2010,
+were compared against those from the automated technique. Figure 4 shows this comparison
+for a range of networks.
+
+ 
+
+New Kis ide ntified
+
+10,000,000
+
+ 
+
+1.000.000 —
+100.000 ~
+
+10.000 - D3 rmnlh total
+
+1,000 . DAuton'ated collectlon
+
+100 —
+10 —
+
+ 
+
+ 
+
+1
+
+ 
+
+MTN. Yemen :I
+:I
+_:I
+:I
+Ideacl. Indra :I
+
+Irancell. Iran *
+Mobtel. Serbia
+Nova. Iceland
+Teles. Somalia
+
+Sabafn, Yemen
+Babilon, Tajikstan :
+
+Mobilink, Pakistan *
+Telenor. Paklstan *
+
+AWCC. Afghanistan *
+Roshan. Afghanistan *
+
+ 
+
+ 
+
+ 
+
+Figure 4 - comparing data from the trial to historical data
+(priority targets marked *)
+
+The overall data set contains values gained from a range of sources including Ki generation
+techniques and information sharing with partners.
+
+It can be seen that for the first three providers; AWCC, Irancell and Roshan; the number of
+keys collected by automated harvesting is comparatively small. Many of the larger batches of
+Kis received in this period were provided by partners on request, and it is difficult to estimate
+the real time period they were collected over. Additionally, the value of a small number of Kis
+should not be underestimated as these can often be used as seeds to generate much larger
+batches.
+
+It is clear that the automated technique is able to identify Kis for a greater range of networks,
+successfully identifying a large batch of Kis for a particular Somali provider.
+
+This comparison did bring to light a number of networks where the (32C harvesting method is
+not bringing results, notably the Pakistani networks Mobilink and Telenor for whom we do
+have a store of Kis. There could be a number of explanations: it is possible that these
+
+15 of 24
+
+'l'his infomraLion is exerupL from disclosure under llre Freedom of infomraLion Act 2000 and may be subjeCL lo exerupLiou under ollrer UK
+information legislulion. Refer disclosure requesLs lo GCHQ on — (non—sec) or email —
+
+TOPSECRETSTRAPI
+

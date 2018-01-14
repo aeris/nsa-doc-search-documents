@@ -1,0 +1,42 @@
+TOPSECRETSTRAPI
+
+OPC-CAP have developed and successfully trialled techniques to speed up the task of
+importing these scripts, indentifying expected column header names and mapping these to
+data fields, and even automating the final decryption stage.
+
+Once properly interpreted these Ki values can be stored, encrypted or clear, in relevant
+databases and shared with partners as necessary.
+
+2.2 Possible improvements
+
+A number of improvements have been identified for the above technique. These are described
+below:
+
+I Improved access rights for bulk data retrieval
+Access to ICTR’s bulk access capability runs on research prototype hardware and is
+supported only on a best endeavours basis. Making use of a processing user to obtain
+data, the maximum classification that can be returned is TOP SECRET STRAP2 UK
+Eyes Only. This means that some data currently retrieved using the manual method,
+such as password-recovered items, is not available to the automated system. An
+improved system would allow bulk access to more intercept data.
+
+I Processing performance
+Performance of queries on LLANDARCYPARK is comparable to that of UDAQ,
+however when large numbers of items are retrieved the generation of statistics can
+take some time (sometimes hours for large sets). Some simple code optimisations
+could significantly improve this performance.
+
+I Improvements to summary information scores and ranking
+The value of using ranks to assess the usefulness of an email or UDAQ item
+identified is limited, since the score used relates to the number of sections of Ki data
+in a given file. This means where a very large number of IMSIs are identified, but
+they appear in a single block, a low score is awarded. A value relating to the number
+of MSI items would be more useful to identify the most important results.
+
+Qof24
+
+'l'his infommLiOn is exempL from disclosure under llre Freedom of lufommLion Act 2000 and may be subjeCL lo exempLiou under OIJler UK
+information legislulion. ltefer disclosure requesLs to GCHQ on — (non—sec) or email —
+
+TOPSECRETSTRAPI
+

@@ -1,0 +1,56 @@
+TOPSECRETSTRAPI
+
+4 Conclusions
+
+This work has demonstrated that an automated method of Ki recovery, once in place, can
+deliver significant results with little manual effort compared to current harvesting methods. In
+addition to Ki harvesting a number of further applications have been demonstrated: the
+monitoring of mobile network activity, where views have been provided over a 3—month
+period; discovery of new target identiﬁers associated with detected traffic; and methods of
+measuring the effectiveness of current techniques.
+
+A picture of types of organisations associated with Ki traffic has been constructed providing a
+new view of mobile network operations to TDSD.
+
+It has also been shown that although the automated method is able to return a representative
+set of items from bulk data, it often fails to detect all items that would be found manually.
+More work is required at the initial bulk query stage and also with detection techniques to
+ensure accurate and full coverage of Ki data.
+
+Whilst problems have been identified such as limits on coverage due to access restrictions,
+this work makes a strong case that such harvesting efforts will continue to deliver results in
+TDSD and areas such as the CP SD team.
+
+It is the author’s view that increased levels of corporate support for such bulk data processing
+activities would allow TDSD, as well as many other business areas, to benefit from more
+applications of these techniques.
+
+4.1 Future Work
+
+A number of items of follow-up work have been identified:
+
+I Improving initial query effectiveness
+It has been shown that the initial base ‘proximity’ query is not effective enough to
+return all results currently found using manual harvesting. Work should be carried
+out to identify more effective queries to process data on. An alternative option is to
+run the technique repeatedly against a number of result sets.
+
+I Improved detection techniques
+Detection techniques are unable to identify Ki and [MSI data where the fields of
+interest appear on separate lines (see section 3.4.2). An improved technique would
+ensure these results are also detected and included.
+
+I Improved summary information
+Summary information currently consists of a list of email addresses, UDAQ item
+identiﬁers and network codes associated with simple scores. Analysts would like to
+be able to find the UDAQ item associated with a particular IMSI or email address
+more easily. An improved scoring system would also help analysts more accurately
+
+17 of 24
+
+This iiiformuLioIi is exeliipL from disclosure under Llre Freedom of liiformuLioIi Act 2000 and may be subjeCL lo exeliipLiou under oLlier UK
+
+information legislation. Refer disclosure requesLs lo GCHQ on — (non-sec) or email —
+
+TOPSECRETSTRAPI
+

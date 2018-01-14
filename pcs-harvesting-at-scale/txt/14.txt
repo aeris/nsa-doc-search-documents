@@ -1,0 +1,69 @@
+TOPSECRETSTRAPI
+
+In the manual trawl 14 UDAQ items were identiﬁed, all containing 1 or more IMSLr'Ki pair
+for AWCC. The automated run found 12 UDAQ items, 3 of which had been identiﬁed in the
+manual trawl. A suntntary of results is shown in Table 3:
+
+ 
+
+ 
+
+ 
+
+ 
+
+_ _ Fou ml in search _ _
+Result # Date Manual Automated Details Corn ments
+1 29-Mar-10 I AWOC _No occurrence of "IMsr' _
+2 Z-Apr-lu O AWOC _No occurrence of "mar. multi—Iine
+3 3-Apr—1U U Huawei. HLR inconsistency. 33 lines
+4 B-Apr-lu I AWOC No occurrence of "mar. multi—Iine
+5 s—npr—1o I AWOC. only pinlpuk info
+5 s—npr—1o I awoc new activation
+7 s—npr—1o 0 I awoc
+6. S-Apr-m. .................... 2 ................... 1A WOC new activation _ _ _
+s s—npr—1o U awoc new activation
+10 a—npr—1o O G awoc
+11 7-Apr—1U I AWOC No occurrence of IMSL mum-line
+12 B-Apr-lu C Roshan new sim vendor query
+13 s—npr—1o I O awoc
+14 FAN-10 . ......................................................... “W0C .NQ PEPUWF‘? 9* WW. . _ _ . _ . _.
+15 7-Apr-10 O AWOC _No occurrence of IMSl _
+16} 7-Apr—1Uj O EAWOC ENo occurrence of IMSL mum-line
+17 B-Apr—lu U AWOC No occurrence of IMSL mum-line
+15 B-Apr—lu . AWOC No occurrence of IMSL mum-line
+19 B-Apr—lu . AWOC No occurrence of IMSL mum-line
+ZD_ B-Apr—ld O awoc sim replacement __
+21 B-Apr—lu O AWOC sim replacement
+22 7-npr—1o O awoc new activation _
+23l 3-Apr—1U l U HLR update containing 33 items Same as item 3
+
+ 
+
+Table 3 - Results of Ki 1 IMSI trawl
+
+The manual search resulted in a total of 27 MSI values for AWCC. The automated search
+resulted in 320 values, 26 of which were from the AWCC network. The automated methods
+also identified 10 unique lMSIs from Roshan and 83 from MTN Yemen [results 3 and 23).
+
+It can be seen that the automated search missed the majority of manually recovered items.
+Reasons for this are noted in the comntents column: in all cases the string IMSI did not appear
+in the results file, hence these items were not returned in the initial bulk query. The majority
+of these items also had M51 and Ki data split across multiple lines, meaning they would not
+have been identified by the detection techniques employed in this work in any case. Both
+techniques found comparable quantities of IMSIs for AWCC with the result sets being mostly
+complimentary.
+
+This has demonstrated that although the automated method is able to return a representative
+set of items from bulk data, and often-larger volumes of Kis, it tended to miss items found
+manually. More work is required both at the initial bulk query stage as well as with
+processing and detection techniques.
+
+14 of 24
+
+This inforrnuLion is exelupl from disclosure under the Freedom of lnforrnuLion Act 2000 and may be subjeCL to exelupLion under OIJler UK
+
+information legisluliou. ltefer disclosure requesLs lo GCHQ on — (non—sec) or email —
+
+TOPSECRETSTRAPI
+
