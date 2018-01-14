@@ -1,0 +1,30 @@
+it ' ' =“lation Technology 1"
+
+Directorate {ETD} -
+
+ 
+
+ 
+
+ 
+
+TAO implants have collection parameters that are put
+on exfil received thru TAO backend
+— case notation, SIGAD, PDDG, classification/legal authority
+
+The passive collector has another set of these:
+
+— Site has a SIGAD, collector has a PDDG, the link it sees the
+traffic on has a case notation, and the access has a
+classification floor/legal authority
+
+Current backend repositories and presenters weren’t
+designed to expect TWO of these!!!
+
+Which gets put on the data??? And where?
+
+And (drum roll) how do we solve this problem
+CONSISTENTLY across the enterprise?
+
+TOP SECRET/[COMINT/IREL USA, F VEY
+

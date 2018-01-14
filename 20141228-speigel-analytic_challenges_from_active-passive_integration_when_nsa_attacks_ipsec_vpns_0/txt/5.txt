@@ -1,0 +1,36 @@
+"”‘u ' "f” ation Technology
+
+—‘ — - -
+
+ 
+
+' v
+I
+
+ 
+
+ 
+
+° IPSEC VPN:
+
+— First packets between the devices establish the parameters
+and encryption keys (IKE)
+
+— Following this setup, “content” packets are encrypted and
+transmitted packet by packet (ESP)
+
+— CES wants the IKE exchange and maybe the ESP (content)
+
+° TURMOIL passive capability:
+— Passive capability to detect IKE and ESP
+— Metadata record produced for every IKE exchange
+— IKE for targeted VPN fonNarded directly to CES database
+
+— For targeted VPN, real-time decryption is performed IF CES
+can provide a key in time
+
+— Decrypted IP traffic is processed by TURMOIL apps for
+normal selection (VoIP, webmail, etc, etc)
+
+TOP SECRET/[COMINT/IREL USA, F VEY
+
