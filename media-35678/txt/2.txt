@@ -1,0 +1,20 @@
+SECRET/[REL TO USA, FVEY MISSION
+
+(SI/REL) High Level Goals
+
+'0 Detect (all!) botnet activity on our sensors
+
+- Alert only when activity is relevant and time-sensitive
+
+» Involves entities/commanding of high interest
+» Involves protected areas
+» Could initiate defensive action
+
+- Generate metadata always
+>> Aids in attribution and retrospective analysis
+
+- Enrich metadata as much as possible
+>> Alleviate the need for in-depth knowledge of actors or malware
+
+ 
+

@@ -1,0 +1,29 @@
+TOP SECRET/lCOMINT/IREL TO USA, FVEY MISSION
+CAPABILITIES
+
+Example
+
+0 Command Found:
+JOIN :#marCh2#<crlf>:TEST|NG1.Virus.HERE 332 virus-squadlr #marCh2# :!NAZELmarCh2
+http:/_{page/file.jpeg aFile.exe 1<crlf>
+0 How Summary describes it (tomorrow):
+IP SRC 1.1.1.1 PORT: 123 [ROLE: C2]
+IP DEST a.a.a.a PORT: 234 [ROLE: BOT]
+b.b.b.b ..
+z.z.z.z
+SlGAD/CASN:
+SID: unknown!!!
+SIGNATURE NAME: botnet/quantumbot/possible_download1 (XKS Fingerprint-derived)
+FAMILY: |RC_GEN
+TIME: 00:00:00 — 00:00:10
+Total Events: 3
+CONFIGURATION / BOTID [NICK
+C&C COMMS/ CONNECT / CHA
+C&C COMMS/ CONNECT/SER
+
+  
+ 
+  
+
+ 
+

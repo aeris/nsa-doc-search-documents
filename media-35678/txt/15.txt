@@ -1,0 +1,27 @@
+SECRET/[REL TO USA, FVEY MESIQN
+m
+
+(SI/REL) “Categorizing” Existing Signatures
+
+  
+ 
+
+9 Most popular bot signature analyst repositories:
+- BLUESMOKE: Snort Rules [415 ,' t
+- XKEYSCORE: Fingerprints “f .-
+
+  
+
+O Requires author to add extra detail to the existing
+signature
+
+9 Requires front end tools to add extra fields to their
+GUls for analyst input
+
+- Suggested that the Lifecycle Stage Group and Stage
+Instance be required for submission for botnet signatures
+
+- Other attributes may be optional for submission
+
+ 
+
