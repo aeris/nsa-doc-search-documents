@@ -1,0 +1,60 @@
+TOP SECRET//S|//REL TO USA, AUS, CAN, GBR, NZL
+SIGINT Goals for 2012-2016
+1. (U//FOUO) Revolutionize analysis — fundamentally shift our analytic approach from a production to
+a discovery bias, enriched by innovative customer/partner engagement, radically increasing
+operational impact across all mission domains.
+1.1. (U//FOUO) Through advanced tradecraft and automation, dramatically increase mastery of the
+global network
+1.2. (U//FOUO) Conduct original analysis in a collaborative information space that mirrors how people
+interact in the information age
+1.3. (U//FOUO) Disseminate data at its first point of relevance, share bulk data, and enable customers
+to address niche requirements
+1.4. (U//FOUO) Drive an agile technology base mapped to the cognitive processes that underpin large
+scale analysis, discovery, compliance and collaboration
+
+2. (U//FOUO) Fully leverage internal and external NSA partnerships to collaboratively discover targets,
+find their vulnerabilities, and overcome their network/ communication defenses.
+
+2.1. (U//FOUO) Bolster our arsenal of capabilities against the most critical cryptanalytic challenges
+2.1.1. (5/ /SI/ / REL) Employ multidisciplinary approaches to cryptanalytic problems, leveraging and
+integrating mid-point and end-point capabilities to enable cryptanalysis
+
+2.1.2. (5/ / REL) Counter the challenge of ubiquitous, strong, commercial network encryption
+
+2.1.3. (TS / / SI / / REL) Counter indigenous cryptographic programs by targeting their industrial bases
+with all available SIGINT and HUMINT capabilities
+
+2.1.4. (TS/ /SI/ / REL) Inﬂuence the global commercial encryption market through commercial
+relationships, HUMINT, and second and third party partners
+
+2.1.5. (S//SI//REL) Continue to invest in the industrial base and drive the state of the art for High
+Performance Computing to maintain pre-eminent cryptanalytic capability for the nation
+
+2.2. (TS/ / SI/ / REL) Defeat adversary cybersecurity practices in order to acquire the SIGINT data we
+need from anyone, anytime, anywhere
+
+2.3. (S/ / SI) Enable discovery capabilities and advanced tradecraft in the collection architecture to
+enable the discovery of mission-critical persona, networks, accesses, signals and technologies
+
+2.4. (S//SI) Integrate capabilities into the mission architecture, deepen workforce skill base in
+advanced network and signals analysis, and optimize processes and policies for the benefit of discovery
+
+3. (S/ / SI / / REL) Dynamically integrate endpoint, midpoint, industrial-enabled, and cryptanalytic
+capabilities to reach previously inaccessible targets in support of exploitation, cyber defense, and cyber
+operations
+
+3.1. (C/ / REL) Drive the SIGINT mission architecture to underpin synchronized, integrated,
+multi-capability operations, extending it to mission partners
+
+3.2. (TS/ / SI/ / REL) Integrate the SIGINT system into a national network of sensors which interactively
+sense, respond, and alert one another at machine speed
+
+3.3. (U//FOUO) Continuously rebalance our portfolio of accesses and access capabilities based on
+current and projected contributions to key SIGINT missions
+
+3.4. (S/ / SI/ / REL) Identify new access, collection, and exploitation methods by leveraging global
+business trends in data and communications services
+
+4
+TOP SECRET//S|//REL TO USA, AUS, CAN, GBR, NZL
+
