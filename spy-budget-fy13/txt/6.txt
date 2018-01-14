@@ -1,0 +1,59 @@
+TOP SECRET/ISI/TK/INOFORN
+
+(U) Promoting Information Sharing
+
+(U) Information sharing also is a critical enabler of integration across the Community. This budget begins to
+implement a restructuring of the IC information technology (IT) architecture that will provide a strong backbone
+enabling greater IC integration, information sharing, and improved safeguarding of networks. The need for the
+IC to contribute to deficit reduction was the catalyst for achieving greater efficiencies in information technology.
+The IC IT Enterprise will transform from agency-centric IT programs which are often duplicative and costly, to
+greater centralization of common services for IC-wide use. Within this framework, we are leveraging existing
+efforts across the Community and sustaining unique approaches only when they are essential to the mission.
+Furthermore, we are investigating data management solutions and their associated security issues, such as the
+viability of comingling data in virtualized data stores to facilitate analytical integration of different data from
+different sources and Agencies. This includes new management and operating practices for the secure storage and
+handling of the varied information contained in different intelligence systems through the use of cloud computing.
+
+(U) Engaging Partners
+
+(U) Expanding the IC’s culture of sharing with our partners is essential to leverage and maximize our collective
+capabilities. We are strengthening relationships with federal, state, local, tribal, and international partners to fuse
+domestic and foreign intelligence to quickly understand and act on threats. Through coordinated efforts, we can
+optimize our efforts to improve intelligence support.
+
+(U) As part of the Administration's overall foreign trade initiative, the IC will more closely coordinate its
+intelligence gathering and analysis efforts with federal agencies responsible for monitoring foreign trade barriers
+and enforcing U.S. trade rights under international trade agreements. The IC will directly support and strengthen
+U.S. interagency trade enforcement efforts to address unfair trade practices through the World Trade Organization
+and under other domestic and international trade enforcement authorities
+
+(U) Furthermore, the IC is postured to support the warfighter as the Department of Defense implements a new
+strategy. The strategy is consistent with the IC approach to the FY 2013 budget. We will support the increased
+focus on the Pacific region, and surge as needed for military operations. In addition, we expect there will be a
+greater reliance on the IC to provide global coverage and warning of emerging threats.
+
+(U) Aligning Resources
+(U) This year, the IC implemented guiding principles to clarify responsibility for programming NIP resources.
+
+(S) The IC developed guidelines to more clearly delineate programming responsibility for the NIP and the
+MIP to further optimize resource allocation. These guidelines better align NIP and MIP resources with mission
+requirements, reduce the number of split funded projects, and enable more efficient budget execution. The
+FY 2013 budget begins to implement the guidelines by transferring $165 million and 1,078 positions between
+the NIP and MIP. This transfer maintains the mission, function, and execution of activities; it does n_ot represent
+growth in either program.
+
+(S) In addition, the DHS Office of Intelligence and Analysis (I&A) implemented a change in how it accounts
+for resources that support the intelligence mission. Beginning in the FY 2013 budget, activities that predominately
+support departmental missions are funded outside the NIP. Under the new methodology, $11 million and
+44 positions are transferred out of the NIP.
+
+(U) Supporting Current Intelligence Operations
+(S//NF) In FY 2013, the IC will continue to provide crucial intelligence support to military operations in
+Afghanistan and to combat terrorism worldwide.
+
+(S//SI//N F) The request for Afghanistan and Pakistan decreases as support for the military’s counterterrorism
+and counterinsurgency operations declines, coincident with planned troop reductions. Accordingly, this request
+sustains HUMINT and CI operations, along with the related analytic, processing, and exploitation capabilities.
+
+4 TOP SECRET/ISIfl'K/INOFORN
+

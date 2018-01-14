@@ -1,0 +1,58 @@
+TOP SECRET/lSI/TK/INOFORN
+
+(U) Reductions
+
+(U) To the extent possible, we protected the activities highlighted above; but with the magnitude of the
+reduction, we could not avoid limited, targeted cuts to priority areas. The following are some activities reduced
+from the base budget plan:
+
+(S//N F ) Sustained Congressional Cuts. We sustain FY 2012 cuts to the CIA’s Global Deployment Initiative
+and N RO’s Integrated Ground Architecture.
+
+(S) Workforce. We continue Congressional reductions to the government workforce; curtail plans for future
+personnel growth, and take targeted reductions to baseline personnel where the risk can be managed.
+Furthermore, we reﬂect savings from a lower than projected civilian pay raise and continue to reduce our
+reliance on core contractors.
+
+(TS//NF) Operations. We decrease collection, production, and hard copy media generation in the GEOIN T
+system, slow SIGINT network exploitation and processing modernization; cut GDIP HUMINT, non-core
+MASINT, covert action programs, and some Specialized Reconnaissance Programs (SRP) operations;
+and streamline the ODNI business transformation activities. Furthermore, we discontinue or terminate
+some lower-priority missions, such as de-orbiting the Baseline ONYX satellite and transferring funding
+responsibility to the MIP for legacy satellites.
+
+(S//TK//NF) Long-Term Investments. We are terminating an NRO compartmented project, delaying
+TOPAZ performance enhancements until the second generation of TOPAZ satellites; and reducing
+technology insertion opportunities in other satellites. In addition, we are delaying some SRP investments
+and terminating the Community’s investment in a consolidated human resources information system.
+
+(S//NF) Infrastructure. We reduce enterprise management activities; eliminate the IC Data Center;
+downsize the IC Bethesda Campus; suspend some facility improvements; and delay the replacement of
+aged facility components. As a result, we will continue to house some of the IC workforce in older and less
+capable facilities that may not meet current antiterrorism/force protection requirements and we will accept
+some degradation in the IC’s facility condition index.
+
+(S//NF) Information Technology. We reduce capital equipment replacement and recapitalization; decrease
+support for heritage systems; delay consolidation of older systems; and eliminate plans for additional backup
+systems. These offsets prevent spending to sustain or improve legacy environments when our direction is
+to establish a new IT environment based on more centralized common services. Investments required to
+establish a more efficient IC IT Enterprise are protected.
+
+(U) Investments
+
+(U) Although the budget is declining, the mission is not. Prioritizing our requirements was a key element to
+produce a budget that meets customer needs, supports critical capabilities, addresses gaps, and helps to maintain
+a strategic advantage. In the FY 2013 NIP budget, the IC makes targeted investments in:
+
+(TS//SI//NF) Signals Intelligence (SIGINT). We are bolstering our support for clandestine SIGINT
+capabilities to collect against high priority targets, including foreign leadership targets. Also, we are
+investing in groundbreaking cryptanalytic capabilities to defeat adversarial cryptography and exploit
+internet traffic.
+
+(S//NF) Cybersecurity. As the cyber threat continues to grow, we sustain the budget for the Comprehensive
+
+National Cybersecurity Initiative and begin construction of a second High Performance Computing Center
+at Fort Meade, Maryland to keep pace with cyber processing demands.
+
+TOP SECRET/lSI/TK/INOFORN
+
