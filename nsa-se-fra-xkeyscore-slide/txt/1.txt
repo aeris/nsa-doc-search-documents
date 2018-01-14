@@ -1,0 +1,74 @@
+ 
+
+1. If you know the particular website the target Visits. For this example, I’m looking
+for eveiyone in Sweden that Visits a particular extremist web forum.
+
+Search: HTTP Activity
+
+Query Name: l-|"i'l:P__|n__Swe[:1anw “ ~~
+
+ 
+
+ 
+
+ 
+
+ 
+
+Justification: SwedishExtremist website visitors
+
+ 
+
+ 
+
+Additional Justification: V v
+
+The website URL (aka “host) is
+entered in with a wildcard to
+
+r r » account for “wwvw” and “mail”
+Datetime: 1Week *5 Start: 2009-01-20 [3 OE
+\ " ' other hosts.
+
+ 
+
+Miranda Number: I
+
+ 
+
+ 
+
+ 
+
+ 
+
+HT”: “”39: , r v To comply with USSID—18 you
+
+C Host: * mm 2 must AND that with some
+Scroll down to enter a country code (Sweden is se other information like an IP or
+
+@mm are D 5v [3311537 i country
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+      
+
+ 
+
+ 
+
+ 
+
+ 
+
+Country: " I To ﬂ!
+
