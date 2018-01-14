@@ -1,0 +1,49 @@
+WIRTSCHAFT
+
+werkanalysen und den Einsatz des Spahpro-
+gramms XKeyscore auf den verschluSselten
+Datenverkehr eines groBen Finanz-Netzwerk—
+betreibers im Nahen Osten gestoiSen.
+
+Fruher habe man dort nur Zahlungsver—
+kehre von Bankkunden entschltisseln kennen,
+nun habe man zudem Zugriff auf die interne
+verschltisselte Kommunikation der Unterneh-
+mensniederlassungen. Das sorge fUr ,,einen
+neuen Strom von Finanzdaten und méglicher-
+weise auch verschliisselter interner Unterneh-
+menskommunikation“ des Finanzdienstleis-
+ters, frohlocken die Analysten. Die Bankda-
+ten, die so auslesbar w'L'irden, kamen aus
+Landern, die von ,,groi3em Interesse“ seien.
+Ganz nebenbei ist das Unternehmen einer
+der Vielen Servicepartner von Swift.
+
+Die Unterlagen zeigen allerdings auch,
+wie kurzlebig die Zugange der Geheimdiens—
+te in die Finanzwelt sein kennen — und dass
+Verschltisselung die Schntiffler eben doch vor
+Probleme stellen kann, zumindest zeitweise.
+Lange habe man Zugang zu den Daten von
+Western Union gehabt, heifSt es in einem Do—
+
+kument. Das Unternehmen organisiert
+Geldtransfers in mehr als 200 Landern. Doch
+2008 habe Western Union damit begonnen,
+seine Daten hochgradig zu verschltisseln.
+Der Zugriff sei dadurch fast unmbglich ge-
+worden, klagen Mitarbeiter der NSA in einem
+der Papiere.
+
+LAURA POITRAS, MARCEL ROSENBACH, HOLGER
+STARK
+
+THEMA
+o NSA-Ubenwachung: XKeyscore,
+
+Tempora und Prism
+
+DER SPIEGEL 38f2013
+
+EH6
+
