@@ -1,0 +1,40 @@
+withjust that problem. The NYMRDD name-matching system; developed by the
+Center for Content Extraction [CCE]; can accept gueries consisting ofpersonal
+names; perform a. "fuzzy" match of the input name to one or more sets of stored
+names; and return a list ofpotential matches for presentation to the user. NYMRDD
+finds potential name matches without wildcards and can match across scripts [for
+example; between Arabic and Roman scripts}.
+
+[SHEIHREL] NYMRDD's first sets ofnames stored for matching have all been taken
+from intelligence reports from NBA; CIA; and DoD databases; with CREST
+[transcript database} names coming on-line soon. Since its initial release inJanuary
+EDGE; analysts have been using NYMRDD to find information relating to targets
+that would otherwise be tough to track down. The user interface is very simple: you
+just type in the name you are looking to: set a. matching threshold from ll] [yery
+tolerant of differences} to 1.0 [exact match}; select the datase[s]I you want to search
+within; and submit the guery. The results presentation will allow you to browse the
+snippets of text that contained the matched name. You can try out this capability
+for yourself ifyou "go NYMRDD" in your web browser.
+
+[SHEIHREL] "But I don't want yet another tool!"y many of you have said; and the
+CCE has taken this to heart. NYMRDD also offers a web service that other systems
+can use to create their own datasets and perform matching gueries. We are
+working with partners such as the Target Knowledge Base; the Unified Targeting
+Tool; and FASTSCDPE to begin integrating the service into those systems so that its
+operation is available to their users without anyone having to leave their normal
+work environment. Developers can find more information about NYMRDD's web
+
+service including an Interface Control Document; on the WW
+page.
+
+[UHFDUDJI NYMRDD's performance is monitored using a guality-assurance
+process. We work closely with our commercial and ﬁg technology suppliers to
+continuously improve the underlying matching software so that we can offer
+performance enhancements with each guarterly release ofNYMRDD. Dur April
+2008- release made large strides in performance on Arabic names; while the
+upcoming release in July will offer greatly improved Chinese name matching. The
+CCE welcomes your feedback and inguiries. Please contact us at any time using the
+CCE HELP e-mail alias.
+
+Eof3
+
