@@ -1,0 +1,79 @@
+TOP SECRET/lCOMINT/lREL TO USA, AUS, CAN, GBR, NZL/lMR
+
+Description of Information
+
+Classification/
+
+Reason
+
+Declass
+
+ 
+
+Markings
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+the cryptovariable is unknown.
+
+ 
+
+ 
+
+ 
+
+ 
+
+b. (U) In association with NSA, SECRET//COMINT 1.4(c) 20291123
+SIGlNT or Intelligence.
+
+A3. (S// SI) The fact that NSA SECRET//COM]NT 1.4(c) 20291133 (U) No additional
+targets, collects, and processes GSM details.
+(encrypted or unencrypted).
+A4. (S// SI) The fact that NSA can SECRET//COM]NT 1.4 (c) 20291123
+collect GSM calls through the global
+telecommunications infrastructure.
+Bl. (FOUO) Commerical and UNCLASSIFIED/ N/A N/A (U) No association
+government equipment that consists FOUO with NSA, SIGINT
+of; general purpose components, such or Intelligence.
+as receivers, digital signal
+processors, personal computer, etc.,
+when not running or loaded with
+GSM SIGINT collection software
+and not associated with a SIGINT
+system.
+B2. (S// SI) Commercial and SECRET//COM]NT 1.4(c) 20291123
+government equipment that consists At a minimum
+of; general purpose components, such
+as receivers, digital signal
+processors, personal computer, etc,
+when running or loaded with GSM
+SIGINT collection software and
+associated with NSA, SIGINT or
+Intelligence.
+Cl. (S// SI) The fact that NSA can SECRET//COMINT REL 1.4 (c) 20291123
+process unencrypted GSM. AUS/CAN/GBR/NZL/U SA
+C2. (S// SI) The fact that NSA can SECRET//COMINT REL 1.4 (c) 20291123
+process encrypted GSM when the AUS/CAN/GBR/NZL/U SA
+cryptovariable is known. At a mimimum
+C3. (TS// SI) The fact that NSA can TOP SECRET// 1.4 (c) 20291123 (U) Details may
+process encrypted A5/1 GSM when C%%£NT require protection
+
+via a special access
+
+ 
+
+TOP SECRET/lCOMINT/lREL TO USA, AUS, CAN, GBR, NZL/lMR
+
+ 
+
