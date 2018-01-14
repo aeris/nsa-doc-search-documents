@@ -1,0 +1,34 @@
+VolP NSA alias - GCWiki
+
+UK TOP SECRET
+The maximum classiﬁcation allowed on GCWiki is TOP SECRET STRAPI
+COMINT.
+
+VoIP NSA alias
+
+From GCWiki
+Jump to: navigation, search
+
+SAMESHEET is a group for discussing media over packet in the SIGINT community.
+It initially dealt with just VOIP, but has expanded its scope. These notes get mailed
+out after each monthly meeting (usually held the third Wednesday of every month.)
+Look for reminders, calls for Agenda items, and notes on the voip@nsa alias. This
+alias can be joined at: m
+
+This GCHQ record of SAMESHEET meetings is ended in favour of NSA's
+version at: El.
+
+I encourage all those who have an interest to join NSA's alias directly.
+
+Contents
+
+0 4.3 IETF San Diego
+
+0 7.5 VON Boston
+
+0 8 IETF SIP. Trip Report
+
+ 
+
+10f39
+

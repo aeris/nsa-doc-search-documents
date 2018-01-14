@@ -1,0 +1,25 @@
+VoIP NSA alias - GCWiki
+
+ 
+
+[ ] IETF San Diego
+
+{SI/CCO)—opened the meeting with a synopsis of the highlights from
+this past months IETF meeting in San Diego. The IETF has been at the forefront of
+Internet standards development over the last few decades and is responsible for the
+SIP standard and future extensions. Of Sigint signiﬁcance-passed on a few
+items such as the Globally Routable User—agent URI (GRUU) which is intended to
+represent a speciﬁc piece of hardware of software instance for selection.
+Implementations of the GRUU have been slowed due to privacy concerns.
+Additionally, new session policy extensions may improve our ability to passively
+target two sided communications by the incorporation of detailed call information
+being included with XML imbedded in SIP messages. On the security front, SRTP
+has been slow in the uptake do to key management limitations. At the meeting
+however there was a signiﬁcant amount of discussion surrounding Zimmerman's (of
+PGP fame) ZRTP showing an easier to implement solution. SPEERMINT has been
+very active as well discussing standards for multi and unilateral peering as well as
+initial interest in standardization of the Session Border Controller services. Finally
+peer—to—peer SIP is heating up which may lead to the formation of a new IETF
+
+40f39
+

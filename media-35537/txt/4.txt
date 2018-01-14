@@ -1,0 +1,38 @@
+VoIP NSA alias - GCWiki
+
+ 
+
+[ ] VON Boston
+
+(U/IFOUO) Three attendees of this months meeting,
+and _were able to attend this years Fall VON in Boston.
+
+notes can be found at:
+
+Next Meetings
+
+ 
+
+October 18th - Room 3W083-2 (tentative) — 1:00pm - 3:00pm Featured topic - IAD
+VOIP Vulnerability Analysis
+
+November 15th — Room 2W037—2 — 2:00pm — 4:00pm Featured topic — TBD — Please
+send suggestions/requests!
+
+[ ] Attendees:
+
+ 
+
+Thanks,—
+[ ] IETF SIP, Trip Report
+
+18/09/06 (SI/SI) X71's Network convergence project has posted a trip report from
+
+July's Internet Engineering Task Force, by _. This report
+describes developments at the IETF in SIP and SIP—related protocols. This report
+
+includes observations on SIP-based location conveyance (p. 6 and 10), new media
+types (p. 1 1), migration of communication services to SIP (p. 9), plans/issues for
+
+15 of 39
+
