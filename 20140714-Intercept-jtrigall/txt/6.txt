@@ -1,0 +1,204 @@
+PREDATORS
+FACE
+
+ROLLING
+THUNDER
+
+SCARLET
+EMPEROR
+
+SCRAPHEAP
+CHALLENGE
+
+SERPENTS
+TONGUE
+
+SILENT
+MOVIE
+
+SILVERBLADE
+
+SILVERFOX
+
+SILVERLORD
+
+SKYSCRAPER
+
+SLIPSTREAM
+
+STEALTH
+MOOSE
+
+SUNBLOCK
+
+Swamp
+donkey
+
+TORNADO
+ALLEY
+
+UNDERPASS
+
+VIPERS
+TONGUE
+
+WARPATH
+
+.edit]
+
+Tool
+
+HOME PORTAL
+
+CYBER COMMAND
+
+CONSOLE
+
+NAMEJACKER
+
+Targeted Denial Of Service againstWeb Sewers.
+
+Distributed denial of service using P2P. Built by ICTR, deployed by JTRIG.
+
+Targeted denial of service against targets phones via call bombing.
+
+Perfect spoofing of emails from Blackberry targets.
+
+for fax message broadcasting to multiple numbers.
+
+Targeted denial of service against SSH services
+
+Reporting of extremist material on DAILYMOTION.
+
+List provided to industry of live extremist material files hosted on FFUs.
+
+Disruption of video-based websites hosting extremist content through concerted target
+discovery and content removal.
+
+Production and dissemination of multimedia via the web in the course of information
+operations.
+
+Ability to inflate page views on websites
+
+is a tool that will Disrupt target's Windows machine. Logs of how long and when the effect
+
+is active.
+
+Ability to deny functionality to send/receive email orview material online.
+
+is a tool that will silently locate all predefined types of file and encrypt them on 3 targets
+machine.
+
+is a delivery method (Excel Spreadsheet) that can silently extract and run an executable
+on a target's machine.
+
+Change outcome of online polls (previously known as NUBILO)
+
+is a tool that will silently Denial of Service calls on a Satellite Phone or a GSM Phone.
+
+Mass delivery of SMS messages to support an Information Operations campaign
+
+Work Flow Management
+
+Description
+
+A central hub for all JTRIG Cerberus tools
+
+community.
+
+A web service and admin console for the translation OI usernames between networks. For use With
+
+gateways and other such technologies.
+
+A centralised suite of tools, statistics and viewers for tracking current operations across the Cyber
+
+Tech Lelld: -
+Tech Lead-
+
+JTRIG Software
+Developers E3
+
+Ready to fire, but
+see constraints.
+
+|Tech Lead -
+
+Ready to fire.
+
+In redevelopment -Expert
+User:
+ech Lead:
+
+[Tech Lead:
+
+Ready to fire. Expert User:
+
+r.
+
+[Tech Lead:
+Ex ert User:
+
+|Tech Lead-
+
+.IExpert User:
+
+|Tech Lead: Section
+X; Expert Users:
+Language Team]
+JTRIG 080 El
+Ready to fire (but |Tech Lead:
+
+see target
+restrictions).
+
+Ready to fire.
+
+Ready to fire.
+
+Ready to fire.
+
+Ready to fire.
+
+Expert User: ]
+
+ 
+
+Tested, but [Tech Lead. Seuliurl
+operational X; Expert Userl
+limitations.
+ech Lead:
+Ready to fire (but U
+see target
+. . Expert User
+restrictions).
+ech Lead
+Ready to fire (but [T
+M urge! —
+Expert User
+
+restrictions].
+
+|Tech Lead: Section
+
+In development. X; Expert Useril
+
+ech Lead
+Ready to fire (but [1"
+
+see target
+Expert User
+
+restrictions).
+JTF'I-E .1
+
+Ready to fire.
+
+Contacts
+JTRIG Software
+Developers El
+JTRIG Software
+Developers El
+
+JTRIG Software
+Developers El
+

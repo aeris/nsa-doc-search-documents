@@ -1,0 +1,54 @@
+:edit] Techniques
+
+Tool Description Contacts
+CHANGELING Ability to spoof any email address and send email under that identity JTRIG 050 El
+HAVOK Real-time website cloning technique allowing on-the-lly alterations JTRIG 080 El
+MIRAGE JTRIG 050 E
+SHADOWCAT End-toEnd encrypted access to a VPS cver SSH using the TOR network JTRIG 050 El
+Tech Lead'
+SPACE is a programme covering insertion at media into target networks. CRINKLE CUT is a tool developed by ICTR- I I!
+x e
+ROCKET CISA to enable JTRIG track images as part oi SPACE ROCKET. U- p
+ser:
+RANA is a system developed by ICTR-CISA providing CAPTCHA-solving via a web service on CERBERUS. This is Tech Lead-
+intended lor use by BUMPERCAR+ and possibly in luture by SHORTFALL but anyone is welcome to use it. -xpert Ust
+JTRIG Sort are
+LUMP A system that linds the avatar name lrom a SecondLile AgentID W
+
+Developers El
+
+JTRIG Soltware
+
+GURKHAS
+SWORD Beaconed Microsolt Ollice Documents to elicite a targets IP address. DEVEIOPE'S E
+
+jedit] Shaping and Honeypots
+
+Tool Description Contacts
+
+DEADPOOL URL shortening service JTRIG 050 E
+
+HUSK Secure one-to-one web based dead-drop messaging platlorm JTRIG 080 El
+
+LONGSHOT File-upload and sharing website JTRIG 080 E
+MOLTEN-MAGMA CGI HTTP Proxy with ability to log all trailic and perlorm HTTPS Man in the Middle. JTRIG Soltware Developers El
+NIGHTCRAWLER Public online group against dodgy websites JTRIG 050 E
+
+PISTRIX Image hosting and sharing website JTRIG 080 El
+
+WURLITZER Distribute a tile to multiple liIe hosting websites.
+
+JTRIG Logo.png
+
+Category: JTRIG
+
+—Crown Copyright] © 2008 or is held under licence lrom third parties. This inlormation is exempt under the Freedom ol Inlormation Act
+and may be exempt under other UK information legislation. Reler any FOIA queries to GCHQ on—
+
+Privacy policy About GCWiki Disclaimers
+
+ 
+
+TOP SECRET STRAP1 COMIIIT
+The maximum classilication allowed on GCWiki is TOP SECRET STRAPI COMINT. Clickro report inappropriate content.
+

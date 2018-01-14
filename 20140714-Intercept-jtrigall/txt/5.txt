@@ -1,0 +1,182 @@
+_'edit]
+
+Effects Capability
+
+.‘JTRIG develop the majority of effects capability in GCHQ. A lot of this capability is developed on demand for specific operations and then further
+developed to provide weaponised capability.
+
+Dont treat this like a catalogue. If you dont see it here, it doesnt mean we cant build it. If you involve the JTRIG operational teams at the start of your
+operation, you have more oi a chance that we will build something foryou.
+
+For each oi our tools we have indicated the state oi the tool. We only advertise tools here that are either ready to fire or very close to being ready
+(operational requirements would re-prioritise our development). Once again, involve the JTRIG operational teams early.
+
+Tool
+
+ANGRY
+PIRATE
+
+ARSON SAM
+
+BUMPERCAR+
+
+ROME RAY
+
+BADGER
+BURLESQUE
+CANNONBALL
+
+CLEAN
+SWEEP
+
+CLUMSY
+BEEKEEPER
+
+CHINESE
+FIRECRACKER
+
+CONCREIE
+DONKEY
+
+DEER
+STALKER
+
+GATEWAY
+GAMEIT
+
+GES'I'A'I'OR
+
+GLI'I'I'ERBALL
+
+IMPERIAL
+BARGE
+
+PI'I'BULL
+
+POISONED
+DAGGER
+
+Description
+
+is a tool that will permanently disable a target's account on their computer.
+
+is a tool to test the effect of certain types of PDU SMS messages on phones I network. It
+
+also includes PDU SMS Dumb Fuzz testing .15.
+
+is an automated system developed by JTRIG CITD to supportJTRlG BUMPERCAR
+operations. BUMPERCAR operations are used to disrupt and deny Internet-based terror
+
+videos or other material. The technique employs the services provided by upload providers
+
+to report offensive materials.
+is the capability to increase website hits/rankings.
+
+mass delivery of email messaging to support an Information Operations campaign
+is the capability to send spoofed SMS text messages.
+
+is the capability to send repeated text messages to a single target.
+
+Masquerade FacebookWall Posts for individuals or entire countries
+
+Some work in progress to investigate IRC effects.
+
+Overt brute login attempts against online forums
+
+is the capability to scatter an audio message to a large number of telephones, or
+repeatedly bomb a target numberwith the same message.
+
+Ability to aid-geolocation of Sat Phones I GSM Phones via a silent calling to the phone.
+
+Ability to artificially increase traffic to a website
+
+Deployable pocket-sized proxy server
+
+amplification of a given message, normally video, on popular multimedia websites
+(Youtube).
+
+Online Gaming Capabilities for Sensitive Operations. Currently Second Life.
+
+For connecting two target phone together in a call.
+
+Capability, under development, enabling large scale delivery of a tailored message to
+users of Instant Messaging services.
+
+Effects against Gigatribe. Built by ICTR, deployed by JTRIG.
+
+Status Contacts
+
+ech Lead:
+Ready to fire (but U
+
+see target
+
+. . Ex en
+restrictions). p
+
+User:
+
+Read to fire Not
+, y _ ( frech Lead:
+against me
+
+targets, this is a
+RED Tool).
+
+Expert User:]
+
+.‘JTRIG Software
+
+Read to fire.
+y DevelopersEl
+
+In Development. [Tech Lead
+Ready to fire. JTRIG OSOEI
+Ready to fire. .‘JTRIG OSOE
+Ready to fire. JTRIG OSOEI
+[Tech Lead:
+
+Ready to fire
+(SIGINT sources
+required)
+
+Expert User:
+
+NOT READY TO Ten“ Lead
+
+FIRE. Ewen
+
+User
+
+Ready to fire. FIRE CRACKER El
+
+In development.
+
+frech Lead:
+
+Ready to fire. .
+Expert Usern
+
+.‘JTRIG 0S0 El
+JTRIG 080 El
+
+frech Lead: ?;
+Expert User:
+
+Ready to fire.
+
+ln-development
+
+ln development.
+
+[Tech Lead:
+
+Tested. |Expert
+
+User:
+In development.
+
+Tech Lead'
+
+|.lI
+

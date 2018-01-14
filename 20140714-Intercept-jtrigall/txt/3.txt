@@ -1,0 +1,201 @@
+fedit] Collection
+
+Tool
+AIRWOLF
+
+ANCESTRY
+
+BEARTRAP
+
+BIRDSONG
+
+BIRDSTRIKE
+
+BUGS‘I’
+
+DANCING
+BEAR
+
+DEVILS
+HANDSHAKE
+
+DRAGON'S
+SNOUT
+
+EXCALIBUR
+
+FATYAK
+
+FUSEWIRE
+
+GLASSBACK
+
+GODFATHER
+
+GOODFELLA
+
+HACIENDA
+
+ICE
+
+INSPECTOR
+
+LANDING
+PARTY
+
+Description
+
+YouTube profile. comment and video collection.
+
+Tool Ior discovering the creation date onahoo selectors.
+
+Bulk retrieval of public BEBO proiiles from member or group ID.
+
+Automated posting of Twitter updates.
+
+Twitter monitoring and profile collection. Click here ior the User Guide.
+
+Google+ collection (circles, proiiles etc.)
+
+obtains the locations ol WiFi access points.
+
+ECI Data Technique.
+
+Paltalk group chat collection.
+
+acquires a Paltalk UID and/or email address lrom a Screen Name.
+
+Public data collection lrom Linkedln.
+
+Provides 24/7 monitoring olVbulliten lorums lor target postings/online activity. Also allows
+
+staggered postings to be made.
+
+Technique oi getting a targets IP address by pretending to be a spammer and ringing them.
+
+Target does not need to answer.
+
+Public data collection irom Facebook.
+
+Generic lramework lor public data collection irom Online Social Networks.
+
+is a port scanning tool designed to scan an entire country or city. It uses GEOFUSION to
+identity IP locations. Banners and content are pulled back on certain ports. Content is put into
+the EARTHLING database, and all other scanned data is sent to GNE and is available through
+
+GLOBAL SURGE and Fleximart.
+
+is an advanced lP haniesting technique.
+
+Tool lor monitoring domain iniormation and site availability
+
+Tool Ior auditing dissemination oi VIKING PILLAGE data.
+
+Contacts
+
+JTRIG Soltware
+Developers E3
+JTRIG Soltware
+Developers El
+
+JTRIG Soltware
+Developers El
+
+JTRIG Soltware
+Developers El
+
+Status
+Beta release.
+
+Fully
+Operational.
+Fully
+Operational.
+Decomissioned.
+Replaced by
+SYLVESTER.
+Fully
+Operational.
+
+Tech Leads -|In early
+
+—leeeemeee
+
+[Tech Lead.-
+I
+
+Expen
+
+ 
+  
+    
+ 
+
+Expen
+
+Tech Leads:
+
+JTRIG Soltware
+Developers El
+
+|Tech Lead:
+
+JTRIG Soltware
+Developers l=3
+JTRIG Soltware
+Developers El
+
+[Tech Lead:
+
+[Tech Lead:
+
+NAC HACIENDA
+
+Taskers El
+
+JTRIG Soltware
+Developers El
+JTRIG Soltware
+Developers El
+
+JTRIG Soltware
+Developers El
+
+Fully
+
+Use .lOperational.
+
+|Tech Lead--
+
+Fully
+
+User:—Operational.
+
+Beta release.
+
+Fully
+operational
+(against current
+Paltalk version]
+
+In development
+
+Fully
+operational.
+
+Fully
+operational.
+
+In Development
+(Supports
+RenRen and
+Xing).
+
+Fully
+operational.
+
+Fully
+Operational.
+Fully
+Operational.
+
