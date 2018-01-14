@@ -1,0 +1,64 @@
+ 
+
+ 
+
+ 
+
+DATE/PREPARER: Topic Page Classification Page Number
+(U) Applying BR and PR/TT in IOP—SEGREAISWNOFORN 6 of 12
+the Anal tic Work Flow
+
+ 
+
+ 
+
+FRAME ID: 6060
+
+ 
+
+NEXT FRAME ID: 6070
+
+BACK FRAME ID: 6050
+
+ 
+
+ALT TAG:
+
+ 
+
+GRAPHIC/AV:
+
+W
+
+ 
+
+ 
+
+ 
+
+(ISIISl-ALN-F) (HMC Character): After the RAS requests were approved, using the BR and PR/TT modes of — CT analysts began running federated
+metadata queries on the approved identifiers, as we discussed in Module 4. The analyst querying Zazi’s Colorado phone number discovered that around
+
+ 
+
+the time that Zazi exchanged emails with the —he had also contacted hone numbers. Using the
+
+guidance that we discussed in Module 4, the analyst determined that Zazi’s contacts with these IUIIII nars were unique to BR metadata. Based on
+
+this uniqueness, the analyst began drafting a report in accordance with the dissemination guidell We reviewed in Module 4. Before the report was
+
+released, the Chief of 812 determined that the report met the CT Nexus criteria and approved its release. Comment [a5]: Use one Ofscreenshots showing
+
+what a chain/query looks like
+
+ 
+
+(ISAlSl-ALN-F) Remember, even “fact of" statements describing what BR- or PR/TT-unique data was discovered are considered “query results" under FISC
+guidelines and must be handled in accordance with the Court Orders. However, once formally disseminated to customers, it no longer requires the
+Iprotection and is treated as normal SIGINT analysis, as is the case with the example we have just described.
+
+ 
+
+W
+Page 6 of 12
+
