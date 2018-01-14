@@ -1,0 +1,74 @@
+(S/lSI/IREL) Passive
+acquisition utilizes
+mid-point collection
+to target information
+being ex—filtrated
+from victims of
+foreign CNE activities.
+This often involves
+CES efforts to decrypt
+or de-obfuscate the
+collected data.
+
+ 
+
+ 
+
+Country A
+Foreign CNE C2 Node
+
+ 
+
+ 
+
+ 
+
+ 
+
+gt:
+4”
+
+Foreign ON‘E Infrastructure
+
+ 
+
+ 
+
+CountryX L/ Counter \4
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+  
+
+CountrkV
+
+    
+
+ 
+
+ 
+
+Foreign CNE Victims
+
+ 
+
+S/iSl/IREL
+
+(U) Passive Acquisition
+
+ 
+
