@@ -1,0 +1,51 @@
+w
+
+ELECTRONICS
+
+September 12, 2013
+Dr. Richard Tynan
+
+Privacy International
+46 Bedford Row, London, WC1R 4LR
+United Kingdom
+
+Dear Dr. Tynan,
+
+Thank you for your letter dated August 19, 2013. Samsung Electronics takes customer
+privacy and the protection of personal information very seriously and we appreciate that
+
+you contacted us with your inquiry on this matter.
+Please refer to the following answers that specifically address the questions from your letter.
+
+1. When the user requests any of your handsets to be powered off, what components,
+if any remain active i.e. consuming power?
+
+- N0 components remain active after our handsets are powered oﬁ‘.
+
+a. If some components do remain active, what is the power source for these
+components i.e. capacitor, battery or power transmitted from an external
+source?
+
+- Battery power is required for any component to remain active.
+
+2. Is there any condition, or set of conditions, whereby components of your handsets
+would be subsequently activated after the user requests any of your handsets to be
+powered off, other than by the user requesting the phone to be powered on?
+
+— N0 components can be activated after our handsets are powered oﬁr.
+
+a. If some components do activate, can the command or set of commands to
+activate originate from within the handset hardware?
+
+- Not applicable.
+
+b. If some components do activate, can the command or set of commands to
+activate originate from within the handset's Operating System?
+
+- Not applicable.
+
+c. If some components do activate, can the command or set of commands to
+activate originate from a source external to the handset?
+
+- Not applicable.
+
