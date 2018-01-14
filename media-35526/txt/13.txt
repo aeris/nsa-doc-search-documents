@@ -1,0 +1,60 @@
+ 
+
+ 
+
+   
+    
+  
+ 
+
+C: iF‘seciESP Meiadata I
+F:ASDF
+
+ 
+
+TOP RFCPFTHCOMINTHPFI TO I IRA FVFV
+
+Authentication Header (AH) i Eneepeuieting Security Payload (ESP)
+
+F: ASDF in SOTF
+VS-ESP-MDZ — ________
+T: MAILORDER |
+
+ 
+
+SECRETHCOMIN THREL T0 USA, FVEY
+
+V5-E5P—MD1
+T: Socket Connection
+C: IPSECJESP Metadata Bundles
+
+VS-ESP-I'L'DB
+
+Ti MAILORDER
+
+C: IPSECI'ESP Metadata
+F2 ASDF
+
+ 
+
+Interface Kg;
+T = Tiansporl
+
+C = C ante-m
+
+ 
+
+F = Formal
+
+ 
+
+ 
+
+ 
+
+   
+
+immepe
+
+ 
+

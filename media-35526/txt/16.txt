@@ -1,0 +1,195 @@
+ 
+
+TOP SECRETIICOMINTIIREL TO USA FVEY
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+'x
+
+E vpna
+
+VPNE
+
+Internet KB Exchan E IKE
+
+T: Socket Connection
+
+C: Selected Application Sessions*
+
+ 
+
+ 
+
+ 
+
+ 
+
+Note
+
+* Selected Application Sessions
+are identiﬁed and selecteo from
+
+the decrypteci packets extracted
+from tne VPN tunnel and inserted
+intothe TURMCJIL input stream.
+
+ 
+
+ 
+
+: T‘. MAILORDER
+
+: C: SEIEEIEU Application SEEESSD'I'TS’r
+' F: SOTF
+
+ 
+
+ 
+
+EXDPU MP
+
+ 
+
+ 
+
+cm: pus}
+
+C: SEIEEIEU Appl SEE‘nSlDI’tSg
+
+F2 XMUSCITF
+
+' (TS/ISl/IREL) PIQ Blade provides PlQ-Services, PICARESQUE ECI Compartmented
+
+   
+
+ 
+
+ 
+
+VPN1
+T: Socket Connection
+
+ 
+
+TOP SECRETHCDMINTHREL TD USA, FVEY
+
+nternet SECUI’iT Association K9 Mane ement Protocol ISAKMP
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TURMO|L C: Selector Hit Ouenrthesponse
+_ ‘ Interface Key
+‘FBinao‘, KEYCARD T: Wampum
+VPN1B C : Content
+T: Secure Socltet {ESL} F = Format
+Ci PIE] Blade Management
+F: WebSA
+._ ............... —> ooc 1 CES
+H Pc
+- Resources
+‘'IiIi."h-‘I-II-l-I'Eurl'"ll -
+Grid
+3.? Resource
+vpm s = Allocation
+S P“; T It: cums: .E g Manager
+entices C. iKE Messages (3 a, (GRAM)
+IV ._ '—
+--Liﬂétﬂpl__--__l I: -4: E
+VPNE E: 0‘) 2 g g A
+T: In one) E 2 m m C)
+C: ESP Key ReqiilR’es a 0 ﬂ 2 S,
+FZIHt‘SOAP) U E SE B
+.................... _ _. i + D D cwptnuariahles
+D.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+' (TS/ISIIIREL) Transform is Sanitization of Decrypt
+' (Sl/SI/IREL) VPN AHIESP Session Transform capability is not available in Spin 12
+
+' (Ul/FOUO) KEYCARD IP Target Action must be TRANSFORM
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+' (TS/ISIIIREL) Decrypted sessions have BME vpnlD :5 “O8000000-OOOO-OOOO-OOOO-OOOOOOOOOOOl"
+
+TOP RFCPFTHCOMINTHPFI Tn llgA FVFY
+
+ 
+

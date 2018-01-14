@@ -1,0 +1,66 @@
+ 
+
+ 
+
+Internet Key Exchange {IKE} i Internet Security Association Key Management Protocol {ISAKMPJ
+
+Encapsulating Security Fayioad (ESP)
+
+ 
+ 
+
+VPNI
+T: Socket Connection
+C: Selector Hit QueryrResponse r
+
+VPNE
+T: Socket Connection
+
+ 
+  
+
+ 
+  
+ 
+
+_. fl. .Eliilﬂﬁ‘ ......................
+: Wide
+5 T: MAILDRDER VPNH
+: C: IKE E: ESP Sessions Selected tor Analysis T' IT JMS
+‘ F: sorF ' "t 3* . ,
+; C: IKE 3. ESP Sessmns $eleeted for Analyse
+
+F: XMLISOTF
+
+ 
+
+' (Ul/FOUO) KEYCARD IP Target Action must be ANAL YZE
+' (Ul/FOUO) Full-take of IKE/ESP Sessions.
+' (Ul/FOUO) No Analytic at this time
+
+TOP RFCPFTHCOMINTHPFI Tn IIRA FVFV
+
+ 
+    
+  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Interiaoe Keg;r
+T = Transport
+C = Content
+F = Format
+
+ 
+
+ 
+
+ 
+

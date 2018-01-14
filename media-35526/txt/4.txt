@@ -1,0 +1,85 @@
+TOP SECRETIICOMINTIIREL TO USA FVEY
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“r UNCLASSIFIED K‘
+“K Internet Key Exchange {IKE — RFC 2409) “
+Internet Security Association and Key Management
+Protocol (ISAKMP — RFC 2403)
+
+O 1 2 3
+Cl1234567890123456T89012345678901
+VersionI IHL I Type ofServi-se Totai Length
+Identification Flags I Fragment Offset IF'
+Timeto Live I Protocol = 17 Header Cheekeum Header
+Source Address
+Destination Address
+:Seutc'anérlzt'eui ingeuuettph'-Ptit'=i§99 ; uoP
+Length Cheokﬁum Header
+Initiator Cookie
+Initiator Cookie
+Responder Cookie IKE I
+Responder Cookie ISAKMP
+Next Payload I M] Ver IMn Vet I Exchange Type Flags Header
+Message ID
+Length
+Key Management Data
+K. J
+LR UNCLASSIFIED J
+
+ 
+
+ 
+
+TOP RFCPFTHCDMINTHPFI Tn [19A FVFY
+
