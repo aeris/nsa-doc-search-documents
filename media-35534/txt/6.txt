@@ -1,0 +1,27 @@
+SECRET/ISIIIREL TO USA, FVEY
+
+Issues/Risks
+
+1. CA Servers at Net Defense Sites
+5.) lTx Connectivity to LONGHAUL
+
+bi NTOC requires stand-up of separate dev and live iTX fabric
+
+i. - H/W funding may be needed
+
+ii. - Need paperwork for update to firewall — submission expected by 25 Feb
+u Expected completion was 29 Feb; now delayed to TBD
+
+d; SSH connectivity
+
+9i Short term: via BLUEBOX CA Servers at Pentagon - done
+
+a Longer term: via deployment ofservers within the NTOC enclave that connect to CA Servers in the field
+
+2. GALLANTWAVE Targeting Challenges
+5; MAILORDER/Ni-Fl not yet available
+
+bi Mitigation: Manually load static targeting files
+
+SECRET/ISIIIREL TO USA, FVEY
+

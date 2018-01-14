@@ -1,0 +1,27 @@
+1.
+
+2.
+
+3.
+
+TOP SECRET/ISI/IREL TO USA, FVEY
+
+Three-Feather Solution
+
+GALLANTWAVE application
+
+- Same module supports NetDef and SlGlNT
+
+- Supports dynamic update of targeting via UTT
+- Supports static target updates
+
+GALLANTWAVE Reinjection application
+- Same module supports NetDef and SlGlNT
+
+_ Supports re-injection of decrypt into TURMOIL for detection by BLUESNORT
+
+BLUESNORT in Stage 1 Prime application
+, Emits events off decrypted, re-packetized, reinjected data
+
+TOP SECRETIISI/IREL TO USA, FVEY
+

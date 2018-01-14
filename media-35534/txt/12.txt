@@ -1,0 +1,58 @@
+(S//REL) Dynamic Defense Logical Diagram
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CD
+INTE R N ET (SHRED
+“ Network Normalized
+. Interface TUMULT Packets Defea-
+Active Response Stage 0
+Block,
+Reroute,
+Alter
+Alert
+
+Comman
+
+ 
+
+Action
+
+     
+
+Decide
+
+Legend:
+
+ 
+
+(23>
+Protected Internal Network TUMULT
+(T113)
+
+ 
+
+12
+
