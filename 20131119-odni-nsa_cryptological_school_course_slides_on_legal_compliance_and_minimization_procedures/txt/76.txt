@@ -1,0 +1,16 @@
+UiSSID CR1610 Annex A details
+auditing requirements for certain raw
+SIGINT systems. This auditing meets
+Department of Justice mandates for
+NSA’s operations.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
