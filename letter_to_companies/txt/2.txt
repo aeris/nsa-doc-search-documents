@@ -1,0 +1,58 @@
+effective framework for the protection of privacy, where users can continue to
+have confidence and trust in mobile applications and services.” The Principles
+go on to say that they apply to “[d]ifferent stakeholders, such as the relevant
+sen/ice or application provider, the mobile operator, the handset manufacturer
+and the operating system or other software provider”, which includes Apple [iv].
+
+We should be grateful if you could provide responses to the following questions
+and where appropriate identify which models of your handsets your answer
+relates:
+
+1. When the user requests any of your handsets to be powered off, what
+components, if any remain active i.e. consuming power?
+
+a. If some components do remain active, what is the power source
+for these components i.e. capacitor, battery or power transmitted
+from an external source?
+
+2. Is there any condition, or set of conditions, whereby components of your
+handsets would be subsequently activated after the user requests any of
+your handsets to be powered off, other than by the user requesting the
+phone to be powered on?
+
+a. If some components do activate, can the command or set of
+commands to activate originate from within the handset
+hardware?
+
+b. If some components do activate, can the command or set of
+
+commands to activate originate from within the handset’s
+Operating System?
+
+c. If some components do activate, can the command or set of
+commands to activate originate from a source external to the
+handset?
+
+3. Do any of your handset's transceivers remain active or become active
+
+after the user has requested the handset to be powered off without any
+further user interaction?
+
+4. Is there any other way of causing one of your handsets to emit a signal
+while the handset is powered off and without any further interaction from
+the user?
+
+We would ask you to kindly acknowledge receipt of this letter and consider
+responding in a timely manner. We look fonNard to your response.
+
+Kind Regards,
+
+Dr. Richard Tynan
+Privacy International
+
+46 Bedford Row, London, WC1 R 4LR
+Tel: +44 (0) 20 7242 2836 | https://www.privacyinternational.orq
+Registered Charity 1147471
+
+ 
+
