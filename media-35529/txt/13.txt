@@ -1,0 +1,27 @@
+   
+
+TOP SECRETIICOMINTHREL USA, AUS, CAN, GBR, NZLII20320108
+
+VPN Spin 9 Fielded Capability Upgrade
+
+(U) Design Constraints
+
+(TS/ISIIIREL) Spin 9 VPN will use the following components:
+
+Capability Component Function Developer
+
+Extends the CES enclave to TURMOIL
+PIQ-Blade for decryption and other CA processing CES/ESO
+
+VPN Receive bundled decrypt for application
+Identification X WCZ'O processing TU
+and
+Decryption Provides IKE / ESP matching
+grineéggfgr functionality. It communicates with the CES/SAO/
+(V A0) PIQ-Blade and is located behind the Txx
+CES Firewall.
+VPN Receives VPN SOTF Metadata via
+Metadata TOYGR'PPE PRESSUREWAVE CES/ESO
+
+TOP RFCPFTHCOMINTIIPFI [IRA AIIR CAN GRP N7|II9OR901OR 13
+

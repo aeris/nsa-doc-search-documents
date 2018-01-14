@@ -1,0 +1,23 @@
+TOP SECRETIICOMINTHREL USA, AUS, CAN, GBR, NZLII20320108
+
+VPN Spin 9 Fielded Capability Upgrade
+
+ 
+
+(U) Test Scenarios (continued)
+
+' (U) Failure Scenarios.
+' (TS/ISIIIREL) ESP Decryption fails because bad key is returned by VAO.
+' (Sl/SI/IREL) VAO responds with no key recovered.
+' (Sl/SI/IREL) VAO key response timeout.
+
+' (Sl/SI/IREL) VAO key response received after response timeout.
+
+' (Sl/SI/IREL) VAO response received after TDS hold time expires and ESP is
+not available.
+
+' (Sl/SI/IREL) Phase 1 and Phase 2 IKE is complete, but no ESP is collected.
+' (Sl/SI/IREL) ESP is collected, but no IKE is collected.
+
+TOP RFCPFTIICOMINTIIPFI [IRA AIIR CAN GRP N7|II9OR901OR 22
+

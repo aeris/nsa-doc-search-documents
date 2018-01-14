@@ -1,0 +1,27 @@
+TOP SECRETIICOMINT/IREL USA, AUS, CAN. GBR, NZLII20320108
+
+  
+
+KEYCARD
+
+ 
+
+(U) Inputs
+° (U) Application ID: VPN
+° (U/IFOUO) Raw Selectors: IP addresses of sessions carrying the IKE exchange
+
+0 (U) Context: Packet IP addresses both source and destination (properly identified)
+with realm derived from network universe
+
+(U) Processing
+° (Sl/SI/IREL) Lookup raw selectors and report hit/no-hit results.
+- (Sl/SI/IREL) Return tasking for hits.
+
+(U) Outputs
+
+- (U/IFOUO) Evaluated Selectors:
+0 Hit or No-Hit indicators
+- Target match data if necessary
+
+TOP RFCPFTIICOMINTIIPFI [IRA AIIR CAN GRP N7|II9OR901OR 35
+

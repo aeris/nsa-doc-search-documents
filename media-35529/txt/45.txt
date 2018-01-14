@@ -1,0 +1,32 @@
+TOP SECRETHCOMINTIIREL USA, AUS, CAN. GBR, NZLH20320108
+
+ 
+
+(U) Inputs
+
+° (S/lSI/lREL) IKE packets
+° (S/lSI/IREL) ESP Crypto-variable (CV) Requests
+
+(U) Processing
+
+° (S/lSI/IREL) Generates ESP SA CV’s from IKE packets
+
+° (S/lSI/IREL) Matches ESP SA CV requests with generated CV’s
+° (S/lSI/IREL) Responds to ESP SA CV requests
+
+(U) 0utputs*
+
+° (S/lSI/IREL) ESP Crypto-variable Response
+
+ 
+
+ 
+
+ 
+
+* Note: VAO requests that multiple ESP packets also be sent for each session
+
+ 
+
+TOP RFCPFTIICOMINTIIPFI [IRA AIIR CAN GRP N7|II9OR901OR 45
+

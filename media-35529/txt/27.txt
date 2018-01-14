@@ -1,0 +1,166 @@
+   
+
+_I,
+
+ 
+
+-THTxUMS)
+
+lllllllllll“'
+VPN9'
+T:MAu0RDER
+
+C: Selected Application Sessons”
+F: SOTF
+
+VPN?
+
+T: Socket Connection
+C: Sessionized Decrypted Packets
+F: SOTF
+
+IVPNG
+T: Socket Connection
+C: Selected Application Sessions*
+F: SOTF
+
+ 
+
+ 
+
+m
+* Selected Application Sessions
+are identiﬁed and selected from
+the decrypted packets extracted
+from the VPN tunnel and inserted
+into the TURMOIL input stream.
+
+ 
+
+ 
+
+VPN11
+
+C: Selected Appl Sessions"
+F: XML/SOTF
+
+TOP SECRETHCOMINTH20320108
+
+VPN SPIN 9 Decrypt Dataflows
+
+Internet Key Exchange (lKE)—)
+Encapsulating Security Payload (ESP)—}
+
+   
+
+ 
+
+ 
+
+‘uw
+
+ 
+
+Interface Key
+T = Transport
+
+C = Content
+
+F = Format
+
+ 
+
+ 
+
+ 
+
+VPN1-
+
+T: Socket Connection
+
+C: Selector Hit Query/Response
+F: Binary
+
+_VPN2
+
+T. Secure Socket (88L)-
+C: VPN Metrics
+
+F: SOAP
+
+_VPN18
+
+—:T Secure Socket (SSL)
+C: PIQ Blade Monitoring
+F: WebSA
+
+VPNSI
+
+T: Secure SOCket (SSL)M
+
+C: ESP Key RequetIResponse
+F: SOAP
+
+.VPN4 _
+T: Secure Socket (SSL)
+
+C: IKE Messages
+
+F: SOAP
+
+TOP SECRETHCOMINTH20320108
+
+Dataflow Key
+
+- - - -Se|ectorLookup
+— — VPN Metrics
+- — PIQ Blade Monitoring
+
+- — ESP Key Request/Response
+
+- — IKE Messages
+
+ 
+
+- - - Selected Application Sessions
+
+Sessionized Decrypted Packets
+
+ 
+
+ 
+
+CES XML Gateway
+
+—>
+
+ 
+
+ 
+
+CES Watch
+
+ 
+
+ 
+
+CES Firewall
+
+VAO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+27
+

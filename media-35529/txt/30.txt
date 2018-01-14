@@ -1,0 +1,39 @@
+TOP SECRETIICOMINTI/REL USA, AUS, CAN, GBR, NZL/l20320108
+
+/ VPN Spin 9 Decryption Design Details
+
+   
+   
+    
+
+IKE H
+
+mm
+ESP
+mm
+
+ 
+
+ 
+
+SIGD E‘v"
+
+aesaiana
+
+ 
+
+ 
+
+ 
+
+Packet Data —r ’F'F Campunen
+
+Reward Management —|'-
+Session Data —I-
+
+”I” !"II.-‘i.'u-ill"|‘-! ' """" "' w.
+
+TOP RFCPFTIICDMINTIIPFI [IRA AIIR CAN GRP N7|II9OR901OR 30
+
+ 
+

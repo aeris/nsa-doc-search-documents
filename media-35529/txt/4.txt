@@ -1,0 +1,19 @@
+TOP SECRETIICOMINTHREL USA, AUS, CAN, GBR, NZLII20320108
+
+VPN Spin 9 Fielded Capability Upgrade
+
+ 
+
+(U) Capabilities
+
+' (TS/ISIIIREL) The TU VPN capability will implement an operational capability to
+detect and decrypt selected communications that are encrypted using IP security
+(M) algorithms and protocols. It will fonNard the unencrypted content to follow-
+on processing systems.
+
+' (TS/ISIIIREL) The TU VPN capability will collect metadata about IPsec Internet
+Key Exchange (ﬁ) events and forward the metadata to follow-on SIGINT
+Development (SIGDEV) systems.
+
+TOP RFCPFTIICOMINTHPFI [IRA AIIR CAN GRP N7|H9OR901OR 4
+

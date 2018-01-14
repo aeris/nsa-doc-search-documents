@@ -1,0 +1,30 @@
+TOP SECRETIICOMINTIIREL USA, AUS, CAN. GBR, NZLII20320108
+
+PRESSUREWAVE
+
+ 
+
+(U) Inputs
+
+° (Sl/SI/IREL) VPN metadata including IKE payload objects with associated
+metadata represented in XML.
+
+° (U/IFOUO) Selected application data objects with associated metadata
+represented in xml.
+
+(U) Processing
+
+° (Sl/SI/IREL) PWV hosts a persistent (or standing) query created by the VPN
+analytic. When new metadata arrives that matches the query, the VPN analytic
+is notified and pulls the associated metadata and IKE packets for further
+processing.
+
+- (U/IFOUO) PWV serves as data store for TU analytics
+
+(U) Outputs
+
+° (Sl/SI/lREL) The metadata and IKE packets are forwarded to VPN analytic via
+ITx (JMS messaging service).
+
+TOP RFCPFTIICOMINTHPFI [IRA AIIR CAN GRP N7|II9OR901OR 42
+

@@ -1,0 +1,37 @@
+TOP SECRETIICOMINTI/REL USA, AUS, CAN, GBR, NZLII20320108
+
+VPN Spin 9 Fielded Capability Upgrade
+
+ 
+
+(SIISIIIREL) TU VPN Product Dataflows
+
+X (TS/ISI/lREL) Bundled decrypt are delivered directly to WEALTHYCLUSTER
+2.0 (WC2.0) via TUBE from TURMOIL as packets for application processing that
+is not available in TURMOIL.
+
+(TS/ISIIIREL) Sessionized decrypted packets are delivered without selection
+(full-take) to XKEYSCORE from TURMOIL for target SIGDEV.
+
+(SIISIIIREL) Selected application sessions are delivered to PRESSUREWAVE
+via TUBE format conversion and EXOPUMP where data and metadata object are
+created and inserted into PWV for legacy analytics and analysis tools.
+
+(SIISIIIREL) lPsec metadata are delivered to TOYGRIPPE via PWV where an
+analytic converts lPsec metadata to TGIF format and pushes it to TOYGRIPPE.
+
+(SIISIIIREL) VPN metrics are delivered to CA Resources by the TURMOIL PIQ
+blade via CES firewall.
+
+ 
+
+ 
+
+ 
+
+Reference: VPN Spin 9 Dataflows
+
+ 
+
+TOP RFCPFTIICOMINTIIPFI [IRA AIIR CAN GRP N7|II9OR901OR 10
+

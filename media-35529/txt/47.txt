@@ -1,0 +1,32 @@
+TOP SECRETHCOMINTIIREL USA, AUS, CAN. GBR, NZLH20320108
+
+XWEALTHYCLUSTER 2-0
+
+ 
+
+(U) Inputs
+
+- (Sl/SI/IREL) Bundled decrypted packets in SOTF format via MAILORDER.
+(U) Processing
+
+- (U) Signal identification
+
+- (Sl/SI/IREL) Protocol recognition, processing and sessionization
+- (Cl/SI/IREL) Application identification and processing
+
+- (Cl/SI/IREL) Link characterization aggregation
+
+- (U/IFOUO) Filtering, selection, and forwarding
+
+- (U/IFOUO) Strong selection
+
+° (S/lSI/IREL) Persona session association
+
+- (Sl/SI/IREL) Session association
+
+° (S/lSI/IREL) IP Decompression
+
+- (Sl/SI/IREL) Contact chaining
+
+TOP RFCPFTHCOMINTIIPFI [IRA AIIR CAN GRP N7|II9OR901OR 47
+

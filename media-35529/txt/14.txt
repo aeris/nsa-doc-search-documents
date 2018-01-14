@@ -1,0 +1,25 @@
+   
+
+TOP SECRETIICOMINTHREL USA, AUS, CAN, GBR, NZLII20320108
+
+f VPN Spin 9 Fielded Capability Upgrade
+
+‘2'}
+
+(U) Delivery Constraints
+
+(TS/ISIIIREL) Spin 9 VPN will use the following delivery mechanisms:
+
+Capability Product Format Mechanism
+VPN XBundIed decrypt for WC2.0 SOTF MAILORDER
+IdentailfrIchatlon Sessionized decrypted packets
+Decryption from TU RMOIL Data Store to SOTF Socket
+XKEYSCORE
+VPN IKE setup metadata SOTF Socket via TUBE
+VPN for PRESSUREWAVE and EXOPUMP
+Metadata _
+VPN IKE setup metadata for TGIF MAILORDER Vla
+TOYGRIPPE VPN Analytic
+
+TOP RFCPFTHCOMINTIIPFI [IRA AIIR CAN GRP N7|II9OR901OR 14
+

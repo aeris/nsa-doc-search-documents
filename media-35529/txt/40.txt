@@ -1,0 +1,24 @@
+TOP SECRETIICOMINT/IREL USA, AUS, CAN. GBR, NZLII20320108
+
+    
+
+TUBE (Metadata)
+
+(U) Inputs
+- (U) SOTF objects.
+
+(U) Processing
+
+- (Cl/SI/IREL) Examines the BME to determine if the session should go to PWV.
+
+- (U) Determines appropriate routing (MAILORDER FDI) and forwards the new
+SOTF object to EXOPUMP via MAILORDER.
+
+- (U) Optionally (configurable) wrap multiple objects destined for EXOPUMP/PWV
+into one MAILORDER file to reduce the number of individual files transmitted.
+
+(U) Outputs
+- (U) SOTF objects.
+
+TOP RFCPFTIICOMINTIIPFI [IRA AIIR CAN GRP N7|II9OR901OR 40
+

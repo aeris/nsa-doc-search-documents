@@ -1,0 +1,17 @@
+TOP SECRETHCOMINTIIREL USA, AUS, CAN. GBR, NZLH20320108
+
+XKEYSCORE
+
+ 
+
+(U) Inputs
+° (S/lSI/IREL) Sessionized collect in SOTF format.
+(U) Processing
+
+° (Sl/SI/IREL) Recovers and archives session content. Databases metadata for
+query by analysts. XKEYSCORE can also perform keyword scanning and optionally
+forward selected data back to PINWALE. Presence tips can also be sent to
+TRAFFICTHIEF.
+
+TOP RFCPFTIICOMINTIIPFI [IRA AIIR CAN GRP N7|II9OR901OR 38
+

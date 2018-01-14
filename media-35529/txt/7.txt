@@ -1,0 +1,85 @@
+   
+
+(U) lPsec Operation (Alicewb Bob)
+
+ 
+
+      
+
+\
+Unencrypted Handshake
+
+ 
+
+ISAKMP/IKE Phasel
+
+ISAKMP/IKE PhaseZ
+-
+
+Security
+Association
+Database
+
+ 
+
+ 
+
+ 
+
+ISAKMP/IKE Phasel ]<
+
+    
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+     
+  
+    
+
+    
+ 
+
+Secu rity
+Association
+Database
+
+   
+ 
+
+ 
+
+Alice @
+\IP Source
+
+ 
+
+ 
+
+(U) An SA is identified by a 4-tuple <SrclP, DstIP, SPI, SecurityProtocol>, where
+the SPI (Securit Parameter Index) is chosen by DstIP for SA uniqueness.
+
+(U) The Bi-directional ISAKMP SA is negotiated in Phasel and protects the ESP
+key negotiations in Phase2.
+
+ 
+
+(U) A Uni-directional ESP SA is negotiated in Phase2 and is used to protect the
+user's cleartext.
+
+(U) Reverse communication (Bob ED Alice) requires a separate ESP SA and is
+negotiated using the same ISAKMP SA as used for (Alice E) Bob).
+
+TOP RFCPFTIICOMINTHPFI [IRA AIIR CAN GRP N7|H9OR901OR
+
+TOP SECRETHCOMINTIIREL USA, AUS, CAN. GBR, NZLH20320108
+
+) VPN Spin 9 Fielded Capability Upgrade
+

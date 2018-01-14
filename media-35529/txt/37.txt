@@ -1,0 +1,40 @@
+TOP SECRETIICOMINT/IREL USA, AUS, CAN. GBR, NZLII20320108
+
+TURMOIL VPN Decrypt Processing
+
+ 
+
+- (U) Raw packets
+- (U) Selection results from KEYCARD
+
+(U) Processing
+
+0 (S/lSI/IREL) Detect ESP packets and extract IP addresses and SPI
+
+° (S/lSI/IREL) Match tasked IKE exchange packets with an ESP packet stream
+
+0 (S/lSI/IREL) Generate UUID and assign to VPNID for unique exchange ID
+
+° (SI/SI/IREL) Send Crypto-variable Request to the CES VAO
+
+- (TS/lSI/IREL) If the key is returned, decrypt the ESP packets
+
+- (TS/lSI/IREL) Send decrypt metrics to the CES VPN Metrics service
+
+- (TS/lSI/IREL) Recurse all decrypted packets from the VPN.
+
+- (TS/lSI/IREL) Sessionize all decrypted packets, pass sessions to XKEYSCORE
+
+X (TSI/Sl/IREL) Forward all decrypted packets to a WC2.0 for application processing.
+
+(U) Outputs
+
+X (TSI/Sl/IREL) Decrypted packets to a WC2.0
+
+° (TS/lSI/IREL) Decrypt metrics to VAC
+
+0 (TS/lSI/IREL) Sessionized decrypted packets to XKEYSCORE
+° (S/lSI/IREL) Selected application SOTF
+
+TOP RFCPFTIICDMINTIIPFI [IRA AIIR CAN GRP N7|II9OR901OR 37
+

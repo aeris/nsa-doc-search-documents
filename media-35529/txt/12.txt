@@ -1,0 +1,25 @@
+TOP SECRETIICOMINTI/REL USA, AUS, CAN, GBR, NZLII20320108
+
+VPN Spin 9 Fielded Capability Upgrade
+
+  
+
+(UIIFOUO) Selection Mechanisms
+' (Sl/SI/IREL) Protocol Selection - Identify VPN traffic in IP traffic
+' IKE: version=4, OXOSShdI‘LenSOXff, nxtProtocoI=17, srcPort=500, dstPort=500
+' ESP: version=4, heren=5, nxtProtocol=50
+' (Sl/SI/IREL) Session Selection - Identify session packets in VPN traffic
+' IKE: srcIP, dstIP, srcPort, desPort, nxtProtocoI (5-tuple)
+' ESP: srcIP, dstIP, SPI
+' (TS/ISIIIREL) Target Selection — Identify, select, and task target in VPN sessions
+' KEYCARD performs target selection lookup with IP selectors
+' KEYCARD lookup result determines tasking disposition:
+' Not TRANSFORM (no action)
+' TRANSFORM (decrypt)
+' TRANSFORM+SURVEY (decrypt and send to XKEYSCORE)
+- TRANSFORM+FORWARMdnormrmd send to WC2.0)
+
+- TRANSFORM+SURVEY+FORWARD (decrypt and send to XKEYK wc2.0)
+
+TOP RFCPFTHCOMINTHPFI [IRA AIIQ CAN GRP N7|II9OR901OR 12
+

@@ -1,0 +1,25 @@
+TOP SECRETIICOMINTI/REL USA, AUS, CAN, GBR, NZLII20320108
+
+VPN Spin 9 Fielded Capability Upgrade
+
+ 
+
+(SIISIIIREL) TU VPN Products
+
+X (TS/ISI/lREL) Bundled decrypt are the decrypted packets from an ESP Security
+Association prior to any session or application processing.
+
+(TS/ISIIIREL) Sessionized decrypted packets are the decrypted packets that
+have been recursively processed by the TURMOIL Stage 1 sessionizer for
+SIG DEV.
+
+(SIISIIIREL) Selected application sessions are the recursed TURMOIL
+sessions that have been selected by KEYCARD strong selection and
+subsequently processed by TURMOIL Stage 2 application processing.
+
+(SIISIIIREL) IPsec metadata are derived from IKE events for VPN SIGDEV.
+
+(SIISIIIREL) VPN metrics are produced by CES CA components for internal use.
+
+TOP RFCPFTIICOMINTHPFI [IRA AIIS CAN GRP N7|H9OR901OR 9
+

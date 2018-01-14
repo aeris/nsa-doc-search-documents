@@ -1,0 +1,20 @@
+TOP SECRETIICOMINTHREL USA, AUS, CAN, GBR, NZLII20320108
+
+VPN Spin 9 Fielded Capability Upgrade
+
+ 
+
+(UIIFOUO) Exploited Protocols (continued)
+
+(TS/ISIIIREL) IPsec security protocols provide integrity, confidentiality, and
+authentication for higher layer IP protocols. IPsec security protocols use security
+associations previously established either manually or by automatic key
+management protocols (IKE). The VPN capability targets SA’s that are established
+by IKE. The VPN capability exploits the following security protocol:
+
+' (U) ESP - Encapsulating Security Payload (RFCZ406) provides traffic
+confidentiality (via encryption) and optionally provides authentication and
+integrity protection.
+
+TOP RFCPFTIICOMINTHPFI [IRA AIIR CAN GRP N7|H9OR901OR 6
+

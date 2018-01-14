@@ -1,0 +1,203 @@
+ 
+
+   
+  
+
+VPN?
+T: Socket Connection
+
+F: SOTF
+
+VPN5
+
+T: Socket Connection
+C: IKE Records
+
+F: SOTF
+
+VPNB
+
+T: Socket Connection
+
+C: Selected Application Sessions’
+F: SOTF
+
+C: Sessionized Decrypted Packets
+
+ 
+
+VPNQ'
+T: MAILORDER
+C: Selected Application Sessons‘
+F: SOTF
+VPN8 ;
+T: MAILORDER n i ”—529. .
+C' IKE Records . Selected Application Sessmns
+F'- SOTF I are identified and selected from
+' ' the decrypted packets extracted
+: from the VPN tunnel and inserted
+into the TURMOIL input stream.
+
+ 
+
+_VPN10
+T: ITx (JMS)
+C: IKE Records
+
+ 
+
+ 
+
+ 
+
+:_ _ VPN11
+
+‘T: ITx (.JMS}
+C: Selected Appl Sessions*
+F: XML/SOTF
+
+ 
+
+TOP SECRETHCOMINTH20320108
+
+VPN SPIN 9 Dataflows
+
+PIQ
+Blade
+
+ 
+  
+ 
+
+ 
+
+‘-
+
+ 
+
+ 
+
+VPN1
+T: Socket Connection
+
+C: Selector Hit Query/Response
+F: Binary
+
+VPN2
+
+Internet Key Exchange (IKE)——>
+Encapsulating Security Payload (ESP)—>
+
+ 
+
+ 
+
+ 
+
+Interface Key
+T = Transport
+
+C = Content
+
+F = Format
+
+ 
+
+ 
+
+-T: Secure Socket (SSLJ—
+
+C: VPN Metrics
+F: SOAP
+
+VPN18
+
+T: Secure Socket (SSL)
+C: PIQ Blade Monitoring
+
+F: WebSA
+VPN3.
+.b , .
+
+T: Secur:8ockeﬁSSL)
+
+C: ESP Key Requet/Response
+
+F: SOAP
+
+.VPN4
+
+T: Secure Socket (SSL)
+
+C: IKE Messages
+F: SOAP
+
+VPN12
+
+T: ITx (JMS)
+
+C: IKE Records
+F: SOTF
+
+TOP SECRETHCOMINTH20320108
+
+VPN Artemis: v
+
+ 
+
+ 
+
+Dataflow Key
+
+- - . -Selector Lookup
+— - VPN Metrics
+
+- — PIQ Blade Monitoring
+— - - - ESP Key Request/Response
+- — IKE Messages
+- -- - - - Selected Application Sessions
+— — IKE Records
+Sessionized Decrypted Packets
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+{at};
+— p \::_;-I"
+MP Metrl )1,
+>
+g
+3 — t=u —> CESWatch
+3I LT.
+X s
+g - ->
+VAO
+- #
+TQ‘YGRIPEj
+VPN13
+T: MAILORDER
+C: IKE Records
+F: TGIF
+25
+

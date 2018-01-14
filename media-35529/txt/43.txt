@@ -1,0 +1,21 @@
+TOP SECRETHCOMINTIIREL USA, AUS, CAN. GBR, NZLH20320108
+
+VPN Analytic
+
+ 
+
+(U) Inputs
+
+- (Sl/SI/IREL) Persistent query to detect VPN metadataflKE packets in
+PRESSUREWAVE
+- (SI/SIIIREL) SOTF files containing IKE packets
+
+(U) Processing
+° (U/lFOUO) Convert SOTF to TGIF records
+(U) Outputs
+
+° (SI/SIIIREL) MAILORDER files with TGIF records containing intercepted IKE
+packets
+
+TOP RFCPFTIICOMINTIIPFI [IRA AIIR CAN GRP N7|II9OR901OR 43
+

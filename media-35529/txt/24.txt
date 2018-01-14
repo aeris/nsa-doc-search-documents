@@ -1,0 +1,86 @@
+TOP SECRET/lCOMINTI/REL USA, AUS, CAN. GBR, NZL/l20320108
+
+ 
+
+ 
+
+ 
+
+ 
+
+({ ( W 0
+Metadata Flow
+
+Decryption Flow
+
+ 
+
+Decryption Subﬂow: iKE & ESP Sessions to TDS
+
+-|H|H\|WH u!\MH||H||_€
+
+Decryption Subfiow: PiQ Blade processing
+{ Q ML |&T chL + APP)
+
+{ ............. l etadata Flow (APP) ~ 21 Sep
+-HWh WNW-t IN) MI H O
+
+ijjjjjjfjjﬂ é/
+
+TU I&T
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Decryption Subﬂow: process and recurse decrypted packets
+{ Legeﬂ'cML |&T(TM + APP
+{ ‘K Wm“ ”WM“ VPN Analytic ( m
+' .::\ ihm
+{ Decrypt (APP) ~ 19 Oct TML ET 0
+( VAO (Cﬁﬁﬁé?) PPF App (APP) & Sessionize nr IKHI-HP (I IV" ,1
+
+ 
+
+ 
+
+VPN Metrics (CES)
+TDS (TML)
+iBridge (TML) TMI IR.T rrMI + APP)
+
+24
+
+TOP RFCPFTIICOMINTHPFI [IRA AIIR CAN GRP N7|H9OR901OR
+

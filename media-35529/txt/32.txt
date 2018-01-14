@@ -1,0 +1,152 @@
+ 
+
+vpnID
+
+protocolNamespace
+
+keyExchange
+
+espspi
+
+nextProtocoI
+
+applD
+
+ikeCookie
+
+ikePayload
+
+survey
+
+protocol
+
+TOP RFCPFTIICOMINTHPFI [ISA AIIQ CAN GRP
+
+ID
+
+900791
+
+900667
+
+600533
+
+55002
+
+37007
+
+114000
+
+900683
+
+900682
+
+900790
+
+2001
+
+Type
+string
+string
+string
+uint32
+uint8
+string
+string
+
+string
+
+string
+
+String
+
+Value
+
+XXXXXXXX—XXXX-
+XXXX-XXXX-
+XXXXXXXXXXXX
+
+‘ipseciike’
+
+‘IKE'
+
+XXXXXXXX
+
+IPTUNNEL=4
+
+‘vpnlesp’
+
+8 chars
+
+68 chars
+
+‘vpnlesp’
+
+‘vpnlesp’
+
+N7| ”90.390108
+
+TOP SECRETIICOMINTHREL USA, AUS, CAN, GBR, NZLII20320108
+
+VPN Specific BME
+
+Context
+
+- Recursed packets
+
+- XKEYSCORE session
+
+- WC2.0 decrypt
+
+- PWV Metadata
+
+- PWV Metadata
+
+- XKEYSCORE session
+
+- WCZ.0 decrypt
+
+- XKEYSCORE session
+
+- WCZ.0 decrypt
+
+- XKEYSCORE session
+
+- WC2.0 decrypt
+
+- PWV Metadata
+
+- PWV Metadata
+
+- XKEYSCORE session
+
+- Recursed packets
+
+- XKEYSCORE session
+
+- WCZ.0 decrypt
+
+Description
+
+16-byte Universally Unique ID that associates
+lPsec packets in processing history
+
+Identify lPsec as transport protocol layer
+
+Flags lPsec IKE event
+
+4—byte SPI from ESP packet
+
+Identifies IP Tunnel in processing history
+Identifies VPNIESP in XKEYSCORE Session
+Destination cookie from IKE packet
+
+Raw payload extracted from IKE packet
+
+Identifies VPNIESP in protocol history as weakly
+selected indicating session should not be
+forwarded to PRESSUREWAVE.
+
+Identifies VPN in processing history
+
+32
+

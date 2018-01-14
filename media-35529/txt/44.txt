@@ -1,0 +1,22 @@
+TOP SECRETIICOMINT/IREL USA, AUS, CAN. GBR, NZLII20320108
+
+TOYGRIPPE
+
+ 
+
+(U) Inputs
+° (U/IFOUO) TGIF (“The Grand Input Format”) records based on TML collected
+metadata.
+
+(U) Processing
+
+° (U/lFOUO) TOYGRIPPE 3.2 system accepts TGIF files sent by MAILORDER as
+bundled “tar" files.
+
+° (TS/ISIIIREL) TOYGRIPPE unbundles, validates, and stores the VPN metadata
+from the TGIF files into a database for later access by Analysts primarily through a
+web browser interface. TOYGRIPPE supports data processing and storage for
+PPTP and IPSec VPN metadata records.
+
+TOP RFCPFTIICOMINTIIPFI [IRA AIIR CAN GRP N7|II9OR901OR 44
+

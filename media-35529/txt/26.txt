@@ -1,0 +1,82 @@
+VPN SPIN 9 Metadata Dataflows
+
+Internet Key Exchange (IKE)—)
+
+ 
+
+VPN5
+
+T. Socket Connection—
+C: IKE Records
+
+F: SOTF
+
+VPNB
+
+T: MAILORDER
+C: IKE Records
+F: SOTF
+
+I-
+
+VPN1D
+
+T: |Tx(JMS)
+C: IKE Records
+F: XMUSOTF
+
+ 
+
+ 
+
+TOP SECRETHCOMINTH20320108
+
+VPN12
+
+T: IT): (JMS)
+
+C: IKE Records
+F: SOTF
+
+TOP SECRETHCOMINTH20320108
+
+ 
+
+ 
+
+Interface Key
+T = Transport
+
+0 = Content
+
+F = Format
+
+ 
+
+ 
+
+ 
+
+4:?VPN.Arraly1ie .
+
+ 
+
+Dataflow Key
+
+— — IKE Records
+
+ 
+
+ 
+
+VPN13
+T: MAILORDER
+C: IKE Records
+F: TGIF
+
+ 
+
+26
+
+ 
+

@@ -1,0 +1,22 @@
+TOP SECRETIICOMINTIIREL USA, AUS, CAN. GBR, NZLII20320108
+
+TU RMOIL VPN Metadata Processing
+
+ 
+
+(U) Inputs
+- (U) Raw packets
+(U) Processing
+
+- (Sl/SI/IREL) Detect IKE exchanges at UDP source and destination ports 500
+
+- (Sl/SI/IREL) Extract IP addresses, responder cookie, message ID, ISAKMP
+payload
+
+- (Sl/SI/IREL) Bundle all IKE detect messages with SRI
+
+(U) Outputs
+- (Sl/SI/IREL) SOTF object containing metadata and IKE packets
+
+TOP RFCPFTIICOMINTHPFI [IRA AIIR CAN GRP N7|II9OR901OR 36
+

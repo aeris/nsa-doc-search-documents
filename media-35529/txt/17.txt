@@ -1,0 +1,26 @@
+TOP SECRETIICOMINTHREL USA, AUS, CAN, GBR, NZLII20320108
+
+VPN Spin 9 Fielded Capability Upgrade
+
+ 
+
+(U) What Spin 9 VPN will do
+' (Sl/SI/IREL) Packet Detection
+' Detect IKE exchanges
+' Detect ESP packets
+' (Sl/SI/IREL) IPsec Metadata Flow
+
+' Bundle all detected IKE with SRI and send to PWV
+
+ 
+
+ 
+
+ 
+
+Reference: VPN Spin 9 Sequence Diagram
+
+ 
+
+TOP RFCPFTIICOMINTIIPFI [IRA AIIR CAN GRP N7|II9OR901OR 17
+

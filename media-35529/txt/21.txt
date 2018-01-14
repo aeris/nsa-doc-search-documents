@@ -1,0 +1,26 @@
+TOP SECRETIICOMINTI’IREL USA, AUS, CAN, GBR, NZLII20320108
+
+VPN Spin 9 Fielded Capability Upgrade
+
+ 
+
+(U) Test Scenarios
+
+'(S/ISI/IREL) “Sunny Day" Scenarios. Single VPN with all IKE/ESP packets
+available and VPN Match. Exercise KEYCARD tasking option combinations.
+
+' (TSI/SI/IREL) Transform — Decrypt to PRESSUREWAVE; IKE to TOYGRIPPE
+
+' (TSI/SI/IREL) Transform & Survey — Decrypt to PRESSUREWAVE &
+XKEYSCORE; IKE to TOYGRIPPE
+
+' (TSI/SI/IREL) Transform & Forward — Decrypt to PRESSUREWAVE &
+XWEALTHYCLUSTER 2.0; IKE to TOYGRIPPE
+
+' (TS/ISI/IREL) Transform & Survey & FonNard - Decrypt to PRESSUREWAVE,
+XKEYSCORE, KWEALTHYCLUSTER 2.0; IKE to TOYGRIPPE
+
+' (SI/SII/REL) Not Transform — IKE to TOYGRIPPE
+
+TOP RFCPFTHCOMINTIIPFI [IRA AIIR CAN GRP N7|II9OR901OR 21
+

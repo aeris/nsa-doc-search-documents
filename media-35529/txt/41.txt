@@ -1,0 +1,21 @@
+TOP SECRETHCOMINTIIREL USA, AUS, CAN. GBR, NZLH20320108
+
+EXOPUMP
+
+ 
+
+(U) Inputs
+
+. (U) SOTF object from TUBE via MAILORDER.
+
+(U) Processing
+
+° (U) Extracts metadata from SOTF records for PWV XML metadata.
+° (U) Inserts SOTF objects and XML metadata into PWV.
+
+(U) Outputs
+
+- (U) PRESSUREWAVE metadata object.
+
+TOP RFCPFTIICOMINTIIPFI [IRA AIIR CAN GRP N7|II9OR901OR 41
+
