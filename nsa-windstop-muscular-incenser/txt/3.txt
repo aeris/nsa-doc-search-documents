@@ -1,0 +1,22 @@
+Speaker’s Notes
+
+From Feb 28 2013: Proposed/imminent latest DO/Volume reduction: Narchive
+
+BLUF: Requested 52 concurrence at 52 TLC on 25 Feb with partial throttling of content from Yahoo, Narchive email traffic which
+contains data older than 6 months from MUSCULAR. Numerous 52 analysts have complained of its existence, and the relatively
+small intelligence value it contains does not justify the sheer volume of collection at MUSCULAR (1/4th of the total daily collect).
+
+Background: Since July of 2012, Yahoo has been transferring entire email accounts using the Narchive data format (a proprietary
+format for which NSA had to develop custom demultiplexers). To date, we are unsure why these accounts are being transferred —
+movement of individuals, backup of data from overseas servers to US servers, or some other reason. There is no way currently to
+predict if an account will be transferred via Yahoo Narchive.
+
+Currently, Narchive traffic is collected and forwarded to NSA for memorialization in any quantity only from DS-2003. On any given
+day, Narchive traffic represents 25% (1563) of DS-2003’s daily PINWALE content allocation (GOGB currently). DS-2003 is scheduled
+to be upgraded in the summer of 2013; it is likely that memorialized Narchive traffic, if still present in the environment, will grow
+proportionally (i.e. double now, to 30 GB/day).
+
+Narchive traffic is mailbox formatted email, meaning unlike Yahoo webmail, any attachments present would be collected as part of
+the message. This is a distinct advantage. However, it has not been determined what causes an Narchive transfer of an account, so
+these messages are rarely collected ”live”.
+
