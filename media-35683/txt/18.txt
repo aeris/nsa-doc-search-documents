@@ -1,0 +1,37 @@
+Overall Classification: TOP SECRET ll COMINT ll REL T0 CAN, AUS, GBR, NZL, USA
+
+ 
+  
+
+I * Communications Security Centre de la sécurité
+Establishment Canada des telecommunications Canada
+
+Attribution: Binary Artifacts ‘
+
+ 
+
+ 
+
+ 
+
+' ntrass.exe
+
+— DLL Loader uploaded to a victim as
+part of tasking seen in collection
+
+— Internal Name: Babar
+— Developer username: titi
+
+- Babar is a popular French
+children's television show
+
+- Titi is a French diminutive for
+Thiery, or a colloquial term for a
+small person
+
+ 
+
+Safeguarding Canada’s security through information superiority C adlé:
+
+Préserver iaIs‘écurité du Canada iar ia supériorité de i’information _
+

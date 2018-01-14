@@ -1,0 +1,36 @@
+Overall Classification: TOP SECRET ll COMINT H REL T0 CAN, AUS, GBR, NZL, USA
+
+I * I Communications Security Centre de la sécurité
+Establishment Canada des telecommunications Canada
+
+lnfrastructu re
+
+ 
+  
+
+ 
+
+ 
+
+- Most infrastructure hosted in FVEY nations
+° US, Canada, UK, Czech Republic, Poland, Norway
+
+I - Two types of infrastructure:
+— Parasitic
+
+- outbase.php or registerphp LP nested in a directory under root
+domain
+
+- Unsure if this infrastructure is acquired via exploitation, some sort
+of special-source access, or some combination of the two
+
+- This type seems to be found primarily, but not exclusively, on
+French-language sites
+
+— Free hosting
+- outbase.php or registerphp LP directly under root
+
+Safeguarding Canada’s security through information superiority Can dl‘“
+
+Préserver iafécurité du Canada iar ia supériorité de l’information a a _
+

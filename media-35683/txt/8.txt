@@ -1,0 +1,61 @@
+Overall Classification: TOP SECRET ll COMINT H REL T0 CAN, AUS, GBR, NZL, USA
+
+I * Communications Security Centre de la sécurité
+
+Establishment Canada des telecommunications Canada
+
+ 
+
+ 
+
+ 
+
+SNOWBALL Beacons
+
+Content
+crc= 4910‘s2ei‘46f24526085T0?E~1f6fbe02
+4293
+flag
+
+oKmP2amaoYHd|?GE99n2rY ojmpn9|b6346de°io2Fiw44
+orlKHkngjupDerEvaS‘i‘fﬂ FH?oWH3bfAvaC1raLupS
+M°fa2EqueuP°.-"o2E-'I.I'4eDl<°.-"o2 F4S°fo2Fi?rnYzLuQr4fEEEZO
+chYrJiu2IzE><DEuwobbjou 2°fo209thNHAv5a1gd°i92Ep
+pch94N°i02Fivuth°H02FrM| YSCsovOiECmqu00YP-iz?
+oKNlobAgZoQIKoFoILToN ngdW°ia2FxYGEupr2jo
+°is20009Ctg0jGoseeh9°fs 20Y4soansvziKan°fs2FD
+b3c6Y|ber5DCs4aonvn °io2EuL6ndeufoKlo2NoN
+uC?rjnutmvaWihYzE~1°i"-o 2FDYgD°ia2FYhICZ°Jo2F°io
+202850Get4W°ia2Euwb3N B4Scw4L4hraE2LmM°ia2F
+MiASDneSquENru0on3v TRivSC-ﬁlDTSIEueQEBHMoI
+gJDQIdEf?MTotUHE-hLIPE99 iKQIfXEoL?qu4|dngJWN
+ercjoquoTKQEquvavm 4rn91mD22j4vovR|o°io2Eulh
+dKQiEqs4?q°fa2FnND3wY ?r3PLIl<Oe'I.I'
+
+ 
+
+ 
+
+Meaningfdecrvpt
+a 32-bvte checksum
+beacon size in bvtes
+Description field. 'v'alues can be: ﬂagJ segmentJ len
+
+Loginx’Domain {owner}: SYSTEMKAUTDRITE NT {user}
+Computer name: EXPORT Organization (country):
+(France) 03 version ﬁSP}: 5.1(Service Pack 3} Default
+browser: iexplore.e><e IE version: Mozillax’4.0
+(compatible; MSIE 6.0; Win32} Timeout:
+3600(minjl4000ﬁmax) First launch: 0?“:30‘t2009 12:29:3T
+Last launch : 1132032009 10:32:42 Mode: Service |
+Rights: admin | LIFlC: W0 ID: 00104
+
+User-Agent: Mozilla/4.0 (compatible; MSI 6.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322)
+
+Safeguarding Canada’s security through information superiority
+Préserver la sécurité du Canada aria supériorité de l’information
+
+Canadﬁ
+
+—TOW
+
