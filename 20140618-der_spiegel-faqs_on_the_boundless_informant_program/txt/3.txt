@@ -1,0 +1,60 @@
+BUUND
+
+UNCLASSIFIEDNFUR UFFIC [AL U SE UNLY
+T— i
+
+09—06—2012
+
+3] What is the technical architecture for the tool?I
+
+Click- for a graphical view of the tool‘s architecture
+
+{UHFDUD} DNl metadata {ASDF}, DNR metadata {FASCIA} delivered to Hadoop
+Distributed File System {HDFS} on {It'd-PLACE
+
+{UHFDUD} Use Java MapRed uce job to transform-r filter and en rich FASCLAJAS DF data with
+business logic to assign organization mles to data
+
+{UHFDUD} Bulk import of DNHDNR data {serialized Doogle Protobuf objecE} into
+[Iloudbase {enabled by custom aggregators}
+
+{UHFDUD} Use Java web app {hosted via Tomcat} on MachineS hop {formerly Turkeyﬂ'ower}
+to query Cloudbase
+
+{UHFDUD} CUl triggers queries to CloudBase — EXT {EtxtCWT}
+
+9] What are some upcoming 'featuresr’enhancementsi‘I
+
+{UHF DU D} Add technology type {e_g_ J UCC ER NAUT, LDP ER} to provide additional
+granularity in the numbers
+
+{UHF-DU-D} Add additional detail-s to the Differential view
+
+{UHFDUD} Reﬁne the Site Specific view
+
+{UHF DU D} lnclude CASN information
+
+{UHFDUD} Add ability to export data behind any view {pddg,:sigad,sysid.,ca:sn,tech,count}
+{UHF DU D} Add in selected {vs_ unselected} data indicators
+
+{UHFDUD} lnclude filter for sustained versus survey collection
+
+10] How are new features or views re quested and 'p rioritize d?
+{UHF DU D} The team uses_ to accept user req uesE for additional functionality or
+enhancements. Users are also allowed to vote on which functionality or enhancements are most
+important to them {as well as add comments}. The BDUNDLESSINFDRMANT team will periodically
+review all requests and triage according to level of effort {Easy, Medium, Hard} and mission impact
+{High, Medium, Low}. The team will review the queue with the project champion and government
+steering committee to he added onto the BDUNDLESSJNFDRMANI roadmap.
+
+11] Why are record counts different from. other tools like ASDF and What’s [in
+
+Cover?I
+{UHF DUD} There are a number of reasons why record counts may vary. The purpose of the tool is to
+
+provide
+
+BUUNDLESSINFDRMANT _ FAQ
+
+Page --3—3
+
