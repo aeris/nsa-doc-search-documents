@@ -1,0 +1,39 @@
+The accredited security level of this system is:
+
+TOP SECRET // SI-GAMMA / TALENT KEYHOLE // ORCON/
+PROPIN / RELIDO/ REL TO USA, FVEY *
+
+TOP SECRET//SI//REL TO USA, FVEY
+
+[edit] (U) SSO Collection Optimization Overview
+
+(S//SI//REL USA, FVEY) This wiki article collects and documents the
+activities within SSO to optimize collection from SSO sites. It is a direct
+result of the activities and findings from the Large Access Exploitation
+(LAE) Working Group. Optimization activities can be categorized as:
+impacting primarily content collection, i.e., feeding repositories like
+PINWALE and PRES SUREWAVE; metadata, perhaps better termed
+"structured data," collection, i.e., primarily feeding repositories like
+MARINA or MAINWAY; or both.
+
+(TS//SI//REL USA, FVEY) An examination into the content collected by
+SSO sites in the fall of 2011 revealed that a significant portion of collection
+was repetitive, better placed into metadata repositories, or of little foreign
+intelligence value. Rapidly changing internet protocols, imprecise targeting
+methods, and constantly shifting target technology use means that selectors
+or traffic seen by tasking today may not be the same tomorrow. In addition,
+several emerging technologies in use by targets or contacts of targets have
+protocols which can cause gross over-collection and selector detasking, e.g.,
+Yahoo! Webmessenger, which cannot be prevented under UTT tasking, as
+the protocol contains the precise selector tasked.
+
+(TS//SI//REL USA, FVEY) The SSO Optimization team's job is to identify
+these types of data, and ensure appropriate corrective action is taken,
+throttling the data from corporate content or metadata repositories, as
+appropriate.
+
+(TS//SI//REL USA, FVEY) Implementation details for specific SSO sites
+can be found on the SSO Collection Optimization NOFORN wiki page.
+
+ 
+
