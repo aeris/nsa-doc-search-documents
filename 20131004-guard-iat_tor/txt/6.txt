@@ -1,0 +1,66 @@
+TOP SECRET//SI//REL TO USA,FVEY
+
+(SI/REL) Censorship Driven Protocol Obfuscation — Psiphon 3/ Tor
+
+  
+  
+
+  
+ 
+
+(S/IREL
+
+ 
+    
+
+Extreme Censorship blocking: Common encrypted protocols
+(SI/REL) In the case of Psiphon 3: SSH
+
+(
+
+(
+
+(
+
+ 
+
+S/IREL) In the case of Tor. TLS
+
+S/IREL) Make deep packet inspection (XKS 2-) ) work harder
+
+S/IREL) Both use work of a open source project (brl/obfuscated-openssh)
+
+Idea is both sides transmit random seed and verifier information
+
+(SI/REL) Verifier is hash of seed and other data
+
+- (SI/REL) If verifier passes data used from both side seeds to generate key
+
+(SI/REL) Key used in symmetric cipher to encrypt native SSH or SSL protocol
+
+- (SI/REL) So for random stream, need to de-obfuscate and test for SSH/ SSL
+
+(SI/REL) Details for Psiphon 3 .4
+- (SI/REL) Hash used for verifier, key generation: 6000 iterations SHA-1 ix
+
+)
+(SHREL;
+
+   
+ 
+  
+ 
+ 
+ 
+ 
+
+- (SI/REL) Symmetric cipher is RC-4
+(SI/REL) Details for Tor Obsfproxy
+- (SI/REL) Hash used for verifier, key generation: 100K iterations SHA-256
+- (SI/REL) Symmetric cipher is 'AES-CTR-128
+- (S//REL) Key uses seed from both sides!
+
+TOP SECJR ET."/‘C()MINT REL TO USA,FVEY . ~ . - ' .45 .. , a
+
+  
+

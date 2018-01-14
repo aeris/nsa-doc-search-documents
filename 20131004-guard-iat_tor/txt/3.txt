@@ -1,0 +1,27 @@
+TOP SECRET//SI//REL TO USA,FVEY
+
+(SI/REL) Tor Operation (2)
+
+[1, How Tor Works: 2
+
+. . . unon-cryptod llnk
+—p oncryptodlink
+
+Alice
+
+IAII
+
+Step 2: Alice's Tor client
+picks a random path to
+destination server. Green
+links are encrypted. red
+links are in the clear.
+
+ 
+
+ 
+
+TOP SEgR ET//C()MINT REL TO USA,FVEY
+
+ 
+
