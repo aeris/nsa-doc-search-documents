@@ -1,0 +1,50 @@
+TOP SECRETNCOMINT/lNOFORN/lz0320108
+
+(S) NSA Technical Analysis of the Facility
+
+(S) NSA may also apply technical analysis concerning the facility from which it intends to
+acquire foreign intelligence information to assist it in making determinations concerning the
+location of the person at whom NSA intends to direct surveillance. For example, NSA may
+examine the following types of information:
+
+(S) For telephone numbers:
+
+a) identify the country code of the telephone number, and determine what it indicates
+about the person‘s location.
+
+13) Review commercially available and NSA telephone numbering databases for
+indications of the type of telephone being used (e. g. landline, Wireless mobile,
+satellite, etc), information that may provide an understanding of the location of the
+target.
+
+(S) For electronic communications accounts/addresses/identiﬁers:
+
+Review NBA content repositories and internet communications data repositories (which
+contain, among other things, Internet communications metadata) for previous Internet
+activity. This information may contain network layer (e. g., Internet Protocol addresses)
+or machine identiﬁer (e. g, Media Access Control addresses) information, which NSA
+compares to information contained in NSA's communication network databases and
+commercially available Internet Protocol address registration information in order to
+determine the location of the target.
+
+(S) Assessment of the NonéUnited States Person Status of the Target
+
+(S) In many cases, the information that NSA examines in order to determine whether a target is
+reasonably believed to be located outside the United States may also bear upon the non-United
+States person status of that target. For example, lead information provided by an intelligence or
+law enforcement service of a foreign government may indicate not only that the target is located
+in a foreign country, but that the target is a citizen of that or another foreign country. Similarly,
+information contained in NSA databases, including repositories of information collected by NSA
+and by other intelligence agencies, may indicate that the target is a non-United States person.
+
+(S) Furthermore, in order to prevent the inadvertent targeting of a United States person, NSA
+maintains records of telephone numbers and electronic communications accounts/addresses/
+identiﬁers that NSA has reason to believe are being used by United States persons. Prior to
+targeting, a particular telephone number or electronic communi cations account/address/identiiier
+will be compared against those records in order to ascertain Whether NSA has reason to believe
+that telephone number or electronic communications aceount/address/identiﬁer is being used by
+a United States person.
+
+TOP SECRETHCOMINTI/NOEDEN/@03520108
+3
+
