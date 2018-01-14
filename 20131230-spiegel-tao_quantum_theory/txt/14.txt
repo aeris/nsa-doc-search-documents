@@ -1,0 +1,125 @@
+OLYMPUSFIRE
+
+OLYMPUSFIRE is an exploitation system that uses a software implant on a
+Microsoft Windows based target PC to gain complete access to the targeted PC. The
+target, when connected to the Internet, will contact a Listening Post (LP) located at an
+NSAIUSSS facilities, which is online 2417, and get its commands automatically.
+These commands include directory listings, retrieving files, performing netmaps, etc.
+The results of the commands are then returned to the LP, where the data is collected
+and forwarded to CBS and analysis and production elements.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I l
+I I
+I I
+l I F— (—"
+I | . l
+I I l
+I I
+I Lumnqlkul! I Ava-'nr An“t-I‘
+| | .—-. r—-‘
+I I l
+I LIIII'IIIq Paul I ' F E
+ONT‘RGEI I m : A U133) l‘ A V‘s-1.1.:-
+covEn'r -IL . - | E ..| r, A ,
+CONNECTIVITY I Cant: III-inn Sunni Lat-mg PM” '
+I I
+I I
+l ' A. I 'n I A hi1
+l | ‘ ‘ f
+I u. I l
+' ' J l
+I Lulu-1g Past 5 I
+I I A "I n I A ﬁl'l
+I I r r
+l I
+I until": Put 6 | l
+FDRESTPLICE I I
+covsn'r —:—‘-'--_I:_:Z a : I. ..-..-.n.— mm
+CONNECTIVITY I Cant: 11.!an Sunni Lﬂlnnltq Phat! '
+I I
+' "9“ “PM “KIM
+: : Cum 21mm sum:
+I I
+
+ 
+
+ 
+
+ 
+
