@@ -1,0 +1,82 @@
+ 
+
+Access (10 Jan 12)
+US-3171
+
+DS-200B
+
+US-3261
+
+US-3145
+
+US-318O
+
+US-3180 (16 Dec 11)
+TOTAL
+
+Total Sessions
+
+1488453
+938378
+94132
+177663
+269794
+289318
+3257738
+
+TOP SECRET/lSIl/NOFORN
+
+Address Books
+
+Email address books for most major webmail are collected as
+stand-alone sessions (no content present*)
+
+Address books are repetitive, large, and metadata-rich
+Data is stored multiple times (MARINA/MAINWAY, PINWALE, CLOUDs)
+Fewer and fewer address books attributable to users, targets
+
+Address books account for ~ 22% of 8805 major accesses (up
+from ~ 12% in August)
+
+Address Books
+237067 (16% of trafﬁc)
+311113 (33% of trafﬁc)
+
+2477 (3% of traffic)
+29336 (16% of trafﬁc)
+40409 (15% of trafﬁc)
+91964 (32% of trafﬁc)
+
+712366 (22% of trafﬁc)
+
+' Provider
+Yahoo 444743
+Hotmail 105068
+GmaH 33697
+Facebook 82857
+Other 22881
+TOTAL 689246
+
+TOP SECRET/lSIl/NOFORN
+
+Collected Attributed
+
+11009
+1115
+2350
+
+79437
+1175
+
+95086
+
+Attributed%
+248%
+
+106%
+
+697%
+95.87%
+5.1496
+1380%
+
