@@ -1,0 +1,49 @@
+UNCLASSIFIED//FOR OFFICIAL USE ONLY/SENSITIVE SECURITY INFORMATION
+
+Addendum B to the TSC MOU“ requires that any recipient of information from the TSDB
+seeking to use TERRORIST identity information in any legal or administrative process or
+proceeding obtain NOMINATOR approval before doing so. Approval from the entity which
+provided the information, if other than the NOMINATOR, is also required. Additionally,
+information from Foreign Intelligence Surveillance Act (FISA) collections may only be used
+in a proceeding with the advance authorization of the Attorney General. Therefore, any
+SCREENER seeking to use TSDB information in any process or proceeding must contact TSC
+so that TSC can assist in obtaining approval from the NOMINATOR, owner of the information,
+or Attorney General, as required.
+
+1.23 In addition to the foregoing restrictions, there are restrictions on sharing information with
+foreign governments. Any TERRORIST IDENTIFIER (as described in Addendum B to the TSC
+MOU) will be deemed U//FOUO and shared with the watchlisting community and foreign
+governments for watchlisting purposes pursuant to the terms of the TSC MOU. Accordingly,
+NOMINA'I‘ORS should include, as appropriate, 'l‘liRRORIST IDENTII’IERS in documents that contain
+non-releasable warnings (e. g., a report is not releasable to xxx/yyy/zzz countries), unless the
+TERRORIST IDENTIFIERS are restricted by some other authority that limits dissemination. 1f U.S.
+PERSON information is otherwise authorized for release to the foreign government, the non-
+releasable warning is disabled to allow dissemination of the information.
+
+V. WATCHLISTING STANDARD: IDENTIFYING AND SUBSTANTIVE
+DEROGATORY CRITERIA
+
+1.24 Before a KNOWN or SUSPECTED 'I‘ERRORIS’I‘ is added to the Terrorist Watchlist, TSC reviews
+the nomination to determine whether it meets the following minimum identifying criteria and
+minimum substantive derogatory criteria for inclusion in the TSDB.
+
+1.24.1 Minimum Identifying Criteria. Each nomination must contain minimum
+identifying criteria for inclusion into the TSDB. Without this minimum identifying data,
+the nomination is not eligible for inclusion into the TSDB, or any of the TSC’s
+supported systems. Chapter 2 sets forth guidance regarding both the minimum
+identifying biometric and biographic criteria for inclusion into the TSDB. Although
+TIDE accepts records containing less than these minimum criteria, such records will not
+be exported either to the TSDB for watchlisting or to the various supported systems used
+by the SCREENERS absent an exception described in the Watchlisting Guidance.
+
+1.24.2 Minimum Substantive Derogatory Criteria. In addition to the minimum
+identifying criteria, nominations to the TSDB are accepted based on a REASONABLE
+SUSPICION that the individual is a KNOWN or SUSPECI‘ED TERRORIST derived from the
+
+ 
+
+'7 See Appendix 4, Addendum B to the TSC MOU.
+UNCLASSIFIED//FOR OFFICIAL USE ONLY/SENSITIVE SECURITY INFORMATION
+
+Page l 12
+

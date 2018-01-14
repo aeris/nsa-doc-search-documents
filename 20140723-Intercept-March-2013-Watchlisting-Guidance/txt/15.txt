@@ -1,0 +1,61 @@
+UNCLASSIFIED//FOR OFFICIAL USE ONLY/SENSITIVE SECURITY INFORMATION
+
+1.28
+
+l .29
+
+1.30
+
+1.31
+
+NCTC may discover an individual who is eligible for watchlisting while reviewing all-source
+information. In these cases, NCTC analysts will request that the ORIGINATOR submit a
+nomination for inclusion into 'I‘IDE; or, on a limited basis or during exigent circumstances,
+NCTC analysts may update TIDE directly with a disseminated report and notice to the
+ORIGINATOR(S). In instances where disseminated reporting is used to enhance TIDE, NCTC
+will provide notice back to the collecting agency via TIDE. TSC may also nominate
+TERRORISM INFORMATION received pursuant to TERRORISM screening conducted by foreign
+governments.
+
+NCTC and 'I‘SC are responsible for reviewing both newly nominated individuals, as well as
+subsets of existing records, to determine if additional and/or enhancement (research) is
+required to locate missing information critical to the watchlisting process. In some cases, this
+will require research to locate additional DEROGATORY INFORMATION to meet the minimum
+substantive derogatory criteria for watchlisting. In other cases, this will require research to
+locate additional biographic or biometric identiﬁers, in order to provide a comprehensive
+record maximizing the probability of conﬁrming a POSITIVE MATCH to an identity contained in
+the TSDB.
+
+AGGREGATORS are those who receive and hold TERRORISM INFORMATION and certain other
+non-TERRORISM INFORMATION they are authorized to receive and retain. For example, two of
+NCTC’s main statutory missions are to serve as the (1) central and shared knowledge bank on
+KNOWN or SUSPECTED TERRORISTS and (2) primary organization in the US. Government for
+analyzing and integrating all intelligence information possessed or acquired by the US.
+Government pertaining to TERRORISM and counterterrorism. '9
+
+TSC takes on the role of an AGGREGA’I‘OR when a KNOWN or SUSPECTEI) 'I‘IiRRORIST is
+encountered and the individual’s record is enhanced or updated with ENCOUNTER-related
+information. As noted in Paragraphs 1.] and 1.7, the TSC manages the watchlisting process
+and plays a key role in helping Departments and Agencies determine whether an ENCOUNTER
+with a member of the public is one with a KNOWN or SUSPECTED TERRORIST. Additional
+TERRORISM INFORMATION or TERRORIST IDENTIFIERS are generated during ENCOUNTERS and the
+Encounter Management Application (EMA)20 uses that information to update records of
+KNOWN or SUSPECTED TERRORISTS.
+
+SCREENERS vet against the TSDB to determine if an individual is a possible match to a KNOWN
+or SUSPECTED TERRORIST in the TSDB. SCREENERS can include federal, state, local, tribal,
+territorial, or foreign governments and certain private entities. Screening ofﬁcials include
+homeland security officers, consular affairs ofﬁcers, transportation safety personnel, and
+ofﬁcials of foreign governments with whom the United States has entered into a TERRORISM
+SCREENING lNl-‘ORMATION sharing agreement pursuant to HSPD—6. Certain Departments and
+Agencies have components which perform both screening and law enforcement duties. If a
+
+ 
+
+'9 See 50 U.S.C. §404o.
+2° EMA is an application used by the TSC to administer ENCOUNTER information.
+
+UNCLASSIFIEI)//FOR OFFICIAL USE ONLY/SENSITIVE SECURITY INFORMATION
+
+Page | 14
+

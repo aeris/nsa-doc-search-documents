@@ -1,0 +1,51 @@
+UNCLASSIFIElI//FOR OFFICIAL USE ONLY/SENSITIVE SECURITY INFORMATION
+
+TERRORISM INFORMATION on the ENCOUNTER Information List gathered during the
+ENCOUNTER. Provision of any material collected by the foreign partner depends on the
+arrangement with, and legal authorities of, the particular foreign partner involved. Therefore,
+gathering and sharing this TERRORISM INFORMATION will be done on a case—by-case, country—
+by—country basis.
+
+5.8 Federal Bureau of Investigation/Law Enforcement ENCOUNTERS. These ENCOUNTERS can
+be subdivided into three categories:
+
+5.8.l Name-Based Queries. Name-based transaction queries by law enforcement personnel
+(e.g., trafﬁc stops) made to the FBI’s National Crime Information Center at the Criminal
+Justice Information Services (CJIS) Division that match a name in the KSTF (a sub-ﬁle
+of NCIC) are deemed to be POTENTIAL MATCHES. They are routed electronically to TSC
+for conﬁrmation and subsequent processing as an ENCOUNTER.
+
+5.8.2 Fingerprint-Based Queries. Fingerprint-based queries submitted for criminal
+identiﬁcation purposes (e. g., an arrest/booking) or for civil identiﬁcation purposes (e. g.,
+an employment background check) are made to the Integrated Automatic Fingerprint
+Identiﬁcation System (IAFIS). For POSI'I'IVE MATCHES to records ﬂagged as KNOWN or
+SUSPECTED TERRORIS’I‘ records, the CJIS Division’s Special Identities Unit notiﬁes the
+TSC and the FBI case agent (or the Agency that identiﬁed the subject as a possible
+TERRORIST). In similar fashion, CJIS Division’s Global Initiatives Unit coordinates
+positive ﬁngerprint hits from its foreign submissions with the Legal Attaché. It should
+be noted that lAFIS and NCIC are separate systems that are not fully synchronized at the
+present time.
+
+5.8.3 National Instant Criminal Background Check System. All background checks
+resulting from attempts to buy ﬁrearms or to obtain explosive permits submitted to the
+National Instant Criminal Background Check System (NlCS) at C] IS are run against the
+KS'I‘I". 'l‘he TSC is immediately notiﬁed of all KSTF “hits.” NICS consults with TSC
+to conﬁrm the POSITIVE MATCHES and the FBI case agent to determine whether there is
+available information about the prospective purchaser to disqualify him or her from
+possessing a ﬁrearm or explosive as a matter of law. Regardless of whether the
+purchase is denied or permitted to proceed, all available information is obtained and
+provided to the TSC and, in turn, CTD, as TERRORISM INFORMATION and processed as an
+ENCOUNTER.
+
+5.9 Department of Defense ENCOUNTERS. The Department of Defense (DOD) has force
+protection, operational capture/apprehend, and intelligence responsibilities and on occasion
+encounters KNOWN or SUSPECTED TERRORISTS. To the extent DOD knowingly encounters a
+KNOWN or SUSPECTED TERRORIST, 000 will report the ENCOUNTER in intelligence channels or
+to the FBI in cases described in the MOU between the FBI and DoD Governing Information
+Sharing, Operational Coordination and Investigative Responsibilities signed August 2, 20l l
+where the FBI is the lead. In cases where the FBI is not the lead for the ENCOUNTER, the
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY/SENSITIVE SECURITY INFORMATION
+
+Page | 64
+

@@ -1,0 +1,57 @@
+UNCLASSII'IEI)//FOR OFFICIAL USE ONLY/SENSITIVE SECURITY INFORMATION
+
+1.52.1 Accept Nomination. lfa nomination contains TERRORISM INFORMATION, NCTC
+will create or enhance the associated TIDE record with the data contained in the
+nomination. lfthe minimum substantive derogatory and identifying criteria are met,
+NCTC will forward the TERRORIST IDENTIFIERS to the TSC for placement in TSDB with
+the NOMINATOR’S watchlist recommendation.
+
+1.52.2 Reject Nomination. lfa nomination does not contain TERRORISM INFORMATION,
+NCTC may reject the nomination. NCTC will review rejected nominations and search
+holdings for additional data that may support a TERRORISM INFORMATION ﬁnding. If no
+information is found to support the nomination, NCTC will notify the NOMINAI‘ING
+AGENCY of the rejection.
+
+1.53 Types of records in TIDE. There are two types of records in TIDE:
+
+1.53.1 TERRORIS l‘ Records. The vast majority of records in TIDE are for KNOWN or
+SUSPECTED international TERRORISTS. These records are labeled “TERRORISTS.” Only a
+small percentage of 'I‘ERRORIS'I‘ records in TIDE concern us. PERSONS.
+
+1.53.2 Non-I‘ERRORIS’I‘ Records. A small percentage of records in TIDE are identiﬁed and
+labeled “Non-TERRORISTS.” 28 These records are generally of familial family members
+or associates of KNOWN or SUSPECTED TERRORISTS and assist DOS and DHS in, for
+example, adjudicating visas and immigration processing, or assist the 1C in tracking
+KNOWN TERRORISTS. These “Non-TERRORISTS” include:
+
+1.53.2.1 Alien Spouses and Children of TERRORISTS. Based on section
+212(a)(3)(B)(i)(lX) of the INA, alien spouses and children of TERRORISTS may be
+inadmissible to the United States.29 TIDE exports records pertaining to alien
+spouses and children of alien international TERRORISTS (also known as 'l‘lDE
+
+Category Code 17) to support immigration and visa screening activities by DOS
+and DHS;
+
+1.53.2.2 Other Relatives. TIDE also includes “non-'I‘ERRORIST” records of
+individuals who have a close relationship to a KNOWN or SUSPECTED international
+
+ 
+
+28 TIDE records for non-US. citizens, including LPRs, with insufﬁcient DEROGA’I‘ORY INFORMATION to meet the
+REASONABLE SUSPICION standard (TIDE Category Code 99) and records relating to an individual who has a deﬁned
+relationship with the KNOWN or SUSPECTED TERRORIST, but whose involvement with the KNOWN or SUSPECTED
+TERRORIST’S activities is unknown (TIDE Category Code 50) are exported to the TSDB as TSDB exceptions to the
+REASONABLE SUSPICION standard. Additionally, individuals described by sources as “TERRORISTS”, “extremists”,
+“jihadists”, “militants”, “mujahideen” or “insurgents” (TIDE Category Code 03, also referred to as a “labels plus”
+nomination) will be accepted into the TSDB as exceptions for export to DIIS and DOS for immigration and border
+processing. See Paragraph 3.14.6. A complete list of TIDE Category Codes can found under the “Watchlisting Criteria
+Guidance” section on the lntelink website at http://www.intelink.uov/Isc/leualhtm.
+
+29 “Any alien who. . . . is the spouse or child ofan alien who is inadmissible under this subparagraph, ifthe activity
+causing the alien to be found inadmissible occurred within the last 5 years, is inadmissible.” See INA §
+212(a)(3)(B)(i)(lX) [8 U.S.C. 1182(a)(3)(B)(i)(lX)].
+
+UNCLASSIFIEI)//FOR OFFICIAL USE ONLY/SENSITIVE SECURITY INFORMATION
+
+Page | 22
+

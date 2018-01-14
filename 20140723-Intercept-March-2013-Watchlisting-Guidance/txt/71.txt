@@ -1,0 +1,56 @@
+UNCLASSIFIED/lFOR OFFICIAL USE ONLY/SENSITIVE SECURITY INFORMATION
+
+5.14
+
+INFORMATION during law enforcement ENCOUNTERS (e.g., trafﬁc violations, investigations,
+arrests) are coordinated between the NOMINATING AGENCY and the ENCOUNTERING AGENCY via
+TSOU.
+
+5.13.] For domestic and international ENCOUNTERS with a person who is a POSITIVE MATCH
+to a KNOWN or SUSPECTED TERRORIST, TSOU will do the following: After receiving
+notiﬁcation of an ENCOUNTER from the TSC, TSOU will disseminate and coordinate
+information to FBI operational entities and federal, state, and local law enforcement
+Agencies. TSOU simultaneously coordinates with the appropriate FBI Field Division(s)
+and Case Agent(s); Joint Terrorist Task Forces (JTTFs); Airport Liaison Agents and
+Attaches (ALAS); ;Legal Attachés (LEGATs); U.S. Embassies and/or other appropriate
+law enforcement ofﬁcials, including ICE and CBP (speciﬁcally, NTC-P and NTC-C as
+appropriate); and appropriate members of the IC. For outbound ENCOUNTERS, or
+ENCOUN'I‘ERS involving subjects who have certain DEROGA'fORY INFORMATION, TSOU
+contacts (via phone and electronic notification) the appropriate counterterrorism
+element(s). Especially sensitive ENCOUNTERS often require coordination and situational
+updates with the White House, Northern Command (NORTIICOM), and FBI’S
+Counterterrorism-Watch.
+
+TSC Actions. TSC will update existing KNOWN or SUSPECI‘ED 'I'ERRORIST records with new
+TERRORIST IDENTIFIERS and TERRORISM INFORMATION and will provide the broader
+counterterrorism analytic community with as much new information as possible stemming
+from an ENCOUNTER with a KNOWN or SUSPECTEI) TERRORIST. TSC’s primary methods for
+sharing TERRORISM INFORMATION with the broader counterterrorism analytic community will
+be through its EMA application and the use of Intelligence Information Reports (lle), as
+described further in Section V, infra. TSC will also coordinate with Fusion Centers on law
+enforcement and other ENCOUNTERS impacting their Area of Responsibility. This
+coordination will include a request for record enhancing information from the Fusion Center,
+which if received, will be added to the subject’s KNOWN or SUSPECTED TERRORIST record.
+
+5.14.1 Any new TERRORISM INFORMATION recorded in, or attached to an EMA record by
+'I‘SC will be provided to NCTC via an automated ingest process.” Such daily ingests of
+EMA records update NCTC’S TIDE to reﬂect the fact of the ENCOUNTER, any new
+identiﬁers used to conﬁrm the KNOWN or SUSPECTED TERRORIST POSITIVE MATCHES, or
+those identified in an HR. Once TIDE has been updated, an automated ingest from
+TIDE to TSDB is used to update the various TSDB subsets (e. g., No Fly or Selectee
+Lists). At this point, the process is complete and the watchlisting, screening and law
+
+ 
+
+8° An “automated ingest" is one where the contents of TSC’s EMA records are incorporated into NCTC‘s 'I‘IDE
+database via a system-to-system transfer of information that identiﬁes new or changed information. This process allows
+NCTC to spot KNOWN or SUSPECTED TERRORIST records that have been amended or updated. This process also
+accommodates the transfer of attached ENCOUNTER PACKAGES received from SCREENERS. In those instances, the
+ENCOUNTER PACKAGES appear as attachments to the KNOWN or SUSPECTED TERRORIST record. ENCOUNTER PACKAGE
+attachments must be moved to another system in order to give the broader counterterrorism community access to the
+TERRORISM INFORMATION. That process is described in Section V, infra.
+
+UNCLASSIFIEDl/FOR OFFICIAL USE ONLY/SENSITIVE SECURITY INFORMATION
+
+Page 70
+

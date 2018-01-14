@@ -1,0 +1,53 @@
+UNCLASSI FIED/lFOR OFFICIAL USE ONLY/SENSITIVE SECURITY INFORMATION
+
+1.63 If the NOMINATOR requesting removal of an international TERRORIST identity record from
+TlDE is the only NOMINATOR to have provided information on that record, the removal request
+will be immediately processed by NCTC. The removal information is then sent to the TSC,
+which, in turn, makes a determination regarding removal of the TERRORIST identity from the
+TSDB.
+
+1.64 If multiple NOMINATORS have provided information on an international 'I‘ERRORIST identity
+record, NCTC will coordinate with all relevant parties in an attempt to reach a consensus on
+the TERRORIST identity’s most appropriate watchlisting status.
+
+1.64.1 lfthe multiple NOMINATORS arrive at a consensus that the watchlisted identity is not
+reasonably suspected of engaging in TERRORISM and/or TERRORIST ACTIVITIES, or an
+applicable exception, the identity is removed from the TSDB and TIDE. ln certain
+circumstances, NCTC may retain records in TIDE to prevent inappropriate re-
+watchlisting.
+
+1.64.2 lfthe multiple NOMINATORS cannot arrive at a consensus regarding the watchlisting
+status of an identity, TSC may decide to remove the identity from the TSDB, but NCTC
+may retain the identity in TlDE.
+
+1.64.3 For cases in which the F81 has conducted an investigation on an individual
+(independently nominated by another NOMINATOR) and has concluded that the
+watchlisted individual is not a KNOWN or SUSPECTED TERRORIST, the individual may be
+removed from the TSDB.34 ln such cases, the TERRORIST IDEN'I‘IFIERS from the F Bl’s
+investigation may be used to supplement the TlDE record.
+
+1.65 The FBl will review domestic TERRORIST identity removal requests according to applicable
+FBl procedures.
+
+1.66 TSC has an established, on-going process to review every record in the TSDB in accordance
+with Paragraph (8)(b) of the TSC MOU and its mission under 1 lSPD-6 to maintain the most
+thorough, accurate, and current information in the TSDB. lfTSC determines that the
+watchlisting standards are not met for an individual record, TSC will remove the record from
+the TSDB, in coordination with the NOMINATING AGENCY.
+
+XI. REDRESS PROCEDURES
+
+1.67 In January 2005, the TSC established a formal watchlist redress process that allows Agencies
+
+ 
+
+3" After an FBI determination that the individual is not a KNOWN or SUSPECTED TERRORJST, NCTC may determine-
+based on a NOMINATOR'S independent nomination- that the individual should remain in TIDE as records that have been
+fully vetted and should not be screened against (TlDli Category Code 140), the individual be watchlisted based upon the
+NOMINATOR’S independent determination that the individual is a KNOWN or SUSPECTED TERRORIST or that the individual
+warrants watchlisting based upon an exception to the REASONABLE SUSPICION standard.
+
+UNCLASSIFIED/lFOR OFFICIAL USE ONLY/SENSITIVE SECURITY INFORMATION
+
+Page | 28
+

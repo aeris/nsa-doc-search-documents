@@ -1,0 +1,54 @@
+UNCLASSIFIED//FOR OFFICIAL USE ONLY/SENSITIVE SECURITY INFORMATION
+
+record nomination to ensure it meets the watchlisting standard.31 The SRQ also helps ensure
+that all qualiﬁed records are made available to the appropriate SCREENERS for use in
+TERRORISM screening. During the SRQ process, every request to add, modify, or delete a
+TSDB record is reviewed by a TSC analyst to ensure the accuracy of watchlisting records and
+the removal of inaccurate records from TSDB.
+
+1.56.1 Within the TSC’s NDIU, experienced analysts and/or designated Agency
+representatives serve as Subject Matter Experts (SMEs) with respect to specific
+databases (e. g., No Fly or Selectee List) that receive TSDB data for TERRORISM
+screening purposes. The NDlU currently has four types of SMEs who specialize in the
+information/systems from their respective organizations: DHS/Transportation Security
+Administration (TSA) for the No Fly, Selectee and Expanded Selectee Lists, FBI for
+National Crime Information Center (NClC)/KNOWN or SUSPECTED TERRORIST File
+(KSTF), DOS for the Consular Consolidated Database (CCD)32 and DHS for TECS (and
+its components) and the Automated Targeting System (ATS). SMEs provide guidance
+regarding their speciﬁc information/systems to the TSC and watchlisting standards to
+their Agencies. In some cases, the SME coordinates the data export to the supported
+system, provides feedback to NOMINATORS, and responds to inquiries regarding their
+supported system from other TSC customer Agencies.
+
+1.56.2 Upon the conclusion of TSC’s review, TSC will either accept or reject the
+nomination:
+
+1.56.2.1 Accept Nomination. Consistent with Paragraphs (7) and (8) of Addendum B
+to the TSC MOU, ifa nomination contains the minimum substantive derogatory
+criteria and the minimum identifying information, TSC will create a TSDB record,
+include the 'I‘ERRORIST IDENTIFIERS from the TIDE record, and export the TSDB
+record to its supported systems (i.e., databases and systems eligible to receive
+records from the TSDB) for the beneﬁt of SCREENERS that conduct TERRORISM
+screening. The current supported systems include, but are not limited to, the
+following:
+1.56.2.1.1 NClC/KSTF;
+
+1.56.2.1.2 DOS Consular Lookout and Support System (CLASS)—V1SA and
+CCI);
+
+1.56.2.1.3 D1 18 Watchlisting Service (WLS) (e.g., TECS, ATS, Secure Flight);
+1.56.2.1.4 TSA Transportation Security Vetting Center;
+
+1.56.2.1.5 TSA-Ofﬁce of Intelligence Analysis (01A);
+
+1.56.2.1.6 Tipoff United States Canada (TUSCAN);
+
+ 
+
+’1 See Chapter I, Section VIII, supra.
+3‘ CC!) is an application used by DOS to administer its visa and passport applications.
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY/SENSITIVE SECURITY INFORMATION
+
+Page | 24
+

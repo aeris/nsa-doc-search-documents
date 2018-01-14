@@ -1,0 +1,58 @@
+UNCLASSIFIEDUFOR OFFICIAL USE ONLY/SENSITIVE SECURITY INFORMATION
+
+1.7
+
+Under HSPD—6, consistent with the U.S. Constitution and applicable laws, including those
+protecting the rights ofall Americans, the TSC was to develop and maintain an unclassiﬁed
+database containing the most thorough, accurate, and current identity information possible
+about KNOWN or SUSPECTED TERRORISTS. The TSC created the TSDB to meet these goals.7
+The TSDB is also known as the Terrorist Watchlist. The TSDB receives TERRORIST
+IDENTIITIERS from two sources: NCTC’s TIDE provides information concerning KNOWN or
+SUSPECTED international TERRORISTS and the TSC’s Terrorist Review and Examinations Unit
+(TREX) provides the identities of KNOWN or SUSPECTED domestic TERRORISTS who have no
+link to international TERRORISM. NCTC’s TIDE contains identifying and substantive
+DEROOATORY INFORMATION on KNOWN or SUSPECTED international TERRORISTS and the FBI’s
+Sentinel system contains supporting information regarding purely domestic TERRORISTS.
+
+Pursuant to Paragraph (2) of HSPD-6, the NCTC is mandated to “provide [TSC] with access
+to all appropriate information or intelligence in the [NCTC’s] custody, possession. or control
+that [TSC] requires to perform its functions.” NC'l‘C fulﬁlls this function by providing TSC’s
+TSDB with U//FOUO information about KNOWN or SUSPECTED TERRORISTS from NCTC’s
+TIDE and by providing access to TIDE Online, a read-only copy of the TIDE database, to
+those in the watchlisting community who require access.
+
+NCTC’s establishment by the President was codiﬁed by section 1021 of the Intelligence
+Reform and Terrorism Prevention Act of 2004 (IRTPA).8 Pursuant to IRTPA, NCTC shall
+“serve as the central and shared knowledge bank on KNOWN and SUSPECTED TERRORISTS and
+international terror groups.” In addition, NCTC “may, consistent with applicable law, the
+direction of the President, and guidelines referred to in [the statute], receive intelligence
+pertaining exclusively to domestic counterterrorism from any Federal, State, or local
+government or other source necessary to fulﬁll its responsibilities and retain and disseminate
+such intelligence.”9
+
+1.9.1 All Departments and Agencies are required to provide NCTC with all TERRORISM
+INFORMATION. Due to the amount of information involved, only a subset of this
+information is provided in the NCTC prescribed format designed to facilitate direct
+ingestion into the TIDE. NOMINATING DEPARTMENTS and AGENCIES, however, should
+remain focused on reviewing and watchlisting TERRORISM INFORMATION from datasets
+most likely to contain information about KNOWN or SUSPECTED TERRORISTS.
+
+ 
+
+Addendum B to the TSC MOU, which superseded Addendum A, incorporates by reference all provisions ofthe
+Information Sharing MOU. See Appendix 5.
+
+7 The TSDB consolidates the U.S. Govemment‘s TERRORISM screening and lookout databases into a single integrated
+TERRORIST identities database.
+
+3 NCTC initially was created by Executive Order 13354 (August 27, 2004) to serve as the primary organization in the
+U.S. Government for analyzing and integrating all intelligence possessed or acquired by the U.S. Government
+pertaining to TERRORISM and counterterrorism, excepting purely domestic counterterrorism information. Executive
+Order 13354 was revoked by Executive Order 13470 (July 30, 2008) aﬁer NCTC was codiﬁed in IRTPA section 1021.
+9In addition to the provision of domestic KNOWN or SUSPECTED TERRORISTS directly to the TSC, the TSC's TREX unit
+also provides the identities of international KNOWN or SUSPECTED TERRORISTS to NCTC for inclusion in TIDE.
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY/SENSITIVE SECURITY INFORMATION
+
+Page I 7
+

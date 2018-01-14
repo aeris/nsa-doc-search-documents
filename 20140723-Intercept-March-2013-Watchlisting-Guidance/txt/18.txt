@@ -1,0 +1,61 @@
+UNCLASSIFIED//FOR OFFICIAL USE ONLY/SENSITIVE SECURITY INFORMATION
+
+1.36
+
+1.37
+
+the identiﬁcation of new KNOWN or SUSPECTED TERRORISTS who meet the REASONABLE
+SUSPICION standard, along with the identifying and DEROGATORY INFORMATION most useful to
+watchlisting, and screening effort, as well as assisting in identity resolution.
+
+Each Department or Agency that nominates a KNOWN or SUSPECTED TERRORIST to NCTC for
+watchlisting is under a continuing obligation to provide NCTC with newly identiﬁed
+DEROGATORY INFORMATION or exculpatory information obtained by that Department or
+Agency. Each Department or Agency also has the responsibility to provide NCTC with newly
+identiﬁed identifying and DEROGATORY INFORMATION obtained from their Department or
+Agency, regardless ifthey were the original NOMINATING AGENCY.
+
+With the noted exception of the Visa Viper Program, Departments and Agencies should not
+nominate KNOWN or SUSPECTED TERRORISTS to NCTC based on information that they do not
+originate without ﬁrst coordinating with the ORIGINATOR.
+
+VIII. QUALITY CONTROL MEASURES
+
+1.38
+
+1.39
+
+1.40
+
+In order to produce and maintain the most reliable and accurate information in TIDE, TSDB,
+and screening databases, quality control is considered a responsibility of all entities.
+NOMINATING DEPARTMENTS AND AGENCIES must establish and maintain processes, including
+appropriate training and guidance, to ensure information transmitted to NCTC is consistent
+with the source ofthe information.
+
+HSI’D—6 Requirements. llSPD-6 requires the TSC to maintain thorough, accurate, and
+current information concerning KNOWN or SUSPECTED TERRORISTS. For watchlisting purposes,
+“current” means information that the NOMINATING AGENCY reasonably believes is valid and
+accurate. The requirement that information be current does not necessarily preclude
+information that is several years old from being included in the TSDB ifthere is no reason to
+believe the information may have changed (e.g., information regarding an individual’s date of
+birth or TERRORIST ACTIVITY was collected 20 years ago but has not been superseded by
+additional information is still relevant). NOMINATORS should consider the date of the
+DEROGATORY INFORMATION in the context of analyzing the overall quality of the data, as well
+as the severity of the threat, to determine whether the individual warrants watchlisting. The
+date of the DEROGATORY INFORMATION may refer to both the date the information is collected
+(such as a report that was collected 50 years ago) as well as the date of the information that is
+referenced in the reporting (such as a recent report that references an event that occurred 50
+years ago).
+
+TSC MOU Obligations. Paragraph 15 of the TSC MOU provides that the TSC “will
+determine, according to criteria established jointly with the entity responsible for each
+supported system, which supported screening processes will query that entry in the
+consolidated TERRORIST screening database.” Pursuant to that paragraph, the TSC is required
+to “make these determinations based on criteria and procedures developed in coordination
+with the Parties to this Memorandum and in consultation with the heads of appropriate Federal
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY/SENSITIVE SECURITY INFORMATION
+
+Page] 17
+

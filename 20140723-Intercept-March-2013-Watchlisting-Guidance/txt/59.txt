@@ -1,0 +1,59 @@
+UNCLASSlFIED//FOR OFFICIAL USE ONLY/SENSITIVE SECURITY INFORMATION
+
+5.]
+
+5.2
+
+CHAPTER 5: ENCOUNTER MANAGEMENT AND ANALYSIS
+
+INTRODUCTION AND PURPOSE
+
+This guidance addresses the collection, processing, and analysis of TERRORISM INFORMATION
+collected by the SCREENERS during an ENCOUNTER with a watchlisted subject. As described
+below, all information gathered during an ENCOUNTER with a KNOWN or SUSPECTED
+TERRORIST82 is referred to as an ENCOUNTER PACKAGE. This guidance does not create any
+new authorities for the collection of any information during ENCOUNTERS with KNOWN or
+SUSPECTED TERRORISTS. Rather, it identiﬁes the types of information that a Department or
+Agency should consider collecting during an ENCOUNTER with a KNOWN or SUSPECTED
+TERRORIST if it possesses the authority to collect such information, and should share with the
+interagency community consistent with their legal authorities and executive policy.83
+
+Deﬁnitions.
+
+5.2.1 ENCOUNTER. An ENCOUNTER is deﬁned as an event in which an individual is identiﬁed
+during a screening process to be a “POSITIVE MATCH,” “POTENTIAL MATCH,” or
+“INCONCI.USIVE MATCH,” to an individual who has been designated in the TSDB as a
+KNOWN or SUSPECTED TERRORIST. An ENCOUNTER can be a face-to-face meeting with a
+KNOWN or SUSPECTED TERRORIST, electronic or a paper-based ENCOUNTER (e. g., the
+KNOWN or SUSPECTED TERRORIST has submitted an application for a beneﬁt liked a visa,
+Electronic System for Travel Authorization (ESTA) application, or information is
+provided to the United States by a foreign government, aircraft operator, or other private
+entity). Chapter 5 is only concerned with POSITIVE MATCHES, which occur when the
+l‘SC determines that information about a subject encountered by a SCREENER matches a
+TSDB record.
+
+5.2.2 TERRORISM INFORMATION. TERRORISM INFORMATION in this chapter includes purely
+domestic terrorism as deﬁned in the TSC MOU and incorporates the deﬁnition found in
+in section 1016 of the lRTPA (6 U.S.C 485), as amended. The term “TERRORISM
+INFORMATION” means —
+
+5.2.2.1 all information, whether collected, produced, or distributed by intelligence,
+law enforcement, military, homeland security, or other activities relating to~~
+
+5.2.2.1.] the existence, organization, capabilities, plans, intentions,
+vulnerabilities, means of ﬁnance or material support, or activities of foreign
+or international terrorist groups or individuals, or of domestic groups or
+
+ 
+
+32 Sharing information for reasons not related to KNOWN or SUSPECTED TERRORIST categories should be limited to
+updating biographic identifiers, and the sharing of relevant information that may assist in making decisions related to a
+change in a person's status in the TSDB and/or TERRORISM INFORMATION.
+
+33 Obligations include those imposed by lRTPA section 1021 or by interagency agreement (e. g., the Information
+Sharing MOU (Appendix 5), the TSC MOU (Appendix 3) and Addendum B to the TSC MOU (Appendix 4)).
+
+UNCLASSIFIED//FOR OFFICIAL USE ONLY/SENSITIVE SECURITY INFORMATION
+
+Page | 58
+

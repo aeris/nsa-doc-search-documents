@@ -1,0 +1,80 @@
+UNCLASSI HED/lFOR OFFICIAL USE ONLY/SENSITIVE SECURITY INFORMATION
+
+3. I 7. I .l PARTICULARIZED DEROGATORY INFORMATION supports a REASONABLE
+
+SUSPICION that an existing KNOWN or SUSPECTED TERRORIST is using that identity
+information; or,
+
+3. I 7.I .2 A recognized terrorist organization"8 collects KNOWN or SUSPECTBD TERRORIST
+
+3.I7.2
+
+identity information for use by its members in preparing for or committing
+TERRORIST acts and identity or travel documents (e.g., related to a deceased KNOWN
+or SUSPECTED TERRORIST of that organization) have not been recovered. “Trusted
+travel documents” include all documents used for border crossings.
+
+NOMINATING AGENCIES will share information regarding a watchlisted or nominated
+
+individual’s deceased status under Addendum B of the TSC MOU, section (7)(m) (“Any
+other TERRORISM INFORMATION that ORIGINATORS speciﬁcally provide for passage to the
+TSC”). NCTC will export deceased status to the TSC, and the TSC will export deceased
+status to end user screening systems. NOMINATING AGENCIES will mark deceased status
+information “TIDE Restricted” in cases where the status, because of sensitive sourcing,
+should not be forwarded to the TSC. TIDE restricted information will not be exported to
+the TSC. When a nomination is made on a deceased person in accordance with this
+paragraph, the status indicator within TIDE that is exported to the TSC will be marked
+to reflect that the person is deceased.
+
+VII. EXAMPLES OF TERRORISM AND/OR TERRORIST ACTIVITIES
+
+3. I 8 Examples of TERRORISM and/or TERRORIST ACTIVITIES may generally include conduct
+intended to intimidate, coerce, influence, or affect civilian populations or government policy
+consisting of:
+
+3.l8.I
+3.I8.2
+3.I8.3
+3.I8.4
+3.l8.5
+3.I8.6
+
+destruction of aircraft or aircraft facilities (I8 U.S.C. 32);
+
+violence at international airports (I8 U.S.C. 37);
+
+biological weapons(I8 U.S.C. I75 or I75b);
+
+variola virus (I 8 U.S.C. I75c);
+
+chemical weapons (I8 U.S.C. 229);
+
+assassination and kidnapping of Congressional Members, Cabinet Ofﬁcials, and
+
+Supreme Court Justices( l 8 U.S.C. 35I (a)(b)(c) or (d));
+
+3.l8.7
+3.l8.8
+
+nuclear materials (I8 U.S.C. 83I);
+participation in nuclear and weapons of mass destruction threats to the United States
+
+(18 U.S.C. 832);
+
+3.l8.9
+
+plastic explosives (I 8 U.S.C. 842(m) or (n) footnote 1.);
+
+3.I8.I0 arson and bombing of Government property risking or causing death (I8 U.S.C.
+84407(2) or (3));
+3.l8.I I arson and bombing of property used in interstate commerce (I8 U.S.C. 844(i));
+
+ 
+
+6” A classiﬁed list of recognized terrorist organizations that are known to reuse TERRORIST identity information is
+available on the Watchlisting Community of Interest portal on NCTC Current.
+
+UNCLASSIFIED/lFOR OFFICIAL USE ONLY/SENSITIVE SECURITY INFORMATION
+
+Page | 47
+

@@ -1,0 +1,57 @@
+UNCLASSIFIED/IFOR OFFICIAL USE ONLY/SENSITIVE SECURITY INFORMATION
+
+CHAPTER I: WATCHLISTING PROCESS AND PROCEDURES
+
+I. INTRODUCTION
+
+Li A key foundation for TERRORISTl—related screening is the US. Government’s TERRORIST
+watchlisting process managed by the Terrorist Screening Center (TSC). The TSC was
+established by the Attorney General, acting through the Director of the Federal Bureau of
+Investigation (FBI), and in coordination with the Secretary of State, the Secretary of
+Homeland Security, and the then Director of Central Intelligence for the lntelligence
+Community (lC). The TSC is supported by the National Counterterrorism Center (NCTC),
+the Department of State (DOS), the Department of Homeland Security (Dl IS), the lC, the FBI,
+Law Enforcement Agencies, Regulatory Agencies and Diplomatic Bureaus. The TSC has
+created and maintains the Terrorist Screening Database (TSDB) or Terrorist Watchlist to serve
+as the US. Government's consolidated watchlist for TERRORISM SCREENING INFORMATION.
+
+1.2 The current TERRORIST watchlisting process supports the US. Government’s efforts to combat
+TERRORISM by: (l) consolidating the US. Government’s Terrorist Watchlist in the TSDB; (2)
+helping SCREENERS and intelligence agencies accurately identify individuals on the Terrorist
+Watchlist; (3) providing SCREENERS with information to help them respond appropriately
+during ENCOUNTERS with KNOWN or SUSPECTED TERRORISTS; and, (4) subsequently collecting
+information about the KNOWN or SUSPECTED TERRORIST for use in assessing threats and
+conducting investigations.2 The collected information may be incorporated into the Terrorist
+ldentities Datamart Environment (TIDE) and TSDB to enhance the records of KNOWN or
+SUSPECTED TERRORISTS and may be made available to the wider watchlisting and screening
+communities. Today, the TSDB also includes information about certain foreign nationals who
+are associated with TERRORISM, TERRORIST ACTIVITY, or KNOWN or SUSPECTED TERRORIST(S)
+but for whom there is insufficient DEROGATORY INFORMATION to be independently
+watchlisted. This may include certain immediate family members of KNOWN or SUSPECTED
+TERRORISTS, or known associates of KNOWN or SUSPECTEI) TERRORISTS. These additional
+categories of records (also known as exceptions to the REASONABLE SUSPICION standard) are
+maintained to support immigration and screening activities primarily conducted by DOS and
+DI'IS.
+
+ 
+
+' See Appendix I, Deﬁnitions for words or phrases appearing in all capitalized letters throughout this Watchlisting
+Guidance.
+
+2 A SCREENER is a Department or Agency that is authorized to conduct TERRORISM screening to determine if; an
+individual is a possible match to a KNOWN or SUSPECTED TERRORIST in the TSDB. The term “SCREENER” is used
+throughout this document as a general reference to a government ofﬁcial who compares an individual‘s information
+with information in the TSDB to determine ifzan individual is in the TSDB. Certain SCREENERS have components
+which perform both screening and law enforcement duties and law enforcement officials who engage in such activities
+may normally describe their targeting or other actions in this context as other than "screening." For ease of reference,
+government officials who compare an individual’s information with information in the TSDB will be referred to in the
+Guidance as “SCREENERS.” The internal guidance set forth herein is not intended to create or confer any rights,
+privileges, or beneﬁts in any matter, case, or proceeding. See United States v. Caceres, 440 US. 74 l.
+
+' See Chapter 3, Section V, infra, for more details. Aside from these limited exceptions, references to the TSDB in this
+Watchlisting Guidance denote the TSDB as containing information about KNOWN or SUSPECTED TERRORISTS.
+
+UNCLASSIFIED/IFOR OFFICIAL USE ONLY/SENSITIVE SECURITY INFORMATION
+
+Page | 5
+

@@ -1,0 +1,54 @@
+UNCLASSIFIED/lFOR OFFICIAL USE ONLY/SENSITIVE SECURITY INFORMATION
+
+TERRORIST but are not alien spouses or children ofa TERRORIST. For instance, the
+father or brother ofa TERRORIST could have a record in TIDE (also known as TIDE
+Category Code 160). Thus, these “other relatives” could be U.S. PERSONS or non-
+U.S. PERSONS. Identifiers for these other relations reside in TIDE but are not
+exported to the TSC for watchlisting, absent independent DEROGATORY
+INFORMATION. Instead, these records may be retained in TIDE for analytic
+purposes;
+
+1.53.2.3 Passports. Unrecovered lost or stolen passports in the hands of international
+TERRORISTS (also known as TIDE Category Code 89);
+
+1.53.2.4 Associates. Individuals who have a deﬁned relationship with the KNOWN or
+SUSPECTED TERRORIST, but whose involvement with the KNOWN or SUSPECTED
+'l‘ERRORIST’S activities is unknown (also known as TIDE Category Code 50);
+
+1.53.2.5 Individuals with a Possible Nexus to TERRORISM. Individuals with a
+possible nexus to TERRORISM and/or TERRORIST ACTIVITY but for whom additional
+DEROGATORY INFORMATION is needed to meet the REASONABLE SUSPIClON standard
+(also known as ’I‘IDE Category Code 99).
+
+1.54 Identification of U.S. PERSON Status in TIDE. NCTC analysts will review the totality of
+information available on a subject to discern U.S. PERSON status prior to creating or
+enhancing a record in TIDE, whenever possible. For existing TIDE records, this status is
+available to the analyst in the first field of the TIDE record. In case of external
+nominations or ENIIANCEMENTS from the 1C, the standard nomination template provides a
+means for NOMINATORS to identify U.S. PERSON status pursuant to Executive Order 12333
+and the Agency’s speciﬁc guidelines. The U.S. PERSON status ﬁeld on the standard
+nomination template is a required ﬁeld and it is the responsibility of each NOMINATING
+AGENCY to ensure the field is properly annotated in accordance with established policy.
+
+1.55 Types of Records in TIDE and the TSDB. Not all records in TIDE are included in the
+TSDB. For example, records with FRAGMENTARY INFORMATION that do not meet the
+minimum derogatory standard or records that do not meet identifying information criteria
+remain in TIDE and are not included in the TSDB, absent direction for temporary, threat
+based categories pursuant to Paragraph 1 .59.” The nominations process for TIDE records
+that will be considered for entry in the TSDB begins with an automated data transfer process
+that moves an individual TIDE record containing the identity ofa KNOWN or SUSPECTED
+TERRORIST or other exportable category or record nominated for watchlisting to the TSDB.
+
+1.56 TSC Actions and Processes. The TSC’s Single Review Queue (SRQ) enables the TSC’s
+Nominations and Data Integrity Unit (NDIU) to review each KNOWN or SUSPECTIED TERRORIS‘I'
+
+ 
+
+3° Certain categories of non-TERRORIST records (see Paragraph 1.53.2) or nominations to the No Fly and Selectee List
+based on an expedited waiver of “full date of birth” requirement (see Paragraph 4.18) may also be eligible for inclusion
+in the TSDB.
+
+UNCLASSIFIED/lFOR OFFICIAL USE ONLY/SENSITIVE SECURITY INFORMATION
+
+Page | 23
+
