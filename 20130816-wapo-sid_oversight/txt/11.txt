@@ -1,0 +1,56 @@
+TOP SECRET/lCOMINT/INOFORN
+
+0 Human error (i.e., selector mistypes, incorrect realm, or improper query) (71);
+0 Lack of due diligence (i.e., failure to follow standard operating procedures) (68); and
+0 Training and guidance (i.e., training issues) (9).
+
+(U/lFOUO) Analysis found that analysts could reduce the number of incidents if there was more
+comprehensive research information available at the time of tasking as well as through better use of defeats,
+more careful review of data entry to avoid typographical errors and omissions, and by following SOPs more
+consistently.
+
+(U/lFOUO) Figure 10b: 1QCY12 S2 Incidents — System Related Root Causes
+(U/IFOUO)
+
+ 
+
+l System Engineering 1
+
+i System Limitations 541
+
+   
+
+ 
+
+Total: 542
+(U/IFOUO)
+
+ 
+
+ 
+
+(U/lFOUO) 70% of the S2-reported incidents during 1QCY12 are attributed to system issues as the root
+cause, and involved:
+0 System limitations (i.e., system lacks the capability to ‘push’ real-time travel data out to analysts,
+system/device unable to detect changes in user) (541); and
+0 System engineering (i.e., data tagging, configuration, design ﬂaws, etc.) (1).
+
+(TS/lSI/IREL TO USA, FVEY) System Limitations, the largest percentage of System Error root cause, can
+be attributed to situations where a valid foreign target is found roaming in the United States without indication
+in raw traffic.
+
+ 
+
+III. (U) Signiﬁcant Incidents of N on-compliance
+
+(TS/lSI/lNF) Business Record (BR) FISA. As of 16 February 2012, NSA determined that approximately
+3,032 files containing call detail records potentially collected pursuant to prior BR Orders were retained on a
+server and been collected more than five years ago in violation of the 5-year retention period established for
+BR collection. Specifically, these ﬁles were retained on a server used by technical personnel working with
+the Business Records metadata to maintain documentation of provider feed data formats and performed
+
+background analysis to document why certain contain chaining rules were created. In addition to the BR
+Page 11 of 13
+
+TOP SECRET/lCOMINT/INOFORN
+
