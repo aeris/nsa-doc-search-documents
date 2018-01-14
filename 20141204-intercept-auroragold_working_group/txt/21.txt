@@ -1,0 +1,27 @@
+TOP SE CHE T//SI//REL TO F VE Y
+
+   
+
+ 
+
+|R.21 Data Extraction
+(S//S|//RE|-)
+
+(U) Content (U) Metadata/SRI
+_mn _mn
+MCC/MNC SIGAD
+
+Operator name x x Case notation x x
+Operator country x x PWID x x
+Email addresses x PINWALE Date Time Group x x
+Access point information x PINWALE category & keywords x
+Autonomous system number x Email ”From” & date x
+
+DNS names & |Ps x Source & destination IP x
+Inter PLMN backbone |Ps x Filename x
+GPRS Roaming Exchange (GRX) x PDDG x
+
+ 
+
+TOP SE CHE T//SI//REL TO F VE Y
+

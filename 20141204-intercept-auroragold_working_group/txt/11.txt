@@ -1,0 +1,23 @@
+' Roaming Agreement EXchange (RAEX)
+
+(S//S|//RE|-)
+
+   
+
+° (U) Next-generation roaming exchange process
+
+° (U) Well-defined XML schemas instead of
+semi-structured data in multiple formats
+
+° (U) Email likely gives way to SSL sessions with
+central server(s)
+
+SIGINT Access SIGINT Value Automated Analytics
+
+Old |R.21$ Easy Great Nearly impossible
+RAEXIR.21$ Difficult Even greater! Easy!
+
+ 
+
+SE CHE T//SI//REL TO F VE Y
+

@@ -1,0 +1,152 @@
+SIGINT Value — AI Madar |R.21
+
+(SI/Sl/IREL)
+
+   
+
+Vendor Information
+
+BSS vendor(s) and SXV.-"I-I\V version:
+
+HLR vendoﬂs) and SW-“HVLT version:
+MSC-“V'LR ve11dor(s) and SXV-“HW version:
+SMSC vendoﬂs) and S“’.-'HW version:
+SGSN vendor(s) and S‘N-“HVL’ version:
+GGSN vendor(s) and SW.-'HVL’ version;
+W3C vendor(s) and S‘MHW version:
+IN vendor(s) and S‘W-“HW version;
+
+ 
+
+ 
+
+Ericsson
+Ericsson
+Ericsson
+Alcatel—Lucem V 3.1
+Eric 55011 R?
+El’lC 95.011 R4
+Eriesson MMC 5.0
+Alcatel—Lucem
+
+ 
+
+_ Li-I’K‘a' lul'ormalluu
+AT‘N l'J-rtrmtm ldcfn‘iﬁer'
+1:“ of ﬁJ‘l
+
+ 
+
+AP}-
+banmm:
+“TD Pasvwcrc
+
+3P DES IJ address (mummy:
+1le UN‘S LP MESS (eccumlanv')
+
+ 
+
+ 
+
+ 
+
+ 
+
+AP“;
+Usermme
+“5W Pass u 1:1 L-
+
+WAP Gaseway [P address
+WAP Server URL
+Fm
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A133"
+
+Uueimm:
+
+ 
+
+T‘a «were.
+93.1]: G - ' - four MME '
+latessa gun}. 33m \ e: L. K].
+‘an
+
+ 
+
+ 
+
+ 
+
+(11'? version HE‘S;
+0653'
+E S S infonm :iazz: {opt-.- 31m] field:-
+
+ 
+
+ 
+
+ 
+
+ 
+
+leizlrr. pHﬂOI'ILS'l fur frl‘R‘: -"n1m'mm| ﬁrld'
+
+ 
+
+ 
+
+ 
+
+SMSC Informanon
+SMSL' G'l' addresses”:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MMS [Mei—working Information
+
+Domain name of MMSC
+
+IP address range for W5C
+
+I]? addres.s(es) of incoming MTA
+[P address-(e5) ofoutgoing MTA
+Max. size ofMMS allowed
+
+ 
+
+Delivery Report allowed?
+
+Read Report allowed:J
+
+Contact person(s) for 1W ms: (optional ﬁeld}
+W8 I“? Hub Provider(s) GT addresses:
+MIME IW Hub Provider(s) Name(s):
+
+ 
+
+TOP SE CHE T//SI//REL TO F VE Y
+
+Extracted from 3/00/506998—11
+
+ 
+
