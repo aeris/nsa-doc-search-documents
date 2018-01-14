@@ -1,0 +1,30 @@
+(S/lSI/IREL USA, FVEY) Yahoo Webmessenger is identified as either being
+a request for status message from the client (uncommon), or a status
+message (common):
+
+0 request
+
+1. HTTP GET /V1/pushchannel/
+
+2. 'X-yahoo-msgr-user-agent: YahooMessenger‘
+
+3. http_host('rest-notify.msg.yahoo.com‘)
+
+4. http_ur1('&msgrAppId=' and '&sid=')
+
+0 status
+
+1. 'Content—Type: application/j son;charset=utf—8'
+
+2. Message contains: "'@pendinngg" : 0, "@syncStatus" : 0, "responses" :
+
+[ {'
+(U) Deployment Date
+
+(S/lSI/IREL USA, FVEY) /atrouter/ on 11 Jan 2012. latxks/ on 17 April
+2012.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+0 This page was last modiﬁed on 7 January 2013, at 18:59.
+

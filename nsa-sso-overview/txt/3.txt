@@ -1,0 +1,34 @@
+XKS Versions:
+XKS Version 1.5.8 V89 TU Version 1.5.7 V151
+
+Digester Labeling:
+<HASBUDDY>true</HASBUDDY>
+<ANONADDRBOOK>true</ANONADDRBOOK>
+
+The following fingerprint labels and defeats the traffic.
+defeat/atxks/ownerless_addressbook
+
+(U) Deployment Date
+
+(TS//SI//REL USA, FVEY) The SCISSORS ownerless address book throttle
+was implemented on 2/29/2012 for one site, and for others in March and
+April of 2012.
+
+(TS//SI//REL USA, FVEY) The XKEYSCORE ownerless address book
+throttle is under development.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[edit] (U) Yahoo Webmessenger
+(U) Reason for Optimizing
+
+(S//SI//REL USA, FVEY) Yahoo's web-based Messenger client sends
+frequent requests, and receives frequent responses, for inbox and buddy
+status which are highly repetitive and contain little or no useful FI
+information in the actual message content beyond the simple fact that the
+user was online. During the first two weeks of December, at least eight
+selectors were detasked by CSRC due to excessive collection (exceeding
+session limits).
+
+(U) Criteria
+
