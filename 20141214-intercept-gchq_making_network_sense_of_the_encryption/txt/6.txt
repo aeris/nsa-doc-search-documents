@@ -1,0 +1,19 @@
+TOP SECRET STRAP 2 // REL TO USA, AUS, CAN, GBR, NZL
+
+Known usage
+
+ 
+
+- Target known to use encryption
+— Identify target subnet
+— Select on subnet against metadata
+- Or...
+— Start with an AS — look for most interesting wheel
+
+— BELGACOM - AS6774 — known to run GRX links to MNO
+over VPN
+
+ 
+
+ 
+

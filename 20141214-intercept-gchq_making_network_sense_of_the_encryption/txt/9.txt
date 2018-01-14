@@ -1,0 +1,22 @@
+—
+TOP SECRET STRAP 2 // REL TO USA, AUS, CAN, GBR, NZL
+
+Network Knowledge enrichment
+
+ 
+
+- Internet Registry information
+- IP Geolocation
+
+- DNS
+
+- Data derived from network device configuration files
+(routers/Firewalls etc)
+
+- Network information on surrounding IPs (i.e. rest of subnet is
+MNO related)
+
+ 
+
+ 
+
