@@ -1,0 +1,29 @@
+2012.12.12 - 10:10 In:
+Do not reuse
+
+this image!
+
+ 
+
+(SISIHREL) So. SIGINT is down right cool. As much as we complain about our "Big Data Problem".
+collectionfprocessing issues. dismal infrastructurefoutdated browserSIOS's. our ability to pull bits
+out of random places of the Internet. bring them back to the mother-base to evaluate and build
+intelligence off of is just plain awesome!
+
+(SISIHREL) One of the coolest things about it is how much data we have at our fingertips. If we
+*only* collected the data we knew we wanted...yeah. we'd fill some of our requirements. but this is
+a whole world of possibilities we'd be missing! It would be like going on a road-trip. but wearing a
+blindfold the entire time. and only removing it when you're at one of your destinations...yeah.
+you'll still see stuff. but you'll be missing out on the entire journey!
+
+(SISIHREL) So I decided to write a short series (affectionately titled '1 hunt ...'J on things that I'm
+trying to do with data that wouldn't normally be interesting by itself. but by thinking about it in a
+new way. makes it extremely valuable. My interests lately have been in using passive collect to
+identifylenable CNE efforts. so that's predominantly what the first few topics will be about.
+
+(UHFOUO) If there are any topics someone wants to see specifically. let me know. As well. if any of
+the following information is useful. please let me know and I can put more out. Part 2 - Hunting
+sys admins coming very soon!
+
+2 comments :: Leave a comment
+
