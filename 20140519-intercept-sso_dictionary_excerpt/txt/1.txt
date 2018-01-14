@@ -1,0 +1,43 @@
+BASECOAT
+
+DUSKPALLET
+EVENINGEASEL
+
+GSM
+L|
+
+LOCKSTOCK
+
+SOMALGET
+
+VENATOR
+
+(TS'IISI‘IINF) MYSTIC acess; Bahamas A-Iink GSM. DEA access under LI that collects Counter-Narcotic
+(CN) targets. There are two sites located in the Bahamas. It is currently being used as a test bed for
+system deployments, capabilities, and improvements.
+
+(TSHSI‘IINFI NCSC covername tor MYSTIC access provider
+
+(TS'JJSI‘HNF) MYSTIC access that collects Kenya GSM (DNR). Collection is on the Abis link and brings
+back GSM metadata with the potential for content at a later date. Similar to LAUNDROMAT accesses
+(TS'JJSI‘IJNF) SIMILAR to MYSTIC'S LAUDROMAT accesses Pending access. Will collect Mexico GSM
+Ior CN targets. Site will be in Mexico.
+
+Groupe Speciale Mobile or Global System Ior Mobile communications. It is the mostwidely proliferated
+digital cellular technology in the world today.
+
+Lawlul Intercept
+
+(U‘ﬂFOUO) An eight yearl$51M Time & Material contract with General Dynamics, located in Annapolis
+Junction, MD, tor the su art at the LOCKSTOCK collection system used by MYSTIC and RAM-M.
+COR is currentlyﬂ. Processes all MYSTIC data and data ior other NSA accesses.
+(TS'HSI‘IINF) SOMALGET- UMBRELLAterm Ior systems provided by —(NCSC). Currently
+comprised ol the SCALAWAG, OILYRAG, and LOLLYGAG collection systems in_ and
+BASECOATin the Bahamas. Processes over 100 million call events per day. The overt mission at ior
+SOMALGETis under the Lawlul Intercept (LI) auspices via DEA accesses. Host countries are not
+aware of NSA's SIGINT collection using these systems.
+
+(TSIISII/NF) MYSTIC access via DSD asset in a Philippine provider site. Collects Philippine GSM, Short
+Message Service (SMS) and Call Detail Records. Will soon become a source oi lucrative intelligence
+Ior terrorist activities in Southern Philippines.
+
