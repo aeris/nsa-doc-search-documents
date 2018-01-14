@@ -1,0 +1,19 @@
+—
+Technical Analysis: Hidden Services
+
+(TS//Sl)
+
+What do we know about Hidden Services?
+
+° Current: No effort by NSA, some DSD and
+GCHQ work on ONIONBREATH.
+
+° Goal:
+— Harvest and enumerate .onion URLs
+
+— Identify similar HS based on referrer fields
+
+— Distinguish HS from normal Tor clients
+
+ 
+

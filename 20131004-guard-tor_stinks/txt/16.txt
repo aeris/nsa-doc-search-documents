@@ -1,0 +1,18 @@
+Exploitation: Existing Options
+
+Test current CNE techniques (FA and SHORTSHEET)
+against Torbutton and T88 users.
+
+° Current: Torbutton and T88 prevent CNE success.
+Possible success against “vanilla” Tor/Vidalia.
+
+° Goal: modifications to initial CNE surveys? Ignore
+user-agents from Torbutton or TBB? Improve
+
+browser fingerprinting? Usingjavascript instead
+of Flash?
+
+16
+
+ 
+

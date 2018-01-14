@@ -1,0 +1,17 @@
+Exploitation: Shaping
+
+Given CNE access to a target computer can we
+shape their traffic to “friendly" exit nodes?
+
+Route users to a separate “private" Tor network?
+Stain their traffic or user agent?
+
+Instruct target computer to use a service that
+connects outside Tor and reveal true IP?
+
+Current: Can stain user agent working on shaping.
+
+l7
+
+ 
+

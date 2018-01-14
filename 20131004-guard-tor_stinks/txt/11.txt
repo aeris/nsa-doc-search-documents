@@ -1,0 +1,11 @@
+—
+Analytics: DNS
+
+How does Tor handle DNS requests? Are DNS
+requests going through Tor? Does this depend
+on how the target is using Tor?
+
+- Current: Still investigating.
+
+ 
+

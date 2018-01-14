@@ -1,0 +1,20 @@
+—
+Tor Stinks... But it Could be Worse
+
+(S/ISI)
+
+° Critical mass of targets use Tor. Scaring them
+away from Tor might be counterproductive.
+
+° We can increase our success rate and provide
+more client lPs for individual Tor users.
+
+° Will never get 100% but we don’ t need to
+
+ 
+
+provide true IPs for every target every time
+they use Tor.
+
+ 
+

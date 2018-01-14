@@ -1,0 +1,20 @@
+Analytics: Cookie Leakage
+
+Use cookies to identify Tor users when they are
+not using Tor
+
+° Current: preliminary analysis shows that some cookies
+
+“survive" Tor use. Depends on how target is using Tor
+(Torbutton/Tor Browser Bundle clears out cookies).
+
+° Goal: test with cookies associated with CT targets
+
+— Idea: what if we seeded cookies to a target?
+
+ 
+
+— Investigate Evercookie persistence
+
+ 
+

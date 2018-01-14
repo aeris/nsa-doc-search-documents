@@ -1,0 +1,15 @@
+—
+Analytics: Dumb Users (EPICFAIL)
+
+GCHQ QFD that looks for Tor users when they
+are not using Tor.
+
+° Current: GCHQ has working QFD based on
+hard selector (email, web forum, etc) but does
+not include cookies.
+
+° Goal: NSA investigating own version (GREAT
+EXPECTATIONS) that would include cookies.
+
+«1
+

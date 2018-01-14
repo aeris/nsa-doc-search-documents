@@ -1,0 +1,15 @@
+Technical Analysis: torservers.net
+
+Sl)
+
+Investigate the Amazon AWS cloud instances of
+Tor servers. How are IPs allocated and
+reassigned once bandwidth limit is reached?
+
+Impact on RONIN’ s ability to detect nodes?
+
+° Current: GCHQ set up Tor nodes on the AWS
+cloud during REMATION ||.
+
+ 
+

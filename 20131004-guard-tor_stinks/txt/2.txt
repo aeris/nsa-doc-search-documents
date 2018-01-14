@@ -1,0 +1,18 @@
+—
+TorSﬁnksum
+
+° We will never be able to de-anonymize all Tor
+users all the time.
+
+° With manual analysis we can de-anonymize a
+very small fraction of Tor users, however, no
+
+ 
+
+ 
+
+success de-anonymizing a user in response to a
+TOPI request/on demand.
+
+ 
+

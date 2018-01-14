@@ -1,0 +1,16 @@
+—
+Technical Analysis: Timing Pattern
+
+(TS//Sl)
+
+Send packets back to the client that are
+detectable by passive accesses to find client
+IPs for Tor users.
+
+° Current: GCHQ has research paper and
+demonstrated capability in the lab.
+
+° Goal: Can we expand to other owned nodes?
+
+ 
+
