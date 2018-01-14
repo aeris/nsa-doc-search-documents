@@ -1,0 +1,117 @@
+TOP SECRET STRAPl
+
+ 
+
+Connectivity (Dataflows)
+
+ 
+
+ 
+
+The success of the cryptanalytic services experiment relies on the ability to extract
+and pass crypto-synch parameters associated with common internet encryption
+technologies to NSAW/LONGHAUL for cryptanalytic attack and recovery. The crypto-
+synch parameters are extracted in the cryptanalytic processing servers and passed to
+NSAWILONGHAUL via a corporate messaging system (ISLANDTRANSPORT)
+connection. The messages are encrypted prior to leaving the cryptanalytic processing
+servers using the secure corporate messaging software (ISLANDHIDEAWAY) for
+security and authentication.
+
+ 
+
+ 
+
+Data Requirements
+
+ 
+
+ 
+
+This experiment will leverage and validate candidate input streams (case notations)
+containing the common internet encryption technologies of interest.
+
+ 
+
+ 
+
+Data Repositories
+
+ 
+
+ 
+
+ 
+
+Legalities
+
+ 
+
+ 
+
+ 
+
+ 
+
+Additional Support
+
+ 
+
+ 
+
+ 
+
+ 
+
+Data Access
+
+ 
+
+ 
+
+ 
+
+ 
+
+External Dependencies
+
+ 
+
+ 
+
+ 
+
+ 
+
+Previous I Related Work
+
+ 
+
+ 
+
+ 
+
+ 
+
+lnnov8 Experiment Profile Template V0.2 5 Of 8
+
+This inlormation is exempt lrom disclosure under the Freedom of lnlormation ActEOOO and may be subject to exemption under
+
+other UK information legislation. Refer disclosure requests to GCHQ on —
+TOP SECRET STRAPl
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
