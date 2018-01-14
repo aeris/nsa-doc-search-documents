@@ -1,0 +1,63 @@
+Access Breakdown
+
+Access Point
+
+DONNINGTON
+LATUS
+SCEPTRE
+PRESCOTT
+GIBUS
+KIRKISTOWN
+MONDELLO
+LINNELL
+CATEGORY
+KNAPWEED
+ELAPSE
+
+Total
+
+Environment
+
+214
+112
+80
+36
+23
+18
+12
+12
+
+20
+541
+
+x106
+
+2140
+1 120
+800
+360
+230
+180
+120
+120
+80
+60
+200
+5410
+
+Cables
+
+Flag, Apollo South
+Apollo North & ?
+BT
+
+C&W
+
+SMW-3
+
+C&W
+
+Solas (BROKER)
+
+Verizon
+
