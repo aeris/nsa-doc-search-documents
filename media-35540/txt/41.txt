@@ -1,0 +1,47 @@
+(SI/REL) References to IAT in SIGINT
+
+  
+
+(SI/REL) “Grep” in SIGINT reports for relevant phrases (ex anonymity)
+
+1—r"-
+-
+
+      
+
+— (Sl/SI/IREL) Format is TOPI / Type of Info
+
+° (TS/ISIIIREL) CT I Use of PimpMylp (HTTP Proxy)
+
+' (TS/ISIIIREL) CT I Use of (masked US Company) VPN (L2TP protocol) for anonymity
+- (TS/ISIIIREL) CT / Instructions for use of VPNs for anonymity
+
+- (TS/lSI/IREL) CT I Use of VPN (HotSpotShield) and SSH tunnels
+
+- (TS/lSI/IREL) CT I Use of Tor and an unspecified VPN
+
+- (TS/lSI/IREL) CT I Use of Easy-Hfde-IP (Socks proxy chooser)
+
+- (TS/lSI/IREL) CT I Use of unspecified anonymizing proxy
+
+    
+   
+  
+ 
+  
+ 
+ 
+ 
+
+' (TS/lSI/IREL) CT 1 Instructions on use of Tor and name-masked US program
+- (TS/lSI/IREL) CT I Use of VPN (Cyberghost)
+- (TS/lSI/IREL) CT I Use of unspecified HTTP proxy
+
+ 
+
+    
+
+- (TS/lSI/IREL) CT I Questions on whether Tor is compromised
+(TS/ISIIIREL) CT I Questions on whether associated compromised by IAT non-use
+TOP SEgRET/ICOMIN REL To USA,FVEY _ _ ,. - - . .' -' g . ' -42 1.:
+

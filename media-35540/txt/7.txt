@@ -1,0 +1,30 @@
+(Cl/REL) Types Of IAT
+
+  
+
+(SI/REL) Single Hop Proxies
+- (SI/REL) Web Site Proxies
+
+ 
+   
+   
+  
+    
+       
+
+— (SI/REL) HTTP/SOCKS Proxies :16:
+° (SI/REL) Browser Configured to Access g
+- (SI/REL) Proxy Aggregator Sites for Both
+- (SI/REL) May support SSL/TLS :‘E,
+° (SI/REL) HTTP Sites: Only User H Proxy E:
+- (SI/REL) SSL Sites (HTTPS) ii
+
+- (SI/REL) Transparent (Just Pass the Bits)
+- (SI/REL) Man-in-the-Middle (MITM)
+
+ 
+ 
+   
+
+.5 TOP SEgRET/I’COMIN REL TO USA,FVEY _ . -. ._ .. _ ,. .— .I - . . - - .I —' -7 ”Eng
+

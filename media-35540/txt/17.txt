@@ -1,0 +1,50 @@
+(Cl/REL) Types Of IAT
+
+  
+
+° (SI/REL) VPN Anonymity Providers
+
+   
+
+— (SI/REL) Server enumeration
+
+- (SllSI/lREL) Use the XKEYSCORE, Luke — AKA Fun with X509
+
+— (SllSI/lREL) Prompted by Hotspot Shield (HSS), the free service
+for which server lists are NOT readily available (Software
+Reverse Engineering required)
+
+— (S//Sl//REL) OpenVPN, as well as SSL/SSTP, send a server
+x. 509 certificate to client as part of setup
+
+5
+— (S//SI//REL) XKEYSCORE sees a LOT of traffic worldwide 53.
+— (S//Sl//REL) XKEYSCORE fingerprints aren't too hard g
+Eh.
+I
+a
+i-i-ar
+
+   
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+
+l-I-Izlh .I
+
+’7‘
+
+» (S//Sl//REL) Need unique string, usually CN and/or DN
+» (SllSI/lREL) Check for valid X509 certificate
+(SllSI/lREL) Query safe: Traffic encrypted (still do l—side defeat)
+
+  
+   
+
+.5 TOP SEgRETl/COMIN REL TO USA,FVEY _ . __ ._ u _ ,. .— .I - . . - - .' "1,7 iii-ﬂ
+

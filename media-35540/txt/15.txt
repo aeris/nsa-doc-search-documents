@@ -1,0 +1,46 @@
+(Cl/REL) Types Of IAT
+
+(SI/REL) VPN Anonymity Providers
+
+- (Sl/ REL) What “we" want
+
+        
+   
+  
+  
+    
+   
+   
+   
+
+- (Sl/ REL) Server enumeration
+
+— (Sl/SI/IREL) SIGINT: Obvious — target using such a service
+» (Sl/SI/IREL) One hop, so enough coverage means success!
+— (Sl/SI/IREL) Compliance: FAA— ls target in US is important!
+' (SI/REL) Exploiting User H VPN traffic
+
+— (Sl/SI/IR EL) Very case by case
+
+» (Sl/SI/IREL) Coverage (may need 2 sided collection)
+
+» (Sl/Sl/IREL) Protocol (may or may not have vulnerabilities)
+» (Sl/Sll/REL) Settings (implementation important)
+
+» (TS/ISIIIREL) “Collateral” - NCSC, TAO, FISA, etc.
+
+>> (Sl/SI/IREL) Request sent to CES if important
+
+ 
+
+ia-
+L'.
+
+l
+
+”iii-.JWZL
+
+TOP SEgRET/ICOMIN REL TO USA,FVEY ,, . _
+'_+'_'"'_-. ._;,_ '.'
+’1'; - - _ ~ ' _ _. _* ;. ' _ A?!
+

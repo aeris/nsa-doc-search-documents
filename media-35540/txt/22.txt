@@ -1,0 +1,51 @@
+(Cl/REL) Types Of IAT
+
+  
+
+(SI/REL) Miscellaneous IAT Technologies (Single Hop)
+
+- (SI/REL) Miscellaneous Multi-Selectors
+
+° (SI/REL) Proprietary Proxy Provider/Chooser
+
+— (SI/REL) Paid product, Client Software
+— (SI/REL) Usually involves obfuscation and/or encryption
+— (SI/REL) GHOSTSURF
+
+» (SI/REL) First analyzed 2006 — uses obfuscaton
+» (SI/REL) Server list has changed but all else same
+
+g
+5 I'
+4..
+LI: .
+— (SI/REL) Easy-Hide-IP g
+En-
+1
+a
+hint
+
+     
+  
+ 
+   
+  
+  
+   
+   
+  
+   
+ 
+   
+
+» (SI/REL) Analyzed in 2011 — uses TLS on port 8881
+» (SI/REL) Over 400 servers in 7 countries
+— (SI/REL) Hide-IP
+» (SI/REL) Analyzed in 2006 — New product now
+» (SI/REL) Need to re-analyze
+
+  
+   
+
+TOP SEgRET/I’COMIN REL TO USA,FVEY
+

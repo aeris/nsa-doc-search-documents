@@ -1,0 +1,47 @@
+(Cl/REL) Types Of IAT: HTTP
+Proxies/A. - re ators
+
+-..~."‘F .
+it “1* Nﬁ‘ﬁu (if riff
+
+(SI/REL) Web Proxy Aggregator sites Analysis
+(S/l REL) Proxy Discoverer
+
+   
+     
+      
+  
+    
+  
+   
+  
+   
+ 
+
+a ' (SI/REL) Scrapes Aggregator (ie www.proxy.org) E;
+
+' (SI/REL) For each proxy, GET ' 4':
+
+' (S/l REL) Iterate over software, variations i.
+
+_ ° (SI/REL) Glype, PHProxy, CGIProxy, ASP.NET, cURLProxy, Surrogaﬁer, _
+
+i Zelune 4 ii
+' ° (SI/REL) Try multiple times :_ '
+' (SI/REL) Aggregator may give software hints ‘5.
+
+' (SI/REL) Failure may indicate site down, or proxy SW modification 3‘
+
+' (SI/REL) Results from Proxy Discoverer must bridge low->high 5
+
+° (SI/REL) Operationalized by NAC/RONIN with NTOC support (project a
+
+PONTENTPOTABLES)
+
+' (SI/REL) See SDc2011s—
+
+ 
+    
+
+TOP SEgRET/ICOMIN REL TO USA,FVEY . . ' - .' ' _ '-10 .— F?!
+

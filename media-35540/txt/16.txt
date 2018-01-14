@@ -1,0 +1,49 @@
+(Cl/REL) Types Of IAT
+
+  
+
+° (SI/REL) VPN Anonymity Providers
+
+     
+   
+  
+  
+  
+  
+   
+  
+  
+  
+ 
+ 
+ 
+ 
+
+— (SI/REL) Server enumeration
+
+— (S/lSl/IREL) Manual work with Covered Internet (Linux/Windows) in;
+
+» (Sl/SI/IREL) Sometimes info derived from documentation
+» (Sl/SI/lREL) Sometimes need to access service
+
+» (S/lSI/IREL) May be a trial version to get “seed"
+
+» (Sl/SI/IREL) Even if paid may only get some servers
+
+» (Sl/SI/IREL) Some providers give you the works, YMMV
+>> (Sl/SI/lREL) Try to minimize work!
+
+>> (Sl/SI/lREL) Try to extend seed(S/IREL)
+
+» (Sl/SI/lREL) DNS “Pattern", ex. vpn01.hidegood.net
+
+» (Sl/SI/lREL) Use scripting/free Linux tools to exhaust space (try
+nslookup on vpn01.hidegood.net, vpn02.hidegood.net, etc.)
+
+  
+   
+
+» (Sl/SI/IREL) Open source DNS enumeration scripts (brief look) _*
+(SI/REL) Where do results go? (Again, See NAC/RONIN talk) '3“?-
+TOP SEgRET/ICOMIN REL TO USA,FVEY __ , 15 1?:
+

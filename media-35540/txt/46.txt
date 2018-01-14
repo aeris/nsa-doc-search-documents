@@ -1,0 +1,44 @@
+(SI/REL) Tor Security (2)
+
+:3"
+
+I...
+
+        
+
+   
+   
+   
+  
+   
+  
+ 
+ 
+
+1—-
+-
+
+  
+
+' “(SI/Sl/IREL) So each node can only decrypt data between its
+predecessor and itself and only knows about its predecessor
+and successor.
+
+' (S/lSI/IREL) The exit node can read the final traffic if it is not
+SSL.
+
+' (S/lSl/IREL) The user Tor client is in control of everything
+
+- (S/lSl/IREL) Setting up keys for cryptography
+- (S/lSl/IREL) Choosing the Entry, Middle, and Exit
+
+° (TS/lSl/IREL) Tor is very good — No passive
+exploitation :-(
+
+'l'df .r “til-u 3" '-' I
+. _ itha‘” We -
+
+     
+
+TOP SEgRET/ICOMIN REL TO USA,FVEY . . ' - .' ' _ ' -47 .— F?!
+

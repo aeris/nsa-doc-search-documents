@@ -1,0 +1,51 @@
+(Cl/REL) Types Of IAT
+
+  
+
+° (SI/REL) VPN Anonymity Providers
+
+     
+  
+ 
+    
+  
+ 
+ 
+ 
+   
+  
+ 
+
+— (SI/REL) Server enumeration
+
+- (Sl/SI/IREL) Use the XKEYSCORE, Luke — AKA Fun with X509
+
+— (Sl/SI/lREL) Prompted by Hotspot Shield (H88), the free service for
+which server lists are NOT readily available (Software Reverse
+Engineering required)
+
+— (SI/Sll/REL) fingerprint('encryption/hotspot_shield/x509') = $pkcs
+and $udp and 'metrofreefivpn';
+
+,.
+— (SllSll/REL) fingerprint('encryption/easy_hide_ip/x509') = $th and '55,
+
+from_port(8881) and ('lx061x091x2alx861x481x86le7lx0dlx01\xOllel'c :3“
+
+EE-
+
+ 
+
+) /*RSA */ and' ';
+
+— (SllSll/REL) fingerprint('encryption/comodo_trustconnect/XSOQ') = 5..
+$th and from_port(443) and '
+('lx061x091x2a\x86lx48lx86le7lx0dlx01\x01\x01'c) /*RSA */ and
+
+'ComodoVPNS-'; '*
+
+  
+   
+
+TOP SEgRET/i’COMIN REL TO USA,FVEY
+

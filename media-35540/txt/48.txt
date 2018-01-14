@@ -1,0 +1,35 @@
+(S/lSI/IREL) Passive Traffic Analysis
+
+  
+
+° (SI/REL) NSA Network Analysis Center “(NAC) data
+source GOLDENFORTIN
+
+— (SI/REL) Cisco Netﬂow Records
+
+° (U) From IP Address
+
+° (U) To IP Address
+
+° (U) Time Up
+
+° (U) Time Down
+
+° (U) Number of Bytes
+
+- (U) Number of Packets
+
+— (SI/REL) Heavy Representation of Tor Relays
+
+    
+   
+
+Ti“! - F '5‘" ""1""- _ '
+u. limits” Twas?- - - ‘
+
+ 
+ 
+   
+
+TOP SEgRET/ICOMIN REL TO USA,FVEY _ __ ._ ‘ _ ,. — ' ¢ . . " r- I 44:9 qr“
+

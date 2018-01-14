@@ -1,0 +1,38 @@
+     
+
+(SI/REL) Tor Security
+
+. 1-. 5*: ll It amt... #9
+
+a - ii.)
+
+      
+ 
+ 
+ 
+ 
+ 
+  
+   
+
+(Sl/Sl/IREL) As you can see from the diagram,
+everything except for final hop Is encrypted.
+
+° (S/lSl/IREL) The final hop may be also in the case of
+Bob being an SSL site.
+
+° (Sl/Sl/IREL) Two-layer TOR encryption: Pipe between
+any 2 nodes TLS encrypted (Only thing seen
+externally).
+
+° (Sl/Sl/IREL) Inside the TLS is the Onion Routing (see
+following diagram):
+
+  
+
+'r-r - r “*- ' '-:IIH- '_ _ '1
+AIME tree-w- .
+' ' _ _ a- .. ‘E'I‘ZILI' '-I-I I'l' '-_l ' .-. ..|- .
+
+TOP SEgRET/I’COMIN REL TO USA,FVEY . . ' - .' ' _ -46 .— :1!
+
