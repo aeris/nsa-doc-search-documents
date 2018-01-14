@@ -1,0 +1,43 @@
+ 
+
+Previous Work/Current Techniques
+
+ICTR-related techniques
+
+, Identification of events by content
+
+_ Tor node dictionary generation — available from web site
+
+, HOMING TROLL — Bridge discovery prototype that feeds dictionary
+
+_ Statistical deanonymisation research (MCR)
+
+, NEWTONS CRADLE (JTRIG)
+
+_ TRIBAL CARNEM (with CT)
+
+, EPIC FAIL (CT)
+
+. Bulk traffic logging
+
+_ QUICK ANT - Low latency deanonymisation. Prototype under evaluation.
+, Introducing timing patterns — report available
+
+_ Hidden service investigation — report available
+
+, Shaping research — some initial experiments.
+
+, Some extraction of hidden service domain names from passive events.
+_ Tor implementation analysis (contract task)
+
+Also some work (through contract) on Freenet.
+
+TOP SECRET STRAP 1
+
+(“FT Rﬁfﬁlumu THIE INfDFlMATIDN :5 EXEMPT UNDEFI THE FREEDOM or INFORMATION ACT 2000 [FEIIAI AND an 6E ExEMn-T UNDER :3?ch UK InranMaT-UN LEGISLATION.
+_ .J'” REFER ANV FDIA QUERIES TEI SCI-In Em
+:cmrmrus lurELLEETum. Hausa-21v awn-JED Amman MANAGED Ev EEHEI.
+-‘ THE MATERIAL Mth EE DIEEEMINATED THREIUEHDLIT THE RECIPIENT EIHEANIEATIEIN, ELI'I' EDHU FERMIEEIEIN MUST BE DETAINED FDR DIEEEMINATIDN DUTEIDE 'I'HE EIHEANIEA'I'IDN,
+
+<2???
+

@@ -1,0 +1,18 @@
+Reference: Data Sources
+
+- Tor node consensus (obtained by Tor client) —
+UNCLASSIFIED
+
+- Information on Tor Bridges — CONFIDENTIAL
+° Collection from exit nodes — SECRET
+- Passive intercept (SECRET/TOP SECRET)
+
+— SSL events in cloud(s)
+
+— Tor packet logging (ICTR system)
+— Content exiting Tor network
+
+TOP SECRET STRAP 1
+
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+

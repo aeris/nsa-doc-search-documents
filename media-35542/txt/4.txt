@@ -1,0 +1,46 @@
+Reference: Ideas (201 1)
+
+- Maintain knowledge of Tor network — Pullthrough from NE?
+
+- Log Tor events into HAKIM for target discovery — TR—FSP
+
+- Build tool to implement low latency attack? — ICTR
+
+- Collecting traffic at exit nodes to feed passive SIGINT — JTRIG
+
+- Testing of MCR passive deanonymisation technique. — MCR/JTRIG/ICTR
+
+- Active injection and detection of timing patterns (probably following test of MCR technique) —
+ICTR/JTRIG/MCR
+
+- Herding of targets through our exit nodes (THEMP) — ICTR/JTRIG
+
+- Bulk logging of hidden service onion addresses (possibly only those hosting web sites) — experiment carried
+out by ICTR
+
+- Characterisation of hidden web servers by passive analysis — ICTR?
+
+- Characterisation of hidden web servers by web crawling — ICTR?
+
+- Identification of IP addresses hosting hidden services — ICTR?
+
+- Ongoing use/maintenance of TRIBAL CARNEM — CT
+
+- Find TDIs that appear on Tor and non—tor IP addresses (EPIC FAIL) — CT
+- Understanding Tor circuit creation and destruction — ICTR contract
+
+- Understanding future developments in Tor — ICTR contract?
+
+- Spotting private Tor networks — ICTR?
+
+- TorChat investigation? — ICTR?
+
+('5le mewmu THIS INI'DDMATION :5 EXEMPT UNDEFI THE FHEEODM or INFORMATION ACT 2000 IFUIA) AND MAY 6: EXEMDT_UNDER 01'ch UK InraQMaT-UN LEGISLATION. w
+: ‘GCHQ;
+
+REFER ANV FEIIA QUERIES TEI BED-IE! :IN
+CONTAINS INI'ELLEL‘TLIAL FIREIFERTV EIWNED ANDfDﬁ MANAEED Ev GED-ID.
+
+55;
+\: THE MATERIAL Mth as DIESEMINATED 'I'HREIUEHEILIT THE RECIPIENT EIHEANIEATIEIN‘ au-r EDHIJ FERMIEEIEIN MUST BE nan-wen rm: DIEEEMINATIEIN DLITEIDE 'I'HE nasAmsArinw,
+
