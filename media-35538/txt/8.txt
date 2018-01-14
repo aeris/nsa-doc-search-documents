@@ -1,0 +1,23 @@
+UK TOP SECRET STRAP1 COMINT
+Side note: Circuit tracing
+
+- One suggestion was to track packets through each
+hop in the TOR network
+
+- We experimented with spotting all links in circuits
+created by GCHQ
+
+- Visibility was too low to be a sensible approach
+— 13 out of 8294 potential inter-TOR-router links were seen
+
+- We will directly correlate:
+— exit node traffic, and
+— traffic between client and guard node
+
+ 
+
+W This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+(CC H Q? other UK information legislation. Refer disclosure requests to GCHQ on—
+
+© Crown Copyright. All rights reserved.
+

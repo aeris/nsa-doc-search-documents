@@ -1,0 +1,26 @@
+UK TOP SECRET STRAP1 COMINT
+What is TOR?
+
+- “The Onion Router”
+
+- Hides source of traffic by passing encrypted
+
+versions of your internet traffic between multiple
+TOR routers
+
+- Notation:
+
+— “Client" — the initiator of communication
+— “Guard node" — the TOR router the client contacts
+
+— “Exit node" — the TOR router that relays your traffic to
+the final destination (with no extra encryption so this
+link can be exploited by SIGINT system)
+
+ 
+
+w This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+(CC H Q? other UK information legislation. Refer disclosure requests to GCHQ 0—
+
+© Crown Copyright. All rights reserved.
+

@@ -1,0 +1,21 @@
+UK TOP SECRET STRAP1 COMINT
+Scoring: refinements
+
+- There may be an unknown time-offset
+— Traffic takes time to relay through the TOR network
+— SIGINT clocks may not be synchronised
+
+— We slide the traces against each other and find the best
+match
+
+— Truncate to exit node trace (we know that it is a
+complete TOR circuit)
+
+ 
+
+:W‘; This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+
+other UK information legislation. Refer disclosure requests to GCHQ on —
+
+© Crown Copyright. All rights reserved.
+

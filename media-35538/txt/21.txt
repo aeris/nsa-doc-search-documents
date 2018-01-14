@@ -1,0 +1,22 @@
+UK TOP SECRET STRAP1 COMINT
+R package
+
+- An R iackaie can be downloaded from
+
+- Includes algorithm and the collected web-browsing
+data
+
+- Recommend R packages for sharing analytics, can
+contain:
+— R / C / Fortran code
+— Example data
+— Runnable examples and documentation
+— Unit tests
+
+ 
+
+ 
+
+W
+(GCHQ‘ —
+

@@ -1,0 +1,17 @@
+UK TOP SECRET STRAP1 COMINT
+Aim
+- We’ll make our task easier by assuming we own
+
+the exit node being used
+
+— Allows us to see all the traffic associated with a TOR
+circuit
+— Demultiplex traffic by (unknown) user
+
+ 
+
+:W: This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+
+other UK information legislation. Refer disclosure requests to GCHQ on—
+© Crown Copyright. All rights reserved.
+

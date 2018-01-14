@@ -1,0 +1,27 @@
+UK TOP SECRET STRAP1 COMINT
+Test data collection
+
+- Used the standard “TOR button" web-browser
+package to access TOR
+
+- Made minor changes to ensure we could collect exit
+node traffic
+1. “News”: Search for news, visit news websites
+
+2. “TOR": Browse the TOR website and then use a privacy
+checking website
+° Split into 2a and 2b as TOR changed circuit mid-way through
+
+1. “Download": visit to SlashDot followed by downloading a
+large PDF file.
+
+2. “Forum”: Search on Google followed by browsing a PC
+technical help forum.
+
+ 
+
+W This information is exempt from disclosure under the Freedom of Information Act 2000 and ma be sub'ect to exem tion under
+(C Q? other UK information legislation. Refer disclosure requests to GCHQ onﬁ
+
+© Crown Copyright. All rights reserved.
+

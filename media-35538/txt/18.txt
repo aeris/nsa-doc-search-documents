@@ -1,0 +1,73 @@
+UK TOP SECRET STRAP
+
+False positives ;
+° Linear — log ROC curve plot .1: 3
+° Server-to-client good E g”
+— We miss the very short “2a" 6
+session with no false-positives 3
+
+— Threshold r2=0.998
+
+° High as comparing increasing
+funcﬂons
+
+° Client-to-serverdirection — a
+
+many false positives
+
+— There’s less structure in data as
+less data flows in this direction
+when web-browsing
+
+True positive rate
+0 2 0 4 0 6 0 a
+
+ 
+
+0.0
+
+W This information is exempt from disclosure under the Freedom of lnfor
+(CC H Q? other UK information legislation. Refer disclosure requests to GCHQ c
+
+© Crown Copyright. All rights reserved.
+
+Server to client
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+l | l
+15-04 1e—02 ’le+00
+
+False positive rate
+
+Client to server
+
+ 
+
+ 
+
+K
+[
+
+ 
+
+ 
+
+ 
+
+l
+16-06
+
+| l |
+1e—04 15-02 1e+00
+
+False positive rate
+
