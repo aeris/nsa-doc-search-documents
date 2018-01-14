@@ -1,0 +1,26 @@
+TURMOIL/APEX/APEX High Level Description Document - WikiInfo
+
+(TS/lSI/IREL) The minimal goal for Spin 18 is to achieve VoIP phase 3 —
+HAMMERSTIEN exﬁl'd VoIP signaling is processed by an extended TURMOIL
+VoIP component which will extract the ports for the voice conversations and
+will send this information as a 5—tuple ﬁlter to HAMMERSTEIN, Via TURBINE.
+
+[edit] (U) Spin 19 goals
+
+(TS/ISI/IREL) The goal for Spin 19 is to institutionalize the APEX capability
+and continue to migrate other voice ﬂows to PRESSUREWAVE.
+
+Retrieved from
+/APEX/APEX_HiCIh_Level_DescriDtion_Document"
+
+Category: APEX
+
+TOP SECRET/ISI/IREL TO USA, EVEY
+
+Derived From: SI Classiﬁcation Guide, 02—01, Dated: 20060711
+and NSA/CSSM 1—52, Dated: 20070108
+
+Declassify On: 20320108
+
+10 of 12
+

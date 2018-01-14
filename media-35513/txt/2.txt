@@ -1,0 +1,59 @@
+TURMOIL/APEX/APEX High Level Description Document - WikiInfo
+
+KEYHOLE/IORCONIPROPINIRELIDO/REL TO USA, FVEY *
+111L691. ublUll. “r 1 L11 J. u J.\.J.'J.UJ.J_.
+
+DC Radar Task 4, Modernizing VoIP and VPN
+[edit] (U) Motivation
+
+(TS/lSI/IREL) APEX describes the cross—organizational effort to achieve a
+capability for shaping of TAO active collection from HAMMERMILL routers to
+TURMOIL, a midpoint passive collector. The collection missions for this effort
+are targeted VoIP collection (HAMMERCHANT) and collection of IPSec ﬂ
+trafﬁc (HAMMERSTEIN). The desire to have the active—passive integration
+capability is driven by three key motivations: scaling the exploitation of
+streaming content, enhancing the likelihood of success for the VPN capability,
+and eventually creating new capabilities that can't be achieved separately. In
+speciﬁc:
+
+ 
+
+o Routers exﬁltrate content in real—time as a packet stream rather than as a
+ﬁle. Current TAO backend collectors for HAMMERMILL are expected to
+be strained with a large number of streaming packet exﬁl sessions. The
+current backend capacity to receive HAMMERMILL streams is expected
+to limit the number of simultaneous VoIP 0r VPN streams that can be
+received.
+
+a The capability to decrypt selected IPSEC/ﬂ streams is built into
+TURMOIL, as is the capability to route back to CES the IPSEC key
+exchanges necessary to recover selected keys. Directing IPSEC VPN
+trafﬁc to TURMOIL puts it where it can be most efﬁciently used.
+
+0 Integration with TURMOIL and TURBINE will enable HAMMERMILL
+missions to leverage TURMOIL selection and targeting rather than
+operating stand—alone. This would make implants lighter, and less
+complex, at the expense of possibly more exﬁlled trafﬁc.
+
+(TS/lSI/IREL) The end—state goal of the APEX development is to
+
+o Achieve the real—time exﬁl of HAMMERMILL active collection and direct
+it to a TURMOIL passive collector that can recognize the trafﬁc, unwrap
+the packets from the TAO protocol, and restore the packets to their
+original state.
+
+0 Perform appropriate processing/forwarding of the unwrapped content to
+corporate repositories, and optionally perform further target
+identiﬁcation and trafﬁc selection in TURMOIL
+
+o Engage TURBULENCE storage and analytic processes for delivery of
+content to analysts
+
+0 Enable TURBINE dynamic control of both HAMMERMILL and TURMOIL,
+allowing near—real—time implant tasking based on feedback from
+TURMOIL.
+
+[edit] (U) Background
+
+Zof12
+

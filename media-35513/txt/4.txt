@@ -1,0 +1,53 @@
+TURMOIL/APEX/APEX High Level Description Document - WikiInfo
+
+(TS/lSI/lREL) The passive VPN metadata generation capability receives IKE
+packets from TURMOIL’s front—end packet ﬁltering and creates a metadata
+record for each key exchange seen, destined eventually for the TOYGRIPPE
+database. This process can be deployed anywhere a TURMOIL is deployed.
+
+(TS/lSI/lREL) The "PIQ blade" processes targeted IKE and ESP. This capability
+cannot be deployed to all TURMOIL sites, only to those that meet CES security
+constraints.
+
+(TS/lSI/lREL) The PIQ blade performs two main tasks. It checks the IKE source
+and destination addresses against a target list stored in KEYCARD. If one of
+these is targeted, it sends the key exchange packets back in near—real—time to
+CES databases via a connection directly to the CES Attack Orchestrator (A0).
+
+(TS/lSI/IREL) The PIQ blade also receives ESP trafﬁc. When a new targeted
+tunnel is observed, the PIQ blade asks the AO if a key is available and buffers
+the ESP trafﬁc as long as it can while waiting for a key If a key is returned,
+the ESP is decrypted and the underlying IP packets are made available for
+other application processing in TURMOIL. Because ESP encrypts packet—
+by—packet, the PIQ blade can begin decryption of a session when a key arrives,
+even if the earliest packets have fallen out of the buffer.
+
+[edit] (Sl/SI/IREL) TURMOIL Existing Capability - VoIP
+
+(SI/SI/IREL) TURMOIL also contains existing capability for processing VoIP
+trafﬁc, including ﬂ and H.323. Capabilities for other VoIP protocols are in
+development. The passive capability relies on seeing the signaling setting up a
+call, extracting identiﬁers related to the calling and called parties, looking up
+these identities for targeting information (via a KEYCARD lookup), and
+collecting targeted trafﬁc. TURMOIL also has the capability to generate
+metadata records for all calls, not just targeted ones, for the FASCIA database.
+
+[edit] (U) TURBINE
+
+(TS/lSI/lREL) TURBINE is focused on command and control of covert implants.
+It can execute automated workﬂows and is designed to communicate with
+TURMOIL as well as other devices, enabling integration of active and passive
+information in near—real—time. TURBINE communicates with covert implants
+via CHIMNEYPOOL messages over a covert infrastructure, and with TURMOIL
+and other devices via ISLANDTRANSPORT
+
+[edit] (TS/ISI/IREL) TOYGRIPPE and METROTUBE VPN Analytic
+
+(TS/lSI/lREL) The TURMOIL component that creates metadata records from
+all IKE key exchanges forwards ﬁles of these metadata records to the
+PRESSUREWAVE database. METROTUBE is a framework for hosting analytic
+processes that operate on items in PRESSUREWAVE. The VPN Analytic is a
+METROTUBE—hosted process that is triggered when a new ﬁle of VPN
+
+4of12
+

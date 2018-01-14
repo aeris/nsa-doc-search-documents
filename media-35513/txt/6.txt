@@ -1,0 +1,56 @@
+TURMOIL/APEX/APEX High Level Description Document - WikiInfo
+
+[edit] (S/lSI/IREL) APEX mission applications
+
+ 
+
+(TS/lSI/lREL) Initial APEX missions are collection via TURMOIL of
+HAMMERSTEIN exﬁl of VPN trafﬁc, and HAMMERCHANT exﬁl of targeted
+VoIP.
+
+(TS/lSI/lREL) HAMMERSTEIN IPSEC exﬁl is an example of trafﬁc for which
+there is an existing TURMOIL passive application. By recirculating the
+packets, the passive VPN applications will be engaged to perform their normal
+functions, though the packet stream will carry additional metadata related to
+the APEX processing.
+
+(TS/lSI/IREL) HAMMERCHANT exﬁl is an example of trafﬁc that is
+pre—selected and needs no further selection processing. Furthermore, the VoIP
+signaling is not exﬁlled along with the collection,- information such as calling
+party and called party are carried as metadata in the FASHIONCLEFT Session
+Announcement. Recirculation cannot engage the passive VoIP components to
+perform formatting for the backend databases because these passive
+processes rely on seeing the SIP or H.323 signaling. The APEX process will
+take the HAMMERCHANT sessions, extract needed metadata from the Session
+Announcements to attach to the session, and forward directly back to the
+PRESSUREWAVE repository for analytic processing.
+
+(TS/lSI/lREL) The initial APEX proof—of—concept missions — HAMMERSTEIN for
+VPN and HAMMERCHANT — will develop and demonstrate both of these paths
+
+[edit] (U) APEX Command] Control Development
+
+(TS/lSI/IREL) To enable APEX, both TURMOIL and TURBINE must be supplied
+with conﬁguration information and tasking. TURMOIL must have at minimum
+an implant ID, the address that this particular implant will put in the
+destination address of all its packets (and possibly ports), a key to unwrap the
+FASHIONCLEFT protocol, a TAO case notation to assign to the exﬁl, and
+appropriate TAO classiﬁcation markings for the exﬁl. Other conﬁguration
+metadata for the implant (PDDG, SIGAD, zip codes, etc.) may also be required.
+
+(TS/lSI/IREL) In its end—state, command and control of both the
+HAMMERMILL implant and the TURMOIL APEX components will be
+performed through TURBINE. TURBINE will be responsible for conﬁguring
+the implant with an address to send its trafﬁc to and conﬁguring a receiving
+TURMOIL with the parameters it needs to identify and process that mission's
+trafﬁc. TURBINE will be able to receive information from TURMOIL
+processing of exﬁlled trafﬁc, evaluate using a workﬂow, and deliver updated
+tasking to HAMMERMILL. Development to this end—state will occur in three
+phases:
+
+0 C&C phase 1: manual conﬁguration: HAMMERMILL is conﬁgured via its
+existing command interface. Simultaneously TURMOIL APEX is provided
+a conﬁguration ﬁle for this HAMMERMILL mission. A human is
+
+60f12
+

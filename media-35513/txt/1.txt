@@ -1,0 +1,58 @@
+TURMOIL/APEX/APEX High Level Description Document - WikiInfo
+
+The accredited security level of this system is: TOP SECRET/lSI-GAMMA/TALENT
+KEYHOLEIIORCONIPROPIN/RELIDO/REL T0 USA, FVEY *
+
+TOP SECRET/ISI/IREL TO USA, FVEY
+
+(U) TURMOIL/APEX/APEX High
+Level Description Document
+
+TOP SECRET/ISI/IREL TO USA, FVEY
+From WikiInfo
+< TURMOIL | APEX
+
+Contents
+
+[hide]
+
+ 
+
+I 1 S SI REL APEX: Active—Passive Inte ration with TURMOIL
+o 1.1 U Motivation
+0 1.2 U Back round
+1.2.1 (U) IPSEC VPN/IKE/ESP Protocols
+1.2.2 (U) HAMMERMILLZHAMMERCHANTZHAMMERSTEIN
+.2.3 (U) FASHIONCLEFT Protocol/CDR
+.2.4 (S/lSI/IREL) TURMOIL Existino Capabilitv — VPN
+.2.5 (S/lSI/IREL) TURMOIL Existina Canabilitv — VoIP
+.2.6 (U) TURBINE
+1.2.7 [TSMSIMRELI TOYGRIPPE and METROTUBE VPN
+Analﬁic
+o 1.3 (U) APEX
+I 1.3.1 (TS/ISI/IREL) HAMMERMILL exﬁl operation in APEX
+- 1.3.2 [SMSIMRELl Follow—on processing paths within TURMOIL
+I 1.3.3 (S/lSI/IREL) APEX mission applications
+0 1.4 U APEX Command Control Develo ment
+0 1.5 (Sl/SI/IREL) APEX Application development
+I 1.5.1 [TSZZSIZZRELl VPN phases
+I 1.5.2 (TS/ISI/IREL) VoIP Dhases
+I 1.5.3 [TSZZSIZZRELl Dataﬂow phases
+
+0 2 Goals by Spin
+0 2.1 U S in 15 oals
+
+o 2.2 (U) Spin 16 Goals
+0 2.3 U S in 17 oals
+o 2.4 (U) Spin 18 Goals
+0 2.5 U S in 19 oals
+
+1
+1
+1
+1
+
+[ecﬁt] (S/lSI/IREL) APEX: Active-Passive
+
+lof12
+

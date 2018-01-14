@@ -1,0 +1,53 @@
+TURMOIL/APEX/APEX High Level Description Document - WikiInfo
+
+responsible for keeping the two in sync.
+
+o C&C phase 2: semi—automatic conﬁguration for an already established
+presence: TURBINE receives the parameters for a mission and in an
+automated fashion conﬁgures both the HAMMERMILL implant and the
+corresponding TURMOIL APEX components. The TURBINE—
+HAMMERMILL interface will use CHIMNEYPOOL RPC commands, and
+the TURBINE—TURMOIL interface will use ISLANDTRANSPORT
+HAMMERMILL 2.5 is the HAMMERMILL version that can receive
+CHIMNEYPOOL commands and is required for phase 2. HAMMERMILL
+2.5 will be available only for low—end MIPS platforms.
+
+- C&C phase 3: dynamic targeting for an already established presence:
+TURBINE sets initial conﬁguration parameters as in Phase 2. Exﬁlled
+trafﬁc is evaluated by TURMOIL components for potential additional
+targeting information. TURMOIL messages to TURBINE to dynamically
+target a particular ﬂow through the router. An example is receiving an
+IKE key exchange (and possibly a few initial packets), evaluating the IP
+addresses to decide if the VPN being set up corresponds to a target, and
+messaging back to HAMMERMILL to capture and exﬁl the corresponding
+ESP.
+
+(TS/lSI/lREL) Phase 3 of control must be managed so that router exﬁl does not
+exceed the tolerable bandwidth limits set by OPSEC and operational concerns.
+TURBINE may need to implement additional workﬂows in support of Phase 3
+to monitor and control exﬁl volume. These workﬂows will have to be designed
+to ﬁt the metrics and monitoring information that HAMMERMILL and APEX
+are capable of providing.
+
+[edit] (Sl/SI/IREL) APEX Application development
+[m] (TS/lSI/IREL) VPN phases
+
+(TS/lSI/IREL) The development of the VPN process via APEX will proceed in a
+phased fashion.
+
+0 VPN phase 1: IKE metadata only: IKE packets are exﬁled to TURMOIL
+and unwrapped by APEX, recirculated and presented to the VPN
+processing components. Metadata is extracted from each key exchange
+for the CES TOYGRIPPE metadata database. This database is used by
+SIGDEV analysts to identify potential targets for further exploitation.
+
+o VPN phase 2: Targeted IKE forwarding: In addition to the metadata
+generation, the IKE addresses are looked up in KEYCARD. If either IP
+address is targeted, the key exchange packets are forwarded to the CES
+Attack Orchestrator.
+
+I VPN phase 3: Static (manual) tasking of ESP: HAMMERSTEIN may be
+statically (manually) tasked to forward targeted ESP. The exﬁltrated ESP
+
+7of12
+

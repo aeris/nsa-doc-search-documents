@@ -1,0 +1,53 @@
+TURMOIL/APEX/APEX High Level Description Document - WikiInfo
+
+packets are unwrapped by APEX, recirculated and presented to the VPN
+processing components for potential decryption.
+
+a VPN phase 4: ESP dynamic targeting: Based on the value returned by
+KEYCARD, the ESP for a particular VPN may be targeted as well.
+TURMOIL will send HAMMERSTEIN (via TURBINE) the parameters for
+capturing the ESP for the targeted VPN.
+
+[edit] (TS/lSI/IREL) VoIP phases
+
+(TS/[SI/lREL) HAMMERCHANT currently maintains its own list of targeted
+VoIP entities. It extracts identities from SIP or H.323 signaling, checks against
+its target list, and exﬁls only the voice content for targeted calls. This model
+could be expanded in the future using HAMMERSTEIN.
+
+0 VoIP phase 1: HAMMERCHANT Collect: HAMMERCHANT targeted VoIP
+RTP exﬁl is captured by TURMOIL. An APEX forwarding component
+bundles the voice packets into a ﬁle, attaches appropriate metadata, and
+delivers to PRESSUREWAVE. A variant of the passive VoIP analytic will
+be triggered to prepare the exﬁl for corporate delivery
+
+a VoIP phase 2: HAMMERCHANT Survey: HAMMERCHANT monitors all
+VoIP SIP and H.323 signaling and exﬁltrates all call signaling metadata to
+TURMOIL. An APEX component puts the call signaling metadata into an
+ASDE record and publishes it to the TURMOIL Asdeeporter component.
+
+0 VoIP phase 3: HAMMERSTEIN: VoIP signaling is captured by
+HAMMERSTEIN using port information. The signaling is exﬁled to
+TURMOIL and unwrapped. This signaling is then presented to the normal
+TURMOIL VoIP processes. The metadata process will create metadata
+records for FASCIA. The collection process will extract identiﬁers from
+the signaling and check against KEYCARD to decide if the identiﬁers are
+targeted. If either calling party identiﬁer or called party identiﬁer is
+targeted for active exﬁl, then an extended TURMOIL VoIP component will
+extract the ports for the voice conversations and will send this
+information as a 5—tuple ﬁlter to HAMMERSTEIN, via TURBINE.
+
+(TS/lSI/IREL) Implementation of the VoIP Phase 2 and 3 processes will be
+driven by mission need. The VoIP Phase 3 process should be advantageous in
+allowing HAMMERMILL to potentially expand beyond SIP and H.323 VoIP
+collection without additional code development in the implant, leveraging
+passive processing code.
+
+[edit] (TS/lSI/IREL) Dataﬂow phases
+0 Dataﬂow Phase 1: Dataﬂow tested: Collected IKE is sent to CES
+
+database. Collected targeted data is deposited into PRESSUREWAVE and
+analysts can query and view the data.
+
+80f12
+

@@ -1,0 +1,52 @@
+TURMOIL/APEX/APEX High Level Description Document - WikiInfo
+
+[edit] (U) IPSEC VPN/IKE/ESP Protocols
+
+(TS/lSI/lREL) IPSec describes a suite of protocols for creation of VPN tunnels
+between devices. ﬂ is the protocol used to exchange cryptographic
+parameters and establish a secure tunnel. E_SP is the protocol that performs
+the packet—by—packet encryption. A wide variety of algorithms of varying
+strengths may be used within IPSEC. CES generally requires the packets from
+both sides of an IKE exchange and knowledge of the associated pre—shared key
+(PSK) in order to have a chance of recovering a key for the corresponding
+cipher (ESP). A major goal of APEX is to access two sides of key exchanges for
+trafﬁc of interest.
+
+[edit] (U) HAMMERMILL/HAMMERCHANT/HAMMERSTEIN
+
+(TS/lSI/IREL) HAMMERMILL is the base capability for implants on a family of
+routers. Built on HAMMERMILL are a suite of mission applications for
+collection of various types of trafﬁc. HAMMERMILL uses FASHIONCLEET to
+exﬁl a copy of targeted data as a packet stream.
+
+(TS/lSI/lREL) HAMMERMILL 2.0 is deployed and is commanded by a custom
+command interface. Targeting information must be delivered via these
+manually initiated commands to the HAMMERMILL application.
+HAMMERMILL 2.5 is designed to accept command and control via
+CHIMNEYPOOL messages and is awaiting testing.
+
+(TS/lSI/IREL) HAMMERSTEIN is a HAMMERMILL application module that is
+tasked to collect all packets that match a 5—tuple ﬁlter of source and
+destination IP address, source and destination port, and protocol.
+HAMMERSTEIN can collect IKE and ESP based on a 5—tuple ﬁlter.
+HAMMERCHANT is an application module that identiﬁes VoIP (H.323/SIP)
+signaling passing through the router, extracts the user identiﬁers, and collects
+the call if one of the users corresponds to an entry on its target list.
+
+[edit] (U) FASHIONCLEFT Protocol/CDR
+
+(TS/lSI/lREL) FASHIONCLEFT is the protocol used by HAMMERMILL and
+other TAO implants to deliver collected data back to the TAO Common Data
+Receptor (CDR). FASHIONCLEFT precedes an exﬁl session with a strongly
+encrypted Session Announcement that describes the parameters of the exﬁl
+sessmn.
+
+[edit] (S/lSI/IREL) TURMOIL Existing Capability - VPN
+(TS/lSI/IREL) TURMOIL is a passive ﬁltering and collection device targeting
+high—speed networks. Within TURMOIL are existing (passive) IPSEC
+
+processing capabilities, processing IKE and ESP packets identiﬁed by the
+TURMOIL front—end ﬁltering.
+
+30f12
+

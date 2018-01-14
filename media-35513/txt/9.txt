@@ -1,0 +1,57 @@
+TURMOIL/APEX/APEX High Level Description Document - WikiInfo
+
+o Dataﬂow Phase 2: Migrate additional HAMMERSTEIN voice ﬂows to
+PRESSUREWAVE. Exﬁl all signaling via port selection and let the normal
+TURMOIL selection process select it.
+
+o Dataﬂow Phase 3: Institutionalize APEX capability and continue to
+migrate other voice ﬂows to PRESSUREWAVE.
+
+[edit] Goals by Spin
+
+[edit] (U) Spin 15 goals
+
+(TS/lSI/lREL) The minimal goal for Spin 15 is to achieve VPN phase 1 — IKE
+metadata extraction using C&C phase 1 — manual conﬁguration. The APEX
+VPN goal is complete when a CES / TAO VPN analyst validates the SRI and the
+IKE metadata content in TOYGRIPPE. See TURMOIL Spin 15
+
+StomﬁReguirements ’
+
+(TS/lSI/IREL) A highly desirable goal for Spin 15 is to achieve VoIP phase 1 —
+HAMMERCHANT capture — with CSzC phase 1 — manual conﬁguration. The
+APEX VoIP goal is complete when a VoIP analyst validates that RTP bundled by
+TURMOIL is correctly processed by the VoIP analytic and stored in
+CONVEYAN CE.
+
+[edit] (U) Spin 16 goals
+
+(TS/lSI/lREL) The minimal goals for Spin 16 are
+
+0 to achieve VPN phases 2 and 3 — targeted IKE forwarding and static
+tasking of ESP using C&C phase 2 — semi—automatic conﬁguration of
+HAMMERMILL and TURMOIL APEX components.
+
+a to achieve VoIP phase 1 — HAMMERCHANT targeted VoIP RTP exﬁl is
+captured by TURMOIL.
+
+o to achieve Dataﬂow phase 1 — Collected IKE is sent to CES database.
+Collected targeted data is deposited into PRESSUREWAVE and analysts
+can query and view the data.
+
+[edit] (U) Spin 17 goals
+
+(TS/lSI/IREL) The minimal goals for Spin 17 are
+
+0 to achieve CSzC phase 3 and VPN phase 4 — ESP dynamic targeting
+using TURBINE.
+
+o to achieve VoIP phase 2 — HAMMERCHANT Survey
+
+0 to achieve Dataﬂow Phase 2 — Migrate additional HAMMERSTEIN voice
+ﬂows to PRESSUREWAVE.
+
+[edit] (U) Spin 18 goals
+
+90f12
+

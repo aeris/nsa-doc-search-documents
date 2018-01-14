@@ -1,0 +1,57 @@
+TURMOIL/APEX/APEX High Level Description Document - WikiInfo
+
+metadata arrives in PRESSUREWAVE. This process extracts the ﬁle, converts
+the records into a format that TOYGRIPPE ingests, and forwards the result to
+TOYGRIPPE. To support APEX, all three of the components manipulating the
+metadata — the TURMOIL metadata extractor, the VPN analytic and the
+TOYGRIPPE database — require modiﬁcation to support the additional
+information about the data source that APEX provides (see Analytic
+Challenges from APEX ’ ).
+
+[edit] (U) APEX
+
+(TS/ISI/IREL) Currently HAMMERMILL exﬁls its packets by sending both the
+EASHIONCLEET session announcement and the exﬁlled packet stream to one
+of the Common Data Receptor addresses. APEX changes the operation of
+
+HAMMERMILL eXﬁl.
+
+[edit] (TS/lSI/IREL) HAMMERMILL exﬁl operation in APEX
+
+ 
+
+o The destination address for HAMMERMILL exﬁl is set to direct the trafﬁc
+to a link that a TURMOIL can see.
+
+0 The TURMOIL APEX components are conﬁgured with the HAMMERMILL
+destination address and any ports needed to identify potential
+HAMMERMILL trafﬁc with a 5—tuple ﬁlter. The APEX components are also
+provided with parameters needed to decrypt the EASHIONCLEET
+protocol and reconstruct the exﬁlled packets to their original form.
+
+0 The APEX code unwraps the EASHIONCLEET protocol, reconstructs the
+packets and directs them to an application—speciﬁc process (currently
+VoIP or VPN). This process is responsible for properly handling the
+application metadata delivered in the Session Announcement (e.g.
+to/from phone numbers for VoIP), the exﬁlled packets, and the
+conﬁguration information in the TURMOIL conﬁguration ﬁle to mark and
+direct datato the appropriate path for further processing.
+
+[edit] (Sl/SI/IREL) Follow-on processing paths within TURMOIL
+
+(TS/ISI/IREL) After APEX unwraps EASHIONCLEET, the reconstructed packets
+can be directed to one of two follow—on processing paths within TURMOIL,
+depending on the nature of the application: recirculation or forwarding.
+
+(TS/lSI/IREL) The recirculation path presents the APEX—unwrapped packets
+and metadata to the TURMOIL ﬁltering components as if they arrived on
+TURMOIL’s passive input. The recirculated packets can then engage
+TURMOIL’s passive processing and selection.
+
+(TS/ISI/IREL) The forwarding path bundles the reconstructed packets together
+with appropriate metadata and sends the bundle home through the normal
+TURMOIL forwarding path to PRESSUREWAVE, where further analytic
+processes may be run to prepare the data for corporate consumption.
+
+50f12
+
