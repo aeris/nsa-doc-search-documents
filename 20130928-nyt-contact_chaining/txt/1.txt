@@ -1,0 +1,38 @@
+{5,1Ir IS! I I REL} New Contact-chaining Procedures to Allow Better,
+Faster Analysis
+
+FsoM: -
+-
+
+Run Date: o1fo3f2o11
+
+ 
+
+(UHFDUD) Editor’s note: A brieﬁng will be held on 3‘ January from moo—1130
+in the Friedman Auditorium at NSAW regarding the new procedures described
+below. All SID employees are welcome to attend.
+
+ 
+
+(SEISIHREU Analysts and Mission Managers: ﬂu 29 November, SIGI'NT
+- signed SID Management Directive iSMDl $124, which changes
+procedures regarding metadata analysis. Speciﬁcally, these new procedures
+permit contact chaining, and other analysis, from told through
+my selector, irrewectiue of nationality or location, in ortler to
+ﬁllow or discover valid foreign intelligence targets. [Formerly
+analysts were required to determine whether or not selectors were associated
+with US communicants.)
+
+(U) The hupact
+
+(SJJSIHREU These new procedures allow NSA to fully exploit
+communications metadata (which is stric’dy defined in the procedures), for
+foreign intelligence purposes, widiont the restrictions associated with selection
+of communications content. The impact of the new procedures is two—fold. In
+the ﬁrst place it allows NSA to discover and track connections between foreign
+intelligence targets and possible 2nd Party or US communicants. [n the second
+place it enables large—scale graph analysis on very large sets of
+communications metadata without having to check foreignness of every node
+or address in the graph. Analysts in 52 have used this to great beneﬁt over the
+past year and a half under a pilot program.
+

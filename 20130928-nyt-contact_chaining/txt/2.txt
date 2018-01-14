@@ -1,0 +1,42 @@
+(U) Compliance Issues
+
+(SHEIHREU SIGJNT Management Directive 424 (“SIGINT Development ——
+Communications Metadata Analysisr] provides guidance on the NSAECSS
+implementation of the “Department of Defense Supplemental Procedures
+Governing Conununications Metadata Analysis” [SPClitiA], as approved by the
+U.S. Attorney General and the Secretary of Defense. The SPCMA oovers
+communications metadata collected under Executive lDrder 12333 authorities.
+
+{5 f ,r" S] f ,I' REL] As does any new authority or capability, the Supplemental
+Procedures [SPCMA) come with a cost in terms of additional care that we must
+talre with respect to compliance responsibilities and obligations. The
+primary new responsibility is the requirement:
+
+- to enter a foreign intelligence (Fﬂjustiﬁcaﬁon for making a query
+or sterling a chain,
+
+and
+- to perform spot-checks of user queries.
+
+Additionally, the analyst must remain cognizant of minimisation procedures
+associated with retention and dissemination of US person information.
+SPCMA covers analytic procedures and does not affect existing procedures
+for collection, retention or dissemination of US person information.
+
+(5,! SL-Ir f REL) SPCMA obligations also include the need for additional training
+on what the procedures do and do not cover, advisory banners on SPCIiiA
+enabled metadata databases, query auditing, and annual reports to the
+Department of Justice. Details on this implementation are included in
+sate—424.
+
+(U) Next Steps
+
+(SKISIHREU In order to take advantage of the Supplemental Procedures
+(SPCMA), analysts will need to be identified for use of SPCliiA through their
+mission—management chain and complete the online informational brieﬁng.
+This will be managed through GATEKEEPER andfor' the Account Admin
+processes. In addition to the required online informational brieﬁng, a series of
+live information brieﬁngs are being planned. The ﬁrst of these will be held in
+the Friedman Auditorium on '9' January from moo—1130, and is open to all SID
+employees.
+
