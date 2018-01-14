@@ -1,0 +1,73 @@
+Business Records FISA (U.S. Call Records)
+
+For counterterrorism purposes - a program me am mew mm Help
+deSIgned to Identify the communications of a as to E E -‘:= 9
+persons suspected to be assouated With watemme Fromnuaress
+
+2013—148“): 22:35:11 8 9999875543X)0(
+
+terrorist organizations communicating with 201mm mm 399W”
+IndIVIduals InSIde the U.S. 20‘3‘M"28“3"51‘8'99"55"""°‘
+
+2013—May—1 0 20:22:05 '5' 9999876543xxx
+2013-May—1S 18:30:11 8 gggga7ss43x>o<
+
+Io Address
+hE 99999999999xxx
+
+H5 777777777777xxx
+8 9999375543x>o<
+'5 19487418XXX
+f 997234567XXX
+
+Length
+0
+
+24
+39
+o
+124
+
+Site
+LB TELCOM
+us TELCOM
+US TELCOM
+us TELCOM
+us TELCOM
+
+ge-
+
+lb?
+
+Source
+FlSA—BR
+
+A
+
+FlSA—BR :
+
+FISA—BR
+FISA—BR
+FlSA—BR
+
+93 94 95 96797 98 99 00 01 02 03 O4 05 06 O7 08 O9 ‘10 11 12 '13
+
+Date/Time of call - Content of calls
+Calling number (from address)
+Called number (to address)
+Duration of call (length)
+
+Origin of metadata record (site/source) —NO names
+—NO addresses
+
+—NO voice communication
+—NO SMS/text messages
+- Subscriber information
+
+—NO credit card numbers
+- Locational Information
+
+Focused on defending the homeland
+
+ 
+
