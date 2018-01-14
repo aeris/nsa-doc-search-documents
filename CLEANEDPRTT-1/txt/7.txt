@@ -1,0 +1,30 @@
+WWW
+
+definitions to the devices described in the application presents
+two primary questions: {1) Does the information to be obtained
+constitute “dialing, routing, addressing, or signaling
+information" that does not include the “COntents" of any
+communication? (2} Does the means by which such information
+would be obtained come within the definition of “pen register” or
+“trap and trace device?" In addressing these questions, the
+Court is mindful that “when the statute's language is plain, the
+sole function of the courts — at least where the disposition
+required by the text is not absurd — is to enforce it aCCording
+to its terms-” Lamie v. United States Trustee, 124 S. Ct. 1023,
+
+1030 (2004} (internal quotations and Citations omitted}.
+
+ 
+
+ 
+
+A. The Information to Be Obtained Is “Dialinq. Routinq,
+Addressinq. or Siqnalinq Information” and Not
+“Contents."
+
+The Government uses the umbrella term “meta data" to
+
+dosigrate the categories of information it proposes to collect.
+
+ 
+

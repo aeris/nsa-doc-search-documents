@@ -1,0 +1,32 @@
+—TBf—ﬂEeﬂET¥+H€Sf¥€6ﬁiﬁ¥ffﬂ6¥6ﬁﬁ-—
+meta data. SeeI e.g.t pages 19, 50—51 above. This section
+explains the basis for that conclusion.
+
+First, as a general matter, there is no reasonable
+expectation of privacy under the Fourth Amendment in the meta
+data to be collected. This conclusion follows directly from the
+reasoning of Smith v. Maryland, 442 U.S. 735 (1979), which
+concerned the use of a pen register on a home telephone line. In
+that case, the Supreme Court found that it was doubtful that
+telephone users had a subjective expectation of privacy in the
+numbers they dialed, id. at 742-43, and that in any case such an
+expectation “is not ‘one that society is prepared to recognize as
+reasonable.’” id. at 743 (quoting Kat: v. United States, 389 U.S.
+347, 361 (1967)). The Court “consistently has held that a person
+has no legitimate expectation of privacy in information he
+voluntarily turns over to third parties," since he “assume[s] the
+risk" that the third party would reveal that information to the
+government. gg. at 743—44.“ The Co rt found this principle
+applicable to dialed phone numbers. regardless of the automated
+
+means by which the call is placed and the “fortuity of whether or
+
+ 
+
+” This principle applies even if there is an understanding
+that the third party will treat the information as confidential.
+See SEC v. Jerry T. O’Brien. Inc., 467 U.S. 735, 743 (1934);
+United States v. Miller, 425 U.S. 435, 443 (1976).
+
+59
+

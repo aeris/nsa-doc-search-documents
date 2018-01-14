@@ -1,0 +1,27 @@
+WWW
+
+not being conducted solely on the basis of activities protected
+by the First Amendment. However. the unusual breadth of this
+collection and its relation to the pertinent FBI investigations
+calls for further attention to this issue. In the usual case,
+the FBI conducts pen register and trap and trace surveillance of
+a particular communications facility (egg;, a phone number or e—
+mail address) because it carries communications of a person who
+is the subject of an FBI investigation. The required
+certification typically varies depending on whether the subject
+is a U.S. person: if not, the certification will state. in the
+language-of § 1842(c)(2}, that the information likely to be
+obtained “is foreign intelligence information not concerning a
+United States person;" if the subject is a U.S. person, the
+certification will state that such information is “relevant to an
+ongoing investigation to protect against international terrorism
+., provided that such investigation of a United States person
+is not conducted solely upon the basis of activities protected bv
+the first amendment to the Constitution.” This usual practice
+conforms to the clear statutory purpose that pen register/trap
+and trace information about the communications of U.S. persons
+
+will not be targeted for collection unless it is relevant to an
+
+56
+

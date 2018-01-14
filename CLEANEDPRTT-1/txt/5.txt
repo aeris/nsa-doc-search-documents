@@ -1,0 +1,44 @@
+49W
+
+in 18 U.S.C. § 3127. ee 50 U.S.C. § 1841(2). Section 3127
+
+gives the following definitions:
+
+(3) the term “pen register" means a device or process
+which records or decodes dialing, routing, addressing,
+or signaling information transmitted by an instrument
+or facility from which a wire or electronic
+communication is transmitted, provided, however, that
+such information shall not include the contents of any
+communication, but such term does not include any
+device or process used by a provider or customer of a
+wire or electronic communication service for billing,
+or recording as an incident to billing, for
+communications services by such provider or any device
+or process used by a provider or customer of a wire
+communication service for cost accounting or other like
+purposes in the ordinary course of business;
+
+(4} the term “trap and trace device" means a device or
+process which captures the incoming electronic or other
+impulses which identify the originating number or other
+dialing, routing, addressing, and signaling information
+reasonably likely to identify the source of a wire or
+electronic communication, provided, however, that such
+information shall not include the contents of any
+
+communication.
+These definitions employ three other terms — “electronic
+communication,” “wire communication,” and “contents" - that are
+
+themselVHs gaverned by statutory definitions “set forth for such
+terms in section 2510" of title 18. 18 U.S.C. § 3127(1).
+Section 2510 defines these terms as follows:
+
+(1) “Electronic communication” is defined at 18 U.S.C.
+§ 2510(12} as “any transfer of signs, signals, writing, images,
+
+sounds, data, or intelligence of any nature transmitted in whole
+
+WWW
+

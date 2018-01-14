@@ -1,0 +1,38 @@
+ 
+
+Finally, the proposed collection does not involve “any device or
+
+process used . . . for billing, or recording as an incident to
+billing, for communications services . . . or . . . for cost
+accounting or other like purposes," which is excluded from the
+definition of “pen register" under section 3127(3).
+
+Accordingly, based on “the language employed by Congress and
+the assumption that the ordinary meaning of that language
+accurately expresses the legislative purpose," Engine Mfrs. Ass‘n
+v. South Coast Air Quality Mgmt. Dist., 124 S. Ct. 1756, 1761
+(2004} {internal quotations and citation omitted), the Court
+
+concludes that the means by which the NSA proposes to collect
+
+ 
+
+” For CuuL LE ieftrencs, thin Opinion and Order generally
+
+speaks of “electronic communications." The communication
+involved will usually be an “electronic communication” under the
+above-quoted definition at 18 U.S.C. § 2510(12). In the event
+that the communication consists of an “aural transfer," i.e., “a
+transfer containing the human voice at any point between and
+including the point of origin and the point of reception,” id.
+
+§ 2510(18), then it could fall instead under the above—quoted
+definition of “wire communication" at § 2510(1). In either case,
+the communication would be “a wire or electronic communication,"
+as required to fall within the definitions at §§ 3127(3) and
+3127 (4).
+
+W
+
+14
+

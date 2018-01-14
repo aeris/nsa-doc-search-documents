@@ -1,0 +1,32 @@
+—49P—ﬁEeRETffﬂﬁﬁffﬁﬁﬁfﬁfffﬁﬁfﬂﬁﬁ“
+meta data in Categories I - I above falls under the
+
+definition of “pen register” at section 3127(3).
+
+The application also seeks authority to collect at least
+some of the same meta data by the same means under the rubric of
+a “trap and trace device” as defined at section 3127(4).
+Although it appears to the Court that all of the collection
+authorized herein comes within the definition of “pen register,"
+
+the Court additionally finds that such collection, as it pertains
+
+to meta data in Categories I - I - _
+
+ 
+      
+
+(for example, information from the “from" line of
+an e—mail), also satisfies the definition of “trap and trace
+device" under section 3127(4).
+
+Under section 3127(4), a “trap and trace device" is “a
+device or process which captures the incoming electronic or other
+impulses which identify the originating number or other [non-
+contentl dialing, routing, addressing, and signaling information
+reasonably likely to identify the source of a wire or electronic
+
+cemmunication." As discussed above, the proposed collection
+
+would use a device or process to obtain non-content meta data I
+

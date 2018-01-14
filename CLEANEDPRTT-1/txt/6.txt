@@ -1,0 +1,50 @@
+W
+
+or in part by a wire, radio, electromagnetic, photoelectronic or
+
+photooptiCIl system that affects interstate or foreign commerce,
+
+but does not include — (A) any wire or oral communication."5
+
+(2) “Wire communication” is defined at 18 U.S.C. § 2510(1)
+
+as
+
+any aural transfer made in whole or in part through the
+use of facilities for the transmission of
+communications by the aid of wire, cable, or other like
+connection between the point of origin and the point of
+reception . . . furnished or operated by any person
+Engaged in providing or operating such facilities for
+the transmission of interstate or foreign
+communications or communications affecting interstate
+
+or foreign commerce.
+
+(3) “Contents" is defined at 18 U.S.C. § 2510(8) to
+“include[] any information concerning the substance, purport, or
+meaning" of a “wire, oral, or electronic communication."6
+
+While the definitions of “pen register" and “trap and trace
+
+device" each contain several elements, the application of these
+
+ 
+
+5 ‘l'he ether exclusions to this definition at S 3510(13) (E)—
+(D) are not relevant to this case.
+
+5 Different definitions of “wire communication" and
+“contents" are provided at 50 U.S.C. § 1801(1), (n). However,
+the definitions set forth in § 1801 apply to terms “[a]s used in
+this subchapter," i.e., in 50 U.S.C. §§ 1801—1811 (FISA
+subchapter on electronic surveillance), and thus have no bearing
+on the meaning of “wire communication” and “contents" as used in
+the definitions of “pen register” and “trap and trace device”
+applicable to §§ 1841—1846 (separate FISA subchapter on pen
+registers and trap and trace devices).
+
+4W
+
+6
+

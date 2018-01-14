@@ -1,0 +1,36 @@
+ 
+
+These avenues of discovery made possible by archived meta data
+
+provide the basis for NSA’s assertion that bulk collection to
+
+accumulate a meta data archive “will substantially increase NSA’s
+
+ability to detect and identify members of —
+_ DIRNSA Declaration at 15.
+
+6. How FBI Investigations Would Benefit from the NSA’s
+Collection and Analysis
+
+ 
+
+The Government asserts that NSA's collection and analysis of
+this meta data will be relevant to_BI
+investigations in two ways. First, ongoing FBI investigations
+may develop grounds for reasonable suspicion that particular
+accounts are used in furtherance of —
+- The FBI may identify such accounts to NBA for use as
+“seed" accounts. Using the methods described above, NSA may
+obtain from the archive”. data other accounts that are in contact
+with. or appear to have the same user as, the “seed" account.
+This information may then be passed to the FBI as investigative
+leads in furtherance of its investigation. Memorandum of Law and
+Fact at 27—28. Alternatively, NSA querying of the archived meta
+data based on information from sources other than the FBI may
+
+identify accounts that appear to be used by someone involved in
+
+W
+
+45
+
