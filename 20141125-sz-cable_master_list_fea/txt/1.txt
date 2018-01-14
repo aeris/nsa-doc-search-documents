@@ -1,0 +1,42 @@
+Cable Master List
+Cable
+
+Owners
+
+Landing Partner SHT
+Non_Partner
+
+HFS Year
+
+UK Landing Point
+
+UK Landing Point Group
+Landings
+
+Foreign Landing Categories
+Ge
+
+Fibre Pairs
+
+Potential Capacity
+I Lit Capacity
+
+Flag EA
+
+Reliance Globalcom
+GERONTIC (Backhaul EA -FA)
+Reliance
+
+Porthcurno
+
+Porthcurno
+
+UK,Asia
+
+Europe, Middle East, Asia
+1 0Mbps-1 Gb E
+
+2
+
+Potential: 2fp*40*1OG
+
