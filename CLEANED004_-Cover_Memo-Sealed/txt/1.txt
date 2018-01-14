@@ -1,0 +1,53 @@
+WWW
+
+NATIONAL SECURITY AGENCY
+FORT GEORGE G. MEADE. MARYLAND 20755-5000
+
+ 
+
+JUN 2 91099
+
+MEMORANDUM FOR STAFF DIRECTOR, HOUSE PERMANENT SELECT
+COMMITTEE ON INTELLIGENCE
+
+SUBJECT: (U) Notiﬁcation and Update -- INFORMATION MEMORANDUM
+
+(U) This is to provide written notiﬁcation on matters brought to the Committee‘s
+attention by way of oral notification to Committee staff directors on June 25, 2009.
+
+(Mm—Over the past several months, working with the Department of Justice
+(DOJ) and the Ofﬁce of the Director of National Intelligence (ODNI), NSA has been
+systematically reviewing its technologies and methods of handling the Business
+Records ( BR) and Pen Registeri‘Trap & Trace (PR/TT) data we obtain under Orders
+of the Foreign Intelligence Surveillance COurt (F'ISC). These reviews have
+uncovered several compliance matters that we have disclosed to the Court and this
+Committee. In large part, these compliance issoes concern internal information
+systems are * _, - ' ' " ' ' ' and
+PRITT data
+Inadequate a en ion 0 iese 11‘1 erna sys ems an em sys ems are i ec ure
+resulted in a failure to fully comply with the procedures the Court imposed in thc
+handling of data under the F180 Order. NSA is identifying, reporting, and
+remediating these matters.
+
+ 
+  
+     
+
+IISﬂSlLihLEl—We have made substantial progress along these lines, and the enclosed
+report on the Business Records FISA end—to—end review details our progress thus
+far. As the report is highly technical in part, we offer to provide a brieﬁng outlinng
+our ﬁndings. We will provide additional information as it emerges; in particular, we
+will need to supplement the report with an additional section recently required by
+the FISC, as discussed in section 3. Once work on the additional required section
+has been completed, a supplement to the report will be prepared and provided to the
+Committee. The joint review process is ongoing, and we will continue to keep the
+Committee informed.
+
+(EMS-IMGonsistent with this commitment, NSA has begun a comprehensive
+review of' the PRfTT platform that operates pursuant to FISC authority. This
+PR/TT review will mirror closely the rigorous review process of the BR platform.
+
+(U) As these reviews uncover new issues, we will continue to work to resolve them
+with the FISC. The Court has recently approved several aspects of our work that we
+had earlier reported, and these are detailed below. At the same time, the Court
+
