@@ -1,0 +1,58 @@
+TOP SECRET//€OMTNT//NOEORNNZS320108
+
+ 
+
+EXHIBIT A
+
+PROCEDURES USED BY THE NATIONAL SECURITY AGENCY EOITTA‘EEGETIW} n 3: i ‘“
+
+NON—UNITED STATES PERSONS REASONABLY BELIEVED TO B EJOQAT‘EOI H _____
+
+OUTSIDE THE UNITED STATES TO ACOUIRE FOREIGN TNTEL TGENUE ‘- 15:“; ‘2
+INFORMATION PURSUANT TO SECTION 702 OF THE FOREIGN INTELLIGENCE
+
+SURVEILLANCE ACT OF 1978, AS Aft/[ENDED
+
+(S) These procedures address: (I) the manner in which the National Security A gency/Central
+Security Service (NSA) will determine that a person targeted under section 702 of the Foreign
+Intelligence Surveillance Act of 1978, as amended ("the Act"), is a non—United States person
+reasonably believed to be located outside the United States ("foreignness determination”); (II)
+the post-targeting analysis done by NSA to ensure that the targeting of such person does not
+intentionally target a person known at the time of acquisition to be located in the United States
+and does not result in the intentional acquisition of any communication as to which the sender
+and all intended recipients are known at the time of acquisition to be located in the United States;
+(III) the documentation of NSA‘s f01 e1 gnness determination; (1V) compliance and oversight; and
+(V) departures from these procedures.
+
+I. (U) DETERMINATTON OE WHETHER THE ACQUISITION TARGETS NON-
+UNITED STATES PERSONS REASONABLY BELIEVED TO BE LOCATED OUTSIDE
+THE UNITED STATES
+
+(S) NSA determines whether a person is a non-United States person reasonably believed to be
+outside the United States in light of the totality of the circumstances based on the information
+available with respect to that person, including information concerning the communications
+facility or facilities used by that person.
+
+(8) NSA analysts examine the following three categories of information, as appropriate under the
+circumstances, to make the above determination: (1) they examine the lead information they
+have received regarding the potential target or the facility that has generated interest in
+conducting surveillance to determine what that lead information discloses about the person's
+location; (2) they conduct research in NSA databases, available reports and collateral
+information (i.e., information to which NSA has access but did not originate, such as reports
+from other agencies and publicly available information) to determine whether NSA knows the
+location of the person, or knows information that would provide evidence concerning that
+location; and (3) they conduct technical analyses of the facility or facilities to determine or verify
+information about the person's location. NSA may use infonnation from any one or a
+combination of these categories of information in evaluating the totality of the circumstances to
+determine that the potential target is located outside the United States.
+
+(TS//Sl) In addition, in those cases where NSA seeks to acquire communications about the
+target that are not to or from the target, NSA will either employ an Internet Protocol ﬁlter to
+ensure that the person from whom it seeks to obtain foreign intelligence information is located
+
+Derived From: NSA/CSSM 1—52
+Dated: 20070108
+Declassify On: 20320108
+
+TOP SECRETI/COMINTUNOEORN//20320108
+

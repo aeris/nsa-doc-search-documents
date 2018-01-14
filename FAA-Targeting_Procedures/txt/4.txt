@@ -1,0 +1,55 @@
+T0? SECRET/lCOWNTl/NOFORPM/20320108
+
+(S) In the absence of speciﬁc information regarding whether a target is a United States person, a
+person reasonably believed to be located outside the United States or whose location is not
+known will, be presumed to be a non—United States person unless such person can be positively
+identiﬁed as a United States person, or the nature or circumstances of the person's
+communications give rise to a reasonable belief that such person is a United States person.
+
+(S) Assessment of the Foreign Intelligence Purpose of the Targeting
+
+(S) In assessing whether the target possesses and/or is likely to communicate foreign
+intelligence information concerning a foreign power or foreign territory, NSA considers, among
+other things, the following factors:
+
+a. With respect to telephone communications:
+
+a Information indicates that the telephone number has been used to communicate
+directly with another telephone number reasonably believed by the U.S. Intelligence
+Community to be used by an individual associated with a foreign power or foreign
+territory;
+
+5 Information indicates that a user of the telephone number has communicated directly
+with an individual reasonably believed by the U.S. Intelligence Community to be
+associated with a foreign power or foreign territory;
+
+» Information indicates that the telephone number is listed in the telephone directory of
+a telephone used by an individual associated with a foreign power or foreign territory;
+
+a Information indicates that the telephone number has been transmitted during a
+telephone call or other communication with an individual reasonably believed by the
+U.S. Intelligence Community to be associated with a foreign power or foreign
+territory;
+
+. Publicly available sources of information (cg, telephone listings) match the
+telephone number to an individual reasonably believed by the U.S. Intelligence
+Community to be associated with a foreign power or foreign territory;
+
+a Information contained in various NSA-maintained knowledge databases containing
+foreign intelligence information acquired by any lawful means, such as electronic
+surveillance, physical search, or the use of a pen register and trap or trace device, or
+other information, reveals that the telephone number has been previously used by an
+individual associated with a foreign power or foreign territory; or
+
+ 
+
+’ (TSI/SII/NF) The NSA knowledge databases that would be used to satisfy this factor contain fused intelligence
+information concerning international terrorism culled from signals intelligence, human intelligence, law enforcement
+information, and other sources. The information compiled in these databases is information that assists the signals
+intelligence system in effecting collection on intelligence targets. For example, a report produced by the CIA may
+include the fact that a known terrorist is using a telephone with a particular number. NSA would include that
+information in its knowledge databases.
+
+TOP SECRET/K3OMINTI/NOFORN//ZO32(I108
+4
+

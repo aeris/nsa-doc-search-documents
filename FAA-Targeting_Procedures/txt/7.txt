@@ -1,0 +1,53 @@
+TOP SECRETNCOMINTHN OFORN/l20320108
+
+a Routinely comparing electronic communications accounts/addresees/identiﬁers tasked
+pursuant to these procedures against a list of electronic communications accounts/
+addresses/identiﬁers already identiﬁed by NSA as being accessed from inside the United
+States. This will help ensure that no target has been recognized to be located in the
+United States.
+
+5 NSA analysts may analyze content for indications that a target has entered or intends to
+enter the United States. Such content analysis will be conducted according to analytic
+and intelligence requirements and priorities.
+
+(S) lfNSA determines that a target has entered the United States, it will follow the procedures
+set forth in section IV of this document, including the termination of the acquisition from the
+target without delay. In cases where NSA cannot resolve an apparent conflict between
+information indicating that the target has entered the United States and information indicating
+that the target remains located outside the United States, NSA will presume that the target has
+entered the United States and will terminate the acquisition from that target. If at a later time
+NSA determines that the target is in fact located outside the United States, NSA may re—initiate
+the acquisition in accordance with these procedures.
+
+(S) If NSA determines that a target who at the time of targeting was believed to be a non—United
+States person was in fact a United States person, it will follow the procedures set forth in section
+IV of this document, including the termination of the acquisition from the target without delay.
+
+111. (U) DOCUMENTATION
+
+(S) Analysts who request tasking will document in the tasking database a citation or citations to
+the information that led them to reasonably believe that a targeted person is located outside the
+United States. Before tasking is approved, the database entry for that tasking will be reviewed in
+order to verify that the database entry contains the necessary citations.
+
+(S) A citation is a reference that identifies the source of the information, such as a report number
+or communications intercept identifier, which NSA will maintain. The citation will enable those
+responsible for conducting oversight to locate and review the information that led NSA analysts
+to conclude that a target is reasonably believed to be located outside the United States.
+
+(S) Analysts also will identify the foreign power or foreign territory about which they expect to
+obtain foreign intelligence information pursuant to the proposed targeting.
+
+1V. (U) OVERSIGHT AND COMPLIANCE
+
+(S) NSA‘s Signals Intelligence Directorate (SID) Oversight and Compliance, with NSA's Ofﬁce
+of General Counsel (OGC), will develop and deliver training regarding the applicable procedures
+to ensure intelligence personnel responsible for approving the targeting of persons under these
+procedures, as well as analysts with access to the acquired foreign intelligence information
+understand their responsibilities and the procedures that apply to this acquisition. SID Oversight
+and Compliance has established processes for ensuring that raw trafﬁc is labeled and stored only
+in authorized repositories, and is accessible only to those who have had the proper training. SID
+
+TOP SECRETHCOMINT/IN OFORN/l20320108
+7
+

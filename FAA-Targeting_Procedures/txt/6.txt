@@ -1,0 +1,55 @@
+TOP SECRETNCOMINT/lNOFORN/l20320108
+
+or are extensively used by individuals associated with a foreign power or foreign
+tenitory.
+
+H. (S) POST—TARGETING ANALYSIS BY NSA
+
+(S//Sl) After a person has been targeted for acquisition by NSA, NSA will conduct post—
+targeting analysis. Such analysis is designed to detect these occasions when a person who when
+targeted was reasonably believed to be located outside the United States has since entered the
+United States, and will enable NSA to take steps to prevent the intentional acquisition of any
+communication as to which the sender and all intended recipients are known at the time of
+acquisition to be located in the United States, or the intentional targeting of a person who is
+inside the United States. Such analysis may include:
+
+For telephone numbers:
+
+6
+
+Routinely comparing telephone numbers tasked pursuant to these procedures against
+information that has been incidentally collected from the Global System for Mobiles
+(GSM) Home Location Registers (HLR). These registers receive updates whenever a
+GSM phone moves into a new service area. Analysis of this HLR information provides a
+primary indicator of a foreign user of a mobile telephone entering the United States.
+
+NSA analysts may analyze content for indications that a foreign target has entered or
+intends to enter the United States. Such content analysis will be conducted, according to
+analytic and intelligence requirements and priorities. '
+
+For electronic communications accounts/addresses/identiﬁers:
+
+e
+
+Routinely checking all electronic communications accounts/addresses/identiﬁers tasked
+pursuant to these procedures against available databases that contain Internet
+communications data (including metadata) to determine if an electronic communications
+account/address/identiﬁer was accessed from overseas. Such databases contain
+connnunications contact information and summaries of communications activity from
+NSA signals intelligence collection. The foreign access determination is made based on
+comparing the Internet Protocol address associated with the account activity to other
+information NSA possesses about geographical area(s) serviced by particular Internet
+Protocol addresses. If the IP address associated with the target activity is identiﬁed as a
+U.S.—based network gateway (eg, a Hotmail server) or a private Internet Protocol
+address, then NSA analysts will be required to perform additional research to determine if
+the access was in a foreign country using additional criteria such as machine identiﬁer or
+case notation (NSA circuit identiﬁer) of a communications link known to be foreign.
+Such databases normally maintain information about such activity for a 12—month period.
+This data will be used in an attempt to rule out false positives from U.S—based network
+gateways. If the account access is determined to be from a U.S.-based machine, ﬁirther
+analytic checks will be performed using content collection to determine if the target has
+moved, into the United States.
+
+TOP SECRETl/COMINT/INOFORNHZ0320108
+6
+
