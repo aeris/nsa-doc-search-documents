@@ -1,0 +1,78 @@
+SECRET
+
+Crypt Ctps Data Store User Guide
+Crypt Cips Datastore
+
+DataStore Rota:
+
+~Data Store to be reviewed weekly at the DataStore management meeting
+
+The Tasking Process
+
+Submitting a Task
+
+1.
+2.
+
+E.
+
+The customer follows the links to the Data Store page and clicks ’Add Record’.
+The ﬁelds ’Crypt Task PCiC’. ‘Updates’ and ’Team Plan Ref should all be left
+blank. to be ﬁlled in later by Crypt Cips.
+
+3. All ﬁelds marked with an * must be completed.
+4.
+5. The ’Task Status’ should be left as ’New Task’ and the ’Record Status’ should
+
+The Required by Date should be changed.
+
+be left set to ’Draft’.
+Cince all necessary ﬁelds are completed click ’Submit’.
+
+Cince submitted the task will be dealt with as follows:
+
+Processing a Task
+
+1.
+
+2.
+
+The DS (Data Store} Admin team is notified ofthat a Task has been
+submitted.
+
+The ’on duty’ Admin reviews the task. assessing what category (see below} it
+falls into and passes it along to the appropriate TL (team leader}.
+
+Categories
+
+BR BULLRUN —
+
+ 
+
+CTSC Counter Terrorism and Serious Crime
+EA Electronic Attack
+
+GT Global Targets
+
+HCA Hand Crypt and SleS
+
+lleNA Middle East North Africa
+
+M08 Mobile Infrastructure
+
+PRS Password Recovery Service
+
+TD |Generic Target Discovery
+
+TR Technical Research
+
+VPN Virtual Private Networks
+
+SIG |Generic or complex signature development.
+
+possibly to include XKS fingerprinting (and TDIiBEC-AL in the future?)
+
+And possibly more. including:
+
+SECRET
+

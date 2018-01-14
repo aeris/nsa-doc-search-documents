@@ -1,0 +1,60 @@
+SECRET
+1D. The TL then informs the task originator of the update.
+
+11. Once the assignee begins work the Task Status should be set to ’ln
+Rrogress’.
+
+12. The OS Admin’s review all task weekly to ensure they are being acted on and
+that all timescales and on schedule. If atimescale is deemed unrealistic then
+the TL should be informed and should negotiate a new deadline with the task
+originator.
+
+13. Once atask is completed the Task Status should be set to ’Complete’ and
+the Record Status changed to ’Archive’.
+
+14. The task originator should be informed that the task is officially complete and
+where possible feed back obtain ed.
+
+15. IMPORTANT: Remember to keep both the ’Record Status’ and ’Task Status’
+fields up to date and make sure thatthe record is in the correct category. The
+NEW TASK status should only be used on newtasks still in DRAFT. once
+ASSIGNED the task should be moved immediately to CURRENT. once work
+is started the task status should be IN PROGRESS and once COMPLETE it
+should be moved to ARCHI’v’E.
+
+Searching DataStore (Only applicable to mose winb view privileges)
+There are two search options atthe top of the page; Text Search and Date Search.
+
+Text Search — this allows searching on a number of ﬁelds (listed below} both in the
+page and within the records themselves. This search type is useful for ﬁnding all the
+tasks owned by a speciﬁc individual or all the tasks of aspecific type (providing the
+category tag has been applied to the ’Task Title’.
+
+Task Title
+
+Team Requesting
+Task Status
+
+Crypt Task ROC
+Originator
+
+Task Classiﬁcation
+JlC Points
+
+JlC Priority
+Miranda
+
+l-lRA Justiﬁcation
+Expected Outcome
+Business Case
+Estimated Resources
+Updates
+
+Team Plan Ref
+
+ 
+
+'lllx 'l --..::- _::..:: -.I-: I - --
+
+SECRET
+

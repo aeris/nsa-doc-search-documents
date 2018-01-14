@@ -1,0 +1,20 @@
+SECRET
+
+Date Search — there are three sub categcries cfthis search; ‘Nc date search’ (which
+searches for reccrd with nc date set in the chcsen ﬁeld}, ‘Search for a single date’, cr
+‘Search ever a date range’. These searches can be ccnducted cn several ﬁelds;
+Required by Date’, ‘Date Submitted’, ‘Date last updated’ and ‘Date Task Ccmpleted’.
+
+This search is useful fcr finding all the tasks that need tc be ccmpleted by a specific
+date.
+
+The search types can be used in ccncert ed. tasks with SIG in the title with a
+
+required by date between Ullﬂﬁi’EDll and UBﬂDi’EDll, this is achieved by running
+cne search and then the ether.
+
+_.|..|_!: . ._ ,_.|::|..| :._ .:.:. |_. :.| ||-|--|_:: . ------ ....l...
+
+:I-I-I'h -I --n.=: - -.I-: I - - : --:--: .."..'II:;- —
+SECRET
+

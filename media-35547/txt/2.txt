@@ -1,0 +1,66 @@
+SECRET
+
+TTT “.7“? Tech Tracking and Trends — Requests fcr
+tech tracking cr trends data
+EP “.7“? Requests BEARDED PIGGY acccunts
+
+The DS Admin nctifies the TL cf the task and updates it changing the PDC to
+the TL’s sid and adding a ncte tc the ‘Updates’ field in the fcllcwing fcrmai:
+
+‘Passed tc :TL’s sid> cn :ddi’mmtyy: by :DS Admin’s sid>’
+
+DS Admin then sends an email to the task criginatcr nctifying them which TL
+is handling the task.
+
+If the task is inapprcpriate fcr |Crypt Dps cr is cne that there will be nc
+rescurces available for in the fcreseeable future then the TL changes the Task
+Status tc ‘Rejected’ and nctifies the task criginatcr explaining why the task has
+been rejected. The task’s Reccrd Status is then set to rﬁtrchive’.
+
+If it is an apprcpriate achievable task the TL takes the fcllcwing steps:
+
+- Determine what pricrity the task shculd be
+
+- Decide if the timescale is achievable given the available rescurces and
+perscnnel
+
+- Decide if the necessary rescurces are available
+
+- If an apprcpriate perscn is available assign them
+
+Ta |f rescurces are net currently available but the task is cne that Crypt Dps will
+definitely ccmplete scme time in the near future when rescurces are available the
+TL shculd ccntact thetasks criginatcr and infcrm them cf when, realistically,
+rescurces will be available and wcrk started.
+
+Tb. If they still wish the task to be undertaken then a new timescale shculd be
+negctiated.
+
+Tc.
+
+The Task Status shculd then be set tc ‘Suspended’ and the Reccrd Status is
+
+left as ‘Draft’.
+
+"r".
+
+9.
+
+1f].
+
+'l'lx
+
+These tasks will be checked as part cf the Data Stcre review tc ensure that
+wcrk starts cn them as seen as rescurces beccme available.
+
+Once this is dcne the tasks Reccrd Status is set to ‘Current’, the Task Status
+is set tc Sitssigned’ and the update field shculd be filled in as fcllcws:
+
+Wcrk tc be carried cut by :cassignees sid> starting cn :cddi'mmfyy‘: assigned
+by :TL’s sid>
+
+"|.!: ' :. -. '|:.:|' 'l ::. .' : ':' l-' :'| ll'l "|.!: ' -"-.:L' """ _:- :'|.!-.':. :..:. i: -. '|:.:' ':'
+
+-I --..:; - -.I-: I - ' ---':-«'||=«" —
+SECRET
+
