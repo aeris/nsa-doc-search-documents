@@ -1,0 +1,56 @@
+(Cl/REL) ICREAC H: Sharing SIGINT Comms Metadata with the Intel
+Community
+
+FROM:|
+Tech Director, Target Analysis Center (SSGl)
+Run Date: 09/27/2007
+
+(CHREL) Remember when you were little and your mom always told you it was nice to share? I don't
+know about you, but sometimes in the intervening years it seems we forget about that little axiom.
+Recently those of us who are members of the Intelligence Community (IC) have been advised that we
+have to do a lot more sharing. Congress has told us, the 9X11 and WMDl Commissions have reminded
+us, and the Department of Defense strategy for improving operations insists on information sharing.
+While NSA has been sharing information for years through tailored product reporting, write-to-release
+efforts, ELINT2 metadata and tearline reporting, we are now going a step beyond that and are actually
+sharing SIGIN T comm unicoﬂ'ons metadata through a program called ICREACH.
+
+(SHREL) ICREACH intends to make more metadata accessible to our Intelligence Community brethren
+primarily for the purposes of situational awareness and target development. This COMINT3 metadata is
+
+not to be used for targeting; instead provisioning of the metadata to IC intelligence analysts should
+foster greater collaboration on targets of interest. Like NSA's internal tool, GLOBALREACH,
+
+ICREACH is a one-stop shopping tool for consolidated communications metadata analytic needs.
+
+(SKIREL) Through ICREACH, IC analysts can access all appropriate data sets related to telephony (and
+eventually DNI‘1 data) with a single login. The IC intelligence analysts will be validated by the
+ICREACH point of contact from their particular agency, must be part of the US. Intelligence
+Community, must hold a TSH’SI clearance and must have a PKI certificate in order to access the data
+through JWICS5 . Each person will be provided an account only after their need for it is verified by the
+Agency POC and they have received training on the too], the procedures, and the technologies
+represented in the metadata.
+
+(SHSIHREL) For the first time, IC intelligence analysts will have immediate access to SIGINT lst Party
+
+metadata as soon as the data is loaded in the centralized metadata repository. The FASCIA Call, PCSE ,
+and INMARSAT tables will be the first ones accessed in the ICREACH Beta release, now being piloted
+
+by a very limited number of IC analysts’. Reference data from other NSA projects like
+ASSOCIATION. TAPERLAY. and CONTRAOCTAVE is also queried. If the number is tasked in
+OCTAVE, a simple "yes" is returned with the event data.
+
+ 
+
+ 
+
+(SHSIHREL) Responses thus far from the beta testers have been largely positive with some very
+interesting questions, comments, observations and suggestions being provided, considered, and where
+possible, implemented. Future plans call for a rollout to additional IC agencies and Unified Commands
+(DIA and STRATCOMﬂ are next on the list for training) and access to other sources of metadata. NSA
+and CIA are developing an interface to enable access to their metadata through
+ICREACI-L’GLOBALREACH so that there is a reciprocal exchange of information.
+
+(UﬂFOUO) If you have questions on ICREACH, you may direct them to the following individuals:
+
+- For questions about the rollout of ICREACH to the next sets of usersz—Sl,
+
