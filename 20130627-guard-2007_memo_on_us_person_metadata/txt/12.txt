@@ -1,0 +1,49 @@
+ 
+
+"K: 'W'..‘“’ 2“ \i'lv‘w" :12“?! .{,‘,_.;, ‘4 ‘9’” ’* r" "3'," “J1" '” My"
+fir/i, All; We. Clix-”ti “-1: 0- LL, a H R 53“. AL fl \ \cIl'T'w't. if r. 3.3”
+
+. (SJ/Si} Department of Defense Supplemental Procedures Governing
+Communications Metadata Analysis
+
+Sec. 1: Pugpose
+
+(S/fSI) These procedures supplement the Procedures found in DOD Regulation
+5240.1-R and the Classiﬁed Annex thereto. These procedures govern NSA’S
+analysis of data that it has already lawfully collected and do not authorize
+collection of additional data. These procedures also clarify that, except as stated
+in section 3 below, the Procedures in DOD Regulation 5240.1—R and the Classiﬁed
+Annex thereto do not apply to the analysis of communications metadata.
+
+Sec. 2: Definitions
+
+(S//Sl) Communications metadata means the dialing, routing, addressing, or
+signaling information associated with a communication, but does not
+include information concerning the substance, purport or meaning of the
+communication. The two principal subsets of communications metadata are
+telephony metadata and electronic communications metadata.
+
+(a) Telephony "metadata" includes the telephone number of the calling
+party, the telephone number of the called party, and the date, time, and
+duration of the call. It does not include the substance, purport, or
+meaning of the communication.
+
+(b) For electronic communications, "metadata"includes the information
+appearing on the "to," "from," "cc," and "bcc" lines of a standard
+camail or other electronic communication. For e—mail communications,
+the "from" line contains the e-mail address of the sender, and the "to,"
+"cc," and "bcc" lines contain the e—mail addresses of the recipients.
+”Metadata" also means (1) information about the Internet-protocol (1?),
+address of the computer from which an e—mail or other electronic
+communication was sent and, depending on the circumstances, the IP
+address of routers and servers on the Internet that have handled the
+communication during transmission; (2) the exchange of an EP address and
+e—mail address that occurs when a user logs into a web—based email
+service; and (3) for certain logins to web-based e—mail accounts, inbox
+metadata that is transmitted to the user upon aCcessing the account.
+"Metadata" associated with electronic communications does not include
+information from the "subject” or "re" line of an email or information
+from the body of an email.
+
+ 
+

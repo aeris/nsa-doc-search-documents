@@ -1,0 +1,51 @@
+ 
+
+SECRE'I‘l/COMINT/IORCON,NOFORN/IXI ‘
+
+Title m (U)
+
+The federal criminal wiretap statute, Title III of the Omnibus Crime Control and Safe
+Streets Act, 18 11.8.0 § 2510, et seq., prohibits the unauthorized “interceptﬁonl” of any wire,
+oral or electronic communication, id. at § 2511(1), which is deﬁned as the acquisition of the
+“contents” of the communication, id. at § 2510(4). It also prohibits the use and disclosure of the
+“contents” of such a communication if it was unlawfully intercepted. See id. at § 2511(1). For
+the purpose of these prohibitions, “contents” is defined as “information concerning the substance,
+purport, or meaning of that communication.” Id. § 2510(8); see United States v. New York
+Telephone (30., 434 US. 159 (1977) (holding that Title 111 does not cover the acquisition of
+metadata with pen registers). By its terms, the Supplemental Procedures’ deﬁnition of the
+communications metadata to be analyzed excludes information about the substance, purport, or
+meaning of the communication. For this reason at least, the prohibitions of section 2511(1) do
+not apply to the proposed communications metadata analysis. (S// SI)
+
+Executive Order 12333 and Related Procedures (U)
+
+Executive Order 12333 requires the NSA to conduct its signals intelligence activities
+involving the collection, retention, or dissemination of information concerning United States
+persons in accordance with procedures approved by the Attorney General. See id. § 2.3; § 2.4.9
+These procedures must permit the collection, retention, and dissemination of certain types of
+information including foreign intelligence information in a manner that protects constitutional
+and other legal rights and limits the use of the information to lawﬁil government purposes. See
+id. § 2.4. The Attorney General approved the current Department of Defense procedures and
+Classiﬁed Annex in October 1982. (U)
+
+_ The current DOD procedures and their Classiﬁed Annex may be read to restrict NSA’s
+ability to conduct the desired conununications metadata analysis, at least with respect to metadata
+associated with United States persons. In particular, this analysis may fall within the procedures’
+deﬁnitions of, and thus restrictions on, the “interception” and “selection” of communications.
+
+ 
+
+9 In addition, section 2.5 of Executive Order 12333 provides that the “Attorney General
+hereby is delegated the power to approve the use for intelligence purposes}, within the United
+States or against a United States person abroad, of any technique for which a warrant would be
+required if undertaken for law enforcement purposes.” Because individuals have no reasonable
+expectation of privacy in the types of metadata at issue here, no warrant would be required to
+analyze this information for law enforcement purposes. In addition, the analysis of information
+legally within the possession of the government is likely neither a “search” nor a “seizure” within
+the meaning of the Fourth Amendment. See note 4, supra. Section 2.5 thus does not require the
+Attorney General to approve NSA’s proposed analysis ofcormnunications metadata. (S)
+
+SECRETI/COMIN'IY/ORCON,NOFORN//X1
+
+-8-
+

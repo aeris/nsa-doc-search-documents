@@ -1,0 +1,49 @@
+ 
+
+SECRET/ICOM IN T//0RCON,NOF ORNI/Xl
+
+the United States. It is not clear, however, whether NSA’s current procedures permit chaining
+through a United States telephone number, I]? address or e—mail address. (Sl/Sl)
+
+We conclude that the proposed communications metadata analysis, including contact
+chaining, is consistent with (i) the Fourth Amendment; (ii) FISA; and (iii) the electronic
+surveillance provisions contained in Title 18 of the United States Code. The Supplemental
+Procedures are also consistent with the requirements of Executive Order 12333. (S//Sl)
+
+As you consider this proposed change, you should be aware of the following:
+
+(1) Congressional Oversight, At the request of the Secretary of Defense, NSA briefed
+the Select Committee on Intelligence of the United States Senate and the Permanent Select
+Committee on Intelligence of the United States House of Representatives on this proposed
+' change before the Secretary signed the Supplemental Procedures.
+
+(2) Oversight of NSA ’5 Activities Under the Supplemental Procedures. Because NSA
+has in its databases a large amount of communications metadata associated with persons in the
+United States, misuse of this information could raise serious concerns. The General Counsel of
+NSA has provided a letter, attached at Tab B, describing how NSA will oversee access to and use
+of this data and committing to report annually to you on NSA’s communications metadata
+program. As part of this reporting, NSA undertakes to inform the Department of “the kinds of
+information that NSA is collecting and processing as communications metadata.” Particularly as
+technology changes, this requirement is important because the legal standards governing
+metadata are quite different from those governing the contents of a communication. We believe
+that the oversight and reporting regime that this letter describes is a reasonable one, and it
+informs our recommendation that you approve the Supplemental Procedures. (S//Sl)
+
+(3) The Central Intelligence Agency ’8 (CIA) Interest in Conducting Similar
+Communications Metadata Analysis. On July 20, 2004, the General Counsel of CIA wrote to the
+General Counsel of NSA and to the Counsel for Intelligence Policy asking that CLA receive from
+NSA United States communications metadata that NSA does not currently provide to CIA. The
+letter from ClA is attached at Tab C. Although the proposed Supplemental Procedures do not
+directly address the ClA’s request, they do resolve a signiﬁcant legal obstacle to the ‘
+dissemination of this metadata from NSA to CIA. (S/lSU/NF)
+
+‘ (4) Department of Defense ’5 (DOD) Interest in Allowing Other DOD Entities to Have
+Access to this Data and to Conduct Similar Analysis. The DOD’s General Counsel’s Ofﬁce has
+informed us that, in the future, other DOD entities may wish to obtain and analyze
+communications metadata using the same rules that NSA uses to do so. The proposed
+Supplemental Procedures do not apply to these other DOD entities, but you should be aware that
+
+SECRET/ICOMlNT/lORCON,NOFORN//X1
+
+-3-
+
