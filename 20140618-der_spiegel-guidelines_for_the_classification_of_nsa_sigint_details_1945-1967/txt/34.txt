@@ -1,0 +1,59 @@
+TOP SECRET//SI/TK//NOFORN
+
+transducer, radiation, conductance, BOOKLET, magnetic probe, acoustic probe, magnetometer, accelerometer,
+microphone, transmitted over copper wire, emanations, and unintentional emanations.
+
+Cryptologie Information - (U) Information that describes the target’s use of cryptographic techniques and processes or
+of cryptographic systems, equipment, and software and their functions and capabilities, and all cryptographic material.
+
+Cryptanalytie Worksheets - (U) Any records that show methods of analysis of encrypted and/or enciphered
+information/data. This includes reports, working aids and papers, instructions, informal technical notes, manuals,
+technical exchange letters, handbooks, listings, collateral documents, procedure ﬁles, evaluation plans, speciﬁc
+documentation or records portraying steps, processes, tables, devices, and/or others means employed in cryptanalysis of
+target communications.
+
+Depth - (U) Texts are said to be in a depth relationship when the texts were produced by encrypting two or more
+different sequences of plain text with the same sequence of key. Related terms include depth reading/stripping, flush
+depth, near depth, offset depth, partial depth, and slid depth.
+
+Depth Reading/Stripping - (U) Recovery of plain text and key from messages in depth.
+Eleetromagnetie - (U) Signals that are produced as a result of the use of electrical power
+
+Emanations - (U) Unintentional signals, that, if intercepted and analyzed could disclose the information transmitted,
+received, handled, or otherwise processed by information systems equipment. These signals may be acoustic,
+electromagnetic, or optical in nature
+
+Generie - (U) Describes emanations and sensors in broad general categories e. g. magnetic, acoustic, power line/signal
+line conductance, electric field emissions or other naturally occurring phenomena. Sensors are transducers which
+convert physical or electromechanical signals into an electrical signal which can be collected and analyzed.
+
+Indigenous Algorithm, Deviee, Logie, or System - (U//FOUO) Non-commercial cryptographic information security
+system, device or component developed by a SIGINT target for their use. Indigenous will include target modifications
+to commercial products and algorithms. If a target-developed version of a commercially available product is
+cryptographically indistinguishable from the commercial product, it will be considered commercial.
+
+Key Generator - (U) A cipher machine that generates key from the interaction of two or more components. Compare to
+alphabet generator, above.
+
+Listening Post - (U) Physical locations that are close to the target facility and serves as a collection point for the signals
+of interest
+
+Low-Grade - (U) Pertaining to a cryptosystem which offers only slight resistance to cryptanalysis; for example:
+(1) Playfair ciphers,
+(2) Single transposition,
+(3) Unenciphered one-part codes
+
+Medium-Grade - (U) Pertaining to a cryptosystem which offers considerable resistance to cryptanalysis; for example:
+(1) Strip ciphers,
+(2) Double transposition,
+(3) Unenciphered two-part codes
+
+RASIN — (U) Radio SIgnal Notation (RASIN) — A notation assigned permanently and jointly by DIRNSA and second
+Party headquarters to a signal after basic signal characteristics have been verified by NSA/CSS or Second Party signals
+analysts
+
+Soviet Bloe — (U) Cold War adversaries (Soviet Bloc) up to and including 1950:
+Albania, Bulgaria, Czechoslovakia (after February 1948), East Germany (though the German Democratic Republic was
+
+TOP SECRET//SI/TK//NOFORN
+

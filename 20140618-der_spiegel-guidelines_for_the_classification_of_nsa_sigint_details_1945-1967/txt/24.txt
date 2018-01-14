@@ -1,0 +1,101 @@
+TOP SECRET//SI/TK//NOFORN
+
+ 
+
+target’s decrypts, it has
+already seen substantive
+changes in that target’s use of
+
+cryptography.
+
+(U) Various levels of harm to
+national security can be
+expected if this material were
+to be declassified, depending
+on the particular information
+being revealed.
+
+ 
+
+ 
+
+29.
+
+(U) Alphabet Generators:
+Documents that demonstrate or
+include the application of any
+cryptanalytic technique relating
+to Alphabet Generator systems
+that became operational after
+15 August 1945
+
+ 
+
+CONFIDENTIAL//SI//REL TO
+USA, FVEY at a minimum
+
+ 
+
+50X1
+50X3
+50X6
+
+ 
+
+>“7 5 years
+from date
+of material
+
+ 
+
+(U) A document that
+demonstrates or includes the
+application of any
+cryptanalytic technique to an
+electromechanical cipher
+system that is an alphabet
+generator is
+UNCLASSIFIED only if the
+system is UNCLASSIFIED in
+accordance with the WWII
+Guidance.
+
+(U) This guidance pertains to
+
+documents relating to:
+
+0 Wired wheels (such as
+ENIGMA),
+
+0 Telephone selectors
+(such as PURPLE, RED,
+JADE, and CORAL),
+and
+
+Hagelin alphabet generators.
+
+(C//REL TO USA, FVEY) In
+this time frame, commercial
+companies and nation states
+developed and deployed
+cryptographies which have
+many features still in use in
+cryptosystems NSA/CSS
+exploits today. Documents
+that detail the application of
+cryptanalytic techniques to
+these earlier systems will
+reveal capabilities still in use
+today against operational
+target cipher systems.
+
+(U) Various levels of harm to
+national security can be
+expected if this material were
+
+ 
+
+TOP SECRET//SI/TK//NOFORN
+
+ 
+

@@ -1,0 +1,20 @@
+TOP SECRET//SI/TK//NOFORN
+
+only established on October 1949, any prior German activities in the Soviet Zone should be considered as East German
+and within this deﬁnition), Hungary, Poland, Romania, USSR, Yugoslavia
+
+System Title - (U//FOUO) Cryptographic system titles are short identiﬁcation labels used to create a logical reference
+mechanism for all cryptographic systems and which identifies the users. Cryptographic system titles are assigned on the
+basis of cryptography, target country, and entity.
+
+TEXSIG — (U//FOUO) Technical EXtracts of SIGnals (TEXSIG) — A unique designator assigned to a new signal by
+a SIGINT ﬁeld element (USSS or Second Party) or to a signal under analysis or cryptanalytic development by the
+headquarters of NSA/CSS and Second Parties (jointly assigned)
+
+TICOM - (U) Target Intelligence Committee (TICOM) - TICOM was formed in London in October 1944 as a joint
+
+U.S./UK activity to interrogate captured enemy COMINT personnel and to acquire enemy COM'INT records and
+equipment.
+
+TOP SECRET//SI/TK//NOFORN
+
