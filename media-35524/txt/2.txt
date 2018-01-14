@@ -1,0 +1,48 @@
+TemplatezPOISONNUT Product - WikiInfo
+
+(TS/I'REL) Cancel Attack
+I (TS/IREL) Description: Sends a message to the VRI that the job has been canceled.
+(TS/IREL) Attack Output Processor
+
+I (TS/IREL) Description: Processes the output of the Attack. This output may not even be there if the Attack timed
+out. The Attack Strategy needs to be marked as successful or failed based on the data the Attack gives back.
+
+(TS/I'REL) Was Attack Successful
+I (TS/IREL) Description: Checks to see if the current Attack Strategy was successful. This component could use
+
+the Has Phasel Key Material Content Based Router implementation with a different input channel/output
+channel conﬁguration.
+
+(Ul/FOUO) Infrastructure
+
+(U/IFOUO) Channel Guide
+
+(TS/IREL) Spring Integration Channel Guide
+
+Channel Name Type Payload
+CanAttack Input 1 (Channel L) incomingPhaseAttack Direct IKE Phasel
+CanAttack Output 1 canAttackPhasel Direct IKE Phasel
+CanAttack Output 2 cannotAttackPhasel Direct IKE Phasel
+
+RequestResponseCorrelator Input 1 attackRequestSubmitted Direct VRISubmission
+RequestResponseCorrelator Input 2 attackResponseReceived Direct VRIResponse
+RequestResponseCorrelator Output 1 attackCompleted Direct VRISubmission
+
+RequestResponseCorrelator Output 2 attackTimedOut Direct VRISubmission
+
+(Ul/FOUO) Metrics
+{{{metrics}}}
+(Ul/FOUO) Issues
+{{{issues}}}
+
+Retrieved from
+Category: POISONNUT products
+
+Derived From: SI Classmcauon Gmde. 0201. Dated: 20060?11
+and NSNCSSM 1762. Dated: ZDDFDHJE
+Declassify On: 20320108
+
+TOP SECRETHSIHREL TO USA. FVEY
+
+20f2
+
