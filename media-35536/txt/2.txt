@@ -1,0 +1,55 @@
+SCARLETF EVER - WikiInfO
+
+KEYHOLE/IORCONIPROPIN/RELIDOIREL TO USA, FVEY *
+
+(U) Related Wiki Pages
+
+I (U/lFOUO) LONGHAUL — the Parent Project
+I (U/lFOUO) POISONNUT — a Sibling LONGHAUL Project
+
+(U) History
+
+I (TS/ISIl/REL) The SCARLETFEVER development started in July 2009.
+I (TS/ISIl/REL) The basic high level functional design was completed in
+early September 2009.
+
+(U) Design
+
+(TS/ISI/IREL) The SCARLETFEVER team then met several times over the
+July—September time frame to reﬁne the design of the system. The output of
+those meetings was a series of BPMN diagrams and technology areas for
+further investigation. The BPMN diagrams exposed:
+
+I The ﬂow of information through the system (messages).
+I The high level components and critical elements.
+
+(TS/ISI/IREL) The messages, component and critical elements, and technology
+areas were used to generate an initial list of Engineering Change Requests
+(ECRs) for further reﬁnement and development.
+
+(TS/ISI/IREL) SCARLETFEVER also has a geographically distributed
+architecture concept which is currently being ﬂeshed out. Why is this being
+pursued?
+
+I Resume session pairing generates the bulk of the load. If this processing
+can be shifted to the edge, then:
+I Less total aggregated network traffic due to collaboration with the
+core
+I Less aggregate memory requirements at any one location
+I Redundant capabilities for better total mission survivability
+
+(U) Contact Info
+
+I (U/lFOUO) SCARLETFEVER Development Team email alias: TBD
+I (U/IFOUO) Jabber Chat Room: TBD
+
+. (Ul/FOUO) LONGHAUL JSignout group —
+—
+
+Retrieved from "—'
+
+Categories: URN | Applications using Java | Applications using C++ | TLS |
+SCARLETFEVER | LONGHAUL
+
+20f3
+
