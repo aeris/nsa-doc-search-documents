@@ -1,0 +1,49 @@
+-' (TS/ISI/IREL) Once the query finishes, look at the Equivalent IDs section and make
+note of any new <yahoo>, <hotmail>, <yahooBcookie>. and <facebook> selectors and
+do the same process to identify additional selectors.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+     
+
+‘ Fqllwalrnl' lbs: 16
+Page I 011 a n d Flu [Mr-u] - L-ywl (Del-MP -'-- ~- -‘ " Via-ﬁnch- SIN-l»: ' 'r-‘h - Status: .outhn-ﬁmnls: ”Minoltl saw: Imam:
+El Applitalinn Entity: a (g ) ‘5 n f Auivny Entnyn
+I ("l 9151 .modtr :u_'. saga, .29.;4:
+2 El eﬁlai WIMIOEOUO) hasdsd-wnm
+3 El mu @mecqcodo) has Wavnm
+4 ‘ had-Edwar-
+5 D GMQI h-Sdun'aynm
+:5 III ma W.mzqcogle> hm: -J New Facebook Selector
+7 El (+13] V . hi awe-,- name I
+a El EN“ mural motorcade) has dado-gem
+Cl @a'nicwqcodczv h-'.1ri-d .l.__ Judo...
+In III cﬂnl hosd rl
+Ii D lmm chub-ark: renderedwth r
+I2 El anal www.comdqcoge> . ~r d owl-rec:
+l3 El mu haul .d mitt:
+All Unique Selectors Found From Both Searches:
+. - <yahoo> (Known SelectOr
+)
+z @gmail.com<google> (New Selector)
+3 V . 7' . xi <yahooBcookie> (New Selector)
+' ciacebook: (New Selector)
+:éézulL "i '» ~ ~ m»: s
+U ' U . '
+
+   
+ 
+

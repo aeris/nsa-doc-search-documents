@@ -1,0 +1,29 @@
+Step 8:
+
+4 (TSHSIHREL) Once you have a TLN. you will need to submit a FOXACID Tag request.
+
+. (TSHSIHREL) Go to httsz nsalcgi-iainir and fill out the appropriate
+information in the top and within the body 01 the ticket update this information accordingly. Here is an example:
+
+GLQLNQLIﬂ; Non-CT
+
+Second Partleartnering; No
+Countrv Regioanvoe:
+W No
+
+1'er gt Op: QUANTUM
+util'zing WPTT: No
+
+ILN; 12345 " Insert Your TLN
+IP Range: '5 Insert Your Active User IP CIDR i WHITELIST
+MAC Addresses: Unknown
+W Vai
+Start.Date;.20130401
+Bog-
+
+mﬂjuoppii; No
+
+‘. Hi" 1
+
+ 
+
