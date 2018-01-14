@@ -1,0 +1,101 @@
+Print Notes
+
+3of4
+
+http://www.documentcloud.org/notes/print?docs[]=807036
+
+——-;—-—
+I II'.‘ . II. '1 l'I r‘ I “I u u u l .-I 11‘!
+
+Le document presente les domaines surveillée par la NSA entre la 1er au 31 janvier 2013. La periode pendant laquelle cette
+surveillance a été menée est inscrite au bas du document. Se chevauchant avec certaines adresses devant étre masquées. elle
+n'apparai’t pas.
+
+ 
+
+ 
+
+Une partie seulement (p. 8)
+
+'s‘omc Ilighcr Volume Domains .. .
+
+L 11
+
+Ce document ne mentionne ce qui n'est qu‘un extrait des domaines surveillés par I'agence De meme, Ie document ne precise
+pas la quant'rté ou la nature des domees eventuellement interceptées.
+
+ 
+
+ 
+
+Upstream (p. 8)
+
+FM ’assivc WI
+
+ll s'agit de la famille de programme Upstream qui irrtercepte les donnees lorsqu‘elles transitent clans les grandes infrastructures
+d‘lnternet. notamment les cables. FAA (pour FISA Amendment Act) est le cadre juridique qui entoure Prism et une partie
+d‘Upstream.
+
+ 
+
+ 
+
+Le Monde a choisi de ne pas reveler les autres domaines surveilles par la NSA (p. 8)
+
+ 
+
+“Junk-v II
+
+ 
+
+Cette decision s'explique par la volonte the ne pas compromettre des enquetes en cou‘s des journalistes du "Monde'ﬂ ainsi que
+par la nature tres sensible de certains domaines.
+
+ 
+
+ 
+
+Le processus (p. 9)
+\Jl'ldlt _ IAnUUE
+
+I
+m thRISM Tasking Process
+
+l ”fan-IN nnalutt inmate. calm-Inn lnln I
+
+       
+
+AOL Lu rmil I
+
+ 
+
+Ce document detaille le processus technique de l'analyste derriere son ordinateur jusqu‘aux bases de données des errtreprises
+du Web. Le role du FBI comme intermediaire technique y apparait clairement.
+
+ 
+
+ 
+
+ 
+
+Dans les bases de données de la NSA (p. 10)
+
+u- m" _ LADUU: nun-mans
+
+  
+
+    
+
+ 
+
+ 
+
+Une fois les donnees recuperees. cee dernieres cheminent a travers un maillage serre de bases de données qui les trient et lee
+archivent.
+
+ 
+
+10/22/2013 7:45 AM
+
+ 
+

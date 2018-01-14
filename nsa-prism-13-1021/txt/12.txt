@@ -1,0 +1,88 @@
+Print Notes
+
+1of4
+
+http://www.documentcloud.org/notes/print?docs[]=807036
+
+Prism Entier
+11 pages — Contributed by Martin Untersinger , Le Monde — Oct 18, 2013
+
+ 
+
+Notes sur la presentation Prism (p. 1)
+
+PRISM/ U S-984XN
+Overview
+
+"Le Monde" a decide de rendre public une selection de documents issus de la presentation de 41 pages decrivant le
+fonctionnement du programme Prism aux analystes. C'est sur la base de cette presentation. a laquelle "Le Monde" a acces
+dans son integralite. que le Guardian et le Washington Post ont revels l‘existence de ce programme. Le Monde a choisi de ne
+pas reproduire la majorite des documents de la presentation du programme Prism exhumee par Edward Snowden. La plupart
+sont tres techniques et n‘apportent que peu d‘intormations. Certains. sont extremement sensibles. Un certain norr‘bre de ces
+documents ont deja ete publies par le Washington Post et le Guardian. Deux des documents su'vants (p. 4 et 7) sont inedits a
+ce Jour.
+
+ 
+
+ 
+
+Le réseau Internet (p. 2)
+
+talk.“ .. vou-
+
+[UPSl-(‘Rl-l SI URI'HN’ mm] ' ‘ ~. i
+m Hotmall (”008% h“
+mots-gall
+
+(3min YAHOO! "‘ " ‘
+r rs 5] N11] IntrOdUCtion
+
+US. as Hiwl‘dk Tch’comm"Him-ﬁrms Backbone
+
+       
+
+Ce document decrit l'in'frastructure generals d'lnternet au niveau mondial. et justiﬁe les dispositifs d'interception par la place
+centrale que les Etats-Unis y occupent.
+
+ 
+
+ 
+
+ll taut utiliser Prism et Upstream (p. 3)
+
+nin'Ri-i sl t!lt('(t.\i 5;: 1H! ' ‘ Hotmall COUQiL" tall-t. WE
+. m t In" ' .l-r .
+. CMJ” W YA-HOO! L. h n I ‘ ml. 3‘ mail ‘
+
+m. «I m FAA702 Operations
+
+Two Zipes of Collection
+
+        
+
+Ce document incite les analystes de la NSA a uliliser a la fois Prism et Upstream. une farrille de programmes qui interceptent
+les donnees dans les infrastructures d'lnternet.
+
+ 
+
+ 
+
+Ce document compare les programmes Prism et Upstream (p. 4)
+
+”PM! l-ll-i hi URtUN .\_'HIU ' I! Hutmail GOUSiC H. ‘ I. - talk. You.
+CM-“I hI-IOO! .1 1 ' l|ACJI.__11.1'LI‘
+
+in. st M. FAA702 Operations --
+
+H'hlt' (Is-e Both: PRISM ‘l-‘s. Limrreum
+
+       
+
+ 
+
+ 
+
+10/22/2013 7:45 AM
+
+ 
+
