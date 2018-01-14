@@ -1,0 +1,55 @@
+TOP SE CRET //ST L W//C OMIN T /0R C ONﬂV 0F ORN
+
+ST-09—0002
+WORKING DRA FIT
+
+(U//FOUO) Internet Communications
+
+(TS//SI//NF) Al Qaeda and associated terrorist organizations have made
+extensive use of the Internet. It is their preferred method of
+communication. Terrorists use Internet communications, particularly web—
+based services, because they are ubiquitous, anonymous, and usually free
+of charge. They can access Web-based email accounts and similar services
+from any origination point around the world.
+
+(TS//SI//NF) The United States is a major Internet communications hub.
+The industry standard for characterization of the volume of Internet
+communications is bandwidth, which measures the amount of digital data
+transmitted in one second ~ bits per second or bps. For example, data
+available from 2002 shows that at that time, worldwide international
+bandwidth was slightly more than 290 Gbps7. Of that total, less than 2.5
+Gbps was between two regions that did not include the United States.
+
+(TS//SI//NF) The United States is also home to computer servers providing
+Internet communications services often used by terrorists. The majority of
+known terrorist email addresses that NSA has tracked are hosted on US.-
+based providers or foreign-managed providers hosted on servers in the
+
+United States- (ct.—
+—-
+
+(U/IFOUO) Evolution of NSA Partnerships with Private Sector
+
+ 
+
+(U) History of NSA Partnerships with Private Sector
+
+(TS//SI//NF) As far back as World War II, NSA has had classiﬁed
+relationships with carefully vetted US. companies that assist with essential
+foreign intelligence-gathering activities. NSA maintains relationships with
+over 100 US. companies. Without their cooperation, NSA would not be
+able respond to intelligence requirements on a variety of topics important
+to the United States.
+
+(TS//SI//NF) Two of the most productive SIGINT collection partnerships
+that NSA has with the private sector are with COMPANY A and
+COMPANY B. These two relationships enable NSA to access large
+volumes of foreign—to-foreign communications transiting the United States
+
+7(U) prs is an abbreviation for Gigabits per second, which can also be described as one billion bits per second
+or 1,000,000,000 bps.
+
+TOP SE CRET //S T L W//COMIN T /0R C ONﬂV 0F ORN
+
+28
+

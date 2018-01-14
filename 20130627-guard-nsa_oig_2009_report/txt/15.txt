@@ -1,0 +1,54 @@
+(U) Metadata
+
+TOP SECRET //S T L W//C OMIN T /0RC ON/NOF ORN
+
+WORKING DRAFT
+
+cleared analysts. The purpose of co—locating these individuals was to
+improve collaborative analytic efforts.
+
+(TS//SI//NF) SID Data Acquisition. Through the life of the Program,
+data collection was managed by Special Source Operations in SID, Data
+Acquisition Directorate. Collection managers were responsible for putting
+telephone numbers and email selectors on PSP-authorized collection by
+private sector companies and taking them off collection.
+
+(TS//SI//NF) The authority to collect bulk telephony and Internet metadata
+signiﬁcantly enhanced NSA’s ability to identify activity that may have been
+terrorist-related. Contact chaining is the process of building a network
+graph that models the communication (e—mail, telephony, etc.) patterns of
+targeted entities (people, organizations, etc) and their associates from the
+communications sent or received by the targets.6 Metadata is data that
+describes other data, speciﬁcally information that describes the content,
+events or networks associated with SIGINT targets. For example, for an
+email message, it would include the sender and recipient email addresses.
+It does not contain the subject line or the text of the email; they are
+considered to be content. Likewise. for a telephone conversation. metadata
+would include the called number and the callincI number as well as the
+W
+
+(TS//SI//NF) Although NSA had the capability to collect bulk telephony
+and Internet metadata prior to the PSP, its application was limited because
+NSA did not have the authority to collect communications in which one
+end (the number being called or the recipient address of an e-mail) was in
+the United States. PSP signiﬁcantly increased the data available to NSA
+analysts and allowed them to create more thorough contact chaining. This
+gave NSA the key to an early warning system—the ability to identify
+individuals in the United States or individuals outside the US. using US.
+telecomimmications structures in contact with a foreign target, a terrorist.
+
+(TS//SI//NF) Because metadata was not constitutionally protected, NSA
+did not consider it to be as sensitive as content collection. Nevertheless,
+processes were set up to document requests for metadata analysis and
+justiﬁcations for conducting such analysis under Program authority. The
+
+6 (TS//SI//OC/NF) Additional chaining can be performed on the associates’ contacts to determine patterns in
+the way a network of targets may communicate. Additional degrees of separation from the initial target are
+referred to as “hops.” For example a direct contact is one hop away from the target. A contact of the direct
+contact would be described as being 2 hops away from the target. The resulting contact-graph is subsequently
+analyzed for intelligence and to develop potential investigative leads.
+
+TOP ’SE CRET //S T L W//C OMIN T /0RC ONﬂVOF ORN
+
+13
+
