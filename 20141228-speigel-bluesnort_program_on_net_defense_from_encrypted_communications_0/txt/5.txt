@@ -1,0 +1,17 @@
+SECRET/ISI/IREL TO USA, FVEY
+
+Status
+
+— Running on MHS DEV ESO T5 and T22
+
+- Transform, Reinjection, Signature Hits
+confirmed
+
+- Signatures need further development
+to produce true hits vs. false positives
+
+— NTOC POC reviewing XKS hits to
+generate new signatures.
+
+SECRET/ISI/IREL TO USA, FVEY
+

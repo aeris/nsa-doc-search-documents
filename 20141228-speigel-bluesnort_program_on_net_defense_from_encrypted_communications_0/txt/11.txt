@@ -1,0 +1,68 @@
+SECRET/ISIl/REL TO USA, FVEY
+
+CCA Capabilities Planned for NCC-3 Test
+Events
+
+ 
+
+DTIOA 2 (June 2012) DTIOA 3 (June 2013)
+
+Defensive SIGINT Defensive SIGINT
+Sensor Sensor Sensor Sensor
+
+ 
+
+Capability
+
+ 
+
+ 
+
+ 
+
+ 
+
+NETFLOW
+
+ 
+
+BLUESNORT (updates)
+
+POPQUIZ
+
+Performance Testing
+
+ 
+
+ 
+
+ 
+
+Wireless reinjection
+
+ 
+
+CA Reinjection
+
+ 
+
+Cyber Tasking
+Updated Cloudshield Interface
+
+ 
+
+ 
+
+Metrics and Monitoring
+
+ 
+
+ 
+
+ 
+
+— Orange items are being revisited. Requirements without explicit TML Core 4 dependency
+need mission documentation to justify not being covered in DT/OA 2.
+
+SECRETIISIIIREL TO USA, FVEY
+

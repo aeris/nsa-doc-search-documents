@@ -1,0 +1,20 @@
+TOP SECRET/ISIIIREL TO USA, FVEY
+
+Three-Feather Solution
+
+1. GALLANTWAVE application
+_ Same module supports NetDef and SiGiNT
+_ Supports dynamic update of targeting via UTT
+_ Supports static target updates
+
+GALLANTWAVE Reinjection application
+_ Same module supports NetDef and SiGiNT
+
+- Supports re-injection of decrypt into TURMOH. for detection by BLUESNORT
+
+BLUESNORT in Stage 1 Prime application
+
+Emits events off decrypted, re-packetized, reinjected data
+
+TOP SECRET/ISIl/REL TO USA, FVEY
+

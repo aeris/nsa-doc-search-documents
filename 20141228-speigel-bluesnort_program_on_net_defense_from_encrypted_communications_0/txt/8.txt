@@ -1,0 +1,56 @@
+SECRET/ISI/IREL TO USA, FVEY
+
+Near-term Schedule
+
+ 
+
+Capability Date
+
+ 
+
+GW-R Gate 2
+
+ 
+
+GW-R Gate 3
+
+ 
+
+GW-R Gate 5
+
+ 
+
+GW-R Deploy to U sites
+
+ 
+
+lTx Dev Fabric at NetDef sites
+
+ 
+
+CA Server ssh connectivity
+
+ 
+
+Initial Live Dev Test TURTLEZOO
+
+ 
+
+GW-R Core 4.0
+
+ 
+
+GW Core 4.0
+
+ 
+
+ 
+
+lTx Live Fabric
+
+ 
+
+ 
+
+SECRET/ISIIIREL TO USA, FVEY
+

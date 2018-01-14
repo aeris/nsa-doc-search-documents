@@ -1,0 +1,63 @@
+(SI/REL) Dynamic Defense Logical Diagram
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(SI/REL)
+
+Detect
+
+ 
+
+ 
+
+C21)
+INTERNET
+“ Network Normalized
+A t. R Interface TUMULT Packets
+C IVE esponse Stage 0
+Block,
+Reroute,
+Alter
+Comman
+Legend:
+C223
+Protected Internal Network TUMULT
+
+12
+
+ 
+
+(T113)
+
+ 
+
+Action
+
+Alert
+
+ 
+
+ 
+

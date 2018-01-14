@@ -1,0 +1,88 @@
+‘35“
+
+ 
+
+ 
+
+PPEXXX
+
+ 
+
+ 
+
+ 
+
+ 
+
+TE-STAGEl-
+GALLANTWAVE.XXX
+
+ 
+
+ 
+
+TOP SECRET/[COMINT/IREL TO
+—————————————————————— S-A,—F¥E¥ —
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+#{GALLANTWAV
+E-SERVICE}
+
+ 
+
+ 
+
+ 
+
+X (EYSCQ SECRET/[COMINT/A
+RE USA, FVEY
+
+ 
+   
+     
+
+from CoreSSC, pulls the GW IP addresses from the
+Targeting database; issues control—flow messages
+for each |P:Port combination and sends periodic
+updates for those.
+
+ 
+
+2; FCP responds to control—flow messages by
+
+promoting all packets to/from the targeted |P:port
+combinations, and PacketRouter ensures these
+packets are sent to GW-FIP for sessionization. GW-
+FIP outputs 'raw' SOTF session—fragments to the
+TE-GW service on the same host.
+
+GW—SessionFilter identifies sessions containing
+target technology—of—interest by applying an
+appropriate appld tag to each session-fragment.
+
+5;. GW—FragmentFilter removes session—fragments not
+
+containing an appropriate appld for the target
+technology—of—interest. Additionally, as a work—
+around for an issue in FIP 3.1.10, erroneous
+session—fragments missing a specific metadata
+filed are removed. GW-MI applies SRI obtained
+from Dfid Allocator.
+
+REGWQMI applies SRI obtained from the DFID
+
+allocator.
+
+f‘lnl I -__ll\n_.__-._._ -l..l:.._.__ l_..££_._- _l J—L— ..._L_ _
+
