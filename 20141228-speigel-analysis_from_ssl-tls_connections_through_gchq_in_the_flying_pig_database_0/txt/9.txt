@@ -1,0 +1,108 @@
+TS//S|//REL
+
+Example: search bv domain
+
+FLYI N G PI G
+
+TLE/SSL KNEIWLEDEE BASE
+
+HRA Justification
+Query FLYING PIG
+
+Query FLYING p11; - general SSLtoolkit
+
+ 
+
+Query QUICK ANT -Tor events QFD
+
+Server certificate fields to search Within:
+
+[e .f network I certificate ﬁeld Ininmail m i Subject Common name [.7]
+Query as: 0 Client [P 0 Server 1P 0 Both Isgiiﬂacigrgagﬁigﬂename ‘
+or: 0 Network [e.g. 1.2.3.0124] 1 er mm. t' V
+or: (ii Server Certificate [ed E'J'oetlamolecom (use We for wildcardsi] ssuer organlsa "3” name
+RSA modulus
+
+Run Query!
+
+Certificate field search: 0-hmai|.ro
+
+Prototype owner: l
+
+ 
+
+ 
+
+All HTTP requests matching your query ('5' i' :1)
+
+ 
+
+1 7 S of 500 items
+
+ 
+
+10l25l50l100
+
+ 
+
+1234567b>l+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Server IP Hnst name Firstseen Last seen Count wfe Count all time
+25th Nov
+104.105 swamailJu 2011710713 16: 2011711725 21 11 59.0 6005663 42640739
+134.104 swa.mail.ru 2011—10—13 17: 2011—11—25 21 11 55.0 6073133 36325411
+134.201 fc:ef:d4.cf.bd:al.too.rnail.ru 2011-10-13 21: 2011-11-25 2110 49.0 4049743 19360920
+135.13 topEmallJ‘u 2011—10714 20:00:00.0 2011711725 21 12 05.0 3096363 14163963
+135.12 too3.mail.ru 2011—10—14 20:00:00.0 2011—11—25 21 10 48.0 2400950 12306999
+nII certificates matching your query (1'71”) Server IDs ('i'i ):
+Tip 1: Right click on a row to find all server IPS that serve that certificate! Tip 1: Right click on a server 19 to
+Tip 2: Click on the disk icon in the title bar to download data in csv format! EKP'WE it “WW“
+Tip 3: Double—click on afield to enable copy and paste: 1 — 25 of 500 1 2 3 4
+Tip 4: Change disolared columns ('Basic' is default; ‘Advanced‘ adds RSA Modulus and cioher suite distribution columns): Basic columns IIAdvanced columns ltEmS 5 6 7 I Ii
+Server IP Cert Cert
+1-10 0170itel‘05 ID i 25 l 50 l 100 1 2 3 4 5 6 7 > hi 1 count count all
+wfe time
+Full First seen I nst sern Count Count all Valid from Valid to Subject common Suhject Subject oro Issuer common Issuer Issuer oro Self 25th
+Certificate Wflil time name country name name country name sigma Nov
+25t
+NU“ emnheo
+308203CD3032|2011709722 2011711725 2952729 15533953 2011431731 2012433727 *.mai|.ru ru lie mall l'u thawte 55l I33 u5 tnawte, no. N
+13:17:32 19:91:59 oo:oo:oo 23:59:59 177'1 333592 “352513
+30520351309212011—0922 2011—11-25 249926 1095232 20190121 2o11~02»2o *.mail.ru rLl llc mail ru thawte premium 25 tnawte N 191213 330212 1388617
+14:95:50 1o:5o:32 oo:oo:oo 23:59:59 server ca consulting cc 134-15 393599 2495915
+9052:3993303212011719797 2011711725 10059 99529 2o11eo9725 2o13711723 *meneymeiim rLl llc mail ru thawte ssl ea us thawte. no. N 194-17 297292 2225133
+20:29:55 18:53:40 00:00:00 23:59:59 184-15 294437 2395012
+303203513032E2011—09—23 2011—11—25 976 3517 2010—01725 2012—01727 mail.ru.i5 i5 mail.ru.i5 us eduifax N 189.160 168414 659037
+17:01:53 15:40:05 15:42:05 13:12:59 154,77 120533 550335
+303202C03082£2011-03-22 2011-09-06 0 1432 2011-03-04 2012-03-03 mail.ru-Sib.ru us mail.ru-Sib.ru us Y 154.74 113555 515159
+03:14:21 06:15:36 06:42:12 06:42:12 . . 184.75 112574 533512
+300204303002E2011-10-17 2011-11-25 22 1236 2011-05-27 2012-07-25 mail.ru-o:im:ru maii.ru-com:rd thawte dv ssl ca us tnawte, no. N 154.75 110325 690093
+14:09:52 13:50:10 00:00:00 23:59:59 135.55 3779 6023
+300203043002£2011—10—00 2011—11—25 301 1150 2010—02—13 2012—11—00 m><1:shooo—mai|:rd ru shooo shooo.ru ru shodo N 135 56 37,40 7350
+00:05:24 17:04:02 14:19:06 14:19:06 '
+3oo2o415aoo212o11—11—ol 2o11—11—25 24:5 593 2o11—o9—15 2o12—o9—14 limds.mai|.ru rLl Isocegeoimrr fr cegeoim N 134-151 355"“ 3493
+o7:35:53 14:25:29 11:47:51 11:47:51 53-121 2532 4-337
+3ooeo2543o9212o11—1o—14 2o11—11—21 2o1 aoa 2o11—1o—o5 2o 14—1o—o4 modem‘otomaitru ru mall.l’u moder.foto.mail.ru ru mail.ru Y 139-43 2523 9226
+18:20:34 05:13:34 08:07:34 08:07:34 134.98 2360 9165
+308204153002E2011—10—31 2011—11—25 99 259 2011—09—15 2012—09—14 auth.mail.ru rLl iSD.CEgEdlm.fr fr cededim N 179.89 2227 7600
+14:14:12 15:45:50 11:47:51 11:47:51 175.90 2051 7320
+136.84 1981 8442
+
+TS//Sl//REL
+
+ 
+

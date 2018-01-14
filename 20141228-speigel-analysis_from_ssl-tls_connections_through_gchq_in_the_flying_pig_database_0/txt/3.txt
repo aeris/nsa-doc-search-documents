@@ -1,0 +1,18 @@
+TS//S|//REL
+
+Trends Reports
+
+. We summarise these events to produce weekly
+trends reports, which record:
+_Types of key exchange (RSA/DH/EC)
+
+_ “Top 40" TLS services in use, highlighting new
+services and changes in existing services
+
+_ Details about the crypt (e.g. DH moduli)
+
+_ “Watchiist” to keep an eye on widely-used services
+(Facebook, Gmail, Hotmail, etc)
+
+TS/lSll/REL
+

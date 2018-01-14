@@ -1,0 +1,127 @@
+FLYING PIEE,
+
+TLS/SSL KNEIWLEDEE BASE
+
+i7)
+
+TS//Sl//REL
+
+In
+
+ 
+
+Example: search by server
+
+Prototype owner:
+
+ 
+
+HRAJustification Querv FLYING PIG — general SSL toolkit 'Quent QUICK ANT —T9r events QFD
+Querv FLYING PIG Server IP-soecific oanels
+[p I; network} certificate ﬁeld 13414 General 1P info I4 SSL Server certiﬁcates seen on this IP I
+‘ . n Top 10 ESL client geos I4 55L Pattern of life lv‘
+u .HCI tIP S IPHBth .
+Q cry a; K ) Ndltailiiork liq 9:29; 9’24] 0 Top 10 ESL server ports I.) HTI'P requests to this IP I.
+_ '..‘ ‘ ' ‘ a . a . Top 1|] ESL case notations ./ Top 199 ESL clients J
+or. :_ Server Certlflcate [e.g. foeaarnolecorn (use In for Wildcardsﬂ SSL Traffic stats ./
+Run Query!
+ICertIficate field search.l %rnail.rul 6 lServer IP: .184.14l 9
+General IP info for server IP‘ 184.14
+Geolocation ('5' ): WHOIS info If? 1: AS info ( '5' ): DNS (9 2|: Tor node ('5' ):
+Country: RU (M) Network: - ..--_.176.IJI2IJ. Network type: No results. Advertised by AS: 47764. Found within network: No results No matches
+
+City: MOSCOW (L)
+
+Company: Moil.Ru. Domain: mail.ru.
+
+76.o,.r2o.
+AS name: MAILRIJ-AS Limited lialJilit'vI cnmpanv Mall.Ru.
+
+ 
+
+Top ll] SSL client geos II 9)
+
+Top 1|] SSL server ports (9)
+
+Top ll] SSL case notations (’9)
+
+ 
+
+U
+
+ 
+
+lﬂI
+
+_.__a_a_._._._._._.
+
+“6::
+
+Overall Paired (approximate)
+
+0
+§
+
+El LOU
+
+ 
+
+ 
+
+SSL Traffic stats (1‘ V1 1:
+
+For week ending 2|]11-12-23:
+
+No. unigue clients : 1|]4317.
+
+% client»server IPs with traffic seen in both directions 7= 111.7%.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+:l en | 299.999
+¥ moot-J
+l n
+lell-Ill-L-I ZUZl-Ll-L] ZL Ll-ll-lﬂ lell-Jl-zh
+.LlriiuLE clients With client-sew ‘r Ill—iniouc clients with s:r.=r-Ii.li-:IIL .Uniuue clients with
+trafﬁc orili,I trafﬁc orili,I bidirectional trafﬁc
+SSL Certificates seen on this IP '3)
+Tip 1: Right click on a certificate to explore it further!
+l-3of3items 1d | 25 | El] | loo 1
+First seen on this IP Last seen on this IP Count wile 25th Count all time Valid from Valid to Subject common name Issuer common name
+Nov
+21311-9949 13:91:96 " " 9911-11-25 19 91:47" " "357543 2359179 2911-91291999'999' " " 9919-99-2? 23:59:99 *.mai|.ru thawtesslca
+2911799799 12:23:45 2911711725 97 59:97 1441 1447394 291179173199:99:99 2912793727 23:59:59 "‘ I'nailru thawte ssl ca
+2911-11-16 14:13:93 2911-11-16 14- 13:93 O 1 2911-09-95 19:34:19 2914-03-95 19:34:19 ”.h‘ltor‘ttaLtEIu go daddy secure certification authority
+Average pattern of life for a client (seeded around SSL events to this server IP) I? .3: HTTP reouests to this IP (too 100) ( '5' 2,)
+Tip 1: Filter by min. % occurrences of event: 1% [Apply filtering “0 1: Right EllCk DP 5' SBFVEV 15' t0 EXPlDrE it as an SSL SEWBF‘
+1—9of233items 1o|25|5o|1oo 1 234-5 6?! u + 1-1oof225items 1ol25lso|1oo 123 4557 r H I
+Correlated event Event [F Event Percentage Server IP Host name requested Fir-.l -.| -.n I a-.I urn-u Count last Count all time
+part occurrences week
+. "f "9'“ 194.14 e.mai|.ru 2911-19-14 2911-11-25 1999215 13992636
+GET rF—‘ClUESttD top3.rnall.ru 135112 99 2'31]- 194.14 m.l'rlail.ru 2911719714 2911 11725 99269 664199
+GET I'BClUBSt t0 topimailru $35113 3'3 1-51]- 194.14 2194.14 2911-10-14 2911-11-25 174-26 199536
+GEF requestto dD-Elhfaltoomailru 134253 ED 142 1:94.14 authrnailru 2o11-1o-14 2911-11-25 11739 7oo2o
+GFT l'F'ﬁllF'ql' tﬁ l'ﬂh' l'l'lPlll l'll 19446 Fiﬁ l3? 1Qd‘ld Fnlmjil r1 Oﬁ11s1ﬁs1d Dﬂ‘l‘l 11 A: 0004 Hanan
+
+ 
+
+ 
+
+ 
+
+ 
+

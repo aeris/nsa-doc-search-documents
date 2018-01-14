@@ -1,0 +1,19 @@
+TS//S|//REL
+
+Source of data
+
+. Our TLS events come from our TLS app
+
+_ Runs on special source (approx. 200 x 106) and
+Comsat data
+
+_ Produces unselected events: about 10 billion Server
+Helios per week
+
+. Records details about the handshake: lPs, Hello
+messages, Certificate, Key Exchanges
+
+. Events stored for 6 months in our clouds
+
+TS//S|//REL
+

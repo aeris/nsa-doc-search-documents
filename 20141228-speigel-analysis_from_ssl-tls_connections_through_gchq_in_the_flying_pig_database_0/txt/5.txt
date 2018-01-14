@@ -1,0 +1,17 @@
+TS//S|//REL
+
+Trends Reports: Findings
+
+. RSA:DH:EC ratio roughly constant (90:5:5)
+
+_ EC almost entirely Google (plus a bit; of whatsapp)
+. New certificates mostly use 2048-bit RSA keys
+. We've seen new services jump up the list:
+
+_ Summer 2011: Google’s switch to Elliptic Curves
+
+_Autumn 2011: Apple's iCIoud service
+_ Spring 2012: Increase in mobile Facebook encryption
+
+TS/lSll/REL
+

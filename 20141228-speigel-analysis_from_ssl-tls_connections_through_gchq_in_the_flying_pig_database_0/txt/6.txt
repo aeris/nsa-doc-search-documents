@@ -1,0 +1,18 @@
+TS//S|//REL
+
+TLS and targets
+
+. Trends reports not based on targeted data
+
+. How do we judge interest in TLS services,
+and get analysts involved? Two ways
+we’ve tried:
+
+—Associate TLS events with targets, and inform
+the relevant analysts (TargeTLS)
+
+— Put TLS data out there for analysts to search
+(FLYING PIG)
+
+TS//S|//REL
+

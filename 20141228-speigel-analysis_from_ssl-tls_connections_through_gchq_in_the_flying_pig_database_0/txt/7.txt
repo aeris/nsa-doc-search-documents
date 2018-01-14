@@ -1,0 +1,20 @@
+TS//S|//REL
+
+Ta rg eTLS reports
+
+BROAD OAK: GCHQ’s repository of target info
+
+We match TLS events against this:
+_ Is the server IP in BROAD OAK?
+
+_ Does the certificate's domain match a URL selector,
+or a number of email selectors?
+
+Email the relevant POC to ask if the traffic is of
+interest
+
+About 15% of the services we’ve identified in
+this way have been worth looking into further
+
+TS/ISll/REL
+
