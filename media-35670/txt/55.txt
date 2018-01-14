@@ -1,0 +1,39 @@
+    
+
+J ~~\
+./ '-.\|
+w. il
+l. . r r
+
+/
+
+\\ a,“ /.'
+
+‘ﬁgmiw
+
+ALusing BADASS for Fun and Profit
+
+BADASS can show us packet dumps of traffic that completely matched the
+rule, and traffic that matched on the selector but failed on the rule.
+
+ 
+   
+
+Green indicates the selector hitting in the packet payload.
+
+    
+
+Yellow indicates where part of the rule hit. In
+this case, it’s the “Host: t.medialytics.com”
+validator and where a User-Agent extractor
+
+hit in the traffic.
+
+The lack of other highlighted regions indicates that there was no hit on the ”dev"
+presence identifier...
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+

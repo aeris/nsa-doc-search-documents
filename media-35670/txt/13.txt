@@ -1,0 +1,47 @@
+_Googlemobilemaps-DODe-Body
+
+Baoktohﬁ lCopgtMsrum
+
+Rule Properties snow
+
+Rubteﬂ EdkHM HML
+
+Testing stetus Produced en lnvalid result in the FKB peep testJ and testing has been suspended
+
+Testing PropresleGTE) Ruleﬁiﬁeck DKQPtAP FKBEAP FKEl-S-oala:
+
+Deployment status DEPLOYED
+
+Deployment Progress Sublﬂsmn HEl Widow [hwy deployed in heartbeats:
+(TPS)
+
+lo'ersion definition hide
+
+XM YAML
+
+<survevRule>
+<ruleName>MiGooglemobllemaps—DDUe—Eody</ruleName>
+<eotion>
+<ect1onType>EVEHT</actionType>
+{eventFormet>PRESENCE</eventFormat>
+{eventlogloalDestination>preeenoe<feventLogioalDeetination}
+(presenceEventIdentlflerTypE>M_Gaoglemoh1lemeps—DDDE—Eody</presenc
+<presenceEventUseSDurcelp>true</presenceEventUseSDurceIp>
+{preseneeEventTITvpe>TDI<fpreeenerventTIType>
+<presenceEwentGenerat1onTypE>MACHIHE</presen:eEventGeneretionTvpe>
+</ection>
+<oriterlon5et>
+{criterion}
+<fspresking>
+<selectorTvpe>etring<fseleotorType>
+{selector>/glm/mmap<Xselector>
+{bitMask/>
+{caseﬁensitiveDtruE<ﬂcaseSen31tlve>
+{pasitlon>71</position>
+<protocollayer>APPLICATIOH_IA¥ER</protocollever>
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+ 
+

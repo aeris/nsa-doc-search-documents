@@ -1,0 +1,33 @@
+UK SECRET STRAPl COMINT j~.
+S/lSl/IREL
+
+   
+
+1303138597 6 62824 80
+Google-Prefid-Cookie 16 8df8675ed8762cb2 TDI-Scope
+7 Machine Route 12 192.168.0.51 HHFP—Hash 8
+4909f053 User—Agent 138 Mozilla/4.0 (compatible;
+MSIE 8.0; Windows NT 6.0; WOWG4; Trident/4.0;
+SLCCl; .NET CLR 2.0.50727; Media Center PC 5.0;
+.NET CLR 3.0.30729) Host 17 news.google.co.uk Geo—
+IP—Dst 38 37.4192;—122.0574;MOUNTAINVIEW;US;6LLM
+Event—security—label 6 10007F Stream—security—label
+10 400023EOFF Source-Bearer 4 TEST
+
+m< .....
+
+|_|
+
+ 
+
+ 
+
+ 
+
+ 
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+ 
+

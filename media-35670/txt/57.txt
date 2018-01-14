@@ -1,0 +1,44 @@
+      
+
+UK SECRET STRAPl COMINT
+S/lSl/IREL
+
+“-‘iﬁigmsgﬁ/
+
+Aﬁising BADASS for Fun and Profit
+
+ 
+
+Using the FKB PCAP test in this manner has shown us
+that:
+
+!“
+
+Medialytic traffic can appear as form-data
+
+2. Our theory about iPhone traffic having a
+similar structure holds
+
+3. iPhone traffic is using the MDS sum against
+the UUID
+
+4. We can create a rule against the iPhone
+
+variant with ease (“sys=iPhone 08” vs.
+
+“sys=Android")
+
+and most importantly:
+
+ 
+
+1. Creativity, iterative testing, domain
+knowledge, and the right tools can help us
+target multiple platforms in a very short
+time period.
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+

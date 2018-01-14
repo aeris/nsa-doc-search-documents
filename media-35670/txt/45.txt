@@ -1,0 +1,143 @@
+GEE?-
+
+UK SECRET STRAPl COMINT
+
+S/lSl/IREL
+
+ 
+
+Analytics: Dataflurry Device Metadata
+
+-device.model
+
+-device.manufacturer
+
+-device.os.version
+
+-device.software.version
+
+-build.brand
+
+-build.id
+
+-version.release
+
+-runtime.total.memory
+
+-storage.available.size
+
+-audio.encodings
+
+-microedition.commpons
+-microeditionconfiguration
+-microedition.encoding
+-microedition.global.version
+-microedition.locale
+
+-microedition.platform
+
+-microedition.profiles
+-wireless.messaging.smssmsc
+-wireless.messaging.mms.mmsc
+-javax.b|uetooth.LocalDeVice
+-javax.microedition.content.ContentHandler
+-javax.microedition.global.Resource Manager
+-javax.microedition.io.SocketConnection
+-javax.microedition.io.file.FileConnection
+-javax.microedition.location. Location
+-javax.microedition.media.control.VideoControl
+-javax.microedition.mediacontrol.RecordControl
+'javaxmicroedition.payment.TransactionModule
+-javax.microedition.pim.PlM
+-javax.microedition.sip.SipConnection
+'javaxmicroedition.sip.SipServerConnection
+-javax.obex.0peration
+-javax.wirelessmessaging.MessageConnection
+-javax.wireless.messaging.TextMessage
+-javax.wirelessmessaging.MultipartMessage
+
+-pur.date
+
+-rel.date
+
+-pur.price
+
+-store.id
+-bluetooth.api.version
+-fi|econn.dir. memorycard
+-fileconn.dir. photos.file
+-fileconn.dir. photos.name
+-fi|econn.dir. privatefile
+-fileconn.dir.videos.file
+-fileconn.dir. photos.name
+-fi|econn.dir.tones
+-fi|econn.dir.tones.name
+-microedition.chapi.version
+-microedition.io.file.FileConnection.Version
+-microedition.jtwi.version
+-microedition.m3g.version
+-microedition.pim.version
+-microedition.location.version
+-suppons.audio.capture
+-suppons.mixing
+-suppons.reoording
+-suppons.video.capture
+Nideosnapshotencodings
+-microedition.media.version
+-streamable.contents
+Nideoencodings
+'comsonyericsson.net.cellid
+-com.sonyericsson.net.lac
+-com.sonyericsson.net.mcc
+Tomsonyericsson.net.mnc
+-microedition.timezone
+-microedition.hostname
+dMEl
+
+-| MSI
+
+-network.mcc
+-network.mnc
+-network.|ac
+-network.cellid
+
+'CHHD
+
+-Cellid
+
+-cellld
+
+-LAC
+
+-Iac
+
+-Lac
+
+-MCC
+
+-Mcc
+
+-mcc
+
+-M NC
+
+-Mnc
+
+-mnc
+-commports.maxbaudrate
+-com.nokia.mid.countrycode
+-com.nokia.mid.cellid
+-com.nokia.mid.networkid
+-com.nokia.network.access
+wersion.release
+-country.code
+-defau|t.timezone
+-storage.available
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+or email
+
+ 
+

@@ -1,0 +1,46 @@
+UK SECRET STRAPl COMINT
+S/lSl/IREL
+
+Cross-Platform Ads: Mobclix
+
+GET /?p={p1atform}
+&i={GUID}
+
+&s=320x50 (ad size)
+&av=l.4.2
+
+&u={IMEI}
+&andid={Android ID}
+&v=2.3.0
+
+&ct=nutt
+
+&dm={Phone Name}
+&hwdm={Phone HW Model}
+&sv={OS Version}
+&ua={User-Agent} *: WP? Mobclix SDK still in beta
+&o=0
+
+&ap=0
+
+&tt=51.903699%2C-2.078062
+
+&t=en_GB HTTP/1.1
+
+Cookie:
+
+User-Agent: m
+
+Host: ads.mobctix.com
+
+Connection: Keep-Alive
+
+ 
+
+ 
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+

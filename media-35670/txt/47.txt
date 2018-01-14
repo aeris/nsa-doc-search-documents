@@ -1,0 +1,25 @@
+    
+
+UK SECRET STRAPl COMINT “‘2; I
+S/lSI/IREL lg.
+
+“.413,an 91MB ' /
+
+Analytics: Other Methods & Providers
+
+ 
+
+Many apps send a beacon out when the app is started
+- Can be first- or third-party
+- Typicaly includes phone ID; can include IMEI, geo, etc.
+- Examples: Qriously, Com2Us, Fluentmobile,
+Papayamobile
+
+BB App World will geolocate users using MCC and MNC to
+determine what content to show in the app store
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+

@@ -1,0 +1,82 @@
+@ng “'35.:
+
+Logs: Show
+
+Packet Dump
+hide
+
+Hexdumg ASCII
+
+download as pea];
+Packet #1
+Timestamp: 2011-04-12 15:25:11
+
+Network layer; protoool=TCP sroip_ dostip_fragoff=0
+
+0000: 4500 0177 8258 4000 4005 4859 0840 addS E..U.XB.@.HT.@..
+
+0010: d155 E554 .U.d
+
+Transport layer; srnport=50323 destport=BU
+
+0014: C493 0050 9ad1 405D 55d8 dc5d 8015 7d78
+
+0024: abf7 0000 0101 080a ffff c224 2EEO c3h2
+
+Application layer
+
+0034: 554: 535:: 2_ zoee POST H 5:.EPPLICATIUHIANYIFlJDIlIElfglmfnmap
+0044: 5454 502f 3128 310d 0a43 5f5e 7455 5874 TTFH1.1..Content
+
+0054: 2d54 7970 553a 2051 7070 5c59 5351 7459 -TypE: applicatl
+
+0054: Efﬁe 2f52 595E 5172 790d 0:343 Efﬁe 7455 onr'hinary..Conl:e
+
+0074: 5E74 2d4c 5558 5774 583a 2035 3530 0d0a nt-Length: 550..
+
+0084: 455f 7374 3a20 5d5f 5259 5:55 5d51 7073 Host: mohilemaps
+
+0094: 2E53 5559 555a 7473 2807 5f5f 575: 552E .olients.google.
+
+00a4: 53 6f SclIZIcl 08.43 Efﬁe 5.255 5374 695: Ee3a com. .Connection:
+
+00h4: 204b 5555 702d 415C 5975 550d 0a55 7355 KEEDiEliVE..USE 0:3PPLICATIONIANYITAGIOIIIMnUsereAgenm
+55:34:qu riﬂe 5955 5:351 I—Agent: Hozilla
+
+00d4: 2f35 2330 2028 4:59 5875 783D 2055 3b20 f5.0 (Linux: U:
+
+0084: 4152 5472 5f59 5420 3222 312d 7570 5451 Android 2.17upda
+
+00f4: 7455 313b 2055 5E2d 5752 3h20 4854 4320 tel; en-gh: HTC
+
+0104: 4455 7359 7255 2042 7559 5854 2f45 5245 DESirE BuildeRE
+
+0114: 3237 2920 4170 7056 5557 5552 4b59 742i 27] AppleUehKitH
+
+0124: 3533 302E 3137 2028 4b48 544d 4C2C 205C 530.17 lKHTHL, 1
+
+0134: 595b 5520 4755 535D 5f29 2055 5572 7359 ikE Gecko] VEIEl
+
+0144: 5f5E 2f34 2830 204d 5f52 595C 5520 5351 an4.0 Mobile 5a
+
+0154: 5551 7259 2f35 3330 2231 3720 2852 7251 fatif530.17 (bra
+
+0154: 755f 2045 5245 3237 2931:: 2057 75.59 70-130 ERE27]; gzipD F:APPLICATIONIANYITAGIOICIlt‘anlr‘inlffffffff
+
+0174: 030d 0:
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

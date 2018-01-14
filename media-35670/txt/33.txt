@@ -1,0 +1,26 @@
+       
+
+0/)
+Cross-Platform Ads: Mydas
+
+GET /getAd.php5?
+sdkapid=35447 _ _
+aauid={Phone IMEI} Ar ument IPhone AndrOId WP?
+&ua={User-Agent}
+&mmisdk=3.6.3-10.10.26.
+&kw={keywords for app}
+&mode=live
+&adtype=MMBannerAdTop
+HTTP/1.1
+
+ 
+
+Host: androidsdk.ads.mp.mydas.mobi
+Accept-Encoding: gzip
+Accept-Language: en-GB, en-US
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+

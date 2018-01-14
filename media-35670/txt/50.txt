@@ -1,0 +1,46 @@
+' lﬁtcf‘f.
+
+Q UK SECRET STRAPl COMINT
+l __ S/lSl/IREL
+
+t. ‘9‘?”er .
+
+Windows Phone 7 App IDs
+
+   
+
+All traffic from a Win? handset appears to carry the GUID
+associated with the app in the HTTP Referer field.
+
+POST /Service/ServiceElleStyleTag.svc HTTP/1.1
+
+Accept: */*
+
+Referer: file:///Applications/Install/BB7CD1F6-BCDA-DF11-A844-
+00237DE2DBQE/Insta11/
+
+Content-Length: 243 . .
+Accept-Encoding: identity L If the Referer ﬁeld '5
+Content-Type: text/xml: charset=utf-8 formatted In this way only
+
+SOAPAction: "urn:ServiceElleStyleTag/GetPlaces -
+User-Agent: NativeHost for WP7 apps, It may be
+
+Host: styletag.e11e.fr possible to use this as a
+
+Connection: Keep-Alive mobile TDI against the
+Cache-Control: no-cache Live account
+
+ 
+
+<s:Envelope
+xmlns:s="http://schemas.xmlsoap.org/soap/envelope/“><s:Body><GetP1acesIn
+Area><centerLat>51.899262428283691</CenterLat><centerLong>-
+2.0722637176513672</centerLong><take>10</take><skip>0</skip></GetPlacesI
+nArea></s:Body></s:Envelope>
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+

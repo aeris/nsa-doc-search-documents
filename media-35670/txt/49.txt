@@ -1,0 +1,30 @@
+ 
+
+UK SECRET STRAPl COMINT
+S/lSl/IREL
+
+Windows Phone 7 Device IDs
+
+ 
+
+App descriptions in the Marketplace will indicate whether a given
+app will use the account identifier or the phone identifier, both or
+neither.
+
+Device IDs are 20-byte values (40-byte hex strings) represented in
+the following ways:
+~A1A2A3A4ASB182BBB4BSClC2CBC4CSD1D2D3D4D5 is the usual ASCII
+representation, typically in upper-case
+~A1A2A3A4-ASBlB2BB—B4BSC1CZ-C304CSD1-D2D3D4D5
+~A1-A2—A3-A4-A5—Bl—BZ-83-84-BS-Cl—C2—CS—C4-C5-D1-D2—D3-D4-D5
+°Base64 encoding the integer value of the identifier. The resulting string
+looks like oaijKWxerOtcHCwSTFOdLTlNU:
+
+-Long number string (i.e.
+19621225364332011917921824118918419013320401482152118)
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+

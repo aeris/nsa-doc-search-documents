@@ -1,0 +1,72 @@
+UK SECRET STRAPl COMINT
+S/lSl/IREL
+
+Analytics: Dataflurry Device Metadata
+
+ 
+
+Device Hardware
+
+ 
+
+-device.model
+°device.man ufacturer
+
+Phone Information
+
+~wireless.messaging.sms.smsc
+wireless.messagingmmsmmsc
+-IMSI
+
+°IMEI
+
+08 Information
+
+-build.brand
+°build.id
+-device.os.version
+-version.release
+
+Cell Network Metadata
+
+'network.mcc
+'network.mnc
+
+'network.lac
+
+'network.cellid
+'com.sonyericsson.net.cellid
+'com.sonyericsson.net.lac
+'com.sonyericssonnetmcc
+'com.sonyericssonnetmnc
+'CelllD
+
+-cellid
+
+'LAC
+
+'Lac
+
+'lac
+
+M00
+
+M00
+
+'mcc
+
+'MNC
+
+'Mnc
+
+'mnc
+'com.nokia.mid.countrycode
+'com.nokia.mid.cellid
+'com.nokia.mid.networkid
+'com.nokia.network.access
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+

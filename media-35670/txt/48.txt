@@ -1,0 +1,24 @@
+UK SECRET STRAPl COMINT
+S/lSl/IREL
+
+Android ID Changes
+
+ 
+
+Typically, Android IDs have followed the format below:
+
+ 
+
+Seeing Android IDs starting to use the full 64-bits and
+decent distribution
+
+Special case: 9774d56d682e549c is a non-unique
+Android ID (related to a Froyo release bug)
+
+ 
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+

@@ -1,0 +1,50 @@
+ 
+
+   
+
+a UK SECRET STRAPl COMINT
+. .— S/lSl/IREL
+
+'%4m®""$ I
+
+Windows Phone 7 Marketplace
+
+The WP? Marketplace also associates with the handsets
+Live account, and can include enough metadata to
+indicate that the account is active on a handset.
+
+ 
+
+GET /v3.2/en-GB/apps? The “Store” arguments
+orderBy=downloadRank can help identify the
+&cost=paid&chunkSize=10
+
+&c1ientType=WinMobi1e%207 .0 handset man ”feet” rer
+&store=Zest and the carrier
+
+ 
+
+&store=OZOGB
+
+&St0re=HTC HTTP/1.1
+
+User-Agent: ZDM/4.0; Windows Mobile 7.0;
+
+Host: catalog.zune.net (or origin-catalog.zune.net)
+Connection: Keep-Alive
+
+Cache-Cont r01: no-cache / cookie value for the
+Cookie: ANON=A=63388195C29A6lB3EA2E62EEFFFFFFFF&E=b - -
+NAP=V=1.9&E=ac2&C=WbPWetslRthDSMaoaSylZlN44id48LnR.|-lve account 355003th
+
+EVrc00q8wd6DSOg&W=l with the handset
+
+This is the ANON
+
+  
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on . or email
+
+ 
+

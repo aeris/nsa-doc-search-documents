@@ -1,0 +1,55 @@
+   
+
+UK SECRET STRAPl COMINT .
+S/lSl/IREL
+
+{rt
+
+ 
+
+Analytics: Dataflurry Example (Device Metadata)
+
+POST http://data.fturry.com/aar.donutt HTTP/1.1
+Host: data.fturry.com
+
+Proxy—Connection: keep—alive
+
+Content—Type: application/octet—stream
+Content—Length: 1395
+
+Connection: close
+
+.......... 0?.n..IPF9LEEU8YW91CKDSIUQ..2.0.74..BBPIN574646979....0?......0?......device.m
+odet..Btackberry8900..device.manufacturer..Research In
+Motion..device.os.version..5.2.0.31..runtime.tota1.memory..169452204..storage.avaitab1e.
+.524280..audio.encodings.,encoding=audio/amr encoding=pcm
+
+ 
+
+encodi . .
+325;.“ Handset IS RIM BlackBerry 8900 With 08 5.2.0.31 lo
+SBLmVl. devicemodel Blackberry8900
+
+3:433 device.manufacturer Research In Motion av
+javax. n.
+-t.r”e- device.os.version 5.2.0.31
+
+$Javax
+
+22:33) runtime.tota|.memory 169452204 if
+3325:? storageavailable 524280 on
+
+ 
+
+ 
+
+ 
+
+..false..javax.obex.0peration..true.*javax.wiretess.messaging.MessageConnection..true.
+$javax.wiretess.messaging.TextMessage..true.)
+
+jﬁllf‘mfoﬁirﬁliﬁilaﬁSléeﬁ-éi'rﬁétalgo‘ri—l@iiélgsgljeplﬁloﬁﬁﬁéﬁﬂdomi3f¢nformation Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+

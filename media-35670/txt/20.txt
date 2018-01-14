@@ -1,0 +1,59 @@
+HUI-E filters
+
+Browse the current rules using [n]one or more ﬁlters
+
+Rule Descriptor Descriptor Value
+
+ite m_oless idenlilprreseni
+
+item_eemiee Foeehook
+
+any
+
+If
+I'D
+m
+E
+=
+a
+
+AotorlDireot l Faoeoooklidentltycpresentlemail||ogin_><cCookie [VAML edit] [VAML create like]
+AotorlDireot l Faoeoooklidentltycpresentlemail||ogin_><cSetcCool<ie [VAML edit] [MML create like]
+ActorlDireotlFaoeoooklidentlty—presentlemailllxe—Cookle [VAML edit] [MML create like]
+AotorlDireotlFaoeoooklidentlty—presentlemailllxe—Set—Cookie [VAML edit] [VAML create like]
+AotorlDlreotlFaoehooklidentity—presentlemail|mohile—emalI—Method—Body [MML edit] [VAML create like]
+AotorlDlreotlFaoehooklidentity—presentlemail|mohile—m_user—Cookie [villi-ii. edit] [VAML create like]
+AotorlDlreot l Faoehooklidentity—presentlemail|reg_fh_gate—Set—Cookle [VAML edit] [VAML create like]
+AotorlDlreot l Faoehooklidentity—oresentlemail|reg_fl:u_ref—Set—Cool<ie [VAML edit] [VAML create like]
+AotorlDlreotlFaoehook|identity—present|uid—o_user|o_user—Cool<ie [VAML edit] ["i'FlMLcreate like]
+
+IIIHHIHHHHH
+
+_l:|rigna1_tdi_rule: FaoehookcIDcH'ITPcCookiEcoiueer
+_l:|rigna1_tdi_tﬂle: FaoehoochUsercCookie
+_rule_creater: ejoerro
+_rule_editor: khbeldtcl
+_rule_status: looked
+ﬂata_stream: HTI'PcReq'uest.
+extract:
+counter-t: Cookie
+pattern: '[?:*~|[ :]]c_ueer=[[* ;]+l‘
+extraction: Direct
+item_attr:ihutii:ln: Actor
+item_i:1ass: identity—present
+item_scope: User
+item_service: Facehoo]:
+item_tech_conte:ll:t: c_u5er—Coo}:ie
+item_tme: uid—:_user
+iteciri_1uiiverse: service
+rule: ActorlDirectlFacehoo}:lidentity—presentluid—c_userlo_u3er—Coo]::l.e
+
+....1_ _-.1. nnnnnn
+
+This information is exemp rom ISC osure uner oe sulec o exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
+ 
+

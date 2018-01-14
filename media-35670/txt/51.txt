@@ -1,0 +1,49 @@
+' ' a": gatif‘ﬁffﬁm
+UK SECRET STRAPl COMINT ‘
+SHSHREL a g g 9
+
+Windows Phone 7 MSN Ads
+
+ 
+
+Apps that use MSN’s Mobile Ad service associate with
+the handsets Live account instead of the handset itself.
+
+GET /v3/Delivery/Placement?
+
+pubid=break001wp7
+
+&pid=USM3PB
+
+&adm=1
+
+&cfmt=text,image&sft=jpeg,png,gif&w=480&h=80
+
+&fmt=json
+
+&cltp=app
+
+&dim=le
+
+&nct=1&lc=en-GB&idtp=anid
+&uid=63388195C29A6133EA2E62EEFFFFFFFF HTTP/1.1
+
+Accept: */*
+
+Referer: file:///Applications/Install/DlCDZDCB-7C05-DF11-A844-
+0237DEZDBQE/Install/
+
+Accept-Encoding: identity
+
+User-Agent: NativeHost (or occasionally, User-Agent: windows Phone Ad
+Client (Xna)/5.1.0.0)
+
+Host: mobileads.msn.com
+
+Connection: Keep-Alive
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+

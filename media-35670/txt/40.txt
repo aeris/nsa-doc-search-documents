@@ -1,0 +1,53 @@
+   
+
+UK SECRET STRAPl COMINT . _
+S/lSl/IREL « ..
+
+Analytics: Dataflurry Example (Device Metadata)
+
+ 
+
+POST http://data.f1urry.com/aar.donutl HTTP/1.1
+Host: data.f1urry.com
+
+Proxy—Connection: keep—alive
+
+Content—Type: application/octet—stream
+Content—Length: 1395
+
+Connection: close
+
+Phone Number and Carrier Information
+wireless.messaging.sms.smsc +441234567890
+wireless.messaging.mms.mmsc
+http://mms.mycarrier.co.uk/servlets/mms
+
+ 
+
+ 
+
+ 
+
+ 
+
+cate..en—
+GB..microedition.platform..BlackBerry8900/5.0.0.411..microedition.profiles..MIDP—
+2.1..wiretess.messaging.sms.smsc.
++441234567890..wiretess.messaging.mms.mmsc.&http://mms.mycarrier.co.uk/serv1ets/mms..jav
+ax.b1uetooth.LocalDevice..true.)javax.microedition.content.ContentHandler..true.)
+javax.microedition.global.ResourceManager..true.&javax.microedition.io.SocketConnection.
+.true.)javax.microedition.io.file.FileConnection..true.
+$javax.microedition.location.Location..true.—
+javax.microedition.media.control.VideoControt..true..javax.microedition.media.control.Re
+cordControl..true.,javax.microedition.payment.TransactionModule..false..javax.microediti
+on.pim.PIM..true.
+$javax.microedition.sip.SipConnection..false.*javax.microedition.sip.SipServerConnection
+..false..javax.obex.0peration..true.*javax.wire1ess.messaging.MessageConnection..true.
+$javax.wiretess.messaging.TextMessage..true.)
+
+jﬁ'l‘lﬁﬁfo‘firra‘ﬁibﬁ$§eﬁlﬁﬁ|§tal93rnQiiﬂlbbﬁWW§§§ﬁﬁdomrdﬁnformation Act 2000 and may be subject to exemption under
+
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+

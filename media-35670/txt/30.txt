@@ -1,0 +1,40 @@
+“X d<g§¢iiﬁé§iﬁﬂ
+UK SECRET STRAPl COMINT ‘
+S/lSl/IREL
+
+Cross-Platform Ads: AdMob
+
+GET /p/i/e2/9b/e29b1e7503a5b24b3e693ece2c887173.png HTTP/1.1
+
+Host: mm.admob.com
+
+User—Agent: Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; Hw
+iPhone1,2; en_us) AppleWebKit/525.18.1 (KHTML, like Gecko) (AdMob-iSDK-
+20090617)
+
+X—Admob—Isu: 7355c9d9f7d1033e0fe3ee13513366ad69170013
+
+Accept: */*
+
+Accept-Language: en-us
+
+Accept—Encoding: gzip, deflate
+
+Cookie: uuid=81a66cc2cf3f554e02f089c04d8d4fcb;
+admobuu=48617727332748471264744376038126
+
+Connection: keep-alive
+
+    
+
+The isu can appear both as an argument in a POST or in the X-ADMOB-ISU
+HTTP header extension. The value itself is 32-40 bytes long.
+
+Hosts using this value consistently: r.admob.com, mm.admob.com,
+mmv.admob.com, and a.admob.com
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+

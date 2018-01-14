@@ -1,0 +1,35 @@
+UK SECRET STRAPl COMINT
+S/lSl/IREL
+
+   
+
+Ads: Mobclix
+GET /?p={p1atform}
+&i={GUID} -GET re uest indicates latform and the device
+&s=320x50 (ad size) _ _ _ q p
+&av=1.4.2 identifier
+&u={$MEI} . -the order of the p argument in the GET can
+3331??“ mid ID} vary between platforms
+&Ct=r}ui1 -II is lat,long; not always present
+&dm={Phone Name} °Uses multiple URLs for activities:
+&th'P={Ph°“e HW}M°de1} °Ads: ads.mobclix.com
+&sv= OS Version . . .
+&ua={Use I. _ Agent} oAnalytics. data.mobcli)_<.com/post/sendData
+&0=9 oFeedback: data.mobclrx.com/post/feedback
+&ap=0 oConfig: data.mobclix.com/post/config
+
+&11=51.903699%2C-2.078062
+&1=eniGB HTTP/1.1
+
+Cookie:
+
+User-Agent: m
+
+Host: ads.mobc1ix.com
+Connection: Keep-Alive
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+

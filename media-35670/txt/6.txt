@@ -1,0 +1,106 @@
+GEE-
+
+<surveyRule>
+
+UK SECRET STRAPl COMINT
+S/lSl/IREL
+
+ 
+
+ 
+
+<ruleName>Google-Prefid-Cookie<lruleName>
+<action>
+
+\
+\
+\
+<actionType>EVENT<lactionType>
+<eventFormat>PRESENCE<IeventFormat>
+
+\
+<eventLogicalDestination>presence<leventLogicalDestination>
+
+\
+<presenceEventidentifierType>Google-Prefid-
+Cookie<lpresenceEventldentifierType>
+
+\
+<presenceEventUseSourcelp>true<lpresenceEventUseSourcelp>
+<presenceEventTlType>TDl<lpresenceEventTlType>
+
+\
+\
+<presence EventGenerationType>MACHlNE<Ipresence EventGenerationTy
+pe>
+<laction>
+<criterionSet>
+
+TDI (Config)
+
+I
+<fs pras ki ng >
+
+ 
+
+ 
+
+I l
+
+I V
+
+I
+<selectorType>string<lselectorType>
+<selector>; PREF=|D=<Iselector>
+
+I BEGAL (App)
+<bitMaskl>
+
+, l
+I, V
+I
+<caseSensitive>true<lcaseSensitive>
+<position>-1<lposition>
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+/ PPF (Framework)
+1'
+<protocolLayer>APPLlCATlON_LAYER</protocolLayer>
+rd>
+
+<numSubsequentPacketsTo FonNard>0<lnumSubsequentPacketsToFonNa
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on
+
+ 
+

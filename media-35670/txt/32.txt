@@ -1,0 +1,46 @@
+ 
+
+UK SECRET STRAPl COMINT
+S/lSl/IREL
+
+Cross-Platform Ads: AdMob
+
+POST /ad_source.php HTTP/1.1
+Accept: */*
+Content-Length: 277
+Accept-Encoding: identi
+Content-Type: applicati
+User-Agent: {User-agent
+Host: r.admob.com
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+&Q;Eﬁ:2r_Agent} *: isu can appear both as an argument in a POST
+
+&isu={isu} or in the X-ADMOB-ISU HTTP header extension
+&ex=1
+
+&client_sdk=l
+
+&1=en
+
+&f=jsonp
+
+&z=l304518478
+
+&S=al4d248b5738462
+&V=20101123-WINDOWSPHONE7-AldaritSuperAds
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+

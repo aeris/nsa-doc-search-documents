@@ -1,0 +1,43 @@
+ 
+
+UK SECRET STRAPl COMINT
+S/lSl/IREL
+
+Mobile Gateway HTTP Headers and Data Aggregators: DataFIurry
+
+POST /aar.do HTTP/1.0
+
+Connection: Keep-Alive
+
+User—Agent: SonyEricssonSSOOi/RBBA Profile/MIDP—2.0 Configuration/CLDC—1.1
+UNTRUSTED/1.0
+
+Host: data.flurry.com
+
+Accept: */*
+
+Accept—Charset: utf—8, iso—8859—1
+
+Content-Type: application/octet-stream
+Content—Length: 2327
+
+Via: infoX WAP Gateway V300R001, Huawei Technologies
+x—up—calling—line—id: +44
+
+x-forwarded-for:
+
+x-huawei-IMSI:
+
+      
+
+......... %......KHFP142N4PHQBQSR7XEH..1.5.0..IMEIIMEI 35808401-728365-6-
+
+65 ...!.
+$5....%...*....microedition.platform..SonyEricssonSSOOi/RBBA024....1.5.0...%.
+.N( ..... :0 ........ onChatMessageSent...(..onChatNewSession...Q.
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on . or email
+
+ 
+

@@ -1,0 +1,41 @@
+/{§C®“ Acéfﬁr
+/ ‘ \ ‘.
+
+UK SECRET STRAPl COMINT
+S/lSl/IREL
+
+ﬁddusing BADASS for Fun and Profit
+
+     
+
+Medialytics traffic from Android uses MDS sum of the Android ID string
+
+Example: 200142d4dde5689 = DEA9F697DEBOCBBBB433018A08723BF9
+
+POST levent HTTP/1. 1
+Content- -Length: 543
+
+ 
+
+onnec n: e
+User-—Agent: Apache-HttpC1ient/UNAVAILABLE (java 1. 4)
+- e---a- --=CAFEBABE
+&s s=Android
+I&dev=dea9f697deb0cbbb8433018a0b723bf9 I
+mo e =goog e+ exus+ ne
+
+&app=77327b6f00e7aa0f452d9d3ac3e2d1618e0f3aaa
+&appv=2.5.3-BB70302
+&data=...
+
+ 
+
+ 
+
+Odds are that they’re using something similar for iPhones....
+
+This information is exempt from disclosure under the Freedom of Information Act 2000 and may be subject to exemption under
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+

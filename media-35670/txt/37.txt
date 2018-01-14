@@ -1,0 +1,45 @@
+z ' g UK SECRET STRAPl COMINT
+' I . S/lSl/IREL
+
+Analytics: Dataflurry Example
+
+ 
+
+POST http://data.fturry.com/aar.donutt HTTP/1.1
+
+Host: data.f1urry.com
+Proxy_C0nnectiom keepmive POST always calls aar.do or aar.donull
+
+Content—Type: application/octet—st ream Host is always data.flurry.com
+Content—Length: 1395
+
+Connection: close
+
+  
+
+.......... 0?.n..IPF9LEEU8YW91CKDSIUQ..2.0.74..BBPIN574646979....0?......0?......device.m
+odet..Btackberry8900..device.manufacturer..Research In
+Motion..device.os.version..5.2.0.31..runtime.tota1.memory..169452204..storage.available.
+.524280..audio.encodings.,encoding=audio/amr encoding=pcm
+encoding=gsm..microedition.commports..USBl..microedition.configuration..CLDC—
+1.1..microedition.encoding..1508859_1..microedition.gtobat.version..1.0..microedition.to
+cate..en—
+GB..microedition.ptatform..BLackBerry8900/5.0.0.411..microedition.profites..MIDP—
+2.1..wiretess.messaging.sms.smsc.
++441234567890..wiretess.messaging.mms.mmsc.&http://mms.mycarrier.co.uk/serv1ets/mms..jav
+ax.b1uetooth.LocatDevice..true.)javax.microedition.content.ContentHand1er..true.)
+javax.microedition.gtobat.ResourceManager..true.&javax.microedition.io.SocketConnection.
+.true.)javax.microedition.io.fite.FiteConnection..true.
+$javax.microedition.tocation.Location..true.—
+javax.microedition.media.controL.VideoControL..true..javax.microedition.media.control.Re
+cordControt..true.,javax.microedition.payment.TransactionModule..false..javax.microediti
+on.pim.PIM..true.
+$javax.microedition.sip.SipConnection..false.*javax.microedition.sip.SipServerConnection
+..fatse..javax.obex.0peration..true.*javax.wireless.messaging.MessageConnection..true.
+$javax.wiretess.messaging.TextMessage..true.)
+jﬁii§iﬁfolrirra$ilaﬁ5§em§ﬁgoirngii§3ibgamwel§éF’Q‘édomrdﬁnformatim Act 2000 and may be subject to exemption under
+
+other UK information legislation. Refer disclosure requests to GCHQ on or email
+
+ 
+
