@@ -1,0 +1,52 @@
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+2.2 (5) IPIAHIESP
+
+2.2.1 (8) DETECTION
+
+The AEG loads the FSPF with the following keyword and mask pair for this protocol:
+
+keyword: 45 FF FF FF FF FF FF FF FF 33 FF FF FF FF FF FF FF FF FF FF 32 FF FF FF FF FF FF FF FF
+FF FF F5
+
+mask: FF co co co co co co co co FF co co oo oo 00 00 00 00 00 00 FF 00 00 00 00 00 00 00 00
+oo 00 @F
+
+This indicates that the packets that satisfy the following parameters will be selected by this keyword for
+processing in the ESP_AEG:
+
+- IPv4 packet
+
+- IP Header Length = 5
+
+- IP Next Protocol 2 AH (0x33)
+
+- AH Next Payload = ESP (0x32)
+- ESP Sequence Number 2 5
+
+2.2.2 (3) SESSIONIZING
+
+The AH/ESP packets would be sessionized by the following set of parameters:
+
+- IP Next Protocol = 51 (0x33)
+- IP Source Address
+
+- IP Destination Address
+
+- AH Next Payload = 50 (0x32)
+- AH Spi
+
+- ESP Spi
+
+The software FSPF is currently programmed to recognize only TCP, UDP, and ESP as valid Network
+Layers. However, since our AH/ESP ke ords start at the Network (IP) Layer, those packets will make it
+through the FSPF to the AEG. ﬂsaid that the change to the FSPF to recognize AH at the
+Transport Layer would be easy to implement.
+
+The DFCE does not currently recognize AH as a valid Transport Layer, and that change will apparently be
+difficult to implement. The new idea is to develop “application-specific demux" components for the TE,
+that will perform any desired sessionization based on parameters after the Network (IP) Layer.
+
+PAGE 7 OF 18
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+

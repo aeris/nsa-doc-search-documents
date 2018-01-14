@@ -1,0 +1,98 @@
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+4.0 (U) SUMMARY
+
+The FIP currently recognizes UDP, TCP, and ESP as valid Network Layer protocols, and currently
+sessionizes those packet types. The new requirement for lP/AH/ESP will require changes to the PIP to
+recognize AH as a valid layer, and will also require changes to the DFCE to allow those packets through.
+
+There has been talk of having application-specific demuxes developed and inserted into the TE to
+perform any required sessionization beyond the Transport Layer. For example, the ESP demux would be
+responsible for sessionizing on Spi value.
+
+The Table below summarizes the various protocol stacks, the parts of the stacks that are used in PPF
+keyword detection, and how the associated packets should be sessionized.
+
+ 
+
+Protocol Stack
+
+Keyword Detection Layers
+
+Sessionization Requirements
+
+ 
+
+IP/ESP
+
+IP, ESP
+
+lP Next Protocol 2 50
+IP Source Address
+
+lP Destination Address
+ESP Spi
+
+ 
+
+IP/AH/ ESP
+
+IP, AH, ESP
+
+lP Next Protocol 2 51
+IP Source Address
+
+lP Destination Address
+AH Next Header = 50
+AH Spi
+
+ESP Spi
+
+ 
+
+IPIUDPIISAKMP
+
+* we have separate keywords for
+ISAKMP Versions 1.0 and 9.9
+
+IP, UDP, ISAKMP
+
+lP Next Protocol = 17‘
+IP Source Address
+
+lP Destination Address
+UDP Source Port
+
+UDP Destination Port
+
+ 
+
+ 
+
+IPIUDP/nuIISIISAKMP
+
+* we have separate keywords for
+ISAKMP Versions 1.0 and 9.9
+
+ 
+
+IP, UDP, ISAKMP
+
+ 
+
+lP Next Protocol = 17‘
+IP Source Address
+
+lP Destination Address
+UDP Source Port
+
+UDP Destination Port
+
+ 
+
+PAGE 17 OF 18
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+ 
+

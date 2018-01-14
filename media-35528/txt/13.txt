@@ -1,0 +1,34 @@
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+This indicates that the packets that satisfy the following parameters will be selected by this keyword for
+processing in the IKE_AEG:
+
+- IPv4 packet
+
+- lP Header Length = 5
+
+- lP Next Protocol = TCP (0x06)
+
+- ISAKMP Version = 0x10
+
+- ISAKMP Next Payload, Exchange Type, and Flags fields all have ranges of valid values
+- ISAKMP Length (header + payload) < 64k
+
+We have a similar keywordlmask pair for ISAKMP Version 9.9.
+
+3.3.2 (8) SESSIONIZING
+
+The TCP/ISAKMP packets would be sessionized by the following set of parameters:
+
+- IP Next Protocol 2 TCP (0x06)
+- lP Source Address
+
+- lP Destination Address
+
+- TCP Source Port
+
+- TCP Destination Port
+
+PAGE 13 OF 18
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+

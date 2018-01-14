@@ -1,0 +1,47 @@
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+3.0 (S) IKE SESSIONIZATION
+3.1 (U) IPIUDPIISAKMP
+
+3.1.1 (3) DETECTION
+
+The AEG loads the FSPF with the following keyword and mask pair for this protocol:
+
+keyword: 45 FF FF FF FF FF FF FF FF 11 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF ea 10 00 00 FF FF FF FF 00 00
+
+mask: FF oo oo oo oo oo oo oo 00 FF oo oo 00 ea 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+co co co co co co co co co co co co co co 99 so FF D8 F8 00 00 00 00 FF FF
+
+This indicates that the packets that satisfy the following parameters will be selected by this keyword for
+processing in the |KE_AEG:
+
+- IPv4 packet
+
+- IP Header Length = 5
+
+- IP Next Protocol = UDP (0x11)
+
+- ISAKMP Version = 0x10
+
+- ISAKMP Next Payload, Exchange Type, and Flags fields all have ranges of valid values
+- ISAKMP Length (header + payload) < 64k
+
+We have a similar keywordi’mask pair for ISAKMP Version 9.9.
+
+3.1.2 (3) SESSIONIZING
+
+The UDPIISAKMP packets would be sessionized by the following set of parameters:
+
+- IP Next Protocol = UDP (0x11)
+- IP Source Address
+
+- IP Destination Address
+
+- UDP Source Port
+
+- UDP Destination Port
+
+PAGE 9 OF 18
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+

@@ -1,0 +1,52 @@
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+ 
+
+IPITCPIISAKMP
+
+* we have separate keywords for
+ISAKMP Versions 1.0 and 9.9
+
+IP, TCP, ISAKMP
+
+IP Next Protocol = 6
+
+IP Source Address
+
+IP Destination Address
+TCP Source Port
+
+TCP Destination Port
+
+ 
+
+ 
+
+IPITCPI'nuIIslISAKMP
+
+* we have separate keywords for
+ISAKMP Versions 1.0 and 9.9
+
+ 
+
+IP, TCP, ISAKMP
+
+ 
+
+IP Next Protocol 2 6
+
+IP Source Address
+
+IP Destination Address
+TCP Source Port
+
+TCP Destination Port
+
+ 
+
+PAGE 18 OF 18
+
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+ 
+

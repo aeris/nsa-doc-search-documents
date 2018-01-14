@@ -1,0 +1,44 @@
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+keyword: 45 FF FF FF FF FF FF FF FF 95 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF
+FF FF FF FF FF FF FF FF FF FF FF @o @o @o 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 00
+19 so so FF FF FF FF so so
+
+mask: FF @o @o @o @o @o @o @o 00 FF @o @o @o oo 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+so so so so so so so so so so so FF FF FF FF so so 00 00 00 00 00 00 00 00 00 00 00 00 00 00 60
+FF D8 F8 00 @o @o 00 FF FF
+
+This indicates that the packets that satisfy the following parameters will be selected by this keyword for
+processing in the IKE_AEG:
+
+- IPv4 packet
+
+- lP Header Length = 5
+
+- lP Next Protocol 2 TCP (0x06)
+
+- 4 bytes of NULLS between the TCP and ISAKMP layers
+
+- ISAKMP Version = 0x10
+
+- ISAKMP Next Payload, Exchange Type, and Flags fields all have ranges of valid values
+- ISAKMP Length (header + payload) < 64k
+
+We have a similar keywordi’mask pair for ISAKMP Version 9.9.
+
+3.4.2 (3) SESSIONIZING
+
+The TCPInulls/lSAKMP packets would be sessionized by the following set of parameters:
+
+- lP Next Protocol = TCP (0x06)
+- lP Source Address
+
+- lP Destination Address
+
+- TCP Source Port
+
+- TCP Destination Port
+
+PAGE 15 OF 18
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+

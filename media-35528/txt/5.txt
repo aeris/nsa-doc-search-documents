@@ -1,0 +1,49 @@
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
+1.0 (U) SCOPE
+
+This document describes the sessionization requirements for the various lPSec VPN protocols processed
+in Turmoil. The list of lPSec protocol stacks of interest is shown here:
+
+' IP/ESP
+
+' IPIAH/ESP
+
+' IPIUDPIISAKMP
+
+' IP/UDPlnuIIs/ISAKMP
+' IPITCP/ISAKMP
+
+' IPITCP/nullsHSAKMP
+
+Currently, lP/ESP, lP/UDP, and lP/TCP are successfully sessionized by the PIP. Other lPSec stacks have
+been observed in the field, and we have requirements to process them in Turmoil. For completeness, all
+of the stacks are discussed in this document, even though some are currently being processed.
+
+2.0 (S) ESP SESSIONIZATION
+
+2.1 (5) IPIESP
+
+2.1.1 (3) DETECTION
+
+The AEG loads the FSPF with the following keyword and mask pair for this protocol:
+
+keyword: 45 FF FF FF FF FF FF FF FF 32 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF F5
+mask: FF oo oo oo oo oo oo oo 00 FF oo oo co so 00 00 00 00 00 00 00 00 00 00 00 00 00 @F
+
+This indicates that the packets that satisfy the following parameters will be selected by this keyword for
+processing in the ESP_AEG:
+
+- IPv4 packet
+
+- IP Header Length = 5
+
+- IP Next Protocol 2 ESP (0x32)
+- ESP Sequence Number = 5
+
+The ESP Sequence Number requirement implements a “sampling" function on the ESP, reducing the
+ESP traffic by a factor of 1116, to limit the ESP loading in the AEG.
+
+PAGE 5 OF 18
+TOP SECRETHCOMINTHREL TO USA, AUS, CAN, GBR, NZL1120291123
+
