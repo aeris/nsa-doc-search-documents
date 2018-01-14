@@ -1,0 +1,29 @@
+SECRET STRAP 1
+
+Project Scope & Objectives
+
+Users are moving their Internet access point from a
+fixed device to a mobile device. Mobile versions of
+common applications (for instance Facebook or Google
+maps) are not processed by our current capabilities.
+
+The Mobile Applications Project aims to deliver two
+capabmﬁes:
+
+- capability against mobile applications (on both mobile
+and core Internet networks)
+
+-target-centric converged analysis of Voice, Text, CZC
+and Geo data
+
+All types of phone and 08 present different challenges-
+'-,.|phone, Symbian, Android,Windows Mobile, etc.
+
+.. This information is exempt under the Freedom of Information Act 2000 (FOIA) and may be exempt under other UK information legislation. Refer any W \
+.FOIA queries to GCHQ on 01242 221491 X30306 or infoleg@gchq.gsi.gov.uk. © Crown Copyright. All rights reserved.
+- CCHQ
+
+   
+
+SECRET STRAP 1
+
