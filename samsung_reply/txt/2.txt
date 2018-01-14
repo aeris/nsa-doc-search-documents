@@ -1,0 +1,37 @@
+2. Is there any condition, or set of conditions, whereby components of your
+handsets would be subsequently activated after the user requests any of your
+handsets to be powered off, other than by the user requesting the phone to be
+powered on?
+=> There's no way to activate some components after requesting a device to
+be powered off.
+
+a. if some components do activate, can the command or set of commands to
+activate originate from within the handset hardware? N/A
+
+b. if some components do activate, can the command or set of commands to
+activate originate from within the handset's Operating System? N/A
+
+c. if some components do activate, can the command or set of commands to
+activate originate from a source external to the handset? N/A
+
+3. Do any of your handsets's transceivers remain active or become active after the
+user has requested the handset to be powered off without any further user
+interaction?
+
+=> No. All transceivers are turned off.
+
+4. Is there any other way of causing one of your handsets to emit a signal while
+the handset is powered off and without any further interaction from the user?
+=> No. There's no such way to emit a signal from powered off device.
+
+Should you have further questions, please revert back to me at your convenience.
+
+Best regards,
+
+Hyunjoon KIM
+Vice President
+Samsung Electronics,
+
+Mobile Communications Business,
+Planning Team
+

@@ -1,0 +1,43 @@
+@
+
+ELECTRONICS
+
+2 September 2013
+
+Dr. Richard Tynan
+
+Privacy International
+46 Bedford Row,
+London
+
+Dear Dr. Tynan,
+
+We received your mail sent to CEO Oh—Hyun Kwon regarding the questions on our
+handsets' technical function when powered off.
+
+In brief, without the power source it is not possible to transmit any signal, due to
+the components being inactive.
+Thus the powered off devices are not able to be tracked or monitored by any 3rd
+
+party.
+
+The device in the article you mentioned isn't actually powered off but it contains
+spyware which mimics the status of the battery being fully drained (such as turning
+off the LCD screen on the device). While this could mislead the user to think the
+device is powered down, the device still being tracked or monitored by leaving the
+transceivers active.
+
+Please see below our responses to your questions.
+
+1. When the user requests any of your handsets to be powered off, what
+components, if any remain activ i.e. consuming power?
+=> No component can remain active after powering off.
+
+a. If some components do remain active, what is the power source for these
+components i.e. capacitor, battery or power transmitted from an external
+source?
+=> There is only one power source : battery.
+
+A device can't be activated without battery even though TA(TraveI Adapter)
+is connected.
+
