@@ -1,0 +1,17 @@
+ 
+
+Data at a Larger Scale
+
+27704057147161 hdfs://r055v24:9000/in/asdf
+27827753336125 hdfs://r055v24:9000/in/fascia
+
+- Terabytes are available to query in the cloud,
+not always available in corporate databases
+
+- Real value comes in being able to correlate
+and enrich with multiple types of data
+
+TOP SECRET/ICOMINT/INOFORN
+
+ 
+
